@@ -1,0 +1,14 @@
+#Java Files
+/out/
+*.class
+
+#IntelliJ Files
+/.idea/
+*.iml
+
+#BlueJ Files
+*.ctxt
+*.bluej
+*.pkh
+
+
