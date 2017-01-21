@@ -1,16 +1,50 @@
 public class WatsonRank {
-	public static String solrClusterId = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
-	public static String username = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
-	public static String password = "VcUAcwnPzwvp";
+	public String solrClusterId = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
+	public String username = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
+	public String password = "VcUAcwnPzwvp";
+	private RetrieveAndRank service = new RetrieveAndRank();
+
+public WatsonRank ()
+{
+
+}
 
 public boolean uploadJson (String filePath)
 {
-String url = "https://gateway.watsonplatform.net/retrieve-and-rank/api/v1/solr_clusters/"+ solrClusterId +"/solr/example_collection/update";
-String request = " -X POST -H \"Content-Type: application/json\" -u \"" + username + "\":\"" + password + "\" \"" + url + "\" --data-binary @" + filePath;
+	
+	service.setUsernameAndPassword(username, password);
 
-curl(request);
+	CollectionAdminRequest.Create createCollectionRequest =  new CollectionAdminRequest.Create();
+	createCollectionRequest.setCollectionName("example_collection");
+	createCollectionRequest.setConfigName("example_config");
+
+	System.out.println("Creating collection...");
+	CollectionAdminResponse response = createCollectionRequest.process(solrClient);
+    if (!response.isSuccess()) {
+      System.out.println(response.getErrorMessages());
+      throw new IllegalStateException("Failed to create collection: "
+          + response.getErrorMessages().toString());
+    }
+	System.out.println("Collection created.");
+	System.out.println(response);
+}
+
+public ___ rankWatson()
+{
+
 
 }
+
+public void getClusters()
+{
+	RetrieveAndRank service = new RetrieveAndRank();
+	service.setUsernameAndPassword(username, password);
+
+	SolrClusterList clusters = service.getSolrClusters();
+	System.out.println(clusters);
+}
+
+
 
 public static String curl(String request) {
 		String output = "";
