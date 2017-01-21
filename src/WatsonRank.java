@@ -1,14 +1,35 @@
 public class WatsonRank {
-	public String solrClusterId = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
-	public String username = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
-	public String password = "VcUAcwnPzwvp";
-	public String configName = "example_config";
-	public String collectionName = "example_collection";
-	private RetrieveAndRank service = new RetrieveAndRank();
+	public static String solrClusterId = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
+	public static String username = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
+	public static String password = "VcUAcwnPzwvp";
+	public static String configName = "example_config";
+	public static String collectionName = "example_collection";
+	private static RetrieveAndRank service = new RetrieveAndRank();
+	private static HttpSolrClient solrClient;
 
 public WatsonRank ()
 {
 	service.setUsernameAndPassword(username, password);
+}
+
+private static HttpSolrClient getSolrClient(String uri, String username, String password) {
+    return new HttpSolrClient(service.getSolrUrl(solrClusterId), createHttpClient(uri, username, password));
+}
+
+private static HttpClient createHttpClient(String uri, String username, String password) {
+    final URI scopeUri = URI.create(uri);
+
+    final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
+    credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
+        new UsernamePasswordCredentials("{username}", "{password}"));
+
+    final HttpClientBuilder builder = HttpClientBuilder.create()
+        .setMaxConnTotal(128)
+        .setMaxConnPerRoute(32)
+        .setDefaultRequestConfig(RequestConfig.copy(RequestConfig.DEFAULT).setRedirectsEnabled(true).build())
+        .setDefaultCredentialsProvider(credentialsProvider)
+        .addInterceptorFirst(new PreemptiveAuthInterceptor());
+    return builder.build();
 }
 
 public boolean createCollection()
@@ -51,17 +72,9 @@ public boolean uploadData(String title, String author, String body, String url, 
 	System.out.println("Indexed and committed document.");
 }
 
-public ___ rankWatson()
-{
-
-
-}
 
 public void getClusters()
 {
-	RetrieveAndRank service = new RetrieveAndRank();
-	service.setUsernameAndPassword(username, password);
-
 	SolrClusterList clusters = service.getSolrClusters();
 	System.out.println(clusters);
 }
