@@ -14,7 +14,6 @@ import org.apache.http.client.config.*;
 import org.apache.solr.client.solrj.request.*;
 import org.apache.solr.client.solrj.response.*;
 import org.apache.solr.client.solrj.*;
-import org.apache.camel.component.http4.*;
 
 
 public class WatsonRank {
@@ -74,7 +73,7 @@ public class WatsonRank {
     }
 
     public void createRanker() {
-        Ranker ranker = service.createRanker("ranker1", "./training_data.csv");
+        Ranker ranker = service.createRanker("ranker1", new File("./training_data.csv"));
         System.out.println(ranker);
     }
 //</create>
