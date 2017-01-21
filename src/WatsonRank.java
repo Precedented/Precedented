@@ -8,10 +8,17 @@ import org.apache.solr.client.solrj.impl.*;
 import org.apache.http.client.*;
 import org.apache.http.impl.client.*;
 import org.apache.http.auth.*;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.solr.common.*;
+import org.apache.http.client.config.*;
+import org.apache.solr.client.solrj.request.*;
+import org.apache.solr.client.solrj.response.*;
+import org.apache.solr.client.solrj.*;
+import org.apache.camel.component.http4.*;
 
 
 public class WatsonRank {
-    //<declration>
+    //<declaration>
     public static final String SOLR_CLUSTER_ID = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
     public static final String RANKER_ID = "76643bx23-rank-3206";
     public static final String USERNAME = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
@@ -81,11 +88,11 @@ public class WatsonRank {
 
     public boolean uploadData(String title, String author, String body, String url, int n) {
         SolrInputDocument newdoc = new SolrInputDocument();
-        document.addField("id", n);
-        document.addField("author", author);
-        document.addField("url", url);
-        document.addField("body", body);
-        document.addField("title", title);
+        newdoc.addField("id", n);
+        newdoc.addField("author", author);
+        newdoc.addField("url", url);
+        newdoc.addField("body", body);
+        newdoc.addField("title", title);
 
         System.out.println("Indexing document...");
         UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
@@ -98,12 +105,12 @@ public class WatsonRank {
 //</upload>
 
     //<functions>
-    public QueryResponse queryWatson(String query) {
+    public QueryResponse queryWatson(String question) {
         service = new RetrieveAndRank();
         service.setUsernameAndPassword(USERNAME, PASSWORD);
         solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
         SolrQuery query = new SolrQuery("*:*");
-        QueryResponse response = solrClient.query("example_collection", query);
+        QueryResponse response = solrClient.query("example_collection", question);
         System.out.println(response);
     }
 //</functions>
@@ -111,8 +118,7 @@ public class WatsonRank {
 
     //<gets>
     public void getClusters() {
-        SolrClusterList clusters = service.getSolrClusters();
-        System.out.println(clusters);
+        System.out.println(service.getSolrClusters());
     }
 
     public void getConfigs() {
