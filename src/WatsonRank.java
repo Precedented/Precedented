@@ -1,19 +1,27 @@
 public class WatsonRank {
-	public static String solrClusterId = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
-	public static String username = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
-	public static String password = "VcUAcwnPzwvp";
+
+
+//<declration>
+	public static final String SOLR_CLUSTER_ID = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
+	public static final String USERNAME = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
+	public static final String PASSWORD = "VcUAcwnPzwvp";
 	public static String configName = "example_config";
 	public static String collectionName = "example_collection";
+	public static String rankerName = "ranker1";
 	private static RetrieveAndRank service = new RetrieveAndRank();
 	private static HttpSolrClient solrClient;
+//</declration>
 
+
+
+//<construction>
 public WatsonRank ()
 {
-	service.setUsernameAndPassword(username, password);
+	service.setUsernameAndPassword(USERNAME, PASSWORD);
 }
 
 private static HttpSolrClient getSolrClient(String uri, String username, String password) {
-    return new HttpSolrClient(service.getSolrUrl(solrClusterId), createHttpClient(uri, username, password));
+    return new HttpSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), createHttpClient(uri, username, password));
 }
 
 private static HttpClient createHttpClient(String uri, String username, String password) {
@@ -21,7 +29,7 @@ private static HttpClient createHttpClient(String uri, String username, String p
 
     final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
     credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
-        new UsernamePasswordCredentials("{username}", "{password}"));
+        new UsernamePasswordCredentials(USERNAME, PASSWORD));
 
     final HttpClientBuilder builder = HttpClientBuilder.create()
         .setMaxConnTotal(128)
@@ -31,8 +39,10 @@ private static HttpClient createHttpClient(String uri, String username, String p
         .addInterceptorFirst(new PreemptiveAuthInterceptor());
     return builder.build();
 }
+//</construction>
 
-public boolean createCollection()
+//<create>
+public void createCollection()
 {
 	CollectionAdminRequest.Create createCollectionRequest =  new CollectionAdminRequest.Create();
 	createCollectionRequest.setCollectionName("example_collection");
@@ -48,10 +58,19 @@ public boolean createCollection()
 	System.out.println(response);
 }
 
+public void createRanker ()
+{
+	Ranker ranker = service.createRanker("ranker1", "./training_data.csv");
+	System.out.println(ranker);
+}
+//</create>
+
+
+//<upload>
 public boolean uploadConfig(String filePath, String newConfigName)
 {
 	File configZip = new File(filePath);
-	service.uploadSolrClusterConfigurationZip(solrClusterId, newConfigName, configZip);
+	service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
 }
 
 public boolean uploadData(String title, String author, String body, String url, int n)
@@ -71,8 +90,22 @@ public boolean uploadData(String title, String author, String body, String url, 
 	solrClient.commit(collectionName);
 	System.out.println("Indexed and committed document.");
 }
+//</upload>
+
+//<functions>
+public QueryResponse queryWatson (String query)
+{
+	service = new RetrieveAndRank();
+	service.setUsernameAndPassword(USERNAME, PASSWORD);
+	solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
+	SolrQuery query = new SolrQuery("*:*");
+	QueryResponse response = solrClient.query("example_collection", query);
+	System.out.println(response);
+}
+//</functions>
 
 
+//<gets>
 public void getClusters()
 {
 	SolrClusterList clusters = service.getSolrClusters();
@@ -80,5 +113,6 @@ public void getClusters()
 }
 public void getConfigs()
 {
-	System.out.println(service.getSolrClusterConfigurations(solrClusterId));
+	System.out.println(service.getSolrClusterConfigurations(SOLR_CLUSTER_ID));
 }
+//</gets>
