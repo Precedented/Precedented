@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.0041" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Agency” has the same meaning as in s. 216.011(1)(qq), except that for purposes of this chapter, “agency” does not include university boards of trustees or state universities.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Agency for Enterprise Information Technology” means the agency created in s. 14.204.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Agency information technology service” means a service that directly helps an agency fulfill its statutory or constitutional responsibilities and policy objectives and is usually associated with the agency’s primary or core business functions.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Annual budget meeting” means a meeting of the board of trustees of a primary data center to review data center usage to determine the apportionment of board members for the following fiscal year, review rates for each service provided, and determine any other required changes.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Breach” has the same meaning as in s. 817.5681(4).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Business continuity plan” means a plan for disaster recovery which provides for the continued functioning of a primary data center during and after a disaster.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Computing facility” means agency space containing fewer than a total of 10 physical or logical servers, any of which supports a strategic or nonstrategic information technology service, as described in budget instructions developed pursuant to s. 216.023, but excluding single, logical-server installations that exclusively perform a utility function such as file and print servers.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Customer entity” means an entity that obtains services from a primary data center.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Data center” means agency space containing 10 or more physical or logical servers any of which supports a strategic or nonstrategic information technology service, as described in budget instructions developed pursuant to s. 216.023.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Management Services.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Enterprise information technology service” means an information technology service that is used in all agencies or a subset of agencies and is established in law to be designed, delivered, and managed at the enterprise level.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“E-mail, messaging, and calendaring service” means the enterprise information technology service that enables users to send, receive, file, store, manage, and retrieve electronic messages, attachments, appointments, and addresses. The e-mail, messaging, and calendaring service must include e-mail account management; help desk; technical support and user provisioning services; disaster recovery and backup and restore capabilities; antispam and antivirus capabilities; archiving and e-discovery; and remote access and mobile messaging capabilities.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Information-system utility” means a full-service information-processing facility offering hardware, software, operations, integration, networking, and consulting services.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Information technology” means equipment, hardware, software, firmware, programs, systems, networks, infrastructure, media, and related material used to automatically, electronically, and wirelessly collect, receive, access, transmit, display, store, record, retrieve, analyze, evaluate, process, classify, manipulate, manage, assimilate, control, communicate, exchange, convert, converge, interface, switch, or disseminate information of any kind or form.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Information technology policy” means statements that describe clear choices for how information technology will deliver effective and efficient government services to residents and improve state agency operations. A policy may relate to investments, business applications, architecture, or infrastructure. A policy describes its rationale, implications of compliance or noncompliance, the timeline for implementation, metrics for determining compliance, and the accountable structure responsible for its implementation.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Performance metrics” means the measures of an organization’s activities and performance.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Primary data center” means a data center that is a recipient entity for consolidation of nonprimary data centers and computing facilities and that is established by law.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Project” means an endeavor that has a defined start and end point; is undertaken to create or modify a unique product, service, or result; and has specific objectives that, when attained, signify completion.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Risk analysis” means the process of identifying security risks, determining their magnitude, and identifying areas needing safeguards.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Service level” means the key performance indicators (KPI) of an organization or service which must be regularly performed, monitored, and achieved.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Service-level agreement” means a written contract between a data center and a customer entity which specifies the scope of services provided, service level, the duration of the agreement, the responsible parties, and service costs. A service-level agreement is not a rule pursuant to chapter 120.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Standards” means required practices, controls, components, or configurations established by an authority.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“SUNCOM Network” means the state enterprise telecommunications system that provides all methods of electronic or optical telecommunications beyond a single building or contiguous building complex and used by entities authorized as network users under this part.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Telecommunications” means the science and technology of communication at a distance, including electronic systems used in the transmission or reception of information.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Threat” means any circumstance or event that may cause harm to the integrity, availability, or confidentiality of information technology resources.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Total cost” means all costs associated with information technology projects or initiatives, including, but not limited to, value of hardware, software, service, maintenance, incremental personnel, and facilities. Total cost of a loan or gift of information technology resources to an agency includes the fair market value of the resources.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Usage” means the billing amount charged by the primary data center, less any pass-through charges, to the customer entity.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Usage rate” means a customer entity’s usage or billing amount as a percentage of total usage.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 3, 11, ch. 83-92; s. 17, ch. 87-137; ss. 10, 11, ch. 90-160; s. 4, ch. 91-171; s. 10, ch. 91-221; s. 5, ch. 91-429; s. 3, ch. 92-98; s. 95, ch. 92-142; s. 14, ch. 94-226; s. 11, ch. 94-340; s. 9, ch. 97-286; s. 16, ch. 2000-164; s. 51, ch. 2001-61; s. 10, ch. 2001-261; s. 4, ch. 2007-105; s. 5, ch. 2008-116; s. 6, ch. 2009-80; s. 5, ch. 2010-78; s. 9, ch. 2010-148; s. 3, ch. 2011-50.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 282.303.</Text>
+	</Note>
+</Section>

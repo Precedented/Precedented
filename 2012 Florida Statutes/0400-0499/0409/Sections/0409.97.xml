@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.97" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State and local Medicaid partnerships.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INTERGOVERNMENTAL TRANSFERS.<EmDash />In addition to the contributions required pursuant to s. 409.915, beginning in the 2014-2015 fiscal year, the agency may accept voluntary transfers of local taxes and other qualified revenue from counties, municipalities, and special taxing districts. Such transfers must be contributed to advance the general goals of the Florida Medicaid program without restriction and must be executed pursuant to a contract between the agency and the local funding source. Contracts executed before October 31 shall result in contributions to Medicaid for that same state fiscal year. Contracts executed between November 1 and June 30 shall result in contributions for the following state fiscal year. Based on the date of the signed contracts, the agency shall allocate to the low-income pool the first contributions received up to the limit established by subsection (2). No more than 40 percent of the low-income pool funding shall come from any single funding source. Contributions in excess of the low-income pool shall be allocated to the disproportionate share programs defined in ss. 409.911(3) and 409.9113 and to hospital rates pursuant to subsection (4). The local funding source shall designate in the contract which Medicaid providers ensure access to care for low-income and uninsured people within the applicable jurisdiction and are eligible for low-income pool funding. Eligible providers may include hospitals, primary care providers, and primary care access systems.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LOW-INCOME POOL.<EmDash />The agency shall establish and maintain a low-income pool in a manner authorized by federal waiver. The low-income pool is created to compensate a network of providers designated pursuant to subsection (1). Funding of the low-income pool shall be limited to the maximum amount permitted by federal waiver minus a percentage specified in the General Appropriations Act. The low-income pool must be used to support enhanced access to services by offsetting shortfalls in Medicaid reimbursement, paying for otherwise uncompensated care, and financing coverage for the uninsured. The low-income pool shall be distributed in periodic payments to the Access to Care Partnership throughout the fiscal year. Distribution of low-income pool funds by the Access to Care Partnership to participating providers may be made through capitated payments, fees for services, or contracts for specific deliverables. The agency shall include the distribution amount for each provider in the contract with the Access to Care Partnership pursuant to subsection (3). Regardless of the method of distribution, providers participating in the Access to Care Partnership shall receive payments such that the aggregate benefit in the jurisdiction of each local funding source, as defined in subsection (1), equals the amount of the contribution plus a factor specified in the General Appropriations Act.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">ACCESS TO CARE PARTNERSHIP.<EmDash />The agency shall contract with an administrative services organization that has operating agreements with all health care facilities, programs, and providers supported with local taxes or certified public expenditures and designated pursuant to subsection (1). The contract shall provide for enhanced access to care for Medicaid, low-income, and uninsured Floridians. The partnership shall be responsible for an ongoing program of activities that provides needed, but uncovered or undercompensated, health services to Medicaid enrollees and persons receiving charity care, as defined in s. 409.911. Accountability for services rendered under this contract must be based on the number of services provided to unduplicated qualified beneficiaries, the total units of service provided to these persons, and the effectiveness of services provided as measured by specific standards of care. The agency shall seek such plan amendments or waivers as may be necessary to authorize the implementation of the low-income pool as the Access to Care Partnership pursuant to this section.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">HOSPITAL RATE DISTRIBUTION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency is authorized to implement a tiered hospital rate system to enhance Medicaid payments to all hospitals when resources for the tiered rates are available from general revenue and such contributions pursuant to subsection (1) as are authorized under the General Appropriations Act.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Tier 1 hospitals are statutory rural hospitals as defined in s. 395.602, statutory teaching hospitals as defined in s. 408.07(45), and specialty children’s hospitals as defined in s. 395.002(28).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Tier 2 hospitals are community hospitals not included in Tier 1 that provided more than 9 percent of the hospital’s total inpatient days to Medicaid patients and charity patients, as defined in s. 409.911, and are located in the jurisdiction of a local funding source pursuant to subsection (1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Tier 3 hospitals include all community hospitals.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When rates are increased pursuant to this section, the Total Tier Allocation (TTA) shall be distributed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Tier 1 (T1A) = 0.35 x TTA.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Tier 2 (T2A) = 0.35 x TTA.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Tier 3 (T3A) = 0.30 x TTA.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The tier allocation shall be distributed as a percentage increase to the hospital specific base rate (HSBR) established pursuant to s. 409.905(5)(c). The increase in each tier shall be calculated according to the proportion of tier-specific allocation to the total estimated inpatient spending (TEIS) for all hospitals in each tier:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Tier 1 percent increase (T1PI) = T1A/Tier 1 total estimated inpatient spending (T1TEIS).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Tier 2 percent increase (T2PI) = T2A /Tier 2 total estimated inpatient spending (T2TEIS).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Tier 3 percent increase (T3PI) = T3A/ Tier 3 total estimated inpatient spending (T3TEIS).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The hospital-specific tiered rate (HSTR) shall be calculated as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For hospitals in Tier 3: HSTR = (1 + T3PI) x HSBR.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For hospitals in Tier 2: HSTR = (1 + T2PI) x HSBR.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For hospitals in Tier 1: HSTR = (1 + T1PI) x HSBR.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2011-134.</History>
+</Section>

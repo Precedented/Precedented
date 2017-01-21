@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0817.60" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Theft; obtaining credit card through fraudulent means.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">THEFT BY TAKING OR RETAINING POSSESSION OF CARD TAKEN.<EmDash />A person who takes a credit card from the person, possession, custody, or control of another without the cardholder’s consent or who, with knowledge that it has been so taken, receives the credit card with intent to use it, to sell it, or to transfer it to a person other than the issuer or the cardholder is guilty of credit card theft and is subject to the penalties set forth in s. 817.67(1). Taking a credit card without consent includes obtaining it by conduct defined or known as statutory larceny, common-law larceny by trespassory taking, common-law larceny by trick or embezzlement or obtaining property by false pretense, false promise or extortion.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">THEFT OF CREDIT CARD LOST, MISLAID, OR DELIVERED BY MISTAKE.<EmDash />A person who receives a credit card that he or she knows to have been lost, mislaid, or delivered under a mistake as to the identity or address of the cardholder and who retains possession with intent to use it, to sell it, or to transfer it to a person other than the issuer or the cardholder is guilty of credit card theft and is subject to the penalties set forth in s. 817.67(1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PURCHASE OR SALE OF CREDIT CARD OF ANOTHER.<EmDash />A person other than the issuer who sells a credit card or a person who buys a credit card from a person other than the issuer violates this subsection and is subject to the penalties set forth in s. 817.67(1).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">OBTAINING CONTROL OF CREDIT CARD AS SECURITY FOR DEBT.<EmDash />A person who, with intent to defraud the issuer, a person or organization providing money, goods, services, or anything else of value, or any other person, obtains control over a credit card as security for a debt violates this subsection and is subject to the penalties set forth in s. 817.67(1).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">DEALING IN CREDIT CARDS OF ANOTHER.<EmDash />A person other than the issuer who, during any 12-month period, receives two or more credit cards issued in the name or names of different cardholders, which cards he or she has reason to know were taken or retained under circumstances which constitute credit card theft or a violation of this part, violates this subsection and is subject to the penalties set forth in s. 817.67(2).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">FORGERY OF CREDIT CARD.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person who, with intent to defraud a purported issuer or a person or organization providing money, goods, services, or anything else of value or any other person, falsely makes, falsely embosses, or falsely alters in any manner a credit card or utters such a credit card or who, with intent to defraud, has a counterfeit credit card or any invoice, voucher, sales draft, or other representation or manifestation of a counterfeit credit card in his or her possession, custody, or control is guilty of credit card forgery and is subject to the penalties set forth in s. 817.67(2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person other than an authorized manufacturer or issuer who possesses two or more counterfeit credit cards is presumed to have violated this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person falsely makes a credit card when he or she makes or draws in whole or in part a device or instrument which purports to be the credit card of a named issuer but which is not such a credit card because the issuer did not authorize the making or drawing or when he or she alters a credit card which was validly issued.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person falsely embosses a credit card when, without the authorization of the named issuer, he or she completes a credit card by adding any of the matter, other than the signature of the cardholder, which an issuer requires to appear on the credit card before it can be used by a cardholder.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">SIGNING CREDIT CARD OF ANOTHER.<EmDash />A person other than the cardholder or a person authorized by him or her who, with intent to defraud the issuer or a person or organization providing money, goods, services, or anything else of value or any other person, signs a credit card violates this subsection and is subject to the penalties set forth in s. 817.67(1).</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">UNLAWFUL POSSESSION OF A STOLEN CREDIT OR DEBIT CARD.<EmDash />A person who knowingly possesses, receives, or retains custody of a credit or debit card that has been taken from the possession, custody, or control of another without the cardholder’s consent and with the intent to impede the recovery of the credit or debit card by the cardholder commits unlawful possession of a stolen credit or debit card and is subject to the penalties set forth in s. 817.67(2). It is not a violation of this subsection for a retailer or retail employee, in the ordinary course of business, to possess, receive, or return a credit card or debit card that the retailer or retail employee does not know was stolen or to possess, receive, or retain a credit card or debit card that the retailer or retail employee knows is stolen for the purpose of an investigation into the circumstances regarding the theft of the card or its possible unlawful use.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 67-340; s. 3, ch. 84-297; s. 2, ch. 85-43; s. 69, ch. 85-62; s. 1269, ch. 97-102; s. 1, ch. 2011-184.</History>
+</Section>

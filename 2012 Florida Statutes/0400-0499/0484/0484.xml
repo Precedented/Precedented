@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXII">
+  <ChapterNumber>484</ChapterNumber>
+  <ChapterName xml:space="preserve">Dispensing of optical devices and hearing aids</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Preparing and dispensing of<NewLine />eyeglasses and other optical devices</PartTitle>
+    <Section Number="0484.001" />
+    <Section Number="0484.002" />
+    <Section Number="0484.003" />
+    <Section Number="0484.004" />
+    <Section Number="0484.005" />
+    <Section Number="0484.006" />
+    <Section Number="0484.007" />
+    <Section Number="0484.008" />
+    <Section Number="0484.009" />
+    <Section Number="0484.011" />
+    <Section Number="0484.012" />
+    <Section Number="0484.013" />
+    <Section Number="0484.014" />
+    <Section Number="0484.015" />
+    <Section Number="0484.017" />
+    <Section Number="0484.018" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Fitting and dispensing of hearing aids</PartTitle>
+    <Section Number="0484.0401" />
+    <Section Number="0484.041" />
+    <Section Number="0484.042" />
+    <Section Number="0484.043" />
+    <Section Number="0484.044" />
+    <Section Number="0484.0445" />
+    <Section Number="0484.0447" />
+    <Section Number="0484.045" />
+    <Section Number="0484.047" />
+    <Section Number="0484.0501" />
+    <Section Number="0484.051" />
+    <Section Number="0484.0512" />
+    <Section Number="0484.0513" />
+    <Section Number="0484.053" />
+    <Section Number="0484.054" />
+    <Section Number="0484.056" />
+    <Section Number="0484.058" />
+    <Section Number="0484.059" />
+  </Part>
+</Chapter>

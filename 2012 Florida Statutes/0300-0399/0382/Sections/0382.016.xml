@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0382.016" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Amendment of records.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The department, upon receipt of the fee prescribed in s. 382.0255; documentary evidence, as specified by rule, of any misstatement, error, or omission occurring in any birth, death, or fetal death record; and an affidavit setting forth the changes to be made, shall amend or replace the original certificate as necessary.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATE OF LIVE BIRTH AMENDMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Until a child’s first birthday, the child’s given name or surname may be amended upon receipt of the fees prescribed in s. 382.0255 and an affidavit signed by each parent named on the original birth certificate or by the registrant’s guardian. If both parents are named on the certificate but both are not willing or available to sign the affidavit, the registrant’s name may only be amended by court order.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon written request and receipt of an affidavit, a notarized voluntary acknowledgment of paternity signed by the mother and father acknowledging the paternity of a registrant born out of wedlock, or a voluntary acknowledgment of paternity that is witnessed by two individuals and signed under penalty of perjury as specified by s. 92.525(2), together with sufficient information to identify the original certificate of live birth, the department shall prepare a new birth certificate, which shall bear the same file number as the original birth certificate. The names and identifying information of the parents shall be entered as of the date of the registrant’s birth. The surname of the registrant may be changed from that shown on the original birth certificate at the request of the mother and father of the registrant, or the registrant if of legal age. If the mother and father marry each other at any time after the registrant’s birth, the department shall, upon receipt of a marriage license that identifies the registrant, or upon the request of the mother and father or registrant if of legal age and proof of the marriage, amend the certificate with regard to the parents’ marital status as though the parents were married at the time of birth. The department shall substitute the new certificate of birth for the original certificate on file. All copies of the original certificate of live birth in the custody of a local registrar or other state custodian of vital records shall be forwarded to the State Registrar. Thereafter, when a certified copy of the certificate of birth or portion thereof is issued, it shall be a copy of the new certificate of birth or portion thereof, except when a court order requires issuance of a certified copy of the original certificate of birth. Except for a birth certificate on which a father is listed pursuant to an affidavit, a notarized voluntary acknowledgment of paternity signed by the mother and father acknowledging the paternity of a registrant born out of wedlock, or a voluntary acknowledgment of paternity that is witnessed by two individuals and signed under penalty of perjury as specified by s. 92.525(2), the department shall place the original certificate of birth and all papers pertaining thereto under seal, not to be broken except by order of a court of competent jurisdiction or as otherwise provided by law.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a father’s name is listed on the birth certificate, the birth certificate may only be amended to remove the father’s name or to add a different father’s name upon court order. If a change in the registrant’s surname is also desired, such change must be included in the court order or the name must be changed pursuant to s. 68.07.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For a child born in this state whose paternity is established in another state, the department shall amend the child’s birth certificate to include the name of the father upon receipt of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A certified copy of an acknowledgment of paternity, final judgment, or judicial or administrative order from another state that determines the child’s paternity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A noncertified copy of an acknowledgment of paternity, final judgment, or judicial or administrative order from another state that determines the child’s paternity when provided with an affidavit or written declaration from the Department of Revenue that states the document was provided by or obtained from another state’s Title IV-D program.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The department may not amend a child’s birth certificate to include the name of the child’s father if paternity was established by adoption and the father <Reference Number="1" />would not be eligible to adopt under the laws of this state.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The Department of Revenue shall develop written educational materials for use and distribution by the Department of Children and Family Services, Department of Corrections, Department of Education, Department of Health, and Department of Juvenile Justice that describe how paternity is established and the benefits of establishing paternity. The Department of Children and Family Services, Department of Corrections, Department of Education, Department of Health, and Department of Juvenile Justice shall make the materials available to individuals to whom services are provided and are encouraged to provide additional education on how paternity is established and the benefits of establishing paternity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATE OF DEATH AMENDMENTS.<EmDash />Except for a misspelling or an omission on a death certificate with regard to the name of the surviving spouse, the department may not change the name of a surviving spouse on the certificate except by order of a court of competent jurisdiction.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, ch. 24114, 1947; s. 120, ch. 77-147; s. 14, ch. 87-387; s. 99, ch. 97-237; s. 19, ch. 99-397; s. 11, ch. 2001-53; s. 3, ch. 2004-34; s. 9, ch. 2004-334; ss. 17, 18, 19, ch. 2005-39; ss. 6, 7, ch. 2005-82; s. 5, ch. 2010-187.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As enacted by s. 18, ch. 2005-39. The s. 7, ch. 2005-82, version used “is not eligible” instead of “would not be eligible.”</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 382.49.</Text>
+	</Note>
+</Section>

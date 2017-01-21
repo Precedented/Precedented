@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.640" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Enforcement.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The enforcement of the traffic laws of this state is vested as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">STATE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The Division of Florida Highway Patrol of the Department of Highway Safety and Motor Vehicles; the Division of Law Enforcement of the Fish and Wildlife Conservation Commission; and the agents, inspectors, and officers of the Department of Law Enforcement each have authority to enforce all of the traffic laws of this state on all the streets and highways thereof and elsewhere throughout the state wherever the public has a right to travel by motor vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">University police officers may enforce all of the traffic laws of this state when violations occur on or within 1,000 feet of any property or facilities that are under the guidance, supervision, regulation, or control of a state university, a direct-support organization of such state university, or any other organization controlled by the state university or a direct-support organization of the state university, or when such violations occur within a specified jurisdictional area as agreed upon in a mutual aid agreement entered into with a law enforcement agency pursuant to s. 23.1225(1). Traffic laws may also be enforced off-campus when hot pursuit originates on or within 1,000 feet of any such property or facilities, or as agreed upon in accordance with the mutual aid agreement.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Community college police officers may enforce all the traffic laws of this state only when such violations occur on any property or facilities that are under the guidance, supervision, regulation, or control of the community college system.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Police officers employed by an airport authority may enforce all of the traffic laws of this state only when such violations occur on any property or facilities that are owned or operated by an airport authority.</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">An airport authority may employ as a parking enforcement specialist any individual who successfully completes a training program established and approved by the Criminal Justice Standards and Training Commission for parking enforcement specialists but who does not otherwise meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary or part-time officers under s. 943.12. This sub-sub-subparagraph may not be construed to permit the carrying of firearms or other weapons, nor shall such parking enforcement specialist have arrest authority.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A parking enforcement specialist employed by an airport authority may enforce all state, county, and municipal laws and ordinances governing parking only when such violations are on property or facilities owned or operated by the airport authority employing the specialist, by appropriate state, county, or municipal traffic citation.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The Office of Agricultural Law Enforcement of the Department of Agriculture and Consumer Services may enforce traffic laws of this state.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">School safety officers may enforce all of the traffic laws of this state when such violations occur on or about any property or facilities that are under the guidance, supervision, regulation, or control of the district school board.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An agency of the state as described in subparagraph 1. is prohibited from establishing a traffic citation quota. A violation of this subparagraph is not subject to the penalties provided in chapter 318.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any disciplinary action taken or performance evaluation conducted by an agency of the state as described in subparagraph 1. of a law enforcement officer’s traffic enforcement activity must be in accordance with written work-performance standards. Such standards must be approved by the agency and any collective bargaining unit representing such law enforcement officer. A violation of this subparagraph is not subject to the penalties provided in chapter 318.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Division of the Florida Highway Patrol may employ as a traffic accident investigation officer any individual who successfully completes instruction in traffic accident investigation and court presentation through the Selective Traffic Enforcement Program as approved by the Criminal Justice Standards and Training Commission and funded through the National Highway Traffic Safety Administration or a similar program approved by the commission, but who does not necessarily meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary law enforcement officers under chapter 943. Any such traffic accident investigation officer who makes an investigation at the scene of a traffic accident may issue traffic citations, based upon personal investigation, when he or she has reasonable and probable grounds to believe that a person who was involved in the accident committed an offense under this chapter, chapter 319, chapter 320, or chapter 322 in connection with the accident. This subparagraph does not permit the officer to carry firearms or other weapons, and such an officer does not have authority to make arrests.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Department of Transportation has authority to enforce on all the streets and highways of this state all laws applicable within its authority.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The Department of Transportation shall develop training and qualifications standards for toll enforcement officers whose sole authority is to enforce the payment of tolls pursuant to s. 316.1001. Nothing in this subparagraph shall be construed to permit the carrying of firearms or other weapons, nor shall a toll enforcement officer have arrest authority.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For the purpose of enforcing s. 316.1001, governmental entities, as defined in s. 334.03, which own or operate a toll facility may employ independent contractors or designate employees as toll enforcement officers; however, any such toll enforcement officer must successfully meet the training and qualifications standards for toll enforcement officers established by the Department of Transportation.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For the purpose of enforcing s. 316.0083, the department may designate employees as traffic infraction enforcement officers. A traffic infraction enforcement officer must successfully complete instruction in traffic enforcement procedures and court presentation through the Selective Traffic Enforcement Program as approved by the Division of Criminal Justice Standards and Training of the Department of Law Enforcement, or through a similar program, but may not necessarily otherwise meet the uniform minimum standards established by the Criminal Justice Standards and Training Commission for law enforcement officers or auxiliary law enforcement officers under s. 943.13. This subparagraph does not authorize the carrying of firearms or other weapons by a traffic infraction enforcement officer and does not authorize a traffic infraction enforcement officer to make arrests. The department’s traffic infraction enforcement officers must be physically located in the state.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">COUNTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The sheriff’s office of each of the several counties of this state shall enforce all of the traffic laws of this state on all the streets and highways thereof and elsewhere throughout the county wherever the public has the right to travel by motor vehicle. In addition, the sheriff’s office may be required by the county to enforce the traffic laws of this state on any private or limited access road or roads over which the county has jurisdiction pursuant to a written agreement entered into under s. 316.006(3)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The sheriff’s office of each county may employ as a traffic crash investigation officer any individual who successfully completes instruction in traffic crash investigation and court presentation through the Selective Traffic Enforcement Program (STEP) as approved by the Criminal Justice Standards and Training Commission and funded through the National Highway Traffic Safety Administration (NHTSA) or a similar program approved by the commission, but who does not necessarily otherwise meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary law enforcement officers under chapter 943. Any such traffic crash investigation officer who makes an investigation at the scene of a traffic crash may issue traffic citations when, based upon personal investigation, he or she has reasonable and probable grounds to believe that a person who was involved in the crash has committed an offense under this chapter, chapter 319, chapter 320, or chapter 322 in connection with the crash. This paragraph does not permit the carrying of firearms or other weapons, nor do such officers have arrest authority.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The sheriff’s office of each of the several counties of this state may employ as a parking enforcement specialist any individual who successfully completes a training program established and approved by the Criminal Justice Standards and Training Commission for parking enforcement specialists, but who does not necessarily otherwise meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary or part-time officers under s. 943.12.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A parking enforcement specialist employed by the sheriff’s office of each of the several counties of this state is authorized to enforce all state and county laws, ordinances, regulations, and official signs governing parking within the unincorporated areas of the county by appropriate state or county citation and may issue such citations for parking in violation of signs erected pursuant to s. 316.006(3) at parking areas located on property owned or leased by a county, whether or not such areas are within the boundaries of a chartered municipality.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A parking enforcement specialist employed pursuant to this subsection shall not carry firearms or other weapons or have arrest authority.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">MUNICIPALITIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The police department of each chartered municipality shall enforce the traffic laws of this state on all the streets and highways thereof and elsewhere throughout the municipality wherever the public has the right to travel by motor vehicle. In addition, the police department may be required by a municipality to enforce the traffic laws of this state on any private or limited access road or roads over which the municipality has jurisdiction pursuant to a written agreement entered into under s. 316.006(2)(b). However, nothing in this chapter shall affect any law, general, special, or otherwise, in effect on January 1, 1972, relating to “hot pursuit” without the boundaries of the municipality.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The police department of a chartered municipality may employ as a traffic crash investigation officer any individual who successfully completes instruction in traffic crash investigation and court presentation through the Selective Traffic Enforcement Program (STEP) as approved by the Criminal Justice Standards and Training Commission and funded through the National Highway Traffic Safety Administration (NHTSA) or a similar program approved by the commission, but who does not otherwise meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary law enforcement officers under chapter 943. Any such traffic crash investigation officer who makes an investigation at the scene of a traffic crash is authorized to issue traffic citations when, based upon personal investigation, he or she has reasonable and probable grounds to believe that a person involved in the crash has committed an offense under the provisions of this chapter, chapter 319, chapter 320, or chapter 322 in connection with the crash. This paragraph does not permit the carrying of firearms or other weapons, nor do such officers have arrest authority.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A chartered municipality or its authorized agency or instrumentality may employ as a parking enforcement specialist any individual who successfully completes a training program established and approved by the Criminal Justice Standards and Training Commission for parking enforcement specialists, but who does not otherwise meet the uniform minimum standards established by the commission for law enforcement officers or auxiliary or part-time officers under s. 943.12.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A parking enforcement specialist employed by a chartered municipality or its authorized agency or instrumentality is authorized to enforce all state, county, and municipal laws and ordinances governing parking within the boundaries of the municipality employing the specialist, by appropriate state, county, or municipal traffic citation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A parking enforcement specialist employed pursuant to this subsection may not carry firearms or other weapons or have arrest authority.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any sheriff’s department, or any police department of a municipality, may employ as a traffic control officer any individual who successfully completes at least 8 hours of instruction in traffic control procedures through a program approved by the Division of Criminal Justice Standards and Training of the Department of Law Enforcement, or through a similar program offered by the local sheriff’s department or police department, but who does not necessarily otherwise meet the uniform minimum standards established by the Criminal Justice Standards and Training Commission for law enforcement officers or auxiliary law enforcement officers under s. 943.13. A traffic control officer employed pursuant to this subsection may direct traffic or operate a traffic control device only at a fixed location and only upon the direction of a fully qualified law enforcement officer; however, it is not necessary that the traffic control officer’s duties be performed under the immediate supervision of a fully qualified law enforcement officer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of a special event or activity in relation to which a nongovernmental entity is paying for traffic control on public streets, highways, or roads, traffic control officers may be employed to perform such traffic control responsibilities only when off-duty, full-time law enforcement officers, as defined in s. 943.10(1), are unavailable to perform those responsibilities. However, this paragraph may not be construed to limit the use of traffic infraction enforcement officers for traffic enforcement purposes.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection does not permit the carrying of firearms or other weapons, nor do traffic control officers have arrest authority.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any sheriff’s department or police department of a municipality may employ, as a traffic infraction enforcement officer, any individual who successfully completes instruction in traffic enforcement procedures and court presentation through the Selective Traffic Enforcement Program as approved by the Division of Criminal Justice Standards and Training of the Department of Law Enforcement, or through a similar program, but who does not necessarily otherwise meet the uniform minimum standards established by the Criminal Justice Standards and Training Commission for law enforcement officers or auxiliary law enforcement officers under s. 943.13. Any such traffic infraction enforcement officer who observes the commission of a traffic infraction or, in the case of a parking infraction, who observes an illegally parked vehicle may issue a traffic citation for the infraction when, based upon personal investigation, he or she has reasonable and probable grounds to believe that an offense has been committed which constitutes a noncriminal traffic infraction as defined in s. 318.14. In addition, any such traffic infraction enforcement officer may issue a traffic citation under s. 316.0083. For purposes of enforcing s. 316.0083, any sheriff’s department or police department of a municipality may designate employees as traffic infraction enforcement officers. The traffic infraction enforcement officers must be physically located in the county of the respective sheriff’s or police department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The traffic infraction enforcement officer shall be employed in relationship to a selective traffic enforcement program at a fixed location or as part of a crash investigation team at the scene of a vehicle crash or in other types of traffic infraction enforcement under the direction of a fully qualified law enforcement officer; however, it is not necessary that the traffic infraction enforcement officer’s duties be performed under the immediate supervision of a fully qualified law enforcement officer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection does not permit the carrying of firearms or other weapons, nor do traffic infraction enforcement officers have arrest authority other than the authority to issue a traffic citation as provided in this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">MOBILE HOME PARK RECREATION DISTRICTS.<EmDash />Notwithstanding subsection (2) or subsection (3), the sheriff’s office of each of the several counties of this state and the police department of each chartered municipality have authority, but are not required, to enforce the traffic laws of this state on any way or place used for vehicular traffic on a controlled access basis within a mobile home park recreation district which has been created under s. 418.30 and the recreational facilities of which district are open to the general public.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">CONSTRUCTION OF CHAPTER 87-88, LAWS OF FLORIDA.<EmDash />For purposes of traffic control and enforcement, nothing in chapter 87-88, Laws of Florida, shall be construed to classify any road which has been dedicated or impliedly dedicated for public use, and which has been constructed and is open to the use of the public for vehicular traffic, as a private road or driveway.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">TRAFFIC ENFORCEMENT AGENCY.<EmDash />Any agency or governmental entity designated in subsection (1), subsection (2), or subsection (3), including a university, a community college, a school board, or an airport authority, is a traffic enforcement agency for purposes of s. 316.650.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-135; ss. 1, 2, ch. 73-24; s. 1, ch. 76-31; s. 1, ch. 76-270; s. 3, ch. 79-246; s. 11, ch. 83-167; ss. 4, 5, ch. 87-88; s. 2, ch. 87-178; s. 7, ch. 87-270; s. 1, ch. 90-177; s. 1, ch. 92-18; s. 17, ch. 93-164; s. 4, ch. 93-404; s. 30, ch. 94-306; s. 1, ch. 94-334; s. 138, ch. 94-356; s. 1, ch. 95-141; s. 904, ch. 95-148; s. 3, ch. 96-276; s. 37, ch. 96-350; s. 87, ch. 99-245; ss. 6, 244, ch. 99-248; s. 109, ch. 2002-20; s. 11, ch. 2002-205; s. 46, ch. 2002-295; s. 26, ch. 2003-1; s. 18, ch. 2003-286; s. 6, ch. 2005-120; s. 2, ch. 2009-216; s. 9, ch. 2010-80; s. 15, ch. 2011-66; s. 13, ch. 2012-88.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 316.016.</Text>
+	</Note>
+</Section>

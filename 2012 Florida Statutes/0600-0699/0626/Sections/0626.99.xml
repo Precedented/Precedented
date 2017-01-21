@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.99" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Life insurance solicitation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PURPOSE.<EmDash />The purpose of this section is to require insurers to deliver to purchasers of life insurance information which will improve the buyer’s ability to select the most appropriate plan of life insurance for his or her needs, improve the buyer’s understanding of the basic features of the policy which has been purchased or which is under consideration, and improve the ability of the buyer to evaluate the relative costs of similar plans of life insurance. This section does not prohibit an insurer from using additional material which is not in violation of this chapter or any other statute or regulation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SCOPE; EXEMPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as hereafter exempted, this section shall apply to any solicitation, negotiation, or procurement of life insurance occurring within this state. This section shall apply to any issuer of life insurance contracts, including a fraternal benefit society.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Unless they are otherwise specifically included, this section shall not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Annuities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Credit life insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Group life insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Life insurance policies issued in connection with pension and welfare plans as defined by and which are subject to the federal Employee Retirement Income Security Act of 1974 (ERISA).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Variable life insurance under which the death benefits and cash values vary in accordance with unit values of investments held in a separate account.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS AND FORMULAS.<EmDash />As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Buyer’s guide” means a document which shall contain all the requirements of, and which is in substantial compliance with, subsection (6).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Cash dividend” means the current illustrated dividend which can be applied toward payment of the gross premium.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Equivalent level annual dividend” is calculated by applying the following steps:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Accumulate the annual cash dividends at 5 percent interest compounded annually to the end of the 10th and the end of the 20th policy years.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Divide each accumulation of step 1. under this paragraph by an interest factor that converts it into one, equivalent level annual amount that, if paid at the beginning of each year, would accrue to the values in step 1. under this paragraph over the respective periods stipulated in step 1. under this paragraph. If the period is 10 years, the factor is 13.207; and if the period is 20 years, the factor is 34.719.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Divide the results of step 2. under this paragraph by the number of thousands of the equivalent level death benefits to arrive at the equivalent level annual dividend.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Equivalent level death benefit” of a policy or term life insurance rider is an amount calculated by applying the following steps:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Accumulate the guaranteed amount payable upon death, regardless of the cause of death, at the beginning of each policy year for 10 and 20 years at 5 percent interest compounded annually to the end of the 10th and 20th policy years respectively.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Divide each accumulation of step 1. under this paragraph by an interest factor that converts it into one, equivalent level annual amount that, if paid at the beginning of each year, would accrue to the value in step 1. of this paragraph over the respective periods stipulated in step 1. under this paragraph. If the period is 10 years, the factor is 13.207; and if the period is 20 years, the factor is 34.719.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Generic name” means a short title which is descriptive of the premium and benefit patterns of a policy or a rider.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Life insurance surrender cost index” is calculated by applying the following steps:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Determine the guaranteed cash surrender value, if any, available at the end of the 10th and the end of the 20th policy years.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For participating policies, add the terminal dividend payable upon surrender, if any, to the accumulation of the annual cash dividends at 5 percent interest compounded annually to the end of the period selected and add this sum to the amount determined in step 1. under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Divide the result of step 2. under this paragraph (step 1. for guaranteed-cost policies) by an interest factor that converts it into an equivalent level annual amount that, if paid at the beginning of each year, would accrue to the value in step 2. under this paragraph (step 1. for guaranteed-cost policies) over the respective periods stipulated in step 1. If the period is 10 years, the factor is 13.207; and if the period is 20 years, the factor is 34.719.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Determine the equivalent level premium by accumulating each annual premium payable for the basic policy or rider at 5 percent interest compounded annually to the end of the period stipulated in step 1. under this paragraph and dividing the result by the respective factors stated in step 3. under this paragraph (this amount is the annual premium payable for a level premium plan).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Subtract the result of step 3. from step 4.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Divide the result of step 5. by the number of thousands of the equivalent level death benefit to arrive at the life insurance surrender cost index.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Life insurance net payment cost index” is calculated in the same manner as the comparable life insurance cost index, except that the cash surrender value and any terminal dividend are set at zero.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Policy summary” means a written statement describing the elements of the policy, including, but not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A prominently placed title as follows: STATEMENT OF POLICY COST AND BENEFIT INFORMATION;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name and address of the insurance agent or, if no agent is involved, a statement of the procedure to be followed in order to receive responses to inquiries regarding the policy summary;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The full name and home office or administrative office address of the company in which the life insurance policy is to be or has been written;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The generic name of the basic policy and of each rider;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The following amounts, when applicable, for the first 5 policy years and representative policy years thereafter, sufficient to clearly illustrate the premium and benefit patterns, including, but not necessarily limited to, the years for which life insurance cost indexes are displayed and at least one age from 60 through 65, or maturity of the policy, whichever is earlier:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The annual premium for the basic policy;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The annual premium for each optional rider;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The guaranteed amount payable upon death, at the beginning of the policy year regardless of the cause of death other than suicide, or other specifically enumerated exclusions, which is provided by the basic policy and each optional rider, with benefits provided under the basic policy and each rider shown separately;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The total guaranteed cash surrender values at the end of the year, with values shown separately for the basic policy and each rider;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The cash dividends payable at the end of the year, with values shown separately for the basic policy and each rider (dividends need not be displayed beyond the 20th policy year); and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The guaranteed endowment amounts payable under the policy which are not included under guaranteed cash surrender values above;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The effective policy loan annual percentage interest rate, if the policy contains this provision, specifying whether this rate is applied in advance or in arrears. If the policy loan interest rate is variable, the policy summary shall include the maximum annual percentage rate;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Life insurance cost indexes for 10 and 20 years, but in no case beyond the premium-paying period. Separate indexes must be displayed for the basic policy and for each optional term life insurance rider. Such indexes need not be included for optional riders which are limited to benefits such as accidental death benefits, disability waiver of premium, preliminary term life insurance coverage of less than 12 months, and guaranteed insurability benefits, nor need they be included for the basic policies or optional riders covering more than one life;</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The equivalent level annual dividend, in the case of participating policies and participating optional term life insurance riders, under the same circumstances and for the same durations at which life insurance cost indexes are displayed;</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">For a policy summary which includes dividends, a statement that dividends are based on the company’s current dividend scale and are not guaranteed, in addition to a statement in close proximity to the equivalent level annual dividend as follows: “An explanation of the intended use of the equivalent level annual dividend is included in the life insurance buyer’s guide”;</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">A statement in close proximity to the life insurance cost indexes as follows: “An explanation of the intended use of these indexes is provided in the life insurance buyer’s guide”; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The date on which the policy summary is prepared. The policy summary must consist of a separate document. All information required to be disclosed must be set out in such a manner as not to minimize the effect of any portion thereof or to render any portion thereof obscure. Any amounts which remain level for 2 or more years of the policy may be represented by a single number if it is clearly indicated what amounts are applicable for each policy year. Amounts in subparagraph 5. shall be listed in total, not on a per-thousand or per-unit basis. If more than one insured is covered under one policy or rider, guaranteed death benefits shall be displayed separately for each insured or for each class of insureds, if death benefits do not differ within the class. Zero amounts shall be displayed as zero and shall not be displayed as a blank space.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">DISCLOSURE REQUIREMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">The insurer shall provide to each prospective purchaser a buyer’s guide and a policy summary prior to accepting the applicant’s initial premium or premium deposit, unless the policy for which application is made provides an unconditional refund for a period of at least 14 days, or unless the policy summary contains an offer of such an unconditional refund. In these instances, the buyer’s guide and policy summary must be delivered with the policy or prior to delivery of the policy.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">With respect to fixed and variable annuities, the policy must provide an unconditional refund for a period of at least 14 days. For fixed annuities, the buyer’s guide shall be in the form as provided by the National Association of Insurance Commissioners (NAIC) Annuity Disclosure Model Regulation, until such time as a buyer’s guide is developed by the department, at which time the department guide must be used. For variable annuities, a policy summary may be used, which may be contained in a prospectus, until such time as a buyer’s guide is developed by NAIC or the department, at which time one of those guides must be used. If the prospective owner of an annuity contract is 65 years of age or older:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An unconditional refund of premiums paid for a fixed annuity contract, including any contract fees or charges, must be available for a period of 21 days; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An unconditional refund for variable or market value annuity contracts must be available for a period of 21 days. The unconditional refund shall be equal to the cash surrender value provided in the annuity contract, plus any fees or charges deducted from the premiums or imposed under the contract. This subparagraph does not apply if the prospective owner is an accredited investor, as defined in Regulation D as adopted by the United States Securities and Exchange Commission.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The insurer shall attach a cover page to any annuity policy informing the purchaser of the unconditional refund period prescribed in paragraph (b). The cover page must also provide contact information for the issuing company and the selling agent, the department’s toll-free help line, and any other information required by the department by rule. The cover page is part of the policy and is subject to review by the office pursuant to s. 627.410.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The insurer shall provide a buyer’s guide and a policy summary to any prospective purchaser upon request.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">GENERAL RULES RELATING TO SOLICITATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each insurer subject to this section shall maintain at its home office or principal office a complete file containing one copy of each document authorized by the insurer for use pursuant to this section. Such file shall contain one copy of each authorized form for a period of 3 years following the date of its last authorized use.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An agent shall inform the prospective purchaser, prior to commencing a life insurance sales presentation, that he or she is acting as a life insurance agent and shall inform the prospective purchaser of the full name of the insurance company which the agent is representing. In sales situations in which an agent is not involved, the insurer shall identify its full name.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Terms such as “financial planner,” “investment adviser,” “financial consultant,” or “financial counseling” shall not be used in such a way as to imply that the insurance agent is generally engaged in an advisory business in which compensation is unrelated to sales unless such is actually the case.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any reference to policy dividends must include a statement that dividends are not guaranteed.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A system or presentation which does not recognize the time value of money through the use of appropriate interest adjustments shall not be used for comparing the cost of two or more life insurance policies. Such a system may be used for the purpose of demonstrating the cash-flow pattern of a policy if such presentation is accompanied by a statement disclosing that the presentation does not recognize that, because of interest, a dollar in the future has less value than a dollar today.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A presentation of benefits shall not display guaranteed and nonguaranteed benefits as a single sum unless they are shown separately in close proximity thereto.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A statement regarding the use of the life insurance cost indexes shall include an explanation to the effect that the indexes are useful only for the comparison of the relative costs of two or more similar policies.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A life insurance cost index which reflects dividends or an equivalent level annual dividend shall be accompanied by a statement that it is based on the insurer’s current dividend scale and is not guaranteed.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this section, the annual premium for a basic policy or rider, for which the insurer reserves the right to change the premium, shall be the maximum annual premium.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">If a replacement policy is proposed by any insurer to a prospective purchaser which would be issued in any rating class other than the most favorable rating class for a person of the same age and gender as the prospective purchaser, the replacing insurer shall provide to the prospective purchaser any disclosure and rate comparison required by law in insurance replacement transactions.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">If an appropriately licensed agent proposes to replace a life insurance policy or an in-force annuity with a registered securities product, preapplication notice requirements shall not apply.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">ADOPTION OF BUYER’S GUIDE; REQUIREMENTS.<EmDash />Any insurer soliciting life insurance in this state on or after October 1, 1980, shall adopt and use a buyer’s guide, and the adoption and use by an insurer of the buyer’s guide adopted October 1, 1996, by the National Association of Insurance Commissioners in the NAIC Life Insurance Disclosure Model Regulation shall be in compliance with the requirements of this section.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">FAILURE TO COMPLY.<EmDash />The failure of an insurer to provide or deliver a buyer’s guide or a policy summary as provided in subsection (4) shall constitute an omission which misrepresents the benefits, advantages, conditions, or terms of an insurance policy within the meaning of this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 80-156; s. 423, ch. 81-259; s. 807, ch. 82-243; ss. 190, 206, 207, ch. 90-363; s. 3, ch. 91-296; s. 4, ch. 91-429; s. 9, ch. 96-377; s. 1730, ch. 97-102; s. 3, ch. 2000-365; s. 1043, ch. 2003-261; s. 8, ch. 2008-237; s. 51, ch. 2010-175.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 12, ch. 2008-237, provides in part that “[e]ffective [June 30, 2008,] the Department of Financial Services may adopt rules to implement this act.”</Text>
+	</Note>
+</Section>

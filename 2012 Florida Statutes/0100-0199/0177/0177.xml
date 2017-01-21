@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XII">
+	<ChapterNumber>177</ChapterNumber>
+	<ChapterName xml:space="preserve">Land boundaries</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Platting</PartTitle>
+		<Section Number="0177.011" />
+		<Section Number="0177.021" />
+		<Section Number="0177.031" />
+		<Section Number="0177.041" />
+		<Section Number="0177.051" />
+		<Section Number="0177.061" />
+		<Section Number="0177.071" />
+		<Section Number="0177.081" />
+		<Section Number="0177.085" />
+		<Section Number="0177.086" />
+		<Section Number="0177.091" />
+		<Section Number="0177.101" />
+		<Section Number="0177.111" />
+		<Section Number="0177.121" />
+		<Section Number="0177.131" />
+		<Section Number="0177.132" />
+		<Section Number="0177.141" />
+		<Section Number="0177.142" />
+		<Section Number="0177.151" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Coastal mapping</PartTitle>
+		<Section Number="0177.25" />
+		<Section Number="0177.26" />
+		<Section Number="0177.27" />
+		<Section Number="0177.28" />
+		<Section Number="0177.29" />
+		<Section Number="0177.35" />
+		<Section Number="0177.36" />
+		<Section Number="0177.37" />
+		<Section Number="0177.38" />
+		<Section Number="0177.39" />
+		<Section Number="0177.40" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Restoration of corners</PartTitle>
+		<Section Number="0177.501" />
+		<Section Number="0177.502" />
+		<Section Number="0177.503" />
+		<Section Number="0177.504" />
+		<Section Number="0177.506" />
+		<Section Number="0177.507" />
+		<Section Number="0177.508" />
+		<Section Number="0177.509" />
+		<Section Number="0177.510" />
+	</Part>
+</Chapter>

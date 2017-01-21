@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.209" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lien of warehouse.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A warehouse has a lien against the bailor on the goods covered by a warehouse receipt or storage agreement or on the proceeds thereof in its possession for charges for storage or transportation, including demurrage and terminal charges, insurance, labor, or other charges, present or future, in relation to the goods, and for expenses necessary for preservation of the goods or reasonably incurred in their sale pursuant to law. If the person on whose account the goods are held is liable for similar charges or expenses in relation to other goods whenever deposited and it is stated in the warehouse receipt or storage agreement that a lien is claimed for charges and expenses in relation to other goods, the warehouse also has a lien against the goods covered by the warehouse receipt or storage agreement or on the proceeds thereof in its possession for those charges and expenses, whether or not the other goods have been delivered by the warehouse. However, as against a person to which a negotiable warehouse receipt is duly negotiated, a warehouse’s lien is limited to charges in an amount or at a rate specified in the warehouse receipt or, if no charges are so specified, to a reasonable charge for storage of the specific goods covered by the receipt subsequent to the date of the receipt.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A warehouse may also reserve a security interest against the bailor for the maximum amount specified on the receipt for charges other than those specified in subsection (1), such as for money advanced and interest. The security interest is governed by chapter 679.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A warehouse’s lien for charges and expenses under subsection (1) or a security interest under subsection (2) is also effective against any person that so entrusted the bailor with possession of the goods that a pledge of them by the bailor to a good faith purchaser for value would have been valid. However, the lien or security interest is not effective against a person that before issuance of a document of title had a legal interest or a perfected security interest in the goods and that did not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Deliver or entrust the goods or any document of title covering the goods to the bailor or the bailor’s nominee with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Actual or apparent authority to ship, store, or sell;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Power to obtain delivery under s. 677.403; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Power of disposition under s. 672.403, s. 680.304(2), s. 680.305(2), s. 679.320, or s. 679.321(3) or other statute or rule of law; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Acquiesce in the procurement by the bailor or its nominee of any document.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A warehouse’s lien on household goods for charges and expenses in relation to the goods under subsection (1) is also effective against all persons if the depositor was the legal possessor of the goods at the time of deposit. In this subsection, the term “household goods” means furniture, furnishings, or personal effects used by the depositor in a dwelling.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A warehouse loses its lien on any goods that it voluntarily delivers or unjustifiably refuses to deliver.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 625, ch. 97-102; s. 31, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-209, U.C.C.; supersedes ss. 678.27-678.32.</Text>
+	</Note>
+</Section>

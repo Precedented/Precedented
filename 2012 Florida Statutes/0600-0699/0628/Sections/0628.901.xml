@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0628.901" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Affiliated company” means a company in the same corporate system as a parent, an industrial insured, or a member organization by virtue of common ownership, control, operation, or management.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Captive insurance company” means a domestic insurer established under this part. A captive insurance company includes a pure captive insurance company, special purpose captive insurance company, or industrial insured captive insurance company formed and licensed under this part.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Captive reinsurance company” means a reinsurance company that is formed and licensed under this part and is wholly owned by a qualifying reinsurance parent company. A captive reinsurance company is a stock corporation and may not directly insure risks. A captive reinsurance company may reinsure only risks.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Consolidated debt to total capital ratio” means the ratio of the sum of all debts and hybrid capital instruments as described in paragraph (a) to total capital as described in paragraph (b).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Debts and hybrid capital instruments include, but are not limited to, all borrowings from banks, all senior debt, all subordinated debts, all trust preferred shares, and all other hybrid capital instruments that are not included in the determination of consolidated GAAP net worth issued and outstanding.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Total capital consists of all debts and hybrid capital instruments as described in paragraph (a) plus owners’ equity determined in accordance with GAAP for reporting to the United States Securities and Exchange Commission.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Consolidated GAAP net worth” means the consolidated owners’ equity determined in accordance with generally accepted accounting principles for reporting to the United States Securities and Exchange Commission.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Controlled unaffiliated business” means a company:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That is not in the corporate system of a parent and affiliated companies;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That has an existing contractual relationship with a parent or affiliated company; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Whose risks are managed by a captive insurance company in accordance with s. 628.919.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“GAAP” means generally accepted accounting principles.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Industrial insured” means an insured that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has gross assets in excess of $50 million;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Procures insurance through the use of a full-time employee of the insured who acts as an insurance manager or buyer or through the services of a person licensed as a property and casualty insurance agent, broker, or consultant in such person’s state of domicile;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has at least 100 full-time employees; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Pays annual premiums of at least $200,000 for each line of insurance purchased from the industrial insured captive insurer or at least $75,000 for any line of coverage in excess of at least $25 million in the annual aggregate. The purchase of umbrella or general liability coverage in excess of $25 million in the annual aggregate shall be deemed to be the purchase of a single line of insurance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Industrial insured captive insurance company” means a captive insurance company that provides insurance only to the industrial insureds that are its stockholders or members, and affiliates thereof, or to the stockholders, and affiliates thereof, of its parent corporation. An industrial insured captive insurance company can also provide reinsurance to insurers only on risks written by such insurers for the industrial insureds that are the stockholders or members, and affiliates thereof, of the industrial insured captive insurer, or the stockholders, and affiliates thereof, of the parent corporation of the industrial insured captive insurer.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Office” means the Office of Insurance Regulation.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Parent” means any corporation, limited liability company, partnership, or individual that directly or indirectly owns, controls, or holds with power to vote more than 50 percent of the outstanding voting interests of a captive insurance company.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Pure captive insurance company” means a company that insures risks of its parent, affiliated companies, controlled unaffiliated businesses, or a combination thereof.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Qualifying reinsurer parent company” means a reinsurer which currently holds a certificate of authority, letter of eligibility or is an accredited or a satisfactory non-approved reinsurer in this state possessing a consolidated GAAP net worth of at least $500 million and a consolidated debt to total capital ratio of not greater than 0.50.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Special purpose captive insurance company” means a captive insurance company that is formed or licensed under this chapter that does not meet the definition of any other type of captive insurance company defined in this section.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Treasury rates” means the United States Treasury STRIPS asked yield as published in the Wall Street Journal as of a balance sheet date.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 632, 809(1st), ch. 82-243; s. 5, ch. 85-214; ss. 1, 11, ch. 87-127; ss. 77, 187, 188, ch. 91-108; s. 4, ch. 91-429; s. 19, ch. 2012-151.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 628.035.</Text>
+	</Note>
+</Section>

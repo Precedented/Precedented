@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0489.1455" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Journeyman; reciprocity; standards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An individual who holds a valid, active journeyman license in the plumbing/pipe fitting, mechanical, or HVAC trades issued by any county or municipality in this state may work as a journeyman in the trade in which he or she is licensed in any county or municipality of this state without taking an additional examination or paying an additional license fee, if he or she:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has scored at least 70 percent, or after October 1, 1997, at least 75 percent, on a proctored journeyman Block and Associates examination or other proctored examination approved by the board for the trade in which he or she is licensed;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has completed an apprenticeship program registered with a registration agency defined in 29 C.F.R. s. 29.2 and demonstrates 4 years’ verifiable practical experience in the trade for which he or she is licensed, or demonstrates 6 years’ verifiable practical experience in the trade for which he or she is licensed;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has satisfactorily completed specialized and advanced module coursework approved by the Florida Building Commission, as part of the building code training program established in s. 553.841, specific to the discipline or, pursuant to authorization by the certifying authority, provides proof of completion of such coursework within 6 months after such certification; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has not had a license suspended or revoked within the last 5 years.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A local government may charge a registration fee for reciprocity, not to exceed $25.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 97-228; s. 25, ch. 98-287; s. 37, ch. 2009-195; s. 29, ch. 2011-213.</History>
+</Section>

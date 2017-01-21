@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0194.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Assessment notice; objections to assessments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each taxpayer whose property is subject to real or tangible personal ad valorem taxes shall be notified of the assessment of each taxable item of such property, as provided in s. 200.069.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1" />
+			<Text xml:space="preserve" Style="Intro">Any taxpayer who objects to the assessment placed on any property taxable to him or her, including the assessment of homestead property at less than just value under s. 193.155(8), may request the property appraiser to informally confer with the taxpayer. Upon receiving the request, the property appraiser, or a member of his or her staff, shall confer with the taxpayer regarding the correctness of the assessment. At this informal conference, the taxpayer shall present those facts considered by the taxpayer to be supportive of the taxpayer’s claim for a change in the assessment of the property appraiser. The property appraiser or his or her representative at this conference shall present those facts considered by the property appraiser to be supportive of the correctness of the assessment. However, nothing herein shall be construed to be a prerequisite to administrative or judicial review of property assessments.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A petition to the value adjustment board must be in substantially the form prescribed by the department. Notwithstanding s. 195.022, a county officer may not refuse to accept a form provided by the department for this purpose if the taxpayer chooses to use it. A petition to the value adjustment board shall describe the property by parcel number and shall be filed as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The property appraiser shall have available and shall distribute forms prescribed by the Department of Revenue on which the petition shall be made. Such petition shall be sworn to by the petitioner.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The completed petition shall be filed with the clerk of the value adjustment board of the county, who shall acknowledge receipt thereof and promptly furnish a copy thereof to the property appraiser.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The petition shall state the approximate time anticipated by the taxpayer to present and argue his or her petition before the board.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">The petition may be filed, as to valuation issues, at any time during the taxable year on or before the 25th day following the mailing of notice by the property appraiser as provided in subsection (1). With respect to an issue involving the denial of an exemption, an agricultural or high-water recharge classification application, an application for classification as historic property used for commercial or certain nonprofit purposes, or a deferral, the petition must be filed at any time during the taxable year on or before the 30th day following the mailing of the notice by the property appraiser under s. 193.461, s. 193.503, s. 193.625, s. 196.173, or s. 196.193 or notice by the tax collector under s. 197.2425.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A condominium association, cooperative association, or any homeowners’ association as defined in s. 723.075, with approval of its board of administration or directors, may file with the value adjustment board a single joint petition on behalf of any association members who own parcels of property which the property appraiser determines are substantially similar with respect to location, proximity to amenities, number of rooms, living area, and condition. The condominium association, cooperative association, or homeowners’ association as defined in s. 723.075 shall provide the unit owners with notice of its intent to petition the value adjustment board and shall provide at least 20 days for a unit owner to elect, in writing, that his or her unit not be included in the petition.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An owner of contiguous, undeveloped parcels may file with the value adjustment board a single joint petition if the property appraiser determines such parcels are substantially similar in nature.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The individual, agent, or legal entity that signs the petition becomes an agent of the taxpayer for the purpose of serving process to obtain personal jurisdiction over the taxpayer for the entire value adjustment board proceedings, including any appeals of a board decision by the property appraiser pursuant to s. 194.036.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">At least 15 days before the hearing the petitioner shall provide to the property appraiser a list of evidence to be presented at the hearing, together with copies of all documentation to be considered by the value adjustment board and a summary of evidence to be presented by witnesses.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No later than 7 days before the hearing, if the petitioner has provided the information required under paragraph (a), and if requested in writing by the petitioner, the property appraiser shall provide to the petitioner a list of evidence to be presented at the hearing, together with copies of all documentation to be considered by the value adjustment board and a summary of evidence to be presented by witnesses. The evidence list must contain the property record card if provided by the clerk. Failure of the property appraiser to timely comply with the requirements of this paragraph shall result in a rescheduling of the hearing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall by rule prescribe uniform procedures for hearings before the value adjustment board which include requiring:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Procedures for the exchange of information and evidence by the property appraiser and the petitioner consistent with s. 194.032.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That the value adjustment board hold an organizational meeting for the purpose of making these procedures available to petitioners.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall develop a uniform policies and procedures manual that shall be used by value adjustment boards, special magistrates, and taxpayers in proceedings before value adjustment boards. The manual shall be made available, at a minimum, on the department’s website and on the existing websites of the clerks of circuit courts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Reference Number="1" />
+			<Text xml:space="preserve" Style="Intro">The following provisions apply to petitions to the value adjustment board concerning the assessment of homestead property at less than just value under s. 193.155(8):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the taxpayer does not agree with the amount of the assessment limitation difference for which the taxpayer qualifies as stated by the property appraiser in the county where the previous homestead property was located, or if the property appraiser in that county has not stated that the taxpayer qualifies to transfer any assessment limitation difference, upon the taxpayer filing a petition to the value adjustment board in the county where the new homestead property is located, the value adjustment board in that county shall, upon receiving the appeal, send a notice to the value adjustment board in the county where the previous homestead was located, which shall reconvene if it has already adjourned.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Such notice operates as a petition in, and creates an appeal to, the value adjustment board in the county where the previous homestead was located of all issues surrounding the previous assessment differential for the taxpayer involved. However, the taxpayer may not petition to have the just, assessed, or taxable value of the previous homestead changed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The value adjustment board in the county where the previous homestead was located shall set the petition for hearing and notify the taxpayer, the property appraiser in the county where the previous homestead was located, the property appraiser in the county where the new homestead is located, and the value adjustment board in that county, and shall hear the appeal. Such appeal shall be heard by an attorney special magistrate if the value adjustment board in the county where the previous homestead was located uses special magistrates. The taxpayer may attend such hearing and present evidence, but need not do so. The value adjustment board in the county where the previous homestead was located shall issue a decision and send a copy of the decision to the value adjustment board in the county where the new homestead is located.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In hearing the appeal in the county where the new homestead is located, that value adjustment board shall consider the decision of the value adjustment board in the county where the previous homestead was located on the issues pertaining to the previous homestead and on the amount of any assessment reduction for which the taxpayer qualifies. The value adjustment board in the county where the new homestead is located may not hold its hearing until it has received the decision from the value adjustment board in the county where the previous homestead was located.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">In any circuit court proceeding to review the decision of the value adjustment board in the county where the new homestead is located, the court may also review the decision of the value adjustment board in the county where the previous homestead was located.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 25, ch. 4322, 1895; GS 525; s. 1, ch. 5605, 1907; ss. 23, 66, ch. 5596, 1907; RGS 723, 724; CGL 929, 930; s. 1, ch. 67-415; ss. 1, 2, ch. 69-55; s. 1, ch. 69-140; ss. 21, 35, ch. 69-106; s. 25, ch. 70-243; s. 34, ch. 71-355; s. 11, ch. 73-172; s. 5, ch. 76-133; s. 1, ch. 76-234; s. 1, ch. 77-102; s. 1, ch. 77-174; s. 2, ch. 78-354; s. 36, ch. 80-274; s. 13, ch. 82-208; ss. 8, 55, 80, ch. 82-226; s. 209, ch. 85-342; s. 1, ch. 86-175; s. 1, ch. 88-146; s. 143, ch. 91-112; s. 1, ch. 92-32; s. 977, ch. 95-147; s. 6, ch. 95-404; s. 4, ch. 96-204; s. 3, ch. 97-117; s. 2, ch. 2002-18; s. 1, ch. 2004-349; s. 7, ch. 2008-173; s. 3, ch. 2008-197; s. 2, ch. 2011-93; s. 54, ch. 2011-151.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 13, ch. 2008-173, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 18 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Indent">A. Section 4, ch. 2011-93, provides that “[t]he Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 6, ch. 2011-93, provides that “[t]his act shall take effect upon becoming a law, and first applies to ad valorem tax rolls for 2011.”</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 193.25.</Text>
+	</Note>
+</Section>

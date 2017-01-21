@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XX">
+	<ChapterNumber>296</ChapterNumber>
+	<ChapterName xml:space="preserve">Veterans’ homes</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Veterans’ Domiciliary Home<NewLine />of Florida Act</PartTitle>
+		<Section Number="0296.01" />
+		<Section Number="0296.02" />
+		<Section Number="0296.03" />
+		<Section Number="0296.04" />
+		<Section Number="0296.05" />
+		<Section Number="0296.06" />
+		<Section Number="0296.07" />
+		<Section Number="0296.08" />
+		<Section Number="0296.09" />
+		<Section Number="0296.10" />
+		<Section Number="0296.11" />
+		<Section Number="0296.12" />
+		<Section Number="0296.13" />
+		<Section Number="0296.14" />
+		<Section Number="0296.15" />
+		<Section Number="0296.17" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Veterans’ Nursing Home of Florida Act</PartTitle>
+		<Section Number="0296.31" />
+		<Section Number="0296.32" />
+		<Section Number="0296.33" />
+		<Section Number="0296.34" />
+		<Section Number="0296.35" />
+		<Section Number="0296.36" />
+		<Section Number="0296.37" />
+		<Section Number="0296.38" />
+		<Section Number="0296.41" />
+	</Part>
+</Chapter>

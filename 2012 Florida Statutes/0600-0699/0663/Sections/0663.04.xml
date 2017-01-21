@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Requirements for carrying on financial institution business.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">An international banking corporation or trust company, or any affiliate, subsidiary, or other person or business entity acting as an agent for, on behalf of, or for the benefit of such international banking corporation or trust company who engages in such activities from an office located in this state, may not transact a banking or trust business, or maintain in this state any office for carrying on such business, or any part thereof, unless such corporation, trust company, affiliate, subsidiary, person, or business entity:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Has been authorized by its charter to carry on a banking or trust business and has complied with the laws of the jurisdiction in which it is chartered.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Has furnished to the office such proof as to the nature and character of its business and as to its financial condition as the commission or office requires.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Has filed with the office a certified copy of that information required to be supplied to the Department of State by those provisions of chapter 607 which are applicable to foreign corporations.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Has received a license duly issued to it by the office.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Has capital accounts no less than the minimums required per s. 663.055 and is not imminently insolvent or insolvent per s. 655.005(1).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is not in bankruptcy, conservatorship, receivership, liquidation, or similar status under the laws of any country.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is not operating under the direct control of the government, regulatory, or supervisory authority of the jurisdiction of its incorporation through government intervention or any other extraordinary actions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has not been in such status or control at any time within the 7 years preceding the date of application for a license.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-157; ss. 85, 151, 152, ch. 80-260; ss. 2, 4, ch. 81-156; ss. 2, 3, ch. 81-318; s. 5, ch. 83-129; s. 3, ch. 83-265; s. 1, ch. 91-307; ss. 1, 153, ch. 92-303; s. 1816, ch. 2003-261; s. 4, ch. 2010-9.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 659.67(4).</Text>
+	</Note>
+</Section>

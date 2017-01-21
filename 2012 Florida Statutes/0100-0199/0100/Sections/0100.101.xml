@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0100.101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Special elections and special primary elections.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A special election or special primary election shall be held in the following cases:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If no person has been elected at a general election to fill an office which was required to be filled by election at such general election.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a vacancy occurs in the office of state senator or member of the state house of representatives.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If it is necessary to elect presidential electors, by reason of the offices of President and Vice President both having become vacant.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If a vacancy occurs in the office of member from Florida of the House of Representatives of Congress.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 3879, 1889; RS 158; s. 5, ch. 4328, 1895; GS 175; RGS 219; CGL 254; s. 4, ch. 26870, 1951; s. 12, ch. 77-175; s. 3, ch. 83-15; s. 19, ch. 2005-277; s. 21, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 98.08.</Text>
+	</Note>
+</Section>

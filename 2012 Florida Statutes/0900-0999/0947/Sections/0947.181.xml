@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0947.181" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fines, fees, restitution, or other costs ordered to be paid as conditions of parole.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The commission shall require the payment of fines, fees, restitution, or other court-ordered costs as a condition of parole unless the commission finds reasons to the contrary. Restitution to the aggrieved party for injury, damage, or loss caused by the offense for which the parolee was imprisoned shall have first priority in the payment of amounts owed under this section. If the commission does not require the payment of fines, fees, restitution, or other court-ordered costs or requires only partial payment of the fines, fees, restitution, or other court-ordered costs, the commission shall state on the record the reasons for its decision.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the parolee fails to make the payments as required in subsection (1), it shall be considered by the commission as a violation of parole as specified in s. 947.21 and may be cause for revocation of parole.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a defendant is paroled, any restitution ordered under s. 775.089 shall be a condition of such parole. The Parole Commission may revoke parole if the defendant fails to comply with such order.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In determining whether to revoke parole, the commission shall consider the defendant’s employment status, earning ability, and financial resources; the willfulness of the defendant’s failure to pay; and any other special circumstances that may have a bearing on the defendant’s ability to pay.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 77-150; s. 304, ch. 79-400; s. 34, ch. 83-131; ss. 5, 10, ch. 84-363; s. 37, ch. 86-183; ss. 25, 67, ch. 88-122; s. 17, ch. 89-531; s. 20, ch. 90-337; s. 1, ch. 93-2; s. 9, ch. 93-37; s. 1677, ch. 97-102; s. 21, ch. 2012-100.</History>
+</Section>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0445.002" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Services and one-time payments” or “services,” when used in reference to individuals who are not receiving temporary cash assistance, means nonrecurrent, short-term benefits designed to deal with a specific crisis situation or episode of need and other services; work subsidies; supportive services such as child care and transportation; services such as counseling, case management, peer support, and child care information and referral; transitional services, job retention, job advancement, and other employment-related services; nonmedical treatment for substance abuse or mental health problems; teen pregnancy prevention; two-parent family support, including noncustodial parent employment; court-ordered supervised visitation, and responsible fatherhood services; and any other services that are reasonably calculated to further the purposes of the welfare transition program. Such terms do not include assistance as defined in federal regulations at 45 C.F.R. s. 260.31(a).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Welfare transition services” means those workforce services provided to current or former recipients of temporary cash assistance under chapter 414.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2000-165; s. 380, ch. 2011-142.</History>
+</Section>

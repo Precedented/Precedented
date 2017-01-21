@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0531.63" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Maximum permit fees.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The commercial use permit fees established for weights or measures instruments or devices shall be in an amount necessary to administer this chapter but may not exceed the amounts provided in this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For weighing devices, the fees must be based on the manufacturer’s rated capacity or the device’s design and use and whether measuring by inch or pounds or the metric equivalent:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For weighing devices of up to and including the 100-pound capacity which are used during any portion of the period covered by the permit, the maximum annual fees per retail establishment may not exceed the following:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Number of devices<NewLine />in a single retail<NewLine />establishment<FlushRight />Maximum Fee</Text>
+				<Text xml:space="preserve" Style="BlockFlush">1 to 5<FlushRight />$60</Text>
+				<Text xml:space="preserve" Style="BlockFlush">6 to 10<FlushRight />$150</Text>
+				<Text xml:space="preserve" Style="BlockFlush">11 to 30<FlushRight />$200</Text>
+				<Text xml:space="preserve" Style="BlockFlush">More than 30<FlushRight />$300</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For weighing devices of greater than the 100-pound capacity, the maximum annual registration fees may not exceed the following amounts per device:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Manufacturer’s rated<NewLine />capacity<FlushRight />Maximum Fee Per Device</Text>
+				<Text xml:space="preserve" Style="BlockFlush">100-5,000 pounds<FlushRight />$200</Text>
+				<Text xml:space="preserve" Style="BlockFlush">5,000-20,000 pounds<FlushRight />$300</Text>
+				<Text xml:space="preserve" Style="BlockFlush">20,000 pounds or more<FlushRight />$400</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Wheel load weighers<FlushRight />$35</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Static railroad track scales<FlushRight />$1,000</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Belt-conveyor scales<FlushRight />$500</Text>
+				<Text xml:space="preserve" Style="BlockFlush">In-motion railroad track scales<FlushRight />$1,000</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For other measuring devices, the annual permit fees per device may not exceed the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Mass flow meters having a maximum flow rate of up to 150 pounds per minute<FlushRight Fill="Dot" />$100.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Mass flow meters having a maximum flow rate greater than 150 pounds per minute<FlushRight Fill="Dot" />$500.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Volumetric flow meters having a maximum flow rate of up to 20 gallons per minute<FlushRight Fill="Dot" />$50.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Volumetric flow meters having a maximum flow rate greater than 20 gallons per minute<FlushRight Fill="Dot" />$100.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Tanks, under 500 gallons capacity, used as measure containers, with or without gage rods or markers<FlushRight Fill="Dot" />$100.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Tanks, 500 or more gallons capacity, used as measure containers, with or without gage rods or markers<FlushRight Fill="Dot" />$200.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Taximeters<FlushRight Fill="Dot" />$50.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Grain moisture meters<FlushRight Fill="Dot" />$25.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Multiple-dimension measuring<NewLine/>devices<FlushRight Fill="Dot" />$100.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The owner or person in possession of a weight or measures instrument or device for which the permit fees have not been paid in accordance with this section may not use such instrument or device for commercial purposes.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 36, 40, ch. 2009-66.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed July 1, 2014, by s. 40, ch. 2009-66.</Text>
+	</Note>
+</Section>

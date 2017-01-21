@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.331" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Supplemental educational services in Title I schools; school district, provider, and department responsibilities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INCENTIVES.<EmDash />A provider or school district may not provide incentives to entice a student or a student’s parent to choose a provider. After a provider has been chosen, the student may be awarded incentives for performance or attendance, the total value of which may not exceed $50 per student per year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">RESPONSIBILITIES OF SCHOOL DISTRICT AND PROVIDER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">School districts must create a streamlined parent enrollment and provider selection process for supplemental educational services and ensure that the process enables eligible students to begin receiving supplemental educational services no later than October 15 of each school year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Supplemental educational services enrollment forms must be made freely available to the parents of eligible students and providers both prior to and after the start of the school year.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">School districts must provide notification to parents of students eligible to receive supplemental educational services prior to and after the start of the school year. Notification shall include contact information for state-approved providers as well as the enrollment form, clear instructions, and timeline for the selection of providers and commencement of services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">State-approved supplemental educational services providers must be able to provide services to eligible students no later than October 15 of each school year contingent upon their receipt of their district-approved student enrollment lists at least 20 days prior to the start date.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">In the event that the contract with a state-approved provider is signed less than 20 days prior to October 15, the provider shall be afforded no less than 20 days from the date the contract was executed to begin delivering services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A school district must hold open student enrollment for supplemental educational services unless or until it has obtained a written election to receive or reject services from parents in accordance with paragraph (3)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">School districts, using the same policies applied to other organizations that have access to school sites, shall provide access to school facilities to providers that wish to use these sites for supplemental educational services. A school district with a student population in excess of 300,000 may only charge a state-approved supplemental educational services provider facility rental fees for the actual hours that the classrooms are used for tutoring by the provider.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">COMPLIANCE; PENALTIES FOR NONCOMPLIANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Compliance is met when the school district has obtained evidence of reception or rejection of services from the parents of at least a majority of the students receiving free or reduced-price lunch in Title I schools that are eligible for parental choice of transportation or supplemental educational services unless a waiver is granted by the State Board of Education. A waiver shall only be granted if there is clear and convincing evidence of the district’s efforts to secure evidence of the parent’s decision. Requirements for parental election to receive supplemental educational services shall not exceed the election requirements for the free and reduced-price lunch program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A provider must be able to deliver supplemental educational services to school districts in which the provider is approved by the state. If a state-approved provider withdraws from offering services to students in a school district in which it is approved and in which it has signed either a contract to provide services or a letter of intent and the minimums per site set by the provider have been met, the school district must report the provider to the department. The provider shall be immediately removed from the state-approved list for the current school year for that school district. Upon the second such withdrawal in any school district, the provider shall be ineligible to provide services in the state the following year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">REALLOCATION OF FUNDS.<EmDash />If a school district has not spent the required supplemental educational services set-aside funding, the district may apply to the Department of Education after January 1 for authorization to reallocate the funds. If the Commissioner of Education does not approve the reallocation of funds, the district may appeal to the State Board of Education. The State Board of Education must consider the appeal within 60 days of its receipt, and the decision of the state board shall be final.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">RESPONSIBILITIES OF THE DEPARTMENT OF EDUCATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By May 1 of each year, each supplemental educational services provider must report to the Department of Education, unless a prior agreement has been made with the local school district, in an electronic form prescribed by the department, the following information regarding services provided to public school students in the district:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Student learning gains as demonstrated by mastery of applicable benchmarks or access points set forth in the Sunshine State Standards;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Student attendance and completion data;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Parent satisfaction survey results;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">School district satisfaction survey results received directly from the school district; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Satisfaction survey results received directly from the school district which were completed by principals in whose schools onsite supplemental educational services were provided.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The department shall post a uniform survey on its Internet website to be completed online by principals and school districts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall evaluate each state-approved provider using the information received pursuant to paragraph (a) and assign a service designation of excellent, satisfactory, or unsatisfactory for the prior school year. However, if the student population served by the provider does not meet the minimum sample size necessary, based on accepted professional practice for statistical reliability and the prevention of the unlawful release of personally identifiable student information, the provider will not receive a service designation. The State Board of Education shall specify, by rule, the threshold requirements for assigning the service designations; however, the service designations must be based primarily on student learning gains. By July 1 of each year, the department must report the service designation to the supplemental educational services providers, the school districts, parents, and the public.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For the 2012-2013 school year, school districts shall use an amount equivalent to 15 percent of the Title I, Part A funds allocated to Title I schools to meet the requirements for supplemental educational services. Supplemental educational services shall be provided in Title I schools to students who are performing at Level 1 or Level 2 on the FCAT. Each school district shall contract with supplemental educational service providers that have been approved by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules pursuant to ss. 120.536(1) and 120.54 to administer the provisions of this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The board’s rules shall establish an internal complaint procedure to resolve disputes regarding the state approval process, the termination of state approval, and the assignment of a service designation. The internal complaint procedure must provide for an informal review by a hearing officer who is employed by the department and, if requested, a formal review by a hearing officer who is employed by the department, and shall recommend a resolution of the dispute to the Commissioner of Education. The internal complaint procedure is exempt from the provisions of chapter 120. The decision by the commissioner shall constitute final action.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">By September 1, 2011, the department shall approve and a district may select acceptable premethods and postmethods for measuring student learning gains, including standardized assessments, diagnostic assessments, criterion-referenced and skills-based assessments, or other applicable methods appropriate for each grade level, for use by supplemental educational services providers and local school districts in determining student learning gains. Each method must be able to measure student progress toward mastering the benchmarks or access points set forth in the Sunshine State Standards and the student’s supplemental educational services plan. The use of a diagnostic and assessment instrument, which is aligned to a provider’s curriculum, is an acceptable premethod and postmethod if the provider can demonstrate that the assessment meets the requirements in this paragraph and is not deemed unreliable or invalid by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">As a condition for state approval, a provider must use a method for measuring student learning gains which results in reliable and valid results as approved by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The provider shall report data on individual student learning gains to the department, unless a prior agreement has been made with the local school district to report such student achievement data. The report must include individual student learning gains as demonstrated by mastery of applicable benchmarks or access points set forth in the Sunshine State Standards.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this section and may enforce the provisions of this section pursuant to s. 1008.32.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 2006-301; s. 1, ch. 2008-171; s. 1, ch. 2009-225; s. 28, ch. 2011-175; s. 7, ch. 2012-194.</History>
+</Section>

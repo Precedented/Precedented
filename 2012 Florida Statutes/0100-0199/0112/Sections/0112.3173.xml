@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0112.3173" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Felonies involving breach of public trust and other specified offenses by public officers and employees; forfeiture of retirement benefits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INTENT.<EmDash />It is the intent of the Legislature to implement the provisions of s. 8(d), Art. II of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, unless the context otherwise requires, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Conviction” and “convicted” mean an adjudication of guilt by a court of competent jurisdiction; a plea of guilty or of nolo contendere; a jury verdict of guilty when adjudication of guilt is withheld and the accused is placed on probation; or a conviction by the Senate of an impeachable offense.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Court” means any state or federal court of competent jurisdiction which is exercising its jurisdiction to consider a proceeding involving the alleged commission of a specified offense.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Public officer or employee” means an officer or employee of any public body, political subdivision, or public instrumentality within the state.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Public retirement system” means any retirement system or plan to which the provisions of part VII of this chapter apply.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Specified offense” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The committing, aiding, or abetting of an embezzlement of public funds;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The committing, aiding, or abetting of any theft by a public officer or employee from his or her employer;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Bribery in connection with the employment of a public officer or employee;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any felony specified in chapter 838, except ss. 838.15 and 838.16;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The committing of an impeachable offense;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The committing of any felony by a public officer or employee who, willfully and with intent to defraud the public or the public agency for which the public officer or employee acts or in which he or she is employed of the right to receive the faithful performance of his or her duty as a public officer or employee, realizes or obtains, or attempts to realize or obtain, a profit, gain, or advantage for himself or herself or for some other person through the use or attempted use of the power, rights, privileges, duties, or position of his or her public office or employment position; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The committing on or after October 1, 2008, of any felony defined in s. 800.04 against a victim younger than 16 years of age, or any felony defined in chapter 794 against a victim younger than 18 years of age, by a public officer or employee through the use or attempted use of power, rights, privileges, duties, or position of his or her public office or employment position.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FORFEITURE.<EmDash />Any public officer or employee who is convicted of a specified offense committed prior to retirement, or whose office or employment is terminated by reason of his or her admitted commission, aid, or abetment of a specified offense, shall forfeit all rights and benefits under any public retirement system of which he or she is a member, except for the return of his or her accumulated contributions as of the date of termination.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">NOTICE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The clerk of a court in which a proceeding involving a specified offense is being conducted against a public officer or employee shall furnish notice of the proceeding to the Commission on Ethics after the state attorney advises the clerk that the defendant is a public officer or employee and that the defendant is alleged to have committed a specified offense. Such notice is sufficient if it is in the form of a copy of the indictment, information, or other document containing the charges. In addition, if a verdict of guilty is returned by a jury or by the court trying the case without a jury, or a plea of guilty or of nolo contendere is entered in the court by the public officer or employee, the clerk shall furnish a copy thereof to the Commission on Ethics.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Secretary of the Senate shall furnish to the Commission on Ethics notice of any proceeding of impeachment being conducted by the Senate. In addition, if such trial results in conviction, the Secretary of the Senate shall furnish notice of the conviction to the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The employer of any member whose office or employment is terminated by reason of his or her admitted commission, aid, or abetment of a specified offense shall forward notice thereof to the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Commission on Ethics shall forward any notice and any other document received by it pursuant to this subsection to the governing body of the public retirement system of which the public officer or employee is a member or from which the public officer or employee may be entitled to receive a benefit. When called on by the Commission on Ethics, the Department of Management Services shall assist the commission in identifying the appropriate public retirement system.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">FORFEITURE DETERMINATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Whenever the official or board responsible for paying benefits under a public retirement system receives notice pursuant to subsection (4), or otherwise has reason to believe that the rights and privileges of any person under such system are required to be forfeited under this section, such official or board shall give notice and hold a hearing in accordance with chapter 120 for the purpose of determining whether such rights and privileges are required to be forfeited. If the official or board determines that such rights and privileges are required to be forfeited, the official or board shall order such rights and privileges forfeited.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any order of forfeiture of retirement system rights and privileges is appealable to the district court of appeal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The payment of retirement benefits ordered forfeited, except payments drawn from nonemployer contributions to the retiree’s account, shall be stayed pending an appeal as to a felony conviction. If such conviction is reversed, no retirement benefits shall be forfeited. If such conviction is affirmed, retirement benefits shall be forfeited as ordered in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If any person’s rights and privileges under a public retirement system are forfeited pursuant to this section and that person has received benefits from the system in excess of his or her accumulated contributions, such person shall pay back to the system the amount of the benefits received in excess of his or her accumulated contributions. If he or she fails to pay back such amount, the official or board responsible for paying benefits pursuant to the retirement system or pension plan may bring an action in circuit court to recover such amount, plus court costs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">FORFEITURE NONEXCLUSIVE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The forfeiture of retirement rights and privileges pursuant to this section is supplemental to any other forfeiture requirements provided by law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This section does not preclude or otherwise limit the Commission on Ethics in conducting under authority of other law an independent investigation of a complaint which it may receive against a public officer or employee involving a specified offense.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 14, ch. 84-266; s. 4, ch. 90-301; s. 44, ch. 92-279; s. 55, ch. 92-326; s. 22, ch. 94-249; s. 1414, ch. 95-147; s. 13, ch. 99-255; s. 3, ch. 2008-108; s. 14, ch. 2012-100.</History>
+</Section>

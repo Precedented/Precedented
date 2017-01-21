@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0383.19" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Standards; funding; ineligibility.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules that specify standards for development and operation of a center which include, but are not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The need to provide services through a regional perinatal intensive care center and the requirements of the population to be served.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Equipment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Staffing and qualifications of personnel.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Transportation services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Data collection.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Definitions of terms.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall designate at least one center to serve a geographic area representing each region of the state in which at least 10,000 live births occur per year, but in no case may there be more than 11 regional perinatal intensive care centers established unless specifically authorized in the appropriations act or in this subsection. Medicaid reimbursement shall be made for services provided to patients who are Medicaid recipients. Medicaid reimbursement for in-center obstetrical physician services shall be based upon the obstetrical care group payment system. Medicaid reimbursement for in-center neonatal physician services shall be based upon the neonatal care group payment system. These prospective payment systems, developed by the department, must place patients into homogeneous groups based on clinical factors, severity of illness, and intensity of care. Outpatient obstetrical services and other related services, such as consultations, shall be reimbursed based on the usual Medicaid method of payment for outpatient medical services.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Failure to comply with the standards established under this section constitutes grounds for terminating the contract.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall give priority to establishing centers in hospitals that demonstrate an interest in perinatal intensive care by meeting program standards.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A private, for-profit hospital that does not accept county, state, or federal funds or indigent patients is not eligible to participate under ss. 383.15-383.21.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Each hospital that contracts with the department to provide services under the terms of ss. 383.15-383.21 shall prepare and submit to the department an annual report that includes, but is not limited to, the number of clients served and the costs of services in the center. The department shall annually conduct a programmatic and financial evaluation of each center.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 76-54; s. 1, ch. 77-171; s. 1, ch. 77-174; s. 2, ch. 79-351; s. 152, ch. 79-400; s. 5, ch. 80-177; s. 2, ch. 82-209; s. 5, ch. 85-225; s. 5, ch. 94-140; s. 19, ch. 2000-242; s. 97, ch. 2010-102.</History>
+</Section>

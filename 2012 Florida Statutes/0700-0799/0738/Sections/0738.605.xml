@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.605" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Timber.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a fiduciary accounts for receipts from the sale of timber and related products pursuant to this section, the fiduciary shall allocate such net receipts as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To income to the extent the amount of timber removed from the land does not exceed the rate of growth of the timber during the accounting periods in which a beneficiary has a mandatory income interest;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To principal to the extent the amount of timber removed from the land exceeds the rate of growth of the timber or the net receipts are from the sale of standing timber;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To or between income and principal if the net receipts are from the lease of timberland or from a contract to cut timber from land owned by a trust or estate by determining the amount of timber removed from the land under the lease or contract and applying the rules in paragraphs (a) and (b); or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To principal to the extent advance payments, bonuses, and other payments are not allocated pursuant to paragraph (a), paragraph (b), or paragraph (c).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In determining net receipts to be allocated pursuant to subsection (1), a fiduciary shall deduct and transfer to principal a reasonable amount for depletion.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This chapter applies whether or not a decedent or donor was harvesting timber from the property before the property became subject to the trust or estate.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If a trust or estate owns an interest in timberland on January 1, 2003, the fiduciary may allocate net receipts from the sale of timber and related products as provided in this chapter or in the manner used by the fiduciary before January 1, 2003. If the trust or estate acquires an interest in timberland after January 1, 2003, the fiduciary shall allocate net receipts from the sale of timber and related products as provided in this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 23, ch. 2012-49.</History>
+</Section>

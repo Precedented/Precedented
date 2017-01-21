@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0440.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">When used in this chapter, unless the context clearly requires otherwise, the following terms shall have the following meanings:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Accident” means only an unexpected or unusual event or result that happens suddenly. Disability or death due to the accidental acceleration or aggravation of a venereal disease or of a disease due to the habitual use of alcohol or controlled substances or narcotic drugs, or a disease that manifests itself in the fear of or dislike for an individual because of the individual’s race, color, religion, sex, national origin, age, or handicap is not an injury by accident arising out of the employment. Subject to s. 440.15(5), if a preexisting disease or anomaly is accelerated or aggravated by an accident arising out of and in the course of employment, only acceleration of death or acceleration or aggravation of the preexisting condition reasonably attributable to the accident is compensable, with respect to any compensation otherwise payable under this chapter. An injury or disease caused by exposure to a toxic substance, including, but not limited to, fungus or mold, is not an injury by accident arising out of the employment unless there is clear and convincing evidence establishing that exposure to the specific substance involved, at the levels to which the employee was exposed, can cause the injury or disease sustained by the employee.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Adoption” or “adopted” means legal adoption prior to the time of the injury.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Agency” means the Agency for Health Care Administration.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Carrier” means any person or fund authorized under s. 440.38 to insure under this chapter and includes a self-insurer, and a commercial self-insurance fund authorized under s. 624.462.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Casual” as used in this section refers only to employments for work that is anticipated to be completed in 10 working days or less, without regard to the number of persons employed, and at a total labor cost of less than $500.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Child” includes a posthumous child, a child legally adopted prior to the injury of the employee, and a stepchild or acknowledged child born out of wedlock dependent upon the deceased, but does not include married children unless wholly dependent on the employee. “Grandchild” means a child as above defined of a child as above defined. “Brother” and “sister” include stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers or married sisters unless wholly dependent on the employee. “Child,” “grandchild,” “brother,” and “sister” include only persons who at the time of the death of the deceased employees are under 18 years of age, or under 22 years of age if a full-time student in an accredited educational institution.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Compensation” means the money allowance payable to an employee or to his or her dependents as provided for in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Construction industry” means for-profit activities involving any building, clearing, filling, excavation, or substantial improvement in the size or use of any structure or the appearance of any land. However, “construction” does not mean a homeowner’s act of construction or the result of a construction upon his or her own premises, provided such premises are not intended to be sold, resold, or leased by the owner within 1 year after the commencement of construction. The division may, by rule, establish standard industrial classification codes and definitions thereof which meet the criteria of the term “construction industry” as set forth in this section.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">“Corporate officer” or “officer of a corporation” means any person who fills an office provided for in the corporate charter or articles of incorporation filed with the Division of Corporations of the Department of State or as permitted or required by chapter 607. As to persons engaged in the construction industry, the term “officer of a corporation” includes a member owning at least 10 percent of a limited liability company created and approved under chapter 608.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Date of maximum medical improvement” means the date after which further recovery from, or lasting improvement to, an injury or disease can no longer reasonably be anticipated, based upon reasonable medical probability.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Death” as a basis for a right to compensation means only death resulting from an injury.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Financial Services; the term does not include the Financial Services Commission or any office of the commission.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Disability” means incapacity because of the injury to earn in the same or any other employment the wages which the employee was receiving at the time of the injury.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Workers’ Compensation of the Department of Financial Services.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employee” means any person who receives remuneration from an employer for the performance of any work or service while engaged in any employment under any appointment or contract for hire or apprenticeship, express or implied, oral or written, whether lawfully or unlawfully employed, and includes, but is not limited to, aliens and minors.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Employee” includes any person who is an officer of a corporation and who performs services for remuneration for such corporation within this state, whether or not such services are continuous.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any officer of a corporation may elect to be exempt from this chapter by filing notice of the election with the department as provided in s. 440.05.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">As to officers of a corporation who are engaged in the construction industry, no more than three officers of a corporation or of any group of affiliated corporations may elect to be exempt from this chapter by filing a notice of the election with the department as provided in s. 440.05. Officers must be shareholders, each owning at least 10 percent of the stock of such corporation and listed as an officer of such corporation with the Division of Corporations of the Department of State, in order to elect exemptions under this chapter. For purposes of this subparagraph, the term “affiliated” means and includes one or more corporations or entities, any one of which is a corporation engaged in the construction industry, under the same or substantially the same control of a group of business entities which are connected or associated so that one entity controls or has the power to control each of the other business entities. The term “affiliated” includes, but is not limited to, the officers, directors, executives, shareholders active in management, employees, and agents of the affiliated corporation. The ownership by one business entity of a controlling interest in another business entity or a pooling of equipment or income among business entities shall be prima facie evidence that one business is affiliated with the other.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An officer of a corporation who elects to be exempt from this chapter by filing a notice of the election with the department as provided in s. 440.05 is not an employee.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Services are presumed to have been rendered to the corporation if the officer is compensated by other than dividends upon shares of stock of the corporation which the officer owns.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Employee” includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A sole proprietor or a partner who is not engaged in the construction industry, devotes full time to the proprietorship or partnership, and elects to be included in the definition of employee by filing notice thereof as provided in s. 440.05.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All persons who are being paid by a construction contractor as a subcontractor, unless the subcontractor has validly elected an exemption as permitted by this chapter, or has otherwise secured the payment of compensation coverage as a subcontractor, consistent with s. 440.10, for work performed by or as a subcontractor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An independent contractor working or performing services in the construction industry.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A sole proprietor who engages in the construction industry and a partner or partnership that is engaged in the construction industry.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Employee” does not include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An independent contractor who is not engaged in the construction industry.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">In order to meet the definition of independent contractor, at least four of the following criteria must be met:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The independent contractor maintains a separate business with his or her own work facility, truck, equipment, materials, or similar accommodations;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The independent contractor holds or has applied for a federal employer identification number, unless the independent contractor is a sole proprietor who is not required to obtain a federal employer identification number under state or federal regulations;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">The independent contractor receives compensation for services rendered or work performed and such compensation is paid to a business rather than to an individual;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">The independent contractor holds one or more bank accounts in the name of the business entity for purposes of paying business expenses or other expenses related to services rendered or work performed for compensation;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">The independent contractor performs work or is able to perform work for any entity in addition to or besides the employer at his or her own election without the necessity of completing an employment application or process; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">The independent contractor receives compensation for work or services rendered on a competitive-bid basis or completion of a task or a set of tasks as defined by a contractual agreement, unless such contractual agreement expressly states that an employment relationship exists.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If four of the criteria listed in sub-subparagraph a. do not exist, an individual may still be presumed to be an independent contractor and not an employee based on full consideration of the nature of the individual situation with regard to satisfying any of the following conditions:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The independent contractor performs or agrees to perform specific services or work for a specific amount of money and controls the means of performing the services or work.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The independent contractor incurs the principal expenses related to the service or work that he or she performs or agrees to perform.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">The independent contractor is responsible for the satisfactory completion of the work or services that he or she performs or agrees to perform.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">The independent contractor receives compensation for work or services performed for a commission or on a per-job basis and not on any other basis.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">The independent contractor may realize a profit or suffer a loss in connection with performing work or services.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">The independent contractor has continuing or recurring business liabilities or obligations.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VII">
+							<Text xml:space="preserve" Style="Intro">The success or failure of the independent contractor’s business depends on the relationship of business receipts to expenditures.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Notwithstanding anything to the contrary in this subparagraph, an individual claiming to be an independent contractor has the burden of proving that he or she is an independent contractor for purposes of this chapter.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A real estate licensee, if that person agrees, in writing, to perform for remuneration solely by way of commission.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Bands, orchestras, and musical and theatrical performers, including disk jockeys, performing in licensed premises as defined in chapter 562, if a written contract evidencing an independent contractor relationship is entered into before the commencement of such entertainment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An owner-operator of a motor vehicle who transports property under a written contract with a motor carrier which evidences a relationship by which the owner-operator assumes the responsibility of an employer for the performance of the contract, if the owner-operator is required to furnish motor vehicle equipment as identified in the written contract and the principal costs incidental to the performance of the contract, including, but not limited to, fuel and repairs, provided a motor carrier’s advance of costs to the owner-operator when a written contract evidences the owner-operator’s obligation to reimburse such advance shall be treated as the owner-operator furnishing such cost and the owner-operator is not paid by the hour or on some other time-measured basis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A person whose employment is both casual and not in the course of the trade, business, profession, or occupation of the employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A volunteer, except a volunteer worker for the state or a county, municipality, or other governmental entity. A person who does not receive monetary remuneration for services is presumed to be a volunteer unless there is substantial evidence that a valuable consideration was intended by both employer and employee. For purposes of this chapter, the term “volunteer” includes, but is not limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Persons who serve in private nonprofit agencies and who receive no compensation other than expenses in an amount less than or equivalent to the standard mileage and per diem expenses provided to salaried employees in the same agency or, if such agency does not have salaried employees who receive mileage and per diem, then such volunteers who receive no compensation other than expenses in an amount less than or equivalent to the customary mileage and per diem paid to salaried workers in the community as determined by the department; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Volunteers participating in federal programs established under Pub. L. No. 93-113.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Unless otherwise prohibited by this chapter, any officer of a corporation who elects to be exempt from this chapter. Such officer is not an employee for any reason under this chapter until the notice of revocation of election filed pursuant to s. 440.05 is effective.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">An officer of a corporation that is engaged in the construction industry who elects to be exempt from the provisions of this chapter, as otherwise permitted by this chapter. Such officer is not an employee for any reason until the notice of revocation of election filed pursuant to s. 440.05 is effective.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">An exercise rider who does not work for a single horse farm or breeder, and who is compensated for riding on a case-by-case basis, provided a written contract is entered into prior to the commencement of such activity which evidences that an employee/employer relationship does not exist.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">A taxicab, limousine, or other passenger vehicle-for-hire driver who operates said vehicles pursuant to a written agreement with a company which provides any dispatch, marketing, insurance, communications, or other services under which the driver and any fees or charges paid by the driver to the company for such services are not conditioned upon, or expressed as a proportion of, fare revenues.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">A person who performs services as a sports official for an entity sponsoring an interscholastic sports event or for a public entity or private, nonprofit organization that sponsors an amateur sports event. For purposes of this subparagraph, such a person is an independent contractor. For purposes of this subparagraph, the term “sports official” means any person who is a neutral participant in a sports event, including, but not limited to, umpires, referees, judges, linespersons, scorekeepers, or timekeepers. This subparagraph does not apply to any person employed by a district school board who serves as a sports official as required by the employing school board or who serves as a sports official as part of his or her responsibilities during normal school hours.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Medicaid-enrolled clients under chapter 393 who are excluded from the definition of employment under s. 443.1216(4)(d) and served by Adult Day Training Services under the Home and Community-Based or the Family and Supported Living Medicaid Waiver program in a sheltered workshop setting licensed by the United States Department of Labor for the purpose of training and earning less than the federal hourly minimum wage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Medicaid-enrolled clients under chapter 393 who are excluded from the definition of employment under s. 443.1216(4)(d) and served by Adult Day Training Services under the Family and Supported Living Medicaid Waiver program in a sheltered workshop setting licensed by the United States Department of Labor for the purpose of training and earning less than the federal hourly minimum wage.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employer” means the state and all political subdivisions thereof, all public and quasi-public corporations therein, every person carrying on any employment, and the legal representative of a deceased person or the receiver or trustees of any person. “Employer” also includes employment agencies, employee leasing companies, and similar agents who provide employees to other persons. If the employer is a corporation, parties in actual control of the corporation, including, but not limited to, the president, officers who exercise broad corporate powers, directors, and all shareholders who directly or indirectly own a controlling interest in the corporation, are considered the employer for the purposes of ss. 440.105, 440.106, and 440.107.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A homeowner shall not be considered the employer of persons hired by the homeowner to carry out construction on the homeowner’s own premises if those premises are not intended for immediate lease, sale, or resale.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Facilities serving individuals under subparagraph (15)(d)12. shall be considered agents of the Agency for Health Care Administration as it relates to providing Adult Day Training Services under the Home and Community-Based Medicaid Waiver program and not employers or third parties for the purpose of limiting or denying Medicaid benefits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employment,” subject to the other provisions of this chapter, means any service performed by an employee for the person employing him or her.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Employment” includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Employment by the state and all political subdivisions thereof and all public and quasi-public corporations therein, including officers elected at the polls.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All private employments in which four or more employees are employed by the same employer or, with respect to the construction industry, all private employment in which one or more employees are employed by the same employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Volunteer firefighters responding to or assisting with fire or medical emergencies whether or not the firefighters are on duty.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Employment” does not include service performed by or as:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Domestic servants in private homes.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Agricultural labor performed on a farm in the employ of a bona fide farmer, or association of farmers, that employs 5 or fewer regular employees and that employs fewer than 12 other employees at one time for seasonal agricultural labor that is completed in less than 30 days, provided such seasonal employment does not exceed 45 days in the same calendar year. The term “farm” includes stock, dairy, poultry, fruit, fur-bearing animals, fish, and truck farms, ranches, nurseries, and orchards. The term “agricultural labor” includes field foremen, timekeepers, checkers, and other farm labor supervisory personnel.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Professional athletes, such as professional boxers, wrestlers, baseball, football, basketball, hockey, polo, tennis, jai alai, and similar players, and motorsports teams competing in a motor racing event as defined in s. 549.08.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Labor under a sentence of a court to perform community services as provided in s. 316.193.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">State prisoners or county inmates, except those performing services for private employers or those enumerated in s. 948.036(1).</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Misconduct” includes, but is not limited to, the following, which shall not be construed in pari materia with each other:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Conduct evincing such willful or wanton disregard of an employer’s interests as is found in deliberate violation or disregard of standards of behavior which the employer has the right to expect of the employee; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Carelessness or negligence of such a degree or recurrence as to manifest culpability, wrongful intent, or evil design, or to show an intentional and substantial disregard of an employer’s interests or of the employee’s duties and obligations to the employer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Injury” means personal injury or death by accident arising out of and in the course of employment, and such diseases or infection as naturally or unavoidably result from such injury. Damage to dentures, eyeglasses, prosthetic devices, and artificial limbs may be included in this definition only when the damage is shown to be part of, or in conjunction with, an accident. This damage must specifically occur as the result of an accident in the normal course of employment.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Parent” includes stepparents and parents by adoption, parents-in-law, and any persons who for more than 3 years prior to the death of the deceased employee stood in the place of a parent to him or her and were dependent on the injured employee.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Partner” means any person who is a member of a partnership that is formed by two or more persons to carry on as coowners of a business with the understanding that there will be a proportional sharing of the profits and losses between them. For the purposes of this chapter, a partner is a person who participates fully in the management of the partnership and who is personally liable for its debts.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Permanent impairment” means any anatomic or functional abnormality or loss determined as a percentage of the body as a whole, existing after the date of maximum medical improvement, which results from the injury.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Person” means individual, partnership, association, or corporation, including any public service corporation.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Self-insurer” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any employer who has secured payment of compensation pursuant to s. 440.38(1)(b) or (6) as an individual self-insurer;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any employer who has secured payment of compensation through a group self-insurance fund under s. 624.4621;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any group self-insurance fund established under s. 624.4621;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A public utility as defined in s. 364.02 or s. 366.02 that has assumed by contract the liabilities of contractors or subcontractors pursuant to s. 624.46225; or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any local government self-insurance fund established under s. 624.4622.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Sole proprietor” means a natural person who owns a form of business in which that person owns all the assets of the business and is solely liable for all the debts of the business.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Spouse” includes only a spouse substantially dependent for financial support upon the decedent and living with the decedent at the time of the decedent’s injury and death, or substantially dependent upon the decedent for financial support and living apart at that time for justifiable cause.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Time of injury” means the time of the occurrence of the accident resulting in the injury.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Wages” means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury and includes only the wages earned and reported for federal income tax purposes on the job where the employee is injured and any other concurrent employment where he or she is also subject to workers’ compensation coverage and benefits, together with the reasonable value of housing furnished to the employee by the employer which is the permanent year-round residence of the employee, and gratuities to the extent reported to the employer in writing as taxable income received in the course of employment from others than the employer and employer contributions for health insurance for the employee or the employee’s dependents. However, housing furnished to migrant workers shall be included in wages unless provided after the time of injury. In employment in which an employee receives consideration for housing, the reasonable value of such housing compensation shall be the actual cost to the employer or based upon the Fair Market Rent Survey promulgated pursuant to s. 8 of the Housing and Urban Development Act of 1974, whichever is less. However, if employer contributions for housing or health insurance are continued after the time of the injury, the contributions are not “wages” for the purpose of calculating an employee’s average weekly wage.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Weekly compensation rate” means and refers to the amount of compensation payable for a period of 7 consecutive calendar days, including any Saturdays, Sundays, holidays, and other nonworking days which fall within such period of 7 consecutive calendar days. When Saturdays, Sundays, holidays, or other nonworking days immediately follow the first 7 calendar days of disability or occur at the end of a period of disability as the last day or days of such period, such nonworking days constitute a part of the period of disability with respect to which compensation is payable.</Text>
+		</Subsection>
+		<Subsection Id="30">
+			<Text xml:space="preserve" Style="Intro">“Construction design professional” means an architect, professional engineer, landscape architect, or surveyor and mapper, or any corporation, professional or general, that has a certificate to practice in the construction design field from the Department of Business and Professional Regulation.</Text>
+		</Subsection>
+		<Subsection Id="31">
+			<Text xml:space="preserve" Style="Intro">“Individual self-insurer” means any employer who has secured payment of compensation pursuant to s. 440.38(1)(b) as an individual self-insurer.</Text>
+		</Subsection>
+		<Subsection Id="32">
+			<Text xml:space="preserve" Style="Intro">“Domestic individual self-insurer” means an individual self-insurer:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Which is a corporation formed under the laws of this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Who is an individual who is a resident of this state or whose primary place of business is located in this state; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Which is a partnership whose principals are residents of this state or whose primary place of business is located in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="33">
+			<Text xml:space="preserve" Style="Intro">“Foreign individual self-insurer” means an individual self-insurer:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Which is a corporation formed under the laws of any state, district, territory, or commonwealth of the United States other than this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Who is an individual who is not a resident of this state and whose primary place of business is not located in this state; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Which is a partnership whose principals are not residents of this state and whose primary place of business is not located in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="34">
+			<Text xml:space="preserve" Style="Intro">“Insolvent member” means an individual self-insurer which is a member of the Florida Self-Insurers Guaranty Association, Incorporated, or which was a member and has withdrawn pursuant to s. 440.385(1)(b), and which has been found insolvent, as defined in subparagraph (35)(a)1., subparagraph (35)(a)2., or subparagraph (35)(a)3., by a court of competent jurisdiction in this or any other state, or meets the definition of subparagraph (35)(a)4.</Text>
+		</Subsection>
+		<Subsection Id="35">
+			<Text xml:space="preserve" Style="Intro">“Insolvency” or “insolvent” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">With respect to an individual self-insurer:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That all assets of the individual self-insurer, if made immediately available, would not be sufficient to meet all the individual self-insurer’s liabilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That the individual self-insurer is unable to pay its debts as they become due in the usual course of business;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the individual self-insurer has substantially ceased or suspended the payment of compensation to its employees as required in this chapter; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">That the individual self-insurer has sought protection under the United States Bankruptcy Code or has been brought under the jurisdiction of a court of bankruptcy as a debtor pursuant to the United States Bankruptcy Code.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">With respect to an employee claiming insolvency pursuant to s. 440.25(5), a person is insolvent who:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has ceased to pay his or her debts in the ordinary course of business and cannot pay his or her debts as they become due; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has been adjudicated insolvent pursuant to the federal bankruptcy law.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="36">
+			<Text xml:space="preserve" Style="Intro">“Arising out of” pertains to occupational causation. An accidental injury or death arises out of employment if work performed in the course and scope of employment is the major contributing cause of the injury or death.</Text>
+		</Subsection>
+		<Subsection Id="37">
+			<Text xml:space="preserve" Style="Intro">“Soft-tissue injury” means an injury that produces damage to the soft tissues, rather than to the skeletal tissues or soft organs.</Text>
+		</Subsection>
+		<Subsection Id="38">
+			<Text xml:space="preserve" Style="Intro">“Insurer” means a group self-insurers’ fund authorized by s. 624.4621, an individual self-insurer authorized by s. 440.38, a commercial self-insurance fund authorized by s. 624.462, an assessable mutual insurer authorized by s. 628.6011, and an insurer licensed to write workers’ compensation and employer’s liability insurance in this state. The term “carrier,” as used in this chapter, means an insurer as defined in this subsection.</Text>
+		</Subsection>
+		<Subsection Id="39">
+			<Text xml:space="preserve" Style="Intro">“Statement,” for the purposes of ss. 440.105 and 440.106, shall include the exact fraud statement language in s. 440.105(7). This requirement includes, but is not limited to, any notice, representation, statement, proof of injury, bill for services, diagnosis, prescription, hospital or doctor record, X ray, test result, or other evidence of loss, injury, or expense.</Text>
+		</Subsection>
+		<Subsection Id="40">
+			<Text xml:space="preserve" Style="Intro">“Specificity” means information on the petition for benefits sufficient to put the employer or carrier on notice of the exact statutory classification and outstanding time period of benefits being requested and includes a detailed explanation of any benefits received that should be increased, decreased, changed, or otherwise modified. If the petition is for medical benefits, the information shall include specific details as to why such benefits are being requested, why such benefits are medically necessary, and why current treatment, if any, is not sufficient. Any petition requesting alternate or other medical care, including, but not limited to, petitions requesting psychiatric or psychological treatment, must specifically identify the physician, as defined in s. 440.13(1), who is recommending such treatment. A copy of a report from such physician making the recommendation for alternate or other medical care shall also be attached to the petition. A judge of compensation claims shall not order such treatment if a physician is not recommending such treatment.</Text>
+		</Subsection>
+		<Subsection Id="41">
+			<Text xml:space="preserve" Style="Intro">“Office of Insurance Regulation” means the Office of Insurance Regulation of the Financial Services Commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 17481, 1935; s. 1, ch. 17482, 1935; s. 1, ch. 17483, 1935; CGL 1936 Supp. 5966(2); s. 1, ch. 18413, 1937; s. 1, ch. 20672, 1941; s. 1, ch. 28238, 1953; s. 1, ch. 29778, 1955; s. 1, ch. 57-155; s. 1, ch. 57-225; s. 1, ch. 59-100; s. 1, ch. 65-184; s. 1, ch. 67-554; ss. 17, 35, ch. 69-106; s. 1, ch. 71-80; s. 162, ch. 71-377; s. 1, ch. 72-243; s. 1, ch. 73-127; s. 1, ch. 73-283; s. 116, ch. 73-333; s. 1, ch. 74-46; s. 1, ch. 74-124; s. 1, ch. 74-197; s. 1, ch. 75-209; s. 1, ch. 77-174; s. 1, ch. 77-290; ss. 1, 23, ch. 78-300; s. 15, ch. 79-7; ss. 2, 124, ch. 79-40; s. 21, ch. 79-312; s. 1, ch. 80-236; s. 3, ch. 81-119; ss. 1, 20, ch. 83-305; s. 1, ch. 84-267; s. 6, ch. 86-171; s. 1, ch. 87-330; s. 1, ch. 88-203; s. 2, ch. 89-61; ss. 3, 43, ch. 89-289; ss. 9, 56, ch. 90-201; ss. 7, 52, ch. 91-1; s. 1, ch. 91-2; s. 2, ch. 93-415; s. 117, ch. 94-119; s. 59, ch. 94-218; s. 97, ch. 97-103; s. 1, ch. 98-174; s. 89, ch. 2000-153; s. 7, ch. 2001-91; s. 11, ch. 2002-194; s. 5, ch. 2002-236; s. 54, ch. 2003-164; s. 467, ch. 2003-261; ss. 1, 2, ch. 2003-412; s. 2, ch. 2003-422; s. 59, ch. 2004-5; s. 32, ch. 2004-373; s. 21, ch. 2005-60; s. 12, ch. 2005-71; s. 1, ch. 2005-78; s. 4, ch. 2006-15; ss. 1, 2, ch. 2012-213.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 1, ch. 2012-213, amended subsection (9), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(9) “Corporate officer” or “officer of a corporation” means any person who fills an office provided for in the corporate charter or articles of incorporation filed with the Division of Corporations of the Department of State or as permitted or required by chapter 607. The term “officer of a corporation” includes a member owning at least 10 percent of a limited liability company created and approved under chapter 608.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.9113" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disproportionate share program for teaching hospitals.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In addition to the payments made under s. 409.911, the agency shall make disproportionate share payments to teaching hospitals, as defined in s. 408.07, for their increased costs associated with medical education programs and for tertiary health care services provided to the indigent. This system of payments must conform to federal requirements and distribute funds in each fiscal year for which an appropriation is made by making quarterly Medicaid payments. Notwithstanding s. 409.915, counties are exempt from contributing toward the cost of this special reimbursement for hospitals serving a disproportionate share of low-income patients. The agency shall distribute the moneys provided in the General Appropriations Act to statutorily defined teaching hospitals and family practice teaching hospitals, as defined in s. 395.805, pursuant to this section. The funds provided for statutorily defined teaching hospitals shall be distributed as provided in the General Appropriations Act. The funds provided for family practice teaching hospitals shall be distributed equally among family practice teaching hospitals.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">On or before September 15 of each year, the agency shall calculate an allocation fraction to be used for distributing funds to statutory teaching hospitals. Subsequent to the end of each quarter of the state fiscal year, the agency shall distribute to each statutory teaching hospital an amount determined by multiplying one-fourth of the funds appropriated for this purpose by the Legislature times such hospital’s allocation fraction. The allocation fraction for each such hospital shall be determined by the sum of the following three primary factors, divided by three:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The number of nationally accredited graduate medical education programs offered by the hospital, including programs accredited by the Accreditation Council for Graduate Medical Education or programs accredited by the Council on Postdoctoral Training of the American Osteopathic Association and the combined Internal Medicine and Pediatrics programs acceptable to both the American Board of Internal Medicine and the American Board of Pediatrics at the beginning of the state fiscal year preceding the date on which the allocation fraction is calculated. The numerical value of this factor is the fraction that the hospital represents of the total number of programs, where the total is computed for all statutory teaching hospitals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The number of full-time equivalent trainees in the hospital, which comprises two components:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The number of trainees enrolled in nationally accredited graduate medical education programs, as defined in paragraph (a). Full-time equivalents are computed using the fraction of the year during which each trainee is primarily assigned to the given institution, over the state fiscal year preceding the date on which the allocation fraction is calculated. The numerical value of this factor is the fraction that the hospital represents of the total number of full-time equivalent trainees enrolled in accredited graduate programs, where the total is computed for all statutory teaching hospitals.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The number of medical students enrolled in accredited colleges of medicine and engaged in clinical activities, including required clinical clerkships and clinical electives. Full-time equivalents are computed using the fraction of the year during which each trainee is primarily assigned to the given institution, over the course of the state fiscal year preceding the date on which the allocation fraction is calculated. The numerical value of this factor is the fraction that the given hospital represents of the total number of full-time equivalent students enrolled in accredited colleges of medicine, where the total is computed for all statutory teaching hospitals.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The primary factor for full-time equivalent trainees is computed as the sum of these two components, divided by two.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A service index that comprises three components:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration Service Index, computed by applying the standard Service Inventory Scores established by the agency to services offered by the given hospital, as reported on Worksheet A-2 for the last fiscal year reported to the agency before the date on which the allocation fraction is calculated. The numerical value of this factor is the fraction that the given hospital represents of the total index values, where the total is computed for all statutory teaching hospitals.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A volume-weighted service index, computed by applying the standard Service Inventory Scores established by the agency to the volume of each service, expressed in terms of the standard units of measure reported on Worksheet A-2 for the last fiscal year reported to the agency before the date on which the allocation factor is calculated. The numerical value of this factor is the fraction that the given hospital represents of the total volume-weighted service index values, where the total is computed for all statutory teaching hospitals.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Total Medicaid payments to each hospital for direct inpatient and outpatient services during the fiscal year preceding the date on which the allocation factor is calculated. This includes payments made to each hospital for such services by Medicaid prepaid health plans, whether the plan was administered by the hospital or not. The numerical value of this factor is the fraction that each hospital represents of the total of such Medicaid payments, where the total is computed for all statutory teaching hospitals.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The primary factor for the service index is computed as the sum of these three components, divided by three.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">By October 1 of each year, the agency shall use the following formula to calculate the maximum additional disproportionate share payment for statutory teaching hospitals:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">TAP = THAF x A</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Where:</Text>
+			<Text xml:space="preserve" Style="Indent">TAP = total additional payment.</Text>
+			<Text xml:space="preserve" Style="Indent">THAF = teaching hospital allocation factor.</Text>
+			<Text xml:space="preserve" Style="Indent">A = amount appropriated for a teaching hospital disproportionate share program.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 41, ch. 91-282; s. 99, ch. 92-33; s. 18, ch. 98-89; s. 15, ch. 2004-270; s. 13, ch. 2005-60; s. 16, ch. 2006-28; s. 8, ch. 2008-143; s. 11, ch. 2009-55; s. 12, ch. 2010-156; s. 10, ch. 2011-61; s. 9, ch. 2012-33.</History>
+</Section>

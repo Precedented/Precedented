@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.004" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">HIV testing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“HIV test” means a test ordered after July 6, 1988, to determine the presence of the antibody or antigen to human immunodeficiency virus or the presence of human immunodeficiency virus infection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“HIV test result” means a laboratory report of a human immunodeficiency virus test result entered into a medical record on or after July 6, 1988, or any report or notation in a medical record of a laboratory report of a human immunodeficiency virus test. As used in this section, the term “HIV test result” does not include test results reported to a health care provider by a patient.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Significant exposure” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Exposure to blood or body fluids through needlestick, instruments, or sharps;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Exposure of mucous membranes to visible blood or body fluids, to which universal precautions apply according to the National Centers for Disease Control and Prevention, including, without limitations, the following body fluids:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Blood.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Semen.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Vaginal secretions.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Cerebro-spinal fluid (CSF).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Synovial fluid.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Pleural fluid.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Peritoneal fluid.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Pericardial fluid.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Amniotic fluid.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Laboratory specimens that contain HIV (e.g., suspensions of concentrated virus); or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Exposure of skin to visible blood or body fluids, especially when the exposed skin is chapped, abraded, or afflicted with dermatitis or the contact is prolonged or involving an extensive area.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Preliminary HIV test” means an antibody screening test, such as the enzyme-linked immunosorbent assays (ELISAs) or the Single-Use Diagnostic System (SUDS).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Test subject” or “subject of the test” means the person upon whom an HIV test is performed, or the person who has legal authority to make health care decisions for the test subject.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">HUMAN IMMUNODEFICIENCY VIRUS TESTING; INFORMED CONSENT; RESULTS; COUNSELING; CONFIDENTIALITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No person in this state shall order a test designed to identify the human immunodeficiency virus, or its antigen or antibody, without first obtaining the informed consent of the person upon whom the test is being performed, except as specified in paragraph (h). Informed consent shall be preceded by an explanation of the right to confidential treatment of information identifying the subject of the test and the results of the test to the extent provided by law. Information shall also be provided on the fact that a positive HIV test result will be reported to the county health department with sufficient information to identify the test subject and on the availability and location of sites at which anonymous testing is performed. As required in paragraph (3)(c), each county health department shall maintain a list of sites at which anonymous testing is performed, including the locations, phone numbers, and hours of operation of the sites. Consent need not be in writing provided there is documentation in the medical record that the test has been explained and the consent has been obtained.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (h), informed consent must be obtained from a legal guardian or other person authorized by law when the person:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is not competent, is incapacitated, or is otherwise unable to make an informed judgment; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has not reached the age of majority, except as provided in s. 384.30.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The person ordering the test or that person’s designee shall ensure that all reasonable efforts are made to notify the test subject of his or her test result. Notification of a person with a positive test result shall include information on the availability of appropriate medical and support services, on the importance of notifying partners who may have been exposed, and on preventing transmission of HIV. Notification of a person with a negative test result shall include, as appropriate, information on preventing the transmission of HIV. When testing occurs in a hospital emergency department, detention facility, or other facility and the test subject has been released before being notified of positive test results, informing the county health department for that department to notify the test subject fulfills this responsibility.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A positive preliminary test result may not be revealed to any person except in the following situations:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Preliminary test results may be released to licensed physicians or the medical or nonmedical personnel subject to the significant exposure for purposes of subparagraphs (h)10., 11., and 12.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Preliminary test results may be released to health care providers and to the person tested when decisions about medical care or treatment of, or recommendation to, the person tested and, in the case of an intrapartum or postpartum woman, when care, treatment, or recommendations regarding her newborn, cannot await the results of confirmatory testing. Positive preliminary HIV test results may not be characterized to the patient as a diagnosis of HIV infection. Justification for the use of preliminary test results must be documented in the medical record by the health care provider who ordered the test.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The results of rapid testing technologies shall be considered preliminary and may be released in accordance with the manufacturer’s instructions as approved by the federal Food and Drug Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Corroborating or confirmatory testing must be conducted as followup to a positive preliminary test. Results shall be communicated to the patient according to statute regardless of the outcome. Except as provided in this section, test results are confidential and exempt from the provisions of s. 119.07(1).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Except as provided in this section, the identity of any person upon whom a test has been performed and test results are confidential and exempt from the provisions of s. 119.07(1). No person who has obtained or has knowledge of a test result pursuant to this section may disclose or be compelled to disclose the identity of any person upon whom a test is performed, or the results of such a test in a manner which permits identification of the subject of the test, except to the following persons:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The subject of the test or the subject’s legally authorized representative.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any person, including third-party payors, designated in a legally effective release of the test results executed prior to or after the test by the subject of the test or the subject’s legally authorized representative. The test subject may in writing authorize the disclosure of the test subject’s HIV test results to third party payors, who need not be specifically identified, and to other persons to whom the test subject subsequently issues a general release of medical information. A general release without such prior written authorization is not sufficient to release HIV test results.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An authorized agent or employee of a health facility or health care provider if the health facility or health care provider itself is authorized to obtain the test results, the agent or employee participates in the administration or provision of patient care or handles or processes specimens of body fluids or tissues, and the agent or employee has a need to know such information. The department shall adopt a rule defining which persons have a need to know pursuant to this subparagraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Health care providers consulting between themselves or with health care facilities to determine diagnosis and treatment. For purposes of this subparagraph, health care providers shall include licensed health care professionals employed by or associated with state, county, or municipal detention facilities when such health care professionals are acting exclusively for the purpose of providing diagnoses or treatment of persons in the custody of such facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The department, in accordance with rules for reporting and controlling the spread of disease, as otherwise provided by state law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A health facility or health care provider which procures, processes, distributes, or uses:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A human body part from a deceased person, with respect to medical information regarding that person; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Semen provided prior to July 6, 1988, for the purpose of artificial insemination.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Health facility staff committees, for the purposes of conducting program monitoring, program evaluation, or service reviews pursuant to chapters 395 and 766.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Authorized medical or epidemiological researchers who may not further disclose any identifying characteristics or information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A person allowed access by a court order which is issued in compliance with the following provisions:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">No court of this state shall issue such order unless the court finds that the person seeking the test results has demonstrated a compelling need for the test results which cannot be accommodated by other means. In assessing compelling need, the court shall weigh the need for disclosure against the privacy interest of the test subject and the public interest which may be disserved by disclosure which deters blood, organ, and semen donation and future human immunodeficiency virus-related testing or which may lead to discrimination. This paragraph shall not apply to blood bank donor records.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Pleadings pertaining to disclosure of test results shall substitute a pseudonym for the true name of the subject of the test. The disclosure to the parties of the subject’s true name shall be communicated confidentially in documents not filed with the court.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Before granting any such order, the court shall provide the individual whose test result is in question with notice and a reasonable opportunity to participate in the proceedings if he or she is not already a party.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Court proceedings as to disclosure of test results shall be conducted in camera, unless the subject of the test agrees to a hearing in open court or unless the court determines that a public hearing is necessary to the public interest and the proper administration of justice.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Upon the issuance of an order to disclose test results, the court shall impose appropriate safeguards against unauthorized disclosure which shall specify the persons who may have access to the information, the purposes for which the information shall be used, and appropriate prohibitions on future disclosure.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">A person allowed access by order of a judge of compensation claims of the Division of Administrative Hearings. A judge of compensation claims shall not issue such order unless he or she finds that the person seeking the test results has demonstrated a compelling need for the test results which cannot be accommodated by other means.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Those employees of the department or of child-placing or child-caring agencies or of family foster homes, licensed pursuant to s. 409.175, who are directly involved in the placement, care, control, or custody of such test subject and who have a need to know such information; adoptive parents of such test subject; or any adult custodian, any adult relative, or any person responsible for the child’s welfare, if the test subject was not tested under subparagraph (b)2. and if a reasonable attempt has been made to locate and inform the legal guardian of a test result. The department shall adopt a rule to implement this subparagraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Those employees of residential facilities or of community-based care programs that care for developmentally disabled persons, pursuant to chapter 393, who are directly involved in the care, control, or custody of such test subject and who have a need to know such information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">A health care provider involved in the delivery of a child can note the mother’s HIV test results in the child’s medical record.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Medical personnel or nonmedical personnel who have been subject to a significant exposure during the course of medical practice or in the performance of professional duties, or individuals who are the subject of the significant exposure as provided in subparagraphs (h)10.-12.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">The medical examiner shall disclose positive HIV test results to the department in accordance with rules for reporting and controlling the spread of disease.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Except as provided in this section, the identity of a person upon whom a test has been performed is confidential and exempt from the provisions of s. 119.07(1). No person to whom the results of a test have been disclosed may disclose the test results to another person except as authorized by this subsection and by ss. 951.27 and 960.003. Whenever disclosure is made pursuant to this subsection, it shall be accompanied by a statement in writing which includes the following or substantially similar language: “This information has been disclosed to you from records whose confidentiality is protected by state law. State law prohibits you from making any further disclosure of such information without the specific written consent of the person to whom such information pertains, or as otherwise permitted by state law. A general authorization for the release of medical or other information is NOT sufficient for this purpose.” An oral disclosure shall be accompanied by oral notice and followed by a written notice within 10 days, except that this notice shall not be required for disclosures made pursuant to subparagraphs (e)3. and 4.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Human immunodeficiency virus test results contained in the medical records of a hospital licensed under chapter 395 may be released in accordance with s. 395.3025 without being subject to the requirements of subparagraph (e)2., subparagraph (e)9., or paragraph (f); provided the hospital has obtained written informed consent for the HIV test in accordance with provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of paragraph (a), informed consent is not required:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When testing for sexually transmissible diseases is required by state or federal law, or by rule including the following situations:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">HIV testing pursuant to s. 796.08 of persons convicted of prostitution or of procuring another to commit prostitution.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">HIV testing of inmates pursuant to s. 945.355 prior to their release from prison by reason of parole, accumulation of gain-time credits, or expiration of sentence.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Testing for HIV by a medical examiner in accordance with s. 406.11.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">HIV testing of pregnant women pursuant to s. 384.31.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Those exceptions provided for blood, plasma, organs, skin, semen, or other human tissue pursuant to s. 381.0041.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV-related test by licensed medical personnel in bona fide medical emergencies when the test results are necessary for medical diagnostic purposes to provide appropriate emergency care or treatment to the person being tested and the patient is unable to consent, as supported by documentation in the medical record. Notification of test results in accordance with paragraph (c) is required.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV-related test by licensed medical personnel for medical diagnosis of acute illness where, in the opinion of the attending physician, obtaining informed consent would be detrimental to the patient, as supported by documentation in the medical record, and the test results are necessary for medical diagnostic purposes to provide appropriate care or treatment to the person being tested. Notification of test results in accordance with paragraph (c) is required if it would not be detrimental to the patient. This subparagraph does not authorize the routine testing of patients for HIV infection without informed consent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">When HIV testing is performed as part of an autopsy for which consent was obtained pursuant to s. 872.04.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV test upon a defendant pursuant to the victim’s request in a prosecution for any type of sexual battery where a blood sample is taken from the defendant voluntarily, pursuant to court order for any purpose, or pursuant to the provisions of s. 775.0877, s. 951.27, or s. 960.003; however, the results of any HIV test performed shall be disclosed solely to the victim and the defendant, except as provided in ss. 775.0877, 951.27, and 960.003.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">When an HIV test is mandated by court order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">For epidemiological research pursuant to <Reference Number="1"/>s. 381.0032, for research consistent with institutional review boards created by 45 C.F.R. part 46, or for the performance of an HIV-related test for the purpose of research, if the testing is performed in a manner by which the identity of the test subject is not known and may not be retrieved by the researcher.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">When human tissue is collected lawfully without the consent of the donor for corneal removal as authorized by s. 765.5185 or enucleation of the eyes as authorized by s. 765.519.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV test upon an individual who comes into contact with medical personnel in such a way that a significant exposure has occurred during the course of employment or within the scope of practice and where a blood sample is available that was taken from that individual voluntarily by medical personnel for other purposes. The term “medical personnel” includes a licensed or certified health care professional; an employee of a health care professional or health care facility; employees of a laboratory licensed under chapter 483; personnel of a blood bank or plasma center; a medical student or other student who is receiving training as a health care professional at a health care facility; and a paramedic or emergency medical technician certified by the department to perform life-support procedures under s. 401.23.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Prior to performance of an HIV test on a voluntarily obtained blood sample, the individual from whom the blood was obtained shall be requested to consent to the performance of the test and to the release of the results. If consent cannot be obtained within the time necessary to perform the HIV test and begin prophylactic treatment of the exposed medical personnel, all information concerning the performance of an HIV test and any HIV test result shall be documented only in the medical personnel’s record unless the individual gives written consent to entering this information on the individual’s medical record.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Reasonable attempts to locate the individual and to obtain consent shall be made, and all attempts must be documented. If the individual cannot be found or is incapable of providing consent, an HIV test may be conducted on the available blood sample. If the individual does not voluntarily consent to the performance of an HIV test, the individual shall be informed that an HIV test will be performed, and counseling shall be furnished as provided in this section. However, HIV testing shall be conducted only after appropriate medical personnel under the supervision of a licensed physician documents, in the medical record of the medical personnel, that there has been a significant exposure and that, in accordance with the written protocols based on the National Centers for Disease Control and Prevention guidelines on HIV postexposure prophylaxis and in the physician’s medical judgment, the information is medically necessary to determine the course of treatment for the medical personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Costs of any HIV test of a blood sample performed with or without the consent of the individual, as provided in this subparagraph, shall be borne by the medical personnel or the employer of the medical personnel. However, costs of testing or treatment not directly related to the initial HIV tests or costs of subsequent testing or treatment may not be borne by the medical personnel or the employer of the medical personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">In order to utilize the provisions of this subparagraph, the medical personnel must either be tested for HIV pursuant to this section or provide the results of an HIV test taken within 6 months prior to the significant exposure if such test results are negative.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A person who receives the results of an HIV test pursuant to this subparagraph shall maintain the confidentiality of the information received and of the persons tested. Such confidential information is exempt from s. 119.07(1).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">If the source of the exposure will not voluntarily submit to HIV testing and a blood sample is not available, the medical personnel or the employer of such person acting on behalf of the employee may seek a court order directing the source of the exposure to submit to HIV testing. A sworn statement by a physician licensed under chapter 458 or chapter 459 that a significant exposure has occurred and that, in the physician’s medical judgment, testing is medically necessary to determine the course of treatment constitutes probable cause for the issuance of an order by the court. The results of the test shall be released to the source of the exposure and to the person who experienced the exposure.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV test upon an individual who comes into contact with medical personnel in such a way that a significant exposure has occurred during the course of employment or within the scope of practice of the medical personnel while the medical personnel provides emergency medical treatment to the individual; or notwithstanding s. 384.287, an individual who comes into contact with nonmedical personnel in such a way that a significant exposure has occurred while the nonmedical personnel provides emergency medical assistance during a medical emergency. For the purposes of this subparagraph, a medical emergency means an emergency medical condition outside of a hospital or health care facility that provides physician care. The test may be performed only during the course of treatment for the medical emergency.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An individual who is capable of providing consent shall be requested to consent to an HIV test prior to the testing. If consent cannot be obtained within the time necessary to perform the HIV test and begin prophylactic treatment of the exposed medical personnel and nonmedical personnel, all information concerning the performance of an HIV test and its result, shall be documented only in the medical personnel’s or nonmedical personnel’s record unless the individual gives written consent to entering this information on the individual’s medical record.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">HIV testing shall be conducted only after appropriate medical personnel under the supervision of a licensed physician documents, in the medical record of the medical personnel or nonmedical personnel, that there has been a significant exposure and that, in accordance with the written protocols based on the National Centers for Disease Control and Prevention guidelines on HIV postexposure prophylaxis and in the physician’s medical judgment, the information is medically necessary to determine the course of treatment for the medical personnel or nonmedical personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Costs of any HIV test performed with or without the consent of the individual, as provided in this subparagraph, shall be borne by the medical personnel or the employer of the medical personnel or nonmedical personnel. However, costs of testing or treatment not directly related to the initial HIV tests or costs of subsequent testing or treatment may not be borne by the medical personnel or the employer of the medical personnel or nonmedical personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">In order to utilize the provisions of this subparagraph, the medical personnel or nonmedical personnel shall be tested for HIV pursuant to this section or shall provide the results of an HIV test taken within 6 months prior to the significant exposure if such test results are negative.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A person who receives the results of an HIV test pursuant to this subparagraph shall maintain the confidentiality of the information received and of the persons tested. Such confidential information is exempt from s. 119.07(1).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">If the source of the exposure will not voluntarily submit to HIV testing and a blood sample was not obtained during treatment for the medical emergency, the medical personnel, the employer of the medical personnel acting on behalf of the employee, or the nonmedical personnel may seek a court order directing the source of the exposure to submit to HIV testing. A sworn statement by a physician licensed under chapter 458 or chapter 459 that a significant exposure has occurred and that, in the physician’s medical judgment, testing is medically necessary to determine the course of treatment constitutes probable cause for the issuance of an order by the court. The results of the test shall be released to the source of the exposure and to the person who experienced the exposure.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV test by the medical examiner or attending physician upon an individual who expired or could not be resuscitated while receiving emergency medical assistance or care and who was the source of a significant exposure to medical or nonmedical personnel providing such assistance or care.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">HIV testing may be conducted only after appropriate medical personnel under the supervision of a licensed physician documents in the medical record of the medical personnel or nonmedical personnel that there has been a significant exposure and that, in accordance with the written protocols based on the National Centers for Disease Control and Prevention guidelines on HIV postexposure prophylaxis and in the physician’s medical judgment, the information is medically necessary to determine the course of treatment for the medical personnel or nonmedical personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Costs of any HIV test performed under this subparagraph may not be charged to the deceased or to the family of the deceased person.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">For the provisions of this subparagraph to be applicable, the medical personnel or nonmedical personnel must be tested for HIV under this section or must provide the results of an HIV test taken within 6 months before the significant exposure if such test results are negative.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A person who receives the results of an HIV test pursuant to this subparagraph shall comply with paragraph (e).</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">For the performance of an HIV-related test medically indicated by licensed medical personnel for medical diagnosis of a hospitalized infant as necessary to provide appropriate care and treatment of the infant when, after a reasonable attempt, a parent cannot be contacted to provide consent. The medical records of the infant shall reflect the reason consent of the parent was not initially obtained. Test results shall be provided to the parent when the parent is located.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">For the performance of HIV testing conducted to monitor the clinical progress of a patient previously diagnosed to be HIV positive.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">For the performance of repeated HIV testing conducted to monitor possible conversion from a significant exposure.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">COUNTY HEALTH DEPARTMENT NETWORK OF VOLUNTARY HUMAN IMMUNODEFICIENCY VIRUS TESTING PROGRAMS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Health shall establish a network of voluntary human immunodeficiency virus testing programs in every county in the state. These programs shall be conducted in each health department established under the provisions of part I of chapter 154. Additional programs may be contracted to other private providers to the extent that finances permit and local circumstances dictate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each county health department shall have the ability to provide counseling and testing for human immunodeficiency virus to each patient who receives services and shall offer such testing on a voluntary basis to each patient who presents himself or herself for services in a public health program designated by the State Health Officer by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each county health department shall provide a program of counseling and testing for human immunodeficiency virus infection, on both an anonymous and confidential basis. Counseling provided to a patient tested on both an anonymous and confidential basis shall include informing the patient of the availability of partner-notification services, the benefits of such services, and the confidentiality protections available as part of such services. The Department of Health or its designated agent shall continue to provide for anonymous testing through an alternative testing site program with sites throughout all areas of the state. Each county health department shall maintain a list of anonymous testing sites. The list shall include the locations, phone numbers, and hours of operation of the sites and shall be disseminated to all persons and programs offering human immunodeficiency virus testing within the service area of the county health department, including physicians licensed under chapter 458 or chapter 459. Except as provided in this section, the identity of a person upon whom a test has been performed and test results are confidential and exempt from the provisions of s. 119.07(1).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The result of a serologic test conducted under the auspices of the Department of Health shall not be used to determine if a person may be insured for disability, health, or life insurance or to screen or determine suitability for, or to discharge a person from, employment. Any person who violates the provisions of this subsection is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">HUMAN IMMUNODEFICIENCY VIRUS TESTING REQUIREMENTS; REGISTRATION WITH THE DEPARTMENT OF HEALTH; EXEMPTIONS FROM REGISTRATION.<EmDash />No county health department and no other person in this state shall conduct or hold themselves out to the public as conducting a testing program for acquired immune deficiency syndrome or human immunodeficiency virus status without first registering with the Department of Health, reregistering each year, complying with all other applicable provisions of state law, and meeting the following requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The program must be directed by a person with a minimum number of contact hours of experience in the counseling of persons with acquired immune deficiency syndrome or human immunodeficiency virus infection, as established by the Department of Health by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The program must have all medical care supervised by a physician licensed under the provisions of chapter 458 or chapter 459.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The program shall have all laboratory procedures performed in a laboratory licensed under the provisions of chapter 483.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The program must meet all the informed consent criteria contained in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The program must provide the opportunity for pretest counseling on the meaning of a test for human immunodeficiency virus, including medical indications for the test; the possibility of false positive or false negative results; the potential need for confirmatory testing; the potential social, medical, and economic consequences of a positive test result; and the need to eliminate high-risk behavior.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The program must provide supplemental corroborative testing on all positive test results before the results of any positive test are provided to the patient. Except as provided in this section, the identity of any person upon whom a test has been performed and test results are confidential and exempt from the provisions of s. 119.07(1).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The program must provide the opportunity for face-to-face posttest counseling on the meaning of the test results; the possible need for additional testing; the social, medical, and economic consequences of a positive test result; and the need to eliminate behavior which might spread the disease to others.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Each person providing posttest counseling to a patient with a positive test result shall receive specialized training, to be specified by rule of the department, about the special needs of persons with positive results, including recognition of possible suicidal behavior, and shall refer the patient for further health and social services as appropriate.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">When services are provided for a charge during pretest counseling, testing, supplemental testing, and posttest counseling, the program must provide a complete list of all such charges to the patient and the Department of Health.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Nothing in this subsection shall be construed to require a facility licensed under chapter 483 or a person licensed under the provisions of chapter 457, chapter 458, chapter 459, chapter 460, chapter 461, chapter 466, or chapter 467 to register with the Department of Health if he or she does not advertise or hold himself or herself out to the public as conducting testing programs for human immunodeficiency virus infection or specializing in such testing.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The department shall deny, suspend, or revoke the registration of any person or agency that violates this section, or any rule adopted under this section, constituting an emergency affecting the immediate health, safety, and welfare of a person receiving service.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">PENALTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any violation of this section by a facility or licensed health care provider shall be a ground for disciplinary action contained in the facility’s or professional’s respective licensing chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who violates the confidentiality provisions of this section and s. 951.27 commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person who obtains information that identifies an individual who has a sexually transmissible disease including human immunodeficiency virus or acquired immunodeficiency syndrome, who knew or should have known the nature of the information and maliciously, or for monetary gain, disseminates this information or otherwise makes this information known to any other person, except by providing it either to a physician or nurse employed by the department or to a law enforcement agency, commits a felony of the third degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">EXEMPTIONS.<EmDash />Except as provided in paragraph (3)(d) and ss. 627.429 and 641.3007, insurers and others participating in activities related to the insurance application and underwriting process shall be exempt from this section.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">MODEL PROTOCOL FOR COUNSELING AND TESTING FOR HUMAN IMMUNODEFICIENCY VIRUS.<EmDash />The Department of Health shall develop, by rule, a model protocol consistent with the provisions of this section for counseling and testing persons for the human immunodeficiency virus. The protocol shall include criteria for evaluating a patient’s risk for human immunodeficiency virus infection and for offering human immunodeficiency virus testing, on a voluntary basis, as a routine part of primary health care or admission to a health care facility. The Department of Health shall ensure that the protocols developed under this section are made available to health care providers.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">FEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each person or private organization registered as an AIDS or HIV testing site shall pay the department a fee which shall be set by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Fees established pursuant to paragraph (a) shall be an amount sufficient to meet all costs incurred by the department in carrying out its registration, data collection, complaint monitoring, and administrative responsibilities under this section, for all private AIDS or HIV testing sites, but shall not exceed $100.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No other fees shall be charged by other governmental agencies for these purposes.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The Department of Health may adopt rules to implement this section, including definitions of terms, procedures for accessing confidential information, requirements for testing, and requirements for registered testing sites.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">TESTING AS A CONDITION OF TREATMENT OR ADMISSION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any facility the operation of which, or for any person engaged in an occupation the practice of which, requires a license by the Agency for Health Care Administration, the Department of Health, or the Department of Business and Professional Regulation, to require any person to take or submit to a human immunodeficiency virus-related test as a condition of admission to any such facility or as a condition of purchasing or obtaining any service or product for which the license is required. This subsection shall not be construed to prohibit any physician in good faith from declining to provide a particular treatment requested by a patient if the appropriateness of that treatment can only be determined through a human immunodeficiency virus-related test.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration, the Department of Health, and the Department of Business and Professional Regulation shall adopt rules implementing this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any violation of this subsection or the rules implementing it shall be punishable as provided in subsection (5).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 21, ch. 88-380; s. 2, ch. 89-289; s. 6, ch. 89-350; s. 3, ch. 90-210; s. 3, ch. 90-292; s. 3, ch. 90-344; ss. 17, 67, ch. 91-297; s. 12, ch. 92-33; s. 2, ch. 92-171; s. 64, ch. 92-289; s. 10, ch. 93-227; s. 3, ch. 93-230; s. 4, ch. 93-264; s. 39, ch. 94-218; s. 94, ch. 95-143; s. 1032, ch. 95-148; s. 1, ch. 95-308; s. 1, ch. 95-387; s. 1, ch. 96-179; s. 185, ch. 96-406; s. 64, ch. 97-100; s. 176, ch. 97-101; s. 2, ch. 98-171; s. 20, ch. 98-191; s. 191, ch. 99-13; s. 8, ch. 99-397; s. 4, ch. 2000-242; s. 9, ch. 2000-367; s. 17, ch. 2001-62; s. 6, ch. 2001-91; s. 76, ch. 2001-226; s. 4, ch. 2002-292; s. 1, ch. 2005-169; s. 1, ch. 2008-219; s. 21, ch. 2012-184.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 17, ch. 2012-184.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.609.</Text>
+	</Note>
+</Section>

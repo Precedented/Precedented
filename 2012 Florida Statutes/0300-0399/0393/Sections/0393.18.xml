@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0393.18" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Comprehensive transitional education program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A comprehensive transitional education program is a group of jointly operating centers or units, the collective purpose of which is to provide a sequential series of educational care, training, treatment, habilitation, and rehabilitation services to persons who have developmental disabilities and who have severe or moderate maladaptive behaviors. However, this section does not require such programs to provide services only to persons with developmental disabilities. All such services shall be temporary in nature and delivered in a structured residential setting, having the primary goal of incorporating the principle of self-determination in establishing permanent residence for persons with maladaptive behaviors in facilities that are not associated with the comprehensive transitional education program. The staff shall include behavior analysts and teachers, as appropriate, who shall be available to provide services in each component center or unit of the program. A behavior analyst must be certified pursuant to s. 393.17.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Comprehensive transitional education programs shall include a minimum of two component centers or units, one of which shall be an intensive treatment and educational center or a transitional training and educational center, which provides services to persons with maladaptive behaviors in the following sequential order:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Intensive treatment and educational center.</Font><EmDash />This component is a self-contained residential unit providing intensive behavioral and educational programming for persons with severe maladaptive behaviors whose behaviors preclude placement in a less restrictive environment due to the threat of danger or injury to themselves or others. Continuous-shift staff shall be required for this component.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Transitional training and educational center.</Font><EmDash />This component is a residential unit for persons with moderate maladaptive behaviors providing concentrated psychological and educational programming that emphasizes a transition toward a less restrictive environment. Continuous-shift staff shall be required for this component.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Community transition residence.</Font><EmDash />This component is a residential center providing educational programs and any support services, training, and care that are needed to assist persons with maladaptive behaviors to avoid regression to more restrictive environments while preparing them for more independent living. Continuous-shift staff shall be required for this component.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Alternative living center.</Font><EmDash />This component is a residential unit providing an educational and family living environment for persons with maladaptive behaviors in a moderately unrestricted setting. Residential staff shall be required for this component.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Independent living education center.</Font><EmDash />This component is a facility providing a family living environment for persons with maladaptive behaviors in a largely unrestricted setting and includes education and monitoring that is appropriate to support the development of independent living skills.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Components of a comprehensive transitional education program are subject to the license issued under s. 393.067 to a comprehensive transitional education program and may be located on a single site or multiple sites.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Comprehensive transitional education programs shall develop individual education plans for each person with maladaptive behaviors who receives services from the program. Each individual education plan shall be developed in accordance with the criteria specified in 20 U.S.C. ss. 401 et seq., and 34 C.F.R. part 300.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The total number of persons with maladaptive behaviors who are being provided with services in a comprehensive transitional education program may not in any instance exceed 120 residents.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Licensure is authorized for comprehensive transitional education programs which by July 1, 1989:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Were in actual operation; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Owned a fee simple interest in real property for which a county or city government has approved zoning allowing for the placement of the facilities described in this subsection, and have registered an intent with the agency to operate a comprehensive transitional education program. However, nothing prohibits the assignment by such a registrant to another entity at a different site within the state, if there is compliance with the criteria of this program and local zoning requirements and each residential facility within the component centers or units of the program authorized under this paragraph does not exceed a capacity of 15 persons.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (5), in order to maximize federal revenues and provide for children needing special behavioral services, the agency may authorize the licensure of a facility that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provides residential services for children who have developmental disabilities along with intensive behavioral problems as defined by the agency; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As of July 1, 2010, serve children who were served by the child welfare system and who have an open case in the automated child welfare system of the Department of Children and Family Services.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The facility must be in compliance with all program criteria and local zoning requirements and may not exceed a capacity of 15 children.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 33, ch. 2006-227; s. 2, ch. 2010-193.</History>
+</Section>

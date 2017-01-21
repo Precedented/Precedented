@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.344" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lienholders; receipt of notices and delinquent taxes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When requested in writing, a tax notice shall be sent according to the following procedures:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Upon request by any taxpayer who is 60 years old or older, the tax collector shall send the tax notice to a third party designated by the taxpayer. A duplicate copy of the notice shall be sent to the taxpayer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon request by a mortgagee stating that the mortgagee is the trustee of an escrow account for ad valorem taxes due on the property, the tax notice shall be sent to such trustee. When the original tax notice is sent to such trustee, the tax collector shall send a duplicate notice to the owner of the property with the additional statement that the original has been sent to the trustee.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon request by a vendee of an unrecorded or recorded contract for deed, the tax collector shall send a duplicate notice to such vendee.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The tax collector may establish cutoff dates, periods for updating the list, and any other reasonable requirements to ensure that the tax notices are sent to the proper party on time. Notices shall be sent electronically or by postal mail. However, electronic transmission may be used only with the express consent of the person making the request. If the electronic transmission is returned as undeliverable, a second notice must be sent. However, the original electronic transmission used with the consent of the requester is the official notice for the purpose of this subsection.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">On or before May 1 of each year, the holder or mortgagee of an unsatisfied mortgage, lienholder, or vendee under a contract for deed, upon filing with the tax collector a description of property so encumbered and paying a service charge of $2, may request and receive information concerning any delinquent taxes appearing on the current tax roll and certificates issued on the described property. Upon receipt of such request, the tax collector shall furnish the following information within 60 days following the tax certificate sale:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The description of property on which certificates were sold.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The number of each certificate issued and to whom.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The face amount of each certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The cost for redemption of each certificate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">On or before May 1 of each year, the holder or mortgagee of an unsatisfied mortgage or lien upon personal property, upon filing with the tax collector a description of the personal property encumbered by the mortgage or lien and the name and address of the owner of such property, and upon paying a service charge of $2, may request and receive information concerning any delinquent taxes appearing on the current tax roll for such property as is described as provided in this subsection or as may be owned by the named taxpayer. Upon receipt of such request, the collector shall furnish the following information to the mortgagee or lienholder before April 25 of the following year:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of property against which taxes are assessed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The amount of taxes and costs owed.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 161, ch. 85-342; s. 8, ch. 98-139; s. 29, ch. 2011-151.</History>
+</Section>

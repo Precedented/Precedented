@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0413.405" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Rehabilitation Council.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is created the Florida Rehabilitation Council to assist the division in the planning and development of statewide rehabilitation programs and services, to recommend improvements to such programs and services, and to perform the functions listed in this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The council shall be composed of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">At least one representative of the Florida Independent Living Council, one of whom must be the chairperson or other designee of the Florida Independent Living Council.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At least one representative of a parent training and information center established pursuant to s. 671 of the Individuals with Disabilities Education Act, 20 U.S.C. s. 1471.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">At least one representative of the client assistance program established under s. 112 of the act, one of whom must be the director of the program or other individual recommended by the program.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">At least one qualified vocational rehabilitation counselor who has knowledge of and experience in vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the council if the counselor is an employee of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">At least one representative of community rehabilitation program service providers.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"> Four representatives of business, industry, and labor.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Representatives of disability groups that include a cross-section of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Individuals who have physical, cognitive, sensory, or mental disabilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro"> Representatives of individuals with disabilities who have difficulty representing themselves or are unable due to their disabilities to represent themselves.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Current or former applicants for, or recipients of, vocational rehabilitation services.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The director of the division, who shall be an ex officio member of the council.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">At least one representative of the state educational agency responsible for the public education of students with disabilities who are eligible to receive vocational rehabilitation services and services under the Individuals with Disabilities Education Act.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">At least one representative of the board of directors of Workforce Florida, Inc.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">At least one representative who is a director of a Vocational Rehabilitation Services Project for American Indians with Disabilities under s. 121 of the act, if this state participates in one or more such projects.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Employees of the department may serve only as nonvoting members of the council.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Total membership on the council, excluding ex officio members, shall be no fewer than 15 and no more than 25 at any one time.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Members of the council shall be appointed by the Governor, who shall select members after soliciting recommendations from representatives of organizations representing a broad range of individuals who have disabilities and organizations interested in those individuals. In selecting members, the extent to which minority populations are represented must be considered to the greatest extent practicable.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A majority of council members shall be persons who are:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Individuals who have a physical or mental impairment that substantially limits one or more of the person’s major life activities; who have a record of such an impairment; or who are regarded as having such an impairment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Not employed by the division.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The council shall select a chairperson from among the membership of the council.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each member of the council shall serve for a term of not more than 3 years, except that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The terms of service of the members initially appointed shall be, as specified by the Governor, for such fewer number of years as will provide for the expiration of terms on a staggered basis.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A member of the council may not serve more than two consecutive full terms; however, this provision does not apply to a member appointed under paragraph (1)(c) or paragraph (1)(l).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Any vacancy occurring in the membership of the council shall be filled in the same manner as the original appointment. A vacancy does not affect the power of the remaining members to execute the duties of the council.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">In addition to the other functions specified in this section, the council shall, after consulting with the board of directors of Workforce Florida, Inc.:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Review, analyze, and advise the division regarding the performance of the responsibilities of the division under Title I of the act, particularly responsibilities relating to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Eligibility, including order of selection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The extent, scope, and effectiveness of services provided.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Functions performed by state agencies that affect or potentially affect the ability of individuals with disabilities in achieving employment outcomes under Title I.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In partnership with the division:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Develop, agree to, and review state goals and priorities in accordance with 34 C.F.R. 361.29(c); and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Evaluate the effectiveness of the vocational rehabilitation program and submit reports of progress to the Governor, the President of the Senate, the Speaker of the House of Representatives, and the United States Secretary of Education in accordance with 34 C.F.R. 361.29(e).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Advise the department and the division and assist in the preparation of the state plan and amendments to the plan, applications, reports, needs assessments, and evaluations required by Title I.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To the extent feasible, conduct a review and analysis of the effectiveness of, and consumer satisfaction with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The functions performed by state agencies and other public and private entities responsible for performing functions for individuals who have disabilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Vocational rehabilitation services:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Provided or paid for from funds made available under the act or through other public or private sources.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Provided by state agencies and other public and private entities responsible for providing vocational rehabilitation services to individuals who have disabilities.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The employment outcomes achieved by eligible individuals receiving services under this part, including the availability of health or other employment benefits in connection with those employment outcomes.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Prepare and submit an annual report on the status of vocational rehabilitation programs in the state to the Governor, the President of the Senate, the Speaker of the House of Representatives, and the United States Secretary of Education and make the report available to the public.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Coordinate with other councils within Florida, including the Florida Independent Living Council, the advisory panel established under s. 612(a)(21) of the Individuals with Disabilities Education Act, 20 U.S.C. s. 1412(a)(21), the State Planning Council described in s. 124 of the Developmental Disabilities Assistance and Bill of Rights Act, 42 U.S.C. s. 15024, the state mental health planning council established under s. 1914 of the Public Health Service Act, 42 U.S.C. s. 300x-3, and the board of directors of Workforce Florida, Inc.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Advise the department and division and provide for coordination and the establishment of working relationships among the department, the division, the Florida Independent Living Council, and centers for independent living in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Perform other functions that are consistent with the duties and responsibilities of the council under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The council shall prepare, in conjunction with the division, a plan for the provision of such resources, including at least four staff persons, as may be necessary to carry out the functions of the council. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"> A disagreement between the council and the division regarding the amount of resources necessary to carry out the functions of the council as set forth in this section shall be resolved by the Governor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The council shall, consistent with law, supervise and evaluate such staff and other personnel as may be necessary to carry out its functions.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">While assisting the council in carrying out its duties, staff and other personnel may not be assigned duties by the division or any other state agency or office that would create a conflict of interest.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The council shall convene at least four meetings each year in locations determined by the council to be necessary to conduct council business. The council may conduct such forums or hearings as the council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the public unless there is a valid reason for an executive session. The council shall make a report of each meeting which shall include a record of its discussions and recommendations, all of which reports shall be made available to the public.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The council shall reimburse members of the council for reasonable and necessary expenses of attending council meetings and performing council duties, including child care and personal assistance services, as provided in and subject to the requirements of s. 112.061. The council may pay reasonable compensation to a member of the council if such member is not employed or must forfeit wages from other employment for each day the member is engaged in performing the duties of the council.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 8, 12, ch. 88-214; s. 5, ch. 91-429; s. 26, ch. 94-324; s. 16, ch. 2002-22; s. 7, ch. 2010-70.</History>
+</Section>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXVIII">
+	<ChapterNumber>380</ChapterNumber>
+	<ChapterName xml:space="preserve">Land and water management</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Environmental land and<NewLine />water management</PartTitle>
+		<Section Number="0380.012" />
+		<Section Number="0380.021" />
+		<Section Number="0380.031" />
+		<Section Number="0380.032" />
+		<Section Number="0380.04" />
+		<Section Number="0380.045" />
+		<Section Number="0380.05" />
+		<Section Number="0380.051" />
+		<Section Number="0380.055" />
+		<Section Number="0380.0551" />
+		<Section Number="0380.0552" />
+		<Section Number="0380.0555" />
+		<Section Number="0380.06" />
+		<Section Number="0380.061" />
+		<Section Number="0380.065" />
+		<Section Number="0380.0651" />
+		<Section Number="0380.0655" />
+		<Section Number="0380.0657" />
+		<Section Number="0380.0661" />
+		<Section Number="0380.0662" />
+		<Section Number="0380.0663" />
+		<Section Number="0380.0664" />
+		<Section Number="0380.0665" />
+		<Section Number="0380.0666" />
+		<Section Number="0380.0667" />
+		<Section Number="0380.0668" />
+		<Section Number="0380.0669" />
+		<Section Number="0380.0671" />
+		<Section Number="0380.0672" />
+		<Section Number="0380.0673" />
+		<Section Number="0380.0674" />
+		<Section Number="0380.0675" />
+		<Section Number="0380.0677" />
+		<Section Number="0380.0685" />
+		<Section Number="0380.07" />
+		<Section Number="0380.08" />
+		<Section Number="0380.085" />
+		<Section Number="0380.11" />
+		<Section Number="0380.115" />
+		<Section Number="0380.12" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Coastal planning and management</PartTitle>
+		<Section Number="0380.20" />
+		<Section Number="0380.205" />
+		<Section Number="0380.21" />
+		<Section Number="0380.22" />
+		<Section Number="0380.23" />
+		<Section Number="0380.24" />
+		<Section Number="0380.25" />
+		<Section Number="0380.26" />
+		<Section Number="0380.27" />
+		<Section Number="0380.276" />
+		<Section Number="0380.285" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Florida Communities Trust</PartTitle>
+		<Section Number="0380.501" />
+		<Section Number="0380.502" />
+		<Section Number="0380.503" />
+		<Section Number="0380.504" />
+		<Section Number="0380.505" />
+		<Section Number="0380.506" />
+		<Section Number="0380.507" />
+		<Section Number="0380.508" />
+		<Section Number="0380.510" />
+		<Section Number="0380.5105" />
+		<Section Number="0380.511" />
+		<Section Number="0380.5115" />
+		<Section Number="0380.512" />
+		<Section Number="0380.513" />
+		<Section Number="0380.514" />
+		<Section Number="0380.515" />
+	</Part>
+</Chapter>

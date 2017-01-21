@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the following terms have the following meanings unless the context clearly indicates otherwise:</Text>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Political committee” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A combination of two or more individuals, or a person other than an individual, that, in an aggregate amount in excess of $500 during a single calendar year:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Accepts contributions for the purpose of making contributions to any candidate, political committee, committee of continuous existence, affiliated party committee, or political party;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Accepts contributions for the purpose of expressly advocating the election or defeat of a candidate or the passage or defeat of an issue;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Makes expenditures that expressly advocate the election or defeat of a candidate or the passage or defeat of an issue; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Makes contributions to a common fund, other than a joint checking account between spouses, from which contributions are made to any candidate, political committee, committee of continuous existence, affiliated party committee, or political party;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The sponsor of a proposed constitutional amendment by initiative who intends to seek the signatures of registered electors.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a), the following entities are not considered political committees for purposes of this chapter:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Organizations which are certified by the Department of State as committees of continuous existence pursuant to s. 106.04, national political parties, the state and county executive committees of political parties, and affiliated party committees regulated by chapter 103.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Corporations regulated by chapter 607 or chapter 617 or other business entities formed for purposes other than to support or oppose issues or candidates, if their political activities are limited to contributions to candidates, political parties, affiliated party committees, or political committees or expenditures in support of or opposition to an issue from corporate or business funds and if no contributions are received by such corporations or business entities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Electioneering communications organizations as defined in subsection (19).</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Committee of continuous existence” means any group, organization, association, or other such entity which is certified pursuant to the provisions of s. 106.04.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Contribution” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A gift, subscription, conveyance, deposit, loan, payment, or distribution of money or anything of value, including contributions in kind having an attributable monetary value in any form, made for the purpose of influencing the results of an election or making an electioneering communication.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A transfer of funds between political committees, between committees of continuous existence, between electioneering communications organizations, or between any combination of these groups.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The payment, by any person other than a candidate or political committee, of compensation for the personal services of another person which are rendered to a candidate or political committee without charge to the candidate or committee for such services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The transfer of funds by a campaign treasurer or deputy campaign treasurer between a primary depository and a separate interest-bearing account or certificate of deposit, and the term includes any interest earned on such account or certificate.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Notwithstanding the foregoing meanings of “contribution,” the term may not be construed to include services, including, but not limited to, legal and accounting services, provided without compensation by individuals volunteering a portion or all of their time on behalf of a candidate or political committee or editorial endorsements.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Expenditure” means a purchase, payment, distribution, loan, advance, transfer of funds by a campaign treasurer or deputy campaign treasurer between a primary depository and a separate interest-bearing account or certificate of deposit, or gift of money or anything of value made for the purpose of influencing the results of an election or making an electioneering communication. However, “expenditure” does not include a purchase, payment, distribution, loan, advance, or gift of money or anything of value made for the purpose of influencing the results of an election when made by an organization, in existence prior to the time during which a candidate qualifies or an issue is placed on the ballot for that election, for the purpose of printing or distributing such organization’s newsletter, containing a statement by such organization in support of or opposition to a candidate or issue, which newsletter is distributed only to members of such organization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As used in this chapter, an “expenditure” for an electioneering communication is made when the earliest of the following occurs:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A person enters into a contract for applicable goods or services;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A person makes payment, in whole or in part, for the production or public dissemination of applicable goods or services; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The electioneering communication is publicly disseminated.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Independent expenditure” means an expenditure by a person for the purpose of expressly advocating the election or defeat of a candidate or the approval or rejection of an issue, which expenditure is not controlled by, coordinated with, or made upon consultation with, any candidate, political committee, or agent of such candidate or committee. An expenditure for such purpose by a person having a contract with the candidate, political committee, or agent of such candidate or committee in a given election period shall not be deemed an independent expenditure.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An expenditure for the purpose of expressly advocating the election or defeat of a candidate which is made by the national, state, or county executive committee of a political party, including any subordinate committee of the political party, an affiliated party committee, a political committee, a committee of continuous existence, or any other person shall not be considered an independent expenditure if the committee or person:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Communicates with the candidate, the candidate’s campaign, or an agent of the candidate acting on behalf of the candidate, including any pollster, media consultant, advertising agency, vendor, advisor, or staff member, concerning the preparation of, use of, or payment for, the specific expenditure or advertising campaign at issue; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Makes a payment in cooperation, consultation, or concert with, at the request or suggestion of, or pursuant to any general or particular understanding with the candidate, the candidate’s campaign, a political committee supporting the candidate, or an agent of the candidate relating to the specific expenditure or advertising campaign at issue; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Makes a payment for the dissemination, distribution, or republication, in whole or in part, of any broadcast or any written, graphic, or other form of campaign material prepared by the candidate, the candidate’s campaign, or an agent of the candidate, including any pollster, media consultant, advertising agency, vendor, advisor, or staff member; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Makes a payment based on information about the candidate’s plans, projects, or needs communicated to a member of the committee or person by the candidate or an agent of the candidate, provided the committee or person uses the information in any way, in whole or in part, either directly or indirectly, to design, prepare, or pay for the specific expenditure or advertising campaign at issue; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">After the last day of the qualifying period prescribed for the candidate, consults about the candidate’s plans, projects, or needs in connection with the candidate’s pursuit of election to office and the information is used in any way to plan, create, design, or prepare an independent expenditure or advertising campaign, with:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Any officer, director, employee, or agent of a national, state, or county executive committee of a political party or an affiliated party committee that has made or intends to make expenditures in connection with or contributions to the candidate; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Any person whose professional services have been retained by a national, state, or county executive committee of a political party or an affiliated party committee that has made or intends to make expenditures in connection with or contributions to the candidate; or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">After the last day of the qualifying period prescribed for the candidate, retains the professional services of any person also providing those services to the candidate in connection with the candidate’s pursuit of election to office; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Arranges, coordinates, or directs the expenditure, in any way, with the candidate or an agent of the candidate.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Election” means any primary election, special primary election, general election, special election, or municipal election held in this state for the purpose of nominating or electing candidates to public office, choosing delegates to the national nominating conventions of political parties, or submitting an issue to the electors for their approval or rejection.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Issue” means any proposition which is required by the State Constitution, by law or resolution of the Legislature, or by the charter, ordinance, or resolution of any political subdivision of this state to be submitted to the electors for their approval or rejection at an election, or any proposition for which a petition is circulated in order to have such proposition placed on the ballot at any election.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Person” means an individual or a corporation, association, firm, partnership, joint venture, joint stock company, club, organization, estate, trust, business trust, syndicate, or other combination of individuals having collective capacity. The term includes a political party, affiliated party committee, political committee, or committee of continuous existence.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Campaign treasurer” means an individual appointed by a candidate or political committee as provided in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Public office” means any state, county, municipal, or school or other district office or position which is filled by vote of the electors.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Campaign fund raiser” means any affair held to raise funds to be used in a campaign for public office.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Elections of the Department of State.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Communications media” means broadcasting stations, newspapers, magazines, outdoor advertising facilities, printers, direct mail, advertising agencies, the Internet, and telephone companies; but with respect to telephones, an expenditure shall be deemed to be an expenditure for the use of communications media only if made for the costs of telephones, paid telephonists, or automatic telephone equipment to be used by a candidate or a political committee to communicate with potential voters but excluding any costs of telephones incurred by a volunteer for use of telephones by such volunteer; however, with respect to the Internet, an expenditure shall be deemed an expenditure for use of communications media only if made for the cost of creating or disseminating a message on a computer information system accessible by more than one person but excluding internal communications of a campaign or of any group.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Filing officer” means the person before whom a candidate qualifies, the agency or officer with whom a political committee or an electioneering communications organization registers, or the agency by whom a committee of continuous existence is certified.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Unopposed candidate” means a candidate for nomination or election to an office who, after the last day on which any person, including a write-in candidate, may qualify, is without opposition in the election at which the office is to be filled or who is without such opposition after such date as a result of any primary election or of withdrawal by other candidates seeking the same office. A candidate is not an unopposed candidate if there is a vacancy to be filled under s. 100.111(3), if there is a legal proceeding pending regarding the right to a ballot position for the office sought by the candidate, or if the candidate is seeking retention as a justice or judge.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Candidate” means any person to whom any one or more of the following apply:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who seeks to qualify for nomination or election by means of the petitioning process.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who seeks to qualify for election as a write-in candidate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person who receives contributions or makes expenditures, or consents for any other person to receive contributions or make expenditures, with a view to bring about his or her nomination or election to, or retention in, public office.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person who appoints a treasurer and designates a primary depository.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any person who files qualification papers and subscribes to a candidate’s oath as required by law.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, this definition does not include any candidate for a political party executive committee. Expenditures related to potential candidate polls as provided in s. 106.17 are not contributions or expenditures for purposes of this subsection.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Political advertisement” means a paid expression in any communications media prescribed in subsection (13), whether radio, television, newspaper, magazine, periodical, campaign literature, direct mail, or display or by means other than the spoken word in direct conversation, which expressly advocates the election or defeat of a candidate or the approval or rejection of an issue. However, political advertisement does not include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A statement by an organization, in existence prior to the time during which a candidate qualifies or an issue is placed on the ballot for that election, in support of or opposition to a candidate or issue, in that organization’s newsletter, which newsletter is distributed only to the members of that organization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Editorial endorsements by any newspaper, radio or television station, or other recognized news medium.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Electioneering communication” means any communication that is publicly distributed by a television station, radio station, cable television system, satellite system, newspaper, magazine, direct mail, or telephone and that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Refers to or depicts a clearly identified candidate for office without expressly advocating the election or defeat of a candidate but that is susceptible of no reasonable interpretation other than an appeal to vote for or against a specific candidate;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is made within 30 days before a primary or special primary election or 60 days before any other election for the office sought by the candidate; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Is targeted to the relevant electorate in the geographic area the candidate would represent if elected.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The term “electioneering communication” does not include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A communication disseminated through a means of communication other than a television station, radio station, cable television system, satellite system, newspaper, magazine, direct mail, telephone, or statement or depiction by an organization, in existence prior to the time during which a candidate named or depicted qualifies for that election, made in that organization’s newsletter, which newsletter is distributed only to members of that organization.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A communication in a news story, commentary, or editorial distributed through the facilities of any radio station, television station, cable television system, or satellite system, unless the facilities are owned or controlled by any political party, political committee, or candidate. A news story distributed through the facilities owned or controlled by any political party, political committee, or candidate may nevertheless be exempt if it represents a bona fide news account communicated through a licensed broadcasting facility and the communication is part of a general pattern of campaign-related news accounts that give reasonably equal coverage to all opposing candidates in the area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A communication that constitutes a public debate or forum that includes at least two opposing candidates for an office or one advocate and one opponent of an issue, or that solely promotes such a debate or forum and is made by or on behalf of the person sponsoring the debate or forum, provided that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The staging organization is either:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A charitable organization that does not make other electioneering communications and does not otherwise support or oppose any political candidate or political party; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A newspaper, radio station, television station, or other recognized news medium; and</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The staging organization does not structure the debate to promote or advance one candidate or issue position over another.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For purposes of this chapter, an expenditure made for, or in furtherance of, an electioneering communication shall not be considered a contribution to or on behalf of any candidate.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For purposes of this chapter, an electioneering communication shall not constitute an independent expenditure nor be subject to the limitations applicable to independent expenditures.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Electioneering communications organization” means any group, other than a political party, affiliated party committee, political committee, or committee of continuous existence, whose election-related activities are limited to making expenditures for electioneering communications or accepting contributions for the purpose of making electioneering communications and whose activities would not otherwise require the group to register as a political party, political committee, or committee of continuous existence under this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 73-128; s. 1, ch. 74-200; s. 1, ch. 77-174; s. 39, ch. 77-175; s. 2, ch. 79-157; ss. 6, 17, ch. 79-365; s. 1, ch. 79-378; s. 22, ch. 81-304; s. 34, ch. 84-302; s. 4, ch. 85-226; s. 2, ch. 89-256; s. 1, ch. 89-537; s. 24, ch. 90-315; s. 9, ch. 91-107; s. 636, ch. 95-147; s. 2, ch. 97-13; s. 7, ch. 99-355; s. 1, ch. 2002-197; s. 2, ch. 2004-252; s. 1, ch. 2006-300; s. 19, ch. 2010-167; ss. 4, 30, ch. 2011-6; s. 52, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 5, ch. 2012-5.</History>
+</Section>

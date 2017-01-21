@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.704" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Transfers from income to reimburse principal.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a fiduciary makes or expects to make a principal disbursement described in this section, the fiduciary may transfer an appropriate amount from income to principal in one or more accounting periods to reimburse principal or to provide a reserve for future principal disbursements.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Principal disbursements to which subsection (1) applies include the following, but only to the extent the fiduciary has not been and does not expect to be reimbursed by a third party:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An amount chargeable to income but paid from principal because the amount is unusually large.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Disbursements made to prepare property for rental, including tenant allowances, leasehold improvements, and broker’s commissions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Disbursements described in s. 738.702(1)(g).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the asset the ownership of which gives rise to the disbursements becomes subject to a successive income interest after an income interest ends, a fiduciary may continue to transfer amounts from income to principal as provided in subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To the extent principal cash is not sufficient to pay the principal balance of payments due on mortgaged property, income may be applied to such payment in order to avoid a default on any mortgage or security interest securing the property. Income shall be reimbursed for such payments out of the first available principal cash. If the asset the ownership of which gives rise to the disbursements described in this subsection becomes subject to a successive income interest after an income interest ends, all rights of the initial income interest shall lapse, and amounts remaining due from principal shall not be a lien on the assets of the trust.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 30, ch. 2012-49.</History>
+</Section>

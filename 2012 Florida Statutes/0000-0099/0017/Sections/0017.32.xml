@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0017.32" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Annual report of trust funds; duties of Chief Financial Officer.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">On February 1 of each year, the Chief Financial Officer shall present to the Governor and the Legislature a report listing all trust funds as defined in s. 215.32. The report must contain the following data elements for each fund for the preceding fiscal year:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The fund code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The title.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The fund type according to generally accepted accounting principles.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The statutory authority.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The beginning cash balance.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Direct revenues.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Nonoperating revenues.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Operating disbursements.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Nonoperating disbursements.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The ending cash balance.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The department and budget entity in which the fund is located.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The report shall separately list all funds that received no revenues other than interest earnings or transfers from the General Revenue Fund or from other trust funds during the preceding fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The report shall separately list all funds that had unencumbered balances in excess of $2 million in each of the 2 preceding fiscal years.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 92-142; s. 43, ch. 2003-261; s. 30, ch. 2010-102.</History>
+</Section>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.704" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Evaluation of long-term care through the pilot projects.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall evaluate the Comprehensive Assessment and Review for Long-Term Care (CARES) Program processes, procedures, and instruments, and its ability to predict nursing home placement. The department may revise these processes, procedures, and instruments as necessary to increase the number of persons diverted from institutional placement. Nothing in this section shall be construed to prevent the department from directing CARES to review and evaluate nursing home residents. The department shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ensure that the CARES process is an effective predictor of the need for nursing facility care; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Assess the use of CARES as a single entry point for aging and long-term care services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall develop a capitation rate-setting method that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assures sufficient savings from the state Medicaid nursing home budget category to fund the community diversion pilot projects; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Assures that expenditures do not exceed the average nursing home cost in the pilot project area, excluding Medicaid acute care costs and Medicaid cost-sharing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall evaluate:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The standards in existing Medicaid managed care contracts to determine if they are sufficient to assure access, quality, and cost-effectiveness of services for frail elders.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The cost-effectiveness of the services provided by the pilot projects.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The impact of nursing home bed growth on state expenditures.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Methods to encourage competition among long-term care service providers that will improve service quality, price, and participant satisfaction.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Criteria for selecting the managed care organizations, including, but not limited to, quality assurance processes, grievance procedures, service costs, accessibility, adequacy of provider networks, and administrative costs.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Criteria for participant eligibility.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 97-87; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+</Section>

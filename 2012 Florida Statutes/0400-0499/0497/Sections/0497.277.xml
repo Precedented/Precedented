@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0497.277" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Other charges.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Other than the fees for the sale of burial rights, burial merchandise, and burial services, no other fee may be directly or indirectly charged, contracted for, or received by a cemetery company as a condition for a customer to use any burial right, burial merchandise, or burial service, except for:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Charges paid for opening and closing a grave and vault installation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Charges paid for transferring burial rights from one purchaser to another; however, no such fee may exceed $50.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Charges for sales, documentary excise, and other taxes actually and necessarily paid to a public official, which charges must be supported in fact.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Charges for credit life and credit disability insurance, as requested by the purchaser, the premiums for which may not exceed the applicable premiums chargeable in accordance with the rates filed with the Office of Insurance Regulation of the Financial Services Commission.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Charges for interest on unpaid balances pursuant to chapter 687.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Charges paid for processing, filing, and archiving a cemetery sales contract and for performing other administrative duties related to the contract. However, these charges may not be imposed on a cemetery sales contract for the opening and closing of a grave or other burial right or for the installation of a vault in a grave for which burial rights were previously purchased. A cemetery company must disclose these charges to the customer and include them on its standard printed price lists and other disclosure information provided to the public under s. 497.282. These charges are not subject to the trust deposit requirements in s. 497.458. The department may, subject to approval by the board, adopt rules to administer this subsection.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 70, ch. 93-399; s. 560, ch. 2003-261; s. 59, ch. 2004-301; s. 13, ch. 2010-125.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 497.313.</Text>
+	</Note>
+</Section>

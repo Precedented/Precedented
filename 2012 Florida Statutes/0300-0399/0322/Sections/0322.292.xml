@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.292" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">DUI programs supervision; powers and duties of the department.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Highway Safety and Motor Vehicles shall license and regulate all DUI programs, which regulation shall include the certification of instructors, evaluators, clinical supervisors, and special supervision services evaluators. The department shall, after consultation with the chief judge of the affected judicial circuit, establish requirements regarding the number of programs to be offered within a judicial circuit. Such requirements shall address the number of clients currently served in the circuit as well as improvements in service that may be derived from operation of an additional DUI program. DUI program education and evaluation services are exempt from licensure under chapter 397. However, treatment programs must continue to be licensed under chapter 397.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules to implement its supervisory authority over DUI programs in accordance with the procedures of chapter 120, including the establishment of uniform standards of operation for DUI programs and the method for setting and approving fees, as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Adopt rules for statutorily required education, evaluation, and supervision of DUI offenders. <Reference Number="1" />Such rules previously adopted by the Traffic Court Review Committee of the Supreme Court of Florida shall remain in effect unless modified by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Adopt rules for the administration and financial management of DUI programs, including, but not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Rules governing the types of expenditures that may be made by DUI programs from funds paid by persons attending such programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Rules for financial reporting that require data on DUI programs expenditures in sufficient detail to support reasonable and informed decisions concerning the fees that are to be assessed those attending DUI programs. The department shall perform financial audits of DUI programs required under this section or require that financial audits of the programs be performed by certified public accountants at program expense and submitted directly from the auditor to the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Rules for reciprocity in relation to DUI programs in other states or countries that have programs similar to the DUI programs licensed by the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Such other rules as the department deems appropriate and necessary for the effective oversight of the DUI programs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Implement procedures for the granting and revoking of licenses for DUI programs, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A uniform application fee not to exceed $1,000 but in an amount sufficient to cover the department’s administrative costs in processing and evaluating DUI program license applications. The application fee shall not apply to programs that apply for licensure to serve a county that does not have a currently licensed DUI program or where the currently licensed program has relinquished its license.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In considering an application for approval of a DUI program, the department shall determine whether improvements in service may be derived from the operation of the DUI program and the number of clients currently served in the circuit. The department shall apply the following criteria:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The increased frequency of classes and availability of locations of services offered by the applicant DUI program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Services and fees offered by the applicant DUI program and any existing DUI program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The number of DUI clients currently served and historical trends in the number of clients served in the circuit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The availability, accessibility, and service history of any existing DUI program services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The applicant DUI program’s service history.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The availability of resources, including personnel, demonstrated management capability, and capital and operating expenditures of the applicant DUI program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Improved services to minority and special needs clients.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Authority for competing applicants and currently licensed DUI programs serving the same geographic area to request an administrative hearing under chapter 120 to contest the department’s determination of need for an additional licensed DUI program in that area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A requirement that the department revoke the license of any DUI program that does not provide the services specified in its application within 45 days after licensure and notify the chief judge of that circuit of such revocation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A requirement that all applicants for initial licensure as a DUI program in a particular circuit on and after the effective date of this act must, at a minimum, satisfy each of the following criteria:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Maintain a primary business office in the circuit which is located in a permanent structure that is readily accessible by public transportation, if public transportation is available. The primary business office must be adequately staffed and equipped to provide all DUI program support services, including registration and a file for each person who registers for the program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Have a satellite office for registration of DUI offenders in each county in the circuit which is located in a permanent structure that is readily accessible by public transportation, if public transportation is available. A satellite office is not required in any county where the total number of DUI convictions in the most recent calendar year is less than 200.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Have a classroom in each county in the circuit which is located in a permanent structure that is readily accessible by public transportation, if public transportation is available. A classroom is not required in any county where the total number of DUI convictions in the most recent calendar year is less than 100. A classroom may not be located within 250 feet of any business that sells alcoholic beverages. However, a classroom shall not be required to be relocated when a business selling alcoholic beverages locates to within 250 feet of the classroom.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Have a plan for conducting all DUI education courses, evaluation services, and other services required by the department. The level I DUI education course must be taught in four segments, with no more than 6 hours of classroom instruction provided to any offender each day.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Employ at least 1 full-time certified addiction professional for the program at all times.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Document support from community agencies involved in DUI education and substance abuse treatment in the circuit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Have a volunteer board of directors and advisory committee made up of citizens who reside in the circuit in which licensure is sought.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Submit documentation of compliance with all applicable federal, state, and local laws, including, but not limited to, the Americans with Disabilities Act.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Establish a fee structure for the various programs offered by the DUI programs, based only on the reasonable and necessary costs for operating the programs throughout the state. The department shall approve, modify, or reduce fees as necessary.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Establish policies and procedures for monitoring DUI programs compliance with all rules adopted by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The department shall oversee an ongoing evaluation to assess the effectiveness of the DUI programs. This evaluation shall be performed by an independent group and shall evaluate the curriculum, client treatment referrals, recidivism rates, and any other relevant matters. The department may use funds received under s. 322.293 to retain the services and reimburse expenses of such private persons or professional consultants as are required for monitoring and evaluating DUI programs.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Investigate complaints about the DUI programs and resolve problems in the provision of services to DUI offenders, as needed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DUI programs must be operated by either governmental entities or not-for-profit corporations.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">DUI education courses must be conducted by a certified DUI instructor in a classroom using face-to-face instruction and must provide for interaction in the classroom among offenders and the instructor. Courses may not be conducted via the Internet, remote electronic technology, home study, distance learning, or any other method in which the instructor and offenders are not physically present in the same classroom.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 93-246; s. 44, ch. 95-333; s. 16, ch. 99-5; s. 107, ch. 99-13; s. 9, ch. 99-234; s. 294, ch. 99-248; s. 38, ch. 2000-313; s. 15, ch. 2001-196; s. 1, ch. 2006-238; s. 39, ch. 2009-71; s. 59, ch. 2012-181.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 294, ch. 99-248. Section 9, ch. 99-234, deleted this sentence.</Text>
+	</Note>
+</Section>

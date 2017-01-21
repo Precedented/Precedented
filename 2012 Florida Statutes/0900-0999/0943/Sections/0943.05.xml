@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0943.05" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Criminal Justice Information Program; duties; crime reports.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created a Criminal Justice Information Program within the Department of Law Enforcement. The program shall be supervised by personnel who shall be employed by the department upon the recommendation of the executive director. Such personnel shall supervise, direct, coordinate, and administer activities of the program which are assigned by the executive director.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The program shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establish and maintain a communication system capable of transmitting criminal justice information to and between criminal justice agencies.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Establish, implement, and maintain a statewide automated fingerprint identification system capable of, but not limited to, reading, classifying, matching, and storing fingerprints, rolled fingerprints, and latent fingerprints. The system shall be available to every criminal justice agency that is responsible for the administration of criminal justice.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Initiate a crime information system that shall be responsible for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Preparing and disseminating semiannual reports to the Governor, the Legislature, all criminal justice agencies, and, upon request, the public. Each report shall include, but not be limited to, types of crime reported, offenders, arrests, and victims.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Upon request, providing other states and federal criminal justice agencies with Florida crime data. Where convenient, such data shall conform to definitions established by the requesting agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In cooperation with other criminal justice agencies, developing and maintaining an offender-based transaction system.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Adopt rules to effectively and efficiently implement, administer, manage, maintain, and use the automated fingerprint identification system and uniform offense reports and arrest reports. The rules shall be considered minimum requirements and shall not preclude a criminal justice agency from implementing its own enhancements. However, rules and forms prescribing uniform arrest or probable cause affidavits and alcohol influence reports to be used by all law enforcement agencies in making DUI arrests under s. 316.193 shall be adopted, and shall be used by all law enforcement agencies in this state. The rules and forms prescribing such uniform affidavits and reports shall be adopted and implemented by July 1, 2004. Failure to use these uniform affidavits and reports, however, shall not prohibit prosecution under s. 316.193.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Establish, implement, and maintain a Domestic and Repeat Violence Injunction Statewide Verification System capable of electronically transmitting information to and between criminal justice agencies relating to domestic violence injunctions and repeat violence injunctions issued by the courts throughout the state. Such information must include, but is not limited to, information as to the existence and status of any such injunction for verification purposes.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Establish, implement, and maintain a system for transmitting to and between criminal justice agencies information about writs of bodily attachment issued in connection with a court-ordered child support obligation. Such information shall include, but not be limited to, information necessary to identify the respondents and serve the writs.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Upon official written request, and subject to the department having sufficient funds and equipment to participate in such a request, from the agency executive director or secretary or from his or her designee, or from qualified entities participating in the volunteer and employee criminal history screening system under s. 943.0542, or as otherwise required by law, retain fingerprints submitted by criminal and noncriminal justice agencies to the department for a criminal history background screening as provided by rule and enter the fingerprints in the statewide automated fingerprint identification system authorized by paragraph (b). Such fingerprints shall thereafter be available for all purposes and uses authorized for arrest fingerprint submissions entered into the statewide automated fingerprint identification system pursuant to s. 943.051.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">For each agency or qualified entity that officially requests retention of fingerprints or for which retention is otherwise required by law, search all arrest fingerprint submissions received under s. 943.051 against the fingerprints retained in the statewide automated fingerprint identification system under paragraph (g).</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any arrest record that is identified with the retained fingerprints of a person subject to background screening as provided in paragraph (g) shall be reported to the appropriate agency or qualified entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To participate in this search process, agencies or qualified entities must notify each person fingerprinted that his or her fingerprints will be retained, pay an annual fee to the department, and inform the department of any change in the affiliation, employment, or contractual status of each person whose fingerprints are retained under paragraph (g) if such change removes or eliminates the agency or qualified entity’s basis or need for receiving reports of any arrest of that person, so that the agency or qualified entity is not obligated to pay the upcoming annual fee for the retention and searching of that person’s fingerprints to the department. The department shall adopt a rule setting the amount of the annual fee to be imposed upon each participating agency or qualified entity for performing these searches and establishing the procedures for the retention of fingerprints and the dissemination of search results. The fee may be borne by the agency, qualified entity, or person subject to fingerprint retention or as otherwise provided by law. Consistent with the recognition of criminal justice agencies expressed in s. 943.053(3), these services shall be provided to criminal justice agencies for criminal justice purposes free of charge. Qualified entities that elect to participate in the fingerprint retention and search process are required to timely remit the fee to the department by a payment mechanism approved by the department. If requested by the qualified entity, and with the approval of the department, such fees may be timely remitted to the department by a qualified entity upon receipt of an invoice for such fees from the department. Failure of a qualified entity to pay the amount due on a timely basis or as invoiced by the department may result in the refusal by the department to permit the qualified entity to continue to participate in the fingerprint retention and search process until all fees due and owing are paid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Agencies that participate in the fingerprint retention and search process may adopt rules pursuant to ss. 120.536(1) and 120.54 to require employers to keep the agency informed of any change in the affiliation, employment, or contractual status of each person whose fingerprints are retained under paragraph (g) if such change removes or eliminates the agency’s basis or need for receiving reports of any arrest of that person, so that the agency is not obligated to pay the upcoming annual fee for the retention and searching of that person’s fingerprints to the department.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If fingerprints submitted to the department for background screening, whether retained or not, are identified with the fingerprints of a person having a criminal history record, such fingerprints may thereafter be available for all purposes and uses authorized for arrest fingerprint cards, including, but not limited to, entry into the statewide automated fingerprint identification system to augment or replace the fingerprints that identify the criminal history record.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Upon notification that a federal fingerprint retention program is in effect, and subject to the department being funded and equipped to participate in such a program, the department shall, <Reference Number="1"/>if state and national criminal history records checks and retention of submitted prints are authorized or required by law, retain the fingerprints as provided in paragraphs (2)(g) and (h) and advise the Federal Bureau of Investigation to retain the fingerprints at the national level for searching against arrest fingerprint submissions received at the national level.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 74-386; s. 1, ch. 77-174; s. 2, ch. 78-347; s. 2, ch. 80-409; s. 1, ch. 85-224; s. 2, ch. 86-187; s. 2, ch. 87-177; s. 8, ch. 94-134; s. 8, ch. 94-135; s. 21, ch. 95-325; s. 1, ch. 95-427; s. 109, ch. 96-175; s. 3, ch. 96-190; s. 5, ch. 98-94; s. 12, ch. 2002-263; s. 8, ch. 2006-176; s. 1, ch. 2008-249; s. 2, ch. 2010-62; s. 45, ch. 2010-114; s. 15, ch. 2012-73.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 45, ch. 2010-114. The amendment by s. 2, ch. 2010-62, used the word “when” instead of the word “if.” </Text>
+	</Note>
+</Section>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXII">
+	<ChapterNumber>493</ChapterNumber>
+	<ChapterName xml:space="preserve">Private investigative, private security, and repossession services</ChapterName>
+	<RunningHead>PRIVATE INVESTIGATIVE, SECURITY, AND REPOSSESSION SERVICES</RunningHead>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0493.6100" />
+		<Section Number="0493.6101" />
+		<Section Number="0493.6102" />
+		<Section Number="0493.6103" />
+		<Section Number="0493.6104" />
+		<Section Number="0493.6105" />
+		<Section Number="0493.6106" />
+		<Section Number="0493.6107" />
+		<Section Number="0493.6108" />
+		<Section Number="0493.6109" />
+		<Section Number="0493.6110" />
+		<Section Number="0493.6111" />
+		<Section Number="0493.6112" />
+		<Section Number="0493.6113" />
+		<Section Number="0493.6114" />
+		<Section Number="0493.6115" />
+		<Section Number="0493.6116" />
+		<Section Number="0493.6117" />
+		<Section Number="0493.6118" />
+		<Section Number="0493.6119" />
+		<Section Number="0493.6120" />
+		<Section Number="0493.6121" />
+		<Section Number="0493.6122" />
+		<Section Number="0493.6123" />
+		<Section Number="0493.6124" />
+		<Section Number="0493.6125" />
+		<Section Number="0493.6126" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Private investigative services</PartTitle>
+		<Section Number="0493.6201" />
+		<Section Number="0493.6202" />
+		<Section Number="0493.6203" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Private security services</PartTitle>
+		<Section Number="0493.6301" />
+		<Section Number="0493.6302" />
+		<Section Number="0493.6303" />
+		<Section Number="0493.6304" />
+		<Section Number="0493.6305" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Repossession services</PartTitle>
+		<Section Number="0493.6401" />
+		<Section Number="0493.6402" />
+		<Section Number="0493.6403" />
+		<Section Number="0493.6404" />
+		<Section Number="0493.6405" />
+		<Section Number="0493.6406" />
+	</Part>
+</Chapter>

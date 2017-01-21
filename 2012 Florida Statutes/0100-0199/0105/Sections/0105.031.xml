@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0105.031" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Qualification; filing fee; candidate’s oath; items required to be filed.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">TIME OF QUALIFYING.<EmDash />Except for candidates for judicial office, nonpartisan candidates for multicounty office shall qualify with the Division of Elections of the Department of State and nonpartisan candidates for countywide or less than countywide office shall qualify with the supervisor of elections. Candidates for judicial office other than the office of county court judge shall qualify with the Division of Elections of the Department of State, and candidates for the office of county court judge shall qualify with the supervisor of elections of the county. Candidates for judicial office shall qualify no earlier than noon of the 120th day, and no later than noon of the 116th day, before the primary election. Candidates for the office of school board member shall qualify no earlier than noon of the 71st day, and no later than noon of the 67th day, before the primary election. Filing shall be on forms provided for that purpose by the Division of Elections and furnished by the appropriate qualifying officer. Any person other than a write-in candidate who qualifies within the time prescribed in this subsection shall be entitled to have his or her name printed on the ballot.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">FILING IN GROUPS OR DISTRICTS.<EmDash />Candidates shall qualify in groups or districts where multiple offices are to be filled.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">QUALIFYING FEE.<EmDash />Each candidate qualifying for election to a judicial office or the office of school board member, except write-in judicial or school board candidates, shall, during the time for qualifying, pay to the officer with whom he or she qualifies a qualifying fee, which shall consist of a filing fee and an election assessment, or qualify by the petition process. The amount of the filing fee is 3 percent of the annual salary of the office sought. The amount of the election assessment is 1 percent of the annual salary of the office sought. The Department of State shall transfer all filing fees to the Department of Legal Affairs for deposit in the Elections Commission Trust Fund. The supervisor of elections shall forward all filing fees to the Elections Commission Trust Fund. The election assessment shall be deposited into the Elections Commission Trust Fund. The annual salary of the office for purposes of computing the qualifying fee shall be computed by multiplying 12 times the monthly salary authorized for such office as of July 1 immediately preceding the first day of qualifying. This subsection does not apply to candidates qualifying for retention to judicial office.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CANDIDATE’S OATH.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All candidates for the office of school board member shall subscribe to the oath as prescribed in s. 99.021.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All candidates for judicial office shall subscribe to an oath or affirmation in writing to be filed with the appropriate qualifying officer upon qualifying. A printed copy of the oath or affirmation shall be furnished to the candidate by the qualifying officer and shall be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">State of Florida</Text>
+				<Text xml:space="preserve" Style="Flush">County of <HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent">Before me, an officer authorized to administer oaths, personally appeared <Directions xml:space="preserve">(please print name as you wish it to appear on the ballot)</Directions>, to me well known, who, being sworn, says he or she: is a candidate for the judicial office of <HorizontalRule Type="Fixed" />; that his or her legal residence is <HorizontalRule Type="Fixed" /> County, Florida; that he or she is a qualified elector of the state and of the territorial jurisdiction of the court to which he or she seeks election; that he or she is qualified under the constitution and laws of Florida to hold the judicial office to which he or she desires to be elected or in which he or she desires to be retained; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent to the office he or she seeks; that he or she has resigned from any office which he or she is required to resign pursuant to s. 99.012, Florida Statutes; and that he or she will support the Constitution of the United States and the Constitution of the State of Florida.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><FlushRight /><Directions xml:space="preserve">(Signature of candidate)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><FlushRight /><Directions xml:space="preserve">(Address)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, at <HorizontalRule Type="Fixed" /> County, Florida.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true" SpaceBelow="true"><Directions xml:space="preserve">(Signature and title of officer administering oath)</Directions></Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">ITEMS REQUIRED TO BE FILED.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In order for a candidate for judicial office or the office of school board member to be qualified, the following items must be received by the filing officer by the end of the qualifying period:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except for candidates for retention to judicial office, a properly executed check drawn upon the candidate’s campaign account in an amount not less than the fee required by subsection (3) or, in lieu thereof, the copy of the notice of obtaining ballot position pursuant to s. 105.035. If a candidate’s check is returned by the bank for any reason, the filing officer shall immediately notify the candidate and the candidate shall, the end of qualifying notwithstanding, have 48 hours from the time such notification is received, excluding Saturdays, Sundays, and legal holidays, to pay the fee with a cashier’s check purchased from funds of the campaign account. Failure to pay the fee as provided in this subparagraph shall disqualify the candidate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The candidate’s oath required by subsection (4), which must contain the name of the candidate as it is to appear on the ballot; the office sought, including the district or group number if applicable; and the signature of the candidate, duly acknowledged.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The loyalty oath required by s. 876.05, signed by the candidate and duly acknowledged.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The completed form for the appointment of campaign treasurer and designation of campaign depository, as required by s. 106.021. In addition, each candidate for judicial office, including an incumbent judge, shall file a statement with the qualifying officer, within 10 days after filing the appointment of campaign treasurer and designation of campaign depository, stating that the candidate has read and understands the requirements of the Florida Code of Judicial Conduct. Such statement shall be in substantially the following form:</Text>
+					<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">Statement of Candidate for Judicial Office</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I, <Directions xml:space="preserve">(name of candidate)</Directions>, a judicial candidate, have received, read, and understand the requirements of the Florida Code of Judicial Conduct.</Text>
+					<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Signature of candidate)</Directions></Text>
+					<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">(Date)</Directions></Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The full and public disclosure of financial interests required by s. 8, Art. II of the State Constitution or the statement of financial interests required by s. 112.3145, whichever is applicable. A public officer who has filed the full and public disclosure or statement of financial interests with the Commission on Ethics or the supervisor of elections prior to qualifying for office may file a copy of that disclosure at the time of qualifying.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the filing officer receives qualifying papers that do not include all items as required by paragraph (a) prior to the last day of qualifying, the filing officer shall make a reasonable effort to notify the candidate of the missing or incomplete items and shall inform the candidate that all required items must be received by the close of qualifying. A candidate’s name as it is to appear on the ballot may not be changed after the end of qualifying.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the qualifying period prescribed in this section, a filing officer may accept and hold qualifying papers submitted not earlier than 14 days prior to the beginning of the qualifying period, to be processed and filed during the qualifying period.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 71-49; s. 36, ch. 77-175; s. 1, ch. 78-260; s. 5, ch. 79-365; s. 54, ch. 79-400; s. 17, ch. 81-105; s. 10, ch. 83-251; s. 1, ch. 89-152; s. 34, ch. 89-338; s. 5, ch. 91-107; s. 630, ch. 95-147; s. 2, ch. 95-156; s. 13, ch. 97-13; s. 13, ch. 99-6; s. 2, ch. 99-326; s. 2, ch. 99-355; s. 23, ch. 2002-17; s. 65, ch. 2005-277; s. 21, ch. 2005-286; s. 40, ch. 2007-30; s. 4, ch. 2010-16; s. 51, ch. 2011-40.</History>
+</Section>

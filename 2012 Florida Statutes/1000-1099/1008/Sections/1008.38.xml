@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.38" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Articulation accountability process.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The State Board of Education, in conjunction with the Board of Governors, shall develop articulation accountability measures which assess the status of systemwide articulation processes authorized under s. 1007.23 and establish an articulation accountability process which at a minimum shall address:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The impact of articulation processes on ensuring educational continuity and the orderly and unobstructed transition of students between public secondary and postsecondary education systems and facilitating the transition of students between the public and private sectors.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The adequacy of preparation of public secondary students to smoothly articulate to a public postsecondary institution.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The effectiveness of articulated acceleration mechanisms available to secondary students.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The smooth transfer of Florida College System associate degree graduates to a Florida College System institution or a state university.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">An examination of degree requirements that exceed the parameters of 60 credit hours for an associate degree and 120 hours for a baccalaureate degree in public postsecondary programs.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The relationship between student attainment of college-level academic skills and articulation to the upper division in public postsecondary institutions.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 383, ch. 2002-387; s. 128, ch. 2007-217; s. 16, ch. 2011-177.</History>
+</Section>

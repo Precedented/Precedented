@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.193" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida renewable energy production credit.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The purpose of this section is to encourage the development and expansion of facilities that produce renewable energy in Florida.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Commission” means the Public Service Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Department” means the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Expanded facility” means a Florida renewable energy facility that increases its electrical production and sale by more than 5 percent above the facility’s electrical production and sale during the 2011 calendar year.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Florida renewable energy facility” means a facility in the state that produces electricity for sale from renewable energy, as defined in s. 377.803.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“New facility” means a Florida renewable energy facility that is operationally placed in service after May 1, 2006. The term includes a Florida renewable energy facility that has had an expansion operationally placed in service after May 1, 2006, and whose cost exceeded 50 percent of the assessed value of the facility immediately before the expansion.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Sale” or “sold” includes the use of electricity by the producer of such electricity which decreases the amount of electricity that the producer would otherwise have to purchase.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Taxpayer” includes a general partnership, limited partnership, limited liability company, trust, or other artificial entity in which a corporation, as defined in s. 220.03(1)(e), owns an interest and is taxed as a partnership or is disregarded as a separate entity from the corporation under this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An annual credit against the tax imposed by this section shall be allowed to a taxpayer, based on the taxpayer’s production and sale of electricity from a new or expanded Florida renewable energy facility. For a new facility, the credit shall be based on the taxpayer’s sale of the facility’s entire electrical production. For an expanded facility, the credit shall be based on the increases in the facility’s electrical production that are achieved after May 1, 2012.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The credit shall be $0.01 for each kilowatt-hour of electricity produced and sold by the taxpayer to an unrelated party during a given tax year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The credit may be claimed for electricity produced and sold on or after January 1, 2013. Beginning in 2014 and continuing until 2017, each taxpayer claiming a credit under this section must apply to the Department of Agriculture and Consumer Services by the date established by the Department of Agriculture and Consumer Services for an allocation of available credits for that year. The application form shall be adopted by rule of the Department of Agriculture and Consumer Services in consultation with the commission. The application form shall, at a minimum, require a sworn affidavit from each taxpayer certifying the increase in production and sales that form the basis of the application and certifying that all information contained in the application is true and correct.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the amount of credits applied for each year exceeds the amount authorized in paragraph (g), the Department of Agriculture and Consumer Services shall allocate credits to qualified applicants based on the following priority:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An applicant who places a new facility in operation after May 1, 2012, shall be allocated credits first, up to a maximum of $250,000 each, with any remaining credits to be granted pursuant to subparagraph 3., but if the claims for credits under this subparagraph exceed the state fiscal year cap in paragraph (g), credits shall be allocated pursuant to this subparagraph on a prorated basis based upon each applicant’s qualified production and sales as a percentage of total production and sales for all applicants in this category for the fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An applicant who does not qualify under subparagraph 1. but who claims a credit of $50,000 or less shall be allocated credits next, but if the claims for credits under this subparagraph, combined with credits allocated in subparagraph 1., exceed the state fiscal year cap in paragraph (g), credits shall be allocated pursuant to this subparagraph on a prorated basis based upon each applicant’s qualified production and sales as a percentage of total qualified production and sales for all applicants in this category for the fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An applicant who does not qualify under subparagraph 1. or subparagraph 2. and an applicant whose credits have not been fully allocated under subparagraph 1. shall be allocated credits next. If there is insufficient capacity within the amount authorized for the state fiscal year in paragraph (g), and after allocations pursuant to subparagraphs 1. and 2., the credits allocated under this subparagraph shall be prorated based upon each applicant’s unallocated claims for qualified production and sales as a percentage of total unallocated claims for qualified production and sales of all applicants in this category, up to a maximum of $1 million per taxpayer per state fiscal year. If, after application of this $1 million cap, there is excess capacity under the state fiscal year cap in paragraph (g) in any state fiscal year, that remaining capacity shall be used to allocate additional credits with priority given in the order set forth in this subparagraph and without regard to the $1 million per taxpayer cap.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the credit granted pursuant to this section is not fully used in 1 year because of insufficient tax liability on the part of the taxpayer, the unused amount may be carried forward for a period not to exceed 5 years. The carryover credit may be used in a subsequent year when the tax imposed by this chapter for such year exceeds the credit for such year, after applying the other credits and unused credit carryovers in the order provided in s. 220.02(8).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A taxpayer that files a consolidated return in this state as a member of an affiliated group under s. 220.131(1) may be allowed the credit on a consolidated return basis up to the amount of tax imposed upon the consolidated group.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Tax credits that may be available under this section to an entity eligible under this section may be transferred after a merger or acquisition to the surviving or acquiring entity and used in the same manner with the same limitations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The entity or its surviving or acquiring entity as described in subparagraph 1. may transfer any unused credit in whole or in units of no less than 25 percent of the remaining credit. The entity acquiring such credit may use it in the same manner and with the same limitations under this section. Such transferred credits may not be transferred again although they may succeed to a surviving or acquiring entity subject to the same conditions and limitations as described in this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In the event the credit provided for under this section is reduced as a result of an examination or audit by the department, such tax deficiency shall be recovered from the first entity or the surviving or acquiring entity to have claimed such credit up to the amount of credit taken. Any subsequent deficiencies shall be assessed against any entity acquiring and claiming such credit, or in the case of multiple succeeding entities in the order of credit succession.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section, credits for the production and sale of electricity from a new or expanded Florida renewable energy facility may be earned between January 1, 2013, and June 30, 2016. The combined total amount of tax credits which may be granted for all taxpayers under this section is limited to $5 million in state fiscal year 2012-2013 and $10 million per state fiscal year in state fiscal years 2013-2014 through 2016-2017. If the annual tax credit authorization amount is not exhausted by allocations of credits within that particular state fiscal year, any authorized but unallocated credit amounts may be used to grant credits that were earned pursuant to s. 220.192 but unallocated due to a lack of authorized funds.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A taxpayer claiming a credit under this section shall be required to add back to net income that portion of its business deductions claimed on its federal return paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A taxpayer claiming credit under this section may not claim a credit under s. 220.192. A taxpayer claiming credit under s. 220.192 may not claim a credit under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">When an entity treated as a partnership or a disregarded entity under this chapter produces and sells electricity from a new or expanded renewable energy facility, the credit earned by such entity shall pass through in the same manner as items of income and expense pass through for federal income tax purposes. When an entity applies for the credit and the entity has received the credit by a pass-through, the application must identify the taxpayer that passed the credit through, all taxpayers that received the credit, and the percentage of the credit that passes through to each recipient and must provide other information that the Department of Agriculture and Consumer Services requires.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">A taxpayer’s use of the credit granted pursuant to this section does not reduce the amount of any credit available to such taxpayer under s. 220.186.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Agriculture and Consumer Services shall make a determination on the eligibility of the applicant for the credits sought and certify the determination to the applicant and the Department of Revenue. The corporation must attach the Department of Agriculture and Consumer Services’ certification to the tax return on which the credit is claimed. The Department of Agriculture and Consumer Services is responsible for ensuring that the corporate income tax credits granted in each fiscal year do not exceed the limits provided for in this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to its existing audit and investigation authority, the Department of Revenue may perform any additional financial and technical audits and investigations, including examining the accounts, books, and records of the tax credit applicant, which are necessary to verify the information included in the tax credit return and to ensure compliance with this section. The Department of Agriculture and Consumer Services shall provide technical assistance when requested by the Department of Revenue on any technical audits or examinations performed pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is grounds for forfeiture of previously claimed and received tax credits if the Department of Revenue determines, as a result of an audit or examination or from information received from the Department of Agriculture and Consumer Services, that a taxpayer received tax credits pursuant to this section to which the taxpayer was not entitled. The taxpayer is responsible for returning forfeited tax credits to the Department of Revenue, and such funds shall be paid into the General Revenue Fund of the state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Department of Agriculture and Consumer Services may revoke or modify any written decision granting eligibility for tax credits under this section if it is discovered that the tax credit applicant submitted any false statement, representation, or certification in any application, record, report, plan, or other document filed in an attempt to receive tax credits under this section. The Department of Agriculture and Consumer Services shall immediately notify the Department of Revenue of any revoked or modified orders affecting previously granted tax credits. Additionally, the taxpayer must notify the Department of Revenue of any change in its tax credit claimed.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The taxpayer shall file with the Department of Revenue an amended return or such other report as the Department of Revenue prescribes by rule and shall pay any required tax and interest within 60 days after the taxpayer receives notification from the Department of Agriculture and Consumer Services that previously approved tax credits have been revoked or modified. If the revocation or modification order is contested, the taxpayer shall file an amended return or other report as provided in this paragraph within 60 days after a final order is issued after proceedings.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A notice of deficiency may be issued by the Department of Revenue at any time within 3 years after the taxpayer receives formal notification from the Department of Agriculture and Consumer Services that previously approved tax credits have been revoked or modified. If a taxpayer fails to notify the Department of Revenue of any changes to its tax credit claimed, a notice of deficiency may be issued at any time.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Department of Revenue and the Department of Agriculture and Consumer Services may adopt rules to implement and administer this section, including rules prescribing forms, the documentation needed to substantiate a claim for the tax credit, and the specific procedures and guidelines for claiming the credit.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Department of Agriculture and Consumer Services shall determine and publish on its website on a regular basis the amount of available tax credits remaining in each fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">This section shall take effect upon becoming law and shall apply to tax years beginning on and after January 1, 2013.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2006-230; s. 12, ch. 2008-227; s. 7, ch. 2012-117.</History>
+</Section>

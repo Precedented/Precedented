@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0171.203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Interlocal service boundary agreement.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The governing body of a county and one or more municipalities or independent special districts within the county may enter into an interlocal service boundary agreement under this part. The governing bodies of a county, a municipality, or an independent special district may develop a process for reaching an interlocal service boundary agreement which provides for public participation in a manner that meets or exceeds the requirements of subsection (13), or the governing bodies may use the process established in this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A county, a municipality, or an independent special district desiring to enter into an interlocal service boundary agreement shall commence the negotiation process by adopting an initiating resolution. The initiating resolution must identify an unincorporated area or incorporated area, or both, to be discussed and the issues to be negotiated. The identified area must be specified in the initiating resolution by a descriptive exhibit that includes, but need not be limited to, a map or legal description of the designated area. The issues for negotiation must be listed in the initiating resolution and may include, but need not be limited to, the issues listed in subsection (6). An independent special district may initiate the interlocal service boundary agreement for the purposes of dissolving an independent special district or in response to a proposed annexation that would remove more than 10 percent of the taxable or assessable value of an independent special district.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The initiating resolution of an initiating county must designate one or more invited municipalities. The initiating resolution of an initiating municipality may designate an invited municipality. The initiating resolution of an independent special district must designate one or more invited municipalities and invite the county.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An initiating county shall send the initiating resolution by United States certified mail to the chief administrative officer of every invited municipality and each other municipality within the county. An initiating municipality shall send the initiating resolution by United States certified mail to the chief administrative officer of the county, the invited municipality, if any, and each other municipality within the county.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The initiating local government shall also send the initiating resolution to the chief administrative officer of each independent special district in the unincorporated area designated in the initiating resolution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Within 60 days after the receipt of an initiating resolution, the county or the invited municipality, as appropriate, shall adopt a responding resolution. The responding resolution may identify an additional unincorporated area or incorporated area, or both, for discussion and may designate additional issues for negotiation. The additional identified area, if any, must be specified in the responding resolution by a descriptive exhibit that includes, but need not be limited to, a map or legal description of the designated area. The additional issues designated for negotiation, if any, must be listed in the responding resolution and may include, but need not be limited to, the issues listed in subsection (6). The responding resolution may also invite an additional municipality or independent special district to negotiate the interlocal service boundary agreement.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 7 days after the adoption of a responding resolution, the responding county shall send the responding resolution by United States certified mail to the chief administrative officer of the initiating municipality, each invited municipality, if any, and the independent special district that received an initiating resolution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Within 7 days after the adoption of a responding resolution, an invited municipality shall send the responding resolution by United States certified mail to the chief administrative officer of the initiating county, each invited municipality, if any, and each independent special district that received an initiating resolution.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An invited municipality that was invited by a responding resolution shall adopt a responding resolution in accordance with paragraph (b).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Within 60 days after receipt of the initiating resolution, any independent special district that received an initiating resolution and that desires to participate in the negotiations shall adopt a resolution indicating that it intends to participate in the negotiation process for the interlocal service boundary agreement. Within 7 days after the adoption of the resolution, the independent special district shall send the resolution by United States certified mail to the chief administrative officer of the county, the initiating municipality, each invited municipality, if any, and each notified local government.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A municipality within the county which is not an invited municipality may request participation in the negotiations for the interlocal service boundary agreement. Such a request must be accomplished by adopting a requesting resolution within 60 days after receipt of the initiating resolution or within 10 days after receipt of the responding resolution. Within 7 days after adoption of the requesting resolution, the requesting municipality shall send the resolution by United States certified mail to the chief administrative officer of the initiating local government and each invited municipality. The county and the invited municipality shall consider whether to allow a requesting municipality to participate in the negotiations, and, if they agree, the county and the municipality shall adopt a participating resolution allowing the requesting municipality to participate in the negotiations.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The county, the invited municipalities, the participating municipalities, if any, and the independent special districts, if any have adopted a resolution to participate, shall begin negotiations within 60 days after receipt of the responding resolution or a participating resolution, whichever occurs later.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">An invited municipality that fails to adopt a responding resolution shall be deemed to waive its right to participate in the negotiation process and shall be bound by an interlocal agreement resulting from such negotiation process, if any is reached.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An interlocal service boundary agreement may address any issue concerning service delivery, fiscal responsibilities, or boundary adjustment. The agreement may include, but need not be limited to, provisions that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Identify a municipal service area.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Identify an unincorporated service area.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Identify the local government responsible for the delivery or funding of the following services within the municipal service area or the unincorporated service area:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Public safety.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Fire, emergency rescue, and medical.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Water and wastewater.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Road ownership, construction, and maintenance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Conservation, parks, and recreation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Stormwater management and drainage.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Address other services and infrastructure not currently provided by an electric utility as defined by s. 366.02(2) or a natural gas transmission company as defined by s. 368.103(4). However, this paragraph does not affect any territorial agreement between electrical utilities or public utilities under chapter 366 or affect the determination of a territorial dispute by the Public Service Commission under s. 366.04.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Establish a process and schedule for annexation of an area within the designated municipal service area consistent with s. 171.205.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Establish a process for land use decisions consistent with part II of chapter 163, including those made jointly by the governing bodies of the county and the municipality, or allow a municipality to adopt land use changes consistent with part II of chapter 163 for areas that are scheduled to be annexed within the term of the interlocal agreement; however, the county comprehensive plan and land development regulations shall control until the municipality annexes the property and amends its comprehensive plan accordingly. </Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Address other issues concerning service delivery, including the transfer of services and infrastructure and the fiscal compensation to one county, municipality, or independent special district from another county, municipality, or independent special district.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Provide for the joint use of facilities and the colocation of services.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Include a requirement for a report to the county of the municipality’s planned service delivery, as provided in s. 171.042, or as otherwise determined by agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Establish a procedure by which the local government that is responsible for water and wastewater services shall, within 30 days after the annexation or subtraction of territory, apply for any modifications to permits of the water management district or the Department of Environmental Protection which are necessary to reflect changes in the entity that is responsible for managing surface water under such permits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">If the interlocal service boundary agreement addresses responsibilities for land use planning under chapter 163, the agreement must also establish the procedures for preparing and adopting comprehensive plan amendments, administering land development regulations, and issuing development orders.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">In order to ensure that the health and welfare of the residents affected by annexation will be protected, all fire and emergency medical services shall be provided by the existing provider of fire and emergency medical services to the annexed area and remain part of the existing municipal service taxing unit or special district unless:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The county and annexing municipality reach an agreement, through interlocal agreement or other legally sufficient means, as to who shall provide these emergency services; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A fire rescue services element exists for the respective county’s comprehensive plan filed with the state and the annexing municipality meets the criteria set forth.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Each local government that is a party to the interlocal service boundary agreement shall amend the intergovernmental coordination element of its comprehensive plan, as described in s. 163.3177(6)(h)1., no later than 6 months following entry of the interlocal service boundary agreement consistent with s. 163.3177(6)(h)1. </Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">An affected person for the purpose of challenging a comprehensive plan amendment required by paragraph (6)(f) includes a person who owns real property, resides, or owns or operates a business within the boundaries of the municipal service area, and a person who owns real property abutting real property within the municipal service area that is the subject of the comprehensive plan amendment, in addition to those other affected persons who would have standing under s. 163.3184.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A municipality that is a party to an interlocal service boundary agreement that identifies an unincorporated area for municipal annexation under s. 171.202(11)(a) shall adopt a municipal service area as an amendment to its comprehensive plan to address future possible municipal annexation. The state land planning agency shall review the amendment for compliance with part II of chapter 163. The proposed plan amendment must contain:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A boundary map of the municipal service area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Population projections for the area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Data and analysis supporting the provision of public facilities for the area.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This part does not authorize the state land planning agency to review, evaluate, determine, approve, or disapprove a municipal ordinance relating to municipal annexation or contraction.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">An interlocal service boundary agreement may be for a term of 20 years or less. The interlocal service boundary agreement must include a provision requiring periodic review. The interlocal service boundary agreement must require renegotiations to begin at least 18 months before its termination date.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">No earlier than 6 months after the commencement of negotiations, either of the initiating local governments or both, the county, or the invited municipality may declare an impasse in the negotiations and seek a resolution of the issues under ss. 164.1053-164.1057. If the local governments fail to agree at the conclusion of the process under chapter 164, the local governments shall hold a joint public hearing on the issues raised in the negotiations.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">When the local governments have reached an interlocal service boundary agreement, the county and the municipality shall adopt the agreement by ordinance under s. 166.041 or s. 125.66, respectively. An independent special district, if it consents to the agreement, shall adopt the agreement by final order, resolution, or other method consistent with its charter. The interlocal service boundary agreement shall take effect on the day specified in the agreement or, if there is no date, upon adoption by the county or the invited municipality, whichever occurs later. This part does not prohibit a county or municipality from adopting an interlocal service boundary agreement without the consent of an independent special district, unless the agreement provides for the dissolution of an independent special district or the removal of more than 10 percent of the taxable or assessable value of an independent special district.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">For a period of 6 months following the failure of the local governments to consent to an interlocal service boundary agreement, the initiating local government may not initiate the negotiation process established in this section to require the responding local government to negotiate an agreement concerning the same identified unincorporated area and the same issues that were specified in the failed initiating resolution.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">This part does not authorize one local government to require another local government to enter into an interlocal service boundary agreement. However, when the process for negotiating an interlocal service boundary agreement is initiated, the local governments shall negotiate in good faith to the conclusion of the process established in this section.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">This section authorizes local governments to simultaneously engage in negotiating more than one interlocal service boundary agreement, notwithstanding that separate negotiations concern similar or identical unincorporated areas and issues.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">Elected local government officials are encouraged to participate actively and directly in the negotiation process for developing an interlocal service boundary agreement.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">This part does not impair any existing franchise agreement without the consent of the franchisee, any existing territorial agreement between electric utilities or public utilities under chapter 366, or the jurisdiction of the Public Service Commission to resolve a territorial dispute involving electric utilities or public utilities in accordance with s. 366.04. In addition, an interlocal agreement entered into under this section has no effect in a proceeding before the Public Service Commission involving a territorial dispute. A municipality or county shall retain all existing authority, if any, to negotiate a franchise agreement with any private service provider for use of public rights-of-way or the privilege of providing a service.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">This part does not impair any existing contract without the consent of the parties.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2006-218; s. 35, ch. 2011-139.</History>
+</Section>

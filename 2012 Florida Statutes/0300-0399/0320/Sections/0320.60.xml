@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0320.60" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions for ss. 320.61-320.70.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Whenever used in ss. 320.61-320.70, unless the context otherwise requires, the following words and terms have the following meanings:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Agreement” or “franchise agreement” means a contract, franchise, new motor vehicle franchise, sales and service agreement, or dealer agreement or any other terminology used to describe the contractual relationship between a manufacturer, factory branch, distributor, or importer, and a motor vehicle dealer, pursuant to which the motor vehicle dealer is authorized to transact business pertaining to motor vehicles of a particular line-make.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Common entity” means a person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Who is either controlled or owned, beneficially or of record, by one or more persons who also control or own more than 40 percent of the voting equity interests of a manufacturer; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Who shares directors or officers or partners with a manufacturer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Demonstrator” means any new motor vehicle that is carried on the records of the dealer as a demonstrator and is used by, being inspected or driven by the dealer or his or her employees, or driven by prospective customers for the purpose of demonstrating vehicle characteristics in the sale or display of motor vehicles sold by the dealer.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Highway Safety and Motor Vehicles.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Distributor” means a person, resident or nonresident, who, in whole or in part, sells or distributes motor vehicles to motor vehicle dealers or who maintains distributor representatives.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Factory branch” means a branch office maintained by a manufacturer, distributor, or importer for the sale of motor vehicles to distributors or to motor vehicle dealers, or for directing or supervising, in whole or in part, its representatives in this state.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Importer” means any person who imports vehicles from a foreign country into the United States or into this state for the purpose of sale or lease.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Licensee” means any person licensed or required to be licensed under s. 320.61.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Manufacturer” means any person, whether a resident or nonresident of this state, who manufactures or assembles motor vehicles or who manufactures or installs on previously assembled truck chassis special bodies or equipment which, when installed, form an integral part of the motor vehicle and which constitute a major manufacturing alteration. The term “manufacturer” includes a central or principal sales corporation or other entity through which, by contractual agreement or otherwise, it distributes its products.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle” means any new automobile, motorcycle, or truck, including all trucks, regardless of weight, including “heavy truck” as defined in s. 320.01(10) and “truck” as defined in s. 320.01(9), the equitable or legal title to which has never been transferred by a manufacturer, distributor, importer, or dealer to an ultimate purchaser; however, when legal title is not transferred but possession of a motor vehicle is transferred pursuant to a conditional sales contract or lease and the conditions are not satisfied and the vehicle is returned to the motor vehicle dealer, the motor vehicle may be resold by the motor vehicle dealer as a new motor vehicle, provided the selling motor vehicle dealer gives the following written notice to the purchaser: “THIS VEHICLE WAS DELIVERED TO A PREVIOUS PURCHASER.” The purchaser shall sign an acknowledgment, a copy of which is kept in the selling dealer’s file.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Motor vehicle dealer” means any person, firm, company, corporation, or other entity, who,</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is licensed pursuant to s. 320.27 as a “franchised motor vehicle dealer” and, for commission, money, or other things of value, repairs or services motor vehicles or used motor vehicles pursuant to an agreement as defined in subsection (1), or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Who sells, exchanges, buys, leases or rents, or offers, or attempts to negotiate a sale or exchange of any interest in, motor vehicles, or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Who is engaged wholly or in part in the business of selling motor vehicles, whether or not such motor vehicles are owned by such person, firm, company, or corporation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who repairs or services three or more motor vehicles or used motor vehicles as set forth in paragraph (a), or who buys, sells, or deals in three or more motor vehicles in any 12-month period or who offers or displays for sale three or more motor vehicles in any 12-month period shall be prima facie presumed to be a motor vehicle dealer. The terms “selling” and “sale” include lease-purchase transactions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The term “motor vehicle dealer” does not include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Public officers while performing their official duties;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Receivers, trustees, administrators, executors, guardians, or other persons appointed by, or acting under the judgment or order of, any court;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Banks, finance companies, or other loan agencies that acquire motor vehicles as an incident to their regular business; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Motor vehicle rental and leasing companies that sell motor vehicles to motor vehicle dealers licensed under s. 320.27.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Person” means any natural person, partnership, firm, corporation, association, joint venture, trust, or other legal entity.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Used motor vehicle” means any motor vehicle the title to which has been transferred, at least once, by a manufacturer, distributor, importer, or dealer to an ultimate purchaser.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Line-make vehicles” are those motor vehicles which are offered for sale, lease, or distribution under a common name, trademark, service mark, or brand name of the manufacturer of same. However, motor vehicles sold or leased under multiple brand names or marks shall constitute a single line-make when they are included in a single franchise agreement and every motor vehicle dealer in this state authorized to sell or lease any such vehicles has been offered the right to sell or lease all of the multiple brand names or marks covered by the single franchise agreement. Except, such multiple brand names or marks shall be considered individual franchises for purposes of s. 320.64(36).</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Sell,” “selling,” “sold,” “exchange,” “retail sales,” and “leases” includes any transaction where the title of motor vehicle or used motor vehicle is transferred to a retail consumer, and also any retail lease transaction where a retail customer leases a vehicle for a period of at least 12 months. Establishing a price for sale pursuant to s. 320.64(24) does not constitute a sale or lease.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Service” means any maintenance or repair of any motor vehicle or used motor vehicle that is sold or provided to an owner, operator, or user pursuant to a motor vehicle warranty, or any extension thereof, issued by the licensee.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 20236, 1941; s. 7, ch. 22858, 1945; s. 6, ch. 65-190; ss. 24, 35, ch. 69-106; s. 4, ch. 70-424; s. 1, ch. 70-439; s. 95, ch. 71-377; s. 1, ch. 72-112; s. 3, ch. 76-168; s. 28, ch. 77-357; s. 1, ch. 77-457; s. 129, ch. 79-400; ss. 16, 17, 18, ch. 80-217; ss. 2, 3, ch. 81-318; s. 1, ch. 84-69; ss. 3, 20, 21, ch. 88-395; s. 4, ch. 91-429; s. 17, ch. 93-219; s. 368, ch. 95-148; s. 32, ch. 2000-313; s. 19, ch. 2001-196; s. 1, ch. 2003-269; s. 2, ch. 2006-183; s. 1, ch. 2011-230.</History>
+</Section>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.404" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">No liability for good faith delivery pursuant to document of title.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A bailee that in good faith has received goods and delivered or otherwise disposed of the goods according to the terms of the document of title or pursuant to this chapter is not liable for the goods even if:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro"> The person from which the bailee received the goods did not have authority to procure the document or to dispose of the goods; or</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The person to which the bailee delivered the goods did not have authority to receive the goods.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 637, ch. 97-102; s. 44, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-404, U.C.C.; supersedes s. 678.10.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0056" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School health services program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “School Health Services Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Emergency health needs” means onsite management and aid for illness or injury pending the student’s return to the classroom or release to a parent, guardian, designated friend, or designated health care provider.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Entity” or “health care entity” means a unit of local government or a political subdivision of the state; a hospital licensed under chapter 395; a health maintenance organization certified under chapter 641; a health insurer authorized under the Florida Insurance Code; a community health center; a migrant health center; a federally qualified health center; an organization that meets the requirements for nonprofit status under s. 501(c)(3) of the Internal Revenue Code; a private industry or business; or a philanthropic foundation that agrees to participate in a public-private partnership with a county health department, local school district, or school in the delivery of school health services, and agrees to the terms and conditions for the delivery of such services as required by this section and as documented in the local school health services plan.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Invasive screening” means any screening procedure in which the skin or any body orifice is penetrated.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Physical examination” means a thorough evaluation of the health status of an individual.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“School health services plan” means the document that describes the services to be provided, the responsibility for provision of the services, the anticipated expenditures to provide the services, and evidence of cooperative planning by local school districts and county health departments.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Screening” means presumptive identification of unknown or unrecognized diseases or defects by the application of tests that can be given with ease and rapidity to apparently healthy persons.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Health shall have the responsibility, in cooperation with the Department of Education, to supervise the administration of the school health services program and perform periodic program reviews. However, the principal of each school shall have immediate supervisory authority over the health personnel working in the school.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each county health department shall develop, jointly with the district school board and the local school health advisory committee, a school health services plan; and the plan must include, at a minimum, provisions for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Health appraisal;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Records review;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Nurse assessment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Nutrition assessment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A preventive dental program;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Vision screening;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Hearing screening;</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Scoliosis screening;</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Growth and development screening;</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Health counseling;</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Referral and followup of suspected or confirmed health problems by the local county health department;</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Meeting emergency health needs in each school;</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">County health department personnel to assist school personnel in health education curriculum development;</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Referral of students to appropriate health treatment, in cooperation with the private health community whenever possible;</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">Consultation with a student’s parent or guardian regarding the need for health attention by the family physician, dentist, or other specialist when definitive diagnosis or treatment is indicated;</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Maintenance of records on incidents of health problems, corrective measures taken, and such other information as may be needed to plan and evaluate health programs; except, however, that provisions in the plan for maintenance of health records of individual students must be in accordance with s. 1002.22;</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Health information which will be provided by the school health nurses, when necessary, regarding the placement of students in exceptional student programs and the reevaluation at periodic intervals of students placed in such programs; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Notification to the local nonpublic schools of the school health services program and the opportunity for representatives of the local nonpublic schools to participate in the development of the cooperative health services plan.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each school health advisory committee must, at a minimum, include members who represent the eight component areas of the Coordinated School Health model as defined by the Centers for Disease Control and Prevention. School health advisory committees are encouraged to address the eight components of the Coordinated School Health model in the school district’s school wellness policy pursuant to s. 1003.453.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A nonpublic school may request to participate in the school health services program. A nonpublic school voluntarily participating in the school health services program shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Cooperate with the county health department and district school board in the development of the cooperative health services plan;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Make available adequate physical facilities for health services;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide inservice health training to school personnel;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Cooperate with public health personnel in the implementation of the school health services plan;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Be subject to health service program reviews by the Department of Health and the Department of Education;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">At the beginning of each school year, provide parents and guardians with information concerning ways that they can help their children to be physically active and to eat healthful foods; and</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">At the beginning of each school year, inform parents or guardians in writing that their children who are students in the school will receive specified health services as provided for in the district health services plan. A student will be exempt from any of these services if his or her parent or guardian requests such exemption in writing. This paragraph shall not be construed to authorize invasive screening; if there is a need for such procedure, the consent of the student’s parent or guardian shall be obtained in writing prior to performing the screening. However, the laws and rules relating to contagious or communicable diseases and sanitary matters shall not be violated.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The district school board shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Include health services and health education as part of the comprehensive plan for the school district;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide inservice health training for school personnel;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Make available adequate physical facilities for health services;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">At the beginning of each school year, provide parents and guardians with information concerning ways that they can help their children to be physically active and to eat healthful foods; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">At the beginning of each school year, inform parents or guardians in writing that their children who are students in the district schools will receive specified health services as provided for in the district health services plan. A student will be exempt from any of these services if his or her parent or guardian requests such exemption in writing. This paragraph shall not be construed to authorize invasive screening; if there is a need for such procedure, the consent of the student’s parent or guardian shall be obtained in writing prior to performing the screening. However, the laws and rules relating to contagious or communicable diseases and sanitary matters shall not be violated.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Department of Health, in cooperation with the Department of Education, may adopt rules necessary to implement this section. The rules may include standards and requirements for developing school health services plans, conducting school health screening, meeting emergency health needs, maintaining school health records, and coordinating with education programs for exceptional students.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">In the absence of negligence, no person shall be liable for any injury caused by an act or omission in the administration of school health services.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any health care entity that provides school health services under contract with the department pursuant to a school health services plan developed under this section, and as part of a school nurse services public-private partnership, is deemed to be a corporation acting primarily as an instrumentality of the state solely for the purpose of limiting liability pursuant to s. 768.28(5). The limitations on tort actions contained in s. 768.28(5) shall apply to any action against the entity with respect to the provision of school health services, if the entity is acting within the scope of and pursuant to guidelines established in the contract or by rule of the department. The contract must require the entity, or the partnership on behalf of the entity, to obtain general liability insurance coverage, with any additional endorsement necessary to insure the entity for liability assumed by its contract with the department. The Legislature intends that insurance be purchased by entities, or by partnerships on behalf of the entity, to cover all liability claims, and under no circumstances shall the state or the department be responsible for payment of any claims or defense costs for claims brought against the entity or its subcontractor for services performed under the contract with the department. This subsection does not preclude consideration by the Legislature for payment by the state of any claims bill involving an entity contracting with the department pursuant to this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, 4, 5, 6, 7, 9, ch. 74-356; s. 1, ch. 77-174; s. 2, ch. 78-245; s. 15, ch. 79-288; s. 1, ch. 81-18; s. 21, ch. 84-317; s. 50, ch. 85-81; s. 1, ch. 90-344; s. 812, ch. 95-148; s. 101, ch. 97-101; s. 48, ch. 97-237; s. 28, ch. 99-5; s. 1, ch. 99-214; s. 6, ch. 2000-242; s. 5, ch. 2001-53; s. 976, ch. 2002-387; s. 20, ch. 2006-301; s. 27, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 402.32.</Text>
+	</Note>
+</Section>

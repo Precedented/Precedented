@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.904" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Report to the Legislature on the status of domestic violence cases.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">On or before January 1 of each year, the coalition shall furnish to the President of the Senate and the Speaker of the House of Representatives a report on the status of domestic violence in this state, which must include, but need not be limited to, the following:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The incidence of domestic violence in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An identification of the areas of the state where domestic violence is of significant proportions, indicating the number of cases of domestic violence officially reported, as well as an assessment of the degree of unreported cases of domestic violence.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An identification and description of the types of programs in the state which assist victims of domestic violence or persons who commit domestic violence, including information on funding for the programs.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The number of persons who receive services from local certified domestic violence programs that receive funding through the coalition.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The incidence of domestic violence homicides in the state, including information and data collected from state and local domestic violence fatality review teams.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 84-343; s. 138, ch. 97-101; s. 116, ch. 98-403; s. 4, ch. 2012-147.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 415.604.</Text>
+	</Note>
+</Section>

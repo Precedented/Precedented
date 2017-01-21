@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0560.143" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LICENSE APPLICATION FEES.<EmDash />The applicable non-refundable fees must accompany an application for licensure:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Part II<FlushRight Fill="Dot" />$375.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Part III<FlushRight Fill="Dot" />$188.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Per branch office<FlushRight Fill="Dot" />$38.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For each location of an authorized<NewLine/>vendor<FlushRight Fill="Dot" />$38.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Declaration as a deferred presentment<NewLine/>provider<FlushRight Fill="Dot" />$1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Fingerprint fees as prescribed by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">License application fees for branch offices and authorized vendors are limited to $20,000 when such fees are assessed as a result of a change in controlling interest as defined in s. 560.127.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LICENSE RENEWAL FEES.<EmDash />The applicable non-refundable license renewal fees must accompany a renewal of licensure:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Part II<FlushRight Fill="Dot" />$750.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Part III<FlushRight Fill="Dot" />$375.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Per branch office<FlushRight Fill="Dot" />$38.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For each location of an authorized<NewLine/>vendor<FlushRight Fill="Dot" />$38.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Declaration as a deferred presentment<NewLine/>provider<FlushRight Fill="Dot" />$1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Renewal fees for branch offices and authorized vendors are limited to $20,000 biennially.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">LATE LICENSE RENEWAL FEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Part II<FlushRight Fill="Dot" />$500.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Part III<FlushRight Fill="Dot" />$250.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Declaration as a deferred presentment<NewLine/>provider<FlushRight Fill="Dot" />$500.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 28, ch. 2008-177; s. 71, ch. 2009-21; s. 3, ch. 2009-185.</History>
+</Section>

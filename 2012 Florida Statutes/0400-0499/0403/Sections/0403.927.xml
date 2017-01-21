@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.927" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Use of water in farming and forestry activities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature recognizes the great value of farming and forestry to this state and that continued agricultural activity is compatible with wetlands protection. In order to avoid unnecessary expense and delay from duplicative programs, it is the intent of the Legislature to provide for the construction and operation of agricultural water management systems under authority granted to water management districts and to control, by the department or by delegation of authority to water management districts, the ultimate discharge from agricultural water management systems.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Agricultural activities and agricultural water management systems are authorized by this section and are not subject to the provisions of s. 403.087 or <Reference Number="1" />ss. 403.91-403.929. Except for aquaculture water management systems located within waters of the state, the department shall not enforce water quality standards within an agricultural water management system. The department may require a stormwater permit or appropriate discharge permit at the ultimate point of discharge from an agricultural water management system or a group of connected agricultural water management systems. Impacts of agricultural activities and agricultural water management systems on groundwater quality shall be regulated by water management districts.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If land served by a water management system is converted to a use other than an agricultural use, the water management system, or the portion of the system which serves that land, will be subject to the provisions of this chapter. However, mitigation under chapter 373 or this chapter to offset any adverse effects caused by agricultural activities that occurred before the conversion of the land is not required if the activities occurred on the land in the last 4 years preceding the conversion.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Agricultural activities” includes all necessary farming and forestry operations which are normal and customary for the area, such as site preparation, clearing, fencing, contouring to prevent soil erosion, soil preparation, plowing, planting, cultivating, harvesting, fallowing, leveling, construction of access roads, placement of bridges and culverts, and implementation of best management practices adopted by the Department of Agriculture and Consumer Services or practice standards adopted by the United States Department of Agriculture’s Natural Resources Conservation Service, provided such operations are not for the sole or predominant purpose of impeding or diverting the flow of surface waters or adversely impacting wetlands.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Agricultural water management systems” means farming and forestry water management or irrigation systems and farm ponds which are permitted pursuant to chapter 373 or which are exempt from the permitting provisions of that chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Farm pond” means a pond located on a farm, used for farm purposes, as determined by water management district rule.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 84-79; s. 25, ch. 91-192; s. 23, ch. 91-305; s. 44, ch. 93-213; s. 20, ch. 96-247; s. 3, ch. 2011-165.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Sections 403.91-403.925 and 403.929 were repealed by s. 45, ch. 93-213, and s. 403.913, as amended by s. 46, ch. 93-213, was transferred to s. 403.939 and subsequently repealed by s. 18, ch. 95-145. The only section remaining within the cited range is s. 403.927.</Text>
+	</Note>
+</Section>

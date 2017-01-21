@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1012.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the following terms have the following meanings:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SCHOOL OFFICERS.<EmDash />The officers of the state system of public K-12 and Florida College System institution education shall be the Commissioner of Education and the members of the State Board of Education; for each district school system, the officers shall be the district school superintendent and members of the district school board; and for each Florida College System institution, the officers shall be the Florida College System institution president and members of the Florida College System institution board of trustees.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">INSTRUCTIONAL PERSONNEL.<EmDash />“Instructional personnel” means any K-12 staff member whose function includes the provision of direct instructional services to students. Instructional personnel also includes K-12 personnel whose functions provide direct support in the learning process of students. Included in the classification of instructional personnel are the following K-12 personnel:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Classroom teachers.</Font><EmDash />Classroom teachers are staff members assigned the professional activity of instructing students in courses in classroom situations, including basic instruction, exceptional student education, career education, and adult education, including substitute teachers.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Student personnel services.</Font><EmDash />Student personnel services include staff members responsible for: advising students with regard to their abilities and aptitudes, educational and occupational opportunities, and personal and social adjustments; providing placement services; performing educational evaluations; and similar functions. Included in this classification are guidance counselors, social workers, career specialists, and school psychologists.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Librarians/media specialists.</Font><EmDash />Librarians/media specialists are staff members responsible for providing school library media services. These employees are responsible for evaluating, selecting, organizing, and managing media and technology resources, equipment, and related systems; facilitating access to information resources beyond the school; working with teachers to make resources available in the instructional programs; assisting teachers and students in media productions; and instructing students in the location and use of information resources.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Other instructional staff.</Font><EmDash />Other instructional staff are staff members who are part of the instructional staff but are not classified in one of the categories specified in paragraphs (a)-(c). Included in this classification are primary specialists, learning resource specialists, instructional trainers, adjunct educators certified pursuant to s. 1012.57, and similar positions.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Education paraprofessionals.</Font><EmDash />Education paraprofessionals are individuals who are under the direct supervision of an instructional staff member, aiding the instructional process. Included in this classification are classroom paraprofessionals in regular instruction, exceptional education paraprofessionals, career education paraprofessionals, adult education paraprofessionals, library paraprofessionals, physical education and playground paraprofessionals, and other school-level paraprofessionals.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">ADMINISTRATIVE PERSONNEL.<EmDash />“Administrative personnel” includes K-12 personnel who perform management activities such as developing broad policies for the school district and executing those policies through the direction of personnel at all levels within the district. Administrative personnel are generally high-level, responsible personnel who have been assigned the responsibilities of systemwide or schoolwide functions, such as district school superintendents, assistant superintendents, deputy superintendents, school principals, assistant principals, career center directors, and others who perform management activities. Broad classifications of K-12 administrative personnel are as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">District-based instructional administrators.</Font><EmDash />Included in this classification are persons with district-level administrative or policymaking duties who have broad authority for management policies and general school district operations related to the instructional program. Such personnel often report directly to the district school superintendent and supervise other administrative employees. This classification includes assistant, associate, or deputy superintendents and directors of major instructional areas, such as curriculum, federal programs such as Title I, specialized instructional program areas such as exceptional student education, career education, and similar areas.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">District-based noninstructional administrators.</Font><EmDash />Included in this classification are persons with district-level administrative or policymaking duties who have broad authority for management policies and general school district operations related to the noninstructional program. Such personnel often report directly to the district school superintendent and supervise other administrative employees. This classification includes assistant, associate, or deputy superintendents and directors of major noninstructional areas, such as personnel, construction, facilities, transportation, data processing, and finance.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">School administrators.</Font><EmDash />Included in this classification are:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">School principals or school directors who are staff members performing the assigned activities as the administrative head of a school and to whom have been delegated responsibility for the coordination and administrative direction of the instructional and noninstructional activities of the school. This classification also includes career center directors.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Assistant principals who are staff members assisting the administrative head of the school. This classification also includes assistant principals for curriculum and administration.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">YEAR OF SERVICE.<EmDash />The minimum time which may be recognized in administering K-12 education, not including retirement, as a year of service by a school employee shall be full-time actual service; and, beginning July 1963, such service shall also include sick leave and holidays for which compensation was received but shall exclude all other types of leave and holidays for a total of more than one-half of the number of days required for the normal contractual period of service for the position held, which shall be 196 days or longer, or the minimum required for the district to participate in the Florida Education Finance Program in the year service was rendered, or the equivalent for service performed on a daily or hourly basis; provided, further, that absence from duty after the date of beginning service shall be covered by leave duly authorized and granted; further, the school board shall have authority to establish a different minimum for local district school purposes.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SCHOOL VOLUNTEER.<EmDash />A K-12 school volunteer is any nonpaid person who may be appointed by a district school board or its designee. School volunteers may include, but may not be limited to, parents, senior citizens, students, and others who assist the teacher or other members of the school staff.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">EDUCATIONAL SUPPORT EMPLOYEES.<EmDash />“Educational support employees” means K-12 employees whose job functions are neither administrative nor instructional, yet whose work supports the educational process.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Other professional staff or nonadministrative/noninstructional employees are staff members who perform professional job functions which are nonadministrative/noninstructional in nature and who are not otherwise classified in this section. Included in this classification are employees such as doctors, nurses, attorneys, certified public accountants, and others appropriate to the classification.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Technicians are individuals whose occupations require a combination of knowledge and manual skill which can be obtained through about 2 years of post-high school education, such as is offered in many career centers and Florida College System institutions, or through equivalent on-the-job training.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Clerical/secretarial workers are individuals whose job requires skills and training in clerical-type work, including activities such as preparing, transcribing, systematizing, or preserving written communications and reports or operating equipment performing those functions. Included in this classification are secretaries, bookkeepers, messengers, and office machine operators.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Skilled crafts workers are individuals who perform jobs which require special manual skill and a thorough and comprehensive knowledge of the processes involved in the work which is acquired through on-the-job training and experience or through apprenticeship or other formal training programs. Lead workers for the various skilled crafts areas shall be included in this classification.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Service workers are staff members performing a service for which there are no formal qualifications, including those responsible for: cleaning the buildings, school plants, or supporting facilities; maintenance and operation of such equipment as heating and ventilation systems; preserving the security of school property; and keeping the school plant safe for occupancy and use. Lead workers in the various service areas shall be included in this broad classification.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">MANAGERS.<EmDash />“Managers” includes those K-12 staff members who perform managerial and supervisory functions while usually also performing general operations functions. Managers may be either instructional or noninstructional in their responsibility. They may direct employees’ work, plan the work schedule, control the flow and distribution of work or materials, train employees, handle complaints, authorize payments, and appraise productivity and efficiency of employees. This classification includes coordinators and supervisors working under the general direction of those staff identified as district-based instructional or noninstructional administrators.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 689, ch. 2002-387; s. 6, ch. 2004-295; ss. 6, 131, ch. 2004-357; s. 161, ch. 2007-217; s. 182, ch. 2011-5.</History>
+</Section>

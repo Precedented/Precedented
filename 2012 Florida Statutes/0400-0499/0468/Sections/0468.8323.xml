@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.8323" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Home inspection report.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Upon completion of each home inspection for compensation, the home inspector shall provide a written report prepared for the client.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The home inspector shall report:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">On those systems and components inspected that, in the professional opinion of the inspector, are significantly deficient or are near the end of their service lives.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If not self-evident, a reason why the system or component reported under paragraph (a) is significantly deficient or near the end of its service life.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any systems and components that were present at the time of the inspection but were not inspected, and a reason they were not inspected.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A home inspector is not required to provide estimates related to the cost of repair of an inspected property.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2007-235; s. 9, ch. 2011-222.</History>
+</Section>

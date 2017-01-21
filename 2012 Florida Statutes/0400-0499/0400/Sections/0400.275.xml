@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0400.275" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Agency duties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The agency may not assign an individual to be a member of a survey team for purposes of a survey, evaluation, or consultation visit at a nursing home facility in which the surveyor was an employee within the preceding 2 years.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agency shall semiannually provide for joint training of nursing home surveyors and staff of facilities licensed under this part on at least one of the 10 federal citations that were most frequently issued against nursing facilities in this state during the previous calendar year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each member of a nursing home survey team who is a health professional licensed under part I of chapter 464, part X of chapter 468, or chapter 491 shall earn not less than 50 percent of required continuing education credits in geriatric care. Each member of a nursing home survey team who is a health professional licensed under chapter 465 shall earn not less than 30 percent of required continuing education credits in geriatric care.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The agency must ensure that when a deficiency is related to substandard quality of care, a physician with geriatric experience licensed under chapter 458 or chapter 459 or a registered nurse with geriatric experience licensed under chapter 464 participates in the agency’s informal dispute resolution process.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 32, ch. 2001-45; s. 11, ch. 2012-160.</History>
+</Section>

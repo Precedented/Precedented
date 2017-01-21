@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.374" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Partial payment of current year taxes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “partial payment” means a payment that is less than the full amount of taxes due. The term does not include payments made pursuant to s. 194.171, s. 196.295, s. 197.222, s. 197.252, or s. 197.2524.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At the discretion of the tax collector, the tax collector may accept one or more partial payments of any amount per parcel for payment of current taxes and assessments on real property or tangible personal property as long as such payment is made prior to the date of delinquency. The remaining amount of tax due, when paid, must be paid in full.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each partial payment, less a $10 processing fee payable to the tax collector, shall be credited to the tax account. A partial payment is not eligible for any applicable discount set forth in s. 197.162. The taxpayer has the responsibility to ensure that the remaining amount due is paid.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 197.343, the tax collector shall prepare and mail at least one notice with the balance due. The tax collector shall mail the notice in the form as he or she considers proper and necessary or as may be required by rule of the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any remaining balance that is not paid before April 1 or the date of delinquency becomes delinquent and shall be handled in the same manner as any other unpaid taxes.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">At the tax collector’s discretion, an underpayment of $10 or less may be deemed a payment in full, rather than a partial payment.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A partial payment shall be distributed in equal proportion to all taxing districts and levying authorities applicable to that account.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2009-130; s. 57, ch. 2011-151.</History>
+</Section>

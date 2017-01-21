@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.39" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Education and Training Placement Information Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall develop and maintain a continuing program of information management named the “Florida Education and Training Placement Information Program,” the purpose of which is to compile, maintain, and disseminate information concerning the educational histories, placement and employment, enlistments in the United States armed services, and other measures of success of former participants in state educational and workforce development programs. Placement and employment information shall contain data appropriate to calculate job retention and job retention rates.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any project conducted by the Department of Education or the workforce development system that requires placement information shall use information provided through the Florida Education and Training Placement Information Program, and shall not initiate automated matching of records in duplication of methods already in place in the Florida Education and Training Placement Information Program. The department shall implement an automated system which matches the social security numbers of former participants in state educational and training programs with information in the files of state and federal agencies that maintain educational, employment, and United States armed service records and shall implement procedures to identify the occupations of those former participants whose social security numbers are found in employment records, as required by Specific Appropriation 337A, chapter 84-220, Laws of Florida; Specific Appropriation 337B, chapter 85-119, Laws of Florida; Specific Appropriation 350A, chapter 86-167, Laws of Florida; and Specific Appropriation 351, chapter 87-98, Laws of Florida.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Florida Education and Training Placement Information Program must not make public any information that could identify an individual or the individual’s employer. The Department of Education must ensure that the purpose of obtaining placement information is to evaluate and improve public programs or to conduct research for the purpose of improving services to the individuals whose social security numbers are used to identify their placement. If an agreement assures that this purpose will be served and that privacy will be protected, the Department of Education shall have access to the reemployment assistance wage reports maintained by the Department of Economic Opportunity, the files of the Department of Children and Family Services that contain information about the distribution of public assistance, the files of the Department of Corrections that contain records of incarcerations, and the files of the Department of Business and Professional Regulation that contain the results of licensure examination.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Florida Education and Training Placement Information Program may perform longitudinal analyses for all levels of education and workforce development. These analyses must include employment stability, annual earnings, and relatedness of employment to education.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 386, ch. 2002-387; s. 468, ch. 2011-142; s. 88, ch. 2012-30.</History>
+</Section>

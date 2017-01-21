@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0009" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Arbitration agreement and substantive claim before court.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A court before which an action is brought in a matter that is the subject of an arbitration agreement shall, if a party so requests not later than when submitting its first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative, or incapable of being performed.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If an action described in subsection (1) has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 2010-60.</History>
+</Section>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.0705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Electronic filing of campaign treasurer’s reports.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, “electronic filing system” means an Internet system for recording and reporting campaign finance activity by reporting period.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each individual who is required to file reports with the division pursuant to s. 106.07 or s. 106.141 must file such reports by means of the division’s electronic filing system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each political committee, committee of continuous existence, electioneering communications organization, affiliated party committee, or state executive committee that is required to file reports with the division under s. 106.04, s. 106.07, s. 106.0703, or s. 106.29, as applicable, must file such reports with the division by means of the division’s electronic filing system.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each person or organization that is required to file reports with the division under s. 106.071 must file such reports by means of the division’s electronic filing system.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Reports filed pursuant to this section shall be completed and filed through the electronic filing system not later than midnight of the day designated. Reports not filed by midnight of the day designated are late filed and are subject to the penalties under s. 106.04(9), s. 106.07(8), s. 106.0703(7), or s. 106.29(3), as applicable.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each report filed pursuant to this section is considered to be under oath by the candidate and treasurer, the chair and treasurer, the treasurer under s. 106.0703, or the leader and treasurer under s. 103.092, whichever is applicable, and such persons are subject to the provisions of s. 106.04(4)(d), s. 106.07(5), s. 106.0703(4), or s. 106.29(2), as applicable. Persons given a secure sign-on to the electronic filing system are responsible for protecting such from disclosure and are responsible for all filings using such credentials, unless they have notified the division that their credentials have been compromised.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The electronic filing system developed by the division must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be based on access by means of the Internet.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be accessible by anyone with Internet access using standard web-browsing software.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide for direct entry of campaign finance information as well as upload of such information from campaign finance software certified by the division.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide a method that prevents unauthorized access to electronic filing system functions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The division shall adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this section and provide for the reports required to be filed pursuant to this section. Such rules shall, at a minimum, provide:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Alternate filing procedures in case the division’s electronic filing system is not operable.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For the issuance of an electronic receipt to the person submitting the report indicating and verifying that the report has been filed.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 19, ch. 2004-252; s. 45, ch. 2005-278; s. 8, ch. 2006-300; s. 24, ch. 2010-167; ss. 12, 30, ch. 2011-6; s. 61, ch. 2011-40; HJR 7105, 2011 Regular Session.</History>
+</Section>

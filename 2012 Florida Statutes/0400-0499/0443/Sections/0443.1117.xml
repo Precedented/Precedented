@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1117" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Temporary extended benefits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY OF EXTENDED BENEFITS STATUTE.<EmDash />Except if the result is inconsistent with other provisions of this section, s. 443.1115(2), (3), (4), (6), and (7) apply to all claims covered by this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Regular benefits” and “extended benefits” have the same meaning as in s. 443.1115.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Eligibility period” means the weeks in an individual’s benefit year or emergency benefit period which begin in an extended benefit period and, if the benefit year or emergency benefit period ends within that extended benefit period, any subsequent weeks beginning in that period.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Emergency benefits” means benefits paid pursuant to Pub. L. No. 110-252, and any subsequent federal law that provides for the payment of Emergency Unemployment Compensation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Extended benefit period” means a period that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Begins with the third week after a week for which there is a state “on” indicator; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Ends with any of the following weeks, whichever occurs later:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The third week after the first week for which there is a state “off” indicator; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The 13th consecutive week of that period.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">However, an extended benefit period may not begin by reason of a state “on” indicator before the 14th week after the end of a prior extended benefit period that was in effect for this state.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Emergency benefit period” means the period during which an individual receives emergency benefits.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Exhaustee” means an individual who, for any week of unemployment in her or his eligibility period:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has received, before that week, all of the regular benefits and emergency benefits, if any, available under this chapter or any other law, including dependents’ allowances and benefits payable to federal civilian employees and ex-servicemembers under 5 U.S.C. ss. 8501-8525, in the current benefit year or emergency benefit period that includes that week. For the purposes of this subparagraph, an individual has received all of the regular benefits and emergency benefits, if any, available even if, as a result of a pending appeal for wages paid for insured work which were not considered in the original monetary determination in the benefit year, she or he may subsequently be determined to be entitled to added regular benefits;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Had a benefit year that expired before that week, and was paid no, or insufficient, wages for insured work on the basis of which she or he could establish a new benefit year that includes that week; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Has no right to unemployment benefits or allowances under the Railroad Unemployment Insurance Act or other federal laws as specified in regulations issued by the United States Secretary of Labor; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Has not received and is not seeking unemployment benefits under the unemployment compensation law of Canada; but if an individual is seeking those benefits and the appropriate agency finally determines that she or he is not entitled to benefits under that law, she or he is considered an exhaustee.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“State ‘on’ indicator” means, with respect to weeks of unemployment ending on or before December 8, 2012, the occurrence of a week in which the average total unemployment rate, seasonally adjusted, as determined by the United States Secretary of Labor, for the most recent 3 months for which data for all states are published by the United States Department of Labor:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 110 percent of the average of those rates for the corresponding 3-month period ending in any or all of the preceding 3 calendar years; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 6.5 percent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“High unemployment period” means, with respect to weeks of unemployment ending on or before December 8, 2012, any week in which the average total unemployment rate, seasonally adjusted, as determined by the United States Secretary of Labor, for the most recent 3 months for which data for all states are published by the United States Department of Labor:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 110 percent of the average of those rates for the corresponding 3-month period ending in any or all of the preceding 3 calendar years; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 8 percent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“State ‘off’ indicator” means the occurrence of a week in which there is no state “on” indicator or which does not constitute a high unemployment period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">TOTAL EXTENDED BENEFIT AMOUNT.<EmDash />Except as provided in subsection (4):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For any week for which there is an “on” indicator pursuant to paragraph (2)(g), the total extended benefit amount payable to an eligible individual for her or his applicable benefit year is the lesser of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Fifty percent of the total regular benefits payable under this chapter in the applicable benefit year; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Thirteen times the weekly benefit amount payable under this chapter for a week of total unemployment in the applicable benefit year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For any high unemployment period, the total extended benefit amount payable to an eligible individual for her or his applicable benefit year is the lesser of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Eighty percent of the total regular benefits payable under this chapter in the applicable benefit year; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Twenty times the weekly benefit amount payable under this chapter for a week of total unemployment in the applicable benefit year.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">EFFECT ON TRADE READJUSTMENT.<EmDash />Notwithstanding any other provision of this chapter, if the benefit year of an individual ends within an extended benefit period, the number of weeks of extended benefits the individual is entitled to receive in that extended benefit period for weeks of unemployment beginning after the end of the benefit year, except as provided in this section, is reduced, but not to below zero, by the number of weeks for which the individual received, within that benefit year, trade readjustment allowances under the Trade Act of 1974, as amended.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2009-99; s. 1, ch. 2010-1; s. 100, ch. 2010-5; s. 1, ch. 2010-90; s. 13, ch. 2011-235; s. 90, ch. 2012-30.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 90, ch. 2012-30, revived, readopted, and amended s. 443.1117 “[n]otwithstanding the expiration date contained in section 13 of chapter 2011-235, Laws of Florida, operating retroactive to January 4, 2012, and expiring January 5, 2013.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 91, ch. 2012-30, provides that “[t]he provisions of s. 443.1117, Florida Statutes, as revived, readopted, and amended by this act, apply only to claims for weeks of unemployment in which an exhaustee establishes entitlement to extended benefits pursuant to that section which are established for the period between January 4, 2012, and January 5, 2013.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.302" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Use of radiation; identification of certified persons; limitations; exceptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in this section, a person may not use radiation or otherwise practice radiologic technology or any of the duties of a radiologist assistant on a human being unless he or she:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is a licensed practitioner;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is the holder of a certificate, as provided in this part, and is operating under the direct supervision or general supervision of a licensed practitioner in each particular case; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is the holder of a radiologist assistant certificate, as provided in this part, and is operating under the supervision of a radiologist, as specified in paragraph (3)(h).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a basic X-ray machine operator may use the title “Basic X-ray Machine Operator.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a basic X-ray machine operator-podiatric medicine may use the title “Basic X-ray Machine Operator-Podiatric Medicine.”</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a general radiographer may use the title “Certified Radiologic Technologist-Radiographer” or the letters “CRT-R” after his or her name.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a limited computed tomography technologist may use the title “Certified Radiologic Technologist-Computed Tomography” or the letters “CRT-C” after his or her name.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a radiation therapy technologist may use the title “Certified Radiologic Technologist-Therapy” or the letters “CRT-T” after his or her name.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a nuclear medicine technologist may use the title “Certified Radiologic Technologist-Nuclear Medicine” or the letters “CRT-N” after his or her name.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a radiologist assistant may use the title “Certified Radiologist Assistant” or the letters “CRA” after his or her name.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a specialty technologist may use the title “Certified Radiologic Technologist-X” or the letters “CRT-X” after his or her name, where “X” represents a single- or multiple-letter designation signifying the advanced, postprimary, or specialty area of radiologic technology, such as “CT” for computed tomography or “PET” for positron emission tomography, in which the person is certified by a national organization. The department shall approve these letter designations by rule for each area, consistent with the designation used by a national organization.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">No other person is entitled to so use a title or letters contained in this subsection or to hold himself or herself out in any way, whether orally or in writing, expressly or by implication, as being so certified.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a basic X-ray machine operator may perform general diagnostic radiographic and general fluoroscopic procedures, specifically excluding nuclear medicine and radiation therapy procedures, under the direct supervision and control of a licensed practitioner in that practitioner’s office or in a hospital pursuant to paragraph (b). A basic X-ray machine operator may participate in additional approved programs as provided by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A basic X-ray machine operator or basic X-ray machine operator-podiatric medicine may not practice radiologic technology in walk-in emergency centers, freestanding breast clinics, freestanding cancer clinics, state mental hospitals, state correctional institutions, or in any facility regulated under chapter 390, chapter 392, chapter 393, chapter 394, or chapter 641. For a facility licensed under chapter 395, a basic X-ray machine operator may only perform the procedures specified in paragraph (a) in a hospital with a capacity of 150 beds or less. If such a hospital has or acquires radiographic or fluoroscopic equipment other than general diagnostic radiographic and general fluoroscopic equipment, that hospital shall keep a record documenting which personnel performed each radiographic or fluoroscopic procedure. For purposes of this paragraph, a walk-in emergency center shall not include a physician-operated walk-in clinic which operates with or without appointments and with extended hours and which does not hold itself out to the public as an emergency center.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a basic X-ray machine operator-podiatric medicine may perform only podiatric radiographic procedures under the direct supervision and control of a licensed podiatric physician.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a general radiographer may not perform nuclear medicine and radiation therapy procedures, except as provided in this paragraph. A person who is a general radiographer certified pursuant to this part who receives additional training and skills in radiation therapy technology procedures as referenced in this paragraph may assist with managing patients undergoing radiation therapy treatments if that assistance is provided to a person registered with the American Registry of Radiologic Technologists in radiation therapy who is also certified pursuant to this part as a radiation therapy technologist. Both the general radiographer and the radiation therapy technologist must perform these radiation therapy services under the general supervision of a physician licensed under chapter 458 or chapter 459 who is trained and skilled in performing radiation therapy treatments. The radiation therapy technologist identified under this paragraph may not delegate any function to the general radiographer which could reasonably be expected to create an unnecessary danger to a patient’s life, health, or safety. The general radiographer identified under this section may not, however, perform the following services while assisting the radiation therapy technologist: radiation treatment planning, calculation of radiation therapy doses, or any of the duties of a medical physicist. The general radiographer identified under this section must successfully complete a training program in the following areas before assisting with radiation therapy technology duties:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Principles of radiation therapy treatment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Biological effects of radiation;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Radiation exposure and monitoring;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Radiation safety and protection;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Evaluation and handling of radiographic treatment equipment and accessories; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Patient positioning for radiation therapy treatment.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">In addition, a general radiographer may participate in additional approved programs as provided by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a limited computed tomography technologist may perform only diagnostic computed tomography examinations.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a radiation therapy technologist may administer only X radiation and ionizing radiation emitted from particle accelerators and external beam teletherapy from sealed sources of radioactive material to human beings for therapeutic or simulation purposes.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A person holding a certificate as a nuclear medicine technologist may only:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Conduct in vivo and in vitro measurements of radioactivity and administer radiopharmaceuticals to human beings for diagnostic and therapeutic purposes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Administer X radiation from a combination nuclear medicine-computed tomography device if that radiation is administered as an integral part of a nuclear medicine procedure that uses an automated computed tomography protocol for the purposes of attenuation correction and anatomical localization and the person has received device-specific training on the combination device.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The authority of a nuclear medicine technologist under this paragraph excludes:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Radioimmunoassay and other clinical laboratory testing regulated pursuant to chapter 483;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Creating or modifying automated computed tomography protocols; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Any other operation of a computed tomography device, especially for the purposes of stand-alone diagnostic imaging, which must be performed by a general radiographer certified under this part.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a radiologist assistant may:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Perform specific duties allowed for a radiologist assistant as defined by the department by rule. The rule must be consistent with guidelines adopted by the American College of Radiology, the American Society of Radiologic Technologists, and the American Registry of Radiologic Technologists, with the level of supervision required by such guidelines.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Not perform nuclear medicine or radiation therapy procedures unless currently certified and trained to perform those duties under the person’s nuclear medicine technologist or radiation therapy technologist certificate; not interpret images; not make diagnoses; and not prescribe medications or therapies.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A person holding a certificate as a specialty technologist may perform the specific duties allowed for a specialty technologist as defined by rule of the department. These duties must fall within the scope of practice for that particular advanced, postprimary, or specialty area as set by a national organization.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A person holding a certificate as a radiologic technologist may only use radiation or radiation-producing equipment on human beings for diagnostic or therapeutic purposes while operating, in each particular case, under the general supervision of a licensed practitioner and only if the application of radiation is limited to those persons or parts of the human body specified in the law under which the practitioner is licensed.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Nothing contained in this part relating to radiologic technology or a radiologist assistant shall be construed to limit, enlarge, or affect in any respect the practice by duly licensed practitioners of their respective professions.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Requirement for certification does not apply to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A hospital resident who is not a licensed practitioner in this state or a student enrolled in and attending a school or college of medicine, osteopathic medicine, chiropody, podiatric medicine, or chiropractic medicine or a radiologic technology educational program or radiologist assistant educational program and who applies radiation to a human being while under the direct supervision of a licensed practitioner.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person who is engaged in performing the duties of a radiologic technologist or of a radiologist assistant in his or her employment by a governmental agency of the United States.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person who is trained and skilled in cardiopulmonary technology and who provides cardiopulmonary technology services at the direction, and under the direct supervision, of a licensed practitioner.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A person who is licensed pursuant to chapter 483 to perform nuclear medicine procedures is not required to be certificated under this part, provided such person does not perform any other procedures regulated under this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 78-383; s. 2, ch. 81-318; ss. 4, 18, 19, ch. 84-269; s. 13, ch. 86-287; s. 2, ch. 88-310; s. 4, ch. 91-429; s. 6, ch. 96-309; s. 1113, ch. 97-103; s. 52, ch. 97-264; ss. 212, 282, ch. 98-166; s. 108, ch. 2001-277; s. 38, ch. 2004-350; s. 3, ch. 2006-139; s. 2, ch. 2012-168.</History>
+</Section>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">General requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Elevator Safety Technical Advisory Committee shall develop and submit to the Director of Hotels and Restaurants proposed revisions to the elevator safety code so that it is the same as or similar to the latest editions of ASME A17.1, ASME A17.3, and ASME A18.1.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">This chapter covers the design, construction, operation, inspection, testing, maintenance, alteration, and repair of the following equipment and its associated parts and hoistways:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Hoisting and lowering mechanisms equipped with a car or platform which move between two or more landings. This equipment includes, but is not limited to, elevators, platform lifts, and stairway chairlifts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Power-driven stairways and walkways for carrying persons between landings. This equipment includes, but is not limited to, escalators and moving walks.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Hoisting and lowering mechanisms equipped with a car which serves two or more landings and is restricted to the carrying of material by its limited size or limited access to the car. This equipment includes, but is not limited to, dumbwaiters, material lifts, and dumbwaiters with automatic-transfer devices.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Equipment not covered by this chapter includes, but is not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Personnel hoists and material hoists within the scope of ASME A10, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Man lifts within the scope of ASME A90.1, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Mobile scaffolds, towers, and platforms within the scope of ANSI A92, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Powered platforms and equipment for exterior and interior maintenance within the scope of ASME A120.1, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Conveyors and related equipment within the scope of ASME B20.1, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Cranes, derricks, hoists, hooks, jacks, and slings within the scope of ASME B30, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Industrial trucks within the scope of ASME B56, as adopted by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Portable equipment, except for portable escalators that are covered by the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Tiered or piling machines used to move materials to and from storage located and operating entirely within one story.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Equipment for feeding or positioning materials at machine tools and printing presses.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Skip or furnace hoists.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Wharf ramps.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Railroad car lifts or dumpers.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Line jacks, false cars, shafters, moving platforms, and similar equipment used for installing an elevator by a contractor licensed in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Automated people movers at airports.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Elevators in television and radio towers.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">Hand-operated dumbwaiters.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">Sewage pump station lifts.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">Automobile parking lifts.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">Equipment covered in s. 1.1.2 of the Elevator Safety Code.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">Elevators, inclined stairway chairlifts, and inclined or vertical wheelchair lifts located in private residences.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each elevator shall have a serial number assigned by the department painted on or attached to the elevator car in plain view and also to the driving mechanism. This serial number shall be shown on all required certificates and permits.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The construction permitholder is responsible for the correction of violations and deficiencies until the elevator has been inspected and a certificate of operation has been issued by the department. The construction permitholder is responsible for all tests of new and altered equipment until the elevator has been inspected and a certificate of operation has been issued by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The elevator owner is responsible for the safe operation, proper maintenance, and inspection and correction of code deficiencies of the elevator after a certificate of operation has been issued by the department. The responsibilities of the elevator owner may be assigned by lease.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department is empowered to carry out all of the provisions of this chapter relating to the inspection and regulation of elevators and to enforce the provisions of the Florida Building Code. The division shall adopt rules to administer this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In order to perform its duties and responsibilities under this section, the division may enter and have reasonable access to all buildings and rooms or spaces in which an existing or newly installed conveyance and equipment are located.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Elevator Safety Technical Advisory Committee shall annually review the provisions of the Safety Code for Elevators and Escalators ASME A17.1, ASME A18.1, or other related model codes and amendments thereto, concurrent with the update of the Florida Building Code and recommend to the Florida Building Commission revisions to the Florida Building Code to maintain the protection of the public health, safety, and welfare.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The division may grant variances for undue hardship pursuant to s. 120.542 and the rules adopted under this section. Such rules must include a process for requests for variances. The division may not grant a request for a variance unless it finds that the variance will not adversely affect the safety of the public.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Updates to the Safety Code for Existing Elevators and Escalators, ASME A17.1 and A17.3, which require Phase II Firefighters’ Service on elevators may not be enforced until July 1, 2015, or until the elevator is replaced or requires major modification, whichever occurs first, on elevators in condominiums or multifamily residential buildings, including those that are part of a continuing care facility licensed under chapter 651, or similar retirement community with apartments, having a certificate of occupancy by the local building authority that was issued before July 1, 2008. This exception does not prevent an elevator owner from requesting a variance from the applicable codes before or after July 1, 2015. This subsection does not prohibit the division from granting variances pursuant to s. 120.542 and subsection (8). The division shall adopt rules to administer this subsection.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 24096, 1947; s. 2, ch. 57-227; ss. 16, 35, ch. 69-106; ss. 2, 3, 4, ch. 71-228; s. 1, ch. 74-17; s. 4, ch. 77-109; s. 3, ch. 78-235; s. 2, ch. 81-120; s. 2, ch. 81-318; ss. 2, 16, 17, ch. 83-145; s. 2, ch. 90-73; ss. 2, 8, ch. 93-16; s. 224, ch. 96-406; s. 24, ch. 2000-141; ss. 7, 34, ch. 2001-186; s. 3, ch. 2001-372; s. 4, ch. 2002-293; s. 7, ch. 2002-299; s. 2, ch. 2010-110; s. 1, ch. 2010-174; s. 2, ch. 2010-176.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. As enacted by s. 2, ch. 2010-176. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Subsection (9) was also added by s. 2, ch. 2010-110, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(9) Updates to the code requiring modifications for Phase II Firefighters’ Service on existing elevators, as amended into the Safety Code for Existing Elevators and Escalators, ASME A17.1 and A17.3, may not be enforced on elevators in condominiums or multi-family residential buildings, including those that are part of a continuing care facility licensed under chapter 651 or similar retirement community with apartments, issued a certificate of occupancy by the local building authority as of July 1, 2008, for 5 years or until the elevator is replaced or requires major modification, whichever occurs first. This exception does not apply to a building for which a certificate of occupancy was issued after July 1, 2008. This exception does not prevent an elevator owner from requesting a variance from the applicable codes before or after the expiration of the 5-year term. This subsection does not prohibit the division from granting variances pursuant to s. 120.542 and subsection (8). The division shall adopt rules to administer this subsection.</Text>
+		<Text xml:space="preserve" Style="Indent">B. As enacted by s. 2, ch. 2010-176. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Substantially similar material was created as subsection (8) by s. 1, ch. 2010-174, and redesignated as subsection (9) by the editors, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(9) Updates to the code requiring modifications for Phase II Firefighters’ Service on existing elevators, as amended into the Safety Code for Existing Elevators and Escalators, ASME A17.1 and A17.3, may not be enforced on elevators in condominiums, cooperatives, or multifamily residential buildings issued a certificate of occupancy by the local building authority as of July 1, 2008, for 5 years or until the elevator is replaced or requires major modification, whichever occurs first. This exception does not apply to a building for which a certificate of occupancy was issued after July 1, 2008. This exception does not prevent an elevator owner from requesting a variance from the applicable codes before or after the expiration of the 5-year term. This subsection does not prohibit the division from granting variances pursuant to s. 120.542. The division shall adopt rules to administer this subsection.</Text>
+	</Note>
+</Section>

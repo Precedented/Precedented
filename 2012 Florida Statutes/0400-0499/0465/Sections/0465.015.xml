@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0465.015" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Violations and penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person to own, operate, maintain, open, establish, conduct, or have charge of, either alone or with another person or persons, a pharmacy:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Which is not registered under the provisions of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In which a person not licensed as a pharmacist in this state or not registered as an intern in this state or in which an intern who is not acting under the direct and immediate personal supervision of a licensed pharmacist fills, compounds, or dispenses any prescription or dispenses medicinal drugs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To make a false or fraudulent statement, either for herself or himself or for another person, in any application, affidavit, or statement presented to the board or in any proceeding before the board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To fill, compound, or dispense prescriptions or to dispense medicinal drugs if such person does not hold an active license as a pharmacist in this state, is not registered as an intern in this state, or is an intern not acting under the direct and immediate personal supervision of a licensed pharmacist.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To sell or dispense drugs as defined in s. 465.003(8) without first being furnished with a prescription.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To sell samples or complimentary packages of drug products.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any pharmacist to knowingly fail to report to the sheriff or other chief law enforcement agency of the county where the pharmacy is located within 24 hours after learning of any instance in which a person obtained or attempted to obtain a controlled substance, as defined in s. 893.02, or at the close of business on the next business day, whichever is later, that the pharmacist knew or believed was obtained or attempted to be obtained through fraudulent methods or representations from the pharmacy at which the pharmacist practiced pharmacy. Any pharmacist who knowingly fails to make such a report within 24 hours after learning of the fraud or attempted fraud or at the close of business on the next business day, whichever is later, commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083. A sufficient report of the fraudulent obtaining of controlled substances under this subsection must contain, at a minimum, a copy of the prescription used or presented and a narrative, including all information available to the pharmacist concerning the transaction, such as the name and telephone number of the prescribing physician; the name, description, and any personal identification information pertaining to the person who presented the prescription; and all other material information, such as photographic or video surveillance of the transaction.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any person other than a pharmacist licensed under this chapter to use the title “pharmacist” or “druggist” or otherwise lead the public to believe that she or he is engaged in the practice of pharmacy.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any person other than an owner of a pharmacy registered under this chapter to display any sign or to take any other action that would lead the public to believe that such person is engaged in the business of compounding, dispensing, or retailing any medicinal drugs. This paragraph shall not preclude a person not licensed as a pharmacist from owning a pharmacy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for a person, firm, or corporation that is not licensed or registered under this chapter to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Use in a trade name, sign, letter, or advertisement any term, including “drug,” “pharmacy,” “prescription drugs,” “Rx,” or “apothecary,” which implies that the person, firm, or corporation is licensed or registered to practice pharmacy in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Hold himself or herself out to others as a person, firm, or corporation licensed or registered to practice pharmacy in this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for a person who is not registered as a pharmacy technician under this chapter or who is not otherwise exempt from the requirement to register as a pharmacy technician, to perform the functions of a registered pharmacy technician, or hold himself or herself out to others as a person who is registered to perform the functions of a registered pharmacy technician in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any person who violates any provision of subsection (1) or subsection (4) commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083. Any person who violates any provision of subsection (2) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. In any warrant, information, or indictment, it shall not be necessary to negative any exceptions, and the burden of any exception shall be upon the defendant.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 7, ch. 79-226; ss. 2, 3, ch. 81-318; ss. 11, 26, 27, ch. 86-256; s. 59, ch. 91-137; s. 6, ch. 91-156; s. 91, ch. 91-224; s. 4, ch. 91-429; s. 243, ch. 97-103; s. 121, ch. 99-397; s. 55, ch. 2000-318; s. 2, ch. 2004-25; s. 5, ch. 2008-216; s. 10, ch. 2011-141.</History>
+</Section>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.304" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certification.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The department shall certify any applicant who meets the following criteria:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Pays to the department a nonrefundable fee that may not exceed $100, plus the actual per-applicant cost to the department for purchasing the examination from a national organization.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Submits a completed application on a form specified by the department. An incomplete application expires 6 months after initial filing. The application must include the social security number of the applicant. Each applicant shall notify the department in writing of his or her current mailing address. Notwithstanding any other law, service by regular mail to an applicant’s last reported mailing address constitutes adequate and sufficient notice of any official departmental communication to the applicant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Submits satisfactory evidence, verified by oath or affirmation, that she or he:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is at least 18 years of age at the time of application;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is a high school, vocational school, technical school, or college graduate or has successfully completed the requirements for a graduate equivalency diploma (GED) or its equivalent;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is of good moral character;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has passed an examination as specified in s. 468.306 or meets the requirements specified in s. 468.3065; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has successfully completed an educational program, which program may be established in a hospital licensed pursuant to chapter 395 or in an accredited postsecondary academic institution which is subject to approval by the department as maintaining a satisfactory standard; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">With respect to an applicant for a basic X-ray machine operator’s certificate, has completed a course of study approved by the department with appropriate study material provided the applicant by the department;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">With respect to an applicant for a basic X-ray machine operator-podiatric medicine certificate, has completed a course of study approved by the department, if such course of study is limited to the information necessary to perform radiographic procedures within the scope of practice of a podiatric physician licensed pursuant to chapter 461;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">With respect only to an applicant for a general radiographer’s certificate who is a basic X-ray machine operator certificateholder, has completed an educational program or a 2-year training program that takes into account the types of procedures and level of supervision usually and customarily practiced in a hospital, which educational or training program complies with the rules of the department;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">With respect only to an applicant for a nuclear medicine technologist’s certificate who is a general radiographer certificateholder, has completed an educational program or a 2-year training program that takes into account the types of procedures and level of supervision usually and customarily practiced in a hospital, which educational or training program complies with the rules of the department; </Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">With respect to an applicant for a radiologist assistant’s certificate, demonstrates to the department that he or she holds a current certificate or registration as a radiologist assistant granted by the American Registry of Radiologic Technologists; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">With respect to an applicant for a specialty technologist’s certificate, demonstrates to the department that he or she holds a current certificate or registration granted by a national organization in a particular advanced, postprimary, or specialty area of radiologic technology, such as computed tomography or positron emission tomography.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Submits complete documentation of any criminal offense in any jurisdiction of which the applicant has been found guilty, regardless of whether adjudication of guilt was withheld, or to which the applicant has pled guilty or nolo contendere.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Submits complete documentation of any final disciplinary action taken against the applicant by a licensing or regulatory body in any jurisdiction, by a national organization, or by a specialty board that is recognized by the department. Disciplinary action includes revocation, suspension, probation, reprimand, or being otherwise acted against, including being denied certification or resigning from or nonrenewal of membership taken in lieu of or in settlement of a pending disciplinary case.</Text></Subsection>
+			<Text xml:space="preserve" Style="Reversion">The department may not certify any applicant who has committed an offense that would constitute a violation of any of the provisions of s. 468.3101 or applicable rules if the applicant had been certified by the department at the time of the offense. An application for a limited computed tomography certificate may not be accepted. A person holding a valid computed tomography certificate as of October 1, 1984, is subject to s. 468.309.</Text>
+		
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 78-383; s. 2, ch. 81-318; ss. 5, 18, 19, ch. 84-269; s. 4, ch. 88-310; s. 4, ch. 91-429; s. 283, ch. 97-103; s. 213, ch. 98-166; s. 57, ch. 99-397; s. 39, ch. 2004-350; s. 4, ch. 2006-139; s. 3, ch. 2012-168.</History>
+</Section>

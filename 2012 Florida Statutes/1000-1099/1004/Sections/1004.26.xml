@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.26" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">University student governments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A student government is created on the main campus of each state university. In addition, each university board of trustees may establish a student government on any branch campus or center. Each student government is a part of the university at which it is established.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each student government shall be organized and maintained by students and shall be composed of at least a student body president, a student legislative body, and a student judiciary. The student body president and the student legislative body shall be elected by the student body; however, interim vacancies and the student judiciary may be filled in a manner other than election as prescribed by the internal procedures of the student government.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each student government shall adopt internal procedures governing:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The operation and administration of the student government.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The execution of all other duties as prescribed to the student government by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The qualifications, elections, and returns, the appointments, and the suspension, removal, and discipline of officers of the student government shall be determined by the student government as prescribed by its internal procedures.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any elected or appointed officer of the student government may be removed from office by the majority vote of students participating in a referendum held under this paragraph. Each student government shall adopt internal procedures by which students may petition for a referendum to remove from office an elected or appointed officer of the student government. The grounds for removal of a student government officer by petition must be expressly contained in the petition and are limited to the following: malfeasance, misfeasance, neglect of duty, incompetence, permanent inability to perform official duties, or conviction of a felony. The referendum must be held no later than 60 days after the filing of the petition.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each student government shall adopt internal procedures providing for the suspension and removal of an elected or appointed student government officer following the conviction of that officer of a felony.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">There shall be no cause of action against a state university for the actions or decisions of the student government of that state university unless the action or decision is made final by the state university and constitutes a violation of state or federal law.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2002-188; s. 43, ch. 2004-41; s. 2, ch. 2010-219.</History>
+</Section>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0556.101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Short title; legislative intent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This chapter may be cited as the “Underground Facility Damage Prevention and Safety Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to provide access for excavating contractors and the public to provide notification to the system of their intent to engage in excavation or demolition. This notification system shall provide the member operators an opportunity to identify and locate their underground facilities. Under this notification system, Sunshine State One-Call of Florida, Inc., is not required or permitted to locate or mark underground facilities.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">It is the purpose of this chapter to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Aid the public by preventing injury to persons or property and the interruption of services resulting from damage to an underground facility caused by excavation or demolition operations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Create a not-for-profit corporation comprised of operators of underground facilities in this state to administer this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Fund the cost of administration through contributions from the member operators for services provided to the member operators and from charges made to others for services requested and provided, such as record searches, education or training, and damage prevention activities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Reserve to the state the power to regulate any subject matter specifically addressed in this chapter. Municipalities, counties, districts, or other local governments may not adopt or enforce ordinances or rules that conflict with this chapter or that prescribe any of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Require operators of underground facilities to obtain permits from local governments in order to identify underground facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Require premarking or marking.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Specify the types of paint or other marking devices that are used to identify underground facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Require removal of marks.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Permit any local law enforcement officer, local government code inspector, or code enforcement officer to enforce this chapter without the need to incorporate the provisions of this chapter into any local code or ordinance.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Foster the awareness of federal laws and regulations that promote safety with respect to underground facilities, including, but not limited to, the Federal Pipeline Safety Act of 1968, as amended, the Pipeline Safety Improvement Act of 2002, OSHA Standard 1926.651, and the National Electric Safety Code, ANSI C-2, by requiring and facilitating the advance notice of activities by those who engage in excavation or demolition operations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is not the purpose of this chapter to amend or void any permit issued by a state agency for placement or maintenance of facilities in its right-of-way.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 93-240; s. 1, ch. 97-306; s. 1, ch. 2002-234; s. 1, ch. 2006-138; s. 1, ch. 2010-100.</History>
+</Section>

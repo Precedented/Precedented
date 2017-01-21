@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.003" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following words and phrases, when used in this chapter, shall have the meanings respectively ascribed to them in this section, except where the context otherwise requires:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">AUTHORIZED EMERGENCY VEHICLES.<EmDash />Vehicles of the fire department (fire patrol), police vehicles, and such ambulances and emergency vehicles of municipal departments, public service corporations operated by private corporations, the Fish and Wildlife Conservation Commission, the Department of Environmental Protection, the Department of Health, the Department of Transportation, and the Department of Corrections as are designated or authorized by their respective department or the chief of police of an incorporated city or any sheriff of any of the various counties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">BICYCLE.<EmDash />Every vehicle propelled solely by human power, and every motorized bicycle propelled by a combination of human power and an electric helper motor capable of propelling the vehicle at a speed of not more than 20 miles per hour on level ground upon which any person may ride, having two tandem wheels, and including any device generally recognized as a bicycle though equipped with two front or two rear wheels. The term does not include such a vehicle with a seat height of no more than 25 inches from the ground when the seat is adjusted to its highest position or a scooter or similar device. No person under the age of 16 may operate or ride upon a motorized bicycle.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">BUS.<EmDash />Any motor vehicle designed for carrying more than 10 passengers and used for the transportation of persons and any motor vehicle, other than a taxicab, designed and used for the transportation of persons for compensation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">BUSINESS DISTRICT.<EmDash />The territory contiguous to, and including, a highway when 50 percent or more of the frontage thereon, for a distance of 300 feet or more, is occupied by buildings in use for business.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">CANCELLATION.<EmDash />Cancellation means that a license which was issued through error or fraud is declared void and terminated. A new license may be obtained only as permitted in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">CROSSWALK.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That part of a roadway at an intersection included within the connections of the lateral lines of the sidewalks on opposite sides of the highway, measured from the curbs or, in the absence of curbs, from the edges of the traversable roadway.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any portion of a roadway at an intersection or elsewhere distinctly indicated for pedestrian crossing by lines or other markings on the surface.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">DAYTIME.<EmDash />The period from a half hour before sunrise to a half hour after sunset. Nighttime means at any other hour.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">DEPARTMENT.<EmDash />The Department of Highway Safety and Motor Vehicles as defined in s. 20.24. Any reference herein to Department of Transportation shall be construed as referring to the Department of Transportation, defined in s. 20.23, or the appropriate division thereof.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">DIRECTOR.<EmDash />The Director of the Division of the Florida Highway Patrol of the Department of Highway Safety and Motor Vehicles.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">DRIVER.<EmDash />Any person who drives or is in actual physical control of a vehicle on a highway or who is exercising control of a vehicle or steering a vehicle being towed by a motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">EXPLOSIVE.<EmDash />Any chemical compound or mechanical mixture that is commonly used or intended for the purpose of producing an explosion and which contains any oxidizing and combustive units or other ingredients in such proportions, quantities, or packing that an ignition by fire, friction, concussion, percussion, or detonator of any part of the compound or mixture may cause such a sudden generation of highly heated gases that the resultant gaseous pressures are capable of producing destructive effect on contiguous objects or of destroying life or limb.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">FARM TRACTOR.<EmDash />Any motor vehicle designed and used primarily as a farm implement for drawing plows, mowing machines, and other implements of husbandry.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">FLAMMABLE LIQUID.<EmDash />Any liquid which has a flash point of 70 degrees Fahrenheit or less, as determined by a Tagliabue or equivalent closed-cup test device.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">GROSS WEIGHT.<EmDash />The weight of a vehicle without load plus the weight of any load thereon.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">HOUSE TRAILER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A trailer or semitrailer which is designed, constructed, and equipped as a dwelling place, living abode, or sleeping place (either permanently or temporarily) and is equipped for use as a conveyance on streets and highways, or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A trailer or a semitrailer the chassis and exterior shell of which is designed and constructed for use as a house trailer, as defined in paragraph (a), but which is used instead, permanently or temporarily, for the advertising, sales, display, or promotion of merchandise or services or for any other commercial purpose except the transportation of property for hire or the transportation of property for distribution by a private carrier.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">IMPLEMENT OF HUSBANDRY.<EmDash />Any vehicle designed and adapted exclusively for agricultural, horticultural, or livestock-raising operations or for lifting or carrying an implement of husbandry and in either case not subject to registration if used upon the highways.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">INTERSECTION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The area embraced within the prolongation or connection of the lateral curblines; or, if none, then the lateral boundary lines of the roadways of two highways which join one another at, or approximately at, right angles; or the area within which vehicles traveling upon different highways joining at any other angle may come in conflict.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Where a highway includes two roadways 30 feet or more apart, then every crossing of each roadway of such divided highway by an intersecting highway shall be regarded as a separate intersection. In the event such intersecting highway also includes two roadways 30 feet or more apart, then every crossing of two roadways of such highways shall be regarded as a separate intersection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">LANED HIGHWAY.<EmDash />A highway the roadway of which is divided into two or more clearly marked lanes for vehicular traffic.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">LIMITED ACCESS FACILITY.<EmDash />A street or highway especially designed for through traffic and over, from, or to which owners or occupants of abutting land or other persons have no right or easement, or only a limited right or easement, of access, light, air, or view by reason of the fact that their property abuts upon such limited access facility or for any other reason. Such highways or streets may be parkways from which trucks, buses, and other commercial vehicles are excluded; or they may be freeways open to use by all customary forms of street and highway traffic.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">LOCAL AUTHORITIES.<EmDash />Includes all officers and public officials of the several counties and municipalities of this state.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">MOTOR VEHICLE.<EmDash />Except when used in s. 316.1001, a self-propelled vehicle not operated upon rails or guideway, but not including any bicycle, motorized scooter, electric personal assistive mobility device, swamp buggy, or moped. For purposes of s. 316.1001, “motor vehicle” has the same meaning as in s. 320.01(1)(a).</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">MOTORCYCLE.<EmDash />Any motor vehicle having a seat or saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground, but excluding a tractor or a moped.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">OFFICIAL TRAFFIC CONTROL DEVICES.<EmDash />All signs, signals, markings, and devices, not inconsistent with this chapter, placed or erected by authority of a public body or official having jurisdiction for the purpose of regulating, warning, or guiding traffic.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">OFFICIAL TRAFFIC CONTROL SIGNAL.<EmDash />Any device, whether manually, electrically, or mechanically operated, by which traffic is alternately directed to stop and permitted to proceed.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">OPERATOR.<EmDash />Any person who is in actual physical control of a motor vehicle upon the highway, or who is exercising control over or steering a vehicle being towed by a motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">OWNER.<EmDash />A person who holds the legal title of a vehicle, or, in the event a vehicle is the subject of an agreement for the conditional sale or lease thereof with the right of purchase upon performance of the conditions stated in the agreement and with an immediate right of possession vested in the conditional vendee or lessee, or in the event a mortgagor of a vehicle is entitled to possession, then such conditional vendee, or lessee, or mortgagor shall be deemed the owner, for the purposes of this chapter.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">PARK OR PARKING.<EmDash />The standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading merchandise or passengers as may be permitted by law under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">PEDESTRIAN.<EmDash />Any person afoot.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">PERSON.<EmDash />Any natural person, firm, copartnership, association, or corporation.</Text>
+		</Subsection>
+		<Subsection Id="30">
+			<Text xml:space="preserve" Style="Intro">PNEUMATIC TIRE.<EmDash />Any tire in which compressed air is designed to support the load.</Text>
+		</Subsection>
+		<Subsection Id="31">
+			<Text xml:space="preserve" Style="Intro">POLE TRAILER.<EmDash />Any vehicle without motive power designed to be drawn by another vehicle and attached to the towing vehicle by means of a reach or pole, or by being boomed or otherwise secured to the towing vehicle, and ordinarily used for transporting long or irregularly shaped loads such as poles, pipes, or structural members capable, generally, of sustaining themselves as beams between the supporting connections.</Text>
+		</Subsection>
+		<Subsection Id="32">
+			<Text xml:space="preserve" Style="Intro">POLICE OFFICER.<EmDash />Any officer authorized to direct or regulate traffic or to make arrests for violations of traffic regulations, including Florida highway patrol officers, sheriffs, deputy sheriffs, and municipal police officers.</Text>
+		</Subsection>
+		<Subsection Id="33">
+			<Text xml:space="preserve" Style="Intro">PRIVATE ROAD OR DRIVEWAY.<EmDash />Except as otherwise provided in paragraph (53)(b), any privately owned way or place used for vehicular travel by the owner and those having express or implied permission from the owner, but not by other persons.</Text>
+		</Subsection>
+		<Subsection Id="34">
+			<Text xml:space="preserve" Style="Intro">RADIOACTIVE MATERIALS.<EmDash />Any materials or combination of materials which emit ionizing radiation spontaneously in which the radioactivity per gram of material, in any form, is greater than 0.002 microcuries.</Text>
+		</Subsection>
+		<Subsection Id="35">
+			<Text xml:space="preserve" Style="Intro">RAILROAD.<EmDash />A carrier of persons or property upon cars operated upon stationary rails.</Text>
+		</Subsection>
+		<Subsection Id="36">
+			<Text xml:space="preserve" Style="Intro">RAILROAD SIGN OR SIGNAL.<EmDash />Any sign, signal, or device erected by authority of a public body or official, or by a railroad, and intended to give notice of the presence of railroad tracks or the approach of a railroad train.</Text>
+		</Subsection>
+		<Subsection Id="37">
+			<Text xml:space="preserve" Style="Intro">RAILROAD TRAIN.<EmDash />A steam engine, electric or other motor, with or without cars coupled thereto, operated upon rails, except a streetcar.</Text>
+		</Subsection>
+		<Subsection Id="38">
+			<Text xml:space="preserve" Style="Intro">RESIDENCE DISTRICT.<EmDash />The territory contiguous to, and including, a highway, not comprising a business district, when the property on such highway, for a distance of 300 feet or more, is, in the main, improved with residences or residences and buildings in use for business.</Text>
+		</Subsection>
+		<Subsection Id="39">
+			<Text xml:space="preserve" Style="Intro">REVOCATION.<EmDash />Revocation means that a licensee’s privilege to drive a motor vehicle is terminated. A new license may be obtained only as permitted by law.</Text>
+		</Subsection>
+		<Subsection Id="40">
+			<Text xml:space="preserve" Style="Intro">RIGHT-OF-WAY.<EmDash />The right of one vehicle or pedestrian to proceed in a lawful manner in preference to another vehicle or pedestrian approaching under such circumstances of direction, speed, and proximity as to give rise to danger of collision unless one grants precedence to the other.</Text>
+		</Subsection>
+		<Subsection Id="41">
+			<Text xml:space="preserve" Style="Intro">ROAD TRACTOR.<EmDash />Any motor vehicle designed and used for drawing other vehicles and not so constructed as to carry any load thereon, either independently or as any part of the weight of a vehicle or load so drawn.</Text>
+		</Subsection>
+		<Subsection Id="42">
+			<Text xml:space="preserve" Style="Intro">ROADWAY.<EmDash />That portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder. In the event a highway includes two or more separate roadways, the term “roadway” as used herein refers to any such roadway separately, but not to all such roadways collectively.</Text>
+		</Subsection>
+		<Subsection Id="43">
+			<Text xml:space="preserve" Style="Intro">SADDLE MOUNT; FULL MOUNT.<EmDash />An arrangement whereby the front wheels of one vehicle rest in a secured position upon another vehicle. All of the wheels of the towing vehicle are upon the ground, and only the rear wheels of the towed vehicle rest upon the ground. Such combinations may include one full mount, whereby a smaller transport vehicle is placed completely on the last towed vehicle.</Text>
+		</Subsection>
+		<Subsection Id="44">
+			<Text xml:space="preserve" Style="Intro">SAFETY ZONE.<EmDash />The area or space officially set apart within a roadway for the exclusive use of pedestrians and protected or so marked by adequate signs or authorized pavement markings as to be plainly visible at all times while set apart as a safety zone.</Text>
+		</Subsection>
+		<Subsection Id="45">
+			<Text xml:space="preserve" Style="Intro">SCHOOL BUS.<EmDash />Any motor vehicle that complies with the color and identification requirements of chapter 1006 and is used to transport children to or from public or private school or in connection with school activities, but not including buses operated by common carriers in urban transportation of school children. The term “school” includes all preelementary, elementary, secondary, and postsecondary schools.</Text>
+		</Subsection>
+		<Subsection Id="46">
+			<Text xml:space="preserve" Style="Intro">SEMITRAILER.<EmDash />Any vehicle with or without motive power, other than a pole trailer, designed for carrying persons or property and for being drawn by a motor vehicle and so constructed that some part of its weight and that of its load rests upon, or is carried by, another vehicle.</Text>
+		</Subsection>
+		<Subsection Id="47">
+			<Text xml:space="preserve" Style="Intro">SIDEWALK.<EmDash />That portion of a street between the curbline, or the lateral line, of a roadway and the adjacent property lines, intended for use by pedestrians.</Text>
+		</Subsection>
+		<Subsection Id="48">
+			<Text xml:space="preserve" Style="Intro">SPECIAL MOBILE EQUIPMENT.<EmDash />Any vehicle not designed or used primarily for the transportation of persons or property and only incidentally operated or moved over a highway, including, but not limited to, ditchdigging apparatus, well-boring apparatus, and road construction and maintenance machinery, such as asphalt spreaders, bituminous mixers, bucket loaders, tractors other than truck tractors, ditchers, leveling graders, finishing machines, motor graders, road rollers, scarifiers, earthmoving carryalls and scrapers, power shovels and draglines, and self-propelled cranes and earthmoving equipment. The term does not include house trailers, dump trucks, truck-mounted transit mixers, cranes or shovels, or other vehicles designed for the transportation of persons or property to which machinery has been attached.</Text>
+		</Subsection>
+		<Subsection Id="49">
+			<Text xml:space="preserve" Style="Intro">STAND OR STANDING.<EmDash />The halting of a vehicle, whether occupied or not, otherwise than temporarily, for the purpose of, and while actually engaged in, receiving or discharging passengers, as may be permitted by law under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="50">
+			<Text xml:space="preserve" Style="Intro">STATE ROAD.<EmDash />Any highway designated as a state-maintained road by the Department of Transportation.</Text>
+		</Subsection>
+		<Subsection Id="51">
+			<Text xml:space="preserve" Style="Intro">STOP.<EmDash />When required, complete cessation from movement.</Text>
+		</Subsection>
+		<Subsection Id="52">
+			<Text xml:space="preserve" Style="Intro">STOP OR STOPPING.<EmDash />When prohibited, any halting, even momentarily, of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or to comply with the directions of a law enforcement officer or traffic control sign or signal.</Text>
+		</Subsection>
+		<Subsection Id="53">
+			<Text xml:space="preserve" Style="Intro">STREET OR HIGHWAY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The entire width between the boundary lines of every way or place of whatever nature when any part thereof is open to the use of the public for purposes of vehicular traffic;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The entire width between the boundary lines of any privately owned way or place used for vehicular travel by the owner and those having express or implied permission from the owner, but not by other persons, or any limited access road owned or controlled by a special district, whenever, by written agreement entered into under s. 316.006(2)(b) or (3)(b), a county or municipality exercises traffic control jurisdiction over said way or place;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any area, such as a runway, taxiway, ramp, clear zone, or parking lot, within the boundary of any airport owned by the state, a county, a municipality, or a political subdivision, which area is used for vehicular traffic but which is not open for vehicular operation by the general public; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any way or place used for vehicular traffic on a controlled access basis within a mobile home park recreation district which has been created under s. 418.30 and the recreational facilities of which district are open to the general public.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="54">
+			<Text xml:space="preserve" Style="Intro">SUSPENSION.<EmDash />Temporary withdrawal of a licensee’s privilege to drive a motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="55">
+			<Text xml:space="preserve" Style="Intro">THROUGH HIGHWAY.<EmDash />Any highway or portion thereof on which vehicular traffic is given the right-of-way and at the entrances to which vehicular traffic from intersecting highways is required to yield right-of-way to vehicles on such through highway in obedience to either a stop sign or yield sign, or otherwise in obedience to law.</Text>
+		</Subsection>
+		<Subsection Id="56">
+			<Text xml:space="preserve" Style="Intro">TIRE WIDTH.<EmDash />Tire width is that width stated on the surface of the tire by the manufacturer of the tire, if the width stated does not exceed 2 inches more than the width of the tire contacting the surface.</Text>
+		</Subsection>
+		<Subsection Id="57">
+			<Text xml:space="preserve" Style="Intro">TRAFFIC.<EmDash />Pedestrians, ridden or herded animals, and vehicles, streetcars, and other conveyances either singly or together while using any street or highway for purposes of travel.</Text>
+		</Subsection>
+		<Subsection Id="58">
+			<Text xml:space="preserve" Style="Intro">TRAILER.<EmDash />Any vehicle with or without motive power, other than a pole trailer, designed for carrying persons or property and for being drawn by a motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="59">
+			<Text xml:space="preserve" Style="Intro">TRUCK.<EmDash />Any motor vehicle designed, used, or maintained primarily for the transportation of property.</Text>
+		</Subsection>
+		<Subsection Id="60">
+			<Text xml:space="preserve" Style="Intro">TRUCK TRACTOR.<EmDash />Any motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load other than a part of the weight of the vehicle and load so drawn.</Text>
+		</Subsection>
+		<Subsection Id="61">
+			<Text xml:space="preserve" Style="Intro">MIGRANT OR SEASONAL FARM WORKER.<EmDash />Any person employed in hand labor operations in planting, cultivation, or harvesting agricultural crops.</Text>
+		</Subsection>
+		<Subsection Id="62">
+			<Text xml:space="preserve" Style="Intro">FARM LABOR VEHICLE.<EmDash />Any vehicle equipped and used for the transportation of nine or more migrant or seasonal farm workers, in addition to the driver, to or from a place of employment or employment-related activities. The term does not include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any vehicle carrying only members of the immediate family of the owner or driver.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any vehicle being operated by a common carrier of passengers.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any carpool as defined in s. 450.28(3).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="63">
+			<Text xml:space="preserve" Style="Intro">BICYCLE PATH.<EmDash />Any road, path, or way that is open to bicycle travel, which road, path, or way is physically separated from motorized vehicular traffic by an open space or by a barrier and is located either within the highway right-of-way or within an independent right-of-way.</Text>
+		</Subsection>
+		<Subsection Id="64">
+			<Text xml:space="preserve" Style="Intro">CHIEF ADMINISTRATIVE OFFICER.<EmDash />The head, or his or her designee, of any law enforcement agency which is authorized to enforce traffic laws.</Text>
+		</Subsection>
+		<Subsection Id="65">
+			<Text xml:space="preserve" Style="Intro">CHILD.<EmDash />A child as defined in s. 39.01, s. 984.03, or s. 985.03.</Text>
+		</Subsection>
+		<Subsection Id="66">
+			<Text xml:space="preserve" Style="Intro">COMMERCIAL MOTOR VEHICLE.<EmDash />Any self-propelled or towed vehicle used on the public highways in commerce to transport passengers or cargo, if such vehicle:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has a gross vehicle weight rating of 10,000 pounds or more;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is designed to transport more than 15 passengers, including the driver; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is used in the transportation of materials found to be hazardous for the purposes of the Hazardous Materials Transportation Act, as amended (49 U.S.C. ss. 1801 et seq.).</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">A vehicle that occasionally transports personal property to and from a closed-course motorsport facility, as defined in s. 549.09(1)(a), is not a commercial motor vehicle if it is not used for profit and corporate sponsorship is not involved. As used in this subsection, the term “corporate sponsorship” means a payment, donation, gratuity, in-kind service, or other benefit provided to or derived by a person in relation to the underlying activity, other than the display of product or corporate names, logos, or other graphic information on the property being transported.</Text>
+		</Subsection>
+		<Subsection Id="67">
+			<Text xml:space="preserve" Style="Intro">COURT.<EmDash />The court having jurisdiction over traffic offenses.</Text>
+		</Subsection>
+		<Subsection Id="68">
+			<Text xml:space="preserve" Style="Intro">GOLF CART.<EmDash />A motor vehicle designed and manufactured for operation on a golf course for sporting or recreational purposes.</Text>
+		</Subsection>
+		<Subsection Id="69">
+			<Text xml:space="preserve" Style="Intro">HAZARDOUS MATERIAL.<EmDash />Any substance or material which has been determined by the secretary of the United States Department of Transportation to be capable of imposing an unreasonable risk to health, safety, and property. This term includes hazardous waste as defined in s. 403.703(13).</Text>
+		</Subsection>
+		<Subsection Id="70">
+			<Text xml:space="preserve" Style="Intro">STRAIGHT TRUCK.<EmDash />Any truck on which the cargo unit and the motive power unit are located on the same frame so as to form a single, rigid unit.</Text>
+		</Subsection>
+		<Subsection Id="71">
+			<Text xml:space="preserve" Style="Intro">TANDEM TRAILER TRUCK.<EmDash />Any combination of a truck tractor, semitrailer, and trailer coupled together so as to operate as a complete unit.</Text>
+		</Subsection>
+		<Subsection Id="72">
+			<Text xml:space="preserve" Style="Intro">TANDEM TRAILER TRUCK HIGHWAY NETWORK.<EmDash />A highway network consisting primarily of four or more lanes, including all interstate highways; highways designated by the United States Department of Transportation as elements of the National Network; and any street or highway designated by the Florida Department of Transportation for use by tandem trailer trucks, in accordance with s. 316.515, except roads on which truck traffic was specifically prohibited on January 6, 1983.</Text>
+		</Subsection>
+		<Subsection Id="73">
+			<Text xml:space="preserve" Style="Intro">TERMINAL.<EmDash />Any location where:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Freight either originates, terminates, or is handled in the transportation process; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Commercial motor carriers maintain operating facilities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="74">
+			<Text xml:space="preserve" Style="Intro">TRANSPORTATION.<EmDash />The conveyance or movement of goods, materials, livestock, or persons from one location to another on any road, street, or highway open to travel by the public.</Text>
+		</Subsection>
+		<Subsection Id="75">
+			<Text xml:space="preserve" Style="Intro">VEHICLE.<EmDash />Every device, in, upon, or by which any person or property is or may be transported or drawn upon a highway, excepting devices used exclusively upon stationary rails or tracks.</Text>
+		</Subsection>
+		<Subsection Id="76">
+			<Text xml:space="preserve" Style="Intro">BRAKE HORSEPOWER.<EmDash />The actual unit of torque developed per unit of time at the output shaft of an engine, as measured by a dynamometer.</Text>
+		</Subsection>
+		<Subsection Id="77">
+			<Text xml:space="preserve" Style="Intro">MOPED.<EmDash />Any vehicle with pedals to permit propulsion by human power, having a seat or saddle for the use of the rider and designed to travel on not more than three wheels; with a motor rated not in excess of 2 brake horsepower and not capable of propelling the vehicle at a speed greater than 30 miles per hour on level ground; and with a power-drive system that functions directly or automatically without clutching or shifting gears by the operator after the drive system is engaged. If an internal combustion engine is used, the displacement may not exceed 50 cubic centimeters.</Text>
+		</Subsection>
+		<Subsection Id="78">
+			<Text xml:space="preserve" Style="Intro">NONPUBLIC SECTOR BUS.<EmDash />Any bus which is used for the transportation of persons for compensation and which is not owned, leased, operated, or controlled by a municipal, county, or state government or a governmentally owned or managed nonprofit corporation.</Text>
+		</Subsection>
+		<Subsection Id="79">
+			<Text xml:space="preserve" Style="Intro">WORK ZONE AREA.<EmDash />The area and its approaches on any state-maintained highway, county-maintained highway, or municipal street where construction, repair, maintenance, or other street-related or highway-related work is being performed or where one or more lanes is closed to traffic.</Text>
+		</Subsection>
+		<Subsection Id="80">
+			<Text xml:space="preserve" Style="Intro">MAXI-CUBE VEHICLE.<EmDash />A specialized combination vehicle consisting of a truck carrying a separable cargo-carrying unit combined with a semitrailer designed so that the separable cargo-carrying unit is to be loaded and unloaded through the semitrailer. The entire combination may not exceed 65 feet in length, and a single component of that combination may not exceed 34 feet in length.</Text>
+		</Subsection>
+		<Subsection Id="81">
+			<Text xml:space="preserve" Style="Intro">TANDEM AXLE.<EmDash />Any two axles whose centers are more than 40 inches but not more than 96 inches apart and are individually attached to or articulated from, or both, a common attachment to the vehicle, including a connecting mechanism designed to equalize the load between axles.</Text>
+		</Subsection>
+		<Subsection Id="82">
+			<Text xml:space="preserve" Style="Intro">MOTORIZED SCOOTER.<EmDash />Any vehicle not having a seat or saddle for the use of the rider, designed to travel on not more than three wheels, and not capable of propelling the vehicle at a speed greater than 30 miles per hour on level ground.</Text>
+		</Subsection>
+		<Subsection Id="83">
+			<Text xml:space="preserve" Style="Intro">ELECTRIC PERSONAL ASSISTIVE MOBILITY DEVICE.<EmDash />Any self-balancing, two-nontandem-wheeled device, designed to transport only one person, with an electric propulsion system with average power of 750 watts (1 horsepower), the maximum speed of which, on a paved level surface when powered solely by such a propulsion system while being ridden by an operator who weighs 170 pounds, is less than 20 miles per hour. Electric personal assistive mobility devices are not vehicles as defined in this section.</Text>
+		</Subsection>
+		<Subsection Id="84">
+			<Text xml:space="preserve" Style="Intro">TRAFFIC SIGNAL PREEMPTION SYSTEM.<EmDash />Any system or device with the capability of activating a control mechanism mounted on or near traffic signals which alters a traffic signal’s timing cycle.</Text>
+		</Subsection>
+		<Subsection Id="85">
+			<Text xml:space="preserve" Style="Intro">VICTIM SERVICES PROGRAMS.<EmDash />Any community-based organization whose primary purpose is to act as an advocate for the victims and survivors of traffic crashes and for their families. The victims services offered by these programs may include grief and crisis counseling, assistance with preparing victim compensation claims excluding third-party legal action, or connecting persons with other service providers, and providing emergency financial assistance.</Text>
+		</Subsection>
+		<Subsection Id="86">
+			<Text xml:space="preserve" Style="Intro">MOTOR CARRIER TRANSPORTATION CONTRACT.<EmDash/></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A contract, agreement, or understanding covering:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The transportation of property for compensation or hire by the motor carrier;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Entrance on property by the motor carrier for the purpose of loading, unloading, or transporting property for compensation or hire; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A service incidental to activity described in subparagraph 1. or subparagraph 2., including, but not limited to, storage of property.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Motor carrier transportation contract” does not include the Uniform Intermodal Interchange and Facilities Access Agreement administered by the Intermodal Association of North America or other agreements providing for the interchange, use, or possession of intermodal chassis, containers, or other intermodal equipment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="87">
+			<Text xml:space="preserve" Style="Intro">TRAFFIC INFRACTION DETECTOR.<EmDash />A vehicle sensor installed to work in conjunction with a traffic control signal and a camera or cameras synchronized to automatically record two or more sequenced photographic or electronic images or streaming video of only the rear of a motor vehicle at the time the vehicle fails to stop behind the stop bar or clearly marked stop line when facing a traffic control signal steady red light. Any notification under s. 316.0083(1)(b) or traffic citation issued by the use of a traffic infraction detector must include a photograph or other recorded image showing both the license tag of the offending vehicle and the traffic control device being violated.</Text>
+		</Subsection>
+		<Subsection Id="88">
+			<Text xml:space="preserve" Style="Intro">TRI-VEHICLE.<EmDash />An enclosed three-wheeled passenger vehicle that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is designed to operate with three wheels in contact with the ground;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has a minimum unladen weight of 900 pounds;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has a single, completely enclosed, occupant compartment;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Is produced in a minimum quantity of 300 in any calendar year;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Is capable of a speed greater than 60 miles per hour on level ground; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Is equipped with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Seats that are certified by the vehicle manufacturer to meet the requirements of Federal Motor Vehicle Safety Standard No. 207, “Seating systems” (49 C.F.R. s. 571.207);</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A steering wheel used to maneuver the vehicle;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A propulsion unit located forward or aft of the enclosed occupant compartment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A seat belt for each vehicle occupant certified to meet the requirements of Federal Motor Vehicle Safety Standard No. 209, “Seat belt assemblies” (49 C.F.R. s. 571.209);</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A windshield and an appropriate windshield wiper and washer system that are certified by the vehicle manufacturer to meet the requirements of Federal Motor Vehicle Safety Standard No. 205, “Glazing Materials” (49 C.F.R. s. 571.205) and Federal Motor Vehicle Safety Standard No. 104, “Windshield Wiping and Washing Systems” (49 C.F.R. s. 571.104); and</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A vehicle structure certified by the vehicle manufacturer to meet the requirements of Federal Motor Vehicle Safety Standard No. 216, “Rollover crush resistance” (49 C.F.R. s. 571.216).</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="89">
+			<Text xml:space="preserve" Style="Intro">SWAMP BUGGY.<EmDash />A motorized off-road vehicle that is designed or modified to travel over swampy or varied terrain and that may use large tires or tracks operated from an elevated platform. The term does not include any vehicle defined in chapter 261 or otherwise defined or classified in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="90">
+			<Text xml:space="preserve" Style="Intro">AUTONOMOUS VEHICLE.<EmDash />Any vehicle equipped with autonomous technology. The term “autonomous technology” means technology installed on a motor vehicle that has the capability to drive the vehicle on which the technology is installed without the active control or monitoring by a human operator. The term excludes a motor vehicle enabled with active safety systems or driver assistance systems, including, without limitation, a system to provide electronic blind spot assistance, crash avoidance, emergency braking, parking assistance, adaptive cruise control, lane keep assistance, lane departure warning, or traffic jam and queuing assistant, unless any such system alone or in combination with other systems enables the vehicle on which the technology is installed to drive without the active control or monitoring by a human operator.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-135; s. 1, ch. 72-179; s. 1, ch. 74-213; s. 1, ch. 76-286; s. 1, ch. 77-174; s. 1, ch. 80-316; s. 23, ch. 82-186; s. 1, ch. 83-68; s. 1, ch. 83-164; s. 1, ch. 83-188; s. 1, ch. 83-298; s. 1, ch. 84-284; s. 9, ch. 85-309; s. 2, ch. 87-88; s. 5, ch. 87-161; s. 1, ch. 87-178; s. 1, ch. 87-270; s. 3, ch. 88-91; s. 2, ch. 88-93; s. 4, ch. 88-130; s. 63, ch. 89-282; s. 3, ch. 91-418; s. 8, ch. 94-306; s. 893, ch. 95-148; s. 1, ch. 95-247; s. 26, ch. 98-280; s. 2, ch. 98-308; s. 86, ch. 99-13; s. 80, ch. 99-248; s. 5, ch. 99-385; s. 41, ch. 2000-152; ss. 67, 133, ch. 2002-20; s. 955, ch. 2002-387; s. 27, ch. 2005-164; s. 1, ch. 2005-177; s. 1, ch. 2006-81; s. 5, ch. 2006-290; s. 1, ch. 2007-210; s. 62, ch. 2008-4; s. 1, ch. 2008-179; s. 2, ch. 2010-80; s. 1, ch. 2010-223; s. 8, ch. 2010-225; s. 11, ch. 2012-88; s. 2, ch. 2012-111; ss. 15, 106, ch. 2012-174; s. 2, ch. 2012-181.</History>
+</Section>

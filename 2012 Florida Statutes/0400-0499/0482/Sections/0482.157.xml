@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0482.157" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Limited certification for commercial wildlife management personnel.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall establish a limited certificate that authorizes a person who engages in the commercial trapping of wildlife to use nonchemical methods, including traps, mechanical or electronic devices, and exclusionary techniques to control commensal rodents.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall issue a limited certificate to an applicant who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Submits an application and examination fee of at least $150, but not more than $300, as prescribed by the department by rule;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Passes an examination administered by the department. The department shall provide the appropriate study materials for the examination and make the examination readily available to applicants in each county as necessary, but not less frequently than quarterly; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provides proof, including a certificate of insurance, that the applicant has met the minimum bodily injury and property damage insurance requirements in s. 482.071(4).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An application for recertification must be made annually and be accompanied by a recertification fee of at least $75, but not more than $150, as prescribed by the department by rule. The application must also be accompanied by proof of completion of the required 4 classroom hours of acceptable continuing education and the required proof of insurance. After a grace period not exceeding 30 calendar days after the recertification renewal date, the department shall assess a late fee of $50 in addition to the renewal fee. A certificate automatically expires 180 days after the recertification date if the renewal fee has not been paid. After expiration, the department shall issue a new certificate only if the applicant successfully passes a reexamination and pays the examination fee and late fee.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Certification under this section does not authorize:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The use of pesticides or chemical substances, other than adhesive materials, to control rodents or other nuisance wildlife in, on, or under structures;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Operation of a pest control business; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Supervision of an uncertified person using nonchemical methods to control rodents.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2011-192; s. 10, ch. 2011-206.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As created by s.10, ch. 2011-206. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the<Font xml:space="preserve" Style="Italic"> Florida Statutes</Font>, “Statutory Construction.” Section 482.157 was also created by s. 4, ch. 2011-192, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">482.157 Limited certification for commercial wildlife management personnel.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) The department shall establish a limited certificate authorizing individual commercial wildlife trapper personnel to use nonchemical methods, including traps, mechanical or electronic devices, and exclusionary techniques, to control commensal rodents.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) The department shall issue a limited certificate to an applicant who:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Submits an application and examination fee, set by departmental rule, of not more than $300 or less than $150. The department shall provide examination reference materials and offer the examination at least quarterly or as necessary in each county;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Passes the departmental examination; and</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Provides proof, including a certificate of insurance, that the applicant has met the minimum financial bodily injury and property damage requirements in s. 482.071(4).</Text>
+		<Text xml:space="preserve" Style="Indent">(3) An application for recertification must be made annually and be accompanied by a recertification fee of not more than $150 or less than $75, as established by rule. The application also must be accompanied by proof of completion of the required 4 classroom hours of acceptable continuing education and the required proof of insurance. After a grace period not exceeding 30 days after the recertification renewal date, a late fee of $50 shall be assessed in addition to the renewal fee. A certificate automatically expires 180 days after the recertification date if the renewal fee has not been paid. After expiration, a new certificate shall be issued only upon successful reexamination and payment of the examination and late fees.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) Certification under this section does not authorize:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The use of pesticides or chemical substances, other than adhesive materials, to control rodents or other nuisance wildlife in, on, or under structures;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Operation of a pest control business; or</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Supervision of an uncertified person using nonchemical methods to control rodents.</Text>
+	</Note>
+</Section>

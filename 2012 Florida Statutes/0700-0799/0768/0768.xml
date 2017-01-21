@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLV">
+	<ChapterNumber>768</ChapterNumber>
+	<ChapterName xml:space="preserve">Negligence</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0768.041" />
+		<Section Number="0768.0415" />
+		<Section Number="0768.042" />
+		<Section Number="0768.0425" />
+		<Section Number="0768.043" />
+		<Section Number="0768.07" />
+		<Section Number="0768.0705" />
+		<Section Number="0768.075" />
+		<Section Number="0768.0755" />
+		<Section Number="0768.08" />
+		<Section Number="0768.0895" />
+		<Section Number="0768.091" />
+		<Section Number="0768.093" />
+		<Section Number="0768.095" />
+		<Section Number="0768.096" />
+		<Section Number="0768.098" />
+		<Section Number="0768.0981" />
+		<Section Number="0768.10" />
+		<Section Number="0768.11" />
+		<Section Number="0768.12" />
+		<Section Number="0768.125" />
+		<Section Number="0768.1256" />
+		<Section Number="0768.1257" />
+		<Section Number="0768.128" />
+		<Section Number="0768.13" />
+		<Section Number="0768.1315" />
+		<Section Number="0768.1325" />
+		<Section Number="0768.1326" />
+		<Section Number="0768.1335" />
+		<Section Number="0768.1345" />
+		<Section Number="0768.135" />
+		<Section Number="0768.1355" />
+		<Section Number="0768.136" />
+		<Section Number="0768.137" />
+		<Section Number="0768.138" />
+		<Section Number="0768.1382" />
+		<Section Number="0768.14" />
+		<Section Number="0768.16" />
+		<Section Number="0768.17" />
+		<Section Number="0768.18" />
+		<Section Number="0768.19" />
+		<Section Number="0768.20" />
+		<Section Number="0768.21" />
+		<Section Number="0768.22" />
+		<Section Number="0768.23" />
+		<Section Number="0768.24" />
+		<Section Number="0768.25" />
+		<Section Number="0768.26" />
+		<Section Number="0768.28" />
+		<Section Number="0768.295" />
+		<Section Number="0768.31" />
+		<Section Number="0768.35" />
+		<Section Number="0768.36" />
+		<Section Number="0768.37" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Damages</PartTitle>
+		<Section Number="0768.71" />
+		<Section Number="0768.72" />
+		<Section Number="0768.725" />
+		<Section Number="0768.73" />
+		<Section Number="0768.733" />
+		<Section Number="0768.734" />
+		<Section Number="0768.735" />
+		<Section Number="0768.736" />
+		<Section Number="0768.737" />
+		<Section Number="0768.74" />
+		<Section Number="0768.76" />
+		<Section Number="0768.77" />
+		<Section Number="0768.78" />
+		<Section Number="0768.79" />
+		<Section Number="0768.81" />
+	</Part>
+</Chapter>

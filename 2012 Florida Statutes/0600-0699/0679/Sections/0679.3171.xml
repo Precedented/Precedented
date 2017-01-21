@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.3171" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Interests that take priority over or take free of security interest or agricultural lien.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A security interest or agricultural lien is subordinate to the rights of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person entitled to priority under s. 679.322; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (5), a person who becomes a lien creditor before the earlier of the time:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The security interest or agricultural lien is perfected; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One of the conditions specified in s. 679.2031(2)(c) is met and a financing statement covering the collateral is filed.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (5), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or a security certificate takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (5), a lessee of goods takes free of a security interest or agricultural lien if the lessee gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">A licensee of a general intangible or a buyer, other than a secured party, of accounts, electronic chattel paper, electronic documents, general intangibles, or investment property other than a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in ss. 679.320 and 679.321, if a person files a financing statement with respect to a purchase-money security interest before or within 20 days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An encumbrancer or owner, other than the debtor or a lien creditor, who acquires an interest in the related real property takes free of a security interest in goods that are or become fixtures in this state, which interest is perfected only with a financing statement that is not filed as a fixture filing, even if the encumbrancer or owner knows of the existence of such statement. For purposes of s. 695.01, the filing of a financing statement covering goods that are or become fixtures in this state, which statement is not filed as a fixture filing, shall not constitute constructive notice of such security interest to any person, other than a lien creditor, who acquires an interest in the related real property.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The holder of a mortgage or other lien against real property arising under the laws of this state, other than this chapter, has priority with respect to the rents, issues, profits, and proceeds of the real property, including proceeds from the sale thereof, over a security interest in an account consisting of a right to payment of a monetary obligation for the sale of the real property.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2001-198; s. 6, ch. 2002-242; s. 67, ch. 2010-131; s. 6, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 2012-59, amended subsections (2) and (4), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(2) Except as otherwise provided in subsection (5), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</Text>
+		<VerticalEllipsis/>
+		<Text xml:space="preserve" Style="Indent">(4) A licensee of a general intangible or a buyer, other than a secured party, of collateral other than tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</Text>
+	</Note>
+</Section>

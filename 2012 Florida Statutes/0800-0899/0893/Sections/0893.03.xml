@@ -1,0 +1,1357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0893.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Standards and schedules.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The substances enumerated in this section are controlled by this chapter. The controlled substances listed or to be listed in Schedules I, II, III, IV, and V are included by whatever official, common, usual, chemical, or trade name designated. The provisions of this section shall not be construed to include within any of the schedules contained in this section any excluded drugs listed within the purview of 21 C.F.R. s. 1308.22, styled “Excluded Substances”; 21 C.F.R. s. 1308.24, styled “Exempt Chemical Preparations”; 21 C.F.R. s. 1308.32, styled “Exempted Prescription Products”; or 21 C.F.R. s. 1308.34, styled “Exempt Anabolic Steroid Products.”</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE I.<EmDash />A substance in Schedule I has a high potential for abuse and has no currently accepted medical use in treatment in the United States and in its use under medical supervision does not meet accepted safety standards. The following substances are controlled in Schedule I:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any of the following substances, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Acetyl-alpha-methylfentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Acetylmethadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Allylprodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Alphacetylmethadol (except levo-alphacetylmethadol, also known as levo-alpha-acetylmethadol, levomethadyl acetate, or LAAM).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Alphamethadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Alpha-methylfentanyl (N-[1-(alpha-methyl-betaphenyl) ethyl-4-piperidyl] propionanilide; 1-(1-methyl-2-phenylethyl)-4-(N-propanilido) piperidine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Alpha-methylthiofentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Alphameprodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Benzethidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Benzylfentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Betacetylmethadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Beta-hydroxyfentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Beta-hydroxy-3-methylfentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Betameprodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">Betamethadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Betaprodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Clonitazene.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Dextromoramide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">Diampromide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Diethylthiambutene.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">Difenoxin.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">Dimenoxadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">Dimepheptanol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">Dimethylthiambutene.</Text>
+				</SubParagraph>
+				<SubParagraph Id="25">
+					<Text xml:space="preserve" Style="Intro">Dioxaphetyl butyrate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="26">
+					<Text xml:space="preserve" Style="Intro">Dipipanone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="27">
+					<Text xml:space="preserve" Style="Intro">Ethylmethylthiambutene.</Text>
+				</SubParagraph>
+				<SubParagraph Id="28">
+					<Text xml:space="preserve" Style="Intro">Etonitazene.</Text>
+				</SubParagraph>
+				<SubParagraph Id="29">
+					<Text xml:space="preserve" Style="Intro">Etoxeridine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="30">
+					<Text xml:space="preserve" Style="Intro">Flunitrazepam.</Text>
+				</SubParagraph>
+				<SubParagraph Id="31">
+					<Text xml:space="preserve" Style="Intro">Furethidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="32">
+					<Text xml:space="preserve" Style="Intro">Hydroxypethidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="33">
+					<Text xml:space="preserve" Style="Intro">Ketobemidone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="34">
+					<Text xml:space="preserve" Style="Intro">Levomoramide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="35">
+					<Text xml:space="preserve" Style="Intro">Levophenacylmorphan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="36">
+					<Text xml:space="preserve" Style="Intro">1-Methyl-4-Phenyl-4-Propionoxypiperidine (MPPP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="37">
+					<Text xml:space="preserve" Style="Intro">3-Methylfentanyl (N-<NewLine />[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N-phenylpropanamide).</Text>
+				</SubParagraph>
+				<SubParagraph Id="38">
+					<Text xml:space="preserve" Style="Intro">3-Methylthiofentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="39">
+					<Text xml:space="preserve" Style="Intro">3, 4-Methylenedioxymethamphetamine<NewLine />(MDMA).</Text>
+				</SubParagraph>
+				<SubParagraph Id="40">
+					<Text xml:space="preserve" Style="Intro">Morpheridine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="41">
+					<Text xml:space="preserve" Style="Intro">Noracymethadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="42">
+					<Text xml:space="preserve" Style="Intro">Norlevorphanol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="43">
+					<Text xml:space="preserve" Style="Intro">Normethadone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="44">
+					<Text xml:space="preserve" Style="Intro">Norpipanone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="45">
+					<Text xml:space="preserve" Style="Intro">Para-Fluorofentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="46">
+					<Text xml:space="preserve" Style="Intro">Phenadoxone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="47">
+					<Text xml:space="preserve" Style="Intro">Phenampromide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="48">
+					<Text xml:space="preserve" Style="Intro">Phenomorphan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="49">
+					<Text xml:space="preserve" Style="Intro">Phenoperidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="50">
+					<Text xml:space="preserve" Style="Intro">1-(2-Phenylethyl)-4-Phenyl-4-Acetyloxypiperidine (PEPAP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="51">
+					<Text xml:space="preserve" Style="Intro">Piritramide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="52">
+					<Text xml:space="preserve" Style="Intro">Proheptazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="53">
+					<Text xml:space="preserve" Style="Intro">Properidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="54">
+					<Text xml:space="preserve" Style="Intro">Propiram.</Text>
+				</SubParagraph>
+				<SubParagraph Id="55">
+					<Text xml:space="preserve" Style="Intro">Racemoramide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="56">
+					<Text xml:space="preserve" Style="Intro">Thenylfentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="57">
+					<Text xml:space="preserve" Style="Intro">Thiofentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="58">
+					<Text xml:space="preserve" Style="Intro">Tilidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="59">
+					<Text xml:space="preserve" Style="Intro">Trimeperidine.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any of the following substances, their salts, isomers, and salts of isomers, whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Acetorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Acetyldihydrocodeine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Benzylmorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Codeine methylbromide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Codeine-N-Oxide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Cyprenorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Desomorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Dihydromorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Drotebanol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Etorphine (except hydrochloride salt).</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Heroin.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Hydromorphinol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Methyldesorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Methyldihydromorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">Monoacetylmorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Morphine methylbromide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Morphine methylsulfonate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Morphine-N-Oxide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">Myrophine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Nicocodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">Nicomorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">Normorphine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">Pholcodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">Thebacon.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation that contains any quantity of the following hallucinogenic substances or that contains any of their salts, isomers, and salts of isomers, if the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Alpha-ethyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">2-Amino-4-methyl-5-phenyl-2-oxazoline (4-methylaminorex).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">2-Amino-5-phenyl-2-oxazoline (Aminorex).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">4-Bromo-2,5-dimethoxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">4-Bromo-2,5-dimethoxyphenethylamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Bufotenine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Cannabis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Cathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Diethyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">2,5-Dimethoxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">2,5-Dimethoxy-4-ethylamphetamine (DOET).</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Dimethyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">N-Ethyl-1-phenylcyclohexylamine (PCE) (Ethylamine analog of phencyclidine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">N-Ethyl-3-piperidyl benzilate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">N-ethylamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Fenethylline.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">N-Hydroxy-3,4-methylenedioxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Ibogaine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">Lysergic acid diethylamide (LSD).</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Mescaline.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">Methcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">5-Methoxy-3,4-methylenedioxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">4-methoxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">4-methoxymethamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="25">
+					<Text xml:space="preserve" Style="Intro">4-Methyl-2,5-dimethoxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="26">
+					<Text xml:space="preserve" Style="Intro">3,4-Methylenedioxy-N-ethylamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="27">
+					<Text xml:space="preserve" Style="Intro">3,4-Methylenedioxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="28">
+					<Text xml:space="preserve" Style="Intro">N-Methyl-3-piperidyl benzilate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="29">
+					<Text xml:space="preserve" Style="Intro">N,N-dimethylamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="30">
+					<Text xml:space="preserve" Style="Intro">Parahexyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="31">
+					<Text xml:space="preserve" Style="Intro">Peyote.</Text>
+				</SubParagraph>
+				<SubParagraph Id="32">
+					<Text xml:space="preserve" Style="Intro">N-(1-Phenylcyclohexyl)-pyrrolidine (PCPY) (Pyrrolidine analog of phencyclidine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="33">
+					<Text xml:space="preserve" Style="Intro">Psilocybin.</Text>
+				</SubParagraph>
+				<SubParagraph Id="34">
+					<Text xml:space="preserve" Style="Intro">Psilocyn.</Text>
+				</SubParagraph>
+				<SubParagraph Id="35">
+					<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Salvia divinorum</Font>, except for any drug product approved by the United States Food and Drug Administration which contains <Font xml:space="preserve" Style="Italic">Salvia divinorum</Font> or its isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, if the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="36">
+					<Text xml:space="preserve" Style="Intro">Salvinorin A, except for any drug product approved by the United States Food and Drug Administration which contains Salvinorin A or its isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, if the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="37">
+					<Text xml:space="preserve" Style="Intro">Tetrahydrocannabinols.</Text>
+				</SubParagraph>
+				<SubParagraph Id="38">
+					<Text xml:space="preserve" Style="Intro">1-[1-(2-Thienyl)-cyclohexyl]-piperidine (TCP) (Thiophene analog of phencyclidine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="39">
+					<Text xml:space="preserve" Style="Intro">3,4,5-Trimethoxyamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="40">
+					<Text xml:space="preserve" Style="Intro">3,4-Methylenedioxymethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="41">
+					<Text xml:space="preserve" Style="Intro">3,4-Methylenedioxypyrovalerone (MDPV).</Text>
+				</SubParagraph>
+				<SubParagraph Id="42">
+					<Text xml:space="preserve" Style="Intro">Methylmethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="43">
+					<Text xml:space="preserve" Style="Intro">Methoxymethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="44">
+					<Text xml:space="preserve" Style="Intro">Fluoromethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="45">
+					<Text xml:space="preserve" Style="Intro">Methylethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="46">
+					<Text xml:space="preserve" Style="Intro">2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol, also known as CP 47,497 and its dimethyloctyl (C8) homologue.</Text>
+				</SubParagraph>
+				<SubParagraph Id="47">
+					<Text xml:space="preserve" Style="Intro">(6aR,10aR)-9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo [c]chromen-1-ol, also known as HU-210.</Text>
+				</SubParagraph>
+				<SubParagraph Id="48">
+					<Text xml:space="preserve" Style="Intro">1-Pentyl-3-(1-naphthoyl)indole, also known as JWH-018.</Text>
+				</SubParagraph>
+				<SubParagraph Id="49">
+					<Text xml:space="preserve" Style="Intro">1-Butyl-3-(1-naphthoyl)indole, also known as JWH-073.</Text>
+				</SubParagraph>
+				<SubParagraph Id="50">
+					<Text xml:space="preserve" Style="Intro">1-[2-(4-morpholinyl)ethyl]-3-(1-naphthoyl) indole, also known as JWH-200.</Text>
+				</SubParagraph>
+				<SubParagraph Id="51">
+					<Text xml:space="preserve" Style="Intro">BZP (Benzylpiperazine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="52">
+					<Text xml:space="preserve" Style="Intro">Fluorophenylpiperazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="53">
+					<Text xml:space="preserve" Style="Intro">Methylphenylpiperazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="54">
+					<Text xml:space="preserve" Style="Intro">Chlorophenylpiperazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="55">
+					<Text xml:space="preserve" Style="Intro">Methoxyphenylpiperazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="56">
+					<Text xml:space="preserve" Style="Intro">DBZP (1,4-dibenzylpiperazine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="57">
+					<Text xml:space="preserve" Style="Intro">TFMPP (3-Trifluoromethylphenylpiperazine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="58">
+					<Text xml:space="preserve" Style="Intro">MBDB (Methylbenzodioxolylbutanamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="59">
+					<Text xml:space="preserve" Style="Intro">5-Hydroxy-alpha-methyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="60">
+					<Text xml:space="preserve" Style="Intro">5-Hydroxy-N-methyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="61">
+					<Text xml:space="preserve" Style="Intro">5-Methoxy-N-methyl-N-isopropyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="62">
+					<Text xml:space="preserve" Style="Intro">5-Methoxy-alpha-methyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="63">
+					<Text xml:space="preserve" Style="Intro">Methyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="64">
+					<Text xml:space="preserve" Style="Intro">5-Methoxy-N,N-dimethyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="65">
+					<Text xml:space="preserve" Style="Intro">5-Methyl-N,N-dimethyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="66">
+					<Text xml:space="preserve" Style="Intro">Tyramine (4-Hydroxyphenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="67">
+					<Text xml:space="preserve" Style="Intro">5-Methoxy-N,N-Diisopropyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="68">
+					<Text xml:space="preserve" Style="Intro">DiPT (N,N-Diisopropyltryptamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="69">
+					<Text xml:space="preserve" Style="Intro">DPT (N,N-Dipropyltryptamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="70">
+					<Text xml:space="preserve" Style="Intro">4-Hydroxy-N,N-diisopropyltryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="71">
+					<Text xml:space="preserve" Style="Intro">N,N-Diallyl-5-Methoxytryptamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="72">
+					<Text xml:space="preserve" Style="Intro">DOI (4-Iodo-2,5-dimethoxyamphetamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="73">
+					<Text xml:space="preserve" Style="Intro">DOC (4-Chloro-2,5-dimethoxyamphetamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="74">
+					<Text xml:space="preserve" Style="Intro">2C-E (4-Ethyl-2,5-dimethoxyphenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="75">
+					<Text xml:space="preserve" Style="Intro">2C-T-4 (2,5-Dimethoxy-4-isopropylthiophenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="76">
+					<Text xml:space="preserve" Style="Intro">2C-C (4-Chloro-2,5-dimethoxyphenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="77">
+					<Text xml:space="preserve" Style="Intro">2C-T (2,5-Dimethoxy-4-methylthiophenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="78">
+					<Text xml:space="preserve" Style="Intro">2C-T-2 (2,5-Dimethoxy-4-ethylthiophenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="79">
+					<Text xml:space="preserve" Style="Intro">2C-T-7 (2,5-Dimethoxy-4-(n)-propylthiophenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="80">
+					<Text xml:space="preserve" Style="Intro">2C-I (4-Iodo-2,5-dimethoxyphenethylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="81">
+					<Text xml:space="preserve" Style="Intro">Butylone (beta-keto-N-methylbenzodioxolylpropylamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="82">
+					<Text xml:space="preserve" Style="Intro">Ethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="83">
+					<Text xml:space="preserve" Style="Intro">Ethylone (3,4-methylenedioxy-N-ethylcathinone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="84">
+					<Text xml:space="preserve" Style="Intro">Naphyrone (naphthylpyrovalerone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="85">
+					<Text xml:space="preserve" Style="Intro">N-N-Dimethyl-3,4-methylenedioxycathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="86">
+					<Text xml:space="preserve" Style="Intro">N-N-Diethyl-3,4-methylenedioxycathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="87">
+					<Text xml:space="preserve" Style="Intro">3,4-methylenedioxy-propiophenone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="88">
+					<Text xml:space="preserve" Style="Intro">2-Bromo-3,4-Methylenedioxypropiophenone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="89">
+					<Text xml:space="preserve" Style="Intro">3,4-methylenedioxy-propiophenone-2-oxime.</Text>
+				</SubParagraph>
+				<SubParagraph Id="90">
+					<Text xml:space="preserve" Style="Intro">N-Acetyl-3,4-methylenedioxycathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="91">
+					<Text xml:space="preserve" Style="Intro">N-Acetyl-N-Methyl-3,4-Methylenedioxycathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="92">
+					<Text xml:space="preserve" Style="Intro">N-Acetyl-N-Ethyl-3,4-Methylenedioxycathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="93">
+					<Text xml:space="preserve" Style="Intro">Bromomethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="94">
+					<Text xml:space="preserve" Style="Intro">Buphedrone (alpha-methylamino-butyrophenone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="95">
+					<Text xml:space="preserve" Style="Intro">Eutylone (beta-Keto-Ethylbenzodioxolylbutanamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="96">
+					<Text xml:space="preserve" Style="Intro">Dimethylcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="97">
+					<Text xml:space="preserve" Style="Intro">Dimethylmethcathinone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="98">
+					<Text xml:space="preserve" Style="Intro">Pentylone (beta-Keto-Methylbenzodioxolylpentanamine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="99">
+					<Text xml:space="preserve" Style="Intro">(MDPPP) 3,4-Methylenedioxy-alpha-pyrrolidinopropiophenone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="100">
+					<Text xml:space="preserve" Style="Intro">(MDPBP) 3,4-Methylenedioxy-alpha-pyrrolidinobutiophenone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="101">
+					<Text xml:space="preserve" Style="Intro">Methoxy-alpha-pyrrolidinopropiophenone (MOPPP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="102">
+					<Text xml:space="preserve" Style="Intro">Methyl-alpha-pyrrolidinohexiophenone (MPHP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="103">
+					<Text xml:space="preserve" Style="Intro">Benocyclidine (BCP) or benzothiophenylcyclohexylpiperidine (BTCP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="104">
+					<Text xml:space="preserve" Style="Intro">Fluoromethylaminobutyrophenone (F-MABP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="105">
+					<Text xml:space="preserve" Style="Intro">Methoxypyrrolidinobutyrophenone (MeO-PBP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="106">
+					<Text xml:space="preserve" Style="Intro">Ethyl-pyrrolidinobutyrophenone (Et-PBP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="107">
+					<Text xml:space="preserve" Style="Intro">3-Methyl-4-Methoxymethcathinone (3-Me-4-MeO-MCAT).</Text>
+				</SubParagraph>
+				<SubParagraph Id="108">
+					<Text xml:space="preserve" Style="Intro">Methylethylaminobutyrophenone (Me-EABP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="109">
+					<Text xml:space="preserve" Style="Intro">Methylamino-butyrophenone (MABP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="110">
+					<Text xml:space="preserve" Style="Intro">Pyrrolidinopropiophenone (PPP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="111">
+					<Text xml:space="preserve" Style="Intro">Pyrrolidinobutiophenone (PBP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="112">
+					<Text xml:space="preserve" Style="Intro">Pyrrolidinovalerophenone (PVP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="113">
+					<Text xml:space="preserve" Style="Intro">Methyl-alpha-pyrrolidinopropiophenone (MPPP).</Text>
+				</SubParagraph>
+				<SubParagraph Id="114">
+					<Text xml:space="preserve" Style="Intro">JWH-007 (1-pentyl-2-methyl-3-(1-naphthoyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="115">
+					<Text xml:space="preserve" Style="Intro">JWH-015 (2-Methyl-1-propyl-1H-indol-3-yl)-1-naphthalenylmethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="116">
+					<Text xml:space="preserve" Style="Intro">JWH-019 (Naphthalen-1-yl-(1-hexylindol-3-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="117">
+					<Text xml:space="preserve" Style="Intro">JWH-020 (1-heptyl-3-(1-naphthoyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="118">
+					<Text xml:space="preserve" Style="Intro">JWH-072 (Naphthalen-1-yl-(1-propyl-1H-indol-3-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="119">
+					<Text xml:space="preserve" Style="Intro">JWH-081 (4-methoxynaphthalen-1-yl-(1-pentylindol-3-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="120">
+					<Text xml:space="preserve" Style="Intro">JWH-122 (1-Pentyl-3-(4-methyl-1-naphthoyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="121">
+					<Text xml:space="preserve" Style="Intro">JWH-133 ((6aR,10aR)-3-(1,1-Dimethylbutyl)-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran)).</Text>
+				</SubParagraph>
+				<SubParagraph Id="122">
+					<Text xml:space="preserve" Style="Intro">JWH-175 (3-(naphthalen-1-ylmethyl)-1-pentyl-1H-indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="123">
+					<Text xml:space="preserve" Style="Intro">JWH-201 (1-pentyl-3-(4-methoxyphenylacetyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="124">
+					<Text xml:space="preserve" Style="Intro">JWH-203 (2-(2-chlorophenyl)-1-(1-pentylindol-3-yl)ethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="125">
+					<Text xml:space="preserve" Style="Intro">JWH-210 (4-ethylnaphthalen-1-yl-(1-pentylindol-3-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="126">
+					<Text xml:space="preserve" Style="Intro">JWH-250 (2-(2-methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="127">
+					<Text xml:space="preserve" Style="Intro">JWH-251 (2-(2-methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="128">
+					<Text xml:space="preserve" Style="Intro">JWH-302 (1-pentyl-3-(3-methoxyphenylacetyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="129">
+					<Text xml:space="preserve" Style="Intro">JWH-398 (1-pentyl-3-(4-chloro-1-naphthoyl)indole).</Text>
+				</SubParagraph>
+				<SubParagraph Id="130">
+					<Text xml:space="preserve" Style="Intro">HU-211 ((6aS,10aS)-9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol).</Text>
+				</SubParagraph>
+				<SubParagraph Id="131">
+					<Text xml:space="preserve" Style="Intro">HU-308 ([(1R,2R,5R)-2-[2,6-dimethoxy-4-(2-methyloctan-2-yl)phenyl]-7,7-dimethyl-4-bicyclo[3.1.1]hept-3-enyl] methanol).</Text>
+				</SubParagraph>
+				<SubParagraph Id="132">
+					<Text xml:space="preserve" Style="Intro">HU-331 (3-hydroxy-2-[(1R,6R)-3-methyl-6-(1- methylethenyl)-2-cyclohexen-1-yl]-5-pentyl-2,5-cyclohexadiene-1,4-dione).</Text>
+				</SubParagraph>
+				<SubParagraph Id="133">
+					<Text xml:space="preserve" Style="Intro">CB-13 (Naphthalen-1-yl-(4-pentyloxynaphthalen-1-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="134">
+					<Text xml:space="preserve" Style="Intro">CB-25 (N-cyclopropyl-11-(3-hydroxy-5-pentylphenoxy)-undecanamide).</Text>
+				</SubParagraph>
+				<SubParagraph Id="135">
+					<Text xml:space="preserve" Style="Intro">CB-52 (N-cyclopropyl-11-(2-hexyl-5-hydroxyphenoxy)-undecanamide).</Text>
+				</SubParagraph>
+				<SubParagraph Id="136">
+					<Text xml:space="preserve" Style="Intro">CP 55,940 (2-[(1R,2R,5R)-5-hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol).</Text>
+				</SubParagraph>
+				<SubParagraph Id="137">
+					<Text xml:space="preserve" Style="Intro">AM-694 (1-[(5-fluoropentyl)-1H-indol-3-yl]-(2-iodophenyl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="138">
+					<Text xml:space="preserve" Style="Intro">AM-2201 (1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="139">
+					<Text xml:space="preserve" Style="Intro">RCS-4 ((4-methoxyphenyl) (1-pentyl-1H-indol-3-yl)methanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="140">
+					<Text xml:space="preserve" Style="Intro">RCS-8 (1-(1-(2-cyclohexylethyl)-1H-indol-3-yl)-2-(2-methoxyphenylethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="141">
+					<Text xml:space="preserve" Style="Intro">WIN55,212-2 ((R)-(+)-[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone).</Text>
+				</SubParagraph>
+				<SubParagraph Id="142">
+					<Text xml:space="preserve" Style="Intro">WIN55,212-3 ([(3S)-2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including any of its salts, isomers, optical isomers, salts of their isomers, and salts of these optical isomers whenever the existence of such isomers and salts is possible within the specific chemical designation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">1,4-Butanediol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Gamma-butyrolactone (GBL).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Gamma-hydroxybutyric acid (GHB).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Methaqualone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Mecloqualone.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE II.<EmDash />A substance in Schedule II has a high potential for abuse and has a currently accepted but severely restricted medical use in treatment in the United States, and abuse of the substance may lead to severe psychological or physical dependence. The following substances are controlled in Schedule II:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any of the following substances, whether produced directly or indirectly by extraction from substances of vegetable origin or independently by means of chemical synthesis:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Opium and any salt, compound, derivative, or preparation of opium, except nalmefene or isoquinoline alkaloids of opium, including, but not limited to the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Raw opium.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Opium extracts.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Opium fluid extracts.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Powdered opium.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Granulated opium.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Tincture of opium.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Codeine.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Ethylmorphine.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Etorphine hydrochloride.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Hydrocodone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="k">
+						<Text xml:space="preserve" Style="Intro">Hydromorphone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="l">
+						<Text xml:space="preserve" Style="Intro">Levo-alphacetylmethadol (also known as levo-alpha-acetylmethadol, levomethadyl acetate, or LAAM).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="m">
+						<Text xml:space="preserve" Style="Intro">Metopon (methyldihydromorphinone).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="n">
+						<Text xml:space="preserve" Style="Intro">Morphine.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="o">
+						<Text xml:space="preserve" Style="Intro">Oxycodone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="p">
+						<Text xml:space="preserve" Style="Intro">Oxymorphone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="q">
+						<Text xml:space="preserve" Style="Intro">Thebaine.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any salt, compound, derivative, or preparation of a substance which is chemically equivalent to or identical with any of the substances referred to in subparagraph 1., except that these substances shall not include the isoquinoline alkaloids of opium.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any part of the plant of the species <Font xml:space="preserve" Style="Italic">Papaver somniferum, L.</Font></Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Cocaine or ecgonine, including any of their stereoisomers, and any salt, compound, derivative, or preparation of cocaine or ecgonine.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any of the following substances, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Alfentanil.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Alphaprodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Anileridine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Bezitramide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Bulk propoxyphene (nondosage forms).</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Carfentanil.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Dihydrocodeine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Diphenoxylate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Fentanyl.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Isomethadone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Levomethorphan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Levorphanol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Metazocine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Methadone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">Methadone-Intermediate,4-cyano-2-<NewLine />dimethylamino-4,4-diphenylbutane.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Moramide-Intermediate,2-methyl-<NewLine />3-morpholoino-1,1-diphenylpropane-carboxylic acid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Nabilone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Pethidine (meperidine).</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">Pethidine-Intermediate-A,4-cyano-1-<NewLine />methyl-4-phenylpiperidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Pethidine-Intermediate-B,ethyl-4-<NewLine />phenylpiperidine-4-carboxylate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">Pethidine-Intermediate-C,1-methyl-4- phenylpiperidine-4-carboxylic acid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">Phenazocine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">Phencyclidine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">1-Phenylcyclohexylamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="25">
+					<Text xml:space="preserve" Style="Intro">Piminodine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="26">
+					<Text xml:space="preserve" Style="Intro">1-Piperidinocyclohexanecarbonitrile.</Text>
+				</SubParagraph>
+				<SubParagraph Id="27">
+					<Text xml:space="preserve" Style="Intro">Racemethorphan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="28">
+					<Text xml:space="preserve" Style="Intro">Racemorphan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="29">
+					<Text xml:space="preserve" Style="Intro">Sufentanil.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including their salts, isomers, optical isomers, salts of their isomers, and salts of their optical isomers:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Amobarbital.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Amphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Glutethimide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Methamphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Methylphenidate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Pentobarbital.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Phenmetrazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Phenylacetone.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Secobarbital.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE III.<EmDash />A substance in Schedule III has a potential for abuse less than the substances contained in Schedules I and II and has a currently accepted medical use in treatment in the United States, and abuse of the substance may lead to moderate or low physical dependence or high psychological dependence or, in the case of anabolic steroids, may lead to physical damage. The following substances are controlled in Schedule III:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant or stimulant effect on the nervous system:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any substance which contains any quantity of a derivative of barbituric acid, including thiobarbituric acid, or any salt of a derivative of barbituric acid or thiobarbituric acid, including, but not limited to, butabarbital and butalbital.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Benzphetamine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Chlorhexadol.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Chlorphentermine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Clortermine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Lysergic acid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Lysergic acid amide.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Methyprylon.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Phendimetrazine.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Sulfondiethylmethane.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Sulfonethylmethane.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Sulfonmethane.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Tiletamine and zolazepam or any salt thereof.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Nalorphine.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limited quantities of any of the following controlled substances or any salts thereof:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Not more than 1.8 grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with an equal or greater quantity of an isoquinoline alkaloid of opium.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Not more than 1.8 grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with recognized therapeutic amounts of one or more active ingredients which are not controlled substances.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Not more than 300 milligrams of hydrocodone per 100 milliliters or not more than 15 milligrams per dosage unit, with a fourfold or greater quantity of an isoquinoline alkaloid of opium.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Not more than 300 milligrams of hydrocodone per 100 milliliters or not more than 15 milligrams per dosage unit, with recognized therapeutic amounts of one or more active ingredients that are not controlled substances.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with recognized therapeutic amounts of one or more active ingredients which are not controlled substances.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Not more than 50 milligrams of morphine per 100 milliliters or per 100 grams, with recognized therapeutic amounts of one or more active ingredients which are not controlled substances.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">For purposes of charging a person with a violation of s. 893.135 involving any controlled substance described in subparagraph 3. or subparagraph 4., the controlled substance is a Schedule III controlled substance pursuant to this paragraph but the weight of the controlled substance per milliliters or per dosage unit is not relevant to the charging of a violation of s. 893.135. The weight of the controlled substance shall be determined pursuant to s. 893.135(6).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Anabolic steroids.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The term “anabolic steroid” means any drug or hormonal substance, chemically and pharmacologically related to testosterone, other than estrogens, progestins, and corticosteroids, that promotes muscle growth and includes:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Androsterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Androsterone acetate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Boldenone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Boldenone acetate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Boldenone benzoate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Boldenone undecylenate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Chlorotestosterone (4-chlortestosterone).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Clostebol.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Dehydrochlormethyltestosterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Dihydrotestosterone (4-dihydrotestosterone).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="k">
+						<Text xml:space="preserve" Style="Intro">Drostanolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="l">
+						<Text xml:space="preserve" Style="Intro">Ethylestrenol.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="m">
+						<Text xml:space="preserve" Style="Intro">Fluoxymesterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="n">
+						<Text xml:space="preserve" Style="Intro">Formebulone (formebolone).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="o">
+						<Text xml:space="preserve" Style="Intro">Mesterolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="p">
+						<Text xml:space="preserve" Style="Intro">Methandienone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="q">
+						<Text xml:space="preserve" Style="Intro">Methandranone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="r">
+						<Text xml:space="preserve" Style="Intro">Methandriol.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="s">
+						<Text xml:space="preserve" Style="Intro">Methandrostenolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="t">
+						<Text xml:space="preserve" Style="Intro">Methenolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="u">
+						<Text xml:space="preserve" Style="Intro">Methyltestosterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="v">
+						<Text xml:space="preserve" Style="Intro">Mibolerone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="w">
+						<Text xml:space="preserve" Style="Intro">Nandrolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="x">
+						<Text xml:space="preserve" Style="Intro">Norethandrolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="y">
+						<Text xml:space="preserve" Style="Intro">Nortestosterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="z">
+						<Text xml:space="preserve" Style="Intro">Nortestosterone decanoate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="aa">
+						<Text xml:space="preserve" Style="Intro">Nortestosterone phenylpropionate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="bb">
+						<Text xml:space="preserve" Style="Intro">Nortestosterone propionate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="cc">
+						<Text xml:space="preserve" Style="Intro">Oxandrolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="dd">
+						<Text xml:space="preserve" Style="Intro">Oxymesterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="ee">
+						<Text xml:space="preserve" Style="Intro">Oxymetholone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="ff">
+						<Text xml:space="preserve" Style="Intro">Stanolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="gg">
+						<Text xml:space="preserve" Style="Intro">Stanozolol.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="hh">
+						<Text xml:space="preserve" Style="Intro">Testolactone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="ii">
+						<Text xml:space="preserve" Style="Intro">Testosterone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="jj">
+						<Text xml:space="preserve" Style="Intro">Testosterone acetate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="kk">
+						<Text xml:space="preserve" Style="Intro">Testosterone benzoate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="ll">
+						<Text xml:space="preserve" Style="Intro">Testosterone cypionate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="mm">
+						<Text xml:space="preserve" Style="Intro">Testosterone decanoate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="nn">
+						<Text xml:space="preserve" Style="Intro">Testosterone enanthate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="oo">
+						<Text xml:space="preserve" Style="Intro">Testosterone isocaproate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="pp">
+						<Text xml:space="preserve" Style="Intro">Testosterone oleate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="qq">
+						<Text xml:space="preserve" Style="Intro">Testosterone phenylpropionate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="rr">
+						<Text xml:space="preserve" Style="Intro">Testosterone propionate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="ss">
+						<Text xml:space="preserve" Style="Intro">Testosterone undecanoate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="tt">
+						<Text xml:space="preserve" Style="Intro">Trenbolone.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="uu">
+						<Text xml:space="preserve" Style="Intro">Trenbolone acetate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="vv">
+						<Text xml:space="preserve" Style="Intro">Any salt, ester, or isomer of a drug or substance described or listed in this subparagraph if that salt, ester, or isomer promotes muscle growth.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The term does not include an anabolic steroid that is expressly intended for administration through implants to cattle or other nonhuman species and that has been approved by the United States Secretary of Health and Human Services for such administration. However, any person who prescribes, dispenses, or distributes such a steroid for human use is considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Ketamine, including any isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Dronabinol (synthetic THC) in sesame oil and encapsulated in a soft gelatin capsule in a drug product approved by the United States Food and Drug Administration.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Any drug product containing gamma-hydroxybutyric acid, including its salts, isomers, and salts of isomers, for which an application is approved under s. 505 of the Federal Food, Drug, and Cosmetic Act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE IV.<EmDash />A substance in Schedule IV has a low potential for abuse relative to the substances in Schedule III and has a currently accepted medical use in treatment in the United States, and abuse of the substance may lead to limited physical or psychological dependence relative to the substances in Schedule III. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation, are controlled in Schedule IV:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Alprazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Barbital.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Bromazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Camazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Cathine.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Chloral betaine.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Chloral hydrate.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Chlordiazepoxide.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Clobazam.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Clonazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Clorazepate.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Clotiazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Cloxazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Delorazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Propoxyphene (dosage forms).</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Diazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">Diethylpropion.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">Estazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">Ethchlorvynol.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">Ethinamate.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">Ethyl loflazepate.</Text>
+			</Paragraph>
+			<Paragraph Id="v">
+				<Text xml:space="preserve" Style="Intro">Fencamfamin.</Text>
+			</Paragraph>
+			<Paragraph Id="w">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">Fenfluramine.</Text>
+			</Paragraph>
+			<Paragraph Id="x">
+				<Text xml:space="preserve" Style="Intro">Fenproporex.</Text>
+			</Paragraph>
+			<Paragraph Id="y">
+				<Text xml:space="preserve" Style="Intro">Fludiazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="z">
+				<Text xml:space="preserve" Style="Intro">Flurazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="aa">
+				<Text xml:space="preserve" Style="Intro">Halazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="bb">
+				<Text xml:space="preserve" Style="Intro">Haloxazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="cc">
+				<Text xml:space="preserve" Style="Intro">Ketazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="dd">
+				<Text xml:space="preserve" Style="Intro">Loprazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="ee">
+				<Text xml:space="preserve" Style="Intro">Lorazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="ff">
+				<Text xml:space="preserve" Style="Intro">Lormetazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="gg">
+				<Text xml:space="preserve" Style="Intro">Mazindol.</Text>
+			</Paragraph>
+			<Paragraph Id="hh">
+				<Text xml:space="preserve" Style="Intro">Mebutamate.</Text>
+			</Paragraph>
+			<Paragraph Id="ii">
+				<Text xml:space="preserve" Style="Intro">Medazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="jj">
+				<Text xml:space="preserve" Style="Intro">Mefenorex.</Text>
+			</Paragraph>
+			<Paragraph Id="kk">
+				<Text xml:space="preserve" Style="Intro">Meprobamate.</Text>
+			</Paragraph>
+			<Paragraph Id="ll">
+				<Text xml:space="preserve" Style="Intro">Methohexital.</Text>
+			</Paragraph>
+			<Paragraph Id="mm">
+				<Text xml:space="preserve" Style="Intro">Methylphenobarbital.</Text>
+			</Paragraph>
+			<Paragraph Id="nn">
+				<Text xml:space="preserve" Style="Intro">Midazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="oo">
+				<Text xml:space="preserve" Style="Intro">Nimetazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="pp">
+				<Text xml:space="preserve" Style="Intro">Nitrazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="qq">
+				<Text xml:space="preserve" Style="Intro">Nordiazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="rr">
+				<Text xml:space="preserve" Style="Intro">Oxazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="ss">
+				<Text xml:space="preserve" Style="Intro">Oxazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="tt">
+				<Text xml:space="preserve" Style="Intro">Paraldehyde.</Text>
+			</Paragraph>
+			<Paragraph Id="uu">
+				<Text xml:space="preserve" Style="Intro">Pemoline.</Text>
+			</Paragraph>
+			<Paragraph Id="vv">
+				<Text xml:space="preserve" Style="Intro">Pentazocine.</Text>
+			</Paragraph>
+			<Paragraph Id="ww">
+				<Text xml:space="preserve" Style="Intro">Phenobarbital.</Text>
+			</Paragraph>
+			<Paragraph Id="xx">
+				<Text xml:space="preserve" Style="Intro">Phentermine.</Text>
+			</Paragraph>
+			<Paragraph Id="yy">
+				<Text xml:space="preserve" Style="Intro">Pinazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="zz">
+				<Text xml:space="preserve" Style="Intro">Pipradrol.</Text>
+			</Paragraph>
+			<Paragraph Id="aaa">
+				<Text xml:space="preserve" Style="Intro">Prazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="bbb">
+				<Text xml:space="preserve" Style="Intro">Propylhexedrine, excluding any patent or proprietary preparation containing propylhexedrine, unless otherwise provided by federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="ccc">
+				<Text xml:space="preserve" Style="Intro">Quazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="ddd">
+				<Text xml:space="preserve" Style="Intro">Tetrazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="eee">
+				<Text xml:space="preserve" Style="Intro">SPA[(-)-1 dimethylamino-1, 2<NewLine />diphenylethane].</Text>
+			</Paragraph>
+			<Paragraph Id="fff">
+				<Text xml:space="preserve" Style="Intro">Temazepam.</Text>
+			</Paragraph>
+			<Paragraph Id="ggg">
+				<Text xml:space="preserve" Style="Intro">Triazolam.</Text>
+			</Paragraph>
+			<Paragraph Id="hhh">
+				<Text xml:space="preserve" Style="Intro">Not more than 1 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit.</Text>
+			</Paragraph>
+			<Paragraph Id="iii">
+				<Text xml:space="preserve" Style="Intro">Butorphanol tartrate.</Text>
+			</Paragraph>
+			<Paragraph Id="jjj">
+				<Text xml:space="preserve" Style="Intro">Carisoprodol.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE V.<EmDash />A substance, compound, mixture, or preparation of a substance in Schedule V has a low potential for abuse relative to the substances in Schedule IV and has a currently accepted medical use in treatment in the United States, and abuse of such compound, mixture, or preparation may lead to limited physical or psychological dependence relative to the substances in Schedule IV.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Substances controlled in Schedule V include any compound, mixture, or preparation containing any of the following limited quantities of controlled substances, which shall include one or more active medicinal ingredients which are not controlled substances in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by the controlled substance alone:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Narcotic drugs. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs and their salts: Buprenorphine.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Stimulants. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers, and salts of isomers: Pyrovalerone.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 73-331; s. 247, ch. 77-104; s. 1, ch. 77-174; ss. 1, 2, ch. 78-195; s. 2, ch. 79-325; s. 1, ch. 80-353; s. 1, ch. 82-16; s. 1, ch. 84-89; s. 2, ch. 85-242; s. 1, ch. 86-147; s. 2, ch. 87-243; s. 1, ch. 87-299; s. 1, ch. 88-59; s. 3, ch. 89-281; s. 54, ch. 92-69; s. 1, ch. 93-92; s. 4, ch. 95-415; s. 1, ch. 96-360; ss. 1, 5, ch. 97-1; s. 96, ch. 97-264; s. 1, ch. 99-186; s. 2, ch. 2000-320; s. 1, ch. 2001-55; s. 5, ch. 2001-57; s. 1, ch. 2002-78; s. 2, ch. 2003-10; s. 1, ch. 2008-88; s. 2, ch. 2011-73; s. 1, ch. 2011-90; s. 1, ch. 2012-23.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 1, ch. 97-1, added paragraph (4)(w) listing fenfluramine. Section 5, ch. 97-1, repealed paragraph (4)(w) effective upon the removal of fenfluramine from the schedules of controlled substances in 21 C.F.R. s. 1308. The Drug Enforcement Administration of the United States Department of Justice filed a proposed final rule removing fenfluramine from the schedules, <Font xml:space="preserve" Style="Italic">see</Font> 62 F.R. 24620, May 6, 1997.</Text>
+	</Note>
+</Section>

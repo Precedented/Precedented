@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0893.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Every person who engages in the manufacture, compounding, mixing, cultivating, growing, or by any other process producing or preparing, or in the dispensing, importation, or, as a wholesaler, distribution, of controlled substances shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">On January 1, 1974, or as soon thereafter as any person first engages in such activity, and every second year thereafter, make a complete and accurate record of all stocks of controlled substances on hand. The inventory may be prepared on the regular physical inventory date which is nearest to, and does not vary by more than 6 months from, the biennial date that would otherwise apply. As additional substances are designated for control under this chapter, they shall be inventoried as provided for in this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">On and after January 1, 1974, maintain, on a current basis, a complete and accurate record of each substance manufactured, received, sold, delivered, or otherwise disposed of by him or her, except that this subsection shall not require the maintenance of a perpetual inventory.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Compliance with the provisions of federal law pertaining to the keeping of records of controlled substances shall be deemed a compliance with the requirements of this subsection.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The record of controlled substances received shall in every case show:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The date of receipt.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name and address of the person from whom received.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The kind and quantity of controlled substances received.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The record of all controlled substances sold, administered, dispensed, or otherwise disposed of shall show:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The date of selling, administering, or dispensing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The correct name and address of the person to whom or for whose use, or the owner and species of animal for which, sold, administered, or dispensed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The kind and quantity of controlled substances sold, administered, or dispensed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Every inventory or record required by this chapter, including prescription records, shall be maintained:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Separately from all other records of the registrant, or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Alternatively, in the case of Schedule III, IV, or V controlled substances, in such form that information required by this chapter is readily retrievable from the ordinary business records of the registrant.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">In either case, the records described in this subsection shall be kept and made available for a period of at least 2 years for inspection and copying by law enforcement officers whose duty it is to enforce the laws of this state relating to controlled substances. Law enforcement officers are not required to obtain a subpoena, court order, or search warrant in order to obtain access to or copies of such records.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each person described in subsection (1) shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Maintain a record which shall contain a detailed list of controlled substances lost, destroyed, or stolen, if any; the kind and quantity of such controlled substances; and the date of the discovering of such loss, destruction, or theft.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the event of the discovery of the theft or significant loss of controlled substances, report such theft or significant loss to the sheriff of that county within 24 hours after discovery. A person who fails to report a theft or significant loss of a substance listed in s. 893.03(3), (4), or (5) within 24 hours after discovery as required in this paragraph commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083. A person who fails to report a theft or significant loss of a substance listed in s. 893.03(2) within 24 hours after discovery as required in this paragraph commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 73-331; s. 1439, ch. 97-102; s. 25, ch. 2011-141.</History>
+</Section>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0068.096" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For purposes of this act:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Legal Affairs.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Eligible client” means a person whose income is equal to or below 150 percent of the then-current federal poverty guidelines prescribed for the size of the household of the person seeking assistance by the United States Department of Health and Human Services or disabled veterans who are in receipt of, or eligible to receive, Veterans Administration pension benefits or supplemental security income.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Legal assistance” means the provision of civil legal services consistent with the rules regulating The Florida Bar, subject to the limitations in s. 68.098.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Not-for-profit legal aid organization” means a not-for-profit organization operated in this state that provides as its primary purpose civil legal services without charge to eligible clients.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2002-288; s. 2, ch. 2012-96.</History>
+</Section>

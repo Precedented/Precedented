@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.305" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Destination bills.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Instead of issuing a bill of lading to the consignor at the place of shipment, a carrier, at the request of the consignor, may procure the bill to be issued at destination or at any other place designated in the request.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Upon request of any person entitled as against the carrier to control the goods while in transit and on surrender of possession or control of any outstanding bill of lading or other receipt covering such goods, the issuer, subject to s. 677.105, may procure a substitute bill to be issued at any place designated in the request.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 37, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-305, U.C.C.</Text>
+	</Note>
+</Section>

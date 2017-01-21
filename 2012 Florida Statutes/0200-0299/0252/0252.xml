@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XVII">
+	<ChapterNumber>252</ChapterNumber>
+	<ChapterName xml:space="preserve">Emergency management</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0252.31" />
+		<Section Number="0252.311" />
+		<Section Number="0252.32" />
+		<Section Number="0252.33" />
+		<Section Number="0252.34" />
+		<Section Number="0252.35" />
+		<Section Number="0252.355" />
+		<Section Number="0252.356" />
+		<Section Number="0252.3568" />
+		<Section Number="0252.357" />
+		<Section Number="0252.358" />
+		<Section Number="0252.36" />
+		<Section Number="0252.363" />
+		<Section Number="0252.365" />
+		<Section Number="0252.37" />
+		<Section Number="0252.371" />
+		<Section Number="0252.372" />
+		<Section Number="0252.373" />
+		<Section Number="0252.38" />
+		<Section Number="0252.385" />
+		<Section Number="0252.39" />
+		<Section Number="0252.40" />
+		<Section Number="0252.41" />
+		<Section Number="0252.42" />
+		<Section Number="0252.43" />
+		<Section Number="0252.44" />
+		<Section Number="0252.45" />
+		<Section Number="0252.46" />
+		<Section Number="0252.47" />
+		<Section Number="0252.50" />
+		<Section Number="0252.51" />
+		<Section Number="0252.515" />
+		<Section Number="0252.52" />
+		<Section Number="0252.55" />
+		<Section Number="0252.60" />
+		<Section Number="0252.61" />
+		<Section Number="0252.62" />
+		<Section Number="0252.63" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Florida Emergency Planning and<NewLine />Community Right-to-Know Act</PartTitle>
+		<Section Number="0252.81" />
+		<Section Number="0252.82" />
+		<Section Number="0252.83" />
+		<Section Number="0252.84" />
+		<Section Number="0252.85" />
+		<Section Number="0252.86" />
+		<Section Number="0252.87" />
+		<Section Number="0252.88" />
+		<Section Number="0252.89" />
+		<Section Number="0252.90" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Emergency Management<NewLine />Assistance Compact</PartTitle>
+		<Section Number="0252.921" />
+		<Section Number="0252.922" />
+		<Section Number="0252.923" />
+		<Section Number="0252.924" />
+		<Section Number="0252.925" />
+		<Section Number="0252.926" />
+		<Section Number="0252.927" />
+		<Section Number="0252.928" />
+		<Section Number="0252.929" />
+		<Section Number="0252.931" />
+		<Section Number="0252.932" />
+		<Section Number="0252.933" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Accidental release prevention and<NewLine />risk management planning</PartTitle>
+		<Section Number="0252.934" />
+		<Section Number="0252.935" />
+		<Section Number="0252.936" />
+		<Section Number="0252.937" />
+		<Section Number="0252.938" />
+		<Section Number="0252.939" />
+		<Section Number="0252.940" />
+		<Section Number="0252.941" />
+		<Section Number="0252.942" />
+		<Section Number="0252.943" />
+		<Section Number="0252.944" />
+		<Section Number="0252.945" />
+		<Section Number="0252.946" />
+	</Part>
+</Chapter>

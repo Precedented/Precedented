@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0435.06" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exclusion from employment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If an employer or agency has reasonable cause to believe that grounds exist for the denial or termination of employment of any employee as a result of background screening, it shall notify the employee in writing, stating the specific record that indicates noncompliance with the standards in this chapter. It is the responsibility of the affected employee to contest his or her disqualification or to request exemption from disqualification. The only basis for contesting the disqualification is proof of mistaken identity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An employer may not hire, select, or otherwise allow an employee to have contact with any vulnerable person that would place the employee in a role that requires background screening until the screening process is completed and demonstrates the absence of any grounds for the denial or termination of employment. If the screening process shows any grounds for the denial or termination of employment, the employer may not hire, select, or otherwise allow the employee to have contact with any vulnerable person that would place the employee in a role that requires background screening unless the employee is granted an exemption for the disqualification by the agency as provided under s. 435.07.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If an employer becomes aware that an employee has been arrested for a disqualifying offense, the employer must remove the employee from contact with any vulnerable person that places the employee in a role that requires background screening until the arrest is resolved in a way that the employer determines that the employee is still eligible for employment under this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The employer must terminate the employment of any of its personnel found to be in noncompliance with the minimum standards of this chapter or place the employee in a position for which background screening is not required unless the employee is granted an exemption from disqualification pursuant to s. 435.07.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An employer may hire an employee to a position that requires background screening before the employee completes the screening process for training and orientation purposes. However, the employee may not have direct contact with vulnerable persons until the screening process is completed and the employee demonstrates that he or she exhibits no behaviors that warrant the denial or termination of employment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any employee who refuses to cooperate in such screening or refuses to timely submit the information necessary to complete the screening, including fingerprints if required, must be disqualified for employment in such position or, if employed, must be dismissed.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">There is no reemployment assistance or other monetary liability on the part of, and no cause of action for damages against, an employer that, upon notice of a conviction or arrest for a disqualifying offense listed under this chapter, terminates the person against whom the report was issued or who was arrested, regardless of whether or not that person has filed for an exemption pursuant to this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 47, ch. 95-228; s. 40, ch. 2010-114; s. 65, ch. 2012-30; s. 11, ch. 2012-73.</History>
+</Section>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.162" xmlns="http://StatRev.xsd">
+	
+	<Catchline xml:space="preserve">Tax discount payment periods.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For all taxes assessed on the county tax rolls and collected by the county tax collector, discounts for payments made before delinquency shall be at the rate of 4 percent in the month of November or at any time within 30 days after the sending of the original tax notice; 3 percent in the following month of December; 2 percent in the following month of January; 1 percent in the following month of February; and zero percent in the following month of March or within 30 days before the date of delinquency if the date of delinquency is after April 1.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a taxpayer makes a request to have the original tax notice corrected, the discount rate for early payment applicable at the time of the request applies for 30 days after the sending of the corrected tax notice.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A discount rate of 4 percent applies for 30 days after the sending of a tax notice resulting from the action of a value adjustment board when a corrected tax notice is issued before the taxes become delinquent pursuant to s. 197.333. Thereafter, the regular discount periods apply.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the discount period ends on a Saturday, Sunday, or legal holiday, the discount period, including the zero percent period, extends to the next working day, if payment is delivered to the designated collection office of the tax collector.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 134, ch. 85-342; s. 1, ch. 92-312; s. 2, ch. 98-139; s. 6, ch. 2011-151; s. 3, ch. 2011-181.</History>
+	
+</Section>

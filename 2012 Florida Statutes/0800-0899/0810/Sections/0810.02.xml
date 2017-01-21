@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0810.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Burglary.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For offenses committed on or before July 1, 2001, “burglary” means entering or remaining in a dwelling, a structure, or a conveyance with the intent to commit an offense therein, unless the premises are at the time open to the public or the defendant is licensed or invited to enter or remain.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For offenses committed after July 1, 2001, “burglary” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Entering a dwelling, a structure, or a conveyance with the intent to commit an offense therein, unless the premises are at the time open to the public or the defendant is licensed or invited to enter; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding a licensed or invited entry, remaining in a dwelling, structure, or conveyance:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Surreptitiously, with the intent to commit an offense therein;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">After permission to remain therein has been withdrawn, with the intent to commit an offense therein; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">To commit or attempt to commit a forcible felony, as defined in s. 776.08.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Burglary is a felony of the first degree, punishable by imprisonment for a term of years not exceeding life imprisonment or as provided in s. 775.082, s. 775.083, or s. 775.084, if, in the course of committing the offense, the offender:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Makes an assault or battery upon any person; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is or becomes armed within the dwelling, structure, or conveyance, with explosives or a dangerous weapon; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Enters an occupied or unoccupied dwelling or structure, and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Uses a motor vehicle as an instrumentality, other than merely as a getaway vehicle, to assist in committing the offense, and thereby damages the dwelling or structure; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Causes damage to the dwelling or structure, or to property within the dwelling or structure in excess of $1,000.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Burglary is a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084, if, in the course of committing the offense, the offender does not make an assault or battery and is not and does not become armed with a dangerous weapon or explosive, and the offender enters or remains in a:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Dwelling, and there is another person in the dwelling at the time the offender enters or remains;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Dwelling, and there is not another person in the dwelling at the time the offender enters or remains;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Structure, and there is another person in the structure at the time the offender enters or remains;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Conveyance, and there is another person in the conveyance at the time the offender enters or remains;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Authorized emergency vehicle, as defined in s. 316.003; or</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Structure or conveyance when the offense intended to be committed therein is theft of a controlled substance as defined in s. 893.02. Notwithstanding any other law, separate judgments and sentences for burglary with the intent to commit theft of a controlled substance under this paragraph and for any applicable possession of controlled substance offense under s. 893.13 or trafficking in controlled substance offense under s. 893.135 may be imposed when all such offenses involve the same amount or amounts of a controlled substance.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, if the burglary is committed within a county that is subject to a state of emergency declared by the Governor under chapter 252 after the declaration of emergency is made and the perpetration of the burglary is facilitated by conditions arising from the emergency, the burglary is a felony of the first degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. As used in this subsection, the term “conditions arising from the emergency” means civil unrest, power outages, curfews, voluntary or mandatory evacuations, or a reduction in the presence of or response time for first responders or homeland security personnel. A person arrested for committing a burglary within a county that is subject to such a state of emergency may not be released until the person appears before a committing magistrate at a first appearance hearing. For purposes of sentencing under chapter 921, a felony offense that is reclassified under this subsection is ranked one level above the ranking under s. 921.0022 or s. 921.0023 of the offense committed.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Burglary is a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084, if, in the course of committing the offense, the offender does not make an assault or battery and is not and does not become armed with a dangerous weapon or explosive, and the offender enters or remains in a:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Structure, and there is not another person in the structure at the time the offender enters or remains; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Conveyance, and there is not another person in the conveyance at the time the offender enters or remains.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, if the burglary is committed within a county that is subject to a state of emergency declared by the Governor under chapter 252 after the declaration of emergency is made and the perpetration of the burglary is facilitated by conditions arising from the emergency, the burglary is a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. As used in this subsection, the term “conditions arising from the emergency” means civil unrest, power outages, curfews, voluntary or mandatory evacuations, or a reduction in the presence of or response time for first responders or homeland security personnel. A person arrested for committing a burglary within a county that is subject to such a state of emergency may not be released until the person appears before a committing magistrate at a first appearance hearing. For purposes of sentencing under chapter 921, a felony offense that is reclassified under this subsection is ranked one level above the ranking under s. 921.0022 or s. 921.0023 of the offense committed.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">RS 2434; s. 2, ch. 4405, 1895; s. 2, ch. 5411, 1905; GS 3282; RGS 5116; CGL 7217; s. 799, ch. 71-136; s. 31, ch. 74-383; s. 21, ch. 75-298; s. 2, ch. 82-87; s. 1, ch. 83-63; s. 8, ch. 95-184; s. 2, ch. 96-260; s. 2, ch. 2000-233; s. 2, ch. 2001-58; s. 2, ch. 2003-84; s. 1, ch. 2007-115; s. 21, ch. 2011-141.</History>
+</Section>

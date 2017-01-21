@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0507.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Required insurance coverages; liability limitations; valuation coverage.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LIABILITY INSURANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), each mover operating in this state must maintain current and valid liability insurance coverage of at least $10,000 per shipment for the loss or damage of household goods resulting from the negligence of the mover or its employees or agents.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The mover must provide the department with evidence of liability insurance coverage before the mover is registered with the department under s. 507.03. All insurance coverage maintained by a mover must remain in effect throughout the mover’s registration period. A mover’s failure to maintain insurance coverage in accordance with this paragraph constitutes an immediate threat to the public health, safety, and welfare. If a mover fails to maintain insurance coverage, the department may immediately suspend the mover’s registration or eligibility for registration, and the mover must immediately cease operating as a mover in this state. In addition, and notwithstanding the availability of any administrative relief pursuant to chapter 120, the department may seek from the appropriate circuit court an immediate injunction prohibiting the mover from operating in this state until the mover complies with this paragraph, a civil penalty not to exceed $5,000, and court costs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A mover that operates two or fewer vehicles, in lieu of maintaining the liability insurance coverage required under paragraph (a), may, and each moving broker must, maintain one of the following alternative coverages:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A performance bond in the amount of $25,000, for which the surety of the bond must be a surety company authorized to conduct business in this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A certificate of deposit in a Florida banking institution in the amount of $25,000.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The original bond or certificate of deposit must be filed with the department and must designate the department as the sole beneficiary. The department must use the bond or certificate of deposit exclusively for the payment of claims to consumers who are injured by the fraud, misrepresentation, breach of contract, misfeasance, malfeasance, or financial failure of the mover or moving broker or by a violation of this chapter by the mover or broker. Liability for these injuries may be determined in an administrative proceeding of the department or through a civil action in a court of competent jurisdiction. However, claims against the bond or certificate of deposit must only be paid, in amounts not to exceed the determined liability for these injuries, by order of the department in an administrative proceeding. The bond or certificate of deposit is subject to successive claims, but the aggregate amount of these claims may not exceed the amount of the bond or certificate of deposit.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">MOTOR VEHICLE INSURANCE.<EmDash />Each mover operating in this state must maintain current and valid motor vehicle insurance coverage, including combined bodily injury and property damage liability coverage in the following minimum amounts:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Fifty thousand dollars per occurrence for a commercial motor vehicle with a gross weight of less than 35,000 pounds.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">One hundred thousand dollars per occurrence for a commercial motor vehicle with a gross weight of 35,000 pounds or more, but less than 44,000 pounds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Three hundred thousand dollars per occurrence for a commercial motor vehicle with a gross weight of 44,000 pounds or more.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">INSURANCE COVERAGES.<EmDash />The insurance coverages required under paragraph (1)(a) and subsection (2) must be issued by an insurance company or carrier licensed to transact business in this state under the Florida Insurance Code as designated in s. 624.01. The department shall require a mover to present a certificate of insurance of the required coverages before issuance or renewal of a registration certificate under s. 507.03. The department shall be named as a certificateholder in the certificate and must be notified at least 10 days before cancellation of insurance coverage.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">LIABILITY LIMITATIONS; VALUATION RATES.<EmDash />A mover may not limit its liability for the loss or damage of household goods to a valuation rate that is less than 60 cents per pound per article. A provision of a contract for moving services is void if the provision limits a mover’s liability to a valuation rate that is less than the minimum rate under this subsection. If a mover limits its liability for a shipper’s goods, the mover must disclose the limitation, including the valuation rate, to the shipper in writing at the time that the estimate and contract for services are executed and before any moving or accessorial services are provided. The disclosure must also inform the shipper of the opportunity to purchase valuation coverage if the mover offers that coverage under subsection (5).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">VALUATION COVERAGE.<EmDash />A mover may offer valuation coverage to compensate a shipper for the loss or damage of the shipper’s household goods that are lost or damaged during a household move. If a mover offers valuation coverage, the coverage must indemnify the shipper for at least the minimum valuation rate required under subsection (4). The mover must disclose the terms of the coverage to the shipper in writing at the time that the estimate and contract for services are executed and before any moving or accessorial services are provided. The disclosure must inform the shipper of the cost of the valuation coverage, the valuation rate of the coverage, and the opportunity to reject the coverage. If valuation coverage compensates a shipper for at least the minimum valuation rate required under subsection (4), the coverage satisfies the mover’s liability for the minimum valuation rate.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2002-53; s. 13, ch. 2003-132; s. 6, ch. 2006-4; s. 25, ch. 2012-67.</History>
+</Section>

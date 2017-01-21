@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1001.47" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">District school superintendent; salary.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each elected district school superintendent shall receive as salary the amount indicated pursuant to this section. However, a district school board, by majority vote, may approve a salary in excess of the amount specified in this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each elected district school superintendent shall receive a base salary, the amounts indicated in this subsection, based on the population of the county the elected superintendent serves. In addition, compensation shall be made for population increments over the minimum for each population group, which shall be determined by multiplying the population in excess of the minimum for the group times the group rate. The product of such calculation shall be added to the base salary to determine the adjusted base salary. Laws that increase the base salary provided in this subsection shall contain provisions on no other subject.</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="20" />
+					<Column Width="20" />
+					<Column Width="20" />
+					<Column Width="20" />
+					<Column Width="20" />
+				</ColumnDefinitions>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">Pop. Group</Font></Text>
+						</Cell>
+						<Cell ColSpan="2" VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">County Pop. Range</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">Base Salary</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">Group Rate</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell></Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">Minimum</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="6.0">Maximum</Font></Text>
+						</Cell>
+						<Cell></Cell>
+						<Cell></Cell>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">I</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">-0-</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">49,999</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">$21,250</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">$0.07875</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">II</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">50,000</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">99,999</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">24,400</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">0.06300</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">III</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">100,000</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">199,999</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">27,550</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">0.02625</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">IV</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">200,000</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">399,999</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">30,175</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">0.01575</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">V</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">400,000</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">999,999</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">33,325</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">0.00525</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">VI</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">1,000,000</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve"></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">36,475</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Right">
+							<Text xml:space="preserve">0.00400</Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The adjusted base salaries of elected district school superintendents shall be increased annually as provided for in s. 145.19. Any salary previously paid to elected superintendents, including the salary calculated for fiscal years 2002-2003 and 2003-2004, which was consistent with chapter 145 and s. 230.303, Florida Statutes (2001), is hereby ratified and validated.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There shall be an additional $2,000 per year special qualification salary paid by district school boards for each elected district school superintendent who has met the certification requirements established by the Department of Education. Any elected district school superintendent who is certified during a calendar year shall receive in that year a pro rata share of the special qualification salary based on the remaining period of the year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In order to qualify for the special qualification salary provided by paragraph (a), the elected district school superintendent must complete the requirements established by the Department of Education within 6 years after first taking office.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">After an elected district school superintendent meets the requirements of paragraph (a), in order to remain certified the district school superintendent shall thereafter be required to complete each year a course of continuing education as prescribed by the Department of Education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Education shall provide a leadership development and performance compensation program for elected district school superintendents, comparable to chief executive officer development programs for corporate executive officers, to include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A content-knowledge-and-skills phase consisting of: creative leadership models and theory, demonstration of effective practice, simulation exercises and personal skills practice, and assessment with feedback, taught in a professional training setting under the direction of experienced, successful trainers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A competency-acquisition phase consisting of on-the-job application of knowledge and skills for a period of not less than 6 months following the successful completion of the content-knowledge-and-skills phase. The competency-acquisition phase shall be supported by adequate professional technical assistance provided by experienced trainers approved by the department. Competency acquisition shall be demonstrated through assessment and feedback.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon the successful completion of both phases and demonstrated successful performance, as determined by the department, an elected district school superintendent shall be issued a Chief Executive Officer Leadership Development Certificate, and the department shall pay an annual performance salary incentive of not less than $3,000 nor more than $7,500 based upon his or her performance evaluation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An elected district school superintendent’s eligibility to continue receiving the annual performance salary incentive is contingent upon his or her continued performance assessment and followup training prescribed by the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of this section and s. 145.19, elected district school superintendents may reduce their salary rate on a voluntary basis.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of this section and s. 145.19, for the 2009-2010 fiscal year the salary of each elected district school superintendent calculated pursuant to this section shall be reduced by 2 percent.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 67, ch. 2002-387; s. 28, ch. 2004-41; s. 1, ch. 2006-301; s. 8, ch. 2009-59.</History>
+</Section>

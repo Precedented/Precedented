@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="1006.30">
+	<Catchline xml:space="preserve">Affidavit of state instructional materials reviewers.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Before transacting any business, each state instructional materials reviewer shall make an affidavit, to be filed with the department, that:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The reviewer will faithfully discharge the duties imposed upon him or her.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The reviewer has no interest in any publishing or manufacturing organization that produces or sells instructional materials.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The reviewer is in no way connected with the distribution of the instructional materials.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The reviewer does not have any direct or indirect pecuniary interest in the business or profits of any person engaged in manufacturing, publishing, or selling instructional materials designed for use in the public schools.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The reviewer will not accept any emolument or promise of future reward of any kind from any publisher or manufacturer of instructional materials or his or her agent or anyone interested in, or intending to bias his or her judgment in any way in, the selection of any materials to be adopted.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The reviewer understands that it is unlawful to discuss matters relating to instructional materials submitted for adoption with any agent of a publisher or manufacturer of instructional materials, either directly or indirectly, except during the period when the publisher or manufacturer is providing a presentation for the reviewer during his or her review of the instructional materials submitted for adoption. </Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 305, ch. 2002-387; s. 22, ch. 2011-55.</History>
+</Section>

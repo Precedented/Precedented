@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0765.514" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Manner of making anatomical gifts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person may make an anatomical gift of all or part of his or her body under s. 765.512(1) by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Signing an organ and tissue donor card.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Registering online with the donor registry.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Signifying an intent to donate on his or her driver’s license or identification card issued by the department. Revocation, suspension, expiration, or cancellation of the driver’s license or identification card does not invalidate the gift.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Expressing a wish to donate in a living will or other advance directive.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Executing a will that includes a provision indicating that the testator wishes to make an anatomical gift. The gift becomes effective upon the death of the testator without waiting for probate. If the will is not probated or if it is declared invalid for testamentary purposes, the gift is nevertheless valid to the extent that it has been acted upon in good faith.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Expressing a wish to donate in a document other than a will. The document must be signed by the donor in the presence of two witnesses who shall sign the document in the donor’s presence. If the donor cannot sign, the document may be signed for him or her at the donor’s direction and in his or her presence and the presence of two witnesses who must sign the document in the donor’s presence. Delivery of the document of gift during the donor’s lifetime is not necessary to make the gift valid. The following form of written document is sufficient for any person to make an anatomical gift for the purposes of this part:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">UNIFORM DONOR CARD</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The undersigned hereby makes this anatomical gift, if medically acceptable, to take effect on death. The words and marks below indicate my desires:</Text>
+				<Text xml:space="preserve" Style="Flush">I give:</Text>
+				<Text xml:space="preserve" Style="Indent">(a) <HorizontalRule Type="Fixed" /> any needed organs, tissues, or eyes;</Text>
+				<Text xml:space="preserve" Style="Indent">(b) <HorizontalRule Type="Fixed" /> only the following organs, tissues, or eyes</Text>
+				<Text xml:space="preserve" Style="AlignCenter"><Directions xml:space="preserve">[Specify the organs, tissues, or eyes]</Directions></Text>
+				<Text xml:space="preserve" Style="Flush">for the purpose of transplantation, therapy, medical research, or education;</Text>
+				<Text xml:space="preserve" Style="Indent">(c) <HorizontalRule Type="Fixed" /> my body for anatomical study if needed. Limitations or special wishes, if any:</Text>
+				<Text xml:space="preserve" Style="AlignCenter"><Directions xml:space="preserve">(If applicable, list specific donee;<NewLine/>this must be arranged in advance with the donee.)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed by the donor and the following witnesses in the presence of each other:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Signature of donor)</Directions><FlushRight /><Directions xml:space="preserve">(Date of birth of donor)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush"><Directions xml:space="preserve">(Date signed)</Directions><FlushRight /><Directions xml:space="preserve">(City and State)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Witness)</Directions><FlushRight /><Directions xml:space="preserve">(Witness)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush"><Directions xml:space="preserve">(Address)</Directions><FlushRight /><Directions xml:space="preserve">(Address)</Directions></Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The anatomical gift may be made to a donee listed in s. 765.513, and the donee may be specified by name.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any anatomical gift by a health care surrogate designated by the decedent pursuant to part II of this chapter or a member of a class designated in s. 765.512(3) must be made by a document signed by that person or made by that person’s witnessed telephonic discussion, telegraphic message, or other recorded message.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-106; s. 45, ch. 75-220; s. 1, ch. 83-171; s. 2, ch. 94-305; s. 6, ch. 95-423; s. 976, ch. 97-102; s. 8, ch. 98-68; s. 13, ch. 99-331; s. 64, ch. 2001-226; s. 3, ch. 2008-223; s. 4, ch. 2009-218.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Created from former s. 736.25; s. 732.914.</Text>
+	</Note>
+</Section>

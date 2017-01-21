@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.66" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Specialized instructional services for children with disabilities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Beginning with the 2012-2013 school year, a child who has a disability and enrolls with the early learning coalition under s. 1002.53(3)(d) is eligible for specialized instructional services if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The child is eligible for the Voluntary Prekindergarten Education Program under s. 1002.53; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A current individual educational plan has been developed for the child by the local school board in accordance with rules of the State Board of Education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The parent of a child who is eligible for the prekindergarten program for children with disabilities may select one or more specialized instructional services that are consistent with the child’s individual educational plan. These specialized instructional services may include, but are not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Applied behavior analysis as defined in ss. 627.6686 and 641.31098.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Speech-language pathology as defined in s. 468.1125.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Occupational therapy as defined in s. 468.203.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Physical therapy as defined is s. 486.021.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Listening and spoken language specialists and an appropriate acoustical environment for a child who is deaf or hard of hearing who has received an implant or assistive hearing device.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The specialized instructional services provided for a child under this section must be delivered according to professionally accepted standards; must be in accordance with the performance standards adopted by the department under s. 1002.67; and must address the age-appropriate progress of the child in the development of the capabilities, capacities, and skills required under s. 1(b), Art. IX of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall approve specialized instructional service providers whose services meet the standards in subsection (3), maintain a list of approved providers, and notify each school district and early learning coalition of the approved provider list. Upon the request of a child’s parent, the department may approve a specialized instructional service provider that is not on the approved list if the provider’s services meet the standards in subsection (3) and the service is consistent with the child’s individual educational plan.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The coalition shall reimburse an approved specialized instructional service provider for authorized services provided to an eligible child; however, the cumulative total of services reimbursed for a child may not exceed the amount of the base student allocation provided in the Voluntary Prekindergarten Education Program in the General Appropriations Act. Providers shall be reimbursed from funds allocated to the early learning coalition for the Voluntary Prekindergarten Education Program.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2010-227; s. 10, ch. 2011-175.</History>
+</Section>

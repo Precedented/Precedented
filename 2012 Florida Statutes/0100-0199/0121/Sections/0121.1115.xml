@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0121.1115" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Purchase of retirement credit for out-of-state or federal service.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Effective January 1, 1995, a member may purchase creditable service for periods of public employment in another state and receive creditable service for such periods of employment. Service with the Federal Government, including any active military service, may be claimed. Upon completion of each year of service earned under the Florida Retirement System, a member may purchase up to 1 year of retirement credit for his or her out-of-state service, subject to the following provisions:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LIMITATIONS AND CONDITIONS.<EmDash />To receive credit for the out-of-state service:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The out-of-state service must have been:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Performed in a position of employment with the state or a political subdivision thereof or with the Federal Government;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Covered by a retirement or pension plan provided by the state or political subdivision, or by the Federal Government, as appropriate; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Performed prior to a period of membership in the Florida Retirement System.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">The member must have completed the years of creditable service required for vesting under the Florida Retirement System, excluding out-of-state service and in-state service claimed and purchased under s. 121.1122.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Not more than 5 years of creditable service may be claimed for creditable service aggregated under this section and s. 121.1122.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The out-of-state service credit shall be credited only as service in the Regular Class, and any benefit or pension based thereon is subject to the limitations and restrictions of s. 112.65.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The member is not eligible for and may not receive a pension or benefit from a retirement or pension plan based on or including the out-of-state service. Eligibility for or the receipt of contributions to a retirement plan made by the employer on behalf of the employee is considered a benefit.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To receive service credit for out-of-state service performed after leaving the Florida Retirement System, the member must complete at least 1 year of creditable service in the Florida Retirement System following the out-of-state service.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">COST.<EmDash />For each year claimed, the member must pay into the Florida Retirement System Trust Fund an amount equal to 20 percent of the member’s annual compensation for the first full work year of creditable service earned under the Florida Retirement System, but not less than $12,000, plus interest at 6.5 percent compounded annually from the date of first annual salary earned until full payment is made. The employer may pay all or a portion of the cost of this service credit.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 94-259; s. 9, ch. 96-368; s. 11, ch. 97-180; s. 10, ch. 2000-169; ss. 40, 41, ch. 2003-399; s. 10, ch. 2009-209; s. 18, ch. 2011-68.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

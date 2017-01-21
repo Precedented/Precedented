@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0672.310" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Open time for payment or running of credit; authority to ship under reservation.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Unless otherwise agreed:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Payment is due at the time and place at which the buyer is to receive the goods even though the place of shipment is the place of delivery; and</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the seller is authorized to send the goods she or he may ship them under reservation, and may tender the documents of title, but the buyer may inspect the goods after their arrival before payment is due unless such inspection is inconsistent with the terms of the contract (s. 672.513); and</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If delivery is authorized and made by way of documents of title otherwise than by subsection (2) then payment is due regardless of where the goods are to be received at the time and place at which the buyer is to receive delivery of the tangible documents or at the time the buyer is to receive delivery of the electronic documents and at the seller’s place of business or, if none, the seller’s residence; and</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Where the seller is required or authorized to ship the goods on credit the credit period runs from the time of shipment but postdating the invoice or delaying its dispatch will correspondingly delay the starting of the credit period.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 562, ch. 97-102; s. 7, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 2-310, U.C.C.</Text>
+	</Note>
+</Section>

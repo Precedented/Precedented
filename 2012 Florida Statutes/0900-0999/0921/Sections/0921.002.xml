@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0921.002" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">The Criminal Punishment Code.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Criminal Punishment Code shall apply to all felony offenses, except capital felonies, committed on or after October 1, 1998.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The provision of criminal penalties and of limitations upon the application of such penalties is a matter of predominantly substantive law and, as such, is a matter properly addressed by the Legislature. The Legislature, in the exercise of its authority and responsibility to establish sentencing criteria, to provide for the imposition of criminal penalties, and to make the best use of state prisons so that violent criminal offenders are appropriately incarcerated, has determined that it is in the best interest of the state to develop, implement, and revise a sentencing policy. The Criminal Punishment Code embodies the principles that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Sentencing is neutral with respect to race, gender, and social and economic status.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The primary purpose of sentencing is to punish the offender. Rehabilitation is a desired goal of the criminal justice system but is subordinate to the goal of punishment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The penalty imposed is commensurate with the severity of the primary offense and the circumstances surrounding the primary offense.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The severity of the sentence increases with the length and nature of the offender’s prior record.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The sentence imposed by the sentencing judge reflects the length of actual time to be served, shortened only by the application of incentive and meritorious gain-time as provided by law, and may not be shortened if the defendant would consequently serve less than 85 percent of his or her term of imprisonment as provided in s. 944.275(4)(b)3. The provisions of chapter 947, relating to parole, shall not apply to persons sentenced under the Criminal Punishment Code.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Departures below the lowest permissible sentence established by the code must be articulated in writing by the trial court judge and made only when circumstances or factors reasonably justify the mitigation of the sentence. The level of proof necessary to establish facts that support a departure from the lowest permissible sentence is a preponderance of the evidence.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The trial court judge may impose a sentence up to and including the statutory maximum for any offense, including an offense that is before the court due to a violation of probation or community control.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A sentence may be appealed on the basis that it departs from the Criminal Punishment Code only if the sentence is below the lowest permissible sentence or as enumerated in s. 924.06(1).</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Use of incarcerative sanctions is prioritized toward offenders convicted of serious offenses and certain offenders who have long prior records, in order to maximize the finite capacities of state and local correctional facilities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When a defendant is before the court for sentencing for more than one felony and the felonies were committed under more than one version or revision of the former sentencing guidelines or the code, each felony shall be sentenced under the guidelines or the code in effect at the time the particular felony was committed. This subsection does not apply to sentencing for any capital felony.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A court may impose a departure below the lowest permissible sentence based upon circumstances or factors that reasonably justify the mitigation of the sentence in accordance with s. 921.0026. The level of proof necessary to establish facts supporting the mitigation of a sentence is a preponderance of the evidence. When multiple reasons exist to support the mitigation, the mitigation shall be upheld when at least one circumstance or factor justifies the mitigation regardless of the presence of other circumstances or factors found not to justify mitigation. Any sentence imposed below the lowest permissible sentence must be explained in writing by the trial court judge.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Corrections shall report on trends in sentencing practices and sentencing score thresholds and provide an analysis on the sentencing factors considered by the courts and shall submit this information to the Legislature by October 1 of each year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Criminal Justice Estimating Conference, with the assistance of the Department of Corrections, shall estimate the impact of any proposed change to the Criminal Punishment Code on future rates of incarceration and on the prison population. The Criminal Justice Estimating Conference shall base its projections on historical data concerning sentencing practices which have been accumulated by the Department of Corrections and other relevant data from other state agencies and records of the Department of Corrections which disclose the average time served for offenses covered by any proposed changes to the Criminal Punishment Code.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In order to produce projects that are either required by law or requested by the Legislature to assist the Legislature in making modifications to the Criminal Punishment Code, the Department of Corrections is authorized to collect and evaluate Criminal Punishment Code scoresheets from each of the judicial circuits after sentencing. Beginning in 1999, by October 1 of each year, the Department of Corrections shall provide an annual report to the Legislature that shows the rate of compliance of each judicial circuit in providing scoresheets to the department.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 97-194; s. 2, ch. 98-204; s. 124, ch. 2010-5.</History>
+</Section>

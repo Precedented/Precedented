@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0112.044" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public employers, employment agencies, labor organizations; discrimination based on age prohibited; exceptions; remedy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE INTENT; PURPOSE.<EmDash />The Legislature finds and declares that in the face of rising productivity and affluence, older workers find themselves disadvantaged, both in their efforts to retain employment and in their efforts to regain employment when displaced from jobs. The setting of arbitrary age limits, irrespective of capability for job performance, has become a common practice, and certain otherwise desirable practices may work to the disadvantage of older persons. In comparison to the incidence of unemployment among younger workers, the incidence of unemployment, especially long-term unemployment with resultant deterioration of skill, morale, and employer acceptability, is high among older workers, whose numbers are great and growing and whose employment problems are grave. In industries affecting commerce, the existence of arbitrary discrimination in employment because of age burdens commerce and the free flow of goods. It is the purpose of this act to promote employment of older persons based on ability rather than age and to prohibit arbitrary age discrimination in employment.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />For the purpose of this act:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employer” means the state or any county, municipality, or special district or any subdivision or agency thereof. This definition shall not apply to any law enforcement agency or firefighting agency in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Employment agency” means any person, including any agent thereof, regularly undertaking, with or without compensation, to procure employees for an employer, including state and local employment services receiving federal assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Employee” means an individual employed by any employer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PROHIBITED ACTIVITIES; EXCEPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (f), it is unlawful for an employer to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Fail or refuse to hire, discharge or mandatorily retire, or otherwise discriminate against any individual with respect to the compensation, terms, conditions, or privileges of employment because of age.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Limit, segregate, or classify employees in any way which would deprive, or tend to deprive, any individual of employment opportunities, or otherwise adversely affect an individual’s status as an employee, because of age.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Reduce the wage rate of any employee or otherwise alter the terms or conditions of employment in order to comply with this act, unless such a reduction is with the employee’s express or implied consent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (f), it is unlawful for an employment agency to fail or refuse to refer for employment, or otherwise to discriminate against, any individual because of age or to classify or refer for employment any individual on the basis of age.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (f), it is unlawful for a labor organization to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Exclude or expel from its membership, or otherwise discriminate against, any individual because of age.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Limit, segregate, or classify its membership, or fail or refuse to refer for employment any individual, in any way which would limit, deprive, or tend to deprive the individual of employment opportunities or which would otherwise adversely affect the individual’s status as an employee or as an applicant for employment solely because of age.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Cause or attempt to cause an employer to discriminate against an individual in violation of this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">It is unlawful:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For an employer to discriminate against any employee or applicant for employment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For an employment agency to discriminate against any individual; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For a labor organization to discriminate against any member or applicant for membership,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">because such employee, applicant for employment, individual, member, or applicant for membership has opposed any practice made unlawful by this section or because the employee, applicant for employment, individual, member, or applicant for membership has made a charge, testified, assisted, or participated in any manner in an investigation, a proceeding, or litigation under this act.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (f), it is unlawful for an employer, labor organization, or employment agency to print or publish, or cause to be printed or published, any notice or advertisement relating to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Employment by such employer;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Membership in such labor organization or any classification or referral for employment by such labor organization; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any classification or referral for employment by such employment agency,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">which notice or advertisement indicates any preference, limitation, specification, or discrimination based on age.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">It is not unlawful for an employer, employment agency, or labor organization to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Take any action otherwise prohibited under paragraph (a), paragraph (b), paragraph (c), or paragraph (e), based on a bona fide occupational qualification reasonably necessary to the normal operation of the particular business.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Observe the terms of a bona fide seniority system or any bona fide employee benefit plan, such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Discharge or otherwise discipline an individual for good cause.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">APPEAL; CIVIL SUIT AUTHORIZED.<EmDash />Any employee of the state who is within the Career Service System established by chapter 110 and who is aggrieved by a violation of this act may appeal to the Public Employees Relations Commission under the conditions and following the procedures prescribed in part II of chapter 447. Any person other than an employee who is within the Career Service System established by chapter 110, or any person employed by the Public Employees Relations Commission, who is aggrieved by a violation of this act may bring a civil action in any court of competent jurisdiction for such legal or equitable relief as will effectuate the purposes of this act.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">NOTICE TO BE POSTED.<EmDash />Each employer, employment agency, and labor organization shall post and keep posted in conspicuous places upon its premises notices required by the United States Department of Labor and the Equal Employment Opportunity Commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 6, 7, 8, 10, 11, ch. 76-208; s. 1, ch. 77-174; s. 7, ch. 79-7; s. 31, ch. 79-190; s. 4, ch. 81-169; s. 75, ch. 86-163; s. 679, ch. 95-147; s. 5, ch. 2011-213.</History>
+</Section>

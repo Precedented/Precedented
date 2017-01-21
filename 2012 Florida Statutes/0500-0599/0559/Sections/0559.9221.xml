@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0559.9221" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Motor Vehicle Repair Advisory Council.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Motor Vehicle Repair Advisory Council is created to advise and assist the department in carrying out this part.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The membership of the council may not exceed 11 members appointed by the Commissioner of Agriculture.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Eight industry members of the council must be chosen from individuals already engaged in the motor vehicle repair business who are eligible to be registered under this part. The professional members of this council must be licensed under this part. The commissioner shall select one industry member from each of the following categories:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Independent automotive mechanics shops.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Franchise or company-owned automotive mechanics shops.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Independent automotive collision shops.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Franchise or company-owned automotive collision shops.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Independent tire dealer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Franchise or company-owned tire dealer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Independent motor vehicle dealer licensed under s. 320.27.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Franchise motor vehicle dealer licensed under s. 320.27.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">One member of the council may be chosen from persons already engaged in motor vehicle repair service.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Two consumer members of the council must be residents of this state and must not be connected with the motor vehicle repair business.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">As terms of the members expire, the commissioner shall appoint successors for terms of 4 years. Members shall serve from the time of their appointment until their successors are appointed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The council shall annually elect from its members a chair and a vice chair.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The council shall meet at the call of its chair, at the request of a majority of its membership, or at the request of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In conducting its meetings, the council shall use accepted rules of procedure. The department shall keep a complete record of each meeting, which must show the names of members present and the actions taken. These records and other documents about matters within the jurisdiction of the council must be kept on file with the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The members of the council shall receive no compensation for their services.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall be responsible for providing administrative and staff support services relating to the functions of the council.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The council shall review the rules relating to the Florida Motor Vehicle Repair Act which are adopted by the department and shall advise the department on matters relating to educational grants, advancements in industry standards and practices, and other issues that require technical expertise and consultation or that promote better consumer protection in the motor vehicle repair industry.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 93-219; s. 830, ch. 97-103; s. 30, ch. 97-250; s. 19, ch. 2001-214; s. 31, ch. 2011-206.</History>
+</Section>

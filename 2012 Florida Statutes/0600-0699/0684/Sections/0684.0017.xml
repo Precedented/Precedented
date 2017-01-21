@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0017" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Competence of arbitral tribunal to rule on its jurisdiction.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement. For that purpose, an arbitration clause that forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is not valid does not entail ipso jure the invalidity of the arbitration clause.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A plea that the arbitral tribunal does not have jurisdiction must be raised not later than the submission of the statement of defense. A party is not precluded from raising such a plea by the fact that the party appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority must be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The arbitral tribunal may rule on a plea referenced in subsection (2) as a preliminary question or in an award on the merits. If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within 30 days after receiving notice of that ruling, that the court specified in s. 684.0008 decide the matter. The decision of the court is not appealable. While such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 2010-60.</History>
+</Section>

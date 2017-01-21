@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0556.102" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this act:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Business days” means Monday through Friday, excluding the following holidays: New Year’s Day, Birthday of Dr. Martin Luther King, Jr., Memorial Day, Independence Day, Labor Day, Thanksgiving Day and the following Friday, Christmas Eve, and Christmas Day. Any such holiday that falls on a Saturday shall be observed on the preceding Friday. Any such holiday that falls on a Sunday shall be observed on the following Monday.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Business hours” means the hours of a day during which the system is open for business.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Damage” means any impact upon or contact with, including, without limitation, penetrating, striking, scraping, displacing, or denting, however slight, the protective coating, housing, or other protective devices of any underground facility, or the removal or weakening of any lateral or vertical support from any underground facility, or the severance, partial or complete, of any underground facility.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Demolish” or “demolition” means any operation by which a structure or mass of material is wrecked, razed, rended, moved, or removed by means of any tool, equipment, or discharge of explosives, or any disturbance of the earth in any manner on public or private lands which could damage any underground facility.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Design services” means services that may be provided by a member operator to a design engineer, architect, surveyor, or planner, if the presence of underground facilities is known to a member operator, upon payment of a fee to the member operator, which services may be based on:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Information obtained solely from a review of utility records.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Information to augment utility records, such as topographic surveying of above-ground utility features.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Information obtained through the use of designating technologies to obtain horizontal underground facility locations.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Information obtained from physically exposing underground facilities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Excavate” or “excavation” means any manmade cut, cavity, trench, or depression in the earth’s surface, formed by removal of earth, intended to change the grade or level of land, or intended to penetrate or disturb the surface of the earth, including land beneath the waters of the state, as defined in s. 373.019(22), and the term includes pipe bursting and directional drilling or boring from one point to another point beneath the surface of the earth, or other trenchless technologies.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Excavator” or “excavating contractor” means any person performing excavation or demolition operations.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Member operator” means any person who furnishes or transports materials or services by means of an underground facility.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Person” means any individual, firm, joint venture, partnership, corporation, association, municipality, or other political subdivision, governmental unit, department, or agency, and includes any trustee, receiver, assignee, or personal representative of a person.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Positive response” means the communications among member operators, excavators, and the system concerning the status of locating an underground facility.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Premark” means to delineate the general scope of the excavation on the surface of the ground using white paint, white stakes, or other similar white markings.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Tolerance zone” means 24 inches from the outer edge of either side of the exterior surface of a marked underground facility.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Underground facility” means any public or private personal property which is buried, placed below ground, or submerged on any member operator’s right-of-way, easement, or permitted use which is being used or will be used in connection with the storage or conveyance of water; sewage; electronic, telephonic, or telegraphic communication; electric energy; oil; petroleum products; natural gas; optical signals; or other substances, and includes, but is not limited to, pipelines, pipes, sewers, conduits, cables, valves, and lines. For purposes of this act, a liquefied petroleum gas line regulated under chapter 527 is not an underground facility unless such line is subject to the requirements of Title 49 C.F.R. adopted by the Department of Agriculture and Consumer Services, provided there is no encroachment on any member operator’s right-of-way, easement, or permitted use. Petroleum storage systems subject to regulation pursuant to chapter 376 are not considered underground facilities for the purposes of this act unless the storage system is located on a member operator’s right-of-way or easement. Storm drainage systems are not considered underground facilities.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“System” means a free-access notification system established by the corporation as provided in this act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 93-240; s. 2, ch. 94-132; s. 5, ch. 95-317; s. 2, ch. 97-306; s. 2, ch. 2002-234; s. 67, ch. 2006-1; s. 2, ch. 2006-138; s. 7, ch. 2012-150.</History>
+</Section>

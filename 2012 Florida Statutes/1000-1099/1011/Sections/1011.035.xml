@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.035" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School district budget transparency.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is important for school districts to provide budgetary transparency to enable taxpayers, parents, and education advocates to obtain school district budget and related information in a manner that is simply explained and easily understandable. Budgetary transparency leads to more responsible spending, more citizen involvement, and improved accountability. A budget that is not transparent, accessible, and accurate cannot be properly analyzed, its implementation thoroughly monitored, or its outcomes evaluated.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each district school board shall post on its website a plain language version of each proposed, tentative, and official budget which describes each budget item in terms that are easily understandable to the public. This information must be prominently posted on the school district’s website in a manner that is readily accessible to the public.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each district school board is encouraged to post the following information on its website:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Timely information as to when a budget hearing will be conducted.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each contract between the district school board and the teachers’ union.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each contract between the district school board and noninstructional staff.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each contract exceeding $35,000 between the school board and a vendor of services, supplies, or programs or for the purchase or lease of lands, facilities, or properties.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Each contract exceeding $35,000 that is an emergency procurement or is with a single source as authorized under s. 287.057(3).</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Recommendations of the citizens’ budget advisory committee.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Current and archived video recordings of each district school board meeting and workshop.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The website should contain links to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Help explain or provide background information on various budget items that are required by state or federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Allow users to navigate to related sites to view supporting details.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Enable taxpayers, parents, and education advocates to send e-mails asking questions about the budget and enable others to view the questions and responses.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 32, ch. 2011-175.</History>
+</Section>

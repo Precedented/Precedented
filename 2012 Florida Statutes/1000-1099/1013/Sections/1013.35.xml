@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1013.35" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School district educational facilities plan; definitions; preparation, adoption, and amendment; long-term work programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Adopted educational facilities plan” means the comprehensive planning document that is adopted annually by the district school board as provided in subsection (2) and that contains the educational plant survey.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“District facilities work program” means the 5-year listing of capital outlay projects adopted by the district school board as provided in subparagraph (2)(a)2. and paragraph (2)(b) as part of the district educational facilities plan, which is required in order to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Properly maintain the educational plant and ancillary facilities of the district.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Provide an adequate number of satisfactory student stations for the projected student enrollment of the district in K-12 programs in accordance with the goal in s. 1013.21.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Tentative educational facilities plan” means the comprehensive planning document prepared annually by the district school board and submitted to the Office of Educational Facilities and the affected general-purpose local governments.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PREPARATION OF TENTATIVE DISTRICT EDUCATIONAL FACILITIES PLAN.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Annually, prior to the adoption of the district school budget, each district school board shall prepare a tentative district educational facilities plan that includes long-range planning for facilities needs over 5-year, 10-year, and 20-year periods. The plan must be developed in coordination with the general-purpose local governments and be consistent with the local government comprehensive plans. The school board’s plan for provision of new schools must meet the needs of all growing communities in the district, ranging from small rural communities to large urban cities. The plan must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Projected student populations apportioned geographically at the local level. The projections must be based on information produced by the demographic, revenue, and education estimating conferences pursuant to s. 216.136, where available, as modified by the district based on development data and agreement with the local governments and the Office of Educational Facilities. The projections must be apportioned geographically with assistance from the local governments using local development trend data and the school district student enrollment data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An inventory of existing school facilities. Any anticipated expansions or closures of existing school sites over the 5-year, 10-year, and 20-year periods must be identified. The inventory must include an assessment of areas proximate to existing schools and identification of the need for improvements to infrastructure, safety, including safe access routes, and conditions in the community. The plan must also provide a listing of major repairs and renovation projects anticipated over the period of the plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Projections of facilities space needs, which may not exceed the norm space and occupant design criteria established in the State Requirements for Educational Facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Information on leased, loaned, and donated space and relocatables used for conducting the district’s instructional programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The general location of public schools proposed to be constructed over the 5-year, 10-year, and 20-year time periods, including a listing of the proposed schools’ site acreage needs and anticipated capacity and maps showing the general locations. The school board’s identification of general locations of future school sites must be based on the school siting requirements of s. 163.3177(6)(a) and policies in the comprehensive plan which provide guidance for appropriate locations for school sites.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The identification of options deemed reasonable and approved by the school board which reduce the need for additional permanent student stations. Such options may include, but need not be limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Acceptable capacity;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Redistricting;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Busing;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Year-round schools;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Charter schools;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Magnet schools; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Public-private partnerships.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The criteria and method, jointly determined by the local government and the school board, for determining the impact of proposed development to public school capacity.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The plan must also include a financially feasible district facilities work program for a 5-year period. The work program must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A schedule of major repair and renovation projects necessary to maintain the educational facilities and ancillary facilities of the district.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A schedule of capital outlay projects necessary to ensure the availability of satisfactory student stations for the projected student enrollment in K-12 programs. This schedule shall consider:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The locations, capacities, and planned utilization rates of current educational facilities of the district. The capacity of existing satisfactory facilities, as reported in the Florida Inventory of School Houses must be compared to the capital outlay full-time-equivalent student enrollment as determined by the department, including all enrollment used in the calculation of the distribution formula in s. 1013.64.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The proposed locations of planned facilities, whether those locations are consistent with the comprehensive plans of all affected local governments, and recommendations for infrastructure and other improvements to land adjacent to existing facilities. The provisions of ss. 1013.33(6), (7), and (8) and 1013.36 must be addressed for new facilities planned within the first 3 years of the work plan, as appropriate.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Plans for the use and location of relocatable facilities, leased facilities, and charter school facilities.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Plans for multitrack scheduling, grade level organization, block scheduling, or other alternatives that reduce the need for additional permanent student stations.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Information concerning average class size and utilization rate by grade level within the district which will result if the tentative district facilities work program is fully implemented.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The number and percentage of district students planned to be educated in relocatable facilities during each year of the tentative district facilities work program. For determining future needs, student capacity may not be assigned to any relocatable classroom that is scheduled for elimination or replacement with a permanent educational facility in the current year of the adopted district educational facilities plan and in the district facilities work program adopted under this section. Those relocatable classrooms clearly identified and scheduled for replacement in a school-board-adopted, financially feasible, 5-year district facilities work program shall be counted at zero capacity at the time the work program is adopted and approved by the school board. However, if the district facilities work program is changed and the relocatable classrooms are not replaced as scheduled in the work program, the classrooms must be reentered into the system and be counted at actual capacity. Relocatable classrooms may not be perpetually added to the work program or continually extended for purposes of circumventing this section. All relocatable classrooms not identified and scheduled for replacement, including those owned, lease-purchased, or leased by the school district, must be counted at actual student capacity. The district educational facilities plan must identify the number of relocatable student stations scheduled for replacement during the 5-year survey period and the total dollar amount needed for that replacement.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Plans for the closure of any school, including plans for disposition of the facility or usage of facility space, and anticipated revenues.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Projects for which capital outlay and debt service funds accruing under s. 9(d), Art. XII of the State Constitution are to be used shall be identified separately in priority order on a project priority list within the district facilities work program.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The projected cost for each project identified in the district facilities work program. For proposed projects for new student stations, a schedule shall be prepared comparing the planned cost and square footage for each new student station, by elementary, middle, and high school levels, to the low, average, and high cost of facilities constructed throughout the state during the most recent fiscal year for which data is available from the Department of Education.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A schedule of estimated capital outlay revenues from each currently approved source which is estimated to be available for expenditure on the projects included in the district facilities work program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A schedule indicating which projects included in the district facilities work program will be funded from current revenues projected in subparagraph 4.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A schedule of options for the generation of additional revenues by the district for expenditure on projects identified in the district facilities work program which are not funded under subparagraph 5. Additional anticipated revenues may include effort index grants, SIT Program awards, and Classrooms First funds.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To the extent available, the tentative district educational facilities plan shall be based on information produced by the demographic, revenue, and education estimating conferences pursuant to s. 216.136.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provision shall be made for public comment concerning the tentative district educational facilities plan.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The district school board shall coordinate with each affected local government to ensure consistency between the tentative district educational facilities plan and the local government comprehensive plans of the affected local governments during the development of the tentative district educational facilities plan.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Not less than once every 5 years, the district school board shall have a financial management and performance audit conducted of the educational planning and construction activities of the district. An audit conducted by the Office of Program Policy Analysis and Government Accountability and the Auditor General pursuant to s. 1008.35 satisfies this requirement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">SUBMITTAL OF TENTATIVE DISTRICT EDUCATIONAL FACILITIES PLAN TO LOCAL GOVERNMENT.<EmDash />The district school board shall submit a copy of its tentative district educational facilities plan to all affected local governments prior to adoption by the board. The affected local governments shall review the tentative district educational facilities plan and comment to the district school board on the consistency of the plan with the local comprehensive plan, whether a comprehensive plan amendment will be necessary for any proposed educational facility, and whether the local government supports a necessary comprehensive plan amendment. If the local government does not support a comprehensive plan amendment for a proposed educational facility, the matter shall be resolved pursuant to the interlocal agreement when required by ss. 163.3177(6)(h), 163.31777, and 1013.33(2). The process for the submittal and review shall be detailed in the interlocal agreement when required pursuant to ss. 163.3177(6)(h), 163.31777, and 1013.33(2).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADOPTED DISTRICT EDUCATIONAL FACILITIES PLAN.<EmDash />Annually, the district school board shall consider and adopt the tentative district educational facilities plan completed pursuant to subsection (2). Upon giving proper notice to the public and local governments and opportunity for public comment, the district school board may amend the plan to revise the priority of projects, to add or delete projects, to reflect the impact of change orders, or to reflect the approval of new revenue sources which may become available. The adopted district educational facilities plan shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be a complete, balanced, and financially feasible capital outlay financial plan for the district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Set forth the proposed commitments and planned expenditures of the district to address the educational facilities needs of its students and to adequately provide for the maintenance of the educational plant and ancillary facilities, including safe access ways from neighborhoods to schools.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">EXECUTION OF ADOPTED DISTRICT EDUCATIONAL FACILITIES PLAN.<EmDash />The first year of the adopted district educational facilities plan shall constitute the capital outlay budget required in s. 1013.61. The adopted district educational facilities plan shall include the information required in subparagraphs (2)(b)1., 2., and 3., based upon projects actually funded in the plan.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2002-296; s. 830, ch. 2002-387; s. 130, ch. 2003-1; s. 16, ch. 2010-70; s. 71, ch. 2011-139; s. 20, ch. 2012-99; s. 19, ch. 2012-133.</History>
+</Section>

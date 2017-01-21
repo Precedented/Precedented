@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0766.1065" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Authorization for release of protected health information.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Presuit notice of intent to initiate litigation for medical negligence under s. 766.106(2) must be accompanied by an authorization for release of protected health information in the form specified by this section, authorizing the disclosure of protected health information that is potentially relevant to the claim of personal injury or wrongful death. The presuit notice is void if this authorization does not accompany the presuit notice and other materials required by s. 766.106(2).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the authorization required by this section is revoked, the presuit notice under s. 766.106(2) is deemed retroactively void from the date of issuance, and any tolling effect that the presuit notice may have had on any applicable statute-of-limitations period is retroactively rendered void.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The authorization required by this section shall be in the following form and shall be construed in accordance with the “Standards for Privacy of Individually Identifiable Health Information” in 45 C.F.R. parts 160 and 164:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true" SpaceBelow="true">AUTHORIZATION FOR RELEASE OF<NewLine />PROTECTED HEALTH INFORMATION</Text>
+			<Text xml:space="preserve" Style="BlockIndent">A. I, (...Name of patient or authorized representative...) [hereinafter “Patient”], authorize that (...Name of health care provider to whom the presuit notice is directed...) and his/her/its insurer(s), self-insurer(s), and attorney(s) may obtain and disclose (within the parameters set out below) the protected health information described below for the following specific purposes:</Text>
+			<Text xml:space="preserve" Style="BlockIndent">1. Facilitating the investigation and evaluation of the medical negligence claim described in the accompanying presuit notice; or</Text>
+			<Text xml:space="preserve" Style="BlockIndent">2. Defending against any litigation arising out of the medical negligence claim made on the basis of the accompanying presuit notice.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">B. The health information obtained, used, or disclosed extends to, and includes, the verbal as well as the written and is described as follows:</Text>
+			<Text xml:space="preserve" Style="BlockIndent">1. The health information in the custody of the following health care providers who have examined, evaluated, or treated the Patient in connection with injuries complained of after the alleged act of negligence: (List the name and current address of all health care providers). This authorization extends to any additional health care providers that may in the future evaluate, examine, or treat the Patient for the injuries complained of.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">2. The health information in the custody of the following health care providers who have examined, evaluated, or treated the Patient during a period commencing 2 years before the incident that is the basis of the accompanying presuit notice.</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">(List the name and current address of such health care providers, if applicable.)</Text>
+			<Text xml:space="preserve" Style="BlockIndent">C. This authorization does not apply to the following list of health care providers possessing health care information about the Patient because the Patient certifies that such health care information is not potentially relevant to the claim of personal injury or wrongful death that is the basis of the accompanying presuit notice.</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">(List the name of each health care provider to whom this authorization does not apply and the inclusive dates of examination, evaluation, or treatment to be withheld from disclosure. If none, specify “none.”)</Text>
+			<Text xml:space="preserve" Style="BlockIndent">D. The persons or class of persons to whom the Patient authorizes such health information to be disclosed or by whom such health information is to be used:</Text>
+			<Text xml:space="preserve" Style="BlockIndent">1. Any health care provider providing care or treatment for the Patient.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">2. Any liability insurer or self-insurer providing liability insurance coverage, self-insurance, or defense to any health care provider to whom presuit notice is given regarding the care and treatment of the Patient.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">3. Any consulting or testifying expert employed by or on behalf of (name of health care provider to whom presuit notice was given) and his/her/its insurer(s), self-insurer(s), or attorney(s) regarding  the matter of the presuit notice accompanying this authorization.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">4. Any attorney (including secretarial, clerical, or paralegal staff) employed by or on behalf of (name of health care provider to whom presuit notice was given) regarding the matter of the presuit notice accompanying this authorization.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">5. Any trier of the law or facts relating to any suit filed seeking damages arising out of the medical care or treatment of the Patient.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">E. This authorization expires upon resolution of the claim or at the conclusion of any litigation instituted in connection with the matter of the presuit notice accompanying this authorization, whichever occurs first.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">F. The Patient understands that, without exception, the Patient has the right to revoke this authorization in writing. The Patient further understands that the consequence of any such revocation is that the presuit notice under s. 766.106(2), Florida Statutes, is deemed retroactively void from the date of issuance, and any tolling effect that the presuit notice may have had on any applicable statute-of-limitations period is retroactively rendered void.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">G. The Patient understands that signing this authorization is not a condition for continued treatment, payment, enrollment, or eligibility for health plan benefits.</Text>
+			<Text xml:space="preserve" Style="BlockIndent">H. The Patient understands that information used or disclosed under this authorization may be subject to additional disclosure by the recipient and may not be protected by federal HIPAA privacy regulations.</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">Signature of Patient/Representative: <HorizontalRule Type="Fixed"></HorizontalRule></Text>
+			<Text xml:space="preserve" Style="BlockFlush">Date: <HorizontalRule Type="Fixed"></HorizontalRule></Text>
+			<Text xml:space="preserve" Style="BlockFlush">Name of Patient/Representative: <HorizontalRule Type="Fixed"></HorizontalRule></Text>
+			<Text xml:space="preserve" Style="BlockFlush">Description of Representative’s Authority: <HorizontalRule Type="Fixed"></HorizontalRule></Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 2011-233; s. 83, ch. 2012-5.</History>
+</Section>

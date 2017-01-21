@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.183" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Access to company records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The commission shall have access to all records of a telecommunications company which are reasonably necessary for the disposition of matters within the commission’s jurisdiction. The commission may require a telecommunications company to file records, reports or other data directly related to matters within the commission’s jurisdiction in the form specified by the commission and may require such company to retain such information for a designated period of time. Upon request of the company or other person, any records received by the commission which are claimed by the company or other person to be proprietary confidential business information shall be kept confidential and shall be exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Discovery in any docket or proceeding before the commission shall be in the manner provided for in Rule 1.280 of the Florida Rules of Civil Procedure. Upon a showing by a company or other person and a finding by the commission that discovery will require the disclosure of proprietary confidential business information, the commission shall issue an appropriate protective order designating the manner for handling such information during the course of the proceeding and for protecting such information from disclosure outside the proceeding. Such proprietary confidential business information shall be exempt from s. 119.07(1). Any records provided pursuant to a discovery request for which proprietary confidential business information status is requested shall be treated by the commission and the Office of the Public Counsel and any other party subject to the public records law as confidential and shall be exempt from s. 119.07(1), pending a formal ruling on such request by the commission or the return of the records to the person providing the records. Any record which has been determined to be proprietary confidential business information and is not entered into the official record of the proceeding shall be returned to the person providing the record within 60 days after the final order, unless the final order is appealed. If the final order is appealed, any such record shall be returned within 30 days after the decision on appeal. The commission shall adopt the necessary rules to implement this subsection.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The term “proprietary confidential business information” means information, regardless of form or characteristics, which is owned or controlled by the person or company, is intended to be and is treated by the person or company as private in that the disclosure of the information would cause harm to the ratepayers or the person’s or company’s business operations, and has not been disclosed unless disclosed pursuant to a statutory provision, an order of a court or administrative body, or private agreement that provides that the information will not be released to the public. The term includes, but is not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Trade secrets.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Internal auditing controls and reports of internal auditors.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Security measures, systems, or procedures.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Information concerning bids or other contractual data, the disclosure of which would impair the efforts of the company or its affiliates to contract for goods or services on favorable terms.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Information relating to competitive interests, the disclosure of which would impair the competitive business of the provider of information.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Employee personnel information unrelated to compensation, duties, qualifications, or responsibilities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any finding by the commission that a record contains proprietary confidential business information is effective for a period set by the commission not to exceed 18 months, unless the commission finds, for good cause, that the protection from disclosure shall be for a specified longer period. The commission shall order the return of a record containing proprietary confidential business information when such record is no longer necessary for the commission to conduct its business. At that time, the commission shall order any other person holding such record to return it to the person providing the record. Any record containing proprietary confidential business information which has not been returned at the conclusion of the period set pursuant to this subsection shall no longer be exempt from s. 119.07(1) unless the telecommunications company or affected person shows, and the commission finds, that the record continues to contain proprietary confidential business information. Upon such finding, the commission may extend the period for confidential treatment for a period not to exceed 18 months unless the commission finds, for good cause, that the protection from disclosure shall be for a specified longer period. During commission consideration of an extension, the record in question remains exempt from s. 119.07(1). The commission shall adopt rules to implement this subsection, which shall include notice to the telecommunications company or affected person regarding the expiration of confidential treatment.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 5, ch. 82-51; ss. 6, 7, ch. 89-163; ss. 23, 48, 49, ch. 90-244; s. 4, ch. 91-429; s. 18, ch. 95-403; s. 167, ch. 96-406; s. 26, ch. 2011-36.</History>
+</Section>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0379.372" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Capturing, keeping, possessing, transporting, or exhibiting venomous reptiles, reptiles of concern, conditional reptiles, or prohibited reptiles; license required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No person, party, firm, association, or corporation shall capture, keep, possess, or exhibit any poisonous or venomous reptile or reptile of concern without first having obtained a special permit or license therefor from the Fish and Wildlife Conservation Commission as provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By December 31, 2007, the commission shall establish a list of reptiles of concern, including venomous, nonvenomous, native, nonnative, or other reptiles, which require additional regulation for capture, possession, transportation, or exhibition due to their nature, habits, status, or potential to negatively impact humans, the environment, or ecology.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">It shall be unlawful for any person, party, firm, association, or corporation, whether licensed hereunder or not, to capture, keep, possess, or exhibit any venomous reptile or reptile of concern in any manner not approved as safe, secure, and proper by the commission. Venomous reptiles or reptiles of concern held in captivity are subject to inspection by the commission. The commission shall determine whether the reptiles are securely, safely, and properly penned. In the event that the reptiles are not safely penned, the commission shall report the situation in writing to the person, party, firm, association, or corporation owning the reptiles. Failure of the person, party, firm, association, or corporation to correct the situation within 30 days after such written notice shall be grounds for revocation of the license or permit of the person, party, firm, association, or corporation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Venomous reptiles or reptiles of concern shall be transported in a safe, secure, and proper manner. The commission shall establish by rule the requirements for the transportation of venomous reptiles or reptiles of concern.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No person, party, firm, association, or corporation shall keep, possess, import into the state, sell, barter, trade, or breed the following species for personal use or for sale for personal use:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Burmese or Indian python (<Font xml:space="preserve" Style="Italic">Python molurus</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Reticulated python (<Font xml:space="preserve" Style="Italic">Python reticulatus</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Northern African python (<Font xml:space="preserve" Style="Italic">Python sebae</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Southern African python (<Font xml:space="preserve" Style="Italic">Python natalensis</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Amethystine or scrub python (<Font xml:space="preserve" Style="Italic">Morelia amethystinus</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Green Anaconda (<Font xml:space="preserve" Style="Italic">Eunectes murinus</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Nile monitor (<Font xml:space="preserve" Style="Italic">Varanus niloticus</Font>).</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Any other reptile designated as a conditional or prohibited species by the commission.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a person, party, firm, association, or corporation holds a permit issued before July 1, 2010, under subsection (1) to legally possess a species listed in paragraph (a), that person, party, firm, association, or corporation may possess such reptile for the remainder of the life of the reptile.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a person, party, firm, association, or corporation holds a permit issued before July 1, 2010, under subsection (1) to legally possess a reptile listed in paragraph (a), and the reptile remains alive following the death or dissolution of the licensee, the reptile may be legally transferred to another entity holding a permit authorizing possession of the reptile for the remainder of the life of the reptile.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the commission designates a species of reptile as a conditional or prohibited species after July 1, 2010, the commission may authorize the personal possession of that newly designated species by those licensed to possess that species of reptile before the effective date of the species’ designation by the commission as a conditional or prohibited species. The personal possession of such reptile is not a violation of paragraph (a) if the personal possession was authorized by the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">This subsection does not apply to traveling wildlife exhibitors that are licensed or registered under the United States Animal Welfare Act or to zoological facilities that are licensed or exempted by the commission from the licensure requirement.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 28263, 1953; s. 165, ch. 99-245; s. 1, ch. 2007-239; s. 159, ch. 2008-247; s. 2, ch. 2010-185.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 372.86.</Text>
+	</Note>
+</Section>

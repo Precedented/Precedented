@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.12" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Civil citation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is established a juvenile civil citation process for the purpose of providing an efficient and innovative alternative to custody by the Department of Juvenile Justice for children who commit nonserious delinquent acts and to ensure swift and appropriate consequences. The department shall encourage and assist in the implementation and improvement of civil citation programs or other similar diversion programs around the state. The civil citation or similar diversion program shall be established at the local level with the concurrence of the chief judge of the circuit, state attorney, public defender, and the head of each local law enforcement agency involved. The program may be operated by an entity such as a law enforcement agency, the department, a juvenile assessment center, the county or municipality, or some other entity selected by the county or municipality. An entity operating the civil citation or similar diversion program must do so in consultation and agreement with the state attorney and local law enforcement agencies. Under such a juvenile civil citation or similar diversion program, any law enforcement officer, upon making contact with a juvenile who admits having committed a misdemeanor, may issue a civil citation and assess not more than 50 community service hours, and require participation in intervention services as indicated by an assessment of the needs of the juvenile, including family counseling, urinalysis monitoring, and substance abuse and mental health treatment services. A copy of each citation issued under this section shall be provided to the department, and the department shall enter appropriate information into the juvenile offender information system. Only first-time misdemeanor offenders are eligible for the civil citation or similar diversion program. At the conclusion of a juvenile’s civil citation or similar diversion program, the agency operating the program shall report the outcome to the department. The issuance of a civil citation is not considered a referral to the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall develop guidelines for the civil citation program which include intervention services that are based upon proven civil citation or similar diversion programs within the state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon issuing such citation, the law enforcement officer shall send a copy to the county sheriff, state attorney, the appropriate intake office of the department, or the community service performance monitor designated by the department, the parent or guardian of the child, and the victim.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The child shall report to the community service performance monitor within 7 working days after the date of issuance of the citation. The work assignment shall be accomplished at a rate of not less than 5 hours per week. The monitor shall advise the intake office immediately upon reporting by the child to the monitor, that the child has in fact reported and the expected date upon which completion of the work assignment will be accomplished.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the child fails to report timely for a work assignment, complete a work assignment, or comply with assigned intervention services within the prescribed time, or if the juvenile commits a subsequent misdemeanor, the law enforcement officer shall issue a report alleging the child has committed a delinquent act, at which point a juvenile probation officer shall process the original delinquent act as a referral to the department and refer the report to the state attorney for review.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">At the time of issuance of the citation by the law enforcement officer, such officer shall advise the child that the child has the option to refuse the citation and to be referred to the intake office of the department. That option may be exercised at any time before completion of the work assignment.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 90-208; s. 1, ch. 92-20; s. 23, ch. 94-209; s. 45, ch. 97-238; s. 19, ch. 98-207; s. 19, ch. 2006-120; s. 1, ch. 2011-124.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.0255; s. 985.301.</Text>
+	</Note>
+</Section>

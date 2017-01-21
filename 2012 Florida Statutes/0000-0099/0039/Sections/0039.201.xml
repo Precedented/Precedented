@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.201" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mandatory reports of child abuse, abandonment, or neglect; mandatory reports of death; central abuse hotline.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who knows, or has reasonable cause to suspect, that a child is abused, abandoned, or neglected by a parent, legal custodian, caregiver, or other person responsible for the child’s welfare, as defined in this chapter, or that a child is in need of supervision and care and has no parent, legal custodian, or responsible adult relative immediately known and available to provide supervision and care shall report such knowledge or suspicion to the department in the manner prescribed in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who knows, or who has reasonable cause to suspect, that a child is abused by an adult other than a parent, legal custodian, caregiver, or other person responsible for the child’s welfare, as defined in this chapter, shall report such knowledge or suspicion to the department in the manner prescribed in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person who knows, or has reasonable cause to suspect, that a child is the victim of childhood sexual abuse or the victim of a known or suspected juvenile sexual offender, as defined in this chapter, shall report such knowledge or suspicion to the department in the manner prescribed in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Reporters in the following occupation categories are required to provide their names to the hotline staff:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Physician, osteopathic physician, medical examiner, chiropractic physician, nurse, or hospital personnel engaged in the admission, examination, care, or treatment of persons;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Health or mental health professional other than one listed in subparagraph 1.;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Practitioner who relies solely on spiritual means for healing;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">School teacher or other school official or personnel;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Social worker, day care center worker, or other professional child care, foster care, residential, or institutional worker;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Law enforcement officer; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Judge.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The names of reporters shall be entered into the record of the report, but shall be held confidential and exempt as provided in s. 39.202.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A professional who is hired by or enters into a contract with the department for the purpose of treating or counseling any person, as a result of a report of child abuse, abandonment, or neglect, is not required to again report to the central abuse hotline the abuse, abandonment, or neglect that was the subject of the referral for treatment.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An officer or employee of the judicial branch is not required to again provide notice of reasonable cause to suspect child abuse, abandonment, or neglect when that child is currently being investigated by the department, there is an existing dependency case, or the matter has previously been reported to the department, provided there is reasonable cause to believe the information is already known to the department. This paragraph applies only when the information has been provided to the officer or employee in the course of carrying out his or her official duties.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Nothing in this chapter or in the contracting with community-based care providers for foster care and related services as specified in s. 409.1671 shall be construed to remove or reduce the duty and responsibility of any person, including any employee of the community-based care provider, to report a suspected or actual case of child abuse, abandonment, or neglect or the sexual abuse of a child to the department’s central abuse hotline.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each report of known or suspected child abuse, abandonment, or neglect by a parent, legal custodian, caregiver, or other person responsible for the child’s welfare as defined in this chapter, except those solely under s. 827.04(3), and each report that a child is in need of supervision and care and has no parent, legal custodian, or responsible adult relative immediately known and available to provide supervision and care shall be made immediately to the department’s central abuse hotline. Such reports may be made on the single statewide toll-free telephone number or via fax, web-based chat, or web-based report. Personnel at the department’s central abuse hotline shall determine if the report received meets the statutory definition of child abuse, abandonment, or neglect. Any report meeting one of these definitions shall be accepted for the protective investigation pursuant to part III of this chapter. Any call received from a parent or legal custodian seeking assistance for himself or herself which does not meet the criteria for being a report of child abuse, abandonment, or neglect may be accepted by the hotline for response to ameliorate a potential future risk of harm to a child. If it is determined by a child welfare professional that a need for community services exists, the department shall refer the parent or legal custodian for appropriate voluntary community services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each report of known or suspected child abuse by an adult other than a parent, legal custodian, caregiver, or other person responsible for the child’s welfare, as defined in this chapter, shall be made immediately to the department’s central abuse hotline. Such reports may be made on the single statewide toll-free telephone number or via fax, web-based chat, or web-based report. Such reports or calls shall be immediately electronically transferred to the appropriate county sheriff’s office by the central abuse hotline.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Reports involving a known or suspected juvenile sexual offender or a child who has exhibited inappropriate sexual behavior shall be made and received by the department.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The department shall determine the age of the alleged offender, if known.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the alleged offender is 12 years of age or younger, the central abuse hotline shall immediately electronically transfer the report or call to the county sheriff’s office. The department shall conduct an assessment and assist the family in receiving appropriate services pursuant to s. 39.307, and send a written report of the allegation to the appropriate county sheriff’s office within 48 hours after the initial report is made to the central abuse hotline.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the alleged offender is 13 years of age or older, the central abuse hotline shall immediately electronically transfer the report or call to the appropriate county sheriff’s office and send a written report to the appropriate county sheriff’s office within 48 hours after the initial report to the central abuse hotline.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the report is of an instance of known or suspected child abuse, abandonment, or neglect that occurred out of state and the alleged perpetrator and the child alleged to be a victim live out of state, the central abuse hotline shall not accept the report or call for investigation, but shall transfer the information on the report to the appropriate state.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the report is of an instance of known or suspected child abuse involving impregnation of a child under 16 years of age by a person 21 years of age or older solely under s. 827.04(3), the report shall be made immediately to the appropriate county sheriff’s office or other appropriate law enforcement agency. If the report is of an instance of known or suspected child abuse solely under s. 827.04(3), the reporting provisions of this subsection do not apply to health care professionals or other persons who provide medical or counseling services to pregnant children when such reporting would interfere with the provision of medical services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Reports involving known or suspected institutional child abuse or neglect shall be made and received in the same manner as all other reports made pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Reports involving surrendered newborn infants as described in s. 383.50 shall be made and received by the department.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the report is of a surrendered newborn infant as described in s. 383.50 and there is no indication of abuse, neglect, or abandonment other than that necessarily entailed in the infant having been left at a hospital, emergency medical services station, or fire station, the department shall provide to the caller the name of a licensed child-placing agency on a rotating basis from a list of licensed child-placing agencies eligible and required to accept physical custody of and to place newborn infants left at a hospital, emergency medical services station, or fire station. The report shall not be considered a report of abuse, neglect, or abandonment solely because the infant has been left at a hospital, emergency medical services station, or fire station pursuant to s. 383.50.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the call, fax, web-based chat, or web-based report includes indications of abuse or neglect beyond that necessarily entailed in the infant having been left at a hospital, emergency medical services station, or fire station, the report shall be considered as a report of abuse, neglect, or abandonment and shall be subject to the requirements of s. 39.395 and all other relevant provisions of this chapter, notwithstanding any provisions of chapter 383.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Hotline counselors shall receive periodic training in encouraging reporters to provide their names when reporting abuse, abandonment, or neglect. Callers shall be advised of the confidentiality provisions of s. 39.202. The department shall secure and install electronic equipment that automatically provides to the hotline the number from which the call or fax is placed or the Internet protocol (IP) address from which the report is received. This number shall be entered into the report of abuse, abandonment, or neglect and become a part of the record of the report, but shall enjoy the same confidentiality as provided to the identity of the reporter pursuant to s. 39.202.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The department shall voice-record all incoming or outgoing calls that are received or placed by the central abuse hotline which relate to suspected or known child abuse, neglect, or abandonment. The department shall maintain an electronic copy of each fax and web-based report. The recording or electronic copy of each fax and web-based report shall become a part of the record of the report but, notwithstanding s. 39.202, shall be released in full only to law enforcement agencies and state attorneys for the purpose of investigating and prosecuting criminal charges pursuant to s. 39.205, or to employees of the department for the purpose of investigating and seeking administrative penalties pursuant to s. 39.206. Nothing in this paragraph shall prohibit the use of the recordings, the electronic copies of faxes, and web-based reports by hotline staff for quality assurance and training.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The department shall update the web form used for reporting child abuse, abandonment, or neglect to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Include qualifying questions in order to obtain necessary information required to assess need and a response.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Indicate which fields are required to submit the report.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Allow a reporter to save his or her report and return to it <Reference Number="1"/>at a later time.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The report shall be made available to the counselors in its entirety as needed to update the Florida Safe Families Network or other similar systems.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The department shall conduct a study to determine the feasibility of using text and short message service formats to receive and process reports of child abuse, abandonment, or neglect to the central abuse hotline.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person required to report or investigate cases of suspected child abuse, abandonment, or neglect who has reasonable cause to suspect that a child died as a result of child abuse, abandonment, or neglect shall report his or her suspicion to the appropriate medical examiner. The medical examiner shall accept the report for investigation and shall report his or her findings, in writing, to the local law enforcement agency, the appropriate state attorney, and the department. Autopsy reports maintained by the medical examiner are not subject to the confidentiality requirements provided for in s. 39.202.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall operate and maintain a central abuse hotline to receive all reports made pursuant to this section in writing, via fax, via web-based reporting, via web-based chat, or through a single statewide toll-free telephone number, which any person may use to report known or suspected child abuse, abandonment, or neglect at any hour of the day or night, any day of the week. The department shall promote public awareness of the central abuse hotline through community-based partner organizations and public service campaigns. The central abuse hotline is the first step in the safety assessment and investigation process. The central abuse hotline shall be operated in such a manner as to enable the department to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Immediately identify and locate prior reports or cases of child abuse, abandonment, or neglect through utilization of the department’s automated tracking system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Monitor and evaluate the effectiveness of the department’s program for reporting and investigating suspected abuse, abandonment, or neglect of children through the development and analysis of statistical and other information.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Track critical steps in the investigative process to ensure compliance with all requirements for any report of abuse, abandonment, or neglect.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintain and produce aggregate statistical reports monitoring patterns of child abuse, child abandonment, and child neglect. The department shall collect and analyze child-on-child sexual abuse reports and include the information in aggregate statistical reports. The department shall collect and analyze, in separate statistical reports, those reports of child abuse and sexual abuse which are reported from or occurred on the campus of any Florida College System institution, state university, or nonpublic college, university, or school, as defined in s. 1000.21 or s. 1005.02.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Serve as a resource for the evaluation, management, and planning of preventive and remedial services for children who have been subject to abuse, abandonment, or neglect.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Initiate and enter into agreements with other states for the purpose of gathering and sharing information contained in reports on child maltreatment to further enhance programs for the protection of children.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall be capable of receiving and investigating, 24 hours a day, 7 days a week, reports of known or suspected child abuse, abandonment, or neglect and reports that a child is in need of supervision and care and has no parent, legal custodian, or responsible adult relative immediately known and available to provide supervision and care. If it appears that the immediate safety or well-being of a child is endangered, that the family may flee or the child will be unavailable for purposes of conducting a child protective investigation, or that the facts otherwise so warrant, the department shall commence an investigation immediately, regardless of the time of day or night. In all other child abuse, abandonment, or neglect cases, a child protective investigation shall be commenced within 24 hours after receipt of the report. In an institutional investigation, the alleged perpetrator may be represented by an attorney, at his or her own expense, or accompanied by another person, if the person or the attorney executes an affidavit of understanding with the department and agrees to comply with the confidentiality provisions of s. 39.202. The absence of an attorney or other person does not prevent the department from proceeding with other aspects of the investigation, including interviews with other persons. In institutional child abuse cases when the institution is not operating and the child cannot otherwise be located, the investigation shall commence immediately upon the resumption of operation. If requested by a state attorney or local law enforcement agency, the department shall furnish all investigative reports to that agency.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Information in the central abuse hotline may not be used for employment screening, except as provided in s. 39.202(2)(a) and (h). Information in the central abuse hotline and the department’s automated abuse information system may be used by the department, its authorized agents or contract providers, the Department of Health, or county agencies as part of the licensure or registration process pursuant to ss. 402.301-402.319 and ss. 409.175-409.176.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">On an ongoing basis, the department’s quality assurance program shall review calls, fax reports, and web-based reports to the hotline involving three or more unaccepted reports on a single child, where jurisdiction applies, in order to detect such things as harassment and situations that warrant an investigation because of the frequency or variety of the source of the reports. A component of the quality assurance program shall analyze unaccepted reports to the hotline by identified relatives as a part of the review of screened out calls. The Program Director for Family Safety may refer a case for investigation when it is determined, as a result of this review, that an investigation may be warranted.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, 4, 5, 6, ch. 63-24; s. 941, ch. 71-136; ss. 1, 1A, ch. 71-97; s. 32, ch. 73-334; s. 65, ch. 74-383; s. 1, ch. 75-101; s. 1, ch. 75-185; s. 4, ch. 76-237; s. 1, ch. 77-77; s. 3, ch. 77-429; ss. 1, 2, ch. 78-322; s. 3, ch. 78-326; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 181, ch. 79-164; s. 1, ch. 79-203; s. 7, ch. 84-226; s. 37, ch. 85-54; s. 68, ch. 86-163; s. 34, ch. 87-238; s. 21, ch. 88-337; s. 33, ch. 89-294; s. 6, ch. 90-50; s. 51, ch. 90-306; s. 7, ch. 91-57; s. 17, ch. 91-71; s. 6, ch. 93-25; s. 59, ch. 94-164; ss. 22, 44, ch. 95-228; s. 9, ch. 95-266; s. 51, ch. 95-267; s. 133, ch. 95-418; s. 1, ch. 96-215; s. 14, ch. 96-268; s. 14, ch. 96-402; s. 271, ch. 96-406; s. 1041, ch. 97-103; s. 43, ch. 97-264; s. 257, ch. 98-166; s. 31, ch. 98-403; s. 4, ch. 99-168; s. 10, ch. 99-193; s. 41, ch. 2000-139; s. 3, ch. 2000-188; s. 1, ch. 2000-217; s. 1, ch. 2001-53; s. 1, ch. 2003-127; s. 7, ch. 2006-86; s. 2, ch. 2008-90; s. 5, ch. 2008-245; s. 3, ch. 2009-43; s. 1, ch. 2012-155; s. 4, ch. 2012-178.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “at” was inserted by the editors.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former ss. 828.041, 827.07(3), (4), (9), (13); s. 415.504.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0960.199" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Relocation assistance for victims of sexual battery.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may award a one-time payment of up to $1,500 on any one claim and a lifetime maximum of $3,000 to a victim of sexual battery as defined in s. 794.011 who needs relocation assistance.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In order for an award to be granted to a victim for relocation assistance:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There must be proof that a sexual battery offense was committed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The sexual battery offense must be reported to the proper authorities.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The victim’s need for assistance must be certified by a certified rape crisis center in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The center certification must assert that the victim is cooperating with law enforcement officials, if applicable, and must include documentation that the victim has developed a safety plan.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The act of sexual battery must be committed in the victim’s place of residence or in a location that would lead the victim to reasonably fear for his or her continued safety in the place of residence.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Relocation payments for a sexual battery claim shall be denied if the department has previously approved or paid out a domestic violence relocation claim under s. 960.198 to the same victim regarding the same incident.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2012-155.</History>
+</Section>

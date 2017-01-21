@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0011.242" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Powers, duties, and functions as to statutory revision.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The powers, duties, and functions of the Office of Legislative Services in the operation and maintenance of a statutory revision program shall be as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To conduct a systematic and continuing study of the statutes and laws of this state for the purpose of reducing their number and bulk, removing inconsistencies, redundancies, and unnecessary repetitions and otherwise improving their clarity and facilitating their correct and proper interpretation; and for the same purpose, to prepare and submit to the Legislature reviser’s bills and bills for the amendment, consolidation, revision, repeal, or other alterations or changes in any general statute or laws or parts thereof of a general nature and application of the preceding session or sessions which may appear to be subject to revision. Any revision, either complete, partial, or topical, prepared for submission to the Legislature shall be accompanied by revision and history notes relating to the same, showing the changes made therein and the reason for such recommended change.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">To carry on the arrangements and identification of the general statutes and laws of the state, as adopted in the Florida Statutes, and the contents of the same, by adding thereto, in the future and in proper place, all new matter belonging therein; this new material to be compiled, revised, and republished periodically in continuation of the present systems, matters, tables, and other material as contained in the Florida Statutes.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Reviser’s bills shall not deal with nor carry forward into the Florida Statutes any statute of any of the following classes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Statutes relating to, for, or concerning only one or more counties or parts thereof, except in cases where the subject matter of the statute relates to the creation or jurisdiction of state or county courts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Statutes relating to, for, or concerning and operative in only a portion of the state, except in cases where the subject matter of the statute relates to the creation or jurisdiction of state or county courts.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Statutes relating to, for, or concerning only a certain municipal corporation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Statutes relating to, for or concerning only one or more designated individuals or corporations.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Statutes incorporating a designated individual corporation or making a grant thereto.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Road designation laws.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The published edition of the Florida Statutes shall contain the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Florida Statutes, as adopted and enacted, together with the laws of a general nature enacted at any current session of the Legislature and directed to be embodied in said edition.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Florida Constitution.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Complete indexes of all the material in the statutes.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Such other matters, notes, data, and other material as may be deemed necessary or admissible by the Office of Legislative Services for reference, convenience, or interpretation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In carrying on the work of statutory revision and in preparing the Florida Statutes for publication:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All amendments made to any section or chapter, or any part thereof, of the Florida Statutes or session laws of this state by any current session of the Legislature, whenever such amendments in express terms refer to sections or chapters of said statutes or session laws, shall be incorporated with the body of the text of the Florida Statutes.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All sections, chapters, or titles of the Florida Statutes or session laws of this state which are expressly repealed by any current session of the Legislature shall be omitted.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All laws of a general and permanent nature which are of general application throughout the state enacted by any current session of the Legislature shall be compiled and included, assigning thereto in all appropriate places such chapter and section identification, by the decimal system of numbering heretofore embodied in the Florida Statutes, as is appropriate and proper, but all chapters and sections so compiled shall be indicated with a history note, clearly showing that said section or chapter was not a part of the revision at the time of its adoption and giving the proper legislative session law chapter and section number. The matter included under the authority of this subsection shall be incorporated as enacted in any current session and shall be prima facie evidence of such law in all courts of the state.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any two or more sections, chapters, or laws, or parts thereof, may be consolidated.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any section, chapter, or law, or part thereof, may be transferred from one location to another.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The form or arrangement of any section, chapter, or law, or part thereof, may be altered or changed by transferring, combining, or dividing the same.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Subsections, sections, chapters, and titles may be renumbered and reference thereto may be changed to agree with such renumbering.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Grammatical, typographical, and like errors may be corrected and additions, alterations, and omissions, not affecting the construction or meaning of the statutes or laws, may be freely made.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">All statutes and laws, or parts thereof, which have expired, become obsolete, been held invalid by a court of last resort, have had their effect or have served their purpose, or which have been repealed or superseded, either expressly or by implication, shall be omitted through the process of reviser’s bills duly enacted by the Legislature.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">All statutes and laws, or parts thereof, which grant duplicative, redundant, or unused rulemaking authority, shall be omitted through the process of reviser’s bills duly enacted by the Legislature. Rulemaking authority shall be deemed unused if the provision has been in effect for more than 5 years and no rule has been promulgated in reliance thereon.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">All statutes and laws general in form but of such local or limited application as to make their inclusion in the Florida Statutes or any revision or supplement thereof impracticable, undesirable, or unnecessary shall be omitted therefrom, without effecting a repeal thereof.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">All things relating to form, position, order, or arrangement of the revision, not inconsistent with the Florida Statutes system, which may be found desirable or necessary for the improvement, betterment, or perfection of same, may be done.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">To award contracts from time to time for editorial work in the preparation of copy and other necessary material, and for printing; and to pay for such other things as are authorized to be done and performed as part of a statutory revision program under the laws of this state.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">To exchange Florida Statutes, and other available publications, with the officers, boards, and agencies of other states and of the United States, and with other governments.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">To exercise all other powers, duties, and functions necessary or convenient for properly carrying out the provisions of this law and all other laws relating to statutory revision.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 67-472; s. 14, ch. 68-35; ss. 23, 29, 30, ch. 69-52; s. 1, ch. 70-169; s. 1, ch. 70-439; s. 2, ch. 71-355; s. 7, ch. 72-178; s. 4, ch. 81-259; s. 27, ch. 90-335; s. 14, ch. 98-136; s. 2, ch. 99-2; s. 3, ch. 2012-51; s. 9, ch. 2012-116.</History>
+</Section>

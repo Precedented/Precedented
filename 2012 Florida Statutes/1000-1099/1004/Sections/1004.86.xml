@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.86" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Center for Mathematics and Science Education Research.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall contract with a competitively selected public or private university to create and operate the Florida Center for Mathematics and Science Education Research. The purpose of the center is increasing student achievement in mathematics and science, with an emphasis on K-12 education. The center shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide technical assistance and support to school districts and schools in the development and implementation of mathematics and science instruction.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Conduct applied research on policy and practices related to mathematics and science instruction and assessment in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Conduct or compile basic research regarding student acquisition of mathematics and science knowledge and skills.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Develop comprehensive course frameworks for mathematics and science courses that emphasize rigor and relevance at the elementary, middle, and high school levels. Student achievement data should be used to aid in the development of course frameworks for low-performing schools, special needs students, females, and minorities.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Disseminate information regarding research-based teaching practices in mathematics and science to teachers and teacher educators in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Collect, manage, and report on assessment information regarding student achievement in mathematics and science. The report shall include student achievement by ethnic group.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Establish partnerships with public and private universities, Florida College System institutions, school districts, and other appropriate entities to further increase student achievement in mathematics and science.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Develop a comprehensive plan, with input from school districts, to increase the number and percentage of females and minority students enrolling in and successfully completing mathematics and science courses.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall monitor the center through the Division of K-12 Public Schools.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 59, ch. 2006-60; s. 65, ch. 2011-5.</History>
+</Section>

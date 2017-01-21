@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0320.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Expiration of registration; renewal required; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The registration of a motor vehicle or mobile home expires at midnight on the last day of the registration or extended registration period, or for a motor vehicle or mobile home owner who is a natural person, at midnight on the owner’s birthday. A vehicle may not be operated on the roads of this state after expiration of the renewal period, or, for a natural person, at midnight on the owner’s birthday, unless the registration has been renewed according to law.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Registration shall be renewed semiannually, annually, or biennially, as provided in this subsection, during the applicable renewal period, upon payment of the applicable license tax amounts required by s. 320.08, service charges required by s. 320.04, and any additional fees required by law.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who owns a motor vehicle registered under s. 320.08(4), (6)(b), or (13) may register semiannually as provided in s. 320.0705.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who owns a motor vehicle or mobile home registered under s. 320.08(1), (2), (3), (4)(a) or (b), (6), (7), (8), (9), (10), or (11) may renew the vehicle registration biennially during the applicable renewal period upon payment of the 2-year cumulative total of all applicable license tax amounts required by s. 320.08 and service charges or surcharges required by ss. 320.03, 320.04, 320.0801, 320.08015, 320.0802, 320.0804, 320.0805, 320.08046, and 320.08056 and payment of the 2-year cumulative total of any additional fees required by law for an annual registration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The operation of any motor vehicle without having attached thereto a registration license plate and validation stickers, or the use of any mobile home without having attached thereto a mobile home sticker, for the current registration period shall subject the owner thereof, if he or she is present, or, if the owner is not present, the operator thereof to the following penalty provisions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person whose motor vehicle or mobile home registration has been expired for a period of 6 months or less commits a noncriminal traffic infraction, punishable as a nonmoving violation as provided in chapter 318.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person whose motor vehicle or mobile home registration has been expired for more than 6 months, upon a first offense, is subject to the penalty provided in s. 318.14.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person whose motor vehicle or mobile home registration has been expired for more than 6 months, upon a second or subsequent offense, commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">However, an operator shall not be charged with a violation of this subsection if the operator can show, pursuant to a valid lease agreement, that the vehicle had been leased for a period of 30 days or less at the time of the offense.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any servicemember, as defined in s. 250.01, whose mobile home registration expired while he or she was serving on active duty or state active duty shall not be charged with a violation of this subsection if, at the time of the offense, the servicemember was serving on active duty or state active duty 35 miles or more from the mobile home. The servicemember must present to the department either a copy of the official military orders or a written verification signed by the servicemember’s commanding officer to receive a waiver of charges.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The owner of a leased motor vehicle is not responsible for any penalty specified in this subsection if the motor vehicle is registered in the name of the lessee of the motor vehicle.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to a penalty provided in subsection (3), a delinquent fee based on the following schedule of license taxes shall be imposed on any applicant who fails to renew a registration prior to the end of the month in which renewal registration is due. The delinquent fee shall be applied beginning on the 11th calendar day of the month succeeding the renewal period. The delinquent fee does not apply to those vehicles that have not been required to be registered during the preceding registration period or as provided in s. 320.18(2). The delinquent fee shall be imposed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">License tax of $5 but not more than $25: $5 flat.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">License tax over $25 but not more than $50: $10 flat.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">License tax over $50 but not more than $100: $15 flat.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">License tax over $100 but not more than $400: $50 flat.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">License tax over $400 but not more than $600: $100 flat.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">License tax over $600 and up: $250 flat.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person who has been assessed a penalty pursuant to s. 316.545(2)(b) for failure to have a valid vehicle registration certificate is not subject to the delinquent fee authorized by this subsection if such person obtains a valid registration certificate within 10 working days after such penalty was assessed. The official receipt authorized by <Reference Number="1" />s. 316.545(6) constitutes proof of payment of the penalty authorized in s. 316.545(2)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The owner of a leased motor vehicle is not responsible for any delinquent fee specified in this subsection if the motor vehicle is registered in the name of the lessee of the motor vehicle.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any servicemember, as defined in s. 250.01, whose motor vehicle or mobile home registration has expired while he or she was serving on active duty or state active duty may renew his or her registration upon return from active duty or state active duty without penalty, if the servicemember served on active duty or state active duty 35 miles or more from the servicemember’s home of record prior to entering active duty or state active duty. The servicemember must provide to the department either a copy of the official military orders or a written verification signed by the servicemember’s commanding officer to receive a waiver of delinquent fees.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Delinquent fees imposed under this section are not apportionable under the International Registration Plan.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 7275, 1917; RGS 1010; CGL 1284; s. 2, ch. 15625, 1931; s. 1, ch. 16084, 1933; ss. 2, 5, ch. 16085, 1933; s. 1, ch. 26544, 1951; s. 2, ch. 28186, 1953; s. 1, ch. 61-12; s. 4, ch. 63-528; s. 2, ch. 63-496; s. 6, ch. 65-190; ss. 24, 35, ch. 69-106; s. 5, ch. 69-178; s. 3, ch. 73-284; s. 8, ch. 75-66; s. 1, ch. 77-174; s. 9, ch. 77-357; s. 2, ch. 77-454; s. 4, ch. 79-27; s. 1, ch. 79-79; s. 1, ch. 82-97; s. 1, ch. 82-128; s. 18, ch. 83-318; s. 60, ch. 85-180; s. 5, ch. 85-250; s. 6, ch. 86-185; s. 16, ch. 86-243; ss. 25, 48, ch. 87-198; s. 2, ch. 88-246; s. 37, ch. 91-224; s. 350, ch. 95-148; s. 51, ch. 96-350; s. 7, ch. 97-300; s. 7, ch. 98-223; s. 266, ch. 99-248; s. 15, ch. 2003-72; s. 30, ch. 2006-290; s. 4, ch. 2007-242; s. 1, ch. 2012-110; s. 33, ch. 2012-181.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Reference to an official receipt was deleted from s. 316.545(6) by s. 16, ch. 2003-286.</Text>
+	</Note>
+</Section>

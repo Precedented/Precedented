@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0429.907" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">License requirement; fee; exemption; display.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The requirements of part II of chapter 408 apply to the provision of services that require licensure pursuant to this part and part II of chapter 408 and to entities licensed by or applying for such licensure from the Agency for Health Care Administration pursuant to this part. A license issued by the agency is required in order to operate an adult day care center in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, separate licenses are required for centers operated on separate premises, even though operated under the same management. Separate licenses are not required for separate buildings on the same premises.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a licensed center becomes wholly or substantially unusable due to a disaster or due to an emergency as those terms are defined in s. 252.34:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The licensee may continue to operate under its current license in premises separate from that authorized under the license if the licensee has:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Specified the location of the premises in its comprehensive emergency management plan submitted to and approved by the applicable county emergency management authority; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Notified the agency and the county emergency management authority within 24 hours of operating in the separate premises.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The licensee shall operate the separate premises only while the licensed center’s original location is substantially unusable and for up to 180 days. The agency may extend use of the alternate premises beyond the initial 180 days. The agency may also review the operation of the disaster premises quarterly.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In accordance with s. 408.805, an applicant or licensee shall pay a fee for each license application submitted under this part and part II of chapter 408. The amount of the fee shall be established by rule and may not exceed $150.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">County-operated or municipally operated centers applying for licensure under this part are exempt from the payment of license fees.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 78-336; s. 2, ch. 81-318; ss. 79, 83, ch. 83-181; ss. 5, 17, ch. 93-215; s. 4, ch. 2006-197; s. 2, ch. 2007-219; s. 166, ch. 2007-230; s. 119, ch. 2008-4; s. 344, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 400.554.</Text>
+	</Note>
+</Section>

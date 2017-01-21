@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.31777" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public schools interlocal agreement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The county and municipalities located within the geographic area of a school district shall enter into an interlocal agreement with the district school board which jointly establishes the specific ways in which the plans and processes of the district school board and the local governments are to be coordinated. Local governments and the district school board in each school district are encouraged to adopt a single interlocal agreement to which all join as parties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At a minimum, the interlocal agreement must address the following issues:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A process by which each local government and the district school board agree and base their plans on consistent projections of the amount, type, and distribution of population growth and student enrollment. The geographic distribution of jurisdiction-wide growth forecasts is a major objective of the process.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A process to coordinate and share information relating to existing and planned public school facilities, including school renovations and closures, and local government plans for development and redevelopment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Participation by affected local governments with the district school board in the process of evaluating potential school closures, significant renovations to existing schools, and new school site selection before land acquisition. Local governments shall advise the district school board as to the consistency of the proposed closure, renovation, or new site with the local comprehensive plan, including appropriate circumstances and criteria under which a district school board may request an amendment to the comprehensive plan for school siting.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A process for determining the need for and timing of onsite and offsite improvements to support new, proposed expansion, or redevelopment of existing schools. The process must address identification of the party or parties responsible for the improvements.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A process for the school board to inform the local government regarding the effect of comprehensive plan amendments on school capacity. The capacity reporting must be consistent with laws and rules relating to measurement of school facility capacity and must also identify how the district school board will meet the public school demand based on the facilities work program adopted pursuant to s. 1013.35.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Participation of the local governments in the preparation of the annual update to the district school board’s 5-year district facilities work program and educational plant survey prepared pursuant to s. 1013.35.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A process for determining where and how joint use of either school board or local government facilities can be shared for mutual benefit and efficiency.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A procedure for the resolution of disputes between the district school board and local governments, which may include the dispute resolution processes contained in chapters 164 and 186.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">An oversight process, including an opportunity for public participation, for the implementation of the interlocal agreement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A municipality is exempt from the requirements of subsections (1) and (2) if the municipality meets all of the following criteria for having no significant impact on school attendance:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The municipality has issued development orders for fewer than 50 residential dwelling units during the preceding 5 years, or the municipality has generated fewer than 25 additional public school students during the preceding 5 years.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The municipality has not annexed new land during the preceding 5 years in land use categories that permit residential uses that will affect school attendance rates.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The municipality has no public schools located within its boundaries.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">At least 80 percent of the developable land within the boundaries of the municipality has been built upon.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">At the time of the evaluation and appraisal of its comprehensive plan pursuant to s. 163.3191, each exempt municipality shall assess the extent to which it continues to meet the criteria for exemption under subsection (3). If the municipality continues to meet the criteria for exemption under subsection (3), the municipality shall continue to be exempt from the interlocal agreement requirement. Each municipality exempt under subsection (3) must comply with this section within 1 year after the district school board proposes, in its 5-year district facilities work program, a new school within the municipality’s jurisdiction.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2002-296; s. 15, ch. 2003-1; s. 4, ch. 2005-290; s. 11, ch. 2010-70; s. 13, ch. 2011-139; s. 5, ch. 2012-99.</History>
+</Section>

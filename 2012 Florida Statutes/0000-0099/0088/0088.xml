@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="VI">
+	<ChapterNumber>88</ChapterNumber>
+	<ChapterName xml:space="preserve">Uniform Interstate Family Support Act</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0088.0011" />
+		<Section Number="0088.1011" />
+		<Section Number="0088.1021" />
+		<Section Number="0088.1031" />
+		<Section Number="0088.1041" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Jurisdiction</PartTitle>
+		<Section Number="0088.2011" />
+		<Section Number="0088.2021" />
+		<Section Number="0088.2031" />
+		<Section Number="0088.2041" />
+		<Section Number="0088.2051" />
+		<Section Number="0088.2061" />
+		<Section Number="0088.2071" />
+		<Section Number="0088.2081" />
+		<Section Number="0088.2091" />
+		<Section Number="0088.2101" />
+		<Section Number="0088.2111" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Civil provisions of<NewLine />general application</PartTitle>
+		<Section Number="0088.3011" />
+		<Section Number="0088.3021" />
+		<Section Number="0088.3031" />
+		<Section Number="0088.3041" />
+		<Section Number="0088.3051" />
+		<Section Number="0088.3061" />
+		<Section Number="0088.3071" />
+		<Section Number="0088.3081" />
+		<Section Number="0088.3091" />
+		<Section Number="0088.3101" />
+		<Section Number="0088.3111" />
+		<Section Number="0088.3121" />
+		<Section Number="0088.3131" />
+		<Section Number="0088.3141" />
+		<Section Number="0088.3151" />
+		<Section Number="0088.3161" />
+		<Section Number="0088.3171" />
+		<Section Number="0088.3181" />
+		<Section Number="0088.3191" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Establishment of support order</PartTitle>
+		<Section Number="0088.4011" />
+		<Section Number="0088.4021" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Direct enforcement of order<NewLine />of another state without registration</PartTitle>
+		<Section Number="0088.5011" />
+		<Section Number="0088.50211" />
+		<Section Number="0088.5031" />
+		<Section Number="0088.5041" />
+		<Section Number="0088.5051" />
+		<Section Number="0088.5061" />
+		<Section Number="0088.5071" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Enforcement and modification<NewLine />of support order after registration</PartTitle>
+		<Section Number="0088.6011" />
+		<Section Number="0088.6021" />
+		<Section Number="0088.6031" />
+		<Section Number="0088.6041" />
+		<Section Number="0088.6051" />
+		<Section Number="0088.6061" />
+		<Section Number="0088.6071" />
+		<Section Number="0088.6081" />
+		<Section Number="0088.6091" />
+		<Section Number="0088.6101" />
+		<Section Number="0088.6111" />
+		<Section Number="0088.6121" />
+		<Section Number="0088.6131" />
+		<Section Number="0088.6141" />
+		<Section Number="0088.6151" />
+		<Section Number="0088.6161" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Determination of parentage</PartTitle>
+		<Section Number="0088.7011" />
+		<Section Number="0088.70111" />
+		<Section Number="0088.7021" />
+		<Section Number="0088.7031" />
+		<Section Number="0088.7041" />
+		<Section Number="0088.7051" />
+		<Section Number="0088.7061" />
+		<Section Number="0088.7071" />
+		<Section Number="0088.7081" />
+		<Section Number="0088.7091" />
+		<Section Number="0088.7101" />
+		<Section Number="0088.7111" />
+		<Section Number="0088.7121" />
+		<Section Number="0088.7131" />
+	</Part>
+	<Part PartNumber="VIII">
+		<PartNumber>PART VIII</PartNumber>
+		<PartTitle xml:space="preserve">Interstate rendition</PartTitle>
+		<Section Number="0088.8011" />
+		<Section Number="0088.8021" />
+	</Part>
+	<Part PartNumber="IX">
+		<PartNumber>PART IX</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0088.9011" />
+		<Section Number="0088.9021" />
+		<Section Number="0088.9031" />
+	</Part>
+</Chapter>

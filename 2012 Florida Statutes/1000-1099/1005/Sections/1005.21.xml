@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1005.21" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Commission for Independent Education.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is established in the Department of Education the Commission for Independent Education. The department shall serve as the administrative agent of the commission by providing services, including payroll, procurement, and legal counsel. The commission shall exercise independently all powers, duties, and functions prescribed by law. The commission shall authorize the granting of diplomas and degrees by any independent postsecondary educational institution under its jurisdiction.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Commission for Independent Education shall consist of seven members who are residents of this state. The commission shall function in matters concerning independent postsecondary educational institutions in consumer protection, program improvement, and licensure for institutions under its purview. The Governor shall appoint the members of the commission who are subject to confirmation by the Senate. The membership of the commission shall consist of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Two representatives of independent colleges or universities licensed by the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Two representatives of independent, nondegree-granting schools licensed by the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">One member from a public school district or Florida College System institution who is an administrator of career education.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">One representative of a college that meets the criteria of s. 1005.06(1)(f).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">One lay member who is not affiliated with an independent postsecondary educational institution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The members of the commission shall be appointed to 3-year terms and until their successors are appointed and qualified. If a vacancy on the commission occurs before the expiration of a term, the Governor shall appoint a successor to serve the unexpired portion of the term.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The commission shall meet at least four times each fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Members of the commission are entitled to reimbursement for travel and per diem expenses, as provided in s. 112.061, while performing their duties.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Each member is accountable to the Governor for the proper performance of the duties of his or her office. The Governor may remove from office any member for cause.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 251, ch. 2002-387; s. 99, ch. 2004-357; s. 74, ch. 2011-5.</History>
+</Section>

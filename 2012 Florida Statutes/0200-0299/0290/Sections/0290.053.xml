@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0290.053" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Response to economic emergencies in small communities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that attracting, retaining, and providing favorable conditions for businesses which contribute to the economic health of small communities through the generation of business and employment opportunities is in the public interest. The Legislature recognizes that conditions may exist where criteria for existing economic development programs prevent some businesses from participating and that existing criteria should be waived in order to allow businesses which are significant employers in these small communities to participate in these programs in order to improve the economic health of these communities. The Legislature further recognizes that the loss of an industry or the inability of a significant employer to open or reopen a business in a small community creates a state of economic emergency within that community.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A community is in a state of economic emergency when any of the following conditions occur:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Closure of a business which is a significant employer of workers in the community.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Closure of a business which significantly affects the operations of other businesses which are significant employers of workers in the community.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A business which would be a significant employer of workers in the community is unable to open or reopen due to a lack of economic incentives or a business environment which is not favorable to the opening or reopening of that business.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The community experiences substantial unemployment due to the closure of a major industry.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A local government entity shall notify the Governor, the Department of Economic Opportunity, and Enterprise Florida, Inc., when one or more of the conditions specified in subsection (2) have occurred or will occur if action is not taken to assist the local governmental entity or the affected community.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Upon notification that one or more of the conditions described in subsection (2) exist, the Governor or his or her designee shall contact the local governmental entity to determine what actions have been taken by the local governmental entity or the affected community to resolve the economic emergency. The Governor may waive the eligibility criteria of any program or activity administered by the Department of Economic Opportunity or Enterprise Florida, Inc., to provide economic relief to the affected community by granting participation in such programs or activities. The Governor shall consult with the President of the Senate and the Speaker of the House of Representatives and shall take other action, as necessary, to resolve the economic emergency in the most expedient manner possible. All actions taken pursuant to this section shall be within current appropriations and shall have no annualized impact beyond normal growth.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 106, ch. 99-251; s. 224, ch. 2011-142.</History>
+</Section>

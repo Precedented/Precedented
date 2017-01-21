@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0760.065" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Civil Rights Hall of Fame.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to recognize and honor those persons, living or dead, who have made significant contributions to this state as leaders in the struggle for equality and justice for all persons.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is hereby established the Florida Civil Rights Hall of Fame. The Department of Management Services shall set aside an appropriate public area of the Capitol Building for the Florida Civil Rights Hall of Fame and shall consult with the commission regarding the design and theme of such area.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each person who is selected as a member shall have a designation placed in the Florida Civil Rights Hall of Fame, which designation shall provide information regarding the member’s particular discipline or contribution and any vital information relating to the member.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The commission shall annually accept nominations for persons to be recommended as members of the Florida Civil Rights Hall of Fame. The commission shall recommend 10 persons from which the Governor shall select up to 3 hall-of-fame members.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In making recommendations pursuant to this subsection, the commission shall recommend persons who are 18 years of age or older, who were born in Florida or adopted Florida as their home state and base of operation, and who have made a significant contribution and provided exemplary leadership toward Florida’s progress and achievements in civil rights.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The commission may set specific time periods for acceptance of nominations and the selection of members to coincide with the appropriate activities of the Florida Civil Rights Hall of Fame.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The commission shall be responsible for costs relating to the Florida Civil Rights Hall of Fame, excluding normal costs of operations, repairs, and maintenance of the public area designated for the Florida Civil Rights Hall of Fame, which shall be the responsibility of the Department of Management Services.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2010-53.</History>
+</Section>

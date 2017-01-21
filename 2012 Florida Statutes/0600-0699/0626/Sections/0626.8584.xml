@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.8584" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">“Nonresident all-lines adjuster” defined.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A “nonresident all-lines adjuster” means a person who:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Is not a resident of this state;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Is currently licensed as an adjuster in his or her state of residence for all lines of insurance except life and annuities or, if a resident of a state that does not license such adjusters, meets the qualifications prescribed in s. 626.8734; and</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Is licensed as an all-lines adjuster and self-appointed or appointed and employed by an independent adjusting firm or other independent adjuster, by an insurer admitted to do business in this state or a wholly owned subsidiary of an insurer admitted to do business in this state, or by other insurers under the common control or ownership of such insurer.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 54, ch. 98-199; s. 973, ch. 2003-261; s. 54, ch. 2004-390; s. 30, ch. 2012-209.</History>
+</Section>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0828.28" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Local animal licensing ordinances; notices.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any county or municipality that has a licensing requirement for dogs must provide notice to dog owners at least 45 days prior to any licensure renewal deadline. The notice must contain information describing the licensing requirements and any associated penalties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Counties and municipalities with licensing requirements are encouraged to develop online licensing systems to provide a convenient and cost-effective licensing process.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2010-87.</History>
+</Section>

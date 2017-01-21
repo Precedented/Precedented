@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0459.0082" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Analysis of survey results; report.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each year, the Department of Health shall analyze the results of the physician survey required by s. 459.0081 and determine by geographic area and specialty the number of physicians who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Perform deliveries of children in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Read mammograms and perform breast-imaging-guided procedures in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Perform emergency care on an on-call basis for a hospital emergency department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Plan to reduce or increase emergency on-call hours in a hospital emergency department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Plan to relocate outside the state.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Practice medicine in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Plan to reduce or modify the scope of their practice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Department of Health must report its findings to the Governor, the President of the Senate, and the Speaker of the House of Representatives by November 1 each year. The department shall also include in its report findings, recommendations, and strategic planning activities as provided in s. 381.4018. The department may also include other information requested by the Physician Workforce Advisory Council.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2007-172; s. 31, ch. 2010-161.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Also published at s. 458.3192.</Text>
+	</Note>
+</Section>

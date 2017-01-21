@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1003.435" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">High school equivalency diploma program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules that prescribe performance standards and provide for comprehensive examinations to be administered to candidates for high school equivalency diplomas. Such rules shall include, but are not limited to, provisions for fees, frequency of examinations, and procedures for retaking an examination upon unsatisfactory performance.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may award high school equivalency diplomas to candidates who meet the performance standards prescribed by the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each district school board shall offer and administer the high school equivalency diploma examinations and the subject area examinations to all candidates pursuant to rules of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A candidate for a high school equivalency diploma shall be at least 18 years of age on the date of the examination, except that in extraordinary circumstances, as provided for in rules of the district school board of the district in which the candidate resides or attends school, a candidate may take the examination after reaching the age of 16.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each district school board shall develop, in cooperation with the area Florida College System institution board of trustees, a plan for the provision of advanced instruction for those students who attain satisfactory performance on the high school equivalency examination or the subject area examinations or who demonstrate through other means a readiness to engage in postsecondary-level academic work. The plan shall include provisions for the equitable distribution of generated funds to cover personnel, maintenance, and other costs of offering the advanced instruction. Priority shall be given to programs of advanced instruction offered in high school facilities.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All high school equivalency diplomas issued under the provisions of this section shall have equal status with other high school diplomas for all state purposes, including admission to any state university or Florida College System institution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules providing for the award of a standard high school diploma to holders of high school equivalency diplomas who are assessed as meeting designated criteria, and the commissioner shall establish procedures for administering the assessment.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 133, ch. 2002-387; s. 35, ch. 2011-5.</History>
+</Section>

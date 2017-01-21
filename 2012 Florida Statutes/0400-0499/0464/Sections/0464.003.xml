@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0464.003" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Accredited program” means a program for the prelicensure education of professional or practical nurses that is conducted in the United States at an educational institution, whether in this state, another state, or the District of Columbia, and that is accredited by a specialized nursing accrediting agency that is nationally recognized by the United States Secretary of Education to accredit nursing education programs.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Advanced or specialized nursing practice” means, in addition to the practice of professional nursing, the performance of advanced-level nursing acts approved by the board which, by virtue of postbasic specialized education, training, and experience, are appropriately performed by an advanced registered nurse practitioner. Within the context of advanced or specialized nursing practice, the advanced registered nurse practitioner may perform acts of nursing diagnosis and nursing treatment of alterations of the health status. The advanced registered nurse practitioner may also perform acts of medical diagnosis and treatment, prescription, and operation which are identified and approved by a joint committee composed of three members appointed by the Board of Nursing, two of whom must be advanced registered nurse practitioners; three members appointed by the Board of Medicine, two of whom must have had work experience with advanced registered nurse practitioners; and the State Surgeon General or the State Surgeon General’s designee. Each committee member appointed by a board shall be appointed to a term of 4 years unless a shorter term is required to establish or maintain staggered terms. The Board of Nursing shall adopt rules authorizing the performance of any such acts approved by the joint committee. Unless otherwise specified by the joint committee, such acts must be performed under the general supervision of a practitioner licensed under chapter 458, chapter 459, or chapter 466 within the framework of standing protocols which identify the medical acts to be performed and the conditions for their performance. The department may, by rule, require that a copy of the protocol be filed with the department along with the notice required by s. 458.348.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Advanced registered nurse practitioner” means any person licensed in this state to practice professional nursing and certified in advanced or specialized nursing practice, including certified registered nurse anesthetists, certified nurse midwives, and nurse practitioners.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Approved program” means a program for the prelicensure education of professional or practical nurses that is conducted in the state at an educational institution and that is approved under s. 464.019. The term includes such a program placed on probationary status.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Board” means the Board of Nursing.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Clinical nurse specialist” means any person licensed in this state to practice professional nursing and certified in clinical nurse specialist practice.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Clinical nurse specialist practice” means the delivery and management of advanced practice nursing care to individuals or groups, including the ability to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assess the health status of individuals and families using methods appropriate to the population and area of practice.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Diagnose human responses to actual or potential health problems.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Plan for health promotion, disease prevention, and therapeutic intervention in collaboration with the patient or client.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Implement therapeutic interventions based on the nurse specialist’s area of expertise and within the scope of advanced nursing practice, including, but not limited to, direct nursing care, counseling, teaching, and collaboration with other licensed health care providers.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Coordinate health care as necessary and appropriate and evaluate with the patient or client the effectiveness of care.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Clinical preceptor” means a registered nurse or licensed practical nurse who is employed by a clinical training facility to serve as a role model and clinical resource person for a specified period to students enrolled in an approved program.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Clinical simulation” means a strategy used to replicate clinical practice as closely as possible to teach theory, assessment, technology, pharmacology, and skills.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Clinical training” means direct nursing care experiences with patients or clients which offer the student the opportunity to integrate, apply, and refine specific skills and abilities based on theoretical concepts and scientific principles.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Community-based clinical experience” means activities consistent with the curriculum and involving individuals, families, and groups with the intent of promoting wellness, maintaining health, and preventing illness.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Curriculum” means a planned sequence of course offerings and learning experiences that comprise a nursing education program.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Educational institution” means a school, college, or university.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Graduate passage rate” means the percentage of a program’s graduates who, as first-time test takers, pass the National Council of State Boards of Nursing Licensing Examination during a calendar year, as calculated by the contract testing service of the National Council of State Boards of Nursing.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Licensed practical nurse” means any person licensed in this state to practice practical nursing.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Nursing diagnosis” means the observation and evaluation of physical or mental conditions, behaviors, signs and symptoms of illness, and reactions to treatment and the determination as to whether such conditions, signs, symptoms, and reactions represent a deviation from normal.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Nursing treatment” means the establishment and implementation of a nursing regimen for the care and comfort of individuals, the prevention of illness, and the education, restoration, and maintenance of health.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Practice of practical nursing” means the performance of selected acts, including the administration of treatments and medications, in the care of the ill, injured, or infirm and the promotion of wellness, maintenance of health, and prevention of illness of others under the direction of a registered nurse, a licensed physician, a licensed osteopathic physician, a licensed podiatric physician, or a licensed dentist. A practical nurse is responsible and accountable for making decisions that are based upon the individual’s educational preparation and experience in nursing.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Practice of professional nursing” means the performance of those acts requiring substantial specialized knowledge, judgment, and nursing skill based upon applied principles of psychological, biological, physical, and social sciences which shall include, but not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The observation, assessment, nursing diagnosis, planning, intervention, and evaluation of care; health teaching and counseling of the ill, injured, or infirm; and the promotion of wellness, maintenance of health, and prevention of illness of others.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The administration of medications and treatments as prescribed or authorized by a duly licensed practitioner authorized by the laws of this state to prescribe such medications and treatments.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The supervision and teaching of other personnel in the theory and performance of any of the acts described in this subsection.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">A professional nurse is responsible and accountable for making decisions that are based upon the individual’s educational preparation and experience in nursing.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Probationary status” means the status of an approved program that is placed on such status pursuant to s. 464.019.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Registered nurse” means any person licensed in this state to practice professional nursing.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Required passage rate” means the graduate passage rate required for an approved program pursuant to s. 464.019(6)(a)1.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 6, ch. 79-225; ss. 2, 3, ch. 81-318; ss. 3, 4, ch. 82-32; ss. 3, 17, 18, ch. 86-284; s. 18, ch. 88-392; s. 58, ch. 91-137; s. 5, ch. 91-156; s. 4, ch. 91-429; s. 121, ch. 94-218; s. 1, ch. 96-274; s. 76, ch. 97-264; s. 210, ch. 98-166; s. 121, ch. 2000-318; s. 1, ch. 2007-167; s. 82, ch. 2008-6; s. 1, ch. 2009-168; s. 2, ch. 2010-37.</History>
+</Section>

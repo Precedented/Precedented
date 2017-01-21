@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0092.56" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Judicial proceedings and court records involving sexual offenses.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The confidential and exempt status of criminal intelligence information or criminal investigative information made confidential and exempt pursuant to s. 119.071(2)(h) must be maintained in court records pursuant to s. 119.0714(1)(h) and in court proceedings, including testimony from witnesses.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a petition for access to such confidential and exempt records is filed with the trial court having jurisdiction over the alleged offense, the confidential and exempt status of such information shall be maintained by the court if the state or the victim demonstrates that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The identity of the victim is not already known in the community;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The victim has not voluntarily called public attention to the offense;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The identity of the victim has not otherwise become a reasonable subject of public concern;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The disclosure of the victim’s identity would be offensive to a reasonable person; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The disclosure of the victim’s identity would:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Endanger the victim because the assailant has not been apprehended and is not otherwise known to the victim;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Endanger the victim because of the likelihood of retaliation, harassment, or intimidation;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Cause severe emotional or mental harm to the victim;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Make the victim unwilling to testify as a witness; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Be inappropriate for other good cause shown.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A defendant charged with a crime described in chapter 794 or chapter 800, or with child abuse, aggravated child abuse, or sexual performance by a child as described in chapter 827, may apply to the trial court for an order of disclosure of information in court records held confidential and exempt pursuant to s. 119.0714(1)(h) or maintained as confidential and exempt pursuant to court order under this section. Such identifying information concerning the victim may be released to the defendant or his or her attorney in order to prepare the defense. The confidential and exempt status of this information may not be construed to prevent the disclosure of the victim’s identity to the defendant; however, the defendant may not disclose the victim’s identity to any person other than the defendant’s attorney or any other person directly involved in the preparation of the defense. A willful and knowing disclosure of the identity of the victim to any other person by the defendant constitutes contempt.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The state may use a pseudonym instead of the victim’s name to designate the victim of a crime described in chapter 794 or chapter 800, or of child abuse, aggravated child abuse, or sexual performance by a child as described in chapter 827, or any crime involving the production, possession, or promotion of child pornography as described in chapter 847, in all court records and records of court proceedings, both civil and criminal.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The protection of this section may be waived by the victim of the alleged offense in a writing filed with the court, in which the victim consents to the use or release of identifying information during court proceedings and in the records of court proceedings.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">This section does not prohibit the publication or broadcast of the substance of trial testimony in a prosecution for an offense described in chapter 794 or chapter 800, or a crime of child abuse, aggravated child abuse, or sexual performance by a child, as described in chapter 827, but the publication or broadcast may not include an identifying photograph, an identifiable voice, or the name or address of the victim, unless the victim has consented in writing to the publication and filed such consent with the court or unless the court has declared such records not confidential and exempt as provided for in subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A willful and knowing violation of this section or a willful and knowing failure to obey any court order issued under this section constitutes contempt.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 95-207; s. 1, ch. 2008-172; s. 4, ch. 2008-234; s. 3, ch. 2011-83.</History>
+</Section>

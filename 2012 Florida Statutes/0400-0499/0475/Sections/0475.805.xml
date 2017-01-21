@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0475.805" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Contents of lien notice.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A lien notice made by a broker with respect to a commission claimed under this part shall be in writing, shall be signed and sworn to or affirmed by the broker under penalty of perjury before a notary public, and shall include the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the owner of the commercial real estate who is obligated to pay the claimed commission.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A statement whether the owner obligated to pay the commission is the landlord or the tenant under the lease for which the commission is claimed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The name of the person owning the fee simple interest in the commercial real estate, if other than the owner obligated to pay the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The legal description of the commercial real estate.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The name, mailing address, telephone number, and license number of the broker.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The effective date of the brokerage agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The amount of the commission claimed by the broker, which may be stated in a dollar amount or may be stated in the form of a formula determining the amount, such as a percentage of the rents payable under the lease.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A description of the lease sufficient to identify the lease for which the commission is claimed, including, if then known to the broker, the names of the landlord and tenant under the lease, the date of the lease, and the identification of the leased premises.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A statement of whether the broker is claiming an automatic renewal commission and the amount of such automatic renewal commission or the formula for computing the same.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">A statement under penalty of perjury that the broker has read the lien notice, knows its contents, believes the same to be true and correct, and makes the commission claim pursuant to the brokerage agreement described in the lien notice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A lien notice in substantially the following form shall be sufficient for purposes of subsection (1):</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">BROKER’S COMMISSION LIEN NOTICE<NewLine />UNDER FLORIDA COMMERCIAL REAL ESTATE<NewLine />LEASING COMMISSION LIEN ACT</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Notice is hereby given, pursuant to the Florida Commercial Real Estate Leasing Commission Lien Act, part IV of chapter 475, Florida Statutes (the “act”), that the undersigned real estate broker is entitled to receive a leasing commission from the owner named below pursuant to the terms of a written brokerage commission agreement regarding a lease of the commercial real estate described below, and the undersigned broker claims a lien under the act against the owner’s interest in the commercial real estate in the amount set forth below.</Text>
+			<Text xml:space="preserve" Style="Flush">1. Name of the owner who is obligated to pay the commission: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">2. (Check one:) The owner obligated to pay the commission is:</Text>
+			<Text xml:space="preserve" Style="Indent">[ ] the landlord under the lease.</Text>
+			<Text xml:space="preserve" Style="Indent">[ ] the tenant under the lease.</Text>
+			<Text xml:space="preserve" Style="Flush">3. Name of the person owning the fee simple interest in the commercial real estate, if other than the owner who is obligated to pay the commission: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">4. Legal description of the commercial real estate: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">5. Name, mailing address, telephone number, and Florida broker license number of the undersigned broker: <HorizontalRule Type="Full" /><HorizontalRule Type="Full" /><HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">6. Effective date of the written brokerage commission agreement between the owner and the broker under which the commission is or will be payable: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="Flush">7. Amount of commission claimed by the undersigned broker:</Text>
+			<Text xml:space="preserve" Style="Indent">$<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, or <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> percent of rents payable under lease, or</Text>
+			<Text xml:space="preserve" Style="Flush">[specify other formula for determination of commission amount]:<NewLine /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="Flush">8. The lease for which the commission is claimed is described as follows [provide all information known to the broker]:</Text>
+			<Text xml:space="preserve" Style="Indent">Name of landlord: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Indent">Name of tenant: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Indent">Date of lease: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />,</Text>
+			<Text xml:space="preserve" Style="Indent">Leased premises: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Flush">9. Automatic renewal commissions (check yes or no): Is the undersigned broker claiming a commission that may become payable if the lease is later renewed or modified to expand the leased premises or to extend the lease term, but the written brokerage commission agreement does not expressly require the broker to perform any additional services in order to receive this later commission?</Text>
+			<Text xml:space="preserve" Style="Indent">[ ] Yes</Text>
+			<Text xml:space="preserve" Style="Indent">[ ] No</Text>
+			<Text xml:space="preserve" Style="Flush">If yes, specify the amount of such later commission or the formula for computing the later commission: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">10. The expiration date of this lien notice is 2 years after the date of recording, unless the answer to paragraph 9 is yes, in which case the expiration date of this lien notice for the commission described in paragraph 9 is 10 years after the date of recording.</Text>
+			<Text xml:space="preserve" Style="Flush">11. The undersigned broker, under penalty of perjury, hereby swears or affirms that the undersigned broker has read this lien notice, knows its contents and believes the same to be true and correct, and that the undersigned broker is making this commission claim pursuant to the written brokerage commission agreement described in this lien notice.</Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true">Signed: <Directions xml:space="preserve">(broker)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed and sworn to or affirmed under penalty of perjury before me, a notary public, this <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />,<NewLine/>by <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="AlignRight">Signed: <Directions xml:space="preserve">(notary public)</Directions></Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2005-275; s. 58, ch. 2006-1.</History>
+</Section>

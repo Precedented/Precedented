@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.702" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disbursements from principal.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A fiduciary shall make the following disbursements from principal:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The remaining one-half of the disbursements described in s. 738.701(1) and (2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All of the trustee’s compensation calculated on principal as a fee for acceptance, distribution, or termination and disbursements made to prepare property for sale.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Payments on the principal of a trust debt.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Expenses of a proceeding that concerns primarily principal, including a proceeding to construe the trust or will, or to protect the trust, estate, or its property.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Premiums paid on a policy of insurance not described in s. 738.701(4) of which the trust or estate is the owner and beneficiary.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Estate, inheritance, and other transfer taxes, including penalties, apportioned to the trust.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Disbursements related to environmental matters, including reclamation, assessing environmental conditions, remedying and removing environmental contamination, monitoring remedial activities and the release of substances, preventing future releases of substances, collecting amounts from persons liable or potentially liable for the costs of such activities, penalties imposed under environmental laws or regulations and other payments made to comply with those laws or regulations, statutory or common law claims by third parties, and defending claims based on environmental matters.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Payments representing extraordinary repairs or expenses incurred in making a capital improvement to principal, including special assessments; however, a fiduciary may establish an allowance for depreciation out of income to the extent permitted by s. 738.703.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a principal asset is encumbered with an obligation that requires income from that asset to be paid directly to the creditor, the trustee shall transfer from principal to income an amount equal to the income paid to the creditor in reduction of the principal balance of the obligation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 28, ch. 2012-49.</History>
+</Section>

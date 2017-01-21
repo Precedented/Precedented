@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0101.001" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Precincts and polling places; boundaries.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The board of county commissioners in each county, upon recommendation and approval of the supervisor, shall alter or create precincts for voting in the county. Each precinct shall be numbered and, as nearly as practicable, composed of contiguous and compact areas. The supervisor shall designate a polling place at a suitable location within each precinct. The precinct shall not be changed thereafter except with the consent of the supervisor and a majority of the members of the board of county commissioners. The board of county commissioners and the supervisor may have precinct boundaries conform to municipal boundaries in accordance with the provisions of s. 101.002, but, in any event, the registration books shall be maintained in such a manner that there may be determined therefrom the total number of electors in each municipality.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When in any election there are fewer than 25 registered electors of the only political party having candidates on the ballot at any precinct, such precinct may be combined with other adjoining precincts upon the recommendation of the supervisor and the approval of the county commissioners. Notice of the combination of precincts shall be given in the same manner as provided in s. 101.71(2).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each supervisor of elections shall maintain a suitable map drawn to a scale no smaller than 3 miles to the inch and clearly delineating all major observable features such as roads, streams, and railway lines and showing the current geographical boundaries of each precinct, representative district, and senatorial district, and other type of district in the county subject to the elections process in this code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The supervisor shall provide to the department data on all precincts in the county associated with the most recent decennial census blocks within each precinct.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall maintain a searchable database that contains the precincts and the corresponding most recent decennial census blocks within the precincts for each county, including a historical file that allows the census blocks to be traced through the prior decade.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The supervisor of elections shall notify the Secretary of State in writing within 10 days after any reorganization of precincts and shall furnish a copy of the map showing the current geographical boundaries and designation of each new precinct. However, if precincts are composed of whole census blocks, the supervisor may furnish, in lieu of a copy of the map, a list, in an electronic format prescribed by the Department of State, associating each census block in the county with its precinct.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any precinct established or altered under the provisions of this section shall consist of areas bounded on all sides only by census block boundaries from the most recent United States Census. If the census block boundaries split or conflict with another political boundary listed below, the boundary listed below may be used:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Governmental unit boundaries reported in the most recent Boundary and Annexation Survey published by the United States Census Bureau;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Visible features that are readily distinguishable upon the ground, such as streets, railroads, tracks, streams, and lakes, and that are indicated upon current census maps, official Department of Transportation maps, official municipal maps, official county maps, or a combination of such maps;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Boundaries of public parks, public school grounds, or churches; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Boundaries of counties, incorporated municipalities, or other political subdivisions that meet criteria established by the United States Census Bureau for block boundaries.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 10 days after there is any change in the division, number, or boundaries of the precincts, or the location of the polling places, the supervisor of elections shall make in writing an accurate description of any new or altered precincts, setting forth the boundary lines and shall identify the location of each new or altered polling place. A copy of the document describing such changes shall be posted at the supervisor’s office.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any changes in the county precinct data shall be provided to the department within 10 days after a change.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Precinct data shall include all precincts for which precinct-level election results and voting history results are reported.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 3879, 1889; RS 164; s. 11, ch. 4328, 1895; GS 184; RGS 228; CGL 281; s. 2, ch. 24203, 1947; s. 6, ch. 25383, 1949; s. 2, ch. 26329, 1949; s. 2, ch. 26870, 1951; s. 4, ch. 29934, 1955; s. 3, ch. 57-166; s. 1, ch. 59-281; s. 1, ch. 67-169; s. 1, ch. 72-25; s. 3, ch. 73-155; s. 1, ch. 76-60; s. 1, ch. 76-121; s. 1, ch. 76-233; s. 4, ch. 77-175; s. 1, ch. 80-189; s. 11, ch. 80-292; s. 4, ch. 81-304; s. 26, ch. 84-302; s. 24, ch. 94-224; s. 1390, ch. 95-147; s. 54, ch. 97-13; s. 29, ch. 2005-278; s. 24, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 98.23; s. 98.031.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.968" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Managed care plan payments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Prepaid plans shall receive per-member, per-month payments negotiated pursuant to the procurements described in s. 409.966. Payments shall be risk-adjusted rates based on historical utilization and spending data, projected forward, and adjusted to reflect the eligibility category, geographic area, and clinical risk profile of the recipients. In negotiating rates with the plans, the agency shall consider any adjustments necessary to encourage plans to use the most cost-effective modalities for treatment of chronic disease such as peritoneal dialysis.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Provider service networks may be prepaid plans and receive per-member, per-month payments negotiated pursuant to the procurement process described in s. 409.966. Provider service networks that choose not to be prepaid plans shall receive fee-for-service rates with a shared savings settlement. The fee-for-service option shall be available to a provider service network only for the first 2 years of its operation. The agency shall annually conduct cost reconciliations to determine the amount of cost savings achieved by fee-for-service provider service networks for the dates of service within the period being reconciled. Only payments for covered services for dates of service within the reconciliation period and paid within 6 months after the last date of service in the reconciliation period must be included. The agency shall perform the necessary adjustments for the inclusion of claims incurred but not reported within the reconciliation period for claims that could be received and paid by the agency after the 6-month claims processing time lag. The agency shall provide the results of the reconciliations to the fee-for-service provider service networks within 45 days after the end of the reconciliation period. The fee-for-service provider service networks shall review and provide written comments or a letter of concurrence to the agency within 45 days after receipt of the reconciliation results. This reconciliation is considered final.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The agency may not approve any plan request for a rate increase unless sufficient funds to support the increase have been authorized in the General Appropriations Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2011-134.</History>
+</Section>

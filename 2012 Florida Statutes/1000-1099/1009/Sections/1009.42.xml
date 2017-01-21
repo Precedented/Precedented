@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Financial aid appeal process.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt, by rule, a procedure for the appeal of errors in eligibility determinations, or failure to transfer awards between eligible institutions, made by the Office of Student Financial Assistance of the Department of Education, regarding applicants’ eligibility for receiving state student financial aid awards. The procedure must provide for establishment of a committee to consider appeals that are not resolved by other administrative action. Each committee must be comprised of four members appointed by the Commissioner of Education, including one representative of the Office of Student Financial Assistance; two practicing financial aid administrators from public or private postsecondary institutions in this state, one of whom must be from an institution other than one to which the applicant is seeking admission; and one student enrolled in a public postsecondary institution in this state, nominated by the Florida Student Association. An applicant for state student financial aid who believes an error has been made in determining eligibility for student financial assistance or who believes the department has failed to transfer an award between eligible institutions may appeal the decision in writing to the Office of Student Financial Assistance. The Office of Student Financial Assistance shall investigate the complaint and take appropriate action within 30 days after its receipt of the appeal. If the student wishes further review of the appeal, the Office of Student Financial Assistance shall forward the appeal to the committee. Within 30 days after the receipt of a request for a hearing, a final decision shall be rendered by the committee established under this section, and a copy of the decision shall be provided to the applicant. The decision rendered by the committee constitutes final agency action. A description of the financial aid appeals process shall be included in the application form for each state student financial aid program.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The president of each state university and each Florida College System institution shall establish a procedure for appeal, by students, of grievances related to the award or administration of financial aid at the institution.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A student involved in a financial aid appeal proceeding is eligible for a deferral of registration and fee payments pursuant to s. 1009.27.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 415, ch. 2002-387; s. 128, ch. 2011-5.</History>
+</Section>

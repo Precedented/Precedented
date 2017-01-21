@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public information on career education programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall disseminate information derived from the reports required by s. 1008.43. The department shall ensure that the information disseminated does not name or otherwise identify a student, a former student, or the student’s employer.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The dissemination shall be conducted in accordance with the following procedures:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Annually, the Department of Education shall publish the placement rates and average quarterly earnings for students who complete each type of career certificate program and career degree program. This information must be aggregated to the state level and must be included in any accountability reports. A program that was created or modified so that placement rates cannot be calculated must be so identified in such reports.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each district school board shall publish, at a minimum, the most recently available placement rate for each career certificate program conducted by that school district at the secondary school level and at the career degree level. The placement rates for the preceding 3 years shall be published if available, shall be included in each publication that informs the public of the availability of the program, and shall be made available to each school guidance counselor. If a program does not have a placement rate, a publication that lists or describes that program must state that the rate is unavailable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each Florida College System institution shall publish, at a minimum, the most recent placement rate for each career certificate program and for each career degree program in its annual catalog. The placement rates for the preceding 3 years shall be published, if available, and shall be included in any publication that informs the public of the availability of the program. If a program does not have a placement rate, the publication that lists or describes that program must state that the rate is unavailable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If a school district or a Florida College System institution has calculated for a program a placement rate that differs from the rate reported by the department, and if each record of a placement was obtained through a process that was capable of being audited, procedurally sound, and consistent statewide, the district or the Florida College System institution may use the locally calculated placement rate in the report required by this section. However, that rate may not be combined with the rate maintained in the computer files of the Department of Education’s Florida Education and Training Placement Information Program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An independent career, trade, or business school may not publish a placement rate unless the placement rate was determined as provided by this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 390, ch. 2002-387; s. 114, ch. 2004-357; s. 113, ch. 2011-5.</History>
+</Section>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.32" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State funds; segregation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All moneys received by the state shall be deposited in the State Treasury unless specifically provided otherwise by law and shall be deposited in and accounted for by the Chief Financial Officer within the following funds, which funds are hereby created and established:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Trust funds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Budget Stabilization Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The source and use of each of these funds shall be as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The General Revenue Fund shall consist of all moneys received by the state from every source whatsoever, except as provided in paragraphs (b) and (c). Such moneys shall be expended pursuant to General Revenue Fund appropriations acts, transferred as provided in paragraph (c), or maintained as unallocated general revenue. Unallocated general revenue shall be considered the working capital balance of the state and shall consist of moneys in the General Revenue Fund that are in excess of the amount needed to meet General Revenue Fund appropriations for the current fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The trust funds shall consist of moneys received by the state which under law or under trust agreement are segregated for a purpose authorized by law. The state agency or branch of state government receiving or collecting such moneys is responsible for their proper expenditure as provided by law. Upon the request of the state agency or branch of state government responsible for the administration of the trust fund, the Chief Financial Officer may establish accounts within the trust fund at a level considered necessary for proper accountability. Once an account is established, the Chief Financial Officer may authorize payment from that account only upon determining that there is sufficient cash and releases at the level of the account.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In addition to other trust funds created by law, to the extent possible, each agency shall use the following trust funds as described in this subparagraph for day-to-day operations:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Operations or operating trust fund, for use as a depository for funds to be used for program operations funded by program revenues, with the exception of administrative activities when the operations or operating trust fund is a proprietary fund.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Operations and maintenance trust fund, for use as a depository for client services funded by third-party payors.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Administrative trust fund, for use as a depository for funds to be used for management activities that are departmental in nature and funded by indirect cost earnings and assessments against trust funds. Proprietary funds are excluded from the requirement of using an administrative trust fund.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Grants and donations trust fund, for use as a depository for funds to be used for allowable grant or donor agreement activities funded by restricted contractual revenue from private and public nonfederal sources.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Agency working capital trust fund, for use as a depository for funds to be used pursuant to s. 216.272.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Clearing funds trust fund, for use as a depository for funds to account for collections pending distribution to lawful recipients.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Federal grant trust fund, for use as a depository for funds to be used for allowable grant activities funded by restricted program revenues from federal sources.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">To the extent possible, each agency must adjust its internal accounting to use existing trust funds consistent with the requirements of this subparagraph. If an agency does not have trust funds listed in this subparagraph and cannot make such adjustment, the agency must recommend the creation of the necessary trust funds to the Legislature no later than the next scheduled review of the agency’s trust funds pursuant to s. 215.3206.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">All such moneys are hereby appropriated to be expended in accordance with the law or trust agreement under which they were received, subject always to the provisions of chapter 216 relating to the appropriation of funds and to the applicable laws relating to the deposit or expenditure of moneys in the State Treasury.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of law restricting the use of trust funds to specific purposes, unappropriated cash balances from selected trust funds may be authorized by the Legislature for transfer to the Budget Stabilization Fund and General Revenue Fund in the General Appropriations Act.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">This subparagraph does not apply to trust funds required by federal programs or mandates; trust funds established for bond covenants, indentures, or resolutions whose revenues are legally pledged by the state or public body to meet debt service or other financial requirements of any debt obligations of the state or any public body; the Division of Licensing Trust Fund in the Department of Agriculture and Consumer Services; the State Transportation Trust Fund; the trust fund containing the net annual proceeds from the Florida Education Lotteries; the Florida Retirement System Trust Fund; trust funds under the management of the State Board of Education or the Board of Governors of the State University System, where such trust funds are for auxiliary enterprises, self-insurance, and contracts, grants, and donations, as those terms are defined by general law; trust funds that serve as clearing funds or accounts for the Chief Financial Officer or state agencies; trust funds that account for assets held by the state in a trustee capacity as an agent or fiduciary for individuals, private organizations, or other governmental units; and other trust funds authorized by the State Constitution.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Budget Stabilization Fund shall consist of amounts equal to at least 5 percent of net revenue collections for the General Revenue Fund during the last completed fiscal year. The Budget Stabilization Fund’s principal balance shall not exceed an amount equal to 10 percent of the last completed fiscal year’s net revenue collections for the General Revenue Fund. As used in this paragraph, the term “last completed fiscal year” means the most recently completed fiscal year prior to the regular legislative session at which the Legislature considers the General Appropriations Act for the year in which the transfer to the Budget Stabilization Fund must be made under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By September 15 of each year, the Governor shall authorize the Chief Financial Officer to transfer, and the Chief Financial Officer shall transfer pursuant to appropriations made by law, to the Budget Stabilization Fund the amount of money needed for the balance of that fund to equal the amount specified in subparagraph 1., less any amounts expended and not restored. The moneys needed for this transfer may be appropriated by the Legislature from any funds.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Unless otherwise provided in this subparagraph, an expenditure from the Budget Stabilization Fund must be restored pursuant to a restoration schedule that provides for making five equal annual transfers from the General Revenue Fund, beginning in the third fiscal year following that in which the expenditure was made. For any Budget Stabilization Fund expenditure, the Legislature may establish by law a different restoration schedule and such change may be made at any time during the restoration period. Moneys are hereby appropriated for transfers pursuant to this subparagraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Budget Stabilization Fund may be used as a revolving fund for transfers as provided in s. 215.18; however, any interest earned must be deposited in the General Revenue Fund.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 22833, 1945; s. 1, ch. 59-91; s. 2, ch. 59-257; s. 1, ch. 61-119; s. 1, ch. 65-266; s. 3, ch. 65-420; ss. 2, 3, ch. 67-371; ss. 12, 31, 35, ch. 69-106; s. 1, ch. 73-196; ss. 1, 2, ch. 73-316; s. 1, ch. 77-352; s. 15, ch. 79-190; s. 2, ch. 80-114; s. 6, ch. 81-169; s. 2, ch. 81-231; s. 9, ch. 81-295; ss. 2, 25, ch. 83-49; s. 31, ch. 87-247; s. 8, ch. 87-331; s. 44, ch. 87-548; s. 47, ch. 89-356; s. 5, ch. 91-79; s. 1, ch. 91-109; s. 14, ch. 92-142; s. 1, ch. 93-159; s. 1146, ch. 95-147; s. 12, ch. 98-73; s. 83, ch. 99-2; s. 13, ch. 2000-169; s. 47, ch. 2000-371; s. 18, ch. 2001-256; s. 1, ch. 2001-375; s. 3, ch. 2001-380; s. 209, ch. 2003-261; s. 9, ch. 2003-400; s. 21, ch. 2004-234; s. 73, ch. 2004-269; s. 51, ch. 2005-71; s. 7, ch. 2005-152; s. 3, ch. 2007-119; s. 22, ch. 2007-217; s. 51, ch. 2008-153; s. 2, ch. 2009-2; s. 52, ch. 2009-82; s. 1, ch. 2010-2; s. 59, ch. 2010-153; ss. 65, 66, ch. 2011-47; ss. 42, 43, ch. 2012-119.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 42, ch. 2012-119, amended paragraph (2)(b) “[i]n order to implement the transfer of funds to the General Revenue Fund from trust funds in the 2012-2013 General Appropriations Act.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 43, ch. 2012-119, provides that “[t]he amendment to s. 215.32(2)(b), Florida Statutes, as carried forward by this act from chapter 2011-47, Laws of Florida, shall expire July 1, 2013, and the text of that paragraph shall revert to that in existence on June 30, 2011, except that any amendments to such text enacted other than by this act shall be preserved and continue to operate to the extent that such amendments are not dependent upon the portions of text which expire pursuant to this section.” Effective July 1, 2013, paragraph (2)(b), as amended by s. 43, ch. 2012-119, will read:</Text>
+		<Text xml:space="preserve" Style="Indent">(b)1. The trust funds shall consist of moneys received by the state which under law or under trust agreement are segregated for a purpose authorized by law. The state agency or branch of state government receiving or collecting such moneys shall be responsible for their proper expenditure as provided by law. Upon the request of the state agency or branch of state government responsible for the administration of the trust fund, the Chief Financial Officer may establish accounts within the trust fund at a level considered necessary for proper accountability. Once an account is established within a trust fund, the Chief Financial Officer may authorize payment from that account only upon determining that there is sufficient cash and releases at the level of the account.</Text>
+		<Text xml:space="preserve" Style="Indent">2. In addition to other trust funds created by law, to the extent possible, each agency shall use the following trust funds as described in this subparagraph for day-to-day operations:</Text>
+		<Text xml:space="preserve" Style="Indent">a. Operations or operating trust fund, for use as a depository for funds to be used for program operations funded by program revenues, with the exception of administrative activities when the operations or operating trust fund is a proprietary fund.</Text>
+		<Text xml:space="preserve" Style="Indent">b. Operations and maintenance trust fund, for use as a depository for client services funded by third-party payors.</Text>
+		<Text xml:space="preserve" Style="Indent">c. Administrative trust fund, for use as a depository for funds to be used for management activities that are departmental in nature and funded by indirect cost earnings and assessments against trust funds. Proprietary funds are excluded from the requirement of using an administrative trust fund.</Text>
+		<Text xml:space="preserve" Style="Indent">d. Grants and donations trust fund, for use as a depository for funds to be used for allowable grant or donor agreement activities funded by restricted contractual revenue from private and public nonfederal sources.</Text>
+		<Text xml:space="preserve" Style="Indent">e. Agency working capital trust fund, for use as a depository for funds to be used pursuant to s. 216.272.</Text>
+		<Text xml:space="preserve" Style="Indent">f. Clearing funds trust fund, for use as a depository for funds to account for collections pending distribution to lawful recipients.</Text>
+		<Text xml:space="preserve" Style="Indent">g. Federal grant trust fund, for use as a depository for funds to be used for allowable grant activities funded by restricted program revenues from federal sources.</Text>
+		<Text xml:space="preserve" Style="Flush" SpaceAbove="true">To the extent possible, each agency must adjust its internal accounting to use existing trust funds consistent with the requirements of this subparagraph. If an agency does not have trust funds listed in this subparagraph and cannot make such adjustment, the agency must recommend the creation of the necessary trust funds to the Legislature no later than the next scheduled review of the agency’s trust funds pursuant to s. 215.3206.</Text>
+		<Text xml:space="preserve" Style="Indent">3. All such moneys are hereby appropriated to be expended in accordance with the law or trust agreement under which they were received, subject always to the provisions of chapter 216 relating to the appropriation of funds and to the applicable laws relating to the deposit or expenditure of moneys in the State Treasury.</Text>
+		<Text xml:space="preserve" Style="Indent">4.a. Notwithstanding any provision of law restricting the use of trust funds to specific purposes, unappropriated cash balances from selected trust funds may be authorized by the Legislature for transfer to the Budget Stabilization Fund and General Revenue Fund in the General Appropriations Act.</Text>
+		<Text xml:space="preserve" Style="Indent">b. This subparagraph does not apply to trust funds required by federal programs or mandates; trust funds established for bond covenants, indentures, or resolutions whose revenues are legally pledged by the state or public body to meet debt service or other financial requirements of any debt obligations of the state or any public body; the Division of Licensing Trust Fund in the Department of Agriculture and Consumer Services; the State Transportation Trust Fund; the trust fund containing the net annual proceeds from the Florida Education Lotteries; the Florida Retirement System Trust Fund; trust funds under the management of the State Board of Education or the Board of Governors of the State University System, where such trust funds are for auxiliary enterprises, self-insurance, and contracts, grants, and donations, as those terms are defined by general law; trust funds that serve as clearing funds or accounts for the Chief Financial Officer or state agencies; trust funds that account for assets held by the state in a trustee capacity as an agent or fiduciary for individuals, private organizations, or other governmental units; and other trust funds authorized by the State Constitution.</Text>
+	</Note>
+</Section>

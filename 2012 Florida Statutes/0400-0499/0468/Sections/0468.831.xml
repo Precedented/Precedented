@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.831" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemptions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following persons are not required to comply with any provision of this part:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An authorized government employee of the United States, this state, or any municipality, county, or other political subdivision who is conducting home inspection services within the scope of that employment, as long as the employee does not hold out for hire to the general public or otherwise engage in home inspection services.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person acting within his or her authorized scope of practice as licensed under federal, state, or local codes or statutes, except when such person holds himself or herself out for hire to the public as a “certified home inspector,” “registered home inspector,” “licensed home inspector,” “home inspector,” “professional home inspector,” or any combination thereof stating or implying licensure under this part.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An officer appointed by the court.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A person performing safety inspections of utility equipment in or on a home or building or other duties conducted by or for a utility under chapter 366 or rules adopted by the Public Service Commission.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A certified energy auditor performing an energy audit of any home or building or other duties conducted by or for a utility under chapter 366 or rules adopted by the Public Service Commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2007-235.</History>
+</Section>

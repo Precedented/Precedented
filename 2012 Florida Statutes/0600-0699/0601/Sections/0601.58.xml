@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0601.58" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application approval or disapproval.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each citrus fruit dealer’s license application that is approved, or approved subject to conditions, shall be forwarded immediately to the Department of Agriculture, which shall, upon satisfaction of the stated conditions, if any are endorsed thereon, issue to the applicant an appropriate license as prescribed in s. 601.60.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each temporary license granted under s. 601.57(3), license with conditions approved by the commission under s. 601.57(2), or conditional license issued upon interim staff approval under s. 601.57(7) shall clearly and conspicuously show thereon the specific conditions, or the temporary or conditional nature, thereof.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">No license shall be issued to any applicant whose application has been finally disapproved by the commission. Once an application has been finally disapproved by the commission, the application shall remain disapproved for the remainder of the subject shipping season.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 58, ch. 25149, 1949; s. 10, ch. 26484, 1951; ss. 14, 35, ch. 69-106; s. 7, ch. 71-185; s. 22, ch. 71-186; s. 1, ch. 73-250; s. 10, ch. 78-95; s. 2, ch. 81-318; ss. 5, 7, ch. 82-29; s. 52, ch. 83-216; ss. 1, 3, ch. 85-129; s. 4, ch. 91-429; s. 54, ch. 92-291; s. 11, ch. 97-220; s. 45, ch. 2012-182.</History>
+</Section>

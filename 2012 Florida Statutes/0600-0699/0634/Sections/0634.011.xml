@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0634.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Acquisition cost” means all costs specifically associated with acquiring new business, including, but not limited to, underwriting costs, commissions, contingent fees, and cost of sales material.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Additive product” means any fuel supplement, oil supplement, or any other supplement product added to a motor vehicle for the purpose of increasing or enhancing the performance or improving the longevity of such motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Affiliate” means any entity which exercises control over or is controlled by the motor vehicle service agreement company or insurer, directly or indirectly, through:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Equity ownership of voting securities;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Common managerial control; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Collusive participation by the management of the motor vehicle service agreement company or insurer and affiliate in the management of the motor vehicle service agreement company or insurer or the affiliate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Gross premium written” means the total amount of premiums paid by the agreement holder, inclusive of commissions, for those agreements which are in force.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Insurer” means any property or casualty insurer duly authorized to transact such business in this state.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A self-propelled device operated solely or primarily upon roadways to transport people or property, or the component part of such a self-propelled device, except such term does not include any self-propelled vehicle, or component part of such vehicle, which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has a gross vehicle weight rating of 10,000 pounds or more, and is not a recreational vehicle as defined by s. 320.01(1)(b);</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is designed to transport more than 10 passengers, including the driver; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Is used in the transportation of materials found to be hazardous for the purposes of the Hazardous Materials Transportation Act, as amended, 49 U.S.C. ss. 1801 et seq.; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A self-propelled device operated solely or primarily upon water for noncommercial, personal use, the engine of such a vehicle, or a trailer or other device used to transport such vehicle or device.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle manufacturer” means an entity that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Manufactures or produces motor vehicles and sells motor vehicles under its own name or label;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is a subsidiary of an entity that manufactures or produces motor vehicles; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is a corporation that owns 100 percent of an entity that manufactures or produces motor vehicles.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For purposes of this subsection, an entity qualifies as a subsidiary if 25 percent or more of its voting securities are directly or indirectly owned by an entity that manufactures or produces motor vehicles and sells motor vehicles under its own name or label.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle service agreement” or “service agreement” means any contract or agreement indemnifying the service agreement holder for the motor vehicle listed on the service agreement and arising out of the ownership, operation, and use of the motor vehicle against loss caused by failure of any mechanical or other component part, or any mechanical or other component part that does not function as it was originally intended; however, nothing in this part shall prohibit or affect the giving, free of charge, of the usual performance guarantees by manufacturers or dealers in connection with the sale of motor vehicles. Transactions exempt under s. 624.125 are expressly excluded from this definition and are exempt from the provisions of this part. The term “motor vehicle service agreement” includes any contract or agreement that provides:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the coverage or protection defined in this subsection and which is issued or provided in conjunction with an additive product applied to the motor vehicle that is the subject of such contract or agreement;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For payment of vehicle protection expenses.</Text>
+				<SubParagraph Id="1">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">“Vehicle protection expenses” means a preestablished flat amount payable for the loss of or damage to a vehicle or expenses incurred by the service agreement holder for loss or damage to a covered vehicle, including, but not limited to, applicable deductibles under a motor vehicle insurance policy; temporary vehicle rental expenses; expenses for a replacement vehicle that is at least the same year, make, and model of the stolen motor vehicle; sales taxes or registration fees for a replacement vehicle that is at least the same year, make, and model of the stolen vehicle; or other incidental expenses specified in the agreement.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">“Vehicle protection product” means a product or system installed or applied to a motor vehicle or designed to prevent the theft of the motor vehicle or assist in the recovery of the stolen motor vehicle.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Vehicle protection expenses shall be payable in the event of loss or damage to the vehicle as a result of the failure of the vehicle protection product to prevent the theft of the motor vehicle or to assist in the recovery of the stolen motor vehicle. Vehicle protection expenses covered under the agreement shall be clearly stated in the service agreement form, unless the agreement provides for the payment of a preestablished flat amount, in which case the service agreement form shall clearly identify such amount.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Motor vehicle service agreements providing for the payment of vehicle protection expenses shall either:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Reimburse a service agreement holder for the following expenses, at a minimum: deductibles applicable to comprehensive coverage under the service agreement holder’s motor vehicle insurance policy; temporary vehicle rental expenses; sales taxes and registration fees on a replacement vehicle that is at least the same year, make, and model of the stolen motor vehicle; and the difference between the benefits paid to the service agreement holder for the stolen vehicle under the service agreement holder’s comprehensive coverage and the actual cost of a replacement vehicle that is at least the same year, make, and model of the stolen motor vehicle; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Pay a preestablished flat amount to the service agreement holder.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">Payments shall not duplicate any benefits or expenses paid to the service agreement holder by the insurer providing comprehensive coverage under a motor vehicle insurance policy covering the stolen motor vehicle; however, the payment of vehicle protection expenses at a preestablished flat amount of $5,000 or less does not duplicate any benefits or expenses payable under any comprehensive motor vehicle insurance policy; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For the payment for paintless dent-removal services provided by a company whose primary business is providing such services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Paintless dent-removal” means the process of removing dents, dings, and creases, including hail damage, from a vehicle without affecting the existing paint finish, but does not include services that involve the replacement of vehicle body panels or sanding, bonding, or painting.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle service agreement company” or “service agreement company” means any corporation, sole proprietorship, or partnership (other than an authorized insurer) issuing motor vehicle service agreements.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Net assets” means the amount by which the total statutory assets exceed total liability, except that assets pledged to secure debts not reflected on the books of the service agreement company shall not be included in net assets.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Person” shall have the same meaning as defined in s. 624.04.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Premium” means the total amount paid by the agreement holder. No “assessment” or any “membership fee,” “policy fee,” “survey fee,” “inspection fee,” “service fee,” “finance fee,” or similar fee shall be charged by the service agreement company.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Rate” means the unit charge by which the measure of exposure in a service agreement is multiplied to determine the premium.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Salesperson” means any dealership, corporation, partnership, or sole proprietorship employed or otherwise retained by an insurer or motor vehicle service agreement company for the purpose of selling or issuing motor vehicle service agreements or for the purpose of soliciting or retaining other salespersons.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Unearned premium” means that portion of the gross written premium which has not been earned on a straight pro rata basis.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Unearned premium reserve” means unencumbered assets equal to 50 percent of the unearned premium.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Unearned gross written premium” means that portion of the gross written premium which has not been amortized or earned on a pro rata basis.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 59-110; ss. 13, 35, ch. 69-106; s. 268, ch. 71-377; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 1, ch. 78-231; ss. 2, 3, ch. 81-318; ss. 1, 32, 33, ch. 82-234; s. 5, ch. 85-321; s. 1, ch. 88-46; s. 1, ch. 89-125; ss. 9, 68, ch. 91-106; ss. 1, 20, ch. 93-195; s. 1, ch. 94-280; s. 1, ch. 97-74; s. 452, ch. 97-102; s. 1, ch. 2001-281; s. 1, ch. 2002-86; s. 1, ch. 2003-150; s. 1415, ch. 2003-261; s. 1, ch. 2005-258; s. 2, ch. 2008-178; s. 10, ch. 2010-175; s. 1, ch. 2012-77.</History>
+</Section>

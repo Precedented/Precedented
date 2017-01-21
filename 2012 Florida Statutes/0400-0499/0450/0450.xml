@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXI">
+	<ChapterNumber>450</ChapterNumber>
+	<ChapterName xml:space="preserve">Minority labor groups</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Child labor</PartTitle>
+		<Section Number="0450.001" />
+		<Section Number="0450.012" />
+		<Section Number="0450.021" />
+		<Section Number="0450.045" />
+		<Section Number="0450.061" />
+		<Section Number="0450.081" />
+		<Section Number="0450.095" />
+		<Section Number="0450.121" />
+		<Section Number="0450.132" />
+		<Section Number="0450.141" />
+		<Section Number="0450.151" />
+		<Section Number="0450.155" />
+		<Section Number="0450.161" />
+		<Section Number="0450.165" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Migrant labor</PartTitle>
+		<Section Number="0450.175" />
+		<Section Number="0450.181" />
+		<Section Number="0450.191" />
+		<Section Number="0450.251" />
+		<Section Number="0450.261" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Farm labor contractor registration</PartTitle>
+		<Section Number="0450.27" />
+		<Section Number="0450.271" />
+		<Section Number="0450.28" />
+		<Section Number="0450.29" />
+		<Section Number="0450.30" />
+		<Section Number="0450.31" />
+		<Section Number="0450.321" />
+		<Section Number="0450.33" />
+		<Section Number="0450.34" />
+		<Section Number="0450.35" />
+		<Section Number="0450.36" />
+		<Section Number="0450.37" />
+		<Section Number="0450.38" />
+		<Section Number="0450.39" />
+	</Part>
+</Chapter>

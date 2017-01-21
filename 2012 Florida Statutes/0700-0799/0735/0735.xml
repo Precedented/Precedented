@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLII">
+  <ChapterNumber>735</ChapterNumber>
+  <ChapterName xml:space="preserve">Probate code: small estates</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Summary administration</PartTitle>
+    <Section Number="0735.201" />
+    <Section Number="0735.202" />
+    <Section Number="0735.203" />
+    <Section Number="0735.2055" />
+    <Section Number="0735.206" />
+    <Section Number="0735.2063" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Disposition of personal property<NewLine />without administration</PartTitle>
+    <Section Number="0735.301" />
+    <Section Number="0735.302" />
+  </Part>
+</Chapter>

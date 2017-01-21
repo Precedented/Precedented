@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.15" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Regional emergency elevator access.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In order to provide emergency access to elevators:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For each building in this state which is six or more stories in height, including, but not limited to, hotels and condominiums, on which a building permit is issued after September 30, 2006, all of the keys for elevators that allow public access, including, but not limited to, service and freight elevators, must be keyed so as to allow all elevators within each of the seven state emergency response regions to operate in fire emergency situations with one master elevator key.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any building in this state which is six or more stories in height and has undergone “substantial improvement” as defined in s. 161.54(12) must also comply with paragraph (a).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each existing building in this state which is six or more stories in height must comply with subsection (1) before October 1, 2009.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In addition to elevator owners, owners’ agents, elevator contractors, state-certified inspectors, and state agency representatives, master elevator keys may be issued only to the fire department and may not be issued to any other emergency response agency. A person may not duplicate a master elevator key for issuance to, or issue such a key to, anyone other than authorized fire department personnel. Each master elevator key must be marked “DO NOT DUPLICATE.”</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If it is technically, financially, or physically impossible to bring a building into compliance with this section, the local fire marshal may allow substitute emergency measures that will provide reasonable emergency elevator access. The local fire marshal’s decision regarding substitute measures may be appealed to the State Fire Marshal.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The Division of State Fire Marshal of the Department of Financial Services shall enforce this section. Any person who fails to comply with the requirements of this section is subject to an administrative fine of not more than $1,000, in addition to any other penalty provided by law. All administrative fines shall be deposited into the Insurance Regulatory Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Builders should make every effort to use new technology and developments in keying systems which make it possible to convert existing equipment so as to provide efficient regional emergency elevator access.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">As an alternative to complying with the requirements of subsection (1), each building in this state which is required to meet the provisions of subsections (1) and (2) may instead provide for the installation of a uniform lock box that contains the keys to all elevators in the building allowing public access, including service and freight elevators. The uniform lock box must be keyed to allow all uniform lock boxes in each of the seven state emergency response regions to operate in fire emergency situations using one master key. The master key for the uniform lock shall be issued in accordance with subsection (3). The Division of State Fire Marshal of the Department of Financial Services shall enforce this subsection.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Department of Financial Services shall adopt rules to implement this section, including rules to determine the master elevator key to be used within each of the emergency response regions.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-12; s. 2, ch. 2006-65; s. 3, ch. 2010-176.</History>
+</Section>

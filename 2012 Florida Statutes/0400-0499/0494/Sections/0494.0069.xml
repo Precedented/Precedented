@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0494.0069" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lock-in agreement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each lock-in agreement must be in writing and must contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The expiration date of the lock-in, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The interest rate locked in, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The discount points locked in, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The commitment fee locked in, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The lock-in fee, if any; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A statement advising of the provisions of this part regarding lock-in agreements.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The mortgage lender shall make a good faith effort to process the mortgage loan application and stand ready to fulfill the terms of its commitment before the expiration date of the lock-in agreement or any extension thereof.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any lock-in agreement received by a mortgage lender by mail or through a mortgage broker must be signed by the mortgage lender in order to become effective. The borrower may rescind any lock-in agreement until a written confirmation of the agreement has been signed by the lender and mailed to the borrower or to the mortgage broker pursuant to its contractual relationship with the borrower. If a borrower elects to so rescind, the mortgage lender shall promptly refund any lock-in fee paid.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Before issuing a mortgage loan rate lock-in agreement, a mortgage lender must have the ability to timely advance funds on all mortgage loans for which rate lock-in agreements have been issued. As used in this section, “ability to timely advance funds” means having sufficient liquid assets or a line of credit necessary to cover all rate lock-in agreements issued with respect to which a lock-in fee is collected.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A mortgage lender that does not comply with this subsection may issue mortgage rate lock-in agreements only if, prior to the issuance, the mortgage lender:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has received a written rate lock-in agreement from a mortgage lender that complies with this subsection; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has received a written rate lock-in agreement from an institutional investor or an agency of the Federal Government or the state or local government that will be funding, making, or purchasing the mortgage loan.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All rate lock-in fees collected by a mortgage lender who is not in compliance must be deposited into an escrow account in a federally insured financial institution, and such fees may not be removed from such escrow account until:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The mortgage loan closes and is funded;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The applicant cancels the loan application or the loan application is rejected; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The mortgage lender is required to forward a portion of the lock-in fee to another mortgage lender, institutional investor, or agency that will be funding, making, or purchasing the loan. The mortgage lender may remove only the amount of the lock-in fee actually paid to another mortgage lender, institutional investor, or agency.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “lock-in fee” means any moneys advanced by the borrower to lock in for a specified period of time a specified interest rate or discount points.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The commission may adopt by rule a form for required lock-in agreement disclosures.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 40, 50, ch. 91-245; s. 4, ch. 91-429; s. 18, ch. 95-313; s. 543, ch. 2003-261; s. 53, ch. 2009-241.</History>
+</Section>

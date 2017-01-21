@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0052" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Dental health.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section shall be known as the “Public Health Dental Program Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to make available dental preventive and educational services to the citizens of the state and treatment services to indigent persons.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall implement a comprehensive dental program which shall be designed to include, but not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Comprehensive preventive and educational programs.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Comprehensive treatment services, including diagnostic, basic restorative, surgical, pulpal therapy, prophylaxis, and limited prosthetic services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Services shall be available to eligible persons in accordance with eligibility criteria developed by the department. Fees for treatment shall be determined by the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 20, ch. 91-297; s. 24, ch. 2012-184.</History>
+</Section>

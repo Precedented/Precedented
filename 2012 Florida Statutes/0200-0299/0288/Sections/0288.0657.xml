@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.0657" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Florida rural economic development strategy grants.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “rural community” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A county with a population of 75,000 or fewer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A county with a population of 125,000 or fewer which is contiguous to a county with a population of 75,000 or fewer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A municipality within a county described in paragraph (a) or paragraph (b).</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For purposes of this subsection, population shall be determined in accordance with the most recent official estimate pursuant to s. 186.901.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may accept and administer moneys appropriated to the department for providing grants to assist rural communities to develop and implement strategic economic development plans.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A rural community, an economic development organization in a rural area, or a regional organization representing at least one rural community or such economic development organizations may apply for such grants.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall establish criteria for reviewing grant applications. These criteria shall include, but are not limited to, the degree of participation and commitment by the local community and the application’s consistency with local comprehensive plans or the application’s proposal to ensure such consistency. The department shall review each application for a grant. The department may approve grants only to the extent that funds are appropriated for such grants by the Legislature.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 98, ch. 99-251; s. 15, ch. 2009-51; s. 145, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 497, ch. 2011-142, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) For purposes of this section, the term ‘Disproportionally Affected County’ means Bay County, Escambia County, Franklin County, Gulf County, Okaloosa County, Santa Rosa County, Walton County, or Wakulla County.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 up to the cumulative amount of $5 million of all state incentives received per project. Prior to granting such waiver, the executive director of the department shall file with the Governor a written statement of the conditions and circumstances constituting the reason for the waiver.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts in excess of $5 million but less than $10 million of all state incentives received per project. Prior to granting such waiver, the department shall file with the Governor, the President of the Senate, and the Speaker of the House of Representatives a written statement of the conditions and circumstances constituting the reason for the waiver, and requesting written concurrence within 5 business days to the Governor from the President of the Senate and the Speaker of the House of Representatives. Without such concurrence, the waiver shall not occur.</Text>
+		<Text xml:space="preserve" Style="Indent">“(4) The Department of Economic Opportunity is not authorized under this paragraph to waive job and wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts $10 million or more in state incentives received per project.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 1, ch. 2012-128.</Text>
+	</Note>
+</Section>

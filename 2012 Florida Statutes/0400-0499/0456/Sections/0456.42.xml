@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0456.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Written prescriptions for medicinal drugs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A written prescription for a medicinal drug issued by a health care practitioner licensed by law to prescribe such drug must be legibly printed or typed so as to be capable of being understood by the pharmacist filling the prescription; must contain the name of the prescribing practitioner, the name and strength of the drug prescribed, the quantity of the drug prescribed, and the directions for use of the drug; must be dated; and must be signed by the prescribing practitioner on the day when issued. However, a prescription that is electronically generated and transmitted must contain the name of the prescribing practitioner, the name and strength of the drug prescribed, the quantity of the drug prescribed in numerical format, and the directions for use of the drug and must be dated and signed by the prescribing practitioner only on the day issued, which signature may be in an electronic format as defined in s. 668.003(4).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A written prescription for a controlled substance listed in chapter 893 must have the quantity of the drug prescribed in both textual and numerical formats, must be dated with the abbreviated month written out on the face of the prescription, and must be either written on a standardized counterfeit-proof prescription pad produced by a vendor approved by the department or electronically prescribed as that term is used in s. 408.0611. As a condition of being an approved vendor, a prescription pad vendor must submit a monthly report to the department which, at a minimum, documents the number of prescription pads sold and identifies the purchasers. The department may, by rule, require the reporting of additional information.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2003-41; s. 2, ch. 2006-271; s. 2, ch. 2009-202; s. 2, ch. 2011-141.</History>
+</Section>

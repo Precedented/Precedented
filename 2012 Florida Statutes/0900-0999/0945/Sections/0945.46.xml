@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0945.46">
+	<Catchline xml:space="preserve">Initiation of involuntary placement proceedings with respect to a mentally ill inmate scheduled for release.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If an inmate who is receiving mental health treatment in the department is scheduled for release through expiration of sentence or any other means, but continues to be mentally ill and in need of care and treatment, as defined in s. 945.42, the warden is authorized to initiate procedures for involuntary placement pursuant to s. 394.467, 60 days prior to such release.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In addition, the warden may initiate procedures for involuntary examination pursuant to s. 394.463 for any inmate who has a mental illness and meets the criteria of s. 394.463(1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may transport an individual who is being released from its custody to a receiving or treatment facility for involuntary examination or placement. Such transport shall be made to a facility that is specified by the Department of Children and Family Services as able to meet the specific needs of the individual. If the Department of Children and Family Services does not specify a facility, transport may be made to the nearest receiving facility.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 82-224; s. 29, ch. 84-361; s. 7, ch. 96-422; s. 23, ch. 2000-161; s. 15, ch. 2008-250; s. 15, ch. 2010-64.</History>
+</Section>

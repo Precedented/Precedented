@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.417" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sale of personal property after seizure.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When personal property is levied upon for delinquent taxes as provided for in s. 197.413, at least 7 days before the sale the tax collector shall give public notice by advertisement of the time and place of sale of the property to be sold. The notice shall be posted in at least two public places in the county and the property shall be sold at public auction at the location noted in the advertisement. Notice posted on the Internet qualifies as one location. The property sold shall be present if practical. If the sale is conducted electronically, a description of the property and a photograph, when practical, shall be available. At any time before the sale the owner or claimant of the property may release the property by the payment of the taxes, plus delinquent charges, interest, and costs, for which the property was liable to be sold. In case such a sale is made, the tax collector is entitled to the same fees and charges as are allowed sheriffs upon execution sales.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the property levied upon is sold for more than the amount of taxes, delinquent charges, interest, costs, and collection fees, the surplus shall be returned to the person who had possession of the property when the levy was made or to the owner of the property.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the property levied upon cannot be located in the county or is sold for less than the amount of taxes, delinquent charges, interest, costs, and collection fees, the deficit shall be a general lien against all the taxpayer’s other personal property situated in the county. The other property may be seized and sold in the same manner as property on which there is a specific lien for delinquent taxes.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 173, ch. 85-342; s. 38, ch. 2011-151.</History>
+</Section>

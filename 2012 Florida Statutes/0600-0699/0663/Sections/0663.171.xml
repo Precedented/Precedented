@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.171" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Liquidation; repudiation of contracts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, when the office has taken possession of the business and property in this state of an international banking corporation, or any of the corporation’s licensed offices located in this state, the office may assume or repudiate any contract, including an unexpired lease, of the corporation:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To which such corporation is a party.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The performance of which the office, in its discretion, determines to be burdensome.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The repudiation of which the office, in its discretion, determines will promote the orderly administration of the corporation’s affairs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">After the expiration of 90 days after the date the office takes possession of the business and property of an international banking corporation, or any of the corporation’s licensed offices located in this state, any party to a contract with such corporation may demand in writing that the office assume or repudiate such contract. If the office has not assumed or repudiated the contract within 15 calendar days after the date of receipt of such demand, the affected party may bring an action in a court of competent jurisdiction in the county in which the licensed office of the corporation is located to obtain an order requiring the office to assume or repudiate the contract. If the office has not assumed or repudiated the contract by at least 1 month before the last date for filing claims against the corporation, such contract shall be deemed repudiated.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (2), with respect to an unexpired lease of the corporation for rental of real property under which the corporation was a lessee, if the office remains in possession of the leasehold, the office shall not be required to assume or repudiate such lease and may continue in possession of such leasehold for the remainder of the term of the lease in accordance with the terms of the lease; provided, if the office later repudiates the lease before the end of the lease term, any amounts that may be due the lessor with respect to such lease shall be calculated as provided by law.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section relating to liquidating an international banking corporation, or any of the corporation’s licensed offices located in this state, the office shall not assume or repudiate any qualified financial contract that the international banking corporation entered into which is subject to a multibranch or multiagency netting agreement or arrangement that provides for netting present or future payment obligations or payment entitlements, including termination or closeout values relating to the obligations or entitlements, among the parties to the contract and agreement or arrangement and the office may, but shall not be required to, assume or repudiate any other qualified financial contract an international banking corporation entered into; provided, upon the repudiation of any qualified financial contract or the termination or liquidation of any qualified financial contract in accordance with its terms, the liability of the office under such qualified financial contract shall be determined in accordance with s. 663.172.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 97-109; s. 1834, ch. 2003-261; s. 17, ch. 2010-9.</History>
+</Section>

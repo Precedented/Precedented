@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0445.006" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Strategic and operational plans for workforce development.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., in conjunction with state and local partners in the workforce system, shall develop a strategic plan that produces skilled employees for employers in the state. The strategic plan shall be updated or modified by January 1 of each year. The plan must include, but need not be limited to, strategies for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Fulfilling the workforce system goals and strategies prescribed in s. 445.004;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Aggregating, integrating, and leveraging workforce system resources;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Coordinating the activities of federal, state, and local workforce system partners;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Addressing the workforce needs of small businesses; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Fostering the participation of rural communities and distressed urban cores in the workforce system.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., shall establish an operational plan to implement the state strategic plan. The operational plan shall be submitted to the Governor and the Legislature along with the strategic plan and must reflect the allocation of resources as appropriated by the Legislature to specific responsibilities enumerated in law. As a component of the operational plan required under this section, Workforce Florida, Inc., shall develop a workforce marketing plan, with the goal of educating individuals inside and outside the state about the employment market and employment conditions in the state. The marketing plan must include, but need not be limited to, strategies for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Distributing information to secondary and postsecondary education institutions about the diversity of businesses in the state, specific clusters of businesses or business sectors in the state, and occupations by industry which are in demand by employers in the state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Distributing information about and promoting use of the Internet-based job matching and labor market information system authorized under s. 445.011; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Coordinating with Enterprise Florida, Inc., to ensure that workforce marketing efforts complement the economic development marketing efforts of the state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The operational plan must include performance measures, standards, measurement criteria, and contract guidelines in the following areas with respect to participants in the welfare transition program:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Work participation rates, by type of activity;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Caseload trends;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Recidivism;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Participation in diversion and relocation assistance programs;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Employment retention;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Wage growth; and</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Other issues identified by the board of directors of Workforce Florida, Inc.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The strategic plan must include criteria for allocating workforce resources to regional workforce boards. With respect to allocating funds to serve customers of the welfare transition program, such criteria may include weighting factors that indicate the relative degree of difficulty associated with securing and retaining employment placements for specific subsets of the welfare transition caseload.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The operational plan may include a performance-based payment structure to be used for all welfare transition program customers which takes into account:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The degree of difficulty associated with placement and retention;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The quality of the placement with respect to salary, benefits, and opportunities for advancement; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The employee’s retention in the placement.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The payment structure may provide for bonus payments of up to 10 percent of the contract amount to providers that achieve notable success in achieving contract objectives, including, but not limited to, success in diverting families in which there is an adult who is subject to work requirements from receiving cash assistance and in achieving long-term job retention and wage growth with respect to welfare transition program customers. A service provider shall be paid a maximum of one payment per service for each participant during any given 6-month period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The operational plan must include strategies that are designed to prevent or reduce the need for a person to receive public assistance, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A teen pregnancy prevention component that includes, but is not limited to, a plan for implementing the Teen Pregnancy Prevention Community Initiative within each county of the services area in which the teen birth rate is higher than the state average;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A component that encourages community-based welfare prevention and reduction initiatives that increase support provided by noncustodial parents to their welfare-dependent children and are consistent with program and financial guidelines developed by Workforce Florida, Inc., and the Commission on Responsible Fatherhood. These initiatives may include improved paternity establishment, work activities for noncustodial parents, programs aimed at decreasing out-of-wedlock pregnancies, encouraging involvement of fathers with their children which includes court-ordered supervised visitation, and increasing child support payments;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A component that encourages formation and maintenance of two-parent families through, among other things, court-ordered supervised visitation;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A component that fosters responsible fatherhood in families receiving assistance; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A component that fosters the provision of services that reduce the incidence and effects of domestic violence on women and children in families receiving assistance.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Specifications for welfare transition program services that are to be delivered include, but are not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Initial assessment services prior to an individual being placed in an employment service, to determine whether the individual should be referred for relocation, up-front diversion, education, or employment placement. Assessment services shall be paid on a fixed unit rate and may not provide educational or employment placement services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Referral of participants to diversion and relocation programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Preplacement services, including assessment, staffing, career plan development, work orientation, and employability skills enhancement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Services necessary to secure employment for a welfare transition program participant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Services necessary to assist participants in retaining employment, including, but not limited to, remedial education, language skills, and personal and family counseling.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Desired quality of job placements with regard to salary, benefits, and opportunities for advancement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Expectations regarding job retention.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Strategies to ensure that transition services are provided to participants for the mandated period of eligibility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Services that must be provided to the participant throughout an education or training program, such as monitoring attendance and progress in the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Services that must be delivered to welfare transition program participants who have a deferral from work requirements but wish to participate in activities that meet federal participation requirements.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Expectations regarding continued participant awareness of available services and benefits.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2000-165; s. 4, ch. 2005-255; ss. 145, 197, ch. 2010-102.</History>
+</Section>

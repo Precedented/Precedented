@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0727.111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Notice.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The assignee shall give notice of the assignment by publication in a newspaper of general circulation published in the county where the petition is filed and in any other county or counties where the assignment is required to be recorded pursuant to s. 727.104(2), once a week for 4 consecutive weeks, the first notice to be published within 10 days after filing of the petition; and by mailing notice to all known creditors within 20 days after filing of the petition. The notice of the assignment shall include the date of filing of the petition; the name of the court where the petition is filed and the case number assigned to the petition; the last day on which a proof of claim may be served upon the assignee, to be determined in accordance with s. 727.112(2); and the name and address of the assignor, the assignee, and the assignee’s attorney, if any.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The notice of assignment shall be in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF ASSIGNMENT</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IN THE CIRCUIT COURT</Text>
+			<Text xml:space="preserve" Style="Flush">OF THE<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Flush">CIRCUIT, IN AND FOR</Text>
+			<Text xml:space="preserve" Style="Flush"><HorizontalRule Type="Fixed" />COUNTY,</Text>
+			<Text xml:space="preserve" Style="Flush">FLORIDA</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IN RE: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />,</Text>
+			<Text xml:space="preserve" Style="Flush">    Assignor,</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">to:<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />,</Text>
+			<Text xml:space="preserve" Style="Flush">    Assignee.</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">TO CREDITORS AND OTHER INTERESTED PARTIES:</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">PLEASE TAKE NOTICE that on <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, a petition commencing an assignment for the benefit of creditors pursuant to chapter 727, Florida Statutes, made by <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, assignor, with principal place of business at <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, to <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, assignee, whose address is <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, was filed on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+			<Text xml:space="preserve" Style="Indent">YOU ARE HEREBY further notified that in order to receive any dividend in this proceeding you must file a proof of claim with the assignee or the assignee’s attorney on or before<HorizontalRule Type="Fixed" />(120 days from the date of the filing of the petition).</Text>
+			<Table Width="100" SpaceAbove="true">
+				<ColumnDefinitions>
+					<Column Width="65" />
+					<Column Width="35" />
+				</ColumnDefinitions>
+				<Body>
+					<Row>
+						<Cell></Cell>
+						<Cell HorizontalAlign="Center">
+							<Text xml:space="preserve"><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><NewLine />ASSIGNEE</Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Attorney for assignee (if any):<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceBelow="true">Address:<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The assignee shall give the assignor and all creditors not less than 10 days’ notice by mail of an examination of the assignor pursuant to s. 727.108(2).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The assignee shall give the assignor and all creditors not less than 20 days’ notice by mail of a proposed sale of assets of the estate other than in the ordinary course of business, the assignee’s continued operation of the assignor’s business for longer than 14 calendar days, the compromise or settlement of a controversy, and the payment of fees and expenses to the assignee and to professional persons employed by the assignee pursuant to s. 727.108(7). Any objections to the proposed action must be filed and served upon the assignee and the assignee’s attorney, if any, not less than 3 days before the date of the proposed action. The notice must include a description of the proposed action to be taken, the date of the proposed action, and the date and place for the hearing at which any objections will be heard. If objections are not timely filed and served, the assignee may take action as described in the notice without further order of the court or may obtain an order of the court granting such motion if the assignee reasonably believes that the order is necessary to proceed with the action contemplated by the motion.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The assignee shall give the assignor and all creditors not less than 20 days’ notice by mail of the filing of his or her petition for discharge and the final report of receipts and disbursements pursuant to s. 727.116. The notice shall include a summary of all receipts and disbursements of the estate and shall set forth the date and place of the final hearing.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">For good cause shown and without notice of hearing, the court may shorten the notice period or limit the parties to whom notice need be given, pursuant to subsection (3) or subsection (4).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Wherever notice is required to be given under this chapter and the period of such notice is not specified, the court shall fix such period of notice as is appropriate in the particular circumstances.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Wherever notice is required to be given under this chapter, a certificate of service of such notice shall be filed with the court, and notice shall be given to all consensual lienholders and counsel who have filed a notice of appearance with the court or who are identified in the assignor’s schedules.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Wherever notice is not specifically required to be given under this chapter, the court in its discretion may consider motions and grant or deny relief without notice or hearing.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 87-174; s. 943, ch. 97-102; s. 34, ch. 99-6; s. 9, ch. 2007-185.</History>
+</Section>

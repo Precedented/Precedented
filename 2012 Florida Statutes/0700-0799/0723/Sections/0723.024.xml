@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0723.024" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Compliance by mobile home park owners and mobile home owners.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this chapter or of any local law, ordinance, or code:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a unit of local government finds that a violation of a local code or ordinance has occurred, the unit of local government shall cite the responsible party for the violation and enforce the citation under its local code and ordinance enforcement authority.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A lien, penalty, fine, or other administrative or civil proceeding may not be brought against a mobile home owner or mobile home for any duty or responsibility of the mobile home park owner under s. 723.022 or against a mobile home park owner or mobile home park property for any duty or responsibility of the mobile home owner under s. 723.023.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2011-105.</History>
+</Section>

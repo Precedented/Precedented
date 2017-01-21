@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0420.36" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Low-income Emergency Home Repair Program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is established within the Department of Economic Opportunity the Low-income Emergency Home Repair Program to assist low-income persons, especially the elderly and physically disabled, in making emergency repairs which directly affect their health and safety.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Grantee” means a local public or private nonprofit agency currently receiving funds from the department to conduct a weatherization assistance program in one or more counties or a public or nonprofit agency chosen as outlined in subparagraph (4)(c)4.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Subgrantee” means a local public or private nonprofit agency experienced in weatherization, emergency repairs, or rehabilitation of housing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person is eligible to receive assistance if that person has an income in relation to that person’s family size which is at or below 125 percent of the poverty level as specified annually in the federal Office of Management and Budget Poverty Guidelines. Eligible persons over 60 years of age and eligible persons who are physically disabled shall be given priority in the program.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Allowable repairs, including materials and labor, which may be charged under the program include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Correcting deficiencies in support beams, load-bearing walls, and floor joists.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Repair or replacement of unsafe or nonfunctional space heating or water heating systems.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Egress or physically disabled accessibility repairs, improvements, or assistive devices, including wheelchair ramps, steps, porches, handrails, or other health and safety measures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Plumbing, pump, well, and line repairs to ensure safe drinking water and sanitary sewage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Electrical repairs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Repairs to deteriorating walls, floors, and roofs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Other interior and exterior repairs as necessary for the health and safety of the resident.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Administrative expenses may not exceed 10 percent of the total grant funds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each grantee shall be required to provide an in-kind or cash match of at least 20 percent of the funds granted. Grantees and subgrantees shall be encouraged to use community resources to provide such match, including family, church, and neighborhood volunteers and materials provided by local groups and businesses. Grantees shall coordinate with local governments through their community development block grant entitlement programs and other housing programs, local housing partnerships, and agencies under contract to a lead agency for the provisions of services under the Community Care for the Elderly Act, ss. 430.201-430.207.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Funds appropriated to the department for the program shall be deposited in the Energy Consumption Trust Fund. Administrative and personnel costs incurred by the department in implementing the provisions of this section may be paid from the fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The grantee may subgrant these funds to a subgrantee if the grantee is unable to serve all of the county or the target population. Grantee and subgrantee eligibility shall be determined by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Funds shall be distributed to grantees and subgrantees as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For each county, a base amount of at least $3,000 shall be set aside from the total funds available, and such amount shall be deducted from the total amount appropriated by the Legislature.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The balance of the funds appropriated by the Legislature shall be divided by the total poverty population of the state, and this quotient shall be multiplied by each county’s share of the poverty population. That amount plus the base of at least $3,000 shall constitute each county’s share. A grantee which serves more than one county shall receive the base amount plus the poverty population share for each county to be served. Contracts with grantees may be renewed annually.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The funds allocated to each county shall be offered first to an existing weatherization assistance program grantee in good standing, as determined by the department, that can provide services to the target population of low-income persons, low-income elderly persons, and low-income physically disabled persons throughout the county.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If a weatherization assistance program grantee is not available to serve the entire county area, the funds shall be distributed through the following process:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An announcement of funding availability shall be provided to the county. The county may elect to administer the program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If the county elects not to administer the program, the department shall establish rules to address the selection of one or more public or private not-for-profit agencies that are experienced in weatherization, rehabilitation, or emergency repair to administer the program.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If no eligible agency agrees to serve a county, the funds for that county shall be distributed to grantees having the best performance record as determined by department rule. At the end of the contract year, any uncontracted or unexpended funds shall be returned to the Energy Consumption Trust Fund and reallocated under the next year’s contracting cycle.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department may perform all actions appropriate and necessary to carry out the purposes of this section, including, but not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Entering into contracts and agreements with the Federal Government, agencies of the state, local governments, or any person, association, corporation, or entity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Seeking and accepting funding from any public or private source.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Adopting and enforcing rules consistent with this section.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 92-317; s. 43, ch. 95-418; s. 66, ch. 96-418; s. 48, ch. 2005-71; s. 14, ch. 2007-6; s. 327, ch. 2011-142.</History>
+</Section>

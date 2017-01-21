@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.552" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Employee groups.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Subject to all of the requirements of this section, the lives of a group of individual employees of an employer may be insured, for the benefit of persons other than the employer, under a policy issued to the employer or to the trustees of a fund established by an employer, which employer or board of trustees is deemed to be the policyholder.</Text>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The employees eligible for insurance under the policy shall be all of the employees of the employer, or all of any class or classes of employees determined by conditions pertaining to their employment; however, a class of employees may not be created or permitted that consists solely of employees covered under the employer’s group health plan. This section does not prohibit an employer from requiring participation in its group health plan as a condition of employment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The policy may provide that the term “employees” includes the employees of one or more subsidiary corporations, and includes the employees, individual proprietors, and partners of one or more affiliated corporations, proprietors, or partnerships if the business of the employer and of the affiliated corporations, proprietors, or partnerships is under common control. The policy may provide that the term “employees” includes the individual proprietor or partners if the employer is an individual proprietor or a partnership. The policy may provide that the term “employees” includes directors of a corporate employer, former employees, or retired employees.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A policy issued to insure the employees of a public body may provide that the term “employees” includes elected or appointed officials.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The premium for the policy shall be paid by the policyholder, either from the employer’s funds or from funds contributed by the insured employees, or from both. A policy on which no part of the premium is derived from funds contributed by the insured employees must insure all eligible employees, or all except any as to whom evidence of individual insurability is not satisfactory to the insurer, except those employees who reject coverage in writing.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The amounts of insurance under the policy must be based upon some plan precluding individual selection either by the employees or by the employer or trustees.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">This section does not affect the provisions of ss. 112.08-112.14.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 525, ch. 59-205; s. 1, ch. 63-187; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 423, 448, 809(2nd), ch. 82-243; s. 79, ch. 82-386; ss. 47, 114, ch. 92-318; s. 4, ch. 2010-61.</History>
+</Section>

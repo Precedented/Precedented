@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.4144" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Federal environmental permitting.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Facilitate coordination and a more efficient process of implementing regulatory duties and functions between the Department of Environmental Protection, the water management districts, the United States Army Corps of Engineers, the United States Fish and Wildlife Service, the National Marine Fisheries Service, the United States Environmental Protection Agency, the Fish and Wildlife Conservation Commission, and other relevant federal and state agencies.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Authorize the Department of Environmental Protection to obtain issuance by the United States Army Corps of Engineers, pursuant to state and federal law and as set forth in this section, of an expanded state programmatic general permit, or a series of regional general permits, for categories of activities in waters of the United States governed by the Clean Water Act and in navigable waters under the Rivers and Harbors Act of 1899 which are similar in nature, which will cause only minimal adverse environmental effects when performed separately, and which will have only minimal cumulative adverse effects on the environment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Use the mechanism of such a state general permit or such regional general permits to eliminate overlapping federal regulations and state rules that seek to protect the same resource and to avoid duplication of permitting between the United States Army Corps of Engineers and the department for minor work located in waters of the United States, including navigable waters, thus eliminating, in appropriate cases, the need for a separate individual approval from the United States Army Corps of Engineers while ensuring the most stringent protection of wetland resources.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Direct the department not to seek issuance of or take any action pursuant to any such permit or permits unless such conditions are at least as protective of the environment and natural resources as existing state law under this part and federal law under the Clean Water Act and the Rivers and Harbors Act of 1899.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In order to effectuate efficient wetland permitting and avoid duplication, the department and water management districts are authorized to implement a voluntary state programmatic general permit for all dredge and fill activities impacting 3 acres or less of wetlands or other surface waters, including navigable waters, subject to agreement with the United States Army Corps of Engineers, if the general permit is at least as protective of the environment and natural resources as existing state law under this part and federal law under the Clean Water Act and the Rivers and Harbors Act of 1899.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section <Reference Number="1"/>may not preclude the department from pursuing a series of regional general permits for construction activities in wetlands or surface waters or complete assumption of federal permitting programs regulating the discharge of dredged or fill material pursuant to s. 404 of the Clean Water Act, Pub. L. No. 92-500, as amended, 33 U.S.C. ss. 1251 et seq., and s. 10 of the Rivers and Harbors Act of 1899, so long as the assumption encompasses all dredge and fill activities in, on, or over jurisdictional wetlands or waters, including navigable waters, within the state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2005-273; s. 1, ch. 2012-114; s. 8, ch. 2012-205.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 8, ch. 2012-205. The amendment by s. 1, ch. 2012-114, used the word “does” instead of the word “may.”</Text>
+	</Note>
+</Section>

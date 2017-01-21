@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0030.231" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sheriffs’ fees for service of summons, subpoenas, and executions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The sheriffs of all counties of the state in civil cases shall charge fixed, nonrefundable fees for docketing and service of process, according to the following schedule:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All summons or writs except executions: $40 for each summons or writ to be served, except when more than one summons or writ is issued at the same time out of the same cause of action to be served upon one person or defendant at the same time, in which case the sheriff shall be entitled to one fee.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All writs except executions requiring a levy or seizure of property: $50 in addition to the $40 fee as stated in paragraph (a).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Witness subpoenas: $40 for each witness to be served.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Executions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Forty dollars for processing each writ of execution, regardless of the number of persons involved.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Fifty dollars for each levy.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A levy is considered made when any property or any portion of the property listed or unlisted in the instructions for levy is seized, or upon demand of the sheriff the writ is satisfied by the defendant in lieu of seizure. Seizure requires that the sheriff take actual possession, if practicable, or, alternatively, constructive possession of the property by order of the court.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">When the instructions are for levy upon real property, a levy fee is required for each parcel described in the instructions.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">When the instructions are for levy based upon personal property, one fee is allowed, unless the property is seized at different locations, conditional upon all of the items being advertised collectively and the sale being held at a single location. However, if the property seized cannot be sold at one location during the same sale as advertised, but requires separate sales at different locations, the sheriff is then authorized to impose a levy fee for the property and sale at each location.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Forty dollars for advertisement of sale under process.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Forty dollars for each sale under process.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Forty dollars for each deed, bill of sale, or satisfaction of judgment.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For levying on property and for the seizure of persons, the sheriff shall be allowed anticipated expenses necessary for the execution of the process directing such levy or seizure and for the safekeeping of property and persons in the custody of the sheriff. A reasonable cost deposit to cover said fees and expenses in connection with the requested services shall be deposited in advance, by the party requesting the service, with the officer requested to perform the service.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The party requesting service of process must furnish to the sheriff the original process, a certified copy of the process, or an electronic copy of the process, which was signed and certified by the clerk of court, and sufficient copies to be served on the parties receiving the service of process. The party requesting service of process shall provide the sheriff with the best known address where the person may be served. Failure to perfect service at the address provided does not excuse the sheriff from his or her duty to exercise due diligence in locating the person to be served.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All fees collected under paragraphs (1)(a), (b), (c), and (d) shall be nonrefundable and shall be earned when each original request or service of process is made.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All fees collected under the provisions of this section shall be paid monthly into the fine and forfeiture fund of the county.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Fees under this section chargeable to the state or its agencies shall be those fees that were effective under this section on June 30, 2009.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 63-41; s. 2, ch. 72-92; s. 4, ch. 79-396; s. 1, ch. 82-118; s. 1, ch. 83-255; s. 1, ch. 87-405; s. 1, ch. 94-170; s. 1330, ch. 95-147; s. 6, ch. 2000-258; s. 1, ch. 2009-215; s. 1, ch. 2011-159.</History>
+</Section>

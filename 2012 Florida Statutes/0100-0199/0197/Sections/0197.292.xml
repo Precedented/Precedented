@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.292" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Construction.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">This chapter does not:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Prohibit the collection of personal property taxes that become a lien against tax-deferred property;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Defer payment of special assessments to benefited property other than those specifically allowed to be deferred; or</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Affect any provision of any mortgage or other instrument relating to property requiring a person to pay ad valorem taxes or non-ad valorem assessments.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 77-301; s. 152, ch. 85-342; s. 6, ch. 89-328; s. 23, ch. 2011-151.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 197.0172.</Text>
+	</Note>
+</Section>

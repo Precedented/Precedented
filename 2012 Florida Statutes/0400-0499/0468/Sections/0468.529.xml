@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.529" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Licensee’s insurance; employment tax; benefit plans.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A licensed employee leasing company is the employer of the leased employees, except that this provision is not intended to affect the determination of any issue arising under Pub. L. No. 93-406, the Employee Retirement Income Security Act, as amended from time to time. An employee leasing company shall be responsible for timely payment of reemployment assistance taxes pursuant to chapter 443, and shall be responsible for providing workers’ compensation coverage pursuant to chapter 440. However, no licensed employee leasing company shall sponsor a plan of self-insurance for health benefits, except as may be permitted by the provisions of the Florida Insurance Code or, if applicable, by Pub. L. No. 93-406, the Employee Retirement Income Security Act, as amended from time to time. For purposes of this section, a “plan of self-insurance” shall exclude any arrangement where an admitted insurance carrier has issued a policy of insurance primarily responsible for the obligations of the health plan.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An initial or renewal license may not be issued to any employee leasing company unless the employee leasing company first files with the board evidence of workers’ compensation coverage for all leased employees in this state. Each employee leasing company shall maintain and make available to its workers’ compensation carrier the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The correct name and federal identification number of each client company.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A listing of all covered employees provided to each client company, by classification code.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The total eligible wages by classification code and the premiums due to the carrier for the employees provided to each client company.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A licensed employee leasing company shall within 30 days after initiation or termination notify its workers’ compensation insurance carrier, the Division of Workers’ Compensation of the Department of Financial Services, and the state agency providing reemployment assistance tax collection services under contract with the Department of Economic Opportunity through an interagency agreement pursuant to s. 443.1316 of both the initiation or the termination of the company’s relationship with any client company.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An initial or renewal license may not be issued to any employee leasing company unless the employee leasing company first provides evidence to the board, as required by board rule, that the employee leasing company has paid all of the employee leasing company’s obligations for payroll, payroll-related taxes, workers’ compensation insurance, and employee benefits. All disputed amounts must be disclosed in the application.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The provisions of this section are subject to verification by department or board audit.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 11, 17, ch. 91-93; s. 4, ch. 91-429; s. 42, ch. 94-119; s. 48, ch. 2003-36; s. 503, ch. 2003-261; s. 403, ch. 2011-142; s. 76, ch. 2012-30.</History>
+</Section>

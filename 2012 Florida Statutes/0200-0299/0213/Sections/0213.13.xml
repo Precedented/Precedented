@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.13" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Electronic remittance and distribution of funds collected by clerks of the court.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of law, the Department of Revenue shall establish procedures requiring the electronic transmittal of funds and associated return information submitted by clerks of the court. These procedures must be developed jointly by the Department of Revenue and the Florida Association of Court Clerks representing the clerks of the court. The department shall adopt rules necessary to implement the procedures contained in this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The funds to be remitted electronically by the clerks include proceeds from the taxes imposed by chapter 199, chapter 201, and all other fees, fines, reimbursements, court costs, or other court-related funds that the clerks must remit to the state pursuant to law. At a minimum, these electronic remittance procedures must include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The prescribed reporting frequency and time period for the clerks to remit such funds and the prescribed time period in which the department must electronically deposit the funds received to the appropriate state and local funds and accounts;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The electronic format and type of debit remittance system to be used by the clerks to remit the funds to the department;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The means of communication used to transmit the required information; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The information that must be submitted with such remittance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The clerks shall submit return information with the electronic payments required by this section in a manner that is initiated through electronic means.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To ensure that the Department of Revenue deposits on a correct and timely basis the revenues electronically received from the clerks, the agencies that are statutorily authorized to receive such revenue deposits shall grant the department electronic access to their appropriate funds and accounts.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All court-related collections, including fees, fines, reimbursements, court costs, and other court-related funds that the clerks must remit to the state pursuant to law, must be transmitted electronically by the 20th day of the month immediately following the month in which the funds are collected.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2001-122; s. 43, ch. 2005-236.</History>
+</Section>

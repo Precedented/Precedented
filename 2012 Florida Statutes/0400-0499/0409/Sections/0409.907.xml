@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.907" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Medicaid provider agreements.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The agency may make payments for medical assistance and related services rendered to Medicaid recipients only to an individual or entity who has a provider agreement in effect with the agency, who is performing services or supplying goods in accordance with federal, state, and local law, and who agrees that no person shall, on the grounds of handicap, race, color, or national origin, or for any other reason, be subjected to discrimination under any program or activity for which the provider receives payment from the agency.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each provider agreement shall require the provider to comply fully with all state and federal laws pertaining to the Medicaid program, as well as all federal, state, and local laws pertaining to licensure, if required, and the practice of any of the healing arts, and shall require the provider to provide services or goods of not less than the scope and quality it provides to the general public.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each provider agreement shall be a voluntary contract between the agency and the provider, in which the provider agrees to comply with all laws and rules pertaining to the Medicaid program when furnishing a service or goods to a Medicaid recipient and the agency agrees to pay a sum, determined by fee schedule, payment methodology, or other manner, for the service or goods provided to the Medicaid recipient. Each provider agreement shall be effective for a stipulated period of time, shall be terminable by either party after reasonable notice, and shall be renewable by mutual agreement.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The provider agreement developed by the agency, in addition to the requirements specified in subsections (1) and (2), shall require the provider to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Have in its possession at the time of signing the provider agreement, and maintain in good standing throughout the period of the agreement’s effectiveness, a valid professional or facility license pertinent to the services or goods being provided, as required by the state or locality in which the provider is located, and the Federal Government, if applicable.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Maintain in a systematic and orderly manner all medical and Medicaid-related records that the agency requires and determines are relevant to the services or goods being provided.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Retain all medical and Medicaid-related records for a period of 5 years to satisfy all necessary inquiries by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Safeguard the use and disclosure of information pertaining to current or former Medicaid recipients and comply with all state and federal laws pertaining to confidentiality of patient information.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Permit the agency, the Attorney General, the Federal Government, and the authorized agents of each of these entities access to all Medicaid-related information, which may be in the form of records, logs, documents, or computer files, and other information pertaining to services or goods billed to the Medicaid program, including access to all patient records and other provider information if the provider cannot easily separate records for Medicaid patients from other records.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Bill other insurers and third parties, including the Medicare program, before billing the Medicaid program, if the recipient is eligible for payment for health care or related services from another insurer or person, and comply with all other state and federal requirements in this regard.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Promptly report any moneys received in error or in excess of the amount to which the provider is entitled from the Medicaid program, and promptly refund such moneys to the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Be liable for and indemnify, defend, and hold the agency harmless from all claims, suits, judgments, or damages, including court costs and attorney’s fees, arising out of the negligence or omissions of the provider in the course of providing services to a recipient or a person believed to be a recipient.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">At the option of the agency, provide proof of liability insurance and maintain such insurance in effect for any period during which services or goods are furnished to Medicaid recipients.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Accept Medicaid payment as payment in full, and prohibit the provider from billing or collecting from the recipient or the recipient’s responsible party any additional amount except, and only to the extent the agency permits or requires, copayments, coinsurance, or deductibles to be paid by the recipient for the services or goods provided. The Medicaid payment-in-full policy does not apply to services or goods provided to a recipient if the services or goods are not covered by the Medicaid program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A provider agreement shall provide that, if the provider sells or transfers a business interest or practice that substantially constitutes the entity named as the provider in the provider agreement, or sells or transfers a facility that is of substantial importance to the entity named as the provider in the provider agreement, the provider is required to maintain and make available to the agency Medicaid-related records that relate to the sale or transfer of the business interest, practice, or facility in the same manner as though the sale or transaction had not taken place, unless the provider enters into an agreement with the purchaser of the business interest, practice, or facility to fulfill this requirement.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The agency:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is required to make timely payment at the established rate for services or goods furnished to a recipient by the provider upon receipt of a properly completed claim form. The claim form shall require certification that the services or goods have been completely furnished to the recipient and that, with the exception of those services or goods specified by the agency, the amount billed does not exceed the provider’s usual and customary charge for the same services or goods.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is prohibited from demanding repayment from the provider in any instance in which the Medicaid overpayment is attributable to <Reference Number="1" />error of the department in the determination of eligibility of a recipient.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">May adopt, and include in the provider agreement, such other requirements and stipulations on either party as the agency finds necessary to properly and efficiently administer the Medicaid program.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">May enroll entities as Medicare crossover-only providers for payment and claims processing purposes only. The provider agreement shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Require that the provider be able to demonstrate to the satisfaction of the agency that the provider is an eligible Medicare provider and has a current provider agreement in place with the Centers for Medicare and Medicaid Services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Require the provider to notify the agency immediately in writing upon being suspended or disenrolled as a Medicare provider. If the provider does not provide such notification within 5 business days after suspension or disenrollment, sanctions may be imposed pursuant to this chapter and the provider may be required to return funds paid to the provider during the period of time that the provider was suspended or disenrolled as a Medicare provider.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Require the applicant to submit an attestation, as approved by the agency, that the provider meets the requirements of Florida Medicaid provider enrollment criteria.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Require the applicant to submit fingerprints as required by the agency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Require that all records pertaining to health care services provided to each of the provider’s recipients be kept for a minimum of 6 years. The agreement shall also require that records and any information relating to payments claimed by the provider for services under the agreement be delivered to the agency or the Office of the Attorney General Medicaid Fraud Control Unit when requested. If a provider does not provide such records and information when requested, sanctions may be imposed pursuant to this chapter.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Disclose that the agreement is for the purposes of paying and processing Medicare crossover claims only.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">This paragraph pertains solely to Medicare crossover-only providers. In order to become a standard Medicaid provider, the requirements of this section and applicable rules must be met. This paragraph does not create an entitlement or obligation of the agency to enroll all Medicare providers that may be considered Medicare crossover-only providers in the Medicaid program.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Providers that are required to post a surety bond as part of the Medicaid enrollment process are excluded for enrollment under paragraph (d) and must complete a full Medicaid application. The agency may establish additional criteria to promote program integrity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A Medicaid provider agreement may be revoked, at the option of the agency, as the result of a change of ownership of any facility, association, partnership, or other entity named as the provider in the provider agreement.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the event of a change of ownership, the transferor remains liable for all outstanding overpayments, administrative fines, and any other moneys owed to the agency before the effective date of the change of ownership. In addition to the continuing liability of the transferor, the transferee is liable to the agency for all outstanding overpayments identified by the agency on or before the effective date of the change of ownership. For purposes of this subsection, the term “outstanding overpayment” includes any amount identified in a preliminary audit report issued to the transferor by the agency on or before the effective date of the change of ownership. In the event of a change of ownership for a skilled nursing facility or intermediate care facility, the Medicaid provider agreement shall be assigned to the transferee if the transferee meets all other Medicaid provider qualifications. In the event of a change of ownership involving a skilled nursing facility licensed under part II of chapter 400, liability for all outstanding overpayments, administrative fines, and any moneys owed to the agency before the effective date of the change of ownership shall be determined in accordance with s. 400.179.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At least 60 days before the anticipated date of the change of ownership, the transferor shall notify the agency of the intended change of ownership and the transferee shall submit to the agency a Medicaid provider enrollment application. If a change of ownership occurs without compliance with the notice requirements of this subsection, the transferor and transferee shall be jointly and severally liable for all overpayments, administrative fines, and other moneys due to the agency, regardless of whether the agency identified the overpayments, administrative fines, or other moneys before or after the effective date of the change of ownership. The agency may not approve a transferee’s Medicaid provider enrollment application if the transferee or transferor has not paid or agreed in writing to a payment plan for all outstanding overpayments, administrative fines, and other moneys due to the agency. This subsection does not preclude the agency from seeking any other legal or equitable remedies available to the agency for the recovery of moneys owed to the Medicaid program. In the event of a change of ownership involving a skilled nursing facility licensed under part II of chapter 400, liability for all outstanding overpayments, administrative fines, and any moneys owed to the agency before the effective date of the change of ownership shall be determined in accordance with s. 400.179 if the Medicaid provider enrollment application for change of ownership is submitted before the change of ownership.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The agency may require, as a condition of participating in the Medicaid program and before entering into the provider agreement, that the provider submit information, in an initial and any required renewal applications, concerning the professional, business, and personal background of the provider and permit an onsite inspection of the provider’s service location by agency staff or other personnel designated by the agency to perform this function. The agency shall perform a random onsite inspection, within 60 days after receipt of a fully complete new provider’s application, of the provider’s service location prior to making its first payment to the provider for Medicaid services to determine the applicant’s ability to provide the services that the applicant is proposing to provide for Medicaid reimbursement. The agency is not required to perform an onsite inspection of a provider or program that is licensed by the agency, that provides services under waiver programs for home and community-based services, or that is licensed as a medical foster home by the Department of Children and Family Services. As a continuing condition of participation in the Medicaid program, a provider shall immediately notify the agency of any current or pending bankruptcy filing. Before entering into the provider agreement, or as a condition of continuing participation in the Medicaid program, the agency may also require that Medicaid providers reimbursed on a fee-for-services basis or fee schedule basis which is not cost-based, post a surety bond not to exceed $50,000 or the total amount billed by the provider to the program during the current or most recent calendar year, whichever is greater. For new providers, the amount of the surety bond shall be determined by the agency based on the provider’s estimate of its first year’s billing. If the provider’s billing during the first year exceeds the bond amount, the agency may require the provider to acquire an additional bond equal to the actual billing level of the provider. A provider’s bond shall not exceed $50,000 if a physician or group of physicians licensed under chapter 458, chapter 459, or chapter 460 has a 50 percent or greater ownership interest in the provider or if the provider is an assisted living facility licensed under chapter 429. The bonds permitted by this section are in addition to the bonds referenced in s. 400.179(2)(d). If the provider is a corporation, partnership, association, or other entity, the agency may require the provider to submit information concerning the background of that entity and of any principal of the entity, including any partner or shareholder having an ownership interest in the entity equal to 5 percent or greater, and any treating provider who participates in or intends to participate in Medicaid through the entity. The information must include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Proof of holding a valid license or operating certificate, as applicable, if required by the state or local jurisdiction in which the provider is located or if required by the Federal Government.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Information concerning any prior violation, fine, suspension, termination, or other administrative action taken under the Medicaid laws, rules, or regulations of this state or of any other state or the Federal Government; any prior violation of the laws, rules, or regulations relating to the Medicare program; any prior violation of the rules or regulations of any other public or private insurer; and any prior violation of the laws, rules, or regulations of any regulatory body of this or any other state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Full and accurate disclosure of any financial or ownership interest that the provider, or any principal, partner, or major shareholder thereof, may hold in any other Medicaid provider or health care related entity or any other entity that is licensed by the state to provide health or residential care and treatment to persons.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a group provider, identification of all members of the group and attestation that all members of the group are enrolled in or have applied to enroll in the Medicaid program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each provider, or each principal of the provider if the provider is a corporation, partnership, association, or other entity, seeking to participate in the Medicaid program must submit a complete set of his or her fingerprints to the agency for the purpose of conducting a criminal history record check. Principals of the provider include any officer, director, billing agent, managing employee, or affiliated person, or any partner or shareholder who has an ownership interest equal to 5 percent or more in the provider. However, a director of a not-for-profit corporation or organization is not a principal for purposes of a background investigation as required by this section if the director: serves solely in a voluntary capacity for the corporation or organization, does not regularly take part in the day-to-day operational decisions of the corporation or organization, receives no remuneration from the not-for-profit corporation or organization for his or her service on the board of directors, has no financial interest in the not-for-profit corporation or organization, and has no family members with a financial interest in the not-for-profit corporation or organization; and if the director submits an affidavit, under penalty of perjury, to this effect to the agency and the not-for-profit corporation or organization submits an affidavit, under penalty of perjury, to this effect to the agency as part of the corporation’s or organization’s Medicaid provider agreement application. Notwithstanding the above, the agency may require a background check for any person reasonably suspected by the agency to have been convicted of a crime. This subsection does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A hospital licensed under chapter 395;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A nursing home licensed under chapter 400;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A hospice licensed under chapter 400;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An assisted living facility licensed under chapter 429;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A unit of local government, except that requirements of this subsection apply to nongovernmental providers and entities contracting with the local government to provide Medicaid services. The actual cost of the state and national criminal history record checks must be borne by the nongovernmental provider or entity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any business that derives more than 50 percent of its revenue from the sale of goods to the final consumer, and the business or its controlling parent is required to file a form 10-K or other similar statement with the Securities and Exchange Commission or has a net worth of $50 million or more.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Background screening shall be conducted in accordance with chapter 435 and s. 408.809. The cost of the state and national criminal record check shall be borne by the provider.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Proof of compliance with the requirements of level 2 screening under chapter 435 conducted within 12 months before the date the Medicaid provider application is submitted to the agency fulfills the requirements of this subsection. </Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of a completed, signed, and dated application, and completion of any necessary background investigation and criminal history record check, the agency must either:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Enroll the applicant as a Medicaid provider upon approval of the provider application. The enrollment effective date shall be the date the agency receives the provider application. With respect to a provider that requires a Medicare certification survey, the enrollment effective date is the date the certification is awarded. With respect to a provider that completes a change of ownership, the effective date is the date the agency received the application, the date the change of ownership was complete, or the date the applicant became eligible to provide services under Medicaid, whichever date is later. With respect to a provider of emergency medical services transportation or emergency services and care, the effective date is the date the services were rendered. Payment for any claims for services provided to Medicaid recipients between the date of receipt of the application and the date of approval is contingent on applying any and all applicable audits and edits contained in the agency’s claims adjudication and payment processing systems. The agency may enroll a provider located outside the State of Florida if the provider’s location is no more than 50 miles from the Florida state line, or the agency determines a need for that provider type to ensure adequate access to care; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Deny the application if the agency finds that it is in the best interest of the Medicaid program to do so. The agency may consider the factors listed in subsection (10), as well as any other factor that could affect the effective and efficient administration of the program, including, but not limited to, the applicant’s demonstrated ability to provide services, conduct business, and operate a financially viable concern; the current availability of medical care, services, or supplies to recipients, taking into account geographic location and reasonable travel time; the number of providers of the same type already enrolled in the same geographic area; and the credentials, experience, success, and patient outcomes of the provider for the services that it is making application to provide in the Medicaid program. The agency shall deny the application if the agency finds that a provider; any officer, director, agent, managing employee, or affiliated person; or any partner or shareholder having an ownership interest equal to 5 percent or greater in the provider if the provider is a corporation, partnership, or other business entity, has failed to pay all outstanding fines or overpayments assessed by final order of the agency or final order of the Centers for Medicare and Medicaid Services, not subject to further appeal, unless the provider agrees to a repayment plan that includes withholding Medicaid reimbursement until the amount due is paid in full.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The agency may consider whether the provider, or any officer, director, agent, managing employee, or affiliated person, or any partner or shareholder having an ownership interest equal to 5 percent or greater in the provider if the provider is a corporation, partnership, or other business entity, has:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Made a false representation or omission of any material fact in making the application, including the submission of an application that conceals the controlling or ownership interest of any officer, director, agent, managing employee, affiliated person, or partner or shareholder who may not be eligible to participate;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Been or is currently excluded, suspended, terminated from, or has involuntarily withdrawn from participation in, Florida’s Medicaid program or any other state’s Medicaid program, or from participation in any other governmental or private health care or health insurance program;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Been convicted of a criminal offense relating to the delivery of any goods or services under Medicaid or Medicare or any other public or private health care or health insurance program including the performance of management or administrative services relating to the delivery of goods or services under any such program;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Been convicted under federal or state law of a criminal offense related to the neglect or abuse of a patient in connection with the delivery of any health care goods or services;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Been convicted under federal or state law of a criminal offense relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Been convicted of any criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Been convicted under federal or state law of a crime punishable by imprisonment of a year or more which involves moral turpitude;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Been convicted in connection with the interference or obstruction of any investigation into any criminal offense listed in this subsection;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Been found to have violated federal or state laws, rules, or regulations governing Florida’s Medicaid program or any other state’s Medicaid program, the Medicare program, or any other publicly funded federal or state health care or health insurance program, and been sanctioned accordingly;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Been previously found by a licensing, certifying, or professional standards board or agency to have violated the standards or conditions relating to licensure or certification or the quality of services provided; or</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Failed to pay any fine or overpayment properly assessed under the Medicaid program in which no appeal is pending or after resolution of the proceeding by stipulation or agreement, unless the agency has issued a specific letter of forgiveness or has approved a repayment schedule to which the provider agrees to adhere.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Before signing a provider agreement and at the discretion of the agency, other provisions of this section notwithstanding, an entity may become eligible to receive payment from the Medicaid program at the time it first furnishes services or goods, if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The services or goods provided are otherwise compensable;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The entity meets all other requirements of a Medicaid provider at the time the services or goods were provided; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The entity agrees to abide by the provisions of the provider agreement effective from the date the services or goods were provided.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Licensed, certified, or otherwise qualified providers are not entitled to enrollment in a Medicaid provider network.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 36, ch. 91-282; s. 3, ch. 94-251; s. 2, ch. 96-387; s. 5, ch. 96-417; s. 1, ch. 97-290; s. 16, ch. 2000-163; s. 53, ch. 2000-256; s. 6, ch. 2001-377; s. 21, ch. 2002-400; s. 20, ch. 2004-267; s. 11, ch. 2004-270; s. 53, ch. 2004-350; s. 66, ch. 2005-2; s. 8, ch. 2005-60; s. 16, ch. 2005-133; s. 12, ch. 2006-28; s. 82, ch. 2006-197; s. 137, ch. 2007-230; s. 12, ch. 2008-246; s. 12, ch. 2009-223; s. 25, ch. 2010-114; s. 6, ch. 2010-156; s. 11, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 5, ch. 96-417. The amendment by s. 2, ch. 96-387, uses the words “agency error” instead of the words “error of the department.”</Text>
+	</Note>
+</Section>

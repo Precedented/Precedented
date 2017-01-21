@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0252.60" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Radiological emergency preparedness.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PURPOSE AND INTENT.<EmDash />It is the purpose of this section to establish the means by which certain radiological emergency response plans and preparedness requirements of the United States Nuclear Regulatory Commission and the Federal Emergency Management Agency can be developed and tested by the state, the appropriate counties, and each operator licensed by the United States Nuclear Regulatory Commission to operate a commercial nuclear electric generating facility. It is the expressed intent of the Legislature that no department, commission, agency, or political subdivision of the state be considered to have assumed or be responsible for the funding of any activity or program required by this section from any sources of funds other than those specifically identified in this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />For the purposes of this section, the following terms shall have the meanings indicated:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Facility” means a commercial nuclear electric generating reactor operated for the purpose of providing heat to produce electricity for sale to persons other than the owner of the facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Operator” means that person who has applied for or who has been granted a license by the United States Nuclear Regulatory Commission for the operation of a facility.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Appropriate county” means a county which is required by the United States Nuclear Regulatory Commission or the Federal Emergency Management Agency to be designated a risk or a host county.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Plans” means the radiological emergency response plans and preparedness in support of nuclear power plants requirements, including facilities and equipment, currently contained in NUREG-0654 and FEMA-REP-1 or as may be required by cognizant federal agencies in the future.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">EMERGENCY RESPONSE PLANS.<EmDash />In addition to the other plans required by this chapter, the division shall develop, prepare, test, and implement as needed, in conjunction with the appropriate counties and the affected operator, such radiological emergency response plans and preparedness requirements as may be imposed by the United States Nuclear Regulatory Commission or the Federal Emergency Management Agency as a requirement for obtaining or continuing the appropriate licenses for a commercial nuclear electric generating facility.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">POWERS AND DUTIES.<EmDash />In implementing the requirements of this section, the director of the division, or the director’s designated representative, shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Negotiate and enter into such additional contracts and arrangements among the division, appropriate counties, and each operator to provide for the level of funding and the respective roles of each in the development, preparation, testing, and implementation of the plans.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Evaluate and determine the adequacy of the plans based upon consultations with the United States Nuclear Regulatory Commission and other agencies, as appropriate, and upon the results of such tests as may be conducted.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Limited to such funding as is available based upon the requirements of subsection (5), require the participation of appropriate counties and operators in the development, preparation, testing, or implementation of the plans as needed.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Determine the reasonableness and adequacy of the provisions, terms, and conditions of the plans and, in the event the appropriate counties and the operators cannot agree, resolve such differences and require compliance by the appropriate counties and the operators with the plans. In resolving such differences, the director shall consider:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The requirements and parameters placed on the operators by federal law and agencies;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The reasonableness and adequacy of the funding for appropriate counties from any sources of funds other than local revenue sources; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The reasonableness and appropriateness of the costs to the appropriate counties likely to be incurred in complying with provisions, terms, and conditions of the plans.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Receive, expend, and disburse such funds as are made available by each licensee pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Limited to such funding as is available based upon the requirements of subsection (5), coordinate all activities undertaken pursuant to this section or required of appropriate counties and operators by any federal or state agency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">FUNDING.<EmDash />All funds for the implementation of this section shall be provided by the operators as required by subsection (4), except that operators may enter into bilateral agreements with other state agencies or appropriate counties when necessary. No political subdivision of the state shall be considered to have obligated or consented to have obligated any funds from any local revenue source whatsoever by complying with the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 29, ch. 82-186; s. 9, ch. 84-241; s. 138, ch. 95-148; s. 104, ch. 2011-142.</History>
+</Section>

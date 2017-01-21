@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.815" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">License or application denial; revocation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In addition to the grounds provided in authorizing statutes, grounds that may be used by the agency for denying and revoking a license or change of ownership application include any of the following actions by a controlling interest:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">False representation of a material fact in the license application or omission of any material fact from the application.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An intentional or negligent act materially affecting the health or safety of a client of the provider.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A violation of this part, authorizing statutes, or applicable rules.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A demonstrated pattern of deficient performance.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The applicant, licensee, or controlling interest has been or is currently excluded, suspended, or terminated from participation in the state Medicaid program, the Medicaid program of any other state, or the Medicare program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a licensee lawfully continues to operate while a denial or revocation is pending in litigation, the licensee must continue to meet all other requirements of this part, authorizing statutes, and applicable rules and file subsequent renewal applications for licensure and pay all licensure fees. The provisions of ss. 120.60(1) and 408.806(3)(c) do not apply to renewal applications filed during the time period in which the litigation of the denial or revocation is pending until that litigation is final.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An action under s. 408.814 or denial of the license of the transferor may be grounds for denial of a change of ownership application of the transferee.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Unless an applicant is determined by the agency to satisfy the provisions of subsection (5) for the action in question, the agency shall deny an application for a license or license renewal based upon any of the following actions of an applicant, a controlling interest of the applicant, or any entity in which a controlling interest of the applicant was an owner or officer when the following actions occurred:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A conviction or a plea of guilty or nolo contendere to, regardless of adjudication, a felony under chapter 409, chapter 817, chapter 893, 21 U.S.C. ss. 801-970, or 42 U.S.C. ss. 1395-1396, Medicaid fraud, Medicare fraud, or insurance fraud, unless the sentence and any subsequent period of probation for such convictions or plea ended more than 15 years before the date of the application; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Termination for cause from the Medicare program or a state Medicaid program, unless the applicant has been in good standing with the Medicare program or a state Medicaid program for the most recent 5 years and the termination occurred at least 20 years before the date of the application.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">For any application subject to denial under subsection (4), the agency may consider mitigating circumstances as applicable, including, but not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Completion or lawful release from confinement, supervision, or sanction, including the terms of probation, and full restitution;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Execution of a compliance plan with the agency;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Compliance with an integrity agreement or compliance plan with another government agency;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Determination by any state Medicaid program or the Medicare program that the controlling interest or entity in which the controlling interest was an owner or officer is currently allowed to participate in the state Medicaid program or the Medicare program, directly as a provider or indirectly as an owner or officer of a provider entity;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Continuation of licensure by the controlling interest or entity in which the controlling interest was an owner or officer, directly as a licensee or indirectly as an owner or officer of a licensed entity in the state where the action occurred;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Overall impact upon the public health, safety, or welfare; or</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Determination that a license denial is not commensurate with the prior action taken by the Medicare or state Medicaid program.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">After considering the circumstances set forth in this subsection, the agency shall grant the license, with or without conditions, grant a provisional license for a period of no more than the licensure cycle, with or without conditions, or deny the license.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In order to ensure the health, safety, and welfare of clients when a license has been denied, revoked, or is set to terminate, the agency may extend the license expiration date for up to 30 days for the sole purpose of allowing the safe and orderly discharge of clients. The agency may impose conditions on the extension, including, but not limited to, prohibiting or limiting admissions, expedited discharge planning, required status reports, and mandatory monitoring by the agency or third parties. When imposing these conditions, the agency shall consider the nature and number of clients, the availability and location of acceptable alternative placements, and the ability of the licensee to continue providing care to the clients. The agency may terminate the extension or modify the conditions at any time. This authority is in addition to any other authority granted to the agency under chapter 120, this part, and authorizing statutes but creates no right or entitlement to an extension of a license expiration date.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2006-192; s. 10, ch. 2009-223; s. 2, ch. 2011-61.</History>
+</Section>

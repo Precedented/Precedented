@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0097.0575" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Third-party voter registrations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Before engaging in any voter registration activities, a third-party voter registration organization must register and provide to the division, in an electronic format, the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The names of the officers of the organization and the name and permanent address of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name and address of the organization’s registered agent in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The names, permanent addresses, and temporary addresses, if any, of each registration agent registering persons to vote in this state on behalf of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A sworn statement from each registration agent employed by or volunteering for the organization stating that the agent will obey all state laws and rules regarding the registration of voters. Such statement must be on a form containing notice of applicable penalties for false registration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The division or the supervisor of elections shall make voter registration forms available to third-party voter registration organizations. All such forms must contain information identifying the organization to which the forms are provided. The division shall maintain a database of all third-party voter registration organizations and the voter registration forms assigned to the third-party voter registration organization. Each supervisor of elections shall provide to the division information on voter registration forms assigned to and received from third-party voter registration organizations. The information must be provided in a format and at times as required by the division by rule. The division must update information on third-party voter registrations daily and make the information publicly available.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A third-party voter registration organization that collects voter registration applications serves as a fiduciary to the applicant, ensuring that any voter registration application entrusted to the organization, irrespective of party affiliation, race, ethnicity, or gender, shall be promptly delivered to the division or the supervisor of elections within 48 hours after the applicant completes it or the next business day if the appropriate office is closed for that 48-hour period. If a voter registration application collected by any third-party voter registration organization is not promptly delivered to the division or supervisor of elections, the third-party voter registration organization is liable for the following fines:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A fine in the amount of $50 for each application received by the division or the supervisor of elections more than 48 hours after the applicant delivered the completed voter registration application to the third-party voter registration organization or any person, entity, or agent acting on its behalf or the next business day, if the office is closed. A fine in the amount of $250 for each application received if the third-party voter registration organization or person, entity, or agency acting on its behalf acted willfully.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A fine in the amount of $100 for each application collected by a third-party voter registration organization or any person, entity, or agent acting on its behalf, before book closing for any given election for federal or state office and received by the division or the supervisor of elections after the book-closing deadline for such election. A fine in the amount of $500 for each application received if the third-party registration organization or person, entity, or agency acting on its behalf acted willfully.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A fine in the amount of $500 for each application collected by a third-party voter registration organization or any person, entity, or agent acting on its behalf, which is not submitted to the division or supervisor of elections. A fine in the amount of $1,000 for any application not submitted if the third-party voter registration organization or person, entity, or agency acting on its behalf acted willfully.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The aggregate fine pursuant to this paragraph which may be assessed against a third-party voter registration organization, including affiliate organizations, for violations committed in a calendar year is $1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A showing by the third-party voter registration organization that the failure to deliver the voter registration application within the required timeframe is based upon force majeure or impossibility of performance shall be an affirmative defense to a violation of this subsection. The secretary may waive the fines described in this subsection upon a showing that the failure to deliver the voter registration application promptly is based upon force majeure or impossibility of performance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the Secretary of State reasonably believes that a person has committed a violation of this section, the secretary may refer the matter to the Attorney General for enforcement. The Attorney General may institute a civil action for a violation of this section or to prevent a violation of this section. An action for relief may include a permanent or temporary injunction, a restraining order, or any other appropriate order.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The division shall adopt by rule a form to elicit specific information concerning the facts and circumstances from a person who claims to have been registered to vote by a third-party voter registration organization but who does not appear as an active voter on the voter registration rolls. The division shall also adopt rules to ensure the integrity of the registration process, including rules requiring third-party voter registration organizations to account for all state and federal registration forms used by their registration agents. Such rules may require an organization to provide organization and form specific identification information on each form as determined by the department as needed to assist in the accounting of state and federal registration forms.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The date on which an applicant signs a voter registration application is presumed to be the date on which the third-party voter registration organization received or collected the voter registration application.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The requirements of this section are retroactive for any third-party voter registration organization registered with the department on the effective date of this act, and must be complied with within 90 days after the department provides notice to the third-party voter registration organization of the requirements contained in this section. Failure of the third-party voter registration organization to comply with the requirements within 90 days after receipt of the notice shall automatically result in the cancellation of the third-party voter registration organization’s registration.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2005-277; s. 2, ch. 2007-30; s. 4, ch. 2011-40.</History>
+</Section>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0603.204" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">South Florida Tropical Fruit Plan.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Commissioner of Agriculture, in consultation with the Tropical Fruit Advisory Council, shall develop and update a South Florida Tropical Fruit Plan, which shall identify problems and constraints of the tropical fruit industry, propose possible solutions to such problems, and develop planning mechanisms for orderly growth of the industry, including:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Criteria for tropical fruit research, service, and management priorities.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Proposed legislation that may be required.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Plans relating to other tropical fruit programs and related disciplines in the State University System.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Potential tropical fruit products in terms of market and needs for development.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Evaluation of production and fresh fruit policy alternatives, including, but not limited to, setting minimum grades and standards, promotion and advertising, development of production and marketing strategies, and setting minimum standards on types and quality of nursery plants.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Evaluation of policy alternatives for processed tropical fruit products, including, but not limited to, setting minimum quality standards and development of production and marketing strategies.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Research and service priorities for further development of the tropical fruit industry.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Identification of state agencies and public and private institutions concerned with research, education, extension, services, planning, promotion, and marketing functions related to tropical fruit development, and delineation of contributions and responsibilities. The recommendations in the plan relating to education or research shall be submitted to the Institute of Food and Agricultural Sciences.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Business planning, investment potential, financial risks, and economics of production and use.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 4, 5, ch. 90-277; s. 45, ch. 91-201; s. 5, ch. 91-429; s. 992, ch. 97-103; s. 157, ch. 2010-102.</History>
+</Section>

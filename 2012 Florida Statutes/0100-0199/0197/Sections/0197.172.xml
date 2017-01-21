@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.172" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Interest rate; calculation and minimum.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Real property taxes shall bear interest at the rate of 18 percent per year from the date of delinquency until a certificate is sold, except that the minimum charge for delinquent taxes paid prior to the sale of a tax certificate shall be 3 percent.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The maximum rate of interest on a tax certificate is 18 percent per year. However, a tax certificate may not bear interest, and the mandatory interest as provided by s. 197.472(2) may not be levied during the 60-day period following the date of delinquency, except for the 3 percent mandatory interest charged under subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Personal property taxes shall bear interest at the rate of 18 percent per year from the date of delinquency until paid or barred under chapter 95.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Interest shall be calculated from the first day of each month.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 135, ch. 85-342; s. 7, ch. 92-32; s. 7, ch. 2011-151.</History>
+</Section>

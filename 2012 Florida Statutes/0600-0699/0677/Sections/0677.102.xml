@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.102" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions and index of definitions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In this chapter, unless the context otherwise requires:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Bailee” means a person that by a warehouse receipt, bill of lading, or other document of title acknowledges possession of goods and contracts to deliver them.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Carrier” means a person that issues a bill of lading.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Consignee” means a person named in a bill of lading to which or to whose order the bill promises delivery.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Consignor” means a person named in a bill of lading as the person from which the goods have been received for shipment.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Delivery order” means a record that contains an order to deliver goods directed to a warehouse, carrier, or other person that in the ordinary course of business issues warehouse receipts or bills of lading.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Good faith” means honesty in fact and the observance of reasonable commercial standards of fair dealing.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Goods” means all things that are treated as movable for the purposes of a contract of storage or transportation.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Issuer” means a bailee who issues a document of title or, in the case of an unaccepted delivery order, the person who orders the possessor of goods to deliver. The term includes a person for which an agent or employee purports to act in issuing a document if the agent or employee has real or apparent authority to issue documents, notwithstanding that the issuer received no goods or that the goods were misdescribed or that in any other respect the agent or employee violated his or her instructions.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Person entitled under the document” means the holder, in the case of a negotiable document of title, or the person to which delivery of the goods is to be made by the terms of, or pursuant to instructions in a record under, a nonnegotiable document of title.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Shipper” means a person that enters into a contract of transportation with a carrier.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Sign” means, with present intent to authenticate or adopt a record:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To execute or adopt a tangible symbol; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To attach to or logically associate with the record an electronic sound, symbol, or process.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Warehouse” means a person engaged in the business of storing goods for hire.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Definitions in other chapters applying to this chapter and the sections in which they appear are:</Text>
+			<Text xml:space="preserve" Style="Indent">“Contract for sale,” s. 672.106.</Text>
+			<Text xml:space="preserve" Style="Indent">“Lessee in ordinary course of business,” s. 680.1031.</Text>
+			<Text xml:space="preserve" Style="Indent">“Receipt” of goods, s. 672.103.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In addition, chapter 671 contains general definitions and principles of construction and interpretation applicable throughout this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 621, ch. 97-102; s. 18, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-102, U.C.C.; supersedes s. 678.54.</Text>
+	</Note>
+</Section>

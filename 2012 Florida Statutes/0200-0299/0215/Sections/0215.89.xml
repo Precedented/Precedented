@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.89" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Charts of account.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE INTENT.<EmDash />It is the intent of the Legislature that a mechanism be provided for obtaining detailed, uniform reporting of government financial information to enable citizens to view compatible information on the use of public funds by governmental entities. The Legislature intends that uniform reporting requirements be developed specifically to promote accountability and transparency in the use of public funds. In order to accommodate the different financial management systems currently in use, separate charts of account may be used as long as the financial information is captured and reported consistently and is compatible with any reporting entity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Charts of account” means a compilation of uniform data codes that are to be used for reporting governmental assets, liabilities, equities, revenues, and expenditures to the Chief Financial Officer. Uniform data codes shall capture specific details of the assets, liabilities, equities, revenues, and expenditures that are of interest to the public.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“State agency” means an official, officer, commission, board, authority, council, committee, or department of the executive branch; a state attorney, public defender, criminal conflict and civil regional counsel, or capital collateral regional counsel; the Florida Clerks of Court Operations Corporation; the Justice Administrative Commission; the Florida Housing Finance Corporation; the Florida Public Service Commission; the State Board of Administration; the Supreme Court or a district court of appeal, circuit court, or county court; or the Judicial Qualifications Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Local government” means a municipality, county, water management district, special district, or any other entity created by a local government.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Educational entity” means a school district or an entity created by a school district.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Entity of higher education” means a state university, a state or Florida College System institution, or an entity created by a state university or state or Florida College System institution.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“State and local government financial information” means the assets, liabilities, equities, revenues, and expenditure information that is recorded in financial management systems of state agencies, local governments, educational entities, and entities of higher education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">REPORTING STRUCTURE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning October 1, 2011, the Chief Financial Officer shall conduct workshops with state agencies, local governments, educational entities, and entities of higher education to gather information pertaining to uniform statewide reporting requirements to be used to develop charts of account by the Chief Financial Officer. A draft proposed charts of account shall be provided by July 1, 2013, to the state agencies, local governments, educational entities, and entities of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Chief Financial Officer shall accept comments from state agencies, local governments, educational entities, entities of higher education, and other interested parties regarding the proposed charts of account until November 1, 2013.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">By January 15, 2014, the Chief Financial Officer, after consultation with affected state agencies, local governments, educational entities, entities of higher education, and the Auditor General, shall submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives a report recommending a uniform charts of account which requires specific enterprise-wide information related to revenues and expenditures of state agencies, local governments, educational entities, and entities of higher education. The report must include the estimated cost of adopting and implementing a uniform enterprise-wide charts of account.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2011-44.</History>
+</Section>

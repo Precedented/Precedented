@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.68" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Funds for student transportation.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The annual allocation to each district for transportation to public school programs, including charter schools as provided in s. 1002.33(17)(b), of students in membership in kindergarten through grade 12 and in migrant and exceptional student programs below kindergarten shall be determined as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Subject to the rules of the State Board of Education, each district shall determine the membership of students who are transported:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By reason of living 2 miles or more from school.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By reason of being students with disabilities or enrolled in a teenage parent program, regardless of distance to school.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">By reason of being in a state prekindergarten program, regardless of distance from school.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">By reason of being career, dual enrollment, or students with disabilities transported from one school center to another to participate in an instructional program or service; or students with disabilities, transported from one designation to another in the state, provided one designation is a school center and provided the student’s individual educational plan (IEP) identifies the need for the instructional program or service and transportation to be provided by the school district. A “school center” is defined as a public school center, Florida College System institution, state university, or other facility rented, leased, or owned and operated by the school district or another public agency. A “dual enrollment student” is defined as a public school student in membership in both a public secondary school program and a Florida College System institution or a state university program under a written agreement to partially fulfill ss. 1003.435 and 1007.23 and earning full-time equivalent membership under s. 1011.62(1)(i).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">With respect to elementary school students whose grade level does not exceed grade 6, by reason of being subjected to hazardous walking conditions en route to or from school as provided in s. 1006.23. Such rules shall, when appropriate, provide for the determination of membership under this paragraph for less than 1 year to accommodate the needs of students who require transportation only until such hazardous conditions are corrected.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">By reason of being a pregnant student or student parent, and the child of a student parent as provided in s. 1003.54, regardless of distance from school.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The allocation for each district shall be calculated annually in accordance with the following formula:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">T = B + EX. The elements of this formula are defined as follows: T is the total dollar allocation for transportation. B is the base transportation dollar allocation prorated by an adjusted student membership count. The adjusted membership count shall be derived from a multiplicative index function in which the base student membership is adjusted by multiplying it by index numbers that individually account for the impact of the price level index, average bus occupancy, and the extent of rural population in the district. EX is the base transportation dollar allocation for disabled students prorated by an adjusted disabled student membership count. The base transportation dollar allocation for disabled students is the total state base disabled student membership count weighted for increased costs associated with transporting disabled students and multiplying it by an average per student cost for transportation as determined by the Legislature. The adjusted disabled student membership count shall be derived from a multiplicative index function in which the weighted base disabled student membership is adjusted by multiplying it by index numbers that individually account for the impact of the price level index, average bus occupancy, and the extent of rural population in the district. Each adjustment factor shall be designed to affect the base allocation by no more or less than 10 percent.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The total allocation to each district for transportation of students shall be the sum of the amounts determined in subsection (2). If the funds appropriated for the purpose of implementing this section are not sufficient to pay the base transportation allocation and the base transportation allocation for disabled students, the Department of Education shall prorate the available funds on a percentage basis. If the funds appropriated for the purpose of implementing this section exceed the sum of the base transportation allocation and the base transportation allocation for disabled students, the base transportation allocation for disabled students shall be limited to the amount calculated in subsection (2), and the remaining balance shall be added to the base transportation allocation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">No district shall use funds to purchase transportation equipment and supplies at prices which exceed those determined by the department to be the lowest which can be obtained, as prescribed in s. 1006.27(1).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Funds allocated or apportioned for the payment of student transportation services may be used to pay for transportation of students to and from school on local general purpose transportation systems. Student transportation funds may also be used to pay for transportation of students to and from school in private passenger cars and boats when the transportation is for isolated students, or students with disabilities as defined by rule. Subject to the rules of the State Board of Education, each school district shall determine and report the number of assigned students using general purpose transportation private passenger cars and boats. The allocation per student must be equal to the allocation per student riding a school bus.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding other provisions of this section, in no case shall any student or students be counted for transportation funding more than once per day. This provision includes counting students for funding pursuant to trips in school buses, passenger cars, or boats or general purpose transportation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 660, ch. 2002-387; s. 3, ch. 2003-393; s. 130, ch. 2004-357; s. 30, ch. 2009-59; s. 29, ch. 2010-154; s. 172, ch. 2011-5.</History>
+</Section>

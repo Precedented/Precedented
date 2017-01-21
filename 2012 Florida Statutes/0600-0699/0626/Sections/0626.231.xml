@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.231" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligibility; application for examination.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No person shall be permitted to take an examination for license until his or her application for examination or application for the license has been approved and the required fees have been received by the department or a person designated by the department to administer the examination.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person required to take an examination for a license may take an examination before submitting an application for licensure pursuant to s. 626.171 by submitting an application for examination through the department’s Internet website or the website of a person designated by the department to administer the examination. The department may require the applicant to provide the following information as part of the application:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">His or her full name, date of birth, social security number, e-mail address, residence address, business address, and mailing address.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The type of license which the applicant intends to apply for.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The name of any required prelicensing course he or she has completed or is in the process of completing.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The method by which the applicant intends to qualify for the type of license if other than by completing a prelicensing course.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The applicant’s gender.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The applicant’s native language.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The highest level of education achieved by the applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The applicant’s race or ethnicity.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, the application form must contain a statement that an applicant is not required to disclose his or her race or ethnicity, gender, or native language, that he or she will not be penalized for not doing so, and that the department will use this information exclusively for research and statistical purposes and to improve the quality and fairness of the examinations.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each application shall be accompanied by payment of the applicable examination fee.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 202, ch. 59-205; ss. 13, 35, ch. 69-106; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 3, ch. 81-282; ss. 2, 3, ch. 81-318; ss. 165(2nd), 217, 807, 810, ch. 82-243; s. 5, ch. 85-208; s. 7, ch. 88-166; ss. 22, 206, 207, ch. 90-363; s. 4, ch. 91-429; s. 219, ch. 97-102; s. 919, ch. 2003-261; s. 27, ch. 2004-390; s. 4, ch. 2006-184; s. 6, ch. 2012-209.</History>
+</Section>

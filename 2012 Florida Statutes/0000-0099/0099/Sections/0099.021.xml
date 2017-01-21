@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0099.021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Form of candidate oath.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each candidate, whether a party candidate, a candidate with no party affiliation, or a write-in candidate, in order to qualify for nomination or election to any office other than a judicial office as defined in chapter 105 or a federal office, shall take and subscribe to an oath or affirmation in writing. A copy of the oath or affirmation shall be made available to the candidate by the officer before whom such candidate seeks to qualify and shall be substantially in the following form:</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">State of Florida</Text>
+					<Text xml:space="preserve" Style="Flush">County of<HorizontalRule Type="Fixed" /></Text>
+					<Text xml:space="preserve" Style="Indent">Before me, an officer authorized to administer oaths, personally appeared <Directions xml:space="preserve">(please print name as you wish it to appear on the ballot)</Directions>, to me well known, who, being sworn, says that he or she is a candidate for the office of <HorizontalRule Type="Fixed" />; that he or she is a qualified elector of <HorizontalRule Type="Fixed" /> County, Florida; that he or she is qualified under the Constitution and the laws of Florida to hold the office to which he or she desires to be nominated or elected; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent with that of the office he or she seeks; that he or she has resigned from any office from which he or she is required to resign pursuant to s. 99.012, Florida Statutes; and that he or she will support the Constitution of the United States and the Constitution of the State of Florida.</Text>
+					<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Signature of candidate)</Directions></Text>
+					<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Address)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, at <HorizontalRule Type="Fixed" /> County, Florida.</Text>
+					<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">(Signature and title of officer administering oath)</Directions></Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each candidate for federal office, whether a party candidate, a candidate with no party affiliation, or a write-in candidate, in order to qualify for nomination or election to office shall take and subscribe to an oath or affirmation in writing. A copy of the oath or affirmation shall be made available to the candidate by the officer before whom such candidate seeks to qualify and shall be substantially in the following form:</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">State of Florida</Text>
+					<Text xml:space="preserve" Style="Flush">County of <HorizontalRule Type="Fixed" /></Text>
+					<Text xml:space="preserve" Style="Indent">Before me, an officer authorized to administer oaths, personally appeared <Directions xml:space="preserve">(please print name as you wish it to appear on the ballot)</Directions>, to me well known, who, being sworn, says that he or she is a candidate for the office of <HorizontalRule Type="Fixed" />; that he or she is qualified under the Constitution and laws of the United States to hold the office to which he or she desires to be nominated or elected; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent with that of the office he or she seeks; and that he or she will support the Constitution of the United States.</Text>
+					<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Signature of candidate)</Directions></Text>
+					<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Address)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, at <HorizontalRule Type="Fixed" /> County, Florida.</Text>
+					<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">(Signature and title of officer administering oath)</Directions></Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition, any person seeking to qualify for nomination as a candidate of any political party shall, at the time of subscribing to the oath or affirmation, state in writing:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The party of which the person is a member.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That the person has not been a registered member of any other political party for 365 days before the beginning of qualifying preceding the general election for which the person seeks to qualify.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the person has paid the assessment levied against him or her, if any, as a candidate for said office by the executive committee of the party of which he or she is a member.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The officer before whom such person qualifies shall certify the name of such person to the supervisor of elections in each county affected by such candidacy so that the name of such person may be printed on the ballot. Each person seeking election as a write-in candidate shall subscribe to the oath prescribed in this section in order to be entitled to have write-in ballots cast for him or her counted.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The provisions of subsection (1) relating to the oath required of candidates, and the form of oath prescribed, shall apply with equal force and effect to, and shall be the oath required of, a candidate for election to a political party executive committee office, as provided by law. The requirements set forth in this section shall also apply to any person filling a vacancy on a political party executive committee.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to a person who seeks to qualify for election pursuant to ss. 103.021 and 103.101.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 22, 23, ch. 6469, 1913; RGS 326, 327; CGL 383, 384; s. 3, ch. 19663, 1939; s. 3, ch. 26870, 1951; s. 10, ch. 28156, 1953; s. 1, ch. 57-742; s. 1, ch. 61-128; s. 2, ch. 63-269; s. 1, ch. 63-66; s. 1, ch. 65-376; s. 1, ch. 67-149; s. 2, ch. 70-269; s. 19, ch. 71-355; s. 6, ch. 77-175; s. 3, ch. 79-365; s. 27, ch. 79-400; s. 2, ch. 81-105; s. 3, ch. 86-134; s. 535, ch. 95-147; s. 7, ch. 99-6; s. 8, ch. 99-318; s. 15, ch. 2007-30; s. 10, ch. 2008-95; s. 13, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former ss. 102.29, 102.30.</Text>
+	</Note>
+</Section>

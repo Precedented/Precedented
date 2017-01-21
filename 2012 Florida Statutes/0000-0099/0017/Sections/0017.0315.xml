@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0017.0315" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Financial and cash management system; task force.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer, as the constitutional officer responsible for settling and approving accounts against the state and keeping all state funds pursuant to s. 4, Art. IV of the State Constitution, shall be the head of and appoint members to a task force established to develop a strategic business plan for a successor financial and cash management system. The task force shall include the executive director of the Agency for Enterprise Information Technology and the director of the Office of Policy and Budget in the Executive Office of the Governor. Any member of the task force may appoint a designee.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The strategic business plan for a successor financial and cash management system must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Permit proper disbursement and auditing controls consistent with the respective constitutional duties of the Chief Financial Officer and the Legislature;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Promote transparency in the accounting of public funds;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide timely and accurate recording of financial transactions by agencies and their professional staffs;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Support executive reporting and data analysis requirements;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Be capable of interfacing with other systems providing human resource services, procuring goods and services, and providing other enterprise functions;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Be capable of interfacing with the existing legislative appropriations, planning, and budgeting systems;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Be coordinated with the information technology strategy development efforts of the Agency for Enterprise Information Technology;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Be coordinated with the revenue estimating conference process as supported by the Office of Economic and Demographic Research; and</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Address other such issues as the Chief Financial Officer identifies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">State agency administrative services directors, finance and accounting officers, and budget directors within all branches of state government shall fully cooperate with the task force in its development of the strategic plan. The task force shall submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives a strategic business plan that includes, but is not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Identifying problems and opportunities imposed by current law and the current administration with respect to existing state accounting and cash management systems;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Providing developmental solutions to known failures, including, but not limited to, those identified by external review and audit reports;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Recommending business processes, requirements, and governance structure to support a standardized statewide accounting and cash management system;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Evaluating alternative funding approaches to equitably distribute common accounting infrastructure costs across all participating users; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Providing an enterprise-wide work product that can be used as the basis for a revised competitive procurement process for the implementation of a successor system.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2008-132; s. 3, ch. 2010-5.</History>
+</Section>

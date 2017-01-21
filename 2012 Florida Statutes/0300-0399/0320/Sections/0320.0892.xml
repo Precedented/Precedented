@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0320.0892" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Motor vehicle license plates for recipients of the Silver Star, Distinguished Service Cross, Navy Cross, or Air Force Cross.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Upon receipt of an application and proof that the applicant meets the qualifications listed in this section for the applicable license plate, the department shall issue the license plate without payment of the license tax imposed under s. 320.08:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SILVER STAR.<EmDash />Any United States citizen who is a resident of Florida and who was awarded the Silver Star while serving as a member of the United States Armed Forces shall be issued a license plate on which is stamped the words “Silver Star” followed by the serial number.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DISTINGUISHED SERVICE CROSS.<EmDash />Any United States citizen who is a resident of Florida and who was awarded the Distinguished Service Cross while serving as a member of the United States Armed Forces shall be issued a license plate on which is stamped the words “Distinguished Service Cross” followed by the serial number.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">NAVY CROSS.<EmDash />Any United States citizen who is a resident of Florida and who was awarded the Navy Cross while serving as a member of the United States Armed Forces shall be issued a license plate on which is stamped the words “Navy Cross” followed by the serial number.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">AIR FORCE CROSS.<EmDash />Any United States citizen who is a resident of Florida and who was awarded the Air Force Cross while serving as a member of the United States Armed Forces shall be issued a license plate on which is stamped the words “Air Force Cross” followed by the serial number.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 14, ch. 2012-159.</History>
+</Section>

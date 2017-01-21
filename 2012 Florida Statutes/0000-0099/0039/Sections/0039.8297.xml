@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.8297" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">County funding for guardian ad litem employees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A county and the executive director of the Statewide Guardian Ad Litem Office may enter into an agreement by which the county agrees to provide funds to the local guardian ad litem office in order to employ persons who will assist in the operation of the guardian ad litem program in the county.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agreement, at a minimum, must provide that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Funding for the persons who are employed will be provided on at least a fiscal-year basis.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The persons who are employed will be hired, supervised, managed, and terminated by the executive director of the Statewide Guardian Ad Litem Office. The statewide office is responsible for compliance with all requirements of federal and state employment laws, and shall fully indemnify the county from any liability under such laws, as authorized by s. 768.28(19), to the extent such liability is the result of the acts or omissions of the Statewide Guardian Ad Litem Office or its agents or employees.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The county is the employer for purposes of s. 440.10 and chapter 443.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Employees funded by the county under this section and other county employees may be aggregated for purposes of a flexible benefits plan pursuant to s. 125 of the Internal Revenue Code of 1986.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Persons employed under this section may be terminated after a substantial breach of the agreement or because funding to the program has expired.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Persons employed under this section may not be counted in a formula or similar process used by the Statewide Guardian Ad Litem Office to measure personnel needs of a judicial circuit’s guardian ad litem program.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Agreements created pursuant to this section do not obligate the state to allocate funds to a county to employ persons in the guardian ad litem program.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2012-123.</History>
+</Section>

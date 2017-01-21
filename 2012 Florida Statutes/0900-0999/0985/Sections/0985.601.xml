@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.601" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Administering the juvenile justice continuum.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Juvenile Justice shall plan, develop, and coordinate comprehensive services and programs statewide for the prevention, early intervention, control, and rehabilitative treatment of delinquent behavior.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall develop and implement an appropriate continuum of care that provides individualized, multidisciplinary assessments, objective evaluations of relative risks, and the matching of needs with placements for all children under its care, and that uses a system of case management to facilitate each child being appropriately assessed, provided with services, and placed in a program that meets the child’s needs.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall develop or contract for diversified and innovative programs to provide rehabilitative treatment, including early intervention and prevention, diversion, comprehensive intake, case management, diagnostic and classification assessments, individual and family counseling, shelter care, diversified detention care emphasizing alternatives to secure detention, diversified probation, halfway houses, foster homes, community-based substance abuse treatment services, community-based mental health treatment services, community-based residential and nonresidential programs, mother-infant programs, and environmental programs. Each program shall place particular emphasis on reintegration and conditional release for all children in the program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Legislature intends that, whenever possible and reasonable, the department make every effort to consider qualified faith-based organizations on an equal basis with other private organizations when selecting contract providers of services to juveniles.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may contract with faith-based organizations on the same basis as any other nongovernmental providers, without impairing the religious character of such organizations. Any faith-based organization may act as a contractor in the delivery of services under any program, on the same basis as any other nongovernmental provider, without impairing the religious character of such organization. A faith-based organization, which has entered into a contract with the department, shall retain its independence from state and local governments with regard to control over the definition, development, practice, and expression of its religious beliefs. The department shall not require a faith-based organization to alter its form of internal government or remove religious art, icons, scripture, or other symbols in order to be eligible to contract as a provider.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The department may include in any services contract a requirement that providers prepare plans describing their implementation of paragraphs (a) and (c). A failure to deliver such plans, if required, may be considered by the department as a breach of the contract that may result in cancellation of the contract.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall maintain continuing cooperation with the Department of Education, the Department of Children and Family Services, the Department of Economic Opportunity, and the Department of Corrections for the purpose of participating in agreements with respect to dropout prevention and the reduction of suspensions, expulsions, and truancy; increased access to and participation in GED, vocational, and alternative education programs; and employment training and placement assistance. The cooperative agreements between the departments shall include an interdepartmental plan to cooperate in accomplishing the reduction of inappropriate transfers of children into the adult criminal justice and correctional systems.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department may provide consulting services and technical assistance to courts, law enforcement agencies, and other state agencies, local governments, and public and private organizations, and may develop or assist in developing community interest and action programs relating to intervention against, diversion from, and prevention and treatment of, delinquent behavior.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In view of the importance of the basic values of work, responsibility, and self-reliance to a child’s return to his or her community, the department may pay a child a reasonable sum of money for work performed while employed in any of the department’s work programs. The work programs shall be designed so that the work benefits the department or the state, their properties, or the child’s community. Funds for payments shall be provided specifically for salaries pursuant to this subsection, and payments shall be made pursuant to a plan approved or rules adopted by the department.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The department shall administer programs and services for children in need of services and families in need of services and shall coordinate its efforts with those of the Federal Government, state agencies, county and municipal governments, private agencies, and child advocacy groups. The department shall establish standards for, providing technical assistance to, and exercising the requisite supervision of, services and programs for children in all state-supported facilities and programs.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department shall ensure that personnel responsible for the care, supervision, and individualized treatment of children are appropriately apprised of the requirements of this chapter and trained in the specialized areas required to comply with standards established by rule.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall operate a statewide, regionally administered system of detention services for children, in accordance with a comprehensive plan for the regional administration of all detention services in the state. The plan must provide for the maintenance of adequate availability of detention services for all counties. The plan must cover all the department’s operating circuits, with each operating circuit having a secure facility and nonsecure and home detention programs, and the plan may be altered or modified by the Department of Juvenile Justice as necessary.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall adopt rules prescribing standards and requirements with reference to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The construction, equipping, maintenance, staffing, programming, and operation of detention facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The treatment, training, and education of children confined in detention facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The cleanliness and sanitation of detention facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The number of children who may be housed in detention facilities per specified unit of floor space;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The quality, quantity, and supply of bedding furnished to children housed in detention facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The quality, quantity, and diversity of food served in detention facilities and the manner in which it is served;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The furnishing of medical attention and health and comfort items in detention facilities; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The disciplinary treatment administered in detention facilities.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The rules must provide that the time spent by a child in a detention facility must be devoted to educational training and other types of self-motivation and development. The use of televisions, radios, and audio players shall be restricted to educational programming. However, the manager of a detention facility may allow noneducational programs to be used as a reward for good behavior. Exercise must be structured and calisthenic and aerobic in nature and may include weight lifting.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each programmatic, residential, and service contract or agreement entered into by the department must include a cooperation clause for purposes of complying with the department’s quality assurance requirements, cost-accounting requirements, and the program outcome evaluation requirements.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The department shall implement procedures to ensure that educational support activities are provided throughout the juvenile justice continuum. Such activities may include, but are not limited to, mentoring, tutoring, group discussions, homework assistance, library support, designated reading times, independent living, personal finance, and other appropriate educational activities.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">At the secretary’s discretion, the department is authorized to pay up to $5,000 toward the basic funeral expenses for a youth who dies while in the custody of the department and whose parents or guardians are indigent and unable to pay such expenses and for which there is no other source of funding available.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 90-208; s. 3, ch. 91-158; s. 18, ch. 94-209; s. 1335, ch. 95-147; s. 2, ch. 95-212; ss. 40, 43, ch. 96-398; s. 159, ch. 97-101; s. 64, ch. 97-238; s. 7, ch. 98-186; s. 25, ch. 98-207; s. 139, ch. 99-3; s. 18, ch. 99-284; s. 46, ch. 2000-135; ss. 33, 41, ch. 2001-125; s. 7, ch. 2001-185; s. 154, ch. 2005-2; s. 74, ch. 2006-120; s. 447, ch. 2011-142; s. 5, ch. 2012-56.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.021; s. 985.404.</Text>
+	</Note>
+</Section>

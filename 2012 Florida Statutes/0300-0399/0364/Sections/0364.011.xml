@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemptions from commission jurisdiction.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following services are exempt from oversight by the commission, except to the extent delineated in this chapter:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Intrastate interexchange telecommunications services.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Broadband services, regardless of the provider, platform, or protocol.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">VoIP.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Wireless telecommunications, including commercial mobile radio service providers.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Basic service.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Nonbasic services or comparable services offered by any telecommunications company.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2005-132; s. 3, ch. 2011-36.</History>
+</Section>

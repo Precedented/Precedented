@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.9521" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Unfair methods of competition and unfair or deceptive acts or practices prohibited; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No person shall engage in this state in any trade practice which is defined in this part as, or determined pursuant to s. 626.951 or s. 626.9561 to be, an unfair method of competition or an unfair or deceptive act or practice involving the business of insurance.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as provided in subsection (3), any person who violates any provision of this part is subject to a fine in an amount not greater than $5,000 for each nonwillful violation and not greater than $40,000 for each willful violation. Fines under this subsection imposed against an insurer may not exceed an aggregate amount of $20,000 for all nonwillful violations arising out of the same action or an aggregate amount of $200,000 for all willful violations arising out of the same action. The fines may be imposed in addition to any other applicable penalty.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a person violates s. 626.9541(1)(l), the offense known as “twisting,” or violates s. 626.9541(1)(aa), the offense known as “churning,” the person commits a misdemeanor of the first degree, punishable as provided in s. 775.082, and an administrative fine not greater than $5,000 shall be imposed for each nonwillful violation or an administrative fine not greater than $75,000 shall be imposed for each willful violation. To impose an administrative fine for a willful violation under this paragraph, the practice of “churning” or “twisting” must involve fraudulent conduct.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a person violates s. 626.9541(1)(ee) by willfully submitting fraudulent signatures on an application or policy-related document, the person commits a felony of the third degree, punishable as provided in s. 775.082, and an administrative fine not greater than $5,000 shall be imposed for each nonwillful violation or an administrative fine not greater than $75,000 shall be imposed for each willful violation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Administrative fines under this subsection may not exceed an aggregate amount of $50,000 for all nonwillful violations arising out of the same action or an aggregate amount of $250,000 for all willful violations arising out of the same action.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A licensee must make all reasonable efforts to ascertain the consumer’s age at the time an insurance application is completed.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If a consumer who is a senior citizen is a victim, a video deposition of the victim may be used for any purpose in any administrative proceeding conducted pursuant to chapter 120 if all parties are given proper notice of the deposition in accordance with the Florida Rules of Civil Procedure.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 76-260; s. 807, ch. 82-243; ss. 206, 207, ch. 90-363; s. 4, ch. 91-429; s. 37, ch. 92-146; s. 7, ch. 2008-66; ss. 5, 6, ch. 2008-237; s. 50, ch. 2010-175.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 12, ch. 2008-237, provides in part that “[e]ffective [June 30, 2008,] the Department of Financial Services may adopt rules to implement this act.”</Text>
+	</Note>
+</Section>

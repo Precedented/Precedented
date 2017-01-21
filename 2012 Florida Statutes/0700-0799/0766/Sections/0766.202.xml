@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0766.202" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions; ss. 766.201-766.212.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 766.201-766.212, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Claimant” means any person who has a cause of action for damages based on personal injury or wrongful death arising from medical negligence.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Collateral sources” means any payments made to the claimant, or made on his or her behalf, by or pursuant to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The United States Social Security Act; any federal, state, or local income disability act; or any other public programs providing medical expenses, disability payments, or other similar benefits, except as prohibited by federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any health, sickness, or income disability insurance; automobile accident insurance that provides health benefits or income disability coverage; and any other similar insurance benefits, except life insurance benefits available to the claimant, whether purchased by him or her or provided by others.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any contract or agreement of any group, organization, partnership, or corporation to provide, pay for, or reimburse the costs of hospital, medical, dental, or other health care services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any contractual or voluntary wage continuation plan provided by employers or by any other system intended to provide wages during a period of disability.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Economic damages” means financial losses that would not have occurred but for the injury giving rise to the cause of action, including, but not limited to, past and future medical expenses and 80 percent of wage loss and loss of earning capacity to the extent the claimant is entitled to recover such damages under general law, including the Wrongful Death Act.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Health care provider” means any hospital, ambulatory surgical center, or mobile surgical facility as defined and licensed under chapter 395; a birth center licensed under chapter 383; any person licensed under chapter 458, chapter 459, chapter 460, chapter 461, chapter 462, chapter 463, part I of chapter 464, chapter 466, chapter 467, part XIV of chapter 468, or chapter 486; a clinical lab licensed under chapter 483; a health maintenance organization certificated under part I of chapter 641; a blood bank; a plasma center; an industrial clinic; a renal dialysis facility; or a professional association partnership, corporation, joint venture, or other association for professional activity by health care providers.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Investigation” means that an attorney has reviewed the case against each and every potential defendant and has consulted with a medical expert and has obtained a written opinion from said expert.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Medical expert” means a person duly and regularly engaged in the practice of his or her profession who holds a health care professional degree from a university or college and who meets the requirements of an expert witness as set forth in s. 766.102.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Medical negligence” means medical malpractice, whether grounded in tort or in contract.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Noneconomic damages” means nonfinancial losses that would not have occurred but for the injury giving rise to the cause of action, including pain and suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of capacity for enjoyment of life, and other nonfinancial losses to the extent the claimant is entitled to recover such damages under general law, including the Wrongful Death Act.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Periodic payment” means provision for the structuring of future economic damages payments, in whole or in part, over a period of time, as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A specific finding of the dollar amount of periodic payments which will compensate for these future damages after offset for collateral sources shall be made. The total dollar amount of the periodic payments shall equal the dollar amount of all such future damages before any reduction to present value.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The defendant shall be required to post a bond or security or otherwise to assure full payment of these damages awarded. A bond is not adequate unless it is written by a company authorized to do business in this state and is rated A+ by Best’s. If the defendant is unable to adequately assure full payment of the damages, all damages, reduced to present value, shall be paid to the claimant in a lump sum. No bond may be canceled or be subject to cancellation unless at least 60 days’ advance written notice is filed with the court and the claimant. Upon termination of periodic payments, the security, or so much as remains, shall be returned to the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The provision for payment of future damages by periodic payments shall specify the recipient or recipients of the payments, the dollar amounts of the payments, the interval between payments, and the number of payments or the period of time over which payments shall be made.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 49, ch. 88-1; s. 1153, ch. 97-102; s. 58, ch. 2003-416; s. 3, ch. 2011-195.</History>
+</Section>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0420.631" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions relating to Urban Homesteading Act.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 420.630-420.635:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Authority” or “housing authority” means any of the public corporations created under s. 421.04.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Homestead agreement” means a written contract between a local government or its designee and a qualified buyer which contains the terms under which the qualified buyer may acquire a single-family housing property.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Local government” means any county or incorporated municipality within this state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Designee” means a housing authority appointed by a local government, or a nonprofit community organization appointed by a local government, to administer the urban homesteading program for single-family housing under ss. 420.630-420.635.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Nonprofit community organization” means an organization that is exempt from taxation under s. 501(c)(3) of the Internal Revenue Code.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Office” means the Office of Urban Opportunity within the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Qualified buyer” means a person who meets the criteria under s. 420.633.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Qualified loan rate” means an interest rate that does not exceed the interest rate charged for home improvement loans by the Federal Housing Administration under Title I of the National Housing Act, ch. 847, 48 Stat. 1246, or 12 U.S.C. ss. 1702, 1703, 1705, and 1706b et seq.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 23, ch. 99-378; s. 23, ch. 2004-243; s. 337, ch. 2011-142.</History>
+</Section>

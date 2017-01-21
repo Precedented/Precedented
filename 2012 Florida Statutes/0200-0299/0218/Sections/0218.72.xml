@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.72" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Agent” means the project architect, project engineer, or other agency or person acting on behalf of the local governmental entity. The agent who is required to review invoices or payment requests must be identified in accordance with s. 218.735(1).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Construction services” means all labor, services, and materials provided in connection with the construction, alteration, repair, demolition, reconstruction, or other improvements to real property.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Contractor” or “provider of construction services” means the person who contracts directly with a local governmental entity to provide construction services.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“County” means a political subdivision of the state established pursuant to s. 1, Art. VIII of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Local governmental entity” means a county or municipal government, school board, school district, authority, special taxing district, other political subdivision, or any office, board, bureau, commission, department, branch, division, or institution thereof.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Municipality” means a municipality created pursuant to general or special law and metropolitan and consolidated governments as provided in s. 6(e) and (f), Art. VIII of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Payment request” means a request for payment for construction services which conforms with all statutory requirements and all requirements specified by the local governmental entity to which the payment request is submitted. Such requirements must be included in the contract for the project for which payment is requested.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Proper invoice” means an invoice that conforms with all statutory requirements and all requirements specified by the local governmental entity to which the invoice is submitted. Such requirements must be included in the contract for the project for which the invoice is submitted.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Purchase” means the purchase of goods, services, or construction services; the purchase or lease of personal property; or the lease of real property by a local governmental entity.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Vendor” means any person who sells goods or services, sells or leases personal property, or leases real property directly to a local governmental entity. The term includes any person who provides waste hauling services to residents or businesses located within the boundaries of a local government pursuant to a contract or local ordinance.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 89-297; s. 1, ch. 95-331; s. 1, ch. 2001-169; s. 2, ch. 2005-230; s. 1, ch. 2010-111.</History>
+</Section>

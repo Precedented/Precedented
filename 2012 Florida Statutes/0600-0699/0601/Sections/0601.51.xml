@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0601.51" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certification required for shipment of citrus fruit or products.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person, including a common carrier or other carrier, may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in s. 601.50, accept for shipment, ship, or transport any citrus fruit or the canned or concentrated products thereof until a grade certificate is issued showing the grade thereof, which certificate or a duplicate thereof must be filed with the carrier at the point of shipment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Accept for shipment or ship any citrus fruit or the canned or concentrated products thereof where written notice has been given to such person, common carrier, or other carrier, or her or his representative or agent, by the Department of Agriculture or its authorized agent, employee, or inspector that such citrus fruit or the canned or concentrated products thereof do not comply with the provisions of law or rules adopted by the Department of Citrus or the Department of Agriculture.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A shipper or handler of such citrus fruit or the canned or concentrated products thereof has the privilege of repacking or remarking, and if or when such citrus fruit or the canned or concentrated products thereof are repacked or remarked to conform to the provisions of law or rules or orders of the Department of Citrus or the Department of Agriculture, the Department of Agriculture or its authorized inspector or agent shall notify such person, common carrier, or other carrier, or her or his agent, that such citrus fruit or the canned or concentrated products thereof may be accepted for shipment, and such shipper or handler is not considered as having violated this chapter or such rules or orders.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a shipper conforms to the rules adopted by the Department of Citrus under s. 601.49, the shipper is deemed to have complied with this section.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 51, ch. 25149, 1949; s. 10, ch. 26492, 1951; ss. 14, 35, ch. 69-106; s. 7, ch. 71-185; s. 22, ch. 71-186; s. 976, ch. 97-103; s. 39, ch. 2012-182.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.00785" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Criminal penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Operate a tattoo establishment or temporary establishment in this state without a license.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Practice tattooing in this state without a tattoo artist license or guest tattoo artist registration, except as provided in s. 381.00773.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Practice tattooing in this state at any place other than a tattoo establishment or temporary establishment, except as provided in s. 381.00773.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Obtain or attempt to obtain a license or registration by means of fraud, misrepresentation, or concealment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person who violates this section commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2010-220.</History>
+</Section>

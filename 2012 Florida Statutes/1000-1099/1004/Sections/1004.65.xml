@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.65" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida College System institutions; governance, mission, and responsibilities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution shall be governed by a district board of trustees under statutory authority and rules of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution district shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Consist of the county or counties served by the Florida College System institution pursuant to s. 1000.21(3).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be an independent, separate, legal entity created for the operation of a Florida College System institution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions are locally based and governed entities with statutory and funding ties to state government. As such, the mission for Florida College System institutions reflects a commitment to be responsive to local educational needs and challenges. In achieving this mission, Florida College System institutions strive to maintain sufficient local authority and flexibility while preserving appropriate legal accountability to the state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">As comprehensive institutions, Florida College System institutions shall provide high-quality, affordable education and training opportunities, shall foster a climate of excellence, and shall provide opportunities to all while combining high standards with an open-door admission policy for lower-division programs. Florida College System institutions shall, as open-access institutions, serve all who can benefit, without regard to age, race, gender, creed, or ethnic or economic background, while emphasizing the achievement of social and educational equity so that all can be prepared for full participation in society.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The primary mission and responsibility of Florida College System institutions is responding to community needs for postsecondary academic education and career degree education. This mission and responsibility includes being responsible for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Providing lower level undergraduate instruction and awarding associate degrees.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Preparing students directly for careers requiring less than baccalaureate degrees. This may include preparing for job entry, supplementing of skills and knowledge, and responding to needs in new areas of technology. Career education in a Florida College System institution shall consist of career certificates, credit courses leading to associate in science degrees and associate in applied science degrees, and other programs in fields requiring substantial academic work, background, or qualifications. A Florida College System institution may offer career education programs in fields having lesser academic or technical requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Providing student development services, including assessment, student tracking, support for disabled students, advisement, counseling, financial aid, career development, and remedial and tutorial services, to ensure student success.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Promoting economic development for the state within each Florida College System institution district through the provision of special programs, including, but not limited to, the:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Enterprise Florida-related programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Technology transfer centers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Economic development centers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Workforce literacy programs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Providing dual enrollment instruction.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Providing upper level instruction and awarding baccalaureate degrees as specifically authorized by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A separate and secondary role for Florida College System institutions includes the offering of programs in:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Community services that are not directly related to academic or occupational advancement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Adult education services, including adult basic education, adult general education, adult secondary education, and General Educational Development test instruction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Recreational and leisure services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Funding for Florida College System institutions shall reflect their mission as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Postsecondary academic and career education programs and adult general education programs shall have first priority in Florida College System institution funding.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Community service programs shall be presented to the Legislature with rationale for state funding. The Legislature may identify priority areas for use of these funds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The resources of a Florida College System institution, including staff, faculty, land, and facilities, shall not be used to support the establishment of a new independent nonpublic educational institution. If any institution uses resources for such purpose, the Division of Florida Colleges shall notify the President of the Senate and the Speaker of the House of Representatives.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions are authorized to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Offer such programs and courses as are necessary to fulfill their mission.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Grant associate in arts degrees, associate in science degrees, associate in applied science degrees, certificates, awards, and diplomas.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Make provisions for the General Educational Development test.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide access to and award baccalaureate degrees in accordance with law.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Authority to offer one or more baccalaureate degree programs does not alter the governance relationship of the Florida College System institution with its district board of trustees or the State Board of Education.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 215, ch. 2002-387; s. 91, ch. 2004-357; s. 4, ch. 2009-228; s. 7, ch. 2010-155; s. 50, ch. 2011-5.</History>
+</Section>

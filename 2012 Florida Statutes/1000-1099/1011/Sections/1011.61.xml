@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.61" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of s. 1000.21, the following terms are defined as follows for the purposes of the Florida Education Finance Program:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A “full-time equivalent student” in each program of the district is defined in terms of full-time students and part-time students as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A “full-time student” is one student on the membership roll of one school program or a combination of school programs listed in s. 1011.62(1)(c) for the school year or the equivalent for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Instruction in a standard school, comprising not less than 900 net hours for a student in or at the grade level of 4 through 12, or not less than 720 net hours for a student in or at the grade level of kindergarten through grade 3 or in an authorized prekindergarten exceptional program;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Instruction in a double-session school or a school utilizing an experimental school calendar approved by the Department of Education, comprising not less than the equivalent of 810 net hours in grades 4 through 12 or not less than 630 net hours in kindergarten through grade 3; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Instruction comprising the appropriate number of net hours set forth in subparagraph 1. or subparagraph 2. for students who, within the past year, have moved with their parents for the purpose of engaging in the farm labor or fish industries, if a plan furnishing such an extended school day or week, or a combination thereof, has been approved by the commissioner. Such plan may be approved to accommodate the needs of migrant students only or may serve all students in schools having a high percentage of migrant students. The plan described in this subparagraph is optional for any school district and is not mandated by the state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A “part-time student” is a student on the active membership roll of a school program or combination of school programs listed in s. 1011.62(1)(c) who is less than a full-time student.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A “full-time equivalent student” is:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A full-time student in any one of the programs listed in s. 1011.62(1)(c); or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A combination of full-time or part-time students in any one of the programs listed in s. 1011.62(1)(c) which is the equivalent of one full-time student based on the following calculations:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A full-time student in a combination of programs listed in s. 1011.62(1)(c) shall be a fraction of a full-time equivalent membership in each program equal to the number of net hours per school year for which he or she is a member, divided by the appropriate number of hours set forth in subparagraph (a)1. or subparagraph (a)2. The sum of the fractions for each program may not exceed the maximum value set forth in subsection (4).</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A prekindergarten student with a disability shall meet the requirements specified for kindergarten students.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">A full-time equivalent student for students in kindergarten through grade 12 in a full-time virtual instruction program under s. 1002.45 or a virtual charter school under s. 1002.33 shall consist of six full-credit completions or the prescribed level of content that counts toward promotion to the next grade in programs listed in s. 1011.62(1)(c). Credit completions may be a combination of full-credit courses or half-credit courses. Beginning in the 2014-2015 fiscal year, when s. 1008.22(3)(g) is implemented, the reported full-time equivalent students and associated funding of students enrolled in courses requiring passage of an end-of-course assessment shall be adjusted after the student completes the end-of-course assessment.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">A full-time equivalent student for students in kindergarten through grade 12 in a part-time virtual instruction program under s. 1002.45 shall consist of six full-credit completions in programs listed in s. 1011.62(1)(c)1. and 3. Credit completions may be a combination of full-credit courses or half-credit courses. Beginning in the 2014-2015 fiscal year, when s. 1008.22(3)(g) is implemented, the reported full-time equivalent students and associated funding of students enrolled in courses requiring passage of an end-of-course assessment shall be adjusted after the student completes the end-of-course assessment.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">A Florida Virtual School full-time equivalent student shall consist of six full-credit completions or the prescribed level of content that counts toward promotion to the next grade in the programs listed in s. 1011.62(1)(c)1. and 3. for students participating in kindergarten through grade 12 part-time virtual instruction and the programs listed in s. 1011.62(1)(c) for students participating in kindergarten through grade 12 full-time virtual instruction. Credit completions may be a combination of full-credit courses or half-credit courses. Beginning in the 2014-2015 fiscal year, when s. 1008.22(3)(g) is implemented, the reported full-time equivalent students and associated funding of students enrolled in courses requiring passage of an end-of-course assessment shall be adjusted after the student completes the end-of-course assessment.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">Each successfully completed full-credit course earned through an online course delivered by a district other than the one in which the student resides shall be calculated as <Fraction>1/6</Fraction> FTE.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VII">
+							<Text xml:space="preserve" Style="Intro">Each successfully completed credit earned under the alternative high school course credit requirements authorized in s. 1002.375, which is not reported as a portion of the 900 net hours of instruction pursuant to subparagraph (1)(a)1., shall be calculated as <Fraction>1/6</Fraction> FTE.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VIII">
+							<SubSubSubSubParagraph Id="A">
+								<Text xml:space="preserve" Style="Intro">A full-time equivalent student for courses requiring a statewide, standardized end-of-course assessment pursuant to s. 1008.22(3)(c)2.a. shall be defined and reported based on the number of instructional hours as provided in this subsection for the first 3 years of administering the end-of-course assessment. Beginning in the fourth year of administering the end-of-course assessment, the FTE shall be credit-based and each course shall be equal to <Fraction>1/6</Fraction> FTE. The reported FTE shall be adjusted after the student successfully completes the end-of-course assessment pursuant to s. 1008.22(3)(c)2.a.</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="B">
+								<Text xml:space="preserve" Style="Intro">For students enrolled in a school district as a full-time student, the district may report <Fraction>1/6</Fraction> FTE for each student who passes a statewide, standardized end-of-course assessment without being enrolled in the corresponding course.</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="C">
+								<Text xml:space="preserve" Style="Intro">The FTE earned under this sub-sub-subparagraph and any FTE for courses or programs listed in s. 1011.62(1)(c) that do not require passing a statewide, standardized end-of-course assessment are subject to the requirements in subsection (4).</Text>
+							</SubSubSubSubParagraph>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A student in membership in a program scheduled for more or less than 180 school days or the equivalent on an hourly basis as specified by rules of the State Board of Education is a fraction of a full-time equivalent membership equal to the number of instructional hours in membership divided by the appropriate number of hours set forth in subparagraph (a)1.; however, for the purposes of this subparagraph, membership in programs scheduled for more than 180 days is limited to students enrolled in juvenile justice education programs and the Florida Virtual School.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The department shall determine and implement an equitable method of equivalent funding for experimental schools and for schools operating under emergency conditions, which schools have been approved by the department to operate for less than the minimum school day.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A “full-time equivalent student” is a student in grades 4 through 8 who is participating in a student-teacher adviser program conducted during homeroom period, who is a fraction of a full-time equivalent membership based on net hours in the program, with a maximum of 36 net hours in any fiscal year. Each district program shall be approved by the Department of Education.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For the purpose of calculating the “current operation program,” a student is in membership until he or she withdraws or until the close of the 11th consecutive school day of his or her absence, whichever comes first.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The maximum value for funding a student in kindergarten through grade 12 or in a prekindergarten program for exceptional children as provided in s. 1003.21(1)(e) is one full-time equivalent student membership for a school year or equivalent.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The “Florida Education Finance Program” includes all programs and costs as provided in s. 1011.62.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Basic programs” include, but are not limited to, language arts, mathematics, art, music, physical education, science, and social studies.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 654, ch. 2002-387; s. 20, ch. 2003-391; s. 6, ch. 2008-147; s. 2, ch. 2008-174; s. 28, ch. 2009-59; s. 34, ch. 2011-63; s. 9, ch. 2011-137; s. 15, ch. 2012-133; s. 27, ch. 2012-191; s. 10, ch. 2012-192.</History>
+</Section>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0507.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Violations.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">It is a violation of this chapter to:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Conduct business as a mover or moving broker, or advertise to engage in the business of moving or offering to move, without being registered with the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Knowingly make any false statement, representation, or certification in any application, document, or record required to be submitted or retained under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Misrepresent or deceptively represent:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The contract for services, bill of lading, or inventory of household goods for the move estimated.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The timeframe or schedule for delivery or storage of household goods estimated.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The price, size, nature, extent, qualities, or characteristics of accessorial or moving services offered.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The nature or extent of other goods, services, or amenities offered.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A shipper’s rights, privileges, or benefits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Fail to honor and comply with all provisions of the contract for services or bill of lading regarding the purchaser’s rights, benefits, and privileges thereunder.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Withhold delivery of household goods or in any way hold goods in storage against the expressed wishes of the shipper if payment has been made as delineated in the estimate or contract for services.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Include in any contract any provision purporting to waive or limit any right or benefit provided to shippers under this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Seek or solicit a waiver or acceptance of limitation from a shipper concerning rights or benefits provided under this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Use a local mailing address, registration facility, drop box, or answering service in the promotion, advertising, solicitation, or sale of contracts, unless the mover’s, and, if applicable, the moving broker’s, fixed business address is clearly disclosed during any telephone solicitation and is prominently and conspicuously disclosed on all solicitation materials and on the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Commit any other act of fraud, misrepresentation, or failure to disclose a material fact.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Refuse or fail, or for any of the mover’s or broker’s principal officers to refuse or fail, after notice, to produce any document or record or disclose any information required to be produced or disclosed.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Knowingly make a false statement in response to any request or investigation by the department, the Department of Legal Affairs, or the state attorney.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2002-53; s. 9, ch. 2006-4; s. 3, ch. 2011-121.</History>
+</Section>

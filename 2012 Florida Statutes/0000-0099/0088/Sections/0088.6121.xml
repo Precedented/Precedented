@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6121" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Recognition of order modified in another state.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A tribunal of this state shall recognize a modification of its earlier child support order by a tribunal of another state which assumed jurisdiction pursuant to this act or a law substantially similar to this act and, upon request, except as otherwise provided in this act, shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Enforce the order that was modified only as to amounts accruing before the modification.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Enforce only nonmodifiable aspects of that order.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Provide other appropriate relief only for violations of that order which occurred before the effective date of the modification.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Recognize the modifying order of the other state, upon registration, for the purpose of enforcement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 96-189; s. 34, ch. 97-170; s. 54, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 54, ch. 2011-92, amended s. 88.6121, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.6121 Recognition of order modified in another state.</Font><EmDash/>If a child support order issued by a tribunal of this state is modified by a tribunal of another state which assumed jurisdiction pursuant to the Uniform Interstate Family Support Act, a tribunal of this state:</Text>
+		<Text xml:space="preserve" Style="Indent">(1) May enforce the order that was modified only as to arrears and interest accruing before the modification.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) May provide appropriate relief for violations of its order which occurred before the effective date of the modification.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) Shall recognize the modifying order of the other state, upon registration, for the purpose of enforcement.</Text>
+	</Note>
+</Section>

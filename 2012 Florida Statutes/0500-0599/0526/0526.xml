@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIII">
+	<ChapterNumber>526</ChapterNumber>
+	<ChapterName xml:space="preserve">Sale of liquid fuels; brake fluid</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Sale of liquid fuels</PartTitle>
+		<Section Number="0526.01" />
+		<Section Number="0526.02" />
+		<Section Number="0526.03" />
+		<Section Number="0526.04" />
+		<Section Number="0526.05" />
+		<Section Number="0526.06" />
+		<Section Number="0526.07" />
+		<Section Number="0526.08" />
+		<Section Number="0526.09" />
+		<Section Number="0526.10" />
+		<Section Number="0526.11" />
+		<Section Number="0526.111" />
+		<Section Number="0526.121" />
+		<Section Number="0526.131" />
+		<Section Number="0526.141" />
+		<Section Number="0526.143" />
+		<Section Number="0526.144" />
+		<Section Number="0526.201" />
+		<Section Number="0526.202" />
+		<Section Number="0526.203" />
+		<Section Number="0526.204" />
+		<Section Number="0526.205" />
+		<Section Number="0526.206" />
+		<Section Number="0526.207" />
+		<Section Number="0526.301" />
+		<Section Number="0526.302" />
+		<Section Number="0526.303" />
+		<Section Number="0526.304" />
+		<Section Number="0526.305" />
+		<Section Number="0526.306" />
+		<Section Number="0526.307" />
+		<Section Number="0526.308" />
+		<Section Number="0526.309" />
+		<Section Number="0526.311" />
+		<Section Number="0526.312" />
+		<Section Number="0526.313" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Sale of brake fluid</PartTitle>
+		<Section Number="0526.50" />
+		<Section Number="0526.51" />
+		<Section Number="0526.52" />
+		<Section Number="0526.53" />
+		<Section Number="0526.54" />
+		<Section Number="0526.55" />
+		<Section Number="0526.56" />
+	</Part>
+</Chapter>

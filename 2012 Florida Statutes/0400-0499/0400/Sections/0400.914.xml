@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0400.914" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rules establishing standards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Pursuant to the intention of the Legislature to provide safe and sanitary facilities and healthful programs, the agency in conjunction with the Division of Children’s Medical Services of the Department of Health shall adopt and publish rules to implement the provisions of this part and part II of chapter 408, which shall include reasonable and fair standards. Any conflict between these standards and those that may be set forth in local, county, or city ordinances shall be resolved in favor of those having statewide effect. Such standards shall relate to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The assurance that PPEC services are family centered and provide individualized medical, developmental, and family training services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The maintenance of PPEC centers, not in conflict with the provisions of chapter 553 and based upon the size of the structure and number of children, relating to plumbing, heating, lighting, ventilation, and other building conditions, including adequate space, which will ensure the health, safety, comfort, and protection from fire of the children served.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The appropriate provisions of the most recent edition of the “Life Safety Code” (NFPA-101) shall be applied.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The number and qualifications of all personnel who have responsibility for the care of the children served.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">All sanitary conditions within the PPEC center and its surroundings, including water supply, sewage disposal, food handling, and general hygiene, and maintenance thereof, which will ensure the health and comfort of children served.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Programs and basic services promoting and maintaining the health and development of the children served and meeting the training needs of the children’s legal guardians.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Supportive, contracted, other operational, and transportation services.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Maintenance of appropriate medical records, data, and information relative to the children and programs. Such records shall be maintained in the facility for inspection by the agency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agency shall adopt rules to ensure that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No child attends a PPEC center for more than 12 hours within a 24-hour period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No PPEC center provides services other than those provided to medically or technologically dependent children.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 14, 17, ch. 87-290; ss. 11, 14, ch. 93-66; s. 89, ch. 97-101; s. 19, ch. 98-288; s. 128, ch. 99-8; s. 23, ch. 2000-153; s. 102, ch. 2007-230; s. 91, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 391.214.</Text>
+	</Note>
+</Section>

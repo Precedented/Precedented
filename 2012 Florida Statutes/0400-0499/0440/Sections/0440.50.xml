@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0440.50" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Workers’ Compensation Administration Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">There is established in the State Treasury a special fund to be known as the “Workers’ Compensation Administration Trust Fund” for the purpose of providing for the payment of all expenses in respect to the administration of this chapter, including the vocational rehabilitation of injured employees as provided in s. 440.49 and the payments due under s. 440.15(1)(f), the funding of the fixed administrative expenses of the plan, and the funding of the Bureau of Workers’ Compensation Fraud within the Department of Financial Services. Such fund shall be administered by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department is authorized to transfer as a loan an amount not in excess of $250,000 from such special fund to the Special Disability Trust Fund established by s. 440.49(9), which amount shall be repaid to said special fund in annual payments equal to not less than 10 percent of moneys received for such Special Disability Trust Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer is authorized to disburse moneys from such fund only when approved by the department.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer shall deposit any moneys paid into such fund into such depository banks as the department may designate and is authorized to invest any portion of the fund which, in the opinion of the department, is not needed for current requirements, in the same manner and subject to all the provisions of the law with respect to the deposit of state funds by such Chief Financial Officer. All interest earned by such portion of the fund as may be invested by the Chief Financial Officer shall be collected by him or her and placed to the credit of such fund.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All civil penalties provided in this chapter, if not voluntarily paid, may be collected by civil suit brought by the department and shall be paid into such fund.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Funds appropriated by an operating appropriation or a nonoperating transfer from the Workers’ Compensation Administration Trust Fund to the Agency for Health Care Administration, the Department of Business and Professional Regulation, the Department of Management Services, the First District Court of Appeal, and the Justice Administrative Commission remaining unencumbered as of June 30 or undisbursed as of September 30 each year shall revert to the Workers’ Compensation Administration Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 50, ch. 17481, 1935; CGL 1936 Supp. 5966(48); s. 13, ch. 29778, 1955; s. 2, ch. 61-119; ss. 17, 35, ch. 69-106; s. 22, ch. 74-197; s. 23, ch. 78-300; ss. 38, 124, ch. 79-40; s. 21, ch. 79-312; s. 11, ch. 85-61; s. 43, ch. 89-289; s. 56, ch. 90-201; s. 52, ch. 91-1; s. 45, ch. 93-415; s. 72, ch. 96-418; s. 1056, ch. 97-103; s. 36, ch. 98-34; s. 6, ch. 2000-150; s. 49, ch. 2002-194; s. 490, ch. 2003-261; s. 8, ch. 2011-59; s. 7, ch. 2012-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 2, ch. 2005-58, provides that “[i]n addition to the purpose of the Workers’ Compensation Administration Trust Fund specified in section 440.50(1)(a), Florida Statutes, moneys in the Workers’ Compensation Administration Trust Fund in the Department of Financial Services may also be appropriated to fund the enforcement of farm labor laws by the Department of Business and Professional Regulation.”</Text>
+	</Note>
+</Section>

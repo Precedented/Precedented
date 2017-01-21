@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0944.28" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Forfeiture of gain-time and the right to earn gain-time in the future.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a prisoner is convicted of escape, or if the clemency, conditional release as described in chapter 947, probation or community control as described in chapter 948, provisional release as described in <Reference Number="1" />s. 944.277, parole, or control release as described in s. 947.146 granted to the prisoner is revoked, the department may, without notice or hearing, declare a forfeiture of all gain-time earned according to the provisions of law by such prisoner prior to such escape or his or her release under such clemency, conditional release, probation, community control, provisional release, control release, or parole.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All or any part of the gain-time earned by a prisoner according to the provisions of law is subject to forfeiture if such prisoner unsuccessfully attempts to escape; assaults another person; threatens or knowingly endangers the life or person of another person; refuses by action or word to carry out any instruction duly given to him or her; neglects to perform in a faithful, diligent, industrious, orderly, and peaceful manner the work, duties, and tasks assigned to him or her; is found by a court to have brought a frivolous suit, action, claim, proceeding, or appeal in any court; is found by a court to have knowingly or with reckless disregard for the truth brought false information or evidence before the court; or violates any law of the state or any rule or regulation of the department or institution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A prisoner’s right to earn gain-time during all or any part of the remainder of the sentence or sentences under which he or she is imprisoned may be declared forfeited because of the seriousness of a single instance of misconduct or because of the seriousness of an accumulation of instances of misconduct.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The method of declaring a forfeiture under paragraph (a) or paragraph (b) shall be as follows: A written charge shall be prepared, which shall specify each instance of misconduct upon which it is based and the approximate date thereof. A copy of such charge shall be delivered to the prisoner, and he or she shall be given notice of a hearing before the disciplinary committee created under the authorization of rules heretofore or hereafter adopted by the department for the institution in which he or she is confined. The prisoner shall be present at the hearing. If at such hearing the prisoner pleads guilty to the charge or if the committee determines that the prisoner is guilty thereof upon the basis of proof presented at such hearing, it shall find him or her guilty. If the committee considers that all or part of the prisoner’s gain-time and the prisoner’s right to earn gain-time during all or any part of the sentence or sentences under which he or she is imprisoned shall be forfeited, it shall so recommend in its written report. Such report shall be presented to the warden of the institution, who may approve such recommendation in whole or in part by endorsing such approval on the report. In the event of approval, the warden shall forward the report to the department. Thereupon, the department may, in its discretion, declare the forfeiture thus approved by the warden or any specified part thereof.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon the recommendation of the warden, the department may, in its discretion, restore all or any part of any gain-time forfeited under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 57-121; s. 18, ch. 61-530; s. 2, ch. 63-243; s. 1, ch. 65-197; ss. 19, 35, ch. 69-106; s. 20, ch. 74-112; s. 48, ch. 77-120; s. 58, ch. 79-3; s. 1, ch. 82-39; s. 9, ch. 88-122; s. 6, ch. 89-526; s. 6, ch. 89-531; s. 2, ch. 91-280; s. 6, ch. 96-106; ss. 1854, 1855, ch. 97-102; s. 14, ch. 2000-161; s. 39, ch. 2010-117.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 32, ch. 93-406.</Text>
+	</Note>
+</Section>

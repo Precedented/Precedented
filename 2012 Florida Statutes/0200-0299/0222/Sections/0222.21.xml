@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0222.21" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemption of pension money and certain tax-exempt funds or accounts from legal processes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Money received by any debtor as pensioner of the United States within 3 months next preceding the issuing of an execution, attachment, or garnishment process may not be applied to the payment of the debts of the pensioner when it is made to appear by the affidavit of the debtor or otherwise that the pension money is necessary for the maintenance of the debtor’s support or a family supported wholly or in part by the pension money. The filing of the affidavit by the debtor, or the making of such proof by the debtor, is prima facie evidence; and it is the duty of the court in which the proceeding is pending to release all pension moneys held by such attachment or garnishment process, immediately, upon the filing of such affidavit or the making of such proof.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (d), any money or other assets payable to an owner, a participant, or a beneficiary from, or any interest of any owner, participant, or beneficiary in, a fund or account is exempt from all claims of creditors of the owner, beneficiary, or participant if the fund or account is:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Maintained in accordance with a master plan, volume submitter plan, prototype plan, or any other plan or governing instrument that has been preapproved by the Internal Revenue Service as exempt from taxation under s. 401(a), s. 403(a), s. 403(b), s. 408, s. 408A, s. 409, s. 414, s. 457(b), or s. 501(a) of the Internal Revenue Code of 1986, as amended, unless it has been subsequently determined that the plan or governing instrument is not exempt from taxation in a proceeding that has become final and nonappealable;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Maintained in accordance with a plan or governing instrument that has been determined by the Internal Revenue Service to be exempt from taxation under s. 401(a), s. 403(a), s. 403(b), s. 408, s. 408A, s. 409, s. 414, s. 457(b), or s. 501(a) of the Internal Revenue Code of 1986, as amended, unless it has been subsequently determined that the plan or governing instrument is not exempt from taxation in a proceeding that has become final and nonappealable; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Not maintained in accordance with a plan or governing instrument described in subparagraph 1. or subparagraph 2. if the person claiming exemption under this paragraph proves by a preponderance of the evidence that the fund or account is maintained in accordance with a plan or governing instrument that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Is in substantial compliance with the applicable requirements for tax exemption under s. 401(a), s. 403(a), s. 403(b), s. 408, s. 408A, s. 409, s. 414, s. 457(b), or s. 501(a) of the Internal Revenue Code of 1986, as amended; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Would have been in substantial compliance with the applicable requirements for tax exemption under s. 401(a), s. 403(a), s. 403(b), s. 408, s. 408A, s. 409, s. 414, s. 457(b), or s. 501(a) of the Internal Revenue Code of 1986, as amended, but for the negligent or wrongful conduct of a person or persons other than the person who is claiming the exemption under this section.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is not necessary that a fund or account that is described in paragraph (a) be maintained in accordance with a plan or governing instrument that is covered by any part of the Employee Retirement Income Security Act for money or assets payable from or any interest in that fund or account to be exempt from claims of creditors under that paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any money or other assets or any interest in any fund or account that is exempt from claims of creditors of the owner, beneficiary, or participant under paragraph (a) does not cease to be exempt after the owner’s death by reason of a direct transfer or eligible rollover that is excluded from gross income under the Internal Revenue Code of 1986, including, but not limited to, a direct transfer or eligible rollover to an inherited individual retirement account as defined in s. 408(d)(3) of the Internal Revenue Code of 1986, as amended. This paragraph is intended to clarify existing law, is remedial in nature, and shall have retroactive application to all inherited individual retirement accounts without regard to the date an account was created.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any fund or account described in paragraph (a) is not exempt from the claims of an alternate payee under a qualified domestic relations order or from the claims of a surviving spouse pursuant to an order determining the amount of elective share and contribution as provided in part II of chapter 732. However, the interest of any alternate payee under a qualified domestic relations order is exempt from all claims of any creditor, other than the Department of Revenue, of the alternate payee. As used in this paragraph, the terms “alternate payee” and “qualified domestic relations order” have the meanings ascribed to them in s. 414(p) of the Internal Revenue Code of 1986.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">This subsection applies to any proceeding that is filed on or after the effective date of this act.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 87-375; s. 1, ch. 98-159; s. 25, ch. 99-8; s. 5, ch. 2005-82; s. 1, ch. 2005-101; s. 1, ch. 2007-74; s. 1, ch. 2011-84.</History>
+</Section>

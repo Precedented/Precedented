@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0121.70" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Legislative purpose and intent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This part provides for a uniform system for funding benefits provided under the Florida Retirement System Pension Plan established under part I of this chapter (referred to in this part as the pension plan) and under the Florida Retirement System Investment Plan established under part II of this chapter (referred to in this part as the investment plan). The Legislature recognizes and declares that the Florida Retirement System is a single retirement system, consisting of two retirement plans and other nonintegrated programs. Employees and employers participating in the Florida Retirement System collectively shall be responsible for making contributions to support the benefits provided under both plans. The employees and employers shall make contributions based upon uniform contribution rates determined as a percentage of the employee’s gross monthly compensation for the employee’s class or subclass of Florida Retirement System membership, irrespective of the retirement plan in which the individual employee is enrolled. This shall be known as a uniform or blended contribution rate system.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In establishing a uniform contribution rate system, it is the intent of the Legislature to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide greater stability and certainty in financial planning and budgeting for Florida Retirement System employers by eliminating the fiscal instability that would be caused by dual rates coupled with employee-selected plan participation;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide greater fiscal equity and uniformity for system employers by effectively distributing the financial burden and benefit of short-term system deficits and surpluses, respectively, in proportion to total system payroll; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Allow employees to make their retirement plan selection decisions free of circumstances that may cause employers to favor one plan choice over another.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-177; s. 32, ch. 2011-68.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0657.042" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Investment powers and limitations.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A credit union may invest its funds subject to the following definitions, restrictions, and limitations:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INVESTMENTS NOT SUBJECT TO LIMITATIONS.<EmDash />There is no limitation with respect to the capital of the investing credit union on the following investments:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Direct obligations of the United States Government.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Obligations of agencies created by the United States Congress and authorized thereby to issue securities or evidences of indebtedness, regardless of guarantee of repayment by the United States Government.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Public housing authority obligations.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">General obligations of the states of the United States and of the political subdivisions and municipalities thereof.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Obligations issued by the State Board of Education under authority of the Constitution or applicable statutes.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Tax anticipation certificates or warrants of counties or municipalities having maturities not exceeding 1 year.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The assets of liquidating credit unions in this state, provided such assets are otherwise eligible for investment by the acquiring credit union.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The shares and deposit accounts of corporate credit unions and any other fund established by this state or by the Federal Government for the purpose of maintaining liquidity in credit unions; however, such investments shall not exceed the amount required for the purpose of meeting the daily needs of the investing credit union for operating liquidity.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Stock of the Federal National Mortgage Association, Federal Home Loan Bank, or any other similar entity designated by the office, designed to promote investment in residential mortgages, which may be purchased and retained as required in connection with mortgage transactions with the association or entity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">INVESTMENTS SUBJECT TO LIMITATION OF 25 PERCENT OF CAPITAL OF THE CREDIT UNION.<EmDash />Up to 25 percent of the capital of the credit union may be invested in:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The shares or deposit accounts in any one corporate credit union or other insured financial depository institution. The credit union may exceed the 25-percent investment limitation in the corporate credit union, subject to the prior written approval of the office.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Federal funds, daily; however, a credit union may not sell at any one time federal funds to any individual institution in an amount exceeding 100 percent of the equity of the selling credit union.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Bankers’ acceptances that are eligible for purchase by Federal Reserve Banks.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">INVESTMENT SUBJECT TO LIMITATION OF TWO PERCENT OF CAPITAL OF THE CREDIT UNION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Up to 2 percent of the capital of the credit union may be invested in the capital shares, obligations, or preferred stock issues of any agency or association, or membership association, provided the membership or stockholdings, as the case may be, of such agency or association are primarily confined or restricted to credit unions or organizations of credit unions and provided the purposes for which such agency or association is organized are designed primarily to service or otherwise assist credit union operations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Commercial paper and bonds of any corporation within the United States which have a fixed maturity, as provided in subsection (7), except that the total investment in all such paper and bonds may not exceed 10 percent of the capital of the credit union.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">INVESTMENT SUBJECT TO LIMITATION OF ONE PERCENT OF CAPITAL OF THE CREDIT UNION.<EmDash />Up to 1 percent of the capital of the credit union may be invested in any of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Corporate obligations of any one corporation which is an affiliate or subsidiary of the credit union or a service corporation, except that the total investment in all such corporate obligations shall not exceed 10 percent of the capital of the credit union.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any capital participation instrument or evidence of indebtedness issued by Enterprise Florida, Inc., pursuant to the Florida Small and Minority Business Assistance Act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">INVESTMENTS IN REAL ESTATE AND EQUIPMENT FOR THE CREDIT UNION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Up to 5 percent of the capital of the credit union may be invested in real estate and improvements thereon, furniture, fixtures, and equipment utilized or to be utilized by the credit union for the transaction of business.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The limitations provided by this subsection may be exceeded with the prior written approval of the office. The office shall grant such approval if it is satisfied that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The proposed investment is necessary.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The amount thereof is commensurate with the size and needs of the credit union.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The investment will be beneficial to the members.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A reasonable plan is developed to reduce the investment to statutory limits.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">INVESTMENTS SUBJECT TO APPROVAL.<EmDash />A credit union may invest its funds in such other investments, including the capital stock of other financial institutions, as the commission or office approves by rule or order.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">SPECIAL PROVISIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A credit union may not invest its funds in bonds or other obligations described in this section unless the bonds or other obligations are current as to all payments of principal and interest.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A credit union shall establish written policies and procedures for evaluating the systemic and specific risks and benefits associated with investments authorized under this section before making such investments and must conduct appropriate risk management and monitoring for the duration of the investment. An investment decision may not be based solely on the rating of the bond or other obligation by an investment rating service. The office may require a credit union to divest itself of an investment that the office determines creates excessive risk or the associated risk exceeds the ability of the credit union to properly evaluate and manage.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">With prior office approval, any investment permitted in this section may also be made indirectly by investment in a trust or mutual fund, the investments of which are limited as set forth in this section. The credit union must maintain a current file on each investment which contains sufficient information to determine whether the investment complies with the requirements of this section. If the investment fails to comply, the credit union must divest itself of its investment, unless otherwise approved by the office.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 6, ch. 80-258; ss. 2, 3, ch. 81-318; ss. 8, 46, ch. 82-214; ss. 15, 58, ch. 85-82; ss. 17, 32, ch. 85-104; s. 1, ch. 91-307; ss. 1, 93, ch. 92-303; s. 28, ch. 94-322; s. 1751, ch. 2003-261; s. 22, ch. 2005-181; s. 22, ch. 2007-157; s. 435, ch. 2011-142; s. 16, ch. 2011-194.</History>
+</Section>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXV">
+  <ChapterNumber>593</ChapterNumber>
+  <ChapterName xml:space="preserve">Agricultural commodity insect control</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Boll weevil eradication</PartTitle>
+    <Section Number="0593.101" />
+    <Section Number="0593.102" />
+    <Section Number="0593.103" />
+    <Section Number="0593.104" />
+    <Section Number="0593.105" />
+    <Section Number="0593.106" />
+    <Section Number="0593.107" />
+    <Section Number="0593.108" />
+    <Section Number="0593.109" />
+    <Section Number="0593.11" />
+    <Section Number="0593.111" />
+    <Section Number="0593.112" />
+    <Section Number="0593.113" />
+    <Section Number="0593.114" />
+    <Section Number="0593.1141" />
+    <Section Number="0593.1142" />
+    <Section Number="0593.115" />
+    <Section Number="0593.116" />
+    <Section Number="0593.117" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Pest eradication in urbanized areas</PartTitle>
+    <Section Number="0593.20" />
+    <Section Number="0593.21" />
+    <Section Number="0593.22" />
+    <Section Number="0593.23" />
+    <Section Number="0593.24" />
+    <Section Number="0593.25" />
+  </Part>
+</Chapter>

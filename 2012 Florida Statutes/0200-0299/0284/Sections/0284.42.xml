@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0284.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reports on state insurance program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Financial Services, with the Department of Management Services, shall conduct an analysis of the state insurance program each year and submit the results on or before January 1 in a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives, which shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Complete underwriting information as to the nature of the risks accepted for self-insurance and those risks that are transferred to the insurance market.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The funds allocated to the Florida Casualty Risk Management Trust Fund and premiums paid for insurance through the market.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The method of handling legal matters and the cost allocated.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The method and cost of handling inspection and engineering of risks.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The cost of risk management service purchased.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The cost of managing the State Insurance Program by the Department of Financial Services and the Department of Management Services.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning January 1, 2013, the Division of Risk Management shall include in its annual report an analysis of agency return-to-work efforts, including, but not limited to, agency return-to-work program performance metrics and a status report on participating return-to-work programs. The report shall specify benchmarks, including, but not limited to, the average lost-time claims per year, per agency; the total number of lost claims; and specific agency measurable outcomes indicating the change in performance from year to year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The departments shall make available complete claims history including description of loss, claims paid and reserved, and the cost of all claims handled by the state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 72-206; s. 7, ch. 77-320; s. 243, ch. 92-279; s. 55, ch. 92-326; s. 327, ch. 2003-261; s. 6, ch. 2011-59.</History>
+</Section>

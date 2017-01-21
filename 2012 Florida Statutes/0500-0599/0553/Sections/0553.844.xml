@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0553.844" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Windstorm loss mitigation; requirements for roofs and opening protection.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The effects of recent hurricanes on the state have demonstrated the effectiveness of the Florida Building Code in reducing property damage to buildings constructed in accordance with its requirements, and have also exposed a vulnerability of some construction undertaken prior to implementation of the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Hurricanes represent a continuing threat to the health, safety, and welfare of the residents of this state due to the direct destructive effects of hurricanes as well as their effects on windstorm insurance rates.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The mitigation of property damage constitutes a valid and recognized objective of the Florida Building Code.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Cost-effective techniques for integrating proven methods of the Florida Building Code into buildings built prior to its implementation benefit all residents of the state as a whole.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Florida Building Commission shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Analyze the extent to which a proposed Florida Building Code provision will mitigate property damage to buildings and their contents in evaluating that proposal. If the nature of the proposed Florida Building Code provision relates only to mitigation of property damage and not to a lifesafety concern, the proposal shall be reviewed based on its measurable benefits in relation to the costs imposed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Develop and adopt within the Florida Building Code a means to incorporate recognized mitigation techniques for site-built, single-family residential structures constructed before the implementation of the Florida Building Code, including, but not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Prescriptive techniques for the installation of gable-end bracing;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Secondary water barriers for roofs and standards relating to secondary water barriers. The criteria may include, but need not be limited to, roof shape, slope, and composition of all elements of the roof system. The criteria may not be limited to one method or material for a secondary water barrier;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Prescriptive techniques for improvement of roof-to-wall connections. The Legislature recognizes that the cost of retrofitting existing buildings to meet the code requirements for new construction in this regard may exceed the practical benefit to be attained. The Legislature intends for the commission to provide for the integration of alternate, lower-cost means that may be employed to retrofit existing buildings that are not otherwise required to comply with the requirements of the Florida Building Code for new construction so that the cost of such improvements does not exceed approximately 15 percent of the cost of reroofing. Roof-to-wall connections shall not be required unless evaluation and installation of connections at gable ends or all corners can be completed for 15 percent of the cost of roof replacement. For houses that have both hip and gable roof ends, the priority shall be to retrofit the gable end roof-to-wall connections unless the width of the hip is more than 1.5 times greater than the width of the gable end. Priority shall be given to connecting the corners of roofs to walls below the locations at which the spans of the roofing members are greatest;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Strengthening or correcting roof-decking attachments and fasteners during reroofing; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Adding or strengthening opening protections.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that the integration of these specifically identified mitigation measures is critical to addressing the serious problem facing the state from damage caused by windstorms and that delay in the adoption and implementation constitutes a threat to the health, safety, and welfare of the state. Accordingly, the Florida Building Commission shall develop and adopt these measures by October 1, 2007, by rule separate from the Florida Building Code, which take immediate effect and shall incorporate such requirements into the next edition of the Florida Building Code. Such rules shall require or otherwise clarify that for site-built, single-family residential structures:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A roof replacement must incorporate the techniques specified in subparagraphs (2)(b)2. and 4.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For a building that is located in the wind-borne debris region as defined in s. 1609.2 of the International Building Code (2006) and that has an insured value of $300,000 or more or, if the building is uninsured or for which documentation of insured value is not presented, has a just valuation for the structure for purposes of ad valorem taxation of $300,000 or more, a roof replacement must incorporate the techniques specified in subparagraph (2)(b)3.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any activity requiring a building permit that is applied for on or after July 1, 2008, and for which the estimated cost is $50,000 or more, must include provision of opening protections as required within the Florida Building Code for new construction for a building that is located in the wind-borne debris region as defined in s. 1609.2 of the International Building Code (2006) and that has an insured value of $750,000 or more, or, if the building is uninsured or for which documentation of insured value is not presented, has a just valuation for the structure for purposes of ad valorem taxation of $750,000 or more.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of this section, exposed mechanical equipment or appliances fastened to a roof or installed on the ground in compliance with the code using rated stands, platforms, curbs, slabs, or other means are deemed to comply with the wind resistance requirements of the 2007 Florida Building Code, as amended. Further support or enclosure of such mechanical equipment or appliances is not required by a state or local official having authority to enforce the Florida Building Code. This subsection expires on the effective date of the 2013 Florida Building Code.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2007-126; s. 17, ch. 2008-191; s. 40, ch. 2010-176; s. 16, ch. 2012-13.</History>
+</Section>

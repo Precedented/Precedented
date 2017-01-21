@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0475.175" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Examinations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person shall be entitled to take the license examination to practice in this state if the person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Submits to the department the appropriate signed or electronically authenticated application, digital fingerprint data, and fee. The digital fingerprints shall be forwarded to the Division of Criminal Justice Information Systems within the Department of Law Enforcement for purposes of processing the fingerprints to determine if the applicant has a criminal history record. The fingerprints shall also be forwarded to the Federal Bureau of Investigation for purposes of processing the fingerprints to determine if the applicant has a criminal history record. The information obtained by the processing of the fingerprints by the Department of Law Enforcement and the Federal Bureau of Investigation shall be sent to the department for the purpose of determining if the applicant is statutorily qualified for examination. </Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Submits at the time of examination the certificate specified in subsection (2), the examination admissions authorization letter, and proof of identification.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each accredited college, university, community college, or registered real estate school shall notify the commission of the names of all persons who have satisfactorily completed the educational requirements provided for in s. 475.17(2), (3), and (4) in a manner prescribed by the commission. Furthermore, each such educational institution shall provide to each person satisfactorily completing the educational requirements provided for in s. 475.17(2), (3), and (4) a certificate as proof of such satisfactory completion.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 12, 42, ch. 79-239; ss. 2, 3, ch. 81-318; ss. 14, 38, ch. 82-1; s. 58, ch. 83-329; ss. 9, 28, 30, ch. 88-20; s. 14, ch. 90-228; s. 14, ch. 90-341; s. 17, ch. 90-345; s. 4, ch. 91-429; s. 366, ch. 97-103; s. 141, ch. 99-251; s. 28, ch. 2003-164; s. 16, ch. 2009-195; s. 36, ch. 2010-106.</History>
+</Section>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.701" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Legislative findings and intent; approval for action relating to provider enrollment levels.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that state expenditures for long-term care services continue to increase at a rapid rate and that Florida faces increasing pressure in its efforts to meet the long-term care needs of the public. It is the intent of the Legislature that the Department of Elderly Affairs, in consultation with the Agency for Health Care Administration, implement long-term care community diversion pilot projects to test the effectiveness of managed care and outcome-based reimbursement principles when applied to long-term care.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agency may seek federal approval in advance of <Reference Number="2" />approval of its formal waiver application to limit the diversion provider network by freezing enrollment of providers at current levels when an area already has three or more providers or, in an expansion area, when enrollment reaches a level of three providers. This subsection does not prevent the department from approving a provider to expand service to additional counties within a planning and service area for which the provider is already approved to serve.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 97-87; s. 11, ch. 2004-298; s. 13, ch. 2004-386; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 13, ch. 2004-386. The similar amendment by s. 11, ch. 2004-298, did not contain the words “approval of.”</Text>
+	</Note>
+</Section>

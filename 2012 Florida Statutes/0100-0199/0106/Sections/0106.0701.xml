@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.0701" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Solicitation of contributions on behalf of s. 527 or s. 501(c)(4) organizations; reporting requirements; civil penalty; exemption.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Governor, Lieutenant Governor, members of the Cabinet, state legislators, or candidates for such offices who directly or indirectly solicit, cause to be solicited, or accept any contribution on behalf of an organization that is exempt from taxation under s. 527 or s. 501(c)(4) of the Internal Revenue Code, which such individuals, in whole or in part, establish, maintain, or control, shall file a statement with the division within 5 days after commencing such activity on behalf of the organization. The statement shall contain the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the person acting on behalf of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name and type of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A description of the relationship between the person and the organization.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Failure to timely file the statement shall subject the person to a civil penalty of $50 per day for each late day, payable from the personal funds of the violator.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon filing a statement with the division, an individual subject to the requirements of subsection (1) shall promptly create a public website that contains a mission statement and the names of persons associated with the organization. The address of the website shall be reported to the division within 5 business days after the website is created.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All contributions received shall be disclosed on the website within 5 business days after deposit, together with the name, address, and occupation of the donor. All expenditures by the organization shall be individually disclosed on the website within 5 business days after being made.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The filing requirements of subsection (1) do not apply to an individual acting on behalf of his or her own campaign, a political party, or an affiliated party committee of which the individual is a member.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2006-300; ss. 10, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.</History>
+</Section>

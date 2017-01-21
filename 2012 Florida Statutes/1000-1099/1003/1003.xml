@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVIII">
+	<ChapterNumber>1003</ChapterNumber>
+	<ChapterName xml:space="preserve">Public K-12 education</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="1003.01" />
+		<Section Number="1003.02" />
+		<Section Number="1003.03" />
+		<Section Number="1003.04" />
+		<Section Number="1003.05" />
+		<Section Number="1003.06" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">School attendance</PartTitle>
+		<Section Number="1003.21" />
+		<Section Number="1003.22" />
+		<Section Number="1003.23" />
+		<Section Number="1003.24" />
+		<Section Number="1003.25" />
+		<Section Number="1003.26" />
+		<Section Number="1003.27" />
+		<Section Number="1003.28" />
+		<Section Number="1003.29" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Control of students</PartTitle>
+		<Section Number="1003.31" />
+		<Section Number="1003.32" />
+		<Section Number="1003.33" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Public K-12 educational instruction</PartTitle>
+		<Section Number="1003.41" />
+		<Section Number="1003.413" />
+		<Section Number="1003.4156" />
+		<Section Number="1003.42" />
+		<Section Number="1003.4203" />
+		<Section Number="1003.4205" />
+		<Section Number="1003.421" />
+		<Section Number="1003.428" />
+		<Section Number="1003.4281" />
+		<Section Number="1003.4285" />
+		<Section Number="1003.429" />
+		<Section Number="1003.4295" />
+		<Section Number="1003.43" />
+		<Section Number="1003.433" />
+		<Section Number="1003.435" />
+		<Section Number="1003.436" />
+		<Section Number="1003.437" />
+		<Section Number="1003.438" />
+		<Section Number="1003.44" />
+		<Section Number="1003.45" />
+		<Section Number="1003.4505" />
+		<Section Number="1003.451" />
+		<Section Number="1003.453" />
+		<Section Number="1003.455" />
+		<Section Number="1003.46" />
+		<Section Number="1003.47" />
+		<Section Number="1003.48" />
+		<Section Number="1003.49" />
+		<Section Number="1003.491" />
+		<Section Number="1003.492" />
+		<Section Number="1003.493" />
+		<Section Number="1003.4935" />
+		<Section Number="1003.496" />
+		<Section Number="1003.497" />
+		<Section Number="1003.498" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Specialized instruction for<NewLine />certain public K-12 students</PartTitle>
+		<Section Number="1003.51" />
+		<Section Number="1003.52" />
+		<Section Number="1003.53" />
+		<Section Number="1003.54" />
+		<Section Number="1003.55" />
+		<Section Number="1003.56" />
+		<Section Number="1003.57" />
+		<Section Number="1003.571" />
+		<Section Number="1003.573" />
+		<Section Number="1003.575" />
+		<Section Number="1003.576" />
+		<Section Number="1003.58" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Academically high-performing school districts</PartTitle>
+		<Section Number="1003.621" />
+	</Part>
+</Chapter>

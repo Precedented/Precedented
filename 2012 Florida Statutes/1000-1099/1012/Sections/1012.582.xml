@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1012.582" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Continuing education and inservice training for teaching students with developmental disabilities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall develop recommendations to incorporate instruction regarding autism spectrum disorder, Down syndrome, and other developmental disabilities into continuing education or inservice training requirements for instructional personnel. These recommendations shall address:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Early identification of, and intervention for, students who have autism spectrum disorder, Down syndrome, or other developmental disabilities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Curriculum planning and curricular and instructional modifications, adaptations, and specialized strategies and techniques.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The use of available state and local resources.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The use of positive behavioral supports to deescalate problem behaviors.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Appropriate use of manual physical restraint and seclusion techniques.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In developing the recommendations, the commissioner shall consult with the State Surgeon General, the Director of the Agency for Persons with Disabilities, representatives from the education community in the state, and representatives from entities that promote awareness about autism spectrum disorder, Down syndrome, and other developmental disabilities and provide programs and services to persons with developmental disabilities, including, but not limited to, regional autism centers pursuant to s. 1004.55.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Beginning with the 2010-2011 school year, the Department of Education shall incorporate the course curricula recommended by the Commissioner of Education, pursuant to subsection (1), into existing requirements for the continuing education or inservice training of instructional personnel. The requirements of this section may not add to the total hours required for continuing education or inservice training as currently established by the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2010-224.</History>
+</Section>

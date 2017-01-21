@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0641.217" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Minority recruitment and retention plans required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any entity contracting with the Agency for Health Care Administration to provide health care services to Medicaid recipients or state employees on a prepaid or fixed-sum basis must submit to the Agency for Health Care Administration the entity’s plan for recruitment and retention of health care practitioners who are minority persons as defined in s. 288.703. The plan must demonstrate an ability to recruit and retain minority persons which shall include, but is not limited to, the following efforts:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establishing and maintaining contacts with various organizations representing the interests and concerns of minority constituencies to seek advice and assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Identifying and recruiting at colleges and universities which primarily serve minority students.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Reviewing and analyzing the organization’s workforce as to minority representation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Other factors identified by the Agency for Health Care Administration by rule.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration may not contract with such an entity until the agency has received and approved the entity’s plan required in subsection (1). Failure to implement the plan as approved shall constitute grounds for the suspension or termination of the entity’s contract with the agency.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 96-199; s. 434, ch. 2011-142.</History>
+</Section>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0472.006" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department; powers and duties.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The department shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Adopt rules establishing a procedure for the biennial renewal of licenses. However, the department may issue up to a 4-year license to selected licensees notwithstanding any other law to the contrary. Fees for such renewal may not exceed the fee caps for individual professions on an annualized basis as authorized by law.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Appoint the executive director of the board, subject to the approval of the board.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Submit an annual budget to the Legislature at a time and in the manner provided by law.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Develop a training program for persons newly appointed to membership on the board. The program shall familiarize such persons with the substantive and procedural laws and rules and fiscal information relating to the regulation of the profession and with the structure of the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this chapter. The department also is authorized to join with, or withhold approval of, rules proposed for adoption by the board.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Establish uniform application and other forms, including certificates of licensure, necessary to administer the provisions of this chapter. This subsection does not authorize the department to vary any substantive requirements, duties, or eligibilities for licensure or certification as provided by law.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Establish by rule procedures by which the department shall use the expert or technical advice of the board for the purposes of investigation, inspection, evaluation of applications, other duties of the department, or any other areas the department may deem appropriate.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Require all proceedings of the board or panel thereof and all formal or informal proceedings conducted by the department, an administrative law judge, or a hearing officer with respect to licensing or discipline to be electronically recorded in a manner sufficient to ensure the accurate transcription of all matters so recorded.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Select only those investigators, or consultants who undertake investigations, who meet criteria established with the advice of the board.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Have authority to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Close and terminate deficient license application files 2 years after the board or the department notifies the applicant of the deficiency; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Approve applications for professional licenses that meet all statutory and rule requirements for licensure.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Provide legal counsel for the board by contracting with the Department of Legal Affairs, by retaining private counsel pursuant to s. 287.059, or by providing department staff counsel. The board shall periodically review and evaluate the services provided by its board counsel. Fees and costs of such counsel shall be paid from the General Inspection Trust Fund, subject to ss. 215.37 and 472.011. All contracts for independent legal counsel must provide for periodic review and evaluation by the board and the department of services provided.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may employ or use the legal services of outside counsel and the investigative services of outside personnel.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person retained by the department under contract to review materials, make site visits, or provide expert testimony regarding any complaint or application filed with the department relating to the practice of surveying and mapping shall be considered an agent of the department in determining the state insurance coverage and sovereign immunity protection applicability of ss. 284.31 and 768.28.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Work cooperatively with the Department of Revenue to implement an automated method for periodically disclosing information relating to current licensees to the Department of Revenue in order to further the public policy of reducing the state’s financial burden as a result of family desertion and nonsupport of dependent children as provided in s. 409.2551. The department shall, if directed by the court or the Department of Revenue, pursuant to s. 409.2598, suspend or deny the license of any licensee who is found to not be in compliance with a support order, subpoena, order to show cause, or written agreement entered into by the licensee with the Department of Revenue. The department shall issue or reinstate the license without additional charge to the licensee if notified by the court or the Department of Revenue that the licensee has complied with the terms of the support order. The department is not liable for any license denial or suspension resulting from the discharge of its duties under this subsection.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2009-66; s. 4, ch. 2012-67.</History>
+</Section>

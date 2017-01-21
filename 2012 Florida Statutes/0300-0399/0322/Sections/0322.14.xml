@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.14" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Licenses issued to drivers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall, upon successful completion of all required examinations and payment of the required fee, issue to every qualified applicant a driver license that must bear a color photograph or digital image of the licensee; the name of the state; a distinguishing number assigned to the licensee; and the licensee’s full name, date of birth, and residence address; a brief description of the licensee, including, but not limited to, the licensee’s gender and height; and the dates of issuance and expiration of the license. A space shall be provided upon which the licensee shall affix his or her usual signature. A license is invalid until it has been signed by the licensee except that the signature of the licensee is not required if it appears thereon in facsimile or if the licensee is not present within the state at the time of issuance.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to the requirements of paragraph (a), each license must exhibit the class of vehicle which the licensee is authorized to operate and any applicable endorsements or restrictions. If the license is a commercial driver’s license, such fact must be exhibited thereon.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A capital “V” shall be exhibited on the driver license of a veteran upon the payment of an additional $1 fee for the license and the presentation of a copy of the person’s DD Form 214, issued by the United States Department of Defense, or another acceptable form specified by the Department of Veterans’ Affairs. Until a veteran’s license is next renewed, the veteran may have the capital “V” designation added to his or her license upon surrender of his or her current license, payment of a $2 fee to be deposited into the Highway Safety Operating Trust Fund, and presentation of a copy of his or her DD Form 214 or another acceptable form specified by the Department of Veterans’ Affairs. If the applicant is not conducting any other transaction affecting the driver license, a replacement license may be issued with the capital “V” designation without payment of the fee required in s. 322.21(1)(e).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may require other pertinent information to be exhibited on a driver’s license.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 19551, 1939; CGL 1940 Supp. 4151(640); s. 26, ch. 20451, 1941; s. 1, ch. 29735, 1955; s. 14, ch. 78-394; s. 32, ch. 89-282; s. 79, ch. 94-306; s. 933, ch. 95-148; s. 34, ch. 95-333; s. 29, ch. 2008-176; s. 1, ch. 2011-94; s. 2, ch. 2012-82; s. 52, ch. 2012-181.</History>
+</Section>

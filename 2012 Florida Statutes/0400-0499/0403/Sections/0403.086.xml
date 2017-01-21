@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.086" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sewage disposal facilities; advanced and secondary waste treatment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Neither the Department of Health nor any other state agency, county, special district, or municipality shall approve construction of any facilities for sanitary sewage disposal which do not provide for secondary waste treatment and, in addition thereto, advanced waste treatment as deemed necessary and ordered by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No facilities for sanitary sewage disposal constructed after June 14, 1978, shall dispose of any wastes by deep well injection without providing for secondary waste treatment and, in addition thereto, advanced waste treatment deemed necessary by the department to protect adequately the beneficial use of the receiving waters.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter or chapter 373, facilities for sanitary sewage disposal may not dispose of any wastes into Old Tampa Bay, Tampa Bay, Hillsborough Bay, Boca Ciega Bay, St. Joseph Sound, Clearwater Bay, Sarasota Bay, Little Sarasota Bay, Roberts Bay, Lemon Bay, or Charlotte Harbor Bay, or into any river, stream, channel, canal, bay, bayou, sound, or other water tributary thereto, without providing advanced waste treatment, as defined in subsection (4), approved by the department. This paragraph shall not apply to facilities which were permitted by February 1, 1987, and which discharge secondary treated effluent, followed by water hyacinth treatment, to tributaries of tributaries of the named waters; or to facilities permitted to discharge to the nontidally influenced portions of the Peace River.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any facilities for sanitary sewage disposal shall provide for secondary waste treatment and, in addition thereto, advanced waste treatment as deemed necessary and ordered by the Department of Environmental Protection. Failure to conform shall be punishable by a civil penalty of $500 for each 24-hour day or fraction thereof that such failure is allowed to continue thereafter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section shall not be construed to prohibit or regulate septic tanks or other means of individual waste disposal which are otherwise subject to state regulation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “advanced waste treatment” means that treatment which will provide a reclaimed water product that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Contains not more, on a permitted annual average basis, than the following concentrations:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Biochemical Oxygen Demand<NewLine/>(CBOD5)<FlushRight Fill="Dot" />5mg/l</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Suspended Solids<FlushRight Fill="Dot" />5mg/l</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Total Nitrogen, expressed as N<FlushRight Fill="Dot" />3mg/l</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Total Phosphorus, expressed as P<FlushRight Fill="Dot" />1mg/l</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has received high level disinfection, as defined by rule of the department.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">In those waters where the concentrations of phosphorus have been shown not to be a limiting nutrient or a contaminant, the department may waive or alter the compliance levels for phosphorus until there is a demonstration that phosphorus is a limiting nutrient or a contaminant.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter or chapter 373, when a reclaimed water product has been established to be in compliance with the standards set forth in subsection (4), that water shall be presumed to be allowable, and its discharge shall be permitted in the waters described in paragraph (1)(c) at a reasonably accessible point where such discharge results in minimal negative impact. This presumption may be overcome only by a demonstration that one or more of the following would occur:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That the discharge of reclaimed water that meets the standards set forth in subsection (4) will be, by itself, a cause of considerable degradation to an Outstanding Florida Water or to other waters and is not clearly in the public interest.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That the reclaimed water discharge will have a substantial negative impact on an approved shellfish harvesting area or a water used as a public domestic water supply.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the increased volume of fresh water contributed by the reclaimed water product will seriously alter the natural fresh-salt water balance of the receiving water after reasonable opportunity for mixing.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If one or more of the conditions described in subparagraphs (a)1.-3. have been demonstrated, remedies may include, but are not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Require more stringent effluent limitations;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Order the point or method of discharge changed;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Limit the duration or volume of the discharge; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Prohibit the discharge only if no other alternative is in the public interest.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any facility covered in paragraph (1)(c) shall be permitted to discharge if it meets the standards set forth in subsections (4) and (5). All of the facilities covered in paragraph (1)(c) shall be required to meet the standards set forth in subsections (4) and (5).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall allow backup discharges pursuant to permit only. The backup discharge shall be limited to 30 percent of the permitted reuse capacity on an annual basis. For purposes of this subsection, a “backup discharge” is a surface water discharge that occurs as part of a functioning reuse system which has been permitted under department rules and which provides reclaimed water for irrigation of public access areas, residential properties, or edible food crops, or for industrial cooling or other acceptable reuse purposes. Backup discharges may occur during periods of reduced demand for reclaimed water in the reuse system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter or chapter 373, backup discharges of reclaimed water meeting the standards as set forth in subsection (4) shall be presumed to be allowable and shall be permitted in all waters in the state at a reasonably accessible point where such discharge results in minimal negative impact. Wet weather discharges as provided in s. 2(3)(c), chapter 90-262, Laws of Florida, shall include backup discharges as provided in this section. The presumption of the allowability of a backup discharge may be overcome only by a demonstration that one or more of the following conditions is present:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The discharge will be to an Outstanding Florida Water, except as provided in chapter 90-262, Laws of Florida;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The discharge will be to Class I or Class II waters;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The increased volume of fresh water contributed by a backup discharge will seriously alter the natural freshwater to saltwater balance of receiving waters after reasonable opportunity for mixing;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The discharge will be to a water body having a pollutant load reduction goal established by a water management district or the department, and the discharge will cause or contribute to a violation of the established goal;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The discharge fails to meet the requirements of the antidegradation policy contained in department rules; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The discharge will be to waters that the department determines require more stringent nutrient limits than those set forth in subsection (4).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any backup discharge shall be subject to the provisions of the antidegradation policy contained in department rules.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If one or more of the conditions described in paragraph (b) have been demonstrated, a backup discharge may still be allowed in conjunction with one or more of the remedies provided in paragraph (5)(b) or other suitable measures.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The department shall allow lower levels of treatment of reclaimed water if the applicant affirmatively demonstrates that water quality standards will be met during periods of backup discharge and if all other requirements of this subsection are met.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department may require backflow prevention devices on potable water lines within reclaimed water service areas to protect public health and safety. The department shall establish rules that determine when backflow prevention devices on potable water lines are necessary and when such devices are not necessary.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that the discharge of domestic wastewater through ocean outfalls wastes valuable water supplies that should be reclaimed for beneficial purposes to meet public and natural systems demands. The Legislature also finds that discharge of domestic wastewater through ocean outfalls compromises the coastal environment, quality of life, and local economies that depend on those resources. The Legislature declares that more stringent treatment and management requirements for such domestic wastewater and the subsequent, timely elimination of ocean outfalls as a primary means of domestic wastewater discharge are in the public interest.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The construction of new ocean outfalls for domestic wastewater discharge and the expansion of existing ocean outfalls for this purpose, along with associated pumping and piping systems, are prohibited. Each domestic wastewater ocean outfall shall be limited to the discharge capacity specified in the department permit authorizing the outfall in effect on July 1, 2008, which discharge capacity shall not be increased. Maintenance of existing, department-authorized domestic wastewater ocean outfalls and associated pumping and piping systems is allowed, subject to the requirements of this section. The department is directed to work with the United States Environmental Protection Agency to ensure that the requirements of this subsection are implemented consistently for all domestic wastewater facilities in Florida which discharge through ocean outfalls.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The discharge of domestic wastewater through ocean outfalls shall meet advanced wastewater treatment and management requirements no later than December 31, 2018. For purposes of this subsection, the term “advanced wastewater treatment and management requirements” means the advanced waste treatment requirements set forth in subsection (4), a reduction in outfall baseline loadings of total nitrogen and total phosphorus which is equivalent to that which would be achieved by the advanced waste treatment requirements in subsection (4), or a reduction in cumulative outfall loadings of total nitrogen and total phosphorus occurring between December 31, 2008, and December 31, 2025, which is equivalent to that which would be achieved if the advanced waste treatment requirements in subsection (4) were fully implemented beginning December 31, 2018, and continued through December 31, 2025. The department shall establish the average baseline loadings of total nitrogen and total phosphorus for each outfall using monitoring data available for calendar years 2003 through 2007 and shall establish required loading reductions based on this baseline. The baseline loadings and required loading reductions of total nitrogen and total phosphorus shall be expressed as an average annual daily loading value. The advanced wastewater treatment and management requirements of this paragraph shall be deemed to be met for any domestic wastewater facility discharging through an ocean outfall on July 1, 2008, which has installed no later than December 31, 2018, a fully operational reuse system comprising 100 percent of the facility’s annual average daily flow for reuse activities authorized by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each domestic wastewater facility that discharges through an ocean outfall on July 1, 2008, shall install a functioning reuse system no later than December 31, 2025. For purposes of this subsection, a “functioning reuse system” means an environmentally, economically, and technically feasible system that provides a minimum of 60 percent of the facility’s actual flow on an annual basis for irrigation of public access areas, residential properties, or agricultural crops; aquifer recharge; groundwater recharge; industrial cooling; or other acceptable reuse purposes authorized by the department. For purposes of this subsection, the term “facility’s actual flow on an annual basis” means the annual average flow of domestic wastewater discharging through the facility’s ocean outfall, as determined by the department, using monitoring data available for calendar years 2003 through 2007. Flows diverted from facilities to other facilities that provide 100 percent reuse of the diverted flows prior to December 31, 2025, shall be considered to contribute to meeting the 60 percent reuse requirement. For utilities operating more than one outfall, the reuse requirement can be met if the combined actual reuse flows from facilities served by the outfalls is at least 60 percent of the sum of the total actual flows from the facilities, including flows diverted to other facilities for 100 percent reuse prior to December 31, 2025. In the event treatment in addition to the advanced wastewater treatment and management requirements described in paragraph (b) is needed in order to support a functioning reuse system, such treatment shall be fully operational no later than December 31, 2025.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The discharge of domestic wastewater through ocean outfalls is prohibited after December 31, 2025, except as a backup discharge that is part of a functioning reuse system authorized by the department as provided for in paragraph (c). A backup discharge may occur only during periods of reduced demand for reclaimed water in the reuse system, such as periods of wet weather, and shall comply with the advanced wastewater treatment and management requirements of paragraph (b).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The holder of a department permit authorizing the discharge of domestic wastewater through an ocean outfall as of July 1, 2008, shall submit to the secretary of the department the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A detailed plan to meet the requirements of this subsection, including an identification of all land acquisition and facilities necessary to provide for reuse of the domestic wastewater; an analysis of the costs to meet the requirements; and a financing plan for meeting the requirements, including identifying any actions necessary to implement the financing plan, such as bond issuance or other borrowing, assessments, rate increases, fees, other charges, or other financing mechanisms. The plan shall include a detailed schedule for the completion of all necessary actions and shall be accompanied by supporting data and other documentation. The plan shall be submitted no later than July 1, 2013.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">No later than July 1, 2016, an update of the plan required in subparagraph 1. documenting any refinements or changes in the costs, actions, or financing necessary to eliminate the ocean outfall discharge in accordance with this subsection or a written statement that the plan is current and accurate.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">By December 31, 2009, and by December 31 every 5 years thereafter, the holder of a department permit authorizing the discharge of domestic wastewater through an ocean outfall shall submit to the secretary of the department a report summarizing the actions accomplished to date and the actions remaining and proposed to meet the requirements of this subsection, including progress toward meeting the specific deadlines set forth in paragraphs (b) through (e). The report shall include the detailed schedule for and status of the evaluation of reuse and disposal options, preparation of preliminary design reports, preparation and submittal of permit applications, construction initiation, construction progress milestones, construction completion, initiation of operation, and continuing operation and maintenance.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">No later than July 1, 2010, and by July 1 every 5 years thereafter, the department shall submit a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives on the implementation of this subsection. The report shall summarize progress to date, including the increased amount of reclaimed water provided and potable water offsets achieved, and identify any obstacles to continued progress, including all instances of substantial noncompliance.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">By February 1, 2012, the department shall submit a report to the Governor and Legislature detailing the results and recommendations from phases 1 through 3 of its ongoing study on reclaimed water use.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The renewal of each permit that authorizes the discharge of domestic wastewater through an ocean outfall as of July 1, 2008, shall be accompanied by an order in accordance with s. 403.088(2)(e) and (f) which establishes an enforceable compliance schedule consistent with the requirements of this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">An entity that diverts wastewater flow from a receiving facility that discharges domestic wastewater through an ocean outfall must meet the 60 percent reuse requirement of paragraph (c). Reuse by the diverting entity of the diverted flows shall be credited to the diverting entity. The diverted flow shall also be correspondingly deducted from the receiving facility’s actual flow on an annual basis from which the required reuse is calculated pursuant to paragraph (c), and the receiving facility’s reuse requirement shall be recalculated accordingly.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that the discharge of inadequately treated and managed domestic wastewater from dozens of small wastewater facilities and thousands of septic tanks and other onsite systems in the Florida Keys compromises the quality of the coastal environment, including nearshore and offshore waters, and threatens the quality of life and local economies that depend on those resources. The Legislature also finds that the only practical and cost-effective way to fundamentally improve wastewater management in the Florida Keys is for the local governments in Monroe County, including those special districts established for the purpose of collection, transmission, treatment, or disposal of sewage, to timely complete the wastewater or sewage treatment and disposal facilities initiated under the work program of Administration Commission rule 28-20, Florida Administrative Code, and the Monroe County Sanitary Master Wastewater Plan, dated June 2000. The Legislature therefore declares that the construction and operation of comprehensive central wastewater systems in accordance with this subsection is in the public interest. To give effect to those findings, the requirements of this subsection apply to all domestic wastewater facilities in Monroe County, including privately owned facilities, unless otherwise provided under this subsection.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The discharge of domestic wastewater into surface waters is prohibited.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Monroe County, each municipality, and those special districts established for the purpose of collection, transmission, treatment, or disposal of sewage in Monroe County shall complete the wastewater collection, treatment, and disposal facilities within its jurisdiction designated as hot spots in the Monroe County Sanitary Master Wastewater Plan, dated June 2000, specifically listed in Exhibits 6-1 through 6-3 of Chapter 6 of the plan and mapped in Exhibit F-1 of Appendix F of the plan. The required facilities and connections, and any additional facilities or other adjustments required by rules adopted by the Administration Commission under s. 380.0552, must be completed by December 31, 2015, pursuant to specific schedules established by the commission. Domestic wastewater facilities located outside local government and special district service areas must meet the treatment and disposal requirements of this subsection by December 31, 2015.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">After December 31, 2015, all new or expanded domestic wastewater discharges must comply with the treatment and disposal requirements of this subsection and department rules.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Wastewater treatment facilities having design capacities:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Greater than or equal to 100,000 gallons per day must provide basic disinfection as defined by department rule and the level of treatment which, on a permitted annual average basis, produces an effluent that contains no more than the following concentrations:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Biochemical Oxygen Demand (CBOD5) of 5 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Suspended Solids of 5 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Total Nitrogen, expressed as N, of 3 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Total Phosphorus, expressed as P, of 1 mg/l.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Less than 100,000 gallons per day must provide basic disinfection as defined by department rule and the level of treatment which, on a permitted annual average basis, produces an effluent that contains no more than the following concentrations:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Biochemical Oxygen Demand (CBOD5) of 10 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Suspended Solids of 10 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Total Nitrogen, expressed as N, of 10 mg/l.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Total Phosphorus, expressed as P, of 1 mg/l.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Class V injection wells, as defined by department or Department of Health rule, must meet the following requirements and otherwise comply with department or Department of Health rules, as applicable:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the design capacity of the facility is less than 1 million gallons per day, the injection well must be at least 90 feet deep and cased to a minimum depth of 60 feet or to such greater cased depth and total well depth as may be required by department rule.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Except as provided in subparagraph 3. for backup wells, if the design capacity of the facility is equal to or greater than 1 million gallons per day, each primary injection well must be cased to a minimum depth of 2,000 feet or to such greater depth as may be required by department rule.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If an injection well is used as a backup to a primary injection well, the following conditions apply:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The backup well may be used only when the primary injection well is out of service because of equipment failure, power failure, or the need for mechanical integrity testing or repair;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The backup well may not be used for more than a total of 500 hours during any 5-year period unless specifically authorized in writing by the department;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The backup well must be at least 90 feet deep and cased to a minimum depth of 60 feet, or to such greater cased depth and total well depth as may be required by department rule; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Fluid injected into the backup well must meet the requirements of paragraph (d).</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The requirements of paragraphs (d) and (e) do not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Class I injection wells as defined by department rule, including any authorized mechanical integrity tests;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Authorized mechanical integrity tests associated with Class V wells as defined by department rule; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The following types of reuse systems authorized by department rule:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Slow-rate land application systems;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Industrial uses of reclaimed water; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Use of reclaimed water for toilet flushing, fire protection, vehicle washing, construction dust control, and decorative water features.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">However, disposal systems serving as backups to reuse systems must comply with the other provisions of this subsection.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">For wastewater treatment facilities in operation as of July 1, 2010, which are located within areas to be served by Monroe County, municipalities in Monroe County, or those special districts established for the purpose of collection, transmission, treatment, or disposal of sewage but which are owned by other entities, the requirements of paragraphs (d) and (e) do not apply until January 1, 2016. Wastewater operating permits issued pursuant to this chapter and in effect for these facilities as of June 30, 2010, are extended until December 31, 2015, or until the facility is connected to a local government central wastewater system, whichever occurs first. Wastewater treatment facilities in operation after December 31, 2015, must comply with the treatment and disposal requirements of this subsection and department rules.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">If it is demonstrated that a discharge, even if the discharge is otherwise in compliance with this subsection, will cause or contribute to a violation of state water quality standards, the department shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Require more stringent effluent limitations;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Order the point or method of discharge changed;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Limit the duration or volume of the discharge; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Prohibit the discharge.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">All sewage treatment facilities must monitor effluent for total nitrogen and total phosphorus concentration as required by department rule.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The department shall require the levels of operator certification and staffing necessary to ensure proper operation and maintenance of sewage facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules necessary to carry out this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">The authority of a local government, including a special district, to mandate connection of a wastewater facility, as defined by department rule, is governed by s. 4, chapter 99-395, Laws of Florida.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, ch. 71-259; s. 2, ch. 71-137; s. 1, ch. 72-58; s. 271, ch. 77-147; s. 1, ch. 78-206; s. 75, ch. 79-65; s. 1, ch. 80-371; s. 1, ch. 81-246; s. 262, ch. 81-259; s. 2, ch. 86-173; s. 1, ch. 87-303; s. 71, ch. 93-213; s. 2, ch. 94-153; s. 361, ch. 94-356; s. 158, ch. 99-8; s. 25, ch. 2000-153; s. 12, ch. 2000-211; s. 6, ch. 2008-232; s. 38, ch. 2010-205.</History>
+</Section>

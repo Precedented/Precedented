@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0339.2825" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Approval of contractor-financed projects.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Before the department solicits proposals pursuant to s. 334.30 to advance a project programmed in the adopted 5-year work program or in the 10-year Strategic Intermodal Plan using funds provided by a public-private partnership or a private entity to be reimbursed from department funds for the project as programmed in the adopted work program, the department must provide a summary of the proposed project to the Executive Office of the Governor, the chair of each legislative appropriations committee, the President of the Senate, and the Speaker of the House of Representatives. The summary must include a description of any anticipated commitment by the department for the years outside the adopted work program, a description of the anticipated impacts on the department’s overall debt load, and sufficient information to demonstrate that the project will not cause the department to exceed the overall debt limitation provided in s. 339.139. The department may proceed with the project upon approval of the Governor. If the chair of either legislative appropriations committee, the President of the Senate, or the Speaker of the House of Representatives objects to the proposed project in writing within 14 days after receipt of the summary, the Governor may not approve the project.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the department receives an unsolicited proposal pursuant to s. 334.30 to advance a project programmed in the adopted 5-year work program or in the 10-year Strategic Intermodal Plan using funds provided by public-private partnerships or private entities to be reimbursed from department funds for the project as programmed in the adopted work program, the department shall provide a summary of the proposed project to the Executive Office of the Governor, the chair of each legislative appropriations committee, the President of the Senate, and the Speaker of the House of Representatives before the department advertises receipt of the proposal as provided in s. 334.30. The summary must include a description of any anticipated commitments by the department for the years outside the adopted work program, a description of any anticipated impacts on the department’s overall debt load, and sufficient information to demonstrate that the project will not cause the department to exceed the overall debt limitation provided in <Reference Number="1"/>s. 339.14. The department may not accept the unsolicited proposal, advertise receipt of the unsolicited proposal, or solicit other proposals for the same project purpose without the approval of the Executive Office of the Governor. If the chair of either legislative appropriations committee, the President of the Senate, or the Speaker of the House of Representatives objects to the proposed project in writing within 14 days after receipt of the summary, the Executive Office of the Governor may not approve the proposed project.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to a public-private partnership agreement authorized in s. 334.30(2)(a).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2012-128.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 339.139 relates to overall debt limitation; s. 339.14 was transferred to s. 336.50 in 1957 and repealed in 1984.</Text>
+	</Note>
+</Section>

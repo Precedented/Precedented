@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0828.073" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Animals found in distress; when agent may take charge; hearing; disposition; sale.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The purpose of this section is to provide a means by which a neglected or mistreated animal can be:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Removed from its present custody, or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Made the subject of an order to provide care, issued to its owner by the county court, any law enforcement officer, or any agent of the county or of any society or association for the prevention of cruelty to animals appointed under s. 828.03,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">and given protection and an appropriate and humane disposition made.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any law enforcement officer or any agent of any county or of any society or association for the prevention of cruelty to animals appointed under the provisions of s. 828.03 may:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Lawfully take custody of any animal found neglected or cruelly treated by removing the animal from its present location, or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Order the owner of any animal found neglected or cruelly treated to provide certain care to the animal at the owner’s expense without removal of the animal from its present location,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">and shall file a petition seeking relief under this section in the county court of the county in which the animal is found within 10 days after the animal is seized or an order to provide care is issued. The court shall schedule and commence a hearing on the petition within 30 days after the petition is filed to determine whether the owner, if known, is able to provide adequately for the animal and is fit to have custody of the animal. The hearing shall be concluded and the court order entered thereon within 60 days after the date the hearing is commenced. The timeframes set forth in this subsection are not jurisdictional. However, if a failure to meet such timeframes is attributable to the officer or agent, the owner is not required to pay the officer or agent for care of the animal during any period of delay caused by the officer or agent. A fee may not be charged for filing the petition. This subsection does not require court action for the taking into custody and making proper disposition of stray or abandoned animals as lawfully performed by animal control agents.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The officer or agent of any county or of any society or association for the prevention of cruelty to animals taking charge of any animal pursuant to the provisions of this section shall have written notice served, at least 3 days before the hearing scheduled under subsection (2), upon the owner of the animal, if he or she is known and is residing in the county where the animal was taken, in conformance with the provisions of chapter 48 relating to service of process. The sheriff of the county shall not charge a fee for service of such notice. </Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The officer or agent of any county or of any society or association for the prevention of cruelty to animals taking charge of an animal as provided for in this section shall provide for the animal until either:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The owner is adjudged by the court to be able to provide adequately for, and have custody of, the animal, in which case the animal shall be returned to the owner upon payment by the owner for the care and provision for the animal while in the agent’s or officer’s custody; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The animal is turned over to the officer or agent as provided in paragraph (c) and a humane disposition of the animal is made.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the court determines that the owner is able to provide adequately for, and have custody of, the animal, the order shall provide that the animal in the possession of the officer or agent be claimed and removed by the owner within 7 days after the date of the order.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon the court’s judgment that the owner of the animal is unable or unfit to adequately provide for the animal:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The court may:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Order that the animal be sold by the sheriff at public auction, that the current owner have no further custody of the animal, and that any animal not bid upon be remanded to the custody of the Society for the Prevention of Cruelty to Animals, the Humane Society, the county, or any agency or person the judge deems appropriate, to be disposed of as the agency or person sees fit; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Order that the animal be destroyed or remanded directly to the custody of the Society for the Prevention of Cruelty to Animals, the Humane Society, the county, or any agency or person the judge deems appropriate, to be disposed of as the agency or person sees fit.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The court, upon proof of costs incurred by the officer or agent, may require that the owner pay for the care of the animal while in the custody of the officer or agent. A separate hearing may be held.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The court may order that other animals that are in the custody of the owner and that were not seized by the officer or agent be turned over to the officer or agent, if the court determines that the owner is unable or unfit to adequately provide for the animals. The court may enjoin the owner’s further possession or custody of other animals.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In determining the person’s fitness to have custody of an animal under the provisions of this act, the court may consider, among other matters:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Testimony from the agent or officer who seized the animal and other witnesses as to the condition of the animal when seized and as to the conditions under which the animal was kept.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Testimony and evidence as to the veterinary care provided to the animal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Testimony and evidence as to the type and amount of care provided to the animal.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Expert testimony as to the community standards for proper and reasonable care of the same type of animal.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Testimony from any witnesses as to prior treatment or condition of this or other animals in the same custody.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The owner’s past record of judgments under the provisions of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Convictions under the statutes prohibiting cruelty to animals.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Any other evidence the court considers to be material or relevant.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If the evidence indicates a lack of proper and reasonable care of the animal, the burden is on the owner to demonstrate by clear and convincing evidence that he or she is able and fit to have custody of and provide adequately for the animal.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">In any case in which an animal is offered for auction under the provisions of this section, the proceeds shall be:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Applied, first, to the cost of the sale.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Applied, secondly, to the care and provision for the animal by the officer or agent of any county or of any society or association for the prevention of cruelty to animals taking charge.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Applied, thirdly, to the payment of the owner for the sale of the animal.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Paid over to the court if the owner is not known.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 75-223; s. 2, ch. 76-102; s. 1, ch. 78-12; s. 1, ch. 79-234; s. 1, ch. 87-389; s. 1, ch. 89-194; s. 1285, ch. 97-102; s. 4, ch. 2010-87.</History>
+</Section>

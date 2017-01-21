@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0252.936" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Accidental release” means an unanticipated emission of a regulated substance into the ambient air from a stationary source.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Accidental Release Prevention Program” means the program to implement the accidental release prevention, detection, and response provisions of s. 112(r)(7) of the Clean Air Act and federal implementing regulations.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Audit” means a review of information at, or submitted by, a stationary source subject to s. 112(r)(7), to determine whether that stationary source is in compliance with this part and rules adopted to administer this part. Audits must include a review of the adequacy of the stationary source’s Risk Management Plan, may consist of reviews of information submitted to the division or the United States Environmental Protection Agency to determine whether the plan is complete or whether revisions to the plan are needed, and the reviews may be conducted at the stationary source to confirm that information onsite is consistent with reported information.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Chemical Safety and Hazard Investigation Board” means the federal Chemical Safety and Hazard Investigation Board created under s. 112(r)(6) of the Clean Air Act.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Clean Air Act” means the federal Clean Air Act, as amended, codified at 42 U.S.C. ss. 7401-7671q.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Commission” means the State Emergency Response Commission for Hazardous Materials created by Executive Order 94-138.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Committee” means any local emergency planning committee established in the state under s. 301 of the federal Emergency Planning and Community Right To Know Act, 42 U.S.C. ss. 11001 et seq.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Emergency Management in the Executive Office of the Governor.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Inspection” means a review of information at a stationary source subject to s. 112(r)(7), including documentation and operating practices and access to the source and to any area where an accidental release could occur, to determine whether the stationary source is in compliance with this part or rules adopted to administer this part.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Owner or operator” means any person who owns, leases, operates, controls, or supervises any stationary source subject to s. 112(r)(7) of the Clean Air Act.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Person” means an individual, corporation, partnership, association, state or any agency or institution thereof, municipality, political subdivision of the state, and any agency, department, or instrumentality of the United States, and any officer, agent, or employee thereof, and, for the purposes of s. 252.941, any responsible corporate officer.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Process” means a process as that term is defined under 40 C.F.R. part 68.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Program level” means a Program 1, Program 2, or Program 3 stationary source level as determined under 40 C.F.R. part 68.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Regulated substance” means any regulated substance defined or listed under s. 112(r)(3) of the Clean Air Act and federal implementing regulations. Consistent with s. 112(r)(7) federal implementing regulations, ammonia used as an agricultural nutrient, when held by farmers, is exempt from this part.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Risk Management Plan” means the Risk Management Plan required under s. 112(r)(7) of the Clean Air Act and federal implementing regulations.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Section 112(r)” means the provisions of s. 112(r) of the Clean Air Act.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Section 112(r)(7)” means the accidental release prevention, detection, and response provisions in s. 112(r)(7) of the Clean Air Act.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Stationary source” means any buildings, structures, equipment, installations, or regulated substance emitting stationary activities which belong to the same industrial group, which are located on one or more contiguous properties, which are under the control of the same person (or persons under common control), and from which an accidental release may occur. The term does not apply to transportation, including storage incident to transportation of any regulated substance under the provisions of this part. A stationary source includes transportation containers used for storage not incident to transportation and transportation containers connected to equipment at the stationary source for loading or unloading. Transportation includes, but is not limited to, transportation that is subject to oversight or regulation under 49 C.F.R. parts 192, 193, or 195 or a state natural gas or hazardous liquid program for which the state has in effect a certification to the United States Department of Transportation under 40 U.S.C. s. 60105. A stationary source does not include naturally occurring hydrocarbon reservoirs. Properties may not be considered contiguous solely because of a railroad or gas pipeline right-of-way. Stationary sources subject to chapter 527 whose only regulated substance subject to s. 112(r)(7) is liquefied petroleum gas are exempt from this part.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Trust fund” means the Operating Trust Fund of the division.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 98-193; s. 112, ch. 2011-142.</History>
+</Section>

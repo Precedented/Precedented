@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.106" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Control of electronic document of title.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person has control of an electronic document of title if a system employed for evidencing the transfer of interests in the electronic document reliably establishes that person as the person to which the electronic document was issued or transferred.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A system satisfies subsection (1), and a person is deemed to have control of an electronic document of title, if the document is created, stored, and assigned in a manner that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A single authoritative copy of the document exists which is unique, identifiable, and, except as otherwise provided in paragraphs (d), (e), and (f), unalterable;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The authoritative copy identifies the person asserting control as:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The person to which the document was issued; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the authoritative copy indicates that the document has been transferred, the person to which the document was most recently transferred;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The authoritative copy is communicated to and maintained by the person asserting control or its designated custodian;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the person asserting control;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 22, ch. 2010-131.</History>
+</Section>

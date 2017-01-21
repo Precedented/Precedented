@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0386.203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Commercial” use of a private residence means any time during which the owner, lessee, or other person occupying or controlling the use of the private residence is furnishing in the private residence, or causing or allowing to be furnished in the private residence, child care, adult care, or health care, or any combination thereof, and receiving or expecting to receive compensation therefor.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Common area” means a hallway, corridor, lobby, aisle, water fountain area, restroom, stairwell, entryway, or conference room in a customs area of an airport terminal under the authority and control of the Bureau of Customs and Border Protection of the United States Department of Homeland Security.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Designated smoking guest rooms at public lodging establishments” means the sleeping rooms and directly associated private areas, such as bathrooms, living rooms, and kitchen areas, if any, rented to guests for their exclusive transient occupancy in public lodging establishments, including hotels, motels, vacation rentals, transient apartments, transient lodging establishments, rooming houses, boarding houses, bed and breakfast inns, and the like; and designated by the person or persons having management authority over such public lodging establishment as rooms in which smoking may be permitted.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Enclosed indoor workplace” means any place where one or more persons engages in work, and which place is predominantly or totally bounded on all sides and above by physical barriers, regardless of whether such barriers consist of or include, without limitation, uncovered openings; screened or otherwise partially covered openings; or open or closed windows, jalousies, doors, or the like. A place is “predominantly” bounded by physical barriers during any time when both of the following conditions exist:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is more than 50 percent covered from above by a physical barrier that excludes rain, and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">More than 50 percent of the combined surface area of its sides is covered by closed physical barriers. In calculating the percentage of side surface area covered by closed physical barriers, all solid surfaces that block air flow, except railings, must be considered as closed physical barriers. This section applies to all such enclosed indoor workplaces and enclosed parts thereof without regard to whether work is occurring at any given time.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The term does not include any facility owned or leased by and used exclusively for noncommercial activities performed by the members and guests of a membership association, including social gatherings, meetings, dining, and dances, if no person or persons are engaged in work as defined in subsection (12).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Essential services” means those services that are essential to the maintenance of any enclosed indoor room, including, but not limited to, janitorial services, repairs, or renovations.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Physical barrier” includes an uncovered opening; a screened or otherwise partially covered opening; or an open or closed window, jalousie, or door.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Retail tobacco shop” means any enclosed indoor workplace dedicated to or predominantly for the retail sale of tobacco, tobacco products, and accessories for such products, in which the sale of other products or services is merely incidental. Any enclosed indoor workplace of a business that manufactures, imports, or distributes tobacco products or of a tobacco leaf dealer is a business dedicated to or predominantly for the retail sale of tobacco and tobacco products when, as a necessary and integral part of the process of making, manufacturing, importing, or distributing a tobacco product for the eventual retail sale of such tobacco or tobacco product, tobacco is heated, burned, or smoked or a lighted tobacco product is tested.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Secondhand smoke,” also known as environmental tobacco smoke (ETS), means smoke emitted from lighted, smoldering, or burning tobacco when the smoker is not inhaling; smoke emitted at the mouthpiece during puff drawing; and smoke exhaled by the smoker.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Smoking” means inhaling, exhaling, burning, carrying, or possessing any lighted tobacco product, including cigarettes, cigars, pipe tobacco, and any other lighted tobacco product.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Stand-alone bar” means any licensed premises devoted during any time of operation predominantly or totally to serving alcoholic beverages, intoxicating beverages, or intoxicating liquors, or any combination thereof, for consumption on the licensed premises; in which the serving of food, if any, is merely incidental to the consumption of any such beverage; and the licensed premises is not located within, and does not share any common entryway or common indoor area with, any other enclosed indoor workplace, including any business for which the sale of food or any other product or service is more than an incidental source of gross revenue. A place of business constitutes a stand-alone bar in which the service of food is merely incidental in accordance with this subsection if the licensed premises derives no more than 10 percent of its gross revenue from the sale of food consumed on the licensed premises.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Work” means any person’s providing any employment or employment-type service for or at the request of another individual or individuals or any public or private entity, whether for compensation or not, whether full or part time, whether legally or not. “Work” includes, without limitation, any such service performed by an employee, independent contractor, agent, partner, proprietor, manager, officer, director, apprentice, trainee, associate, servant, volunteer, and the like. The term does not include noncommercial activities performed by members of a membership association.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Membership association” means a charitable, nonprofit, or veterans’ organization that holds a current exemption under s. 501(c)(3), (4), (7), (8), (10), or (19) or s. 501(d) of the Internal Revenue Code.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 85-257; s. 1, ch. 88-266; s. 3, ch. 92-185; s. 42, ch. 94-218; s. 78, ch. 97-101; s. 2, ch. 2000-185; s. 3, ch. 2003-398; s. 10, ch. 2011-119.</History>
+</Section>

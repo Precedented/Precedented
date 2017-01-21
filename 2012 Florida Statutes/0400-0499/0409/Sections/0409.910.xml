@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.910" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Responsibility for payments on behalf of Medicaid-eligible persons when other parties are liable.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that Medicaid be the payor of last resort for medically necessary goods and services furnished to Medicaid recipients. All other sources of payment for medical care are primary to medical assistance provided by Medicaid. If benefits of a liable third party are discovered or become available after medical assistance has been provided by Medicaid, it is the intent of the Legislature that Medicaid be repaid in full and prior to any other person, program, or entity. Medicaid is to be repaid in full from, and to the extent of, any third-party benefits, regardless of whether a recipient is made whole or other creditors paid. Principles of common law and equity as to assignment, lien, and subrogation are abrogated to the extent necessary to ensure full recovery by Medicaid from third-party resources. It is intended that if the resources of a liable third party become available at any time, the public treasury should not bear the burden of medical assistance to the extent of such resources.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “Medicaid Third-Party Liability Act.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Third-party benefits for medical services shall be primary to medical assistance provided by Medicaid.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">After the agency has provided medical assistance under the Medicaid program, it shall seek recovery of reimbursement from third-party benefits to the limit of legal liability and for the full amount of third-party benefits, but not in excess of the amount of medical assistance paid by Medicaid, as to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Claims for which the agency has a waiver pursuant to federal law; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Situations in which the agency learns of the existence of a liable third party or in which third-party benefits are discovered or become available after medical assistance has been provided by Medicaid.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">An applicant, recipient, or legal representative shall inform the agency of any rights the applicant or recipient has to third-party benefits and shall inform the agency of the name and address of any person that is or may be liable to provide third-party benefits. When the agency provides, pays for, or becomes liable for medical services provided by a hospital, the recipient receiving such medical services or his or her legal representative shall also provide the information as to third-party benefits, as defined in this section, to the hospital, which shall provide notice thereof to the agency in a manner specified by the agency.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">When the agency provides, pays for, or becomes liable for medical care under the Medicaid program, it has the following rights, as to which the agency may assert independent principles of law, which shall nevertheless be construed together to provide the greatest recovery from third-party benefits:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency is automatically subrogated to any rights that an applicant, recipient, or legal representative has to any third-party benefit for the full amount of medical assistance provided by Medicaid. Recovery pursuant to the subrogation rights created hereby shall not be reduced, prorated, or applied to only a portion of a judgment, award, or settlement, but is to provide full recovery by the agency from any and all third-party benefits. Equities of a recipient, his or her legal representative, a recipient’s creditors, or health care providers shall not defeat, reduce, or prorate recovery by the agency as to its subrogation rights granted under this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By applying for or accepting medical assistance, an applicant, recipient, or legal representative automatically assigns to the agency any right, title, and interest such person has to any third-party benefit, excluding any Medicare benefit to the extent required to be excluded by federal law.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The assignment granted under this paragraph is absolute, and vests legal and equitable title to any such right in the agency, but not in excess of the amount of medical assistance provided by the agency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency is a bona fide assignee for value in the assigned right, title, or interest, and takes vested legal and equitable title free and clear of latent equities in a third person. Equities of a recipient, the recipient’s legal representative, his or her creditors, or health care providers shall not defeat or reduce recovery by the agency as to the assignment granted under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By accepting medical assistance, the recipient grants to the agency the limited power of attorney to act in his or her name, place, and stead to perform specific acts with regard to third-party benefits, the recipient’s assent being deemed to have been given, including:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Endorsing any draft, check, money order, or other negotiable instrument representing third-party benefits that are received on behalf of the recipient as a third-party benefit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Compromising claims to the extent of the rights assigned, provided that the recipient is not otherwise represented by an attorney as to the claim.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency is entitled to, and has, an automatic lien for the full amount of medical assistance provided by Medicaid to or on behalf of the recipient for medical care furnished as a result of any covered injury or illness for which a third party is or may be liable, upon the collateral, as defined in s. 409.901.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The lien attaches automatically when a recipient first receives treatment for which the agency may be obligated to provide medical assistance under the Medicaid program. The lien is perfected automatically at the time of attachment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency is authorized to file a verified claim of lien. The claim of lien shall be signed by an authorized employee of the agency, and shall be verified as to the employee’s knowledge and belief. The claim of lien may be filed and recorded with the clerk of the circuit court in the recipient’s last known county of residence or in any county deemed appropriate by the agency. The claim of lien, to the extent known by the agency, shall contain:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The name and last known address of the person to whom medical care was furnished.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The date of injury.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The period for which medical assistance was provided.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The amount of medical assistance provided or paid, or for which Medicaid is otherwise liable.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The names and addresses of all persons claimed by the recipient to be liable for the covered injuries or illness.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The filing of the claim of lien pursuant to this section shall be notice thereof to all persons.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If the claim of lien is filed within 1 year after the later of the date when the last item of medical care relative to a specific covered injury or illness was paid, or the date of discovery by the agency of the liability of any third party, or the date of discovery of a cause of action against a third party brought by a recipient or his or her legal representative, record notice shall relate back to the time of attachment of the lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If the claim of lien is filed after 1 year after the later of the events specified in subparagraph 4., notice shall be effective as of the date of filing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Only one claim of lien need be filed to provide notice as set forth in this paragraph and shall provide sufficient notice as to any additional or after-paid amount of medical assistance provided by Medicaid for any specific covered injury or illness. The agency may, in its discretion, file additional, amended, or substitute claims of lien at any time after the initial filing, until the agency has been repaid the full amount of medical assistance provided by Medicaid or otherwise has released the liable parties and recipient.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">No release or satisfaction of any cause of action, suit, claim, counterclaim, demand, judgment, settlement, or settlement agreement shall be valid or effectual as against a lien created under this paragraph, unless the agency joins in the release or satisfaction or executes a release of the lien. An acceptance of a release or satisfaction of any cause of action, suit, claim, counterclaim, demand, or judgment and any settlement of any of the foregoing in the absence of a release or satisfaction of a lien created under this paragraph shall prima facie constitute an impairment of the lien, and the agency is entitled to recover damages on account of such impairment. In an action on account of impairment of a lien, the agency may recover from the person accepting the release or satisfaction or making the settlement the full amount of medical assistance provided by Medicaid. Nothing in this section shall be construed as creating a lien or other obligation on the part of an insurer which in good faith has paid a claim pursuant to its contract without knowledge or actual notice that the agency has provided medical assistance for the recipient related to a particular covered injury or illness. However, notice or knowledge that an insured is, or has been a Medicaid recipient within 1 year from the date of service for which a claim is being paid creates a duty to inquire on the part of the insurer as to any injury or illness for which the insurer intends or is otherwise required to pay benefits.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The lack of a properly filed claim of lien shall not affect the agency’s assignment or subrogation rights provided in this subsection, nor shall it affect the existence of the lien, but only the effective date of notice as provided in subparagraph 5.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The lien created by this paragraph is a first lien and superior to the liens and charges of any provider, and shall exist for a period of 7 years, if recorded, after the date of recording; and shall exist for a period of 7 years after the date of attachment, if not recorded. If recorded, the lien may be extended for one additional period of 7 years by rerecording the claim of lien within the 90-day period preceding the expiration of the lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The clerk of the circuit court for each county in the state shall endorse on a claim of lien filed under this paragraph the date and hour of filing and shall record the claim of lien in the official records of the county as for other records received for filing. The clerk shall receive as his or her fee for filing and recording any claim of lien or release of lien under this paragraph the total sum of $2. Any fee required to be paid by the agency shall not be required to be paid in advance of filing and recording, but may be billed to the agency after filing and recording of the claim of lien or release of lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">After satisfaction of any lien recorded under this paragraph, the agency shall, within 60 days after satisfaction, either file with the appropriate clerk of the circuit court or mail to any appropriate party, or counsel representing such party, if represented, a satisfaction of lien in a form acceptable for filing in Florida.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The agency shall recover the full amount of all medical assistance provided by Medicaid on behalf of the recipient to the full extent of third-party benefits.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Recovery of such benefits shall be collected directly from:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any third party;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The recipient or legal representative, if he or she has received third-party benefits;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The provider of a recipient’s medical services if third-party benefits have been recovered by the provider; notwithstanding any provision of this section, to the contrary, however, no provider shall be required to refund or pay to the agency any amount in excess of the actual third-party benefits received by the provider from a third-party payor for medical services provided to the recipient; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any person who has received the third-party benefits.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of any recovery or other collection pursuant to this section, the agency shall distribute the amount collected as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To itself, an amount equal to the state Medicaid expenditures for the recipient plus any incentive payment made in accordance with paragraph (14)(a).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To the Federal Government, the federal share of the state Medicaid expenditures minus any incentive payment made in accordance with paragraph (14)(a) and federal law, and minus any other amount permitted by federal law to be deducted.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">To the recipient, after deducting any known amounts owed to the agency for any related medical assistance or to health care providers, any remaining amount. This amount shall be treated as income or resources in determining eligibility for Medicaid.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The provisions of this subsection do not apply to any proceeds received by the state, or any agency thereof, pursuant to a final order, judgment, or settlement agreement, in any matter in which the state asserts claims brought on its own behalf, and not as a subrogee of a recipient, or under other theories of liability. The provisions of this subsection do not apply to any proceeds received by the state, or an agency thereof, pursuant to a final order, judgment, or settlement agreement, in any matter in which the state asserted both claims as a subrogee and additional claims, except as to those sums specifically identified in the final order, judgment, or settlement agreement as reimbursements to the recipient as expenditures for the named recipient on the subrogation claim.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The agency shall require an applicant or recipient, or the legal representative thereof, to cooperate in the recovery by the agency of third-party benefits of a recipient and in establishing paternity and support of a recipient child born out of wedlock. As a minimal standard of cooperation, the recipient or person able to legally assign a recipient’s rights shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Appear at an office designated by the agency to provide relevant information or evidence.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Appear as a witness at a court or other proceeding.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide information, or attest to lack of information, under penalty of perjury.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Pay to the agency any third-party benefit received.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Take any additional steps to assist in establishing paternity or securing third-party benefits, or both.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Paragraphs (a)-(e) notwithstanding, the agency shall have the discretion to waive, in writing, the requirement of cooperation for good cause shown and as required by federal law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department shall deny or terminate eligibility for any applicant or recipient who refuses to cooperate as required in subsection (8), unless cooperation has been waived in writing by the department as provided in paragraph (8)(f). However, any denial or termination of eligibility shall not reduce medical assistance otherwise payable by the department to a provider for medical care provided to a recipient prior to denial or termination of eligibility.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">An applicant or recipient shall be deemed to have provided to the agency the authority to obtain and release medical information and other records with respect to such medical care, for the sole purpose of obtaining reimbursement for medical assistance provided by Medicaid.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The agency may, as a matter of right, in order to enforce its rights under this section, institute, intervene in, or join any legal or administrative proceeding in its own name in one or more of the following capacities: individually, as subrogee of the recipient, as assignee of the recipient, or as lienholder of the collateral.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If either the recipient, or his or her legal representative, or the agency brings an action against a third party, the recipient, or the recipient’s legal representative, or the agency, or their attorneys, shall, within 30 days after filing the action, provide to the other written notice, by personal delivery or registered mail, of the action, the name of the court in which the case is brought, the case number of such action, and a copy of the pleadings. If an action is brought by either the agency, or the recipient or the recipient’s legal representative, the other may, at any time before trial on the merits, become a party to, or shall consolidate his or her action with the other if brought independently. Unless waived by the other, the recipient, or his or her legal representative, or the agency shall provide notice to the other of the intent to dismiss at least 21 days prior to voluntary dismissal of an action against a third party. Notice to the agency shall be sent to an address set forth by rule. Notice to the recipient or his or her legal representative, if represented by an attorney, shall be sent to the attorney, and, if not represented, then to the last known address of the recipient or his or her legal representative.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An action by the agency to recover damages in tort under this subsection, which action is derivative of the rights of the recipient or his or her legal representative, shall not constitute a waiver of sovereign immunity pursuant to s. 768.14.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In the event of judgment, award, or settlement in a claim or action against a third party, the court shall order the segregation of an amount sufficient to repay the agency’s expenditures for medical assistance, plus any other amounts permitted under this section, and shall order such amounts paid directly to the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">No judgment, award, or settlement in any action by a recipient or his or her legal representative to recover damages for injuries or other third-party benefits, when the agency has an interest, shall be satisfied without first giving the agency notice and a reasonable opportunity to file and satisfy its lien, and satisfy its assignment and subrogation rights or proceed with any action as permitted in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, notwithstanding any other provision of law, the entire amount of any settlement of the recipient’s action or claim involving third-party benefits, with or without suit, is subject to the agency’s claims for reimbursement of the amount of medical assistance provided and any lien pursuant thereto.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any provision in this section to the contrary, in the event of an action in tort against a third party in which the recipient or his or her legal representative is a party which results in a judgment, award, or settlement from a third party, the amount recovered shall be distributed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">After attorney’s fees and taxable costs as defined by the Florida Rules of Civil Procedure, one-half of the remaining recovery shall be paid to the agency up to the total amount of medical assistance provided by Medicaid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The remaining amount of the recovery shall be paid to the recipient.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For purposes of calculating the agency’s recovery of medical assistance benefits paid, the fee for services of an attorney retained by the recipient or his or her legal representative shall be calculated at 25 percent of the judgment, award, or settlement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of this section to the contrary, the agency shall be entitled to all medical coverage benefits up to the total amount of medical assistance provided by Medicaid. For purposes of this paragraph, “medical coverage” means any benefits under health insurance, a health maintenance organization, a preferred provider arrangement, or a prepaid health clinic, and the portion of benefits designated for medical payments under coverage for workers’ compensation, personal injury protection, and casualty.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">In the event that the recipient, his or her legal representative, or the recipient’s estate brings an action against a third party, notice of institution of legal proceedings, notice of settlement, and all other notices required by this section or by rule shall be given to the agency, in Tallahassee, in a manner set forth by rule. All such notices shall be given by the attorney retained to assert the recipient’s or legal representative’s claim, or, if no attorney is retained, by the recipient, the recipient’s legal representative, or his or her estate.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, actions to enforce the rights of the agency under this section shall be commenced within 5 years after the date a cause of action accrues, with the period running from the later of the date of discovery by the agency of a case filed by a recipient or his or her legal representative, or of discovery of any judgment, award, or settlement contemplated in this section, or of discovery of facts giving rise to a cause of action under this section. Nothing in this paragraph affects or prevents a proceeding to enforce a lien during the existence of the lien as set forth in subparagraph (6)(c)9.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Upon the death of a recipient, and within the time prescribed by ss. 733.702 and 733.710, the agency, in addition to any other available remedy, may file a claim against the estate of the recipient for the total amount of medical assistance provided by Medicaid for the benefit of the recipient. Claims so filed shall take priority as class 3 claims as provided by s. 733.707(1)(c). The filing of a claim pursuant to this paragraph shall neither reduce nor diminish the general claims of the agency under s. 414.28, except that the agency may not receive double recovery for the same expenditure. Claims under this paragraph shall be superior to those under s. 414.28. The death of the recipient shall neither extinguish nor diminish any right of the agency to recover third-party benefits from a third party or provider. Nothing in this paragraph affects or prevents a proceeding to enforce a lien created pursuant to this section or a proceeding to set aside a fraudulent conveyance as defined in subsection (16).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">No action taken by the agency shall operate to deny the recipient’s recovery of that portion of benefits not assigned or subrogated to the agency, or not secured by the agency’s lien. The agency’s rights of recovery created by this section, however, shall not be limited to some portion of recovery from a judgment, award, or settlement. Only the following benefits are not subject to the rights of the agency: benefits not related in any way to a covered injury or illness; proceeds of life insurance coverage on the recipient; proceeds of insurance coverage, such as coverage for property damage, which by its terms and provisions cannot be construed to cover personal injury, death, or a covered injury or illness; proceeds of disability coverage for lost income; and recovery in excess of the amount of medical benefits provided by Medicaid after repayment in full to the agency.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">No action of the recipient shall prejudice the rights of the agency under this section. No settlement, agreement, consent decree, trust agreement, annuity contract, pledge, security arrangement, or any other device, hereafter collectively referred to in this subsection as a “settlement agreement,” entered into or consented to by the recipient or his or her legal representative shall impair the agency’s rights. However, in a structured settlement, no settlement agreement by the parties shall be effective or binding against the agency for benefits accrued without the express written consent of the agency or an appropriate order of a court having personal jurisdiction over the agency.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">The agency is authorized to enter into agreements to enforce or collect medical support and other third-party benefits.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a cooperative agreement is entered into with any agency, program, or subdivision of the state, or any agency, program, or legal entity of or operated by a subdivision of the state, or with any other state, the agency is authorized to make an incentive payment of up to 15 percent of the amount actually collected and reimbursed to the agency, to the extent of medical assistance paid by Medicaid. Such incentive payment is to be deducted from the federal share of that amount, to the extent authorized by federal law. The agency may pay such person an additional percentage of the amount actually collected and reimbursed to the agency as a result of the efforts of the person, but no more than a maximum percentage established by the agency. In no case shall the percentage exceed the lesser of a percentage determined to be commercially reasonable or 15 percent, in addition to the 15-percent incentive payment, of the amount actually collected and reimbursed to the agency as a result of the efforts of the person under contract.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If an agreement to enforce or collect third-party benefits is entered into by the agency with any person other than those described in paragraph (a), including any attorney retained by the agency who is not an employee or agent of any person named in paragraph (a), then the agency may pay such person a percentage of the amount actually collected and reimbursed to the agency as a result of the efforts of the person, to the extent of medical assistance paid by Medicaid. In no case shall the percentage exceed a maximum established by the agency, which shall not exceed the lesser of a percentage determined to be commercially reasonable or 30 percent of the amount actually collected and reimbursed to the agency as a result of the efforts of the person under contract.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An agreement pursuant to this subsection may permit reasonable litigation costs or expenses to be paid from the agency’s recovery to a person under contract with the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Contingency fees and costs incurred in recovery pursuant to an agreement under this subsection may, for purposes of determining state and federal share, be deemed to be administrative expenses of the state. To the extent permitted by federal law, such administrative expenses shall be shared with, or fully paid by, the Federal Government.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">Insurance and other third-party benefits may not contain any term or provision which purports to limit or exclude payment or provisions of benefits for an individual if the individual is eligible for, or a recipient of, medical assistance from Medicaid, and any such term or provision shall be void as against public policy.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">Any transfer or encumbrance of any right, title, or interest to which the agency has a right pursuant to this section, with the intent, likelihood, or practical effect of defeating, hindering, or reducing recovery by the agency for reimbursement of medical assistance provided by Medicaid, shall be deemed to be a fraudulent conveyance, and such transfer or encumbrance shall be void and of no effect against the claim of the agency, unless the transfer was for adequate consideration and the proceeds of the transfer are reimbursed in full to the agency, but not in excess of the amount of medical assistance provided by Medicaid.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">A recipient or his or her legal representative or any person representing, or acting as agent for, a recipient or the recipient’s legal representative, who has notice, excluding notice charged solely by reason of the recording of the lien pursuant to paragraph (6)(c), or who has actual knowledge of the agency’s rights to third-party benefits under this section, who receives any third-party benefit or proceeds therefrom for a covered illness or injury, is required either to pay the agency, within 60 days after receipt of settlement proceeds, the full amount of the third-party benefits, but not in excess of the total medical assistance provided by Medicaid, or to place the full amount of the third-party benefits in a trust account for the benefit of the agency pending judicial or administrative determination of the agency’s right thereto. Proof that any such person had notice or knowledge that the recipient had received medical assistance from Medicaid, and that third-party benefits or proceeds therefrom were in any way related to a covered illness or injury for which Medicaid had provided medical assistance, and that any such person knowingly obtained possession or control of, or used, third-party benefits or proceeds and failed either to pay the agency the full amount required by this section or to hold the full amount of third-party benefits or proceeds in trust pending judicial or administrative determination, unless adequately explained, gives rise to an inference that such person knowingly failed to credit the state or its agent for payments received from social security, insurance, or other sources, pursuant to s. 414.39(4)(b), and acted with the intent set forth in s. 812.014(1).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In cases of suspected criminal violations or fraudulent activity, the agency may take any civil action permitted at law or equity to recover the greatest possible amount, including, without limitation, treble damages under ss. 772.11 and 812.035(7).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency is authorized to investigate and to request appropriate officers or agencies of the state to investigate suspected criminal violations or fraudulent activity related to third-party benefits, including, without limitation, ss. 414.39 and 812.014. Such requests may be directed, without limitation, to the Medicaid Fraud Control Unit of the Office of the Attorney General, or to any state attorney. Pursuant to s. 409.913, the Attorney General has primary responsibility to investigate and control Medicaid fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In carrying out duties and responsibilities related to Medicaid fraud control, the agency may subpoena witnesses or materials within or outside the state and, through any duly designated employee, administer oaths and affirmations and collect evidence for possible use in either civil or criminal judicial proceedings.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">All information obtained and documents prepared pursuant to an investigation of a Medicaid recipient, the recipient’s legal representative, or any other person relating to an allegation of recipient fraud or theft is confidential and exempt from s. 119.07(1):</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Until such time as the agency takes final agency action;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Until such time as the Department of Legal Affairs refers the case for criminal prosecution;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Until such time as an indictment or criminal information is filed by a state attorney in a criminal case; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">At all times if otherwise protected by law.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">In recovering any payments in accordance with this section, the agency is authorized to make appropriate settlements.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any provision in this section to the contrary, the agency shall not be required to seek reimbursement from a liable third party on claims for which the agency determines that the amount it reasonably expects to recover will be less than the cost of recovery, or that recovery efforts will otherwise not be cost-effective.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">Entities providing health insurance as defined in s. 624.603, health maintenance organizations and prepaid health clinics as defined in chapter 641, and, on behalf of their clients, third-party administrators and pharmacy benefits managers as defined in s. 409.901(27) shall provide such records and information as are necessary to accomplish the purpose of this section, unless such requirement results in an unreasonable burden.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The director of the agency and the Director of the Office of Insurance Regulation of the Financial Services Commission shall enter into a cooperative agreement for requesting and obtaining information necessary to effect the purpose and objective of this section.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The agency shall request only that information necessary to determine whether health insurance as defined pursuant to s. 624.603, or those health services provided pursuant to chapter 641, could be, should be, or have been claimed and paid with respect to items of medical care and services furnished to any person eligible for services under this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All information obtained pursuant to subparagraph 1. is confidential and exempt from s. 119.07(1). The agency shall provide the information obtained pursuant to subparagraph 1. to the Department of Revenue for purposes of administering the state Title IV-D program. The agency and the Department of Revenue shall enter into a cooperative agreement for purposes of implementing this requirement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The cooperative agreement or rules adopted under this subsection may include financial arrangements to reimburse the reporting entities for reasonable costs or a portion thereof incurred in furnishing the requested information. Neither the cooperative agreement nor the rules shall require the automation of manual processes to provide the requested information.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency and the Financial Services Commission jointly shall adopt rules for the development and administration of the cooperative agreement. The rules shall include the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A method for identifying those entities subject to furnishing information under the cooperative agreement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A method for furnishing requested information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Procedures for requesting exemption from the cooperative agreement based on an unreasonable burden to the reporting entity.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">Entities providing health insurance as defined in s. 624.603, and health maintenance organizations as defined in chapter 641, requiring tape or electronic billing formats from the agency shall accept Medicaid billings that are prepared using the current Medicare standard billing format. If the insurance entity or health maintenance organization is unable to use the agency format, the entity shall accept paper claims from the agency in lieu of tape or electronic billing, provided that these claims are prepared using current Medicare standard billing formats.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">The agency is authorized to adopt rules to implement the provisions of this section and federal requirements.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 90-232; s. 33, ch. 90-295; s. 38, ch. 91-282; s. 4, ch. 92-79; s. 4, ch. 94-251; s. 98, ch. 96-175; s. 3, ch. 96-331; s. 259, ch. 96-406; s. 1023, ch. 97-103; s. 32, ch. 98-191; s. 1, ch. 98-411; s. 184, ch. 99-8; s. 1, ch. 99-231; s. 1, ch. 99-323; s. 8, ch. 99-356; s. 9, ch. 99-393; s. 67, ch. 99-397; s. 58, ch. 2000-153; s. 449, ch. 2003-261; s. 3, ch. 2005-140; s. 13, ch. 2008-246; s. 13, ch. 2010-187.</History>
+</Section>

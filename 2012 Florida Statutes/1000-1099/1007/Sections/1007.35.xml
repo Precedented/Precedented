@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1007.35" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Partnership for Minority and Underrepresented Student Achievement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be referred to by the popular name the “Florida Partnership for Minority and Underrepresented Student Achievement Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Legislature recognizes the importance of not only access to college but also success in college for all students. It is the intent of the Legislature that every student enrolled in a public secondary school has access to high-quality, rigorous academics, with a particular focus on access to advanced courses.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to provide assistance to all public secondary schools, with a primary focus on low-performing middle and high schools.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that the partnership created in this section accomplish its mission primarily through strengthening the content knowledge of teachers and providing instructional resources, including materials and strategies, which enable teachers to provide instruction to students who have diverse learning styles.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">There is created the Florida Partnership for Minority and Underrepresented Student Achievement. The Department of Education may contract for operation of the partnership.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The mission of the partnership is to prepare, inspire, and connect students to postsecondary success and opportunity, with a particular focus on minority students and students who are underrepresented in postsecondary education.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each public high school, including, but not limited to, schools and alternative sites and centers of the Department of Juvenile Justice, shall provide for the administration of the Preliminary SAT/National Merit Scholarship Qualifying Test (PSAT/NMSQT), or Preliminary ACT (PLAN) to all enrolled 10th grade students. However, a written notice shall be provided to each parent that shall include the opportunity to exempt his or her child from taking the PSAT/NMSQT or PLAN.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Test results will provide each high school with a database of student assessment data which guidance counselors will use to identify students who are prepared or who need additional work to be prepared to enroll and be successful in AP courses or other advanced high school courses.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Funding for the PSAT/NMSQT or PLAN for all 10th grade students shall be contingent upon annual funding in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Public school districts must choose either the PSAT/NMSQT or PLAN for districtwide administration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The partnership shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide teacher training and professional development to enable teachers of AP or other advanced courses to have the necessary content knowledge and instructional skills to prepare students for success on AP or other advanced course examinations and mastery of postsecondary course content.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide to middle school teachers and administrators professional development that will enable them to educate middle school students at the level necessary to prepare the students to enter high school ready to participate in advanced courses.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide teacher training and materials that are aligned with the Next Generation Sunshine State Standards and are consistent with best theory and practice regarding multiple learning styles and research on learning, instructional strategies, instructional design, and classroom assessment. Curriculum materials must be based on current, accepted, and essential academic knowledge.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide assessment of individual strengths and weaknesses as related to potential success in AP or other advanced courses and readiness for college.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide college entrance exam preparation through a variety of means that may include, but are not limited to, training teachers to provide courses at schools; training community organizations to provide courses at community centers, faith-based organizations, and businesses; and providing online courses.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Consider ways to incorporate Florida College System institutions in the mission of preparing all students for postsecondary success.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Provide a plan for communication and coordination of efforts with the Florida Virtual School’s provision of online AP or other advanced courses.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Work with school districts to identify minority and underrepresented students for participation in AP or other advanced courses.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Work with school districts to provide information to students and parents that explains available opportunities for students to take AP and other advanced courses and that explains enrollment procedures that students must follow to enroll in such courses. Such information must also explain the value of such courses as they relate to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Preparing the student for postsecondary level coursework.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Enabling the student to gain access to postsecondary education opportunities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Qualifying for scholarships and other financial aid opportunities.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Provide information to students, parents, teachers, counselors, administrators, districts, Florida College System institutions, and state universities regarding PSAT/NMSQT or PLAN administration, including, but not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Test administration dates and times.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That participation in the PSAT/NMSQT or PLAN is open to all grade 10 students.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The value of such tests in providing diagnostic feedback on student skills.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The value of student scores in predicting the probability of success on AP or other advanced course examinations.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Cooperate with the department to provide information to administrators, teachers, and counselors, whenever possible, about partnership activities, opportunities, and priorities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">By May 31 of each year, the Department of Education shall approve a plan of delivery of services for the subsequent academic year.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By September 30 of each year, the partnership shall submit to the department a report that contains an evaluation of the effectiveness of the delivered services and activities. Activities and services must be evaluated on their effectiveness at raising student achievement and increasing the number of AP or other advanced course examinations in low-performing middle and high schools. Other indicators that must be addressed in the evaluation report include the number of middle and high school teachers trained; the effectiveness of the training; measures of postsecondary readiness of the students affected by the program; levels of participation in 10th grade PSAT/NMSQT or PLAN testing; and measures of student, parent, and teacher awareness of and satisfaction with the services of the partnership.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall contribute to the evaluation process by providing access, consistent with s. 119.071(5)(a), to student and teacher information necessary to match against databases containing teacher professional development data and databases containing assessment data for the PSAT/NMSQT, SAT, AP, and other appropriate measures. The department shall also provide student-level data on student progress from middle school through high school and into college and the workforce, if available, in order to support longitudinal studies. The partnership shall analyze and report student performance data in a manner that protects the rights of students and parents as required in 20 U.S.C. s. 1232g and s. 1002.22.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Funding for the partnership shall be contingent upon annual funding in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The participating partner, if one is chosen, is required to match at least one-third of the allocation provided to the partnership in the General Appropriations Act in materials and services to the program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education may adopt rules to administer this section.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Nothing in this section shall prohibit any organization from partnering with the state to improve the college readiness of students.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-63; s. 53, ch. 2005-251; s. 2, ch. 2006-285; s. 1, ch. 2007-131; s. 3, ch. 2009-237; s. 7, ch. 2010-22; s. 105, ch. 2011-5.</History>
+</Section>

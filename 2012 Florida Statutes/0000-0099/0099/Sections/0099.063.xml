@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0099.063" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Candidates for Governor and Lieutenant Governor.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No later than 5 p.m. of the 9th day following the primary election, each candidate for Governor shall designate a Lieutenant Governor as a running mate. Such designation must be made in writing to the Department of State.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">No later than 5 p.m. of the 9th day following the primary election, each designated candidate for Lieutenant Governor shall file with the Department of State:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The candidate’s oath required by s. 99.021, which must contain the name of the candidate as it is to appear on the ballot; the office sought; and the signature of the candidate, which must be verified under oath or affirmation pursuant to s. 92.525(1)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the office sought is partisan, the written statement of political party affiliation required by s. 99.021(1)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The full and public disclosure of financial interests pursuant to s. 8, Art. II of the State Constitution. A public officer who has filed the full and public disclosure with the Commission on Ethics prior to qualifying for office may file a copy of that disclosure at the time of qualifying.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A designated candidate for Lieutenant Governor is not required to pay a separate qualifying fee or obtain signatures on petitions. Ballot position obtained by the candidate for Governor entitles the designated candidate for Lieutenant Governor, upon receipt by the Department of State of the qualifying papers required by subsection (2), to have his or her name placed on the ballot for the joint candidacy.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In order to have the name of the candidate for Lieutenant Governor printed on the primary election ballot, a candidate for Governor participating in the primary must designate the candidate for Lieutenant Governor, and the designated candidate must qualify no later than the end of the qualifying period specified in s. 99.061. If the candidate for Lieutenant Governor has not been designated and has not qualified by the end of the qualifying period specified in s. 99.061, the phrase “Not Yet Designated” must be included in lieu of the candidate’s name on the primary election ballot.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Failure of the Lieutenant Governor candidate to be designated and qualified by the time specified in subsection (2) shall result in forfeiture of ballot position for the candidate for Governor for the general election.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 99-140; s. 45, ch. 2001-40; s. 12, ch. 2005-277; s. 8, ch. 2005-286; s. 15, ch. 2011-40.</History>
+</Section>

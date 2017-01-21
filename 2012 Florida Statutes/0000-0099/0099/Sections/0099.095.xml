@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0099.095" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Petition process in lieu of a qualifying fee and party assessment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person who seeks to qualify as a candidate for any office and who meets the petition requirements of this section is not required to pay the qualifying fee or party assessment required by this chapter.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), a candidate must obtain the number of signatures of voters in the geographical area represented by the office sought equal to at least 1 percent of the total number of registered voters of that geographical area, as shown by the compilation by the department for the immediately preceding general election. Signatures may not be obtained until the candidate has filed the appointment of campaign treasurer and designation of campaign depository pursuant to s. 106.021 and are valid only for the qualifying period immediately following such filings.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A candidate for a special district office shall obtain 25 signatures of voters in the geographical area represented by the office sought.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The format of the petition shall be prescribed by the division and shall be used by candidates to reproduce petitions for circulation. If the candidate is running for an office that requires a group or district designation, the petition must indicate that designation and, if it does not, the signatures are not valid. A separate petition is required for each candidate.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In a year of apportionment, any candidate for county or district office seeking ballot position by the petition process may obtain the required number of signatures from any registered voter in the respective county, regardless of district boundaries. The candidate shall obtain at least the number of signatures equal to 1 percent of the total number of registered voters, as shown by a compilation by the department for the immediately preceding general election, divided by the total number of districts of the office involved.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each petition must be submitted before noon of the 28th day preceding the first day of the qualifying period for the office sought to the supervisor of elections of the county in which such petition was circulated. Each supervisor shall check the signatures on the petitions to verify their status as voters in the county, district, or other geographical area represented by the office sought. No later than the 7th day before the first day of the qualifying period, the supervisor shall certify the number of valid signatures.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Certifications for candidates for federal, state, multicounty district, or multicounty special district office shall be submitted to the division no later than the 7th day before the first day of the qualifying period for the office sought. The division shall determine whether the required number of signatures has been obtained and shall notify the candidate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For candidates for county, district, or special district office not covered by paragraph (a), the supervisor shall determine whether the required number of signatures has been obtained and shall notify the candidate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the required number of signatures has been obtained, the candidate is eligible to qualify pursuant to s. 99.061.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 74-119; s. 6, ch. 77-175; s. 29, ch. 79-400; s. 10, ch. 89-338; s. 9, ch. 90-315; s. 539, ch. 95-147; s. 3, ch. 99-140; s. 1, ch. 99-318; s. 14, ch. 2005-277; s. 9, ch. 2005-286; s. 17, ch. 2007-30; s. 11, ch. 2008-95; s. 18, ch. 2011-40.</History>
+</Section>

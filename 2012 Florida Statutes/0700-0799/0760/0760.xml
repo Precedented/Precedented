@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLIV">
+	<TitleNumber>TITLE XLIV</TitleNumber>
+	<TitleName xml:space="preserve">CIVIL RIGHTS</TitleName>
+	<ChapterNumber>760</ChapterNumber>
+	<ChapterName xml:space="preserve">Discrimination in the treatment of persons; minority representation</ChapterName>
+	<RunningHead>DISCRIMINATION; MINORITY REPRESENTATION</RunningHead>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Florida Civil Rights Act</PartTitle>
+		<Section Number="0760.01" />
+		<Section Number="0760.02" />
+		<Section Number="0760.021" />
+		<Section Number="0760.03" />
+		<Section Number="0760.04" />
+		<Section Number="0760.05" />
+		<Section Number="0760.06" />
+		<Section Number="0760.065" />
+		<Section Number="0760.07" />
+		<Section Number="0760.08" />
+		<Section Number="0760.10" />
+		<Section Number="0760.11" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Fair Housing Act</PartTitle>
+		<Section Number="0760.20" />
+		<Section Number="0760.21" />
+		<Section Number="0760.22" />
+		<Section Number="0760.23" />
+		<Section Number="0760.24" />
+		<Section Number="0760.25" />
+		<Section Number="0760.26" />
+		<Section Number="0760.29" />
+		<Section Number="0760.30" />
+		<Section Number="0760.31" />
+		<Section Number="0760.32" />
+		<Section Number="0760.34" />
+		<Section Number="0760.35" />
+		<Section Number="0760.36" />
+		<Section Number="0760.37" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0760.40" />
+		<Section Number="0760.50" />
+		<Section Number="0760.51" />
+		<Section Number="0760.60" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Minority representation in certain bodies</PartTitle>
+		<Section Number="0760.80" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Environmental equity<NewLine />and justice</PartTitle>
+		<Section Number="0760.854" />
+	</Part>
+</Chapter>

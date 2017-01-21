@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0674.2101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Security interest of collecting bank in items, accompanying documents, and proceeds.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A collecting bank has a security interest in an item and any accompanying documents or the proceeds of either:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In case of an item deposited in an account, to the extent to which credit given for the item has been withdrawn or applied;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In case of an item for which it has given credit available for withdrawal as of right, to the extent of the credit given, whether or not the credit is drawn upon or there is a right of charge-back; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If it makes an advance on or against the item.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If credit given for several items received at one time or pursuant to a single agreement is withdrawn or applied in part, the security interest remains upon all the items and any accompanying documents, or the proceeds of either. For the purpose of this section, credits first given are first withdrawn.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Receipt by a collecting bank of a final settlement for an item is a realization on its security interest in the item, accompanying documents, and proceeds. So long as the bank does not receive final settlement for the item or give up possession of the item or possession or control of the accompanying or associated documents for purposes other than collection, the security interest continues to that extent and is subject to chapter 679, but:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No security agreement is necessary to make the security interest enforceable (s. 679.2031(2)(c)1.);</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No filing is required to perfect the security interest; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The security interest has priority over conflicting perfected security interests in the item, accompanying documents, or proceeds.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 28, ch. 92-82; s. 16, ch. 2001-198; s. 17, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 4-208, U.C.C.; former s. 674.208.</Text>
+	</Note>
+</Section>

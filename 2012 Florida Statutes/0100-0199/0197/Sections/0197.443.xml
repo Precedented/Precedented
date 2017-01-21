@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.443" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Cancellation of tax certificates; correction of tax certificates.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The tax collector shall forward a certificate of error to the department and enter a memorandum of error upon the list of certificates sold for taxes if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The tax certificate evidencing the sale is void because the taxes on the property have been paid;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The property was not subject to taxation at the time of the assessment on which they were sold;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The description of the property in the tax certificate is void or has been corrected or amended;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An error of commission or omission has occurred which invalidates the sale;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The circuit court has voided the tax certificate by a suit to cancel the tax certificate by the holder;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The tax certificate is void for any other reason; or</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An error in assessed value has occurred for which the tax certificate may be corrected.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department, upon receipt of the certificate of error, if satisfied of the correctness of the certificate or upon receipt of a court order, shall notify the tax collector, who shall cancel or correct the certificate. A tax certificate correction or cancellation that has been ordered by a court and that does not result from a change made in the assessed value on a tax roll certified to the tax collector shall be made by the tax collector without order from the department.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The holder of a tax certificate who pays, redeems, or causes to be corrected or to be canceled and surrendered by any other tax certificates, or who pays any subsequent and omitted taxes or costs, in connection with the foreclosure of a tax certificate or tax deed that is void or corrected for any reason, is entitled to a refund of the amount paid together with interest calculated monthly from the date of payment through the date of issuance of the refund at the rate specified in s. 197.432(11).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The county officer or taxing or levying authority that causes an error that results in the voiding of a tax certificate shall be charged for the costs of advertising incurred in the sale of a new tax certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the owner of a tax certificate requests that the certificate be canceled for any reason, or that the amount of the certificate be amended as a result of payments received due to an intervening bankruptcy or receivership, but does not seek a refund, the tax collector shall cancel or amend the tax certificate and a refund shall not be processed. The tax collector shall require the owner of the tax certificate to execute a written statement that he or she is the holder of the tax certificate, that he or she wishes the certificate to be canceled or amended, and that a refund is not expected and is not to be made.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the tax certificate or a tax deed based upon the certificate is held by an individual, the collector shall notify the original purchaser of the certificate or tax deed or the subsequent holder, if known, that upon the voluntary surrender of the certificate or deed of release of any rights under the tax deed, a refund will be made of the amount received by the governmental units for the certificate or deed, plus $1 for the deed of release.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The refund shall be made in accordance with the procedure set forth in s. 197.182, except that the 4-year time period provided for in s. 197.182(1)(e) does not apply to or bar refunds resulting from correction or cancellation of certificates and release of tax deeds as authorized in this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 177, ch. 85-342; s. 10, ch. 90-343; s. 5, ch. 91-295; s. 1021, ch. 95-147; s. 11, ch. 98-139; s. 42, ch. 2011-151.</History>
+</Section>

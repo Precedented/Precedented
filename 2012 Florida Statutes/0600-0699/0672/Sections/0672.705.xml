@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0672.705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Seller’s stoppage of delivery in transit or otherwise.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The seller may stop delivery of goods in the possession of a carrier or other bailee when he or she discovers the buyer to be insolvent (s. 672.702) and may stop delivery of carload, truckload, planeload or larger shipments of express or freight when the buyer repudiates or fails to make a payment due before delivery or if for any other reason the seller has a right to withhold or reclaim the goods.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As against such buyer the seller may stop delivery until:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Receipt of the goods by the buyer; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Acknowledgment to the buyer by any bailee of the goods except a carrier that the bailee holds the goods for the buyer; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Such acknowledgment to the buyer by a carrier by reshipment or as a warehouse; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Negotiation to the buyer of any negotiable document of title covering the goods.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To stop delivery the seller shall so notify as to enable the bailee by reasonable diligence to prevent delivery of the goods.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">After such notification the bailee shall hold and deliver the goods according to the directions of the seller but the seller is liable to the bailee for any ensuing charges or damages.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a negotiable document of title has been issued for goods the bailee is not obliged to obey a notification to stop until surrender of possession or control of the document.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A carrier who has issued a nonnegotiable bill of lading is not obliged to obey a notification to stop received from a person other than the consignor.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 603, ch. 97-102; s. 15, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 2-705, U.C.C.; supersedes s. 678.51.</Text>
+	</Note>
+</Section>

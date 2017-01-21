@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0616.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Number of persons required; requisites of proposed charter.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Twenty-five or more persons who are residents and qualified electors of the county in which the annual public fair is to be located, who wish to form an association not for profit for the purpose of conducting and operating public fairs or expositions, may become incorporated in the following manner. The subscribers shall submit the proposed charter to the department for review and approval. If the proposed charter is approved, the subscribers shall sign and present the proposed charter to the judge of the circuit court for the county in which the principal office of the association will be located. The proposed charter must specify:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The name of the association and the place where the principal office is to be located. The name of the association shall include the word, “Inc.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The general nature of the objectives and powers of the association, including a provision that the association is incorporated for the sole purpose of conducting and operating public fairs or expositions.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The qualifications and terms of association members and criteria for their admission and expulsion. Provision may be made in the charter for ex officio membership.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The time for which the association is to exist.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The name and residence of each subscriber.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Procedures for the election of and governance by officers, who may be elected or appointed.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The designation of officers who will manage the affairs of the association until the first election or appointment under the charter.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Procedures for the adoption, amendment, or rescission of bylaws of the association.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The highest amount of indebtedness or liability that may be accrued by the association.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 7388, 1917; RGS 4517; CGL 6516; s. 1, ch. 57-796; s. 1, ch. 59-166; s. 2, ch. 81-318; ss. 4, 25, 26, ch. 83-239; ss. 2, 44, ch. 93-168; s. 2, ch. 2012-204.</History>
+</Section>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.340" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following terms, wherever used or referred to in this part, have the following meanings:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Agency” or “community redevelopment agency” means a public agency created by, or designated pursuant to, s. 163.356 or s. 163.357.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Public body” means the state or any county, municipality, authority, special district as defined in <Reference Number="1"/>s. 165.031(5), or other public body of the state, except a school district.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Governing body” means the council, commission, or other legislative body charged with governing the county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Mayor” means the mayor of a municipality or, for a county, the chair of the board of county commissioners or such other officer as may be constituted by law to act as the executive head of such municipality or county.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Clerk” means the clerk or other official of the county or municipality who is the custodian of the official records of such county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Federal Government” includes the United States or any agency or instrumentality, corporate or otherwise, of the United States.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Slum area” means an area having physical or economic conditions conducive to disease, infant mortality, juvenile delinquency, poverty, or crime because there is a predominance of buildings or improvements, whether residential or nonresidential, which are impaired by reason of dilapidation, deterioration, age, or obsolescence, and exhibiting one or more of the following factors:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Inadequate provision for ventilation, light, air, sanitation, or open spaces;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">High density of population, compared to the population density of adjacent areas within the county or municipality; and overcrowding, as indicated by government-maintained statistics or other studies and the requirements of the Florida Building Code; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The existence of conditions that endanger life or property by fire or other causes.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Blighted area” means an area in which there are a substantial number of deteriorated, or deteriorating structures, in which conditions, as indicated by government-maintained statistics or other studies, are leading to economic distress or endanger life or property, and in which two or more of the following factors are present:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Predominance of defective or inadequate street layout, parking facilities, roadways, bridges, or public transportation facilities;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Aggregate assessed values of real property in the area for ad valorem tax purposes have failed to show any appreciable increase over the 5 years prior to the finding of such conditions;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Faulty lot layout in relation to size, adequacy, accessibility, or usefulness;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Unsanitary or unsafe conditions;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Deterioration of site or other improvements;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Inadequate and outdated building density patterns;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Falling lease rates per square foot of office, commercial, or industrial space compared to the remainder of the county or municipality;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Tax or special assessment delinquency exceeding the fair value of the land;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Residential and commercial vacancy rates higher in the area than in the remainder of the county or municipality;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Incidence of crime in the area higher than in the remainder of the county or municipality;</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Fire and emergency medical service calls to the area proportionately higher than in the remainder of the county or municipality;</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">A greater number of violations of the Florida Building Code in the area than the number of violations recorded in the remainder of the county or municipality;</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Diversity of ownership or defective or unusual conditions of title which prevent the free alienability of land within the deteriorated or hazardous area; or</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Governmentally owned property with adverse environmental conditions caused by a public or private entity.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, the term “blighted area” also means any area in which at least one of the factors identified in paragraphs (a) through (n) are present and all taxing authorities subject to s. 163.387(2)(a) agree, either by interlocal agreement or agreements with the agency or by resolution, that the area is blighted. Such agreement or resolution shall only determine that the area is blighted. For purposes of qualifying for the tax credits authorized in chapter 220, “blighted area” means an area as defined in this subsection.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Community redevelopment” or “redevelopment” means undertakings, activities, or projects of a county, municipality, or community redevelopment agency in a community redevelopment area for the elimination and prevention of the development or spread of slums and blight, or for the reduction or prevention of crime, or for the provision of affordable housing, whether for rent or for sale, to residents of low or moderate income, including the elderly, and may include slum clearance and redevelopment in a community redevelopment area or rehabilitation and revitalization of coastal resort and tourist areas that are deteriorating and economically distressed, or rehabilitation or conservation in a community redevelopment area, or any combination or part thereof, in accordance with a community redevelopment plan and may include the preparation of such a plan.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Community redevelopment area” means a slum area, a blighted area, or an area in which there is a shortage of housing that is affordable to residents of low or moderate income, including the elderly, or a coastal and tourist area that is deteriorating and economically distressed due to outdated building density patterns, inadequate transportation and parking facilities, faulty lot layout or inadequate street layout, or a combination thereof which the governing body designates as appropriate for community redevelopment. For community redevelopment agencies created after July 1, 2006, a community redevelopment area may not consist of more than 80 percent of a municipality.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Community redevelopment plan” means a plan, as it exists from time to time, for a community redevelopment area.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Related activities” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Planning work for the preparation of a general neighborhood redevelopment plan or for the preparation or completion of a communitywide plan or program pursuant to s. 163.365.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The functions related to the acquisition and disposal of real property pursuant to s. 163.370(4).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The development of affordable housing for residents of the area.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The development of community policing innovations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Real property” means all lands, including improvements and fixtures thereon, and property of any nature appurtenant thereto or used in connection therewith and every estate, interest, right, and use, legal or equitable, therein, including but not limited to terms for years and liens by way of judgment, mortgage, or otherwise.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Bonds” means any bonds (including refunding bonds), notes, interim certificates, certificates of indebtedness, debentures, or other obligations.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Obligee” means and includes any bondholder, agents or trustees for any bondholders, or lessor demising to the county or municipality property used in connection with community redevelopment, or any assignee or assignees of such lessor’s interest or any part thereof, and the Federal Government when it is a party to any contract with the county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Person” means any individual, firm, partnership, corporation, company, association, joint stock association, or body politic and includes any trustee, receiver, assignee, or other person acting in a similar representative capacity.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Area of operation” means, for a county, the area within the boundaries of the county, and for a municipality, the area within the corporate limits of the municipality.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Housing authority” means a housing authority created by and established pursuant to chapter 421.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Board” or “commission” means a board, commission, department, division, office, body or other unit of the county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Public officer” means any officer who is in charge of any department or branch of the government of the county or municipality relating to health, fire, building regulations, or other activities concerning dwellings in the county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Debt service millage” means any millage levied pursuant to s. 12, Art. VII of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Increment revenue” means the amount calculated pursuant to s. 163.387(1).</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Community policing innovation” means a policing technique or strategy designed to reduce crime by reducing opportunities for, and increasing the perceived risks of engaging in, criminal activity through visible presence of police in the community, including, but not limited to, community mobilization, neighborhood block watch, citizen patrol, citizen contact patrol, foot patrol, neighborhood storefront police stations, field interrogation, or intensified motorized patrol.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Taxing authority” means a public body that levies or is authorized to levy an ad valorem tax on real property located in a community redevelopment area.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 69-305; s. 1, ch. 77-391; s. 1, ch. 81-44; s. 3, ch. 83-231; ss. 2, 22, ch. 84-356; s. 83, ch. 85-180; s. 72, ch. 87-243; s. 33, ch. 91-45; s. 1, ch. 93-286; s. 1, ch. 94-236; s. 1447, ch. 95-147; s. 2, ch. 98-201; s. 1, ch. 98-314; s. 2, ch. 2002-294; s. 7, ch. 2006-11; s. 1, ch. 2006-307.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Redesignated as s. 165.031(7) by s. 1, ch. 2012-121.</Text>
+	</Note>
+</Section>

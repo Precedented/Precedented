@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIII">
+	<ChapterNumber>501</ChapterNumber>
+	<ChapterName xml:space="preserve">Consumer protection</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0501.001" />
+		<Section Number="0501.005" />
+		<Section Number="0501.011" />
+		<Section Number="0501.0115" />
+		<Section Number="0501.0117" />
+		<Section Number="0501.0118" />
+		<Section Number="0501.012" />
+		<Section Number="0501.0125" />
+		<Section Number="0501.013" />
+		<Section Number="0501.014" />
+		<Section Number="0501.015" />
+		<Section Number="0501.016" />
+		<Section Number="0501.017" />
+		<Section Number="0501.018" />
+		<Section Number="0501.019" />
+		<Section Number="0501.021" />
+		<Section Number="0501.022" />
+		<Section Number="0501.025" />
+		<Section Number="0501.031" />
+		<Section Number="0501.035" />
+		<Section Number="0501.041" />
+		<Section Number="0501.045" />
+		<Section Number="0501.046" />
+		<Section Number="0501.047" />
+		<Section Number="0501.052" />
+		<Section Number="0501.053" />
+		<Section Number="0501.055" />
+		<Section Number="0501.057" />
+		<Section Number="0501.0571" />
+		<Section Number="0501.0573" />
+		<Section Number="0501.0575" />
+		<Section Number="0501.0577" />
+		<Section Number="0501.0579" />
+		<Section Number="0501.0581" />
+		<Section Number="0501.0583" />
+		<Section Number="0501.059" />
+		<Section Number="0501.122" />
+		<Section Number="0501.135" />
+		<Section Number="0501.137" />
+		<Section Number="0501.1375" />
+		<Section Number="0501.1377" />
+		<Section Number="0501.138" />
+		<Section Number="0501.141" />
+		<Section Number="0501.142" />
+		<Section Number="0501.143" />
+		<Section Number="0501.145" />
+		<Section Number="0501.160" />
+		<Section Number="0501.164" />
+		<Section Number="0501.165" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Deceptive and unfair<NewLine />trade practices</PartTitle>
+		<Section Number="0501.201" />
+		<Section Number="0501.202" />
+		<Section Number="0501.203" />
+		<Section Number="0501.204" />
+		<Section Number="0501.205" />
+		<Section Number="0501.206" />
+		<Section Number="0501.2065" />
+		<Section Number="0501.207" />
+		<Section Number="0501.2075" />
+		<Section Number="0501.2077" />
+		<Section Number="0501.2079" />
+		<Section Number="0501.208" />
+		<Section Number="0501.209" />
+		<Section Number="0501.2101" />
+		<Section Number="0501.2105" />
+		<Section Number="0501.211" />
+		<Section Number="0501.212" />
+		<Section Number="0501.213" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Aftermarket Crash Parts Act</PartTitle>
+		<Section Number="0501.30" />
+		<Section Number="0501.31" />
+		<Section Number="0501.32" />
+		<Section Number="0501.33" />
+		<Section Number="0501.34" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Florida Telemarketing Act</PartTitle>
+		<Section Number="0501.601" />
+		<Section Number="0501.602" />
+		<Section Number="0501.603" />
+		<Section Number="0501.604" />
+		<Section Number="0501.605" />
+		<Section Number="0501.606" />
+		<Section Number="0501.607" />
+		<Section Number="0501.608" />
+		<Section Number="0501.609" />
+		<Section Number="0501.611" />
+		<Section Number="0501.612" />
+		<Section Number="0501.613" />
+		<Section Number="0501.614" />
+		<Section Number="0501.615" />
+		<Section Number="0501.616" />
+		<Section Number="0501.617" />
+		<Section Number="0501.618" />
+		<Section Number="0501.619" />
+		<Section Number="0501.621" />
+		<Section Number="0501.622" />
+		<Section Number="0501.623" />
+		<Section Number="0501.624" />
+		<Section Number="0501.625" />
+		<Section Number="0501.626" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0501.91" />
+		<Section Number="0501.911" />
+		<Section Number="0501.912" />
+		<Section Number="0501.913" />
+		<Section Number="0501.914" />
+		<Section Number="0501.915" />
+		<Section Number="0501.916" />
+		<Section Number="0501.917" />
+		<Section Number="0501.918" />
+		<Section Number="0501.919" />
+		<Section Number="0501.92" />
+		<Section Number="0501.921" />
+		<Section Number="0501.922" />
+		<Section Number="0501.923" />
+		<Section Number="0501.925" />
+		<Section Number="0501.93" />
+		<Section Number="0501.937" />
+		<Section Number="0501.95" />
+		<Section Number="0501.97" />
+		<Section Number="0501.971" />
+		<Section Number="0501.972" />
+		<Section Number="0501.973" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Unfair or deceptive acts<NewLine />or practices; vehicles</PartTitle>
+		<Section Number="0501.975" />
+		<Section Number="0501.976" />
+	</Part>
+</Chapter>

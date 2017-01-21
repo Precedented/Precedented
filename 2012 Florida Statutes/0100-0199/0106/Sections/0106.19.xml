@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.19" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Violations by candidates, persons connected with campaigns, and political committees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any candidate; campaign manager, campaign treasurer, or deputy treasurer of any candidate; committee chair, vice chair, campaign treasurer, deputy treasurer, or other officer of any political committee; agent or person acting on behalf of any candidate or political committee; or other person who knowingly and willfully:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Accepts a contribution in excess of the limits prescribed by s. 106.08;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Fails to report any contribution required to be reported by this chapter;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Falsely reports or deliberately fails to include any information required by this chapter; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Makes or authorizes any expenditure in violation of s. 106.11(4) or any other expenditure prohibited by this chapter;</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any candidate, campaign treasurer, or deputy treasurer; any chair, vice chair, or other officer of any political committee; any agent or person acting on behalf of any candidate or political committee; or any other person who violates paragraph (1)(a), paragraph (1)(b), or paragraph (1)(d) shall be subject to a civil penalty equal to three times the amount involved in the illegal act. Such penalty may be in addition to the penalties provided by subsection (1) and shall be paid into the General Revenue Fund of this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A political committee sponsoring a constitutional amendment proposed by initiative which submits a petition form gathered by a paid petition circulator which does not provide the name and address of the paid petition circulator on the form is subject to the civil penalties prescribed in s. 106.265.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise expressly stated, the failure by a candidate to comply with the requirements of this chapter has no effect upon whether the candidate has qualified for the office the candidate is seeking.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 19, ch. 73-128; s. 57, ch. 77-175; s. 62, ch. 79-400; s. 12, ch. 91-107; s. 649, ch. 95-147; ss. 24, 45, ch. 97-13; s. 8, ch. 2002-197; s. 11, ch. 2006-300; s. 69, ch. 2011-40.</History>
+</Section>

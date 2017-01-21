@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.1896" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Jobs for the Unemployed Tax Credit Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Eligible business” means any target industry business as defined in s. 288.106(2) which is subject to the tax imposed by this chapter. The eligible business does not have to be certified to receive the Qualified Target Industry Tax Refund Incentive under s. 288.106 in order to receive the tax credit available under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Qualified employee” means a person:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Who was unemployed at least 30 days immediately before being hired by an eligible business.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Who was hired by an eligible business on or after July 1, 2010, and had not previously been employed by the eligible business or its parent or an affiliated corporation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Who performed duties connected to the operations of the eligible business on a regular, full-time basis for an average of at least 36 hours per week and for at least 12 months before an eligible business is awarded a tax credit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Whose employment by the eligible business has not formed the basis for any other claim to a credit pursuant to this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A certified business shall receive a $1,000 tax credit for each qualified employee, pursuant to limitation in subsection (5).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In order to become a certified business, an eligible business must file under oath with the Department of Economic Opportunity an application that includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name, address and NAICS identifying code of the eligible business.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Relevant employment information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A sworn affidavit, signed by each employee, attesting to his or her previous unemployment for whom the eligible business is seeking credits under this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Verification that the wages paid by the eligible business to each of its qualified employees exceeds the wage eligibility levels for Medicaid and other public assistance programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any other information necessary to process the application.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity shall process applications to certify a business in the order in which the applications are received, without regard as to whether the applicant is a new or an existing business. The Department of Economic Opportunity shall review and approve or deny an application within 10 days after receiving a completed application. The Department of Economic Opportunity shall notify the applicant in writing as to the department’s decision.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity shall submit a copy of the letter of certification to the Department of Revenue within 10 days after the Department of Economic Opportunity issues the letter of certification to the applicant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the application of an eligible business is not sufficient to certify the applicant business, the Department of Economic Opportunity must deny the application and issue a notice of denial to the applicant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the application of an eligible business does not contain sufficient documentation of the number of qualified employees, the Department of Economic Opportunity shall approve the application with respect to the employees for whom the Department of Economic Opportunity determines are qualified employees. The Department of Economic Opportunity must deny the application with respect to persons for whom the Department of Economic Opportunity determines are not qualified employees or for whom insufficient documentation has been provided. A business may not submit a revised application for certification or for the determination of a person as a qualified employee more than 3 months after the issuance of a notice of denial with respect to the business or a particular person as a qualified employee.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The applicant for a tax credit under this section has the responsibility to affirmatively demonstrate to the satisfaction of the Department of Economic Opportunity and the Department of Revenue that the applicant and the persons claimed as qualified employees meet the requirements of this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The total amount of tax credits under this section which may be approved by the Department of Economic Opportunity for all applicants is $10 million, with $5 million available to be awarded in the 2011-2012 fiscal year and $5 million available to be awarded in the 2012-2013 fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A tax credit amount that is granted under this section which is not fully used in the first year for which it becomes available may be carried forward to the subsequent taxable year. The carryover credit may be used in the subsequent year if the tax imposed by this chapter for such year exceeds the credit for such year under this section after applying the other credits and unused credit carryovers in the order provided in s. 220.02(8).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A person who fraudulently claims a credit under this section is liable for repayment of the credit plus a mandatory penalty of 100 percent of the credit. Such person also commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity may adopt rules governing the manner and form of applications for the tax credit. The Department of Economic Opportunity may establish guidelines for making an affirmative showing of qualification for the tax credit under this section.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The Department of Revenue may adopt rules to administer this section, including rules relating to the creation of forms to claim a tax credit and examination and audit procedures required to administer this section.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">This section expires June 30, 2012. However, a taxpayer that is awarded a tax credit in the second year of the program may carry forward any unused credit amount to the subsequent tax reporting period. Rules adopted by the Department of Revenue to administer this section shall remain valid as long as a taxpayer may use a credit against its corporate income tax liability.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2010-147; s. 93, ch. 2011-142.</History>
+</Section>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.00315" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public health advisories; public health emergencies; quarantines.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The State Health Officer is responsible for declaring public health emergencies and quarantines and issuing public health advisories.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Public health advisory” means any warning or report giving information to the public about a potential public health threat. Prior to issuing any public health advisory, the State Health Officer must consult with any state or local agency regarding areas of responsibility which may be affected by such advisory. Upon determining that issuing a public health advisory is necessary to protect the public health and safety, and prior to issuing the advisory, the State Health Officer must notify each county health department within the area which is affected by the advisory of the State Health Officer’s intent to issue the advisory. The State Health Officer is authorized to take any action appropriate to enforce any public health advisory.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Public health emergency” means any occurrence, or threat thereof, whether natural or man made, which results or may result in substantial injury or harm to the public health from infectious disease, chemical agents, nuclear agents, biological toxins, or situations involving mass casualties or natural disasters. Prior to declaring a public health emergency, the State Health Officer shall, to the extent possible, consult with the Governor and shall notify the Chief of Domestic Security. The declaration of a public health emergency shall continue until the State Health Officer finds that the threat or danger has been dealt with to the extent that the emergency conditions no longer exist and he or she terminates the declaration. However, a declaration of a public health emergency may not continue for longer than 60 days unless the Governor concurs in the renewal of the declaration. The State Health Officer, upon declaration of a public health emergency, may take actions that are necessary to protect the public health. Such actions include, but are not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Directing manufacturers of prescription drugs or over-the-counter drugs who are permitted under chapter 499 and wholesalers of prescription drugs located in this state who are permitted under chapter 499 to give priority to the shipping of specified drugs to pharmacies and health care providers within geographic areas that have been identified by the State Health Officer. The State Health Officer must identify the drugs to be shipped. Manufacturers and wholesalers located in the state must respond to the State Health Officer’s priority shipping directive before shipping the specified drugs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding chapters 465 and 499 and rules adopted thereunder, directing pharmacists employed by the department to compound bulk prescription drugs and provide these bulk prescription drugs to physicians and nurses of county health departments or any qualified person authorized by the State Health Officer for administration to persons as part of a prophylactic or treatment regimen.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding s. 456.036, temporarily reactivating the inactive license of the following health care practitioners, when such practitioners are needed to respond to the public health emergency: physicians licensed under chapter 458 or chapter 459; physician assistants licensed under chapter 458 or chapter 459; licensed practical nurses, registered nurses, and advanced registered nurse practitioners licensed under part I of chapter 464; respiratory therapists licensed under part V of chapter 468; and emergency medical technicians and paramedics certified under part III of chapter 401. Only those health care practitioners specified in this paragraph who possess an unencumbered inactive license and who request that such license be reactivated are eligible for reactivation. An inactive license that is reactivated under this paragraph shall return to inactive status when the public health emergency ends or prior to the end of the public health emergency if the State Health Officer determines that the health care practitioner is no longer needed to provide services during the public health emergency. Such licenses may only be reactivated for a period not to exceed 90 days without meeting the requirements of s. 456.036 or chapter 401, as applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Ordering an individual to be examined, tested, vaccinated, treated, or quarantined for communicable diseases that have significant morbidity or mortality and present a severe danger to public health. Individuals who are unable or unwilling to be examined, tested, vaccinated, or treated for reasons of health, religion, or conscience may be subjected to quarantine.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Examination, testing, vaccination, or treatment may be performed by any qualified person authorized by the State Health Officer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If the individual poses a danger to the public health, the State Health Officer may subject the individual to quarantine. If there is no practical method to quarantine the individual, the State Health Officer may use any means necessary to vaccinate or treat the individual.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">Any order of the State Health Officer given to effectuate this paragraph shall be immediately enforceable by a law enforcement officer under s. 381.0012.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Individuals who assist the State Health Officer at his or her request on a volunteer basis during a public health emergency are entitled to the benefits specified in s. 110.504(2), (3), (4), and (5).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">To facilitate effective emergency management, when the United States Department of Health and Human Services contracts for the manufacture and delivery of licensable products in response to a public health emergency and the terms of those contracts are made available to the states, the department shall accept funds provided by counties, municipalities, and other entities designated in the state emergency management plan required under s. 252.35(2)(a) for the purpose of participation in those contracts. The department shall deposit those funds in the Grants and Donations Trust Fund and expend those funds on behalf of the donor county, municipality, or other entity for the purchase of the licensable products made available under the contract.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department has the duty and the authority to declare, enforce, modify, and abolish quarantines of persons, animals, and premises as the circumstances indicate for controlling communicable diseases or providing protection from unsafe conditions that pose a threat to public health, except as provided in ss. 384.28 and 392.545-392.60.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules to specify the conditions and procedures for imposing and releasing a quarantine. The rules must include provisions related to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The closure of premises.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The movement of persons or animals exposed to or infected with a communicable disease.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The tests or treatment, including vaccination, for communicable disease required prior to employment or admission to the premises or to comply with a quarantine.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Testing or destruction of animals with or suspected of having a disease transmissible to humans.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Access by the department to quarantined premises.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The disinfection of quarantined animals, persons, or premises.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Methods of quarantine.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The rules adopted under this section and actions taken by the department pursuant to a declared public health emergency or quarantine shall supersede all rules enacted by other state departments, boards or commissions, and ordinances and regulations enacted by political subdivisions of the state. Any person who violates any rule adopted under this section, any quarantine, or any requirement adopted by the department pursuant to a declared public health emergency, commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 96-403; s. 63, ch. 97-100; s. 2, ch. 2002-269; s. 6, ch. 2005-165; s. 35, ch. 2010-161; s. 16, ch. 2012-184.</History>
+</Section>

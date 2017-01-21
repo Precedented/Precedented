@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0497.172" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public records exemptions; public meetings exemptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">EXAMINATION DEVELOPMENT MEETINGS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Those portions of meetings of the board at which licensure examination questions or answers under this chapter are discussed are exempt from s. 286.011 and s. 24(b), Art. I of the State Constitution. The closed meeting must be recorded, and no portion of the closed meeting may be off the record. The recording shall be maintained by the board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The recording of a closed portion of a meeting is exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection is subject to the Open Government Sunset Review Act in accordance with s. 119.15 and shall stand repealed on October 2, 2015, unless reviewed and saved from repeal through reenactment by the Legislature.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PROBABLE CAUSE PANEL.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Meetings of the probable cause panel of the board, pursuant to s. 497.153, are exempt from s. 286.011 and s. 24(b), Art. I of the State Constitution. The entire closed meeting must be recorded, and no portion of the closed meeting may be off the record. The recording shall be maintained by the board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Records of exempt meetings of the probable cause panel of the board are exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution, until 10 days after a determination regarding probable cause is made pursuant to s. 497.153.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">EXAMINATIONS, INSPECTIONS, AND INVESTIGATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, information held by the department pursuant to a financial examination conducted under this chapter is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution, until the examination is completed or ceases to be active.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, information held by the department pursuant to an inspection conducted under this chapter is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution, until the inspection is completed or ceases to be active.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, information held by the department pursuant to an investigation of a violation of this chapter is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution, until the investigation is completed or ceases to be active or until 10 days after a determination regarding probable cause is made pursuant to s. 497.153.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Information made confidential and exempt pursuant to this subsection may be disclosed by the department as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To the probable cause panel of the board, for the purpose of probable cause proceedings pursuant to s. 497.153.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To any law enforcement agency or other government agency in the performance of its official duties and responsibilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the department uncovers information of immediate and serious concern to the public health, safety, or welfare, it may disseminate such information as it deems necessary for the public health, safety, or welfare.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Information made confidential and exempt pursuant to this subsection shall remain confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution after the examination, inspection, or investigation is completed or ceases to be active if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The department submits the information to any law enforcement agency or other administrative agency for further examination or investigation. The information shall remain confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution until that agency’s examination or investigation is completed or ceases to be active.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Disclosure of the information would:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Jeopardize the integrity of another active investigation or examination;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Reveal the identity of a confidential source; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Reveal investigative or examination techniques or procedures.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, an examination, inspection, or investigation shall be considered active so long as the examination, inspection, or investigation is proceeding with reasonable dispatch and the department has a reasonable good faith belief that the examination, inspection, or investigation may lead to the filing of an administrative, civil, or criminal proceeding or to the denial or conditional grant of an application for license or other approval required under this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TRADE SECRETS.<EmDash />Trade secrets, as defined in s. 688.002, held by the department or board, are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2005-162; s. 134, ch. 2008-4; s. 1, ch. 2010-76.</History>
+</Section>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.686" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Shared county and state responsibility for juvenile detention.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the policy of this state that the state and the counties have a joint obligation, as provided in this section, to contribute to the financial support of the detention care provided for juveniles.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Detention care” means secure detention and respite beds for juveniles charged with a domestic violence crime.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Fiscally constrained county” means a county within a rural area of critical economic concern as designated by the Governor pursuant to s. 288.0656 or each county for which the value of a mill will raise no more than $5 million in revenue, based on the certified school taxable value certified pursuant to s. 1011.62(4)(a)1.a., from the previous July 1.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each county shall pay the costs of providing detention care, exclusive of the costs of any preadjudicatory nonmedical educational or therapeutic services and $2.5 million provided for additional medical and mental health care at the detention centers, for juveniles for the period of time prior to final court disposition. The department shall develop an accounts payable system to allocate costs that are payable by the counties.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (3), the state shall pay all costs of detention care for juveniles for which a fiscally constrained county would otherwise be billed.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By October 1, 2004, the department shall develop a methodology for determining the amount of each fiscally constrained county’s costs of detention care for juveniles, for the period of time prior to final court disposition, which must be paid by the state. At a minimum, this methodology must consider the difference between the amount appropriated to the department for offsetting the costs associated with the assignment of juvenile pretrial detention expenses to the fiscally constrained county and the total estimated costs to the fiscally constrained county, for the fiscal year, of detention care for juveniles for the period of time prior to final court disposition.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Subject to legislative appropriation and based on the methodology developed under paragraph (a), the department shall provide funding to offset the costs to fiscally constrained counties of detention care for juveniles for the period of time prior to final court disposition. If county matching funds are required by the department to eliminate the difference calculated under paragraph (a) or the difference between the actual costs of the fiscally constrained counties and the amount appropriated in small county grants for use in mitigating such costs, that match amount must be allocated proportionately among all fiscally constrained counties.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each county shall incorporate into its annual county budget sufficient funds to pay its costs of detention care for juveniles who reside in that county for the period of time prior to final court disposition. This amount shall be based upon the prior use of secure detention for juveniles who are residents of that county, as calculated by the department. Each county shall pay the estimated costs at the beginning of each month. Any difference between the estimated costs and actual costs shall be reconciled at the end of the state fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Each county shall pay to the department for deposit into the Shared County/State Juvenile Detention Trust Fund its share of the county’s total costs for juvenile detention, based upon calculations published by the department with input from the counties.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Department of Juvenile Justice shall determine each quarter whether the counties of this state are remitting to the department their share of the costs of detention as required by this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Department of Revenue and the counties shall provide technical assistance as necessary to the Department of Juvenile Justice in order to develop the most cost-effective means of collection.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Funds received from counties pursuant to this section are not subject to the service charges provided in s. 215.20.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any county that provides detention care for preadjudicated juveniles or that contracts with another county to provide detention care for preadjudicated juveniles.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-263; ss. 1, 2, ch. 2004-473; s. 3, ch. 2006-62; s. 95, ch. 2006-120; s. 4, ch. 2006-229; s. 11, ch. 2007-73; s. 3, ch. 2008-8; s. 54, ch. 2010-117; s. 1, ch. 2011-53; s. 1, ch. 2012-137.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 985.2155.</Text>
+	</Note>
+</Section>

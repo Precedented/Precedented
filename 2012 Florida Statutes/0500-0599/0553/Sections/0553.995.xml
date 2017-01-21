@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0553.995" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Energy-efficiency ratings for buildings.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The energy-efficiency rating system shall at a minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide a uniform rating scale of the efficiency of buildings based on annual energy usage.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Take into account local climate conditions, construction practices, and building use.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Be compatible with standard federal rating systems and state building codes and standards, where applicable, and shall satisfy the requirements of s. 553.9085 with respect to residential buildings and s. 255.256 with respect to state buildings.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The energy-efficiency rating system adopted by the department shall provide a means of analyzing and comparing the relative energy efficiency of buildings upon the sale of new or existing residential, public, or commercial buildings.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall establish a voluntary working group of persons interested in the energy-efficiency rating system or energy efficiency, including, but not limited to, such persons as electrical engineers, mechanical engineers, architects, public utilities, and builders. The interest group shall advise the department in the development of the energy-efficiency rating system and shall assist the department in the implementation of the rating system by coordinating educational programs for designers, builders, businesses, and other interested persons to assist compliance and to facilitate incorporation of the rating system into existing practices.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall develop a training and certification program to certify raters. In addition to the department, ratings may be conducted by any local government or private entity, provided that the appropriate persons have completed the necessary training and have been certified by the department. The Department of Management Services shall rate state-owned or state-leased buildings, provided that the appropriate persons have completed the necessary training and have been certified by the Department of Business and Professional Regulation. A state agency which has building construction regulation authority may rate its own buildings and those it is responsible for, if the appropriate persons have completed the necessary training and have been certified by the Department of Business and Professional Regulation. The Department of Business and Professional Regulation may charge a fee not to exceed the costs for the training and certification of raters. The department shall by rule set the appropriate charges for raters to charge for energy ratings, not to exceed the actual costs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 93-249; s. 424, ch. 2011-142.</History>
+</Section>

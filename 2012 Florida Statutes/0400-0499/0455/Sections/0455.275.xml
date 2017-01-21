@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0455.275" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Address of record.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each licensee of the department is solely responsible for notifying the department in writing of the licensee’s current mailing address, e-mail address, and place of practice, as defined by rule of the board or the department when there is no board. A licensee’s failure to notify the department of a change of address constitutes a violation of this section, and the licensee may be disciplined by the board or the department when there is no board.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of law, service by regular mail or e-mail to a licensee’s last known mailing address or e-mail address of record with the department constitutes adequate and sufficient notice to the licensee for any official communication to the licensee by the board or the department except when other service is required pursuant to s. 455.225.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of law, when an administrative complaint is served on a licensee of the department, the department shall provide service by regular mail to the licensee’s last known address of record, by certified mail to the last known address of record, and, if possible, by e-mail.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">If service, as provided in paragraph (a), does not provide the department with proof of service, the department shall call the last known telephone number of record and cause a short, plain notice to the licensee to be posted on the front page of the department’s website and shall send notice via e-mail to all newspapers of general circulation and all news departments of broadcast network affiliates in the county of the licensee’s last known address of record.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 94-119; s. 14, ch. 2010-106; s. 7, ch. 2012-72; s. 15, ch. 2012-212.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 21, ch. 2012-212, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect July 1, 2012, and shall apply to legal notices that must be published on or after that date.”</Text>
+	</Note>
+</Section>

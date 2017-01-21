@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.703" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this act, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Agency” means the Agency for Health Care Administration.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Community diversion” means a strategy that places participants in the most appropriate care settings and provides comprehensive home and community-based services of sufficient quantity, type, and duration to prevent or delay the need for long-term placement in a nursing facility.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Community diversion pilot project” means any pilot service delivery system that places participants in the most appropriate care settings and provides comprehensive home and community-based services of sufficient quantity, type, and duration to prevent or delay the need for long-term placement in a nursing facility.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Community diversion pilot project area” means a geographic area selected by the department where the department will conduct a community diversion pilot project.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Elderly Affairs.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Managed care organization” means an entity that meets the requirements of the Office of Insurance Regulation of the Financial Services Commission for operation as a health maintenance organization and meets the qualifications for participation as a managed care organization established by the agency and the office.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Other qualified provider” means an entity licensed under chapter 400 or chapter 429 that demonstrates a long-term care continuum and meets all requirements pursuant to an interagency agreement between the agency and the department.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Participant” means an individual enrolled in a community diversion pilot project.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 97-87; s. 23, ch. 2000-163; s. 465, ch. 2003-261; s. 10, ch. 2004-386; s. 88, ch. 2006-197; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+</Section>

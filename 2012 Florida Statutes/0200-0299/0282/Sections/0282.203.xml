@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Primary data centers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DATA CENTER DUTIES.<EmDash />Each primary data center shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Serve customer entities as an information-system utility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Cooperate with customer entities to offer, develop, and support the services and applications as defined and provided by the center’s board of trustees and customer entities.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Comply with rules adopted by the Agency for Enterprise Information Technology, pursuant to this section, and coordinate with the agency in the consolidation of data centers.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide to each agency head by September 1 of the fiscal year before the fiscal year in which the agency’s consolidation is scheduled to occur the projected costs to provide data center services. Each agency head shall use the projected cost for inclusion in his or her respective legislative budget request for budget adjustments necessary to fund the agency’s data center services.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide transparent financial statements to customer entities and the Agency for Enterprise Information Technology. The financial statements shall be provided as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Annually, by July 30 for the current fiscal year and by December 1 for the subsequent fiscal year, the data center must provide the total annual budgeted costs by major expenditure category, including, but not limited to, salaries, expense, operating capital outlay, contracted services, or other personnel services, which directly relate to the provision of each service and which separately indicate the administrative overhead allocated to each service.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Annually, by July 30 for the current fiscal year and by December 1 for the subsequent fiscal year, the data center must provide total projected billings for each customer entity which are required to recover the costs of the data center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Annually, by January 31, the data center must provide updates of the financial statements required under subparagraphs 1. and 2. for the current fiscal year.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The financial information required under subparagraphs 1., 2., and 3. must be based on current law and current appropriations.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Annually, by October 1, submit to the board of trustees cost-reduction proposals, including strategies and timetables for lowering customer entities’ costs without reducing the level of services.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Maintain the performance of the facility, which includes ensuring proper data backup, data backup recovery, an effective disaster recovery plan, and appropriate security, power, cooling and fire suppression, and capacity.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Develop a business continuity plan and conduct a live exercise of the plan at least annually. The plan must be approved by the board and the Agency for Enterprise Information Technology.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Enter into a service-level agreement with each customer entity to provide services as defined and approved by the board. A service-level agreement may not have a term exceeding 3 years but may include an option to renew for up to 3 years contingent on approval by the board.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A service-level agreement, at a minimum, must:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Identify the parties and their roles, duties, and responsibilities under the agreement.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Identify the legal authority under which the service-level agreement was negotiated and entered into by the parties.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">State the duration of the contractual term and specify the conditions for contract renewal.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Prohibit the transfer of computing services between primary data center facilities without at least 180 days’ notice of service cancellation.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Identify the scope of work.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Identify the products or services to be delivered with sufficient specificity to permit an external financial or performance audit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Establish the services to be provided, the business standards that must be met for each service, the cost of each service, and the process by which the business standards for each service are to be objectively measured and reported.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Identify applicable funds and funding streams for the services or products under contract.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Provide a timely billing methodology for recovering the cost of services provided to the customer entity.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Provide a procedure for modifying the service-level agreement to address changes in projected costs of service.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="k">
+						<Text xml:space="preserve" Style="Intro">Provide that a service-level agreement may be terminated by either party for cause only after giving the other party and the Agency for Enterprise Information Technology notice in writing of the cause for termination and an opportunity for the other party to resolve the identified cause within a reasonable period.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="l">
+						<Text xml:space="preserve" Style="Intro">Provide for mediation of disputes by the Division of Administrative Hearings pursuant to s. 120.573.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A service-level agreement may include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A dispute resolution mechanism, including alternatives to administrative or judicial proceedings;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The setting of a surety or performance bond for service-level agreements entered into with agency primary data centers established by law; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Additional terms and conditions as determined advisable by the parties if such additional terms and conditions do not conflict with the requirements of this section or rules adopted by the Agency for Enterprise Information Technology.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The failure to execute a service-level agreement within 60 days after service commencement shall, in the case of an existing customer entity, result in a continuation of the terms of the service-level agreement from the prior fiscal year, including any amendments that were formally proposed to the customer entity by the primary data center within the 3 months before service commencement, and a revised cost-of-service estimate. If a new customer entity fails to execute an agreement within 60 days after service commencement, the data center may cease services.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Plan, design, establish pilot projects for, and conduct experiments with information technology resources, and implement enhancements in services if such implementation is cost-effective and approved by the board.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Enter into a memorandum of understanding with the agency where the data center is administratively located if the data center requires the agency to provide any administrative services to the data center and the cost of such services. Any administrative overhead costs charged shall require a specific appropriation in the General Appropriation Act.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Be the custodian of resources and equipment that are located, operated, supported, and managed by the center for the purposes of chapter 273.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Assume administrative access rights to the resources and equipment, such as servers, network components, and other devices that are consolidated into the primary data center.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon the date of each consolidation specified in s. 282.201, the General Appropriations Act, or the Laws of Florida, each agency shall relinquish all administrative access rights to such resources and equipment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each primary data center shall provide its customer agencies with the appropriate level of access to applications, servers, network components, and other devices necessary for agencies to perform their core business activities and functions.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">BOARD OF TRUSTEES.<EmDash />Each primary data center shall be headed by a board of trustees as defined in s. 20.03.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The members of the board shall be appointed by the agency head or chief executive officer of the representative customer entities of the primary data center and serve at the pleasure of the appointing customer entity. Each agency head or chief executive officer may appoint an alternate member for each board member appointed pursuant to this subsection.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">During the first fiscal year that a state agency is to consolidate its data center operations to a primary data center and for the following full fiscal year, the agency shall have a single trustee having one vote on the board of the state primary data center where it is to consolidate, unless it is entitled in the second year to a greater number of votes as provided in subparagraph 3.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Board membership shall be as provided in subparagraph 3. based on the most recent estimate of customer entity usage rates for the prior year and a projection of usage rates for the first 9 months of the next fiscal year. Such calculation must be completed before the annual budget meeting held before the beginning of the next fiscal year so that any decision to add or remove board members can be voted on at the budget meeting and become effective on July 1 of the subsequent fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Each customer entity that has a projected usage rate of 4 percent or greater during the fiscal operating year of the primary data center shall have one trustee on the board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The total number of votes for each trustee shall be apportioned as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Customer entities of a primary data center whose usage rate represents 4 but less than 15 percent of total usage shall have one vote.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Customer entities of a primary data center whose usage rate represents 15 but less than 30 percent of total usage shall have two votes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Customer entities of a primary data center whose usage rate represents 30 but less than 50 percent of total usage shall have three votes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A customer entity of a primary data center whose usage rate represents 50 percent or more of total usage shall have four votes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A single trustee having one vote shall represent those customer entities that represent less than 4 percent of the total usage. The trustee shall be selected by a process determined by the board.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Before July 1 of each year, each board of trustees of a primary data center shall elect a chair and a vice chair to a term of 1 year or until a successor is elected. The vice chair shall serve in the absence of the chair. The chair may be elected to serve one additional successive term.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Members of the board representing customer entities who fail to timely pay for data center services do not have voting rights.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A majority of the members constitutes a quorum. The board shall take action by a majority vote of the members if a quorum is present. If there is a tie, the chair shall be on the prevailing side.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The executive director of the Agency for Enterprise Information Technology shall be the advisor to the board.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To facilitate planned data center consolidations, board membership may be adjusted as provided in the General Appropriations Act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">BOARD DUTIES.<EmDash />Each board of trustees of a primary data center shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Employ an executive director, pursuant to s. 20.05, who serves at the pleasure of the board. The executive director is responsible for the daily operation of the primary data center, ensuring compliance with all laws and rules regulating the primary data center, managing primary data center employees, and the performance of the primary data center. The board shall establish an annual performance evaluation process for the executive director. The appointment of the executive director must be reconfirmed by the board biennially.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Establish procedures for the primary data center to ensure that budgeting and accounting procedures, cost-recovery methodologies, and operating procedures are in compliance with laws governing the state data center system, rules adopted by the Agency for Enterprise Information Technology, and applicable federal regulations, including 2 C.F.R. part 225 and 45 C.F.R.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Monitor the operation of the primary data center to ensure compliance by the executive director and employees with laws and rules governing the primary data center, and ensure that staff members are accountable for the performance of the primary data center.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide each customer entity with full disclosure concerning plans for new, additional, or reduced service requirements, including expected achievable service levels and performance metrics.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Ensure the sufficiency and transparency of the primary data center financial information by:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Establishing policies that ensure that cost-recovery methodologies, billings, receivables, expenditure, budgeting, and accounting data are captured and reported timely, consistently, accurately, and transparently and, upon adoption of rules by the Agency for Enterprise Information Technology, are in compliance with such rules.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Requiring execution of service-level agreements by the data center and each customer entity for services provided by the data center to the customer entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Requiring cost recovery for the full cost of services, including direct and indirect costs. The cost-recovery methodology must ensure that no service is subsidizing another service without an affirmative vote of approval by the customer entity providing the subsidy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Establishing special assessments to fund expansions based on a methodology that apportions the assessment according to the proportional benefit to each customer entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Providing rebates to customer entities when revenues exceed costs and offsetting charges to those who have subsidized other customer entity costs based on actual prior year final expenditures. Rebates may be credited against future billings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Approving all expenditures committing over $50,000 in a fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Projecting costs and revenues at the beginning of the third quarter of each fiscal year through the end of the fiscal year. If in any given fiscal year the primary data center is projected to earn revenues that are below costs for that fiscal year after first reducing operating costs where possible, the board shall implement any combination of the following remedies to cover the shortfall:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The board may direct the primary data center to adjust current year chargeback rates through the end of the fiscal year to cover the shortfall. The rate adjustments shall be implemented using actual usage rate and billing data from the first three quarters of the fiscal year and the same principles used to set rates for the fiscal year.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The board may direct the primary data center to levy one-time charges on all customer entities to cover the shortfall. The one-time charges shall be implemented using actual usage rate and billing data from the first three quarters of the fiscal year and the same principles used to set rates for the fiscal year.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The customer entities represented by each board member may provide payments to cover the shortfall in proportion to the amounts each entity paid in the prior fiscal year.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Providing a plan for consideration by the Legislative Budget Commission if a billing rate schedule is used after the start of the fiscal year which increases any agency’s costs for that fiscal year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Meet as often as necessary, but not less than once per quarter, and hold the annual budget meeting between April 1 and June 30 of each year.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Approve the portfolio of services offered by the data center.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">By July 1 of each year, submit to the Agency for Enterprise Information Technology proposed cost-recovery mechanisms and rate structures for all customer entities for the fiscal year including the cost-allocation methodology for administrative expenditures and the calculation of administrative expenditures as a percent of total costs.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Consider energy-efficient products and their total cost of ownership when replacing, upgrading, or expanding:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Data center facilities, including, but not limited to, environmental, power, and control systems; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Data center network, storage, and computer equipment. If the total cost of ownership, including initial acquisition cost, is estimated to be equal to or lower than existing infrastructure, technical specifications for energy-efficient products should be incorporated into the replacement, upgrade, or expansion planning and acquisition process.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Maintain the capabilities of the primary data center’s facilities. Maintenance responsibilities include, but are not limited to, ensuring that adequate conditioned floor space, fire suppression, cooling, and power is in place; replacing aging equipment when necessary; and making decisions related to data center expansion and renovation, periodic upgrades, and improvements that are required to ensure the ongoing suitability of the facility as an enterprise data center consolidation site in the state data center system. To the extent possible, the board shall ensure that its approved annual cost-allocation plan recovers sufficient funds from its customers to provide for these needs.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Coordinate with other primary data centers and the Agency for Enterprise Information Technology in order to consolidate purchases of goods and services and lower the cost of providing services to customer entities.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Contract with other primary data centers for the provision of administrative services or with the agency within which the primary data center is housed, whichever is most cost-effective. Any administrative overhead costs require a specific appropriation in the General Appropriations Act.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2008-116; s. 9, ch. 2009-80; s. 3, ch. 2010-148; s. 6, ch. 2011-50; s. 2, ch. 2012-142.</History>
+</Section>

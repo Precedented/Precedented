@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0063.088" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Proceeding to terminate parental rights pending adoption; notice and service; diligent search.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">NOTICE REQUIRED.<EmDash />An unmarried biological father, by virtue of the fact that he has engaged in a sexual relationship with a woman, is deemed to be on notice that a pregnancy and an adoption proceeding regarding that child may occur and that he has a duty to protect his own rights and interest. He is, therefore, entitled to notice of a birth or adoption proceeding with regard to that child only as provided in this chapter. If a mother fails to identify an unmarried biological father to the adoption entity by the date she signs her consent for adoption, the unmarried biological father’s claim that he did not receive actual notice of the adoption proceeding is not a defense to the termination of his parental rights.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">INITIATE LOCATION PROCEDURES.<EmDash />When the location of a person whose consent to an adoption is required but is not known, the adoption entity must begin the inquiry and diligent search process required by this section within a reasonable time period after the date on which the person seeking to place a minor for adoption has evidenced in writing to the adoption entity a desire to place the minor for adoption with that entity, or not later than 30 days after the date any money is provided as permitted under this chapter by the adoption entity for the benefit of the person seeking to place a minor for adoption.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">LOCATION AND IDENTITY KNOWN.<EmDash />Before the court may determine that a minor is available for adoption, each person whose consent is required under s. 63.062, who has not executed a consent for adoption or an affidavit of nonpaternity, and whose location and identity have been determined by compliance with the procedures in this section must be personally served, pursuant to chapter 48, at least 20 days before the hearing with a copy of the petition to terminate parental rights pending adoption and with notice in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF PETITION AND HEARING<NewLine />TO TERMINATE PARENTAL RIGHTS<NewLine />PENDING ADOPTION</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">A petition to terminate parental rights pending adoption has been filed. A copy of the petition is being served with this notice. There will be a hearing on the petition to terminate parental rights pending adoption on <Directions xml:space="preserve">(date)</Directions> at <Directions xml:space="preserve">(time)</Directions> before <Directions xml:space="preserve">(judge)</Directions> at <Directions xml:space="preserve">(location, including complete name and street address of the courthouse)</Directions>. The court has set aside <Directions xml:space="preserve">(amount of time)</Directions> for this hearing.</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">UNDER SECTION 63.089, FLORIDA STATUTES, FAILURE TO TIMELY FILE A WRITTEN RESPONSE TO THIS NOTICE AND THE PETITION WITH THE COURT AND TO APPEAR AT THIS HEARING CONSTITUTES GROUNDS UPON WHICH THE COURT SHALL END ANY PARENTAL RIGHTS YOU MAY HAVE OR ASSERT REGARDING THE MINOR CHILD.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">REQUIRED INQUIRY.<EmDash />In proceedings initiated under s. 63.087, the court shall conduct an inquiry of the person who is placing the minor for adoption and of any relative or person having legal custody of the minor who is present at the hearing and likely to have the following information regarding the identity of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any man to whom the mother of the minor was married at any time when conception of the minor may have occurred or at the time of the birth of the minor;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any man who has filed an affidavit of paternity pursuant to s. 382.013(2)(c) before the date that a petition for termination of parental rights is filed with the court;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any man who has adopted the minor;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any man who has been adjudicated by a court as the father of the minor child before the date a petition for termination of parental rights is filed with the court; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any man whom the mother identified to the adoption entity as a potential biological father before the date she signed the consent for adoption.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The information sought under this subsection may be provided to the court in the form of a sworn affidavit by a person having personal knowledge of the facts, addressing each inquiry enumerated in this subsection, except that, if the inquiry identifies a father under paragraph (a), paragraph (b), paragraph (c), or paragraph (d), the inquiry may not continue further. The inquiry required under this subsection may be conducted before the birth of the minor.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">LOCATION UNKNOWN; IDENTITY KNOWN.<EmDash />If the inquiry by the court under subsection (4) identifies any person who has not executed a consent to adoption or an affidavit of nonpaternity, and the location of the person is unknown, the adoption entity must conduct a diligent search for that person which must include inquiries concerning:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The person’s current address, or any previous address, through an inquiry of the United States Postal Service through the Freedom of Information Act;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The last known employment of the person, including the name and address of the person’s employer;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Names and addresses of relatives to the extent they can be reasonably obtained from the petitioner or other sources, contacts with those relatives, and inquiry as to the person’s last known address. The petitioner must pursue any leads to any addresses where the person may have moved;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Information as to whether or not the person may have died and, if so, the date and location;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Telephone listings in the area where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Inquiries of law enforcement agencies in the area where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Highway patrol records in the state where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Department of Corrections records in the state where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Hospitals in the area where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Records of utility companies, including water, sewer, cable television, and electric companies, in the area where the person last resided;</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Records of the Armed Forces of the United States as to whether there is any information as to the person;</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Records of the tax assessor and tax collector in the area where the person last resided; and</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Search of one Internet databank locator service.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">A person contacted by a petitioner or adoption entity requesting records under this subsection must release the requested records to the petitioner or adoption entity without the necessity of a subpoena or a court order, except when prohibited by law. An affidavit of diligent search conducted in accordance with this section must be filed with the court. The diligent search may be conducted before the birth of the minor. A judgment terminating parental rights and approving a diligent search that fails to locate a person is valid and is not subject to direct or collateral attack because the mother failed or refused to provide the adoption entity with sufficient information to locate the person.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">CONSTRUCTIVE SERVICE.<EmDash />This subsection only applies if, as to any person whose consent is required under s. 63.062 and who has not executed a consent to adoption or an affidavit of nonpaternity, the location of the person is unknown and the inquiry under subsection (4) fails to locate the person. The unlocated person must be served notice under subsection (3) by constructive service in the manner provided in chapter 49. The notice shall be published in the county where the person was last known to have resided. The notice, in addition to all information required under chapter 49, must include a physical description, including, but not limited to, age, race, hair and eye color, and approximate height and weight of the person, the minor’s date of birth, and the place of birth of the minor. Constructive service by publication shall not be required to provide notice to an identified birth father whose consent is not required pursuant to ss. 63.062 and 63.064.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2001-3; s. 18, ch. 2003-58; s. 13, ch. 2008-151; s. 16, ch. 2012-81.</History>
+</Section>

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0255.05" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Bond of contractor constructing public buildings; form; action by claimants.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person entering into a formal contract with the state or any county, city, or political subdivision thereof, or other public authority or private entity, for the construction of a public building, for the prosecution and completion of a public work, or for repairs upon a public building or public work shall be required, before commencing the work or before recommencing the work after a default or abandonment, to execute and record in the public records of the county where the improvement is located, a payment and performance bond with a surety insurer authorized to do business in this state as surety. A public entity may not require a contractor to secure a surety bond under this section from a specific agent or bonding company.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The bond must state on its front page:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name, principal business address, and phone number of the contractor, the surety, the owner of the property being improved, and, if different from the owner, the contracting public entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The contract number assigned by the contracting public entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The bond number assigned by the surety.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A description of the project sufficient to identify it, such as a legal description or the street address of the property being improved, and a general description of the improvement.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Before commencing the work or before recommencing the work after a default or abandonment, the contractor shall provide to the public entity a certified copy of the recorded bond. Notwithstanding the terms of the contract or any other law governing prompt payment for construction services, the public entity may not make a payment to the contractor until the contractor has complied with this paragraph. This paragraph applies to contracts entered into on or after October 1, 2012.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The bond shall be conditioned upon the contractor’s performance of the construction work in the time and manner prescribed in the contract and promptly making payments to all persons defined in s. 713.01 who furnish labor, services, or materials for the prosecution of the work provided for in the contract. A claimant may apply to the governmental entity having charge of the work for copies of the contract and bond and shall thereupon be furnished with a copy of the contract and the recorded bond. The claimant shall have a cause of action against the contractor and surety for the amount due him or her, including unpaid finance charges due under the claimant’s contract. Such action may not involve the public authority in any expense.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">When the work is done for the state and the contract is for $100,000 or less, no payment and performance bond shall be required. At the discretion of the official or board awarding such contract when such work is done for any county, city, political subdivision, or public authority, a person entering into such a contract that is for $200,000 or less may be exempted from executing the payment and performance bond. When such work is done for the state, the Secretary of Management Services may delegate to state agencies the authority to exempt any person entering into such a contract amounting to more than $100,000 but less than $200,000 from executing the payment and performance bond. If an exemption is granted, the officer or official is not personally liable to persons suffering loss because of granting such exemption. The Department of Management Services shall maintain information on the number of requests by state agencies for delegation of authority to waive the bond requirements by agency and project number and whether any request for delegation was denied and the justification for the denial.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any provision in a payment bond issued on or after October 1, 2012, furnished for public work contracts as provided by this subsection which further restricts the classes of persons protected by the bond, which restricts the venue of any proceeding relating to such bond, which limits or expands the effective duration of the bond, or which adds conditions precedent to the enforcement of a claim against the bond beyond those provided in this section is unenforceable.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The Department of Management Services shall adopt rules with respect to all contracts for $200,000 or less, to provide:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Procedures for retaining up to 10 percent of each request for payment submitted by a contractor and procedures for determining disbursements from the amount retained on a pro rata basis to laborers, materialmen, and subcontractors, as defined in s. 713.01.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Procedures for requiring certification from laborers, materialmen, and subcontractors, as defined in s. 713.01, before final payment to the contractor that such laborers, materialmen, and subcontractors have no claims against the contractor resulting from the completion of the work provided for in the contract.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The state is not liable to any laborer, materialman, or subcontractor for any amounts greater than the pro rata share as determined under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The amount of the bond shall equal the contract price, except that for a contract in excess of $250 million, if the state, county, municipality, political subdivision, or other public entity finds that a bond in the amount of the contract price is not reasonably available, the public owner shall set the amount of the bond at the largest amount reasonably available, but not less than $250 million.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For construction-management or design-build contracts, if the public owner does not include in the bond amount the cost of design or other nonconstruction services, the bond may not be conditioned on performance of such services or payment to persons furnishing such services. Notwithstanding paragraphs (c) and (e), such a bond may exclude persons furnishing such services from the classes of persons protected by the bond.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If a claimant is no longer furnishing labor, services, or materials on a project, a contractor or the contractor’s agent or attorney may elect to shorten the time within which an action to enforce any claim against a payment bond must be commenced by recording in the clerk’s office a notice in substantially the following form:</Text>
+					<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF CONTEST OF CLAIM<NewLine />AGAINST PAYMENT BOND</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">To: <Directions xml:space="preserve">(Name and address of claimant)</Directions></Text>
+					<Text xml:space="preserve" Style="Indent" SpaceAbove="true">You are notified that the undersigned contests your notice of nonpayment, dated <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, and served on the undersigned on <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, and that the time within which you may file suit to enforce your claim is limited to 60 days after the date of service of this notice.</Text>
+					<Text xml:space="preserve" Style="Indent" SpaceAbove="true">DATED on <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed: <Directions xml:space="preserve">(Contractor or Attorney)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The claim of a claimant upon whom such notice is served and who fails to institute a suit to enforce his or her claim against the payment bond within 60 days after service of such notice shall be extinguished automatically. The contractor or the contractor’s attorney shall serve a copy of the notice of contest to the claimant at the address shown in the notice of nonpayment or most recent amendment thereto and shall certify to such service on the face of the notice and record the notice.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A claimant, except a laborer, who is not in privity with the contractor shall, before commencing or not later than 45 days after commencing to furnish labor, services, or materials for the prosecution of the work, furnish the contractor with a written notice that he or she intends to look to the bond for protection. A claimant who is not in privity with the contractor and who has not received payment for his or her labor, services, or materials shall deliver to the contractor and to the surety written notice of the performance of the labor or delivery of the materials or supplies and of the nonpayment. The notice of nonpayment shall be served during the progress of the work or thereafter but may not be served earlier than 45 days after the first furnishing of labor, services, or materials or later than 90 days after the final furnishing of the labor, services, or materials by the claimant or, with respect to rental equipment, not later than 90 days after the date that the rental equipment was last on the job site available for use. Any notice of nonpayment served by a claimant who is not in privity with the contractor which includes sums for retainage must specify the portion of the amount claimed for retainage. An action for the labor, materials, or supplies may not be instituted against the contractor or the surety unless the notice to the contractor and notice of nonpayment have been served, if required by this section. Notices required or permitted under this section shall be served in accordance with s. 713.18. A claimant may not waive in advance his or her right to bring an action under the bond against the surety. In any action brought to enforce a claim against a payment bond under this section, the prevailing party is entitled to recover a reasonable fee for the services of his or her attorney for trial and appeal or for arbitration, in an amount to be determined by the court, which fee must be taxed as part of the prevailing party’s costs, as allowed in equitable actions. The time periods for service of a notice of nonpayment or for bringing an action against a contractor or a surety shall be measured from the last day of furnishing labor, services, or materials by the claimant and may not be measured by other standards, such as the issuance of a certificate of occupancy or the issuance of a certificate of substantial completion.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When a person is required to execute a waiver of his or her right to make a claim against the payment bond in exchange for, or to induce payment of, a progress payment, the waiver may be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">WAIVER OF RIGHT TO CLAIM<NewLine />AGAINST THE PAYMENT BOND<NewLine />(PROGRESS PAYMENT)</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned, in consideration of the sum of $<HorizontalRule Type="Fixed" />, hereby waives its right to claim against the payment bond for labor, services, or materials furnished through <Directions xml:space="preserve">(insert date)</Directions> to <Directions xml:space="preserve">(insert the name of your customer)</Directions> on the job of <Directions xml:space="preserve">(insert the name of the owner)</Directions>, for improvements to the following described project:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">(description of project)</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">This waiver does not cover any retention or any labor, services, or materials furnished after the date specified.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">DATED ON <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" />.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Claimant)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true">By:<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">When a person is required to execute a waiver of his or her right to make a claim against the payment bond, in exchange for, or to induce payment of, the final payment, the waiver may be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">WAIVER OF RIGHT TO CLAIM<NewLine />AGAINST THE PAYMENT BOND<NewLine />(FINAL PAYMENT)</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned, in consideration of the final payment in the amount of $<HorizontalRule Type="Fixed" />, hereby waives its right to claim against the payment bond for labor, services, or materials furnished to <Directions xml:space="preserve">(insert the name of your customer)</Directions> on the job of <Directions xml:space="preserve">(insert the name of the owner)</Directions>, for improvements to the following described project:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">(description of project)</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">DATED ON <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" />.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Claimant)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true">By:<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person may not require a claimant to furnish a waiver that is different from the forms in paragraphs (b) and (c).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A claimant who executes a waiver in exchange for a check may condition the waiver on payment of the check.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A waiver that is not substantially similar to the forms in this subsection is enforceable in accordance with its terms.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The bond required in subsection (1) may be in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">PUBLIC CONSTRUCTION BOND</Text>
+			<Text xml:space="preserve" Style="AlignRight">Bond No.<Directions xml:space="preserve">(enter bond number)</Directions></Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">BY THIS BOND, We <HorizontalRule Type="Fixed" />, as Principal and <HorizontalRule Type="Fixed" />, a corporation, as Surety, are bound to <HorizontalRule Type="Fixed" />, herein called Owner, in the sum of $<HorizontalRule Type="Fixed" />, for payment of which we bind ourselves, our heirs, personal representatives, successors, and assigns, jointly and severally.</Text>
+			<Text xml:space="preserve" Style="Indent">THE CONDITION OF THIS BOND is that if Principal:</Text>
+			<Text xml:space="preserve" Style="Indent">1. Performs the contract dated <HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" />, between Principal and Owner for construction of <HorizontalRule Type="Fixed" />, the contract being made a part of this bond by reference, at the times and in the manner prescribed in the contract; and</Text>
+			<Text xml:space="preserve" Style="Indent">2. Promptly makes payments to all claimants, as defined in Section 255.05(1), Florida Statutes, supplying Principal with labor, materials, or supplies, used directly or indirectly by Principal in the prosecution of the work provided for in the contract; and</Text>
+			<Text xml:space="preserve" Style="Indent">3. Pays Owner all losses, damages, expenses, costs, and attorney’s fees, including appellate proceedings, that Owner sustains because of a default by Principal under the contract; and</Text>
+			<Text xml:space="preserve" Style="Indent">4. Performs the guarantee of all work and materials furnished under the contract for the time specified in the contract, then this bond is void; otherwise it remains in full force.</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Any action instituted by a claimant under this bond for payment must be in accordance with the notice and time limitation provisions in Section 255.05(2), Florida Statutes.</Text>
+			<Text xml:space="preserve" Style="Indent">Any changes in or under the contract documents and compliance or noncompliance with any formalities connected with the contract or the changes does not affect Surety’s obligation under this bond.</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">DATED ON <HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><Directions xml:space="preserve">(Name of Principal)</Directions></Text>
+			<Text xml:space="preserve" Style="AlignRight">By <Directions xml:space="preserve">(As Attorney in Fact)</Directions></Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">(Name of Surety)</Directions></Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The payment bond provisions of all bonds required by subsection (1) shall be construed and deemed statutory payment bonds furnished pursuant to this section and such bonds shall not under any circumstances be converted into common law bonds.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In addition to the provisions of chapter 47, any action authorized under this section may be brought in the county in which the public building or public work is being constructed or repaired. This subsection shall not apply to an action instituted prior to May 17, 1977.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">All payment bond forms used by a public owner and all payment bonds executed pursuant to this section by a surety shall make reference to this section by number, shall contain reference to the notice and time limitation provisions in subsections (2) and (10), and shall comply with the requirements of paragraph (1)(a).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">In lieu of the bond required by this section, a contractor may file with the state, county, city, or other political authority an alternative form of security in the form of cash, a money order, a certified check, a cashier’s check, an irrevocable letter of credit, or a security of a type listed in part II of chapter 625. Any such alternative form of security shall be for the same purpose and be subject to the same conditions as those applicable to the bond required by this section. The determination of the value of an alternative form of security shall be made by the appropriate state, county, city, or other political subdivision.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">When a contractor has furnished a payment bond pursuant to this section, he or she may, when the state, county, municipality, political subdivision, or other public authority makes any payment to the contractor or directly to a claimant, serve a written demand on any claimant who is not in privity with the contractor for a written statement under oath of his or her account showing the nature of the labor or services performed and to be performed, if any; the materials furnished; the materials to be furnished, if known; the amount paid on account to date; the amount due; and the amount to become due, if known, as of the date of the statement by the claimant. Any such demand to a claimant who is not in privity with the contractor must be served on the claimant at the address and to the attention of any person who is designated to receive the demand in the notice to contractor served by the claimant. The failure or refusal to furnish the statement does not deprive the claimant of his or her rights under the bond if the demand is not served at the address of the claimant or directed to the attention of the person designated to receive the demand in the notice to contractor. The failure to furnish the statement within 30 days after the demand, or the furnishing of a false or fraudulent statement, deprives the claimant who fails to furnish the statement, or who furnishes the false or fraudulent statement, of his or her rights under the bond. If the contractor serves more than one demand for statement of account on a claimant and none of the information regarding the account has changed since the claimant’s last response to a demand, the failure or refusal to furnish such statement does not deprive the claimant of his or her rights under the bond. The negligent inclusion or omission of any information deprives the claimant of his or her rights under the bond to the extent that the contractor can demonstrate prejudice from such act or omission by the claimant. The failure to furnish a response to a demand for statement of account does not affect the validity of any claim on the bond being enforced in a lawsuit filed before the date the demand for statement of account is received by the claimant.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">On any public works project for which the public authority requires a performance and payment bond, suits at law and in equity may be brought and maintained by and against the public authority on any contract claim arising from breach of an express provision or an implied covenant of a written agreement or a written directive issued by the public authority pursuant to the written agreement. In any such suit, the public authority and the contractor shall have all of the same rights and obligations as a private person under a like contract except that no liability may be based on an oral modification of either the written contract or written directive. Nothing herein shall be construed to waive the sovereign immunity of the state and its political subdivisions from equitable claims and equitable remedies. The provisions of this subsection shall apply only to contracts entered into on or after July 1, 1999.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">An action, except an action for recovery of retainage, must be instituted against the contractor or the surety on the payment bond or the payment provisions of a combined payment and performance bond within 1 year after the performance of the labor or completion of delivery of the materials or supplies. An action for recovery of retainage must be instituted against the contractor or the surety within 1 year after the performance of the labor or completion of delivery of the materials or supplies; however, such an action may not be instituted until one of the following conditions is satisfied:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The public entity has paid out the claimant’s retainage to the contractor, and the time provided under s. 218.735 or s. 255.073(3) for payment of that retainage to the claimant has expired;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The claimant has completed all work required under its contract and 70 days have passed since the contractor sent its final payment request to the public entity; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">At least 160 days have passed since reaching substantial completion of the construction services purchased, as defined in the contract, or if not defined in the contract, since reaching beneficial occupancy or use of the project.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The claimant has asked the contractor, in writing, for any of the following information and the contractor has failed to respond to the claimant’s request, in writing, within 10 days after receipt of the request:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Whether the project has reached substantial completion, as that term is defined in the contract, or if not defined in the contract, if beneficial occupancy or use of the project has occurred.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Whether the contractor has received payment of the claimant’s retainage, and if so, the date the retainage was received by the contractor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Whether the contractor has sent its final payment request to the public entity, and if so, the date on which the final payment request was sent.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">If none of the conditions described in paragraph (a), paragraph (b), paragraph (c), or paragraph (d) is satisfied and an action for recovery of retainage cannot be instituted within the 1-year limitation period set forth in this subsection, this limitation period shall be extended until 120 days after one of these conditions is satisfied.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">When a contractor furnishes and records a payment and performance bond for a public works project in accordance with this section and provides the public authority with a written consent from the surety regarding the project or payment in question, the public authority may not condition its payment to the contractor on the production of a release, waiver, or like documentation from a claimant demonstrating that the claimant does not have an outstanding claim against the contractor, the surety, the payment bond, or the public authority for payments due on labor, services, or materials furnished on the public works project. The surety may, in a writing served on the public authority, revoke its consent or direct that the public authority withhold a specified amount from a payment, which shall be effective upon receipt. This subsection applies to contracts entered into on or after October 1, 2012.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 6867, 1915; RGS 3533; s. 1, ch. 10035, 1925; CGL 5397; s. 1, ch. 59-491; s. 1, ch. 63-437; s. 1, ch. 71-47; ss. 1, 2, ch. 77-40; s. 1, ch. 77-78; s. 1, ch. 77-81; s. 1, ch. 80-32; s. 1, ch. 80-54; s. 1, ch. 82-196; s. 2, ch. 84-288; s. 2, ch. 85-130; s. 2, ch. 88-397; s. 21, ch. 90-109; s. 4, ch. 91-162; s. 176, ch. 92-279; s. 2, ch. 92-286; s. 55, ch. 92-326; s. 1, ch. 93-96; s. 5, ch. 94-322; s. 849, ch. 95-148; s. 25, ch. 95-196; s. 1, ch. 97-219; s. 1, ch. 98-135; s. 20, ch. 99-6; s. 33, ch. 99-13; s. 4, ch. 99-345; s. 2, ch. 99-386; s. 2, ch. 2001-118; s. 3, ch. 2001-211; s. 1, ch. 2005-218; s. 1, ch. 2005-227; s. 13, ch. 2005-230; s. 1, ch. 2007-159; s. 1, ch. 2007-221; s. 2, ch. 2012-211.</History>
+</Section>

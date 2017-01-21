@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.51055" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Credit for contributions to eligible nonprofit scholarship-funding organizations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Reference Number="2"/>
+			<Text xml:space="preserve" Style="Intro">There is allowed a credit of 100 percent of an eligible contribution made to an eligible nonprofit scholarship-funding organization under s. 1002.395 against any tax due for a taxable year under s. 624.509(1) after deducting from such tax deductions for assessments made pursuant to s. 440.51; credits for taxes paid under ss. 175.101 and 185.08; credits for income taxes paid under chapter 220; and the credit allowed under s. 624.509(5), as such credit is limited by s. 624.509(6). An insurer claiming a credit against premium tax liability under this section shall not be required to pay any additional retaliatory tax levied pursuant to s. 624.5091 as a result of claiming such credit. Section 624.5091 does not limit such credit in any manner.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The provisions of s. 1002.395 apply to the credit authorized by this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2009-108; s. 11, ch. 2010-24; s. 34, ch. 2011-76; s. 2, ch. 2011-123.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0202.12" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sales of communications services.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Legislature finds that every person who engages in the business of selling communications services at retail in this state is exercising a taxable privilege. It is the intent of the Legislature that the tax imposed by chapter 203 be administered as provided in this chapter.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For the exercise of such privilege, a tax is levied on each taxable transaction, and the tax is due and payable as follows:</Text>
+			<Paragraph Id="a">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, at a rate of 6.65 percent applied to the sales price of the communications service which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Originates and terminates in this state, or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Originates or terminates in this state and is charged to a service address in this state,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">when sold at retail, computed on each taxable sale for the purpose of remitting the tax due. The gross receipts tax imposed by chapter 203 shall be collected on the same taxable transactions and remitted with the tax imposed by this paragraph. If no tax is imposed by this paragraph by reason of s. 202.125(1), the tax imposed by chapter 203 shall nevertheless be collected and remitted in the manner and at the time prescribed for tax collections and remittances under this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At the rate of 10.8 percent on the retail sales price of any direct-to-home satellite service received in this state. The proceeds of the tax imposed under this paragraph shall be accounted for and distributed in accordance with s. 202.18(2). The gross receipts tax imposed by chapter 203 shall be collected on the same taxable transactions and remitted with the tax imposed by this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">At the rate set forth in paragraph (a) on the sales price of private communications services provided within this state, which shall be determined in accordance with the following provisions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any charge with respect to a channel termination point located within this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any charge for the use of a channel between two channel termination points located in this state; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Where channel termination points are located both within and outside of this state:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">If any segment between two such channel termination points is separately billed, 50 percent of such charge; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If any segment of the circuit is not separately billed, an amount equal to the total charge for such circuit multiplied by a fraction, the numerator of which is the number of channel termination points within this state and the denominator of which is the total number of channel termination points of the circuit.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The gross receipts tax imposed by chapter 203 shall be collected on the same taxable transactions and remitted with the tax imposed by this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">At the rate set forth in paragraph (a) applied to the sales price of all mobile communications services deemed to be provided to a customer by a home service provider pursuant to s. 117(a) of the Mobile Telecommunications Sourcing Act, Pub. L. No. 106-252, if such customer’s service address is located within this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A dealer of taxable communications services shall bill, collect, and remit the taxes on communications services imposed pursuant to chapter 203 and this section at a combined rate that is the sum of the rate of tax on communications services prescribed in chapter 203 and the applicable rate of tax prescribed in this section. However, a dealer shall, in reporting each remittance to the department, identify the portion thereof which consists of taxes remitted pursuant to chapter 203. Return forms prescribed by the department shall facilitate such reporting.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any law to the contrary, the combined amount of taxes imposed under this section and s. 203.01(1)(a)2. shall not exceed $100,000 per calendar year on charges to any person for interstate communications services that originate outside this state and terminate within this state. This subsection applies only to holders of a direct-pay permit issued under this subsection. A refund may not be given for taxes paid before receiving a direct-pay permit. Upon application, the department may issue one direct-pay permit to the purchaser of communications services authorizing such purchaser to pay the Florida communications services tax on such services directly to the department if the majority of such services used by such person are for communications originating outside of this state and terminating in this state. Only one direct-pay permit shall be issued to a person. Such direct-pay permit shall identify the taxes and service addresses to which it applies. Any dealer of communications services furnishing communications services to the holder of a valid direct-pay permit is relieved of the obligation to collect and remit the taxes imposed under this section and s. 203.01(1)(a)2. on such services. Tax payments and returns pursuant to a direct-pay permit shall be monthly. As used in this subsection, “person” means a single legal entity and does not mean a group or combination of affiliated entities or entities controlled by one person or group of persons.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 3, 58, ch. 2000-260; ss. 3, 4, 38, ch. 2001-140; s. 2, ch. 2005-187; s. 1, ch. 2010-149.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 2010-149, provides that “[t]he Department of Revenue may, and all conditions are deemed met to, adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, for the purpose of promulgating such forms and instructions as are required to effectuate this act.”</Text>
+	</Note>
+</Section>

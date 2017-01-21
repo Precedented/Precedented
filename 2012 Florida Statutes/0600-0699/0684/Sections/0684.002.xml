@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.002" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Applications for preliminary orders and conditions for granting preliminary orders.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Unless otherwise agreed by the parties, a party may, without notice to any other party, make a request for an interim measure together with an application for a preliminary order prohibiting a party from frustrating the purpose of the interim measure requested.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The arbitral tribunal may grant a preliminary order if it considers that prior disclosure of the request for the interim measure to the party against whom it is directed risks frustrating the purpose of the measure.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The conditions described in s. 684.0019 apply to any preliminary order if the harm assessed under s. 684.0019(1)(a) is the harm likely to result from the order being granted or not granted.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 21, ch. 2010-60.</History>
+</Section>

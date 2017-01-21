@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.7031" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Nursing home transition program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The department and the Agency for Health Care Administration:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Shall implement a system of care designed to assist individuals residing in nursing homes to regain independence and to move to less costly settings.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Shall collaboratively work to identify nursing home residents who are able to move to community placements, and to provide case management and supportive services to such individuals while they are in nursing homes to assist such individuals to move to less expensive and less restrictive settings.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Shall modify existing service delivery systems or develop new service delivery systems to economically and efficiently meet such individuals’ care needs.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Shall offer such individuals priority placement and services in all home-based and community-based care programs and shall ensure that funds are available to provide services to individuals to whom services are offered.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">May seek federal waivers necessary to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 2002-223; s. 11, ch. 2004-386; s. 2, ch. 2005-208; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+</Section>

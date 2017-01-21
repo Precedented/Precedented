@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0476.194" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Prohibited acts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Engage in the practice of barbering without an active license as a barber issued pursuant to the provisions of this act by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Hire or employ any person to engage in the practice of barbering unless such person holds a valid license as a barber.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Obtain or attempt to obtain a license for money other than the required fee or any other thing of value or by fraudulent misrepresentations.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Own, operate, maintain, open, establish, conduct, or have charge of, either alone or with another person or persons, a barbershop:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Which is not licensed under the provisions of this chapter; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In which a person not licensed as a barber is permitted to perform services.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Use or attempt to use a license to practice barbering when said license is suspended or revoked.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any person who violates any provision of this section is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 19, 28, ch. 78-155; ss. 10, 13, 15, 25, 30, 34, 62, ch. 80-406; ss. 2, 3, ch. 81-318; ss. 15, 19, 20, ch. 85-297; s. 109, ch. 91-224; s. 4, ch. 91-429; s. 23, ch. 2012-61.</History>
+</Section>

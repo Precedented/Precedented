@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLII">
+	<ChapterNumber>734</ChapterNumber>
+	<ChapterName xml:space="preserve">Probate code: foreign personal representatives;<NewLine />ancillary administration</ChapterName>
+	<RunningHead>PROBATE CODE: ANCILLARY ADMINISTRATION</RunningHead>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0734.101" />
+		<Section Number="0734.102" />
+		<Section Number="0734.1025" />
+		<Section Number="0734.104" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Jurisdiction over foreign<NewLine />personal representatives</PartTitle>
+		<Section Number="0734.201" />
+		<Section Number="0734.202" />
+	</Part>
+</Chapter>

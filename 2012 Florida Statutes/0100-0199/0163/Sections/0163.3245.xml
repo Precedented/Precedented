@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.3245" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sector plans.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In recognition of the benefits of long-range planning for specific areas, local governments or combinations of local governments may adopt into their comprehensive plans a sector plan in accordance with this section. This section is intended to promote and encourage long-term planning for conservation, development, and agriculture on a landscape scale; to further support innovative and flexible planning and development strategies, and the purposes of this part and part I of chapter 380; to facilitate protection of regionally significant resources, including, but not limited to, regionally significant water courses and wildlife corridors; and to avoid duplication of effort in terms of the level of data and analysis required for a development of regional impact, while ensuring the adequate mitigation of impacts to applicable regional resources and facilities, including those within the jurisdiction of other local governments, as would otherwise be provided. Sector plans are intended for substantial geographic areas that include at least 15,000 acres of one or more local governmental jurisdictions and are to emphasize urban form and protection of regionally significant resources and public facilities. A sector plan may not be adopted in an area of critical state concern.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Upon the request of a local government having jurisdiction, the applicable regional planning council shall conduct a scoping meeting with affected local governments and those agencies identified in s. 163.3184(1)(c) before preparation of the sector plan. The purpose of this meeting is to assist the state land planning agency and the local government in the identification of the relevant planning issues to be addressed and the data and resources available to assist in the preparation of the sector plan. If a scoping meeting is conducted, the regional planning council shall make written recommendations to the state land planning agency and affected local governments on the issues requested by the local government. The scoping meeting shall be noticed and open to the public. If the entire planning area proposed for the sector plan is within the jurisdiction of two or more local governments, some or all of them may enter into a joint planning agreement pursuant to s. 163.3171 with respect to the geographic area to be subject to the sector plan, the planning issues that will be emphasized, procedures for intergovernmental coordination to address extrajurisdictional impacts, supporting application materials including data and analysis, procedures for public participation, or other issues.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Sector planning encompasses two levels: adoption pursuant to s. 163.3184 of a long-term master plan for the entire planning area as part of the comprehensive plan, and adoption by local development order of two or more detailed specific area plans that implement the long-term master plan and within which s. 380.06 is waived.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to the other requirements of this chapter, a long-term master plan pursuant to this section must include maps, illustrations, and text supported by data and analysis to address the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A framework map that, at a minimum, generally depicts areas of urban, agricultural, rural, and conservation land use; identifies allowed uses in various parts of the planning area; specifies maximum and minimum densities and intensities of use; and provides the general framework for the development pattern in developed areas with graphic illustrations based on a hierarchy of places and functional place-making components.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A general identification of the water supplies needed and available sources of water, including water resource development and water supply development projects, and water conservation measures needed to meet the projected demand of the future land uses in the long-term master plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A general identification of the transportation facilities to serve the future land uses in the long-term master plan, including guidelines to be used to establish each modal component intended to optimize mobility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A general identification of other regionally significant public facilities necessary to support the future land uses, which may include central utilities provided onsite within the planning area, and policies setting forth the procedures to be used to mitigate the impacts of future land uses on public facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A general identification of regionally significant natural resources within the planning area based on the best available data and policies setting forth the procedures for protection or conservation of specific resources consistent with the overall conservation and development strategy for the planning area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">General principles and guidelines addressing the urban form and the interrelationships of future land uses; the protection and, as appropriate, restoration and management of lands identified for permanent preservation through recordation of conservation easements consistent with s. 704.06, which shall be phased or staged in coordination with detailed specific area plans to reflect phased or staged development within the planning area; achieving a more clean, healthy environment; limiting urban sprawl; providing a range of housing types; protecting wildlife and natural areas; advancing the efficient use of land and other resources; creating quality communities of a design that promotes travel by multiple transportation modes; and enhancing the prospects for the creation of jobs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Identification of general procedures and policies to facilitate intergovernmental coordination to address extrajurisdictional impacts from the future land uses.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A long-term master plan adopted pursuant to this section may be based upon a planning period longer than the generally applicable planning period of the local comprehensive plan, shall specify the projected population within the planning area during the chosen planning period, and may include a phasing or staging schedule that allocates a portion of the local government’s future growth to the planning area through the planning period. A long-term master plan adopted pursuant to this section is not required to demonstrate need based upon projected population growth or on any other basis.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to the other requirements of this chapter, the detailed specific area plans shall be consistent with the long-term master plan and must include conditions and commitments that provide for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Development or conservation of an area of at least 1,000 acres consistent with the long-term master plan. The local government may approve detailed specific area plans of less than 1,000 acres based on local circumstances if it is determined that the detailed specific area plan furthers the purposes of this part and part I of chapter 380.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Detailed identification and analysis of the maximum and minimum densities and intensities of use and the distribution, extent, and location of future land uses.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Detailed identification of water resource development and water supply development projects and related infrastructure and water conservation measures to address water needs of development in the detailed specific area plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Detailed identification of the transportation facilities to serve the future land uses in the detailed specific area plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Detailed identification of other regionally significant public facilities, including public facilities outside the jurisdiction of the host local government, impacts of future land uses on those facilities, and required improvements consistent with the long-term master plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Public facilities necessary to serve development in the detailed specific area plan, including developer contributions in a 5-year capital improvement schedule of the affected local government.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Detailed analysis and identification of specific measures to ensure the protection and, as appropriate, restoration and management of lands within the boundary of the detailed specific area plan identified for permanent preservation through recordation of conservation easements consistent with s. 704.06, which easements shall be effective before or concurrent with the effective date of the detailed specific area plan and other important resources both within and outside the host jurisdiction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Detailed principles and guidelines addressing the urban form and the interrelationships of future land uses; achieving a more clean, healthy environment; limiting urban sprawl; providing a range of housing types; protecting wildlife and natural areas; advancing the efficient use of land and other resources; creating quality communities of a design that promotes travel by multiple transportation modes; and enhancing the prospects for the creation of jobs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Identification of specific procedures to facilitate intergovernmental coordination to address extrajurisdictional impacts from the detailed specific area plan.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A detailed specific area plan adopted by local development order pursuant to this section may be based upon a planning period longer than the generally applicable planning period of the local comprehensive plan and shall specify the projected population within the specific planning area during the chosen planning period. A detailed specific area plan adopted pursuant to this section is not required to demonstrate need based upon projected population growth or on any other basis. All lands identified in the long-term master plan for permanent preservation shall be subject to a recorded conservation easement consistent with s. 704.06 before or concurrent with the effective date of the final detailed specific area plan to be approved within the planning area.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In its review of a long-term master plan, the state land planning agency shall consult with the Department of Agriculture and Consumer Services, the Department of Environmental Protection, the Fish and Wildlife Conservation Commission, and the applicable water management district regarding the design of areas for protection and conservation of regionally significant natural resources and for the protection and, as appropriate, restoration and management of lands identified for permanent preservation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In its review of a long-term master plan, the state land planning agency shall consult with the Department of Transportation, the applicable metropolitan planning organization, and any urban transit agency regarding the location, capacity, design, and phasing or staging of major transportation facilities in the planning area.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Whenever a local government issues a development order approving a detailed specific area plan, a copy of such order shall be rendered to the state land planning agency and the owner or developer of the property affected by such order, as prescribed by rules of the state land planning agency for a development order for a development of regional impact. Within 45 days after the order is rendered, the owner, the developer, or the state land planning agency may appeal the order to the Florida Land and Water Adjudicatory Commission by filing a petition alleging that the detailed specific area plan is not consistent with the comprehensive plan or with the long-term master plan adopted pursuant to this section. The appellant shall furnish a copy of the petition to the opposing party, as the case may be, and to the local government that issued the order. The filing of the petition stays the effectiveness of the order until after completion of the appeal process. However, if a development order approving a detailed specific area plan has been challenged by an aggrieved or adversely affected party in a judicial proceeding pursuant to s. 163.3215, and a party to such proceeding serves notice to the state land planning agency, the state land planning agency shall dismiss its appeal to the commission and shall have the right to intervene in the pending judicial proceeding pursuant to s. 163.3215. Proceedings for administrative review of an order approving a detailed specific area plan shall be conducted consistent with s. 380.07(6). The commission shall issue a decision granting or denying permission to develop pursuant to the long-term master plan and the standards of this part and may attach conditions or restrictions to its decisions.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">This subsection does not prevent preparation and approval of the sector plan and detailed specific area plan concurrently or in the same submission.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Upon the long-term master plan becoming legally effective:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any long-range transportation plan developed by a metropolitan planning organization pursuant to s. 339.175(7) must be consistent, to the maximum extent feasible, with the long-term master plan, including, but not limited to, the projected population and the approved uses and densities and intensities of use and their distribution within the planning area. The transportation facilities identified in adopted plans pursuant to subparagraphs (3)(a)3. and (b)4. must be developed in coordination with the adopted M.P.O. long-range transportation plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The water needs, sources and water resource development, and water supply development projects identified in adopted plans pursuant to subparagraphs (3)(a)2. and (b)3. shall be incorporated into the applicable district and regional water supply plans adopted in accordance with ss. 373.036 and 373.709. Accordingly, and notwithstanding the permit durations stated in s. 373.236, an applicant may request and the applicable district may issue consumptive use permits for durations commensurate with the long-term master plan or detailed specific area plan, considering the ability of the master plan area to contribute to regional water supply availability and the need to maximize reasonable-beneficial use of the water resource. The permitting criteria in s. 373.223 shall be applied based upon the projected population and the approved densities and intensities of use and their distribution in the long-term master plan; however, the allocation of the water may be phased over the permit duration to correspond to actual projected needs. This paragraph does not supersede the public interest test set forth in s. 373.223.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">When a detailed specific area plan has become effective for a portion of the planning area governed by a long-term master plan adopted pursuant to this section, s. 380.06 does not apply to development within the geographic area of the detailed specific area plan. However, any development-of-regional-impact development order that is vested from the detailed specific area plan may be enforced pursuant to s. 380.11.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The local government adopting the detailed specific area plan is primarily responsible for monitoring and enforcing the detailed specific area plan. Local governments may not issue any permits or approvals or provide any extensions of services to development that are not consistent with the detailed specific area plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the state land planning agency has reason to believe that a violation of any detailed specific area plan has occurred or is about to occur, it may institute an administrative or judicial proceeding to prevent, abate, or control the conditions or activity creating the violation, using the procedures in s. 380.11.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In instituting an administrative or judicial proceeding involving a sector plan or detailed specific area plan, including a proceeding pursuant to paragraph (b), the complaining party shall comply with the requirements of s. 163.3215(4), (5), (6), and (7), except as provided by paragraph (3)(e).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The detailed specific area plan shall establish a buildout date until which the approved development is not subject to downzoning, unit density reduction, or intensity reduction, unless the local government can demonstrate that implementation of the plan is not continuing in good faith based on standards established by plan policy, that substantial changes in the conditions underlying the approval of the detailed specific area plan have occurred, that the detailed specific area plan was based on substantially inaccurate information provided by the applicant, or that the change is clearly established to be essential to the public health, safety, or welfare.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Concurrent with or subsequent to review and adoption of a long-term master plan pursuant to paragraph (3)(a), an applicant may apply for master development approval pursuant to s. 380.06(21) for the entire planning area in order to establish a buildout date until which the approved uses and densities and intensities of use of the master plan are not subject to downzoning, unit density reduction, or intensity reduction, unless the local government can demonstrate that implementation of the master plan is not continuing in good faith based on standards established by plan policy, that substantial changes in the conditions underlying the approval of the master plan have occurred, that the master plan was based on substantially inaccurate information provided by the applicant, or that change is clearly established to be essential to the public health, safety, or welfare. Review of the application for master development approval shall be at a level of detail appropriate for the long-term and conceptual nature of the long-term master plan and, to the maximum extent possible, may only consider information provided in the application for a long-term master plan. Notwithstanding s. 380.06, an increment of development in such an approved master development plan must be approved by a detailed specific area plan pursuant to paragraph (3)(b) and is exempt from review pursuant to s. 380.06.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A developer within an area subject to a long-term master plan that meets the requirements of paragraph (3)(a) and subsection (6) or a detailed specific area plan that meets the requirements of paragraph (3)(b) may enter into a development agreement with a local government pursuant to ss. 163.3220-163.3243. The duration of such a development agreement may be through the planning period of the long-term master plan or the detailed specific area plan, as the case may be, notwithstanding the limit on the duration of a development agreement pursuant to s. 163.3229.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Any owner of property within the planning area of a proposed long-term master plan may withdraw his or her consent to the master plan at any time prior to local government adoption, and the local government shall exclude such parcels from the adopted master plan. Thereafter, the long-term master plan, any detailed specific area plan, and the exemption from development-of-regional-impact review under this section do not apply to the subject parcels. After adoption of a long-term master plan, an owner may withdraw his or her property from the master plan only with the approval of the local government by plan amendment adopted and reviewed pursuant to s. 163.3184.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The adoption of a long-term master plan or a detailed specific area plan pursuant to this section does not limit the right to continue existing agricultural or silvicultural uses or other natural resource-based operations or to establish similar new uses that are consistent with the plans approved pursuant to this section.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The state land planning agency may enter into an agreement with a local government that, on or before July 1, 2011, adopted a large-area comprehensive plan amendment consisting of at least 15,000 acres that meets the requirements for a long-term master plan in paragraph (3)(a), after notice and public hearing by the local government, and thereafter, notwithstanding s. 380.06, this part, or any planning agreement or plan policy, the large-area plan shall be implemented through detailed specific area plans that meet the requirements of paragraph (3)(b) and shall otherwise be subject to this section.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding this section, a detailed specific area plan to implement a conceptual long-term buildout overlay, adopted by a local government and found in compliance before July 1, 2011, shall be governed by this section.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding s. 380.06, this part, or any planning agreement or plan policy, a landowner or developer who has received approval of a master development-of-regional-impact development order pursuant to s. 380.06(21) may apply to implement this order by filing one or more applications to approve a detailed specific area plan pursuant to paragraph (3)(b).</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">This section may not be construed to abrogate the rights of any person under this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 98-176; s. 21, ch. 2011-34; s. 28, ch. 2011-139; s. 17, ch. 2012-5; s. 10, ch. 2012-99.</History>
+</Section>

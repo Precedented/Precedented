@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.20" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Records of the department; fees; destruction of records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall maintain a record of every application for license received by it. The possession of such an application form, whether filled out or in blank, or of a counterfeit thereof, not authorized by the department or its personnel constitutes a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall also maintain a record of all crash reports, abstracts of court records of convictions, and notices of revocation or suspension of a person’s driver’s license or driving privilege. Records of convictions of a person holding a foreign license shall be maintained by the department if the uniform traffic citation indicates an address located in this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall maintain convenient records or make suitable notations, in order that the individual driver history record of each licensee is readily available for the consideration of the department upon application for renewal of a license and at other suitable times. The release by the department of the driver history record, with respect to crashes involving a licensee, shall not include any notation or record of the occurrence of a motor vehicle crash unless the licensee received a traffic citation as a direct result of the crash, and to this extent such notation or record is exempt from the provisions of s. 119.07(1).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person to falsify, alter, erase, remove, or destroy, or cause to be altered, erased, removed, or destroyed, any record maintained by the department unless the alteration, erasure, removal, or destruction has been duly authorized.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall promulgate rules and procedures to ensure adequate safeguards and auditing capabilities to enable records of uniform traffic dispositions to be reported to the department in an automated fashion, through cooperative arrangements which may be entered into between court clerks and the department, in order to enhance the effectiveness and efficiency of dispositions reported on the uniform traffic citation. Automated procedures must be subjected to tests to ensure that the integrity of the driver file is enhanced or maintained and that the intent of this chapter, as stated in s. 322.263, is given priority consideration with respect to either online data entry activities between the courts and the department or the forwarding of electronically recorded data. Departmental rules shall require that data verification be accompanied by comparison with data from uniform traffic disposition reports.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department shall tabulate and publish statistics of traffic citation dispositions and provide records to court clerks for the purpose of verifying that the data was properly received and recorded.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The requirement for the department to keep records shall terminate upon the death of an individual licensed by the department upon notification by the Department of Health of such death. The department shall make such notification as is proper of the deletions from their records to the court clerks of the state.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Except as provided in chapter 119, the department may release records as provided in this section.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department may, upon application, furnish to any person, from its records, a list of the names, addresses, and birth dates of the licensed drivers of the entire state or any portion thereof by age group. In addition, the department may furnish to the courts, for the purpose of establishing jury selection lists, the names, addresses, and birth dates of the persons of the entire state or any portion thereof by age group having identification cards issued by the department. Each person who requests such information shall pay a fee, set by the department, of 1 cent per name listed, except that the department shall furnish such information without charge to the courts for the purpose of jury selection or to any state agency or to any state attorney, sheriff, or chief of police. Such court, state agency, state attorney, or law enforcement agency may not sell, give away, or allow the copying of such information. Noncompliance with this prohibition shall authorize the department to charge the noncomplying court, state agency, state attorney, or law enforcement agency the appropriate fee for any subsequent lists requested. The department may adopt rules necessary to implement this subsection.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The department is authorized, upon application of any person and payment of the proper fees, to search and to assist such person in the search of the records of the department and make reports thereof and to make photographic copies of the departmental records and attestations thereof.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may charge the following fees for the following services and documents:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For providing a transcript of any one individual’s driver history record or any portion thereof for the past 3 years<FlushRight Fill="Dot"/>$8</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For providing a transcript of any one individual’s driver history record or any portion thereof for the past 7 years<FlushRight Fill="Dot"/>$10</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For providing a certified copy of a transcript of the driver history record or any portion thereof for any one individual<FlushRight Fill="Dot"/>$10</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">For providing a certified photographic copy of a document, per page<FlushRight Fill="Dot"/>$1</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">For providing an exemplified record<FlushRight Fill="Dot"/>$15</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">For providing photocopies of documents, papers, letters, clearances, or license or insurance status reports, per page<FlushRight Fill="Dot"/>$0.50</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">For assisting persons in searching any one individual’s driver record at a terminal located at the department’s general headquarters in Tallahassee<FlushRight Fill="Dot"/>$2</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">For searching for any one individual’s driver history record when no record is found on file<FlushRight Fill="Dot"/>$2</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">For electronically searching for any one individual’s driver history record to determine if the record meets requested criteria<FlushRight Fill="Dot"/>$0.01</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall furnish such information without charge to any local, state, or federal law enforcement agency or court upon proof satisfactory to the department as to the purpose of the investigation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The clerks of court and tax collectors authorized under s. 322.135, may provide 3-year, 7-year, or complete driver records to any person requesting such records upon payment of the appropriate fees. In addition to the fees authorized under paragraph (a), clerks of court and tax collectors may assess the fee listed in s. 322.135(1)(c) for this service. The applicable record fees listed in paragraph (a) must be remitted to the department no later than 5 days after payment is received, unless a shorter remittance period is required by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The fees collected under this section shall be placed in the Highway Safety Operating Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">The department shall implement a system that allows either parent of a minor, or a guardian, or other responsible adult who signed a minor’s application for a driver’s license to have Internet access through a secure website to inspect the minor’s driver history record. Internet access to driver history records granted to a minor’s parents, guardian, or other responsible adult shall be furnished by the department at no fee and shall terminate when the minor attains 18 years of age.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">The department is authorized in accordance with chapter 257 to destroy reports, records, documents, papers, and correspondence which are considered obsolete.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">The department is authorized to photograph, microphotograph, or reproduce on film such documents, records, and reports as it may select. The photographs or microphotographs in the form of film or print of any records made in compliance with the provisions of this section shall have the same force and effect as the originals thereof and shall be treated as originals for the purpose of their admissibility in evidence. Duly certified or authenticated reproductions of such photographs or microphotographs shall be admitted in evidence equally with the original photographs or microphotographs.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">The creation and maintenance of records by the Division of Motorist Services within the department pursuant to this chapter shall not be regarded as law enforcement functions of agency recordkeeping.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 32, ch. 19551, 1939; CGL 1940 Supp. 4151(646); s. 32, ch. 20451, 1941; s. 1, ch. 57-758; s. 210, ch. 71-136; s. 18, ch. 78-394; s. 3, ch. 79-99; s. 2, ch. 81-181; s. 5, ch. 82-130; s. 19, ch. 83-218; s. 11, ch. 83-228; s. 1, ch. 85-78; s. 3, ch. 89-90; s. 5, ch. 91-235; s. 75, ch. 93-120; s. 32, ch. 95-143; s. 157, ch. 96-406; s. 5, ch. 97-185; s. 61, ch. 99-8; s. 287, ch. 99-248; s. 2, ch. 2002-215; s. 1, ch. 2004-275; s. 40, ch. 2004-335; s. 47, ch. 2005-251; s. 2, ch. 2006-226; s. 34, ch. 2009-71; s. 5, ch. 2010-163; s. 24, ch. 2011-66.</History>
+</Section>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0943.125" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Law enforcement agency accreditation; intent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that law enforcement agencies in the state be upgraded and strengthened through the adoption of meaningful standards of operation for those agencies.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is the further intent of the Legislature that law enforcement agencies voluntarily adopt standards designed to promote equal and fair law enforcement, to maximize the capability of law enforcement agencies to prevent and control criminal activities, and to increase interagency cooperation throughout the state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">It is further the intent of the Legislature to encourage the Florida Sheriffs Association and the Florida Police Chiefs Association to develop, either jointly or separately, a law enforcement agency accreditation program. The program must be independent of any law enforcement agency, the Florida Sheriffs Association, or the Florida Police Chiefs Association. The program must address, at a minimum, the following aspects of law enforcement:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Vehicle pursuits.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Seizure and forfeiture of contraband articles.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Recording and processing citizens’ complaints.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Use of force.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Traffic stops.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Handling natural and manmade disasters.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Special operations.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Prisoner transfer.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Collection and preservation of evidence.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Recruitment and selection.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Officer training.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Performance evaluations.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Law enforcement disciplinary procedures and rights.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Use of criminal investigative funds.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 93-252; s. 68, ch. 96-388; s. 33, ch. 2001-64; s. 146, ch. 2005-2; s. 161, ch. 2010-102.</History>
+</Section>

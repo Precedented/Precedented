@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0489.116" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Inactive and delinquent status; renewal and cancellation notices.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A certificateholder or registrant may not engage in contracting unless the certificateholder or registrant has an active status certificate or registration. A certificateholder or registrant who engages in contracting without an active status certificate or registration is subject to disciplinary action as provided in ss. 455.227 and 489.129.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The board shall permit a certificateholder or registrant to elect, at the time of licensure renewal, an active or inactive status.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An inactive status certificateholder or registrant may change to active status at any time, if the certificateholder or registrant meets all requirements for active status, pays any additional licensure fees necessary to equal those imposed on an active status certificateholder or registrant, pays any applicable late fees, and meets all continuing education requirements prescribed by the board.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A certificateholder or registrant shall apply with a completed application, as determined by board rule, to renew an active or inactive status certificate or registration before the certificate or registration expires. Failure of a certificateholder or registrant to so apply shall cause the certificate or registration to become a delinquent certificate or registration. Further, any delinquent certificateholder or registrant who fails to apply to renew licensure on either active or inactive status before expiration of the current licensure cycle must reapply in the same manner as an applicant for initial certification or registration.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A delinquent status certificateholder or registrant must apply with a completed application, as determined by board rule, for active or inactive status during the current licensure cycle. Failure by a delinquent status certificateholder or registrant to become active or inactive before the expiration of the current licensure cycle renders the certificate or registration void, and any subsequent licensure shall be subject to all procedures and requirements imposed on an applicant for initial licensure.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The board may not require an inactive certificateholder or registrant to complete more than one renewal cycle of continuing education for reactivating a certificate or registration.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The status or any change in status of a certificateholder or registrant shall not alter in any way the board’s right to impose discipline or to enforce discipline previously imposed on a certificateholder or registrant for acts or omissions committed by the certificateholder or registrant while holding a certificate or registration.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">At least 60 days prior to the end of a licensure cycle, the department shall forward:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A licensure renewal notification to an active or inactive certificateholder or registrant at the certificateholder’s or registrant’s address of record.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A notice of pending cancellation of licensure to a delinquent status certificateholder or registrant at the certificateholder’s or registrant’s address of record.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 93-166; ss. 10, 261, ch. 94-119; s. 31, ch. 2012-61.</History>
+</Section>

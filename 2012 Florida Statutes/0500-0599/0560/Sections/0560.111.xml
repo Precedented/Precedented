@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0560.111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Prohibited acts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A money services business, authorized vendor, or affiliated party may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Receive or possess any property except in payment of a just demand, and, with intent to deceive or defraud, to omit to make or to cause to be made a full and true entry thereof in its books and accounts, or to concur in omitting to make any material entry thereof.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Embezzle, abstract, or misapply any money, property, or thing of value belonging to the money services business, an authorized vendor, or customer with intent to deceive or defraud.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Make any false entry in its books, accounts, reports, files, or documents with intent to deceive or defraud another person, or with intent to deceive the office, any appropriate regulator, or any authorized third party appointed by the office to examine or investigate the affairs of the money services business or authorized vendor.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Engage in an act that violates 18 U.S.C. s. 1956, 18 U.S.C. s. 1957, 18 U.S.C. s. 1960, 31 U.S.C. s. 5324, or any other law, rule, or regulation of another state or the United States relating to a money services business, deferred presentment provider, or usury which may cause the denial or revocation of a money services business or deferred presentment provider license or the equivalent in that jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">File with the office, sign as a duly authorized representative, or deliver or disclose, by any means, to the office or any of its employees any examination report, report of condition, report of income and dividends, audit, account, statement, file, or document known by it to be fraudulent or false as to any material matter.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Place among the assets of a money services business or authorized vendor any note, obligation, or security that the money services business or authorized vendor does not own or is known to be fraudulent or otherwise worthless, or to represent to the office that any note, obligation, or security is the property of the money services business or authorized vendor and is genuine if it is known to be fraudulent or otherwise worthless.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Knowingly possess any fraudulent identification paraphernalia. This paragraph does not prohibit the maintenance and retention of any records required by this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person may not knowingly execute, or attempt to execute, a scheme or artifice to defraud a money services business or authorized vendor, or obtain the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a money services business or authorized vendor, by means of false or fraudulent pretenses, representations, or promises.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A person other than the conductor of a payment instrument may not provide a licensee engaged in cashing the payment instrument with the customer’s personal identification information.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person who violates any provision of this section commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any person who willfully violates any provision of s. 560.403, s. 560.404, or s. 560.405 commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 94-238; s. 1, ch. 94-354; s. 2, ch. 97-59; s. 4, ch. 2000-360; s. 2, ch. 2001-119; s. 694, ch. 2003-261; s. 8, ch. 2008-177; s. 67, ch. 2009-21; s. 3, ch. 2012-85.</History>
+</Section>

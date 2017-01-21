@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0057.105" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Attorney’s fee; sanctions for raising unsupported claims or defenses; exceptions; service of motions; damages for delay of litigation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Upon the court’s initiative or motion of any party, the court shall award a reasonable attorney’s fee, including prejudgment interest, to be paid to the prevailing party in equal amounts by the losing party and the losing party’s attorney on any claim or defense at any time during a civil proceeding or action in which the court finds that the losing party or the losing party’s attorney knew or should have known that a claim or defense when initially presented to the court or at any time before trial:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Was not supported by the material facts necessary to establish the claim or defense; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Would not be supported by the application of then-existing law to those material facts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At any time in any civil proceeding or action in which the moving party proves by a preponderance of the evidence that any action taken by the opposing party, including, but not limited to, the filing of any pleading or part thereof, the assertion of or response to any discovery demand, the assertion of any claim or defense, or the response to any request by any other party, was taken primarily for the purpose of unreasonable delay, the court shall award damages to the moving party for its reasonable expenses incurred in obtaining the order, which may include attorney’s fees, and other loss resulting from the improper delay.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsections (1) and (2), monetary sanctions may not be awarded:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Under paragraph (1)(b) if the court determines that the claim or defense was initially presented to the court as a good faith argument for the extension, modification, or reversal of existing law or the establishment of new law, as it applied to the material facts, with a reasonable expectation of success.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Under paragraph (1)(a) or paragraph (1)(b) against the losing party’s attorney if he or she has acted in good faith, based on the representations of his or her client as to the existence of those material facts.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Under paragraph (1)(b) against a represented party.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">On the court’s initiative under subsections (1) and (2) unless sanctions are awarded before a voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A motion by a party seeking sanctions under this section must be served but may not be filed with or presented to the court unless, within 21 days after service of the motion, the challenged paper, claim, defense, contention, allegation, or denial is not withdrawn or appropriately corrected.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In administrative proceedings under chapter 120, an administrative law judge shall award a reasonable attorney’s fee and damages to be paid to the prevailing party in equal amounts by the losing party and a losing party’s attorney or qualified representative in the same manner and upon the same basis as provided in subsections (1)-(4). Such award shall be a final order subject to judicial review pursuant to s. 120.68. If the losing party is an agency as defined in s. 120.52(1), the award to the prevailing party shall be against and paid by the agency. A voluntary dismissal by a nonprevailing party does not divest the administrative law judge of jurisdiction to make the award described in this subsection.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The provisions of this section are supplemental to other sanctions or remedies available under law or under court rules.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">If a contract contains a provision allowing attorney’s fees to a party when he or she is required to take any action to enforce the contract, the court may also allow reasonable attorney’s fees to the other party when that party prevails in any action, whether as plaintiff or defendant, with respect to the contract. This subsection applies to any contract entered into on or after October 1, 1988.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 78-275; s. 61, ch. 86-160; ss. 1, 2, ch. 88-160; s. 1, ch. 90-300; s. 316, ch. 95-147; s. 4, ch. 99-225; s. 1, ch. 2002-77; s. 9, ch. 2003-94; s. 1, ch. 2010-129.</History>
+</Section>

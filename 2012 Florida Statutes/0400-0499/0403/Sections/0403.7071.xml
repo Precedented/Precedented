@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.7071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Management of storm-generated debris.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Solid waste generated as a result of a storm event that is the subject of an emergency order issued by the department may be managed as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Recycling and reuse of storm-generated vegetative debris is encouraged to the greatest extent practicable. Such recycling and reuse must be conducted in accordance with applicable department rules and may include, but is not limited to, chipping and grinding of the vegetative debris to be beneficially used as a ground cover or soil amendment, compost, or as a combustible fuel for any applicable commercial or industrial application.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may issue field authorizations for staging areas in those counties affected by a storm event. Such staging areas may be used for the temporary storage and management of storm-generated debris, including the chipping, grinding, or burning of vegetative debris. Field authorizations may include specific conditions for the operation and closure of the staging area and must specify the date that closure is required. To the greatest extent possible, staging areas may not be located in wetlands or other surface waters. The area that is used or affected by a staging area must be fully restored upon cessation of the use of the area.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Storm-generated vegetative debris managed at a staging area may be disposed of in a permitted lined or unlined landfill, a permitted land clearing debris facility, a permitted or certified waste-to-energy facility, or a permitted construction and demolition debris disposal facility. Vegetative debris may also be managed at a permitted waste processing facility or a registered yard trash processing facility.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Construction and demolition debris that is mixed with other storm-generated debris need not be segregated from other solid waste before disposal in a lined landfill. Construction and demolition debris that is source separated or is separated from other hurricane-generated debris at an authorized staging area, or at another area permitted or specifically authorized by the department, may be managed at a permitted construction and demolition debris disposal facility, a Class III landfill, or a recycling facility upon approval by the department of the methods and operational practices used to inspect the waste during segregation.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Unsalvageable refrigerators and freezers containing solid waste, such as rotting food, which may create a sanitary nuisance may be disposed of in a permitted lined landfill; however, chlorofluorocarbons and capacitors must be removed and recycled to the greatest extent practicable.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Local governments or their agents may conduct the burning of storm-generated yard trash, other storm-generated vegetative debris, or untreated wood from construction and demolition debris in air-curtain incinerators without prior notice to the department. Within 10 days after commencing such burning, the local government shall notify the department in writing describing the general nature of the materials burned; the location and method of burning; and the name, address, and telephone number of the representative of the local government to contact concerning the work. The operator of the air-curtain incinerator is subject to any requirement of the Florida Forest Service or of any other agency concerning authorization to conduct open burning. Any person conducting open burning of vegetative debris is also subject to such requirements.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2007-184; s. 20, ch. 2012-7.</History>
+</Section>

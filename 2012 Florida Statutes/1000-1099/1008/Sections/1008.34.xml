@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.34" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School grading system; school report cards; district grade.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ANNUAL REPORTS.<EmDash />The Commissioner of Education shall prepare annual reports of the results of the statewide assessment program which describe student achievement in the state, each district, and each school. The commissioner shall prescribe the design and content of these reports, which must include descriptions of the performance of all schools participating in the assessment program and all of their major student populations as determined by the commissioner. The report must also include the percent of students performing at or above grade level and making a year’s learning growth in a year’s time in reading and mathematics. The provisions of s. 1002.22 pertaining to student records apply to this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SCHOOL GRADES.<EmDash />The annual report shall identify schools as having one of the following grades, defined according to rules of the State Board of Education:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“A,” schools making excellent progress.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“B,” schools making above average progress.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“C,” schools making satisfactory progress.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“D,” schools making less than satisfactory progress.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“F,” schools failing to make adequate progress.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Each school that earns a grade of “A” or improves at least two letter grades shall have greater authority over the allocation of the school’s total budget generated from the FEFP, state categoricals, lottery funds, grants, and local funds, as specified in state board rule. The rule must provide that the increased budget authority shall remain in effect until the school’s grade declines.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DESIGNATION OF SCHOOL GRADES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each school that has students who are tested and included in the school grading system shall receive a school grade, except as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A school shall not receive a school grade if the number of its students tested and included in the school grading system is less than the minimum sample size necessary, based on accepted professional practice, for statistical reliability and prevention of the unlawful release of personally identifiable student data under s. 1002.22 or 20 U.S.C. s. 1232g.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An alternative school may choose to receive a school grade under this section or a school improvement rating under s. 1008.341. For charter schools that meet the definition of an alternative school pursuant to State Board of Education rule, the decision to receive a school grade is the decision of the charter school governing board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A school that serves any combination of students in kindergarten through grade 3 which does not receive a school grade because its students are not tested and included in the school grading system shall receive the school grade designation of a K-3 feeder pattern school identified by the Department of Education and verified by the school district. A school feeder pattern exists if at least 60 percent of the students in the school serving a combination of students in kindergarten through grade 3 are scheduled to be assigned to the graded school.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A school’s grade shall be based on a combination of:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Student achievement scores, including achievement as measured by FCAT assessments under s. 1008.22(3)(c)1., statewide, standardized end-of-course assessments under s. 1008.22(3)(c)2.a. and b., and achievement scores for students seeking a special diploma.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Student learning gains in reading and mathematics as measured by FCAT and statewide, standardized end-of-course assessments, as described in s. 1008.22(3)(c)1. and 2.a., including learning gains for students seeking a special diploma, as measured by an alternate assessment.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Improvement of the lowest 25th percentile of students in the school in reading and mathematics on the FCAT or end-of-course assessments described in s. 1008.22(3)(c)2.a., unless these students are exhibiting satisfactory performance.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Beginning with the 2011-2012 school year, for schools comprised of middle school grades 6 through 8 or grades 7 and 8, the school’s grade shall include the performance and participation of its students enrolled in high school level courses with end-of-course assessments administered under s. 1008.22(3)(c)2.a. Performance and participation must be weighted equally. As valid data becomes available, the school grades shall include the students’ attainment of national industry certification identified in the Industry Certification Funding List pursuant to rules adopted by the state board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Beginning with the 2009-2010 school year for schools comprised of high school grades 9, 10, 11, and 12, or grades 10, 11, and 12, at least 50 percent of the school grade shall be based on a combination of the factors listed in sub-subparagraphs 1.a.-c. and the remaining percentage on the following factors:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The high school graduation rate of the school;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">As valid data becomes available, the performance and participation of the school’s students in College Board Advanced Placement courses, International Baccalaureate courses, dual enrollment courses, and Advanced International Certificate of Education courses; and the students’ achievement of national industry certification identified in the Industry Certification Funding List, pursuant to rules adopted by the state board;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Postsecondary readiness of all of the school’s on-time graduates as measured by the SAT, the ACT, the Postsecondary Education Readiness Test, or the common placement test;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The high school graduation rate of at-risk students, who are students scoring at Level 1 or Level 2 on grade 8 FCAT Reading and FCAT Mathematics;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">As valid data becomes available, the performance of the school’s students on statewide, standardized end-of-course assessments administered under s. 1008.22(3)(c)2.c. and d.; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The growth or decline in the components listed in sub-subparagraphs a.-e. from year to year.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Student assessment data used in determining school grades shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The aggregate scores of all eligible students enrolled in the school who have been assessed on the FCAT and statewide, standardized end-of-course assessments in courses required for high school graduation, including, beginning with the 2011-2012 school year, the end-of-course assessment in Algebra I; and beginning with the 2012-2013 school year, the end-of-course assessments in geometry and Biology I; and beginning with the 2014-2015 school year, on the statewide, standardized end-of-course assessment in civics education at the middle school level.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The aggregate scores of all eligible students enrolled in the school who have been assessed on the FCAT and statewide, standardized end-of-course assessments as described in s. 1008.22(3)(c)2.a., and who have scored at or in the lowest 25th percentile of students in the school in reading and mathematics, unless these students are exhibiting satisfactory performance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The achievement scores and learning gains of eligible students attending alternative schools that provide dropout prevention and academic intervention services pursuant to s. 1003.53. The term “eligible students” in this subparagraph does not include students attending an alternative school who are subject to district school board policies for expulsion for repeated or serious offenses, who are in dropout retrieval programs serving students who have officially been designated as dropouts, or who are in programs operated or contracted by the Department of Juvenile Justice. The student performance data for eligible students identified in this subparagraph shall be included in the calculation of the home school’s grade. As used in this subparagraph and s. 1008.341, the term “home school” means the school to which the student would be assigned if the student were not assigned to an alternative school. If an alternative school chooses to be graded under this section, student performance data for eligible students identified in this subparagraph shall not be included in the home school’s grade but shall be included only in the calculation of the alternative school’s grade. A school district that fails to assign the FCAT and statewide, standardized end-of-course assessment as described in s. 1008.22(3)(c)2.a. scores of each of its students to his or her home school or to the alternative school that receives a grade shall forfeit Florida School Recognition Program funds for 1 fiscal year. School districts must require collaboration between the home school and the alternative school in order to promote student success. This collaboration must include an annual discussion between the principal of the alternative school and the principal of each student’s home school concerning the most appropriate school assignment of the student.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The achievement scores and learning gains of students designated as hospital- or homebound. Student assessment data for students designated as hospital- or homebound shall be assigned to their home school for the purposes of school grades. As used in this subparagraph, the term “home school” means the school to which a student would be assigned if the student were not assigned to a hospital- or homebound program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">For schools comprised of high school grades 9, 10, 11, and 12, or grades 10, 11, and 12, the data listed in subparagraphs 1.-3. and the following data as the Department of Education determines such data are valid and available:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The high school graduation rate of the school as calculated by the department;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The participation rate of all eligible students enrolled in the school and enrolled in College Board Advanced Placement courses; International Baccalaureate courses; dual enrollment courses; Advanced International Certificate of Education courses; and courses or sequences of courses leading to national industry certification identified in the Industry Certification Funding List, pursuant to rules adopted by the State Board of Education;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The aggregate scores of all eligible students enrolled in the school in College Board Advanced Placement courses, International Baccalaureate courses, and Advanced International Certificate of Education courses;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Earning of college credit by all eligible students enrolled in the school in dual enrollment programs under s. 1007.271;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Earning of a national industry certification identified in the Industry Certification Funding List, pursuant to rules adopted by the State Board of Education;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The aggregate scores of all eligible students enrolled in the school in reading, mathematics, and other subjects as measured by the SAT, the ACT, the Postsecondary Education Readiness Test, and the common placement test for postsecondary readiness;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">The high school graduation rate of all eligible at-risk students enrolled in the school who scored at Level 2 or lower on grade 8 FCAT Reading and FCAT Mathematics;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">The performance of the school’s students on statewide, standardized end-of-course assessments administered under s. 1008.22(3)(c)2.c. and d.; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">The growth or decline in the data components listed in sub-subparagraphs a.-h. from year to year.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The State Board of Education shall adopt appropriate criteria for each school grade. The criteria must also give added weight to student achievement in reading. Schools earning a grade of “C,” making satisfactory progress, shall be required to demonstrate that adequate progress has been made by students in the school who are in the lowest 25th percentile in reading and mathematics on the FCAT and end-of-course assessments as described in s. 1008.22(3)(c)2.a., unless these students are exhibiting satisfactory performance. For schools comprised of high school grades 9, 10, 11, and 12, or grades 10, 11, and 12, the criteria for school grades must also give added weight to the graduation rate of all eligible at-risk students. In order for a high school to earn a grade of “A,” the school must demonstrate that its at-risk students, as defined in this paragraph, are making adequate progress.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">SCHOOL IMPROVEMENT RATINGS.<EmDash />The annual report shall identify each school’s performance as having improved, remained the same, or declined. This school improvement rating shall be based on a comparison of the current year’s and previous year’s student and school performance data. A school that improves its rating by at least one level is eligible for school recognition awards pursuant to s. 1008.36.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SCHOOL REPORT CARD.<EmDash />The Department of Education shall annually develop, in collaboration with the school districts, a school report card to be provided by the school district to parents within the district. The report card shall include the school’s grade, information regarding school improvement, an explanation of school performance as evaluated by the federal Elementary and Secondary Education Act (ESEA), 20 U.S.C. ss. 6301 et seq., and indicators of return on investment. Each school’s report card shall be published annually by the department on its website.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">PERFORMANCE-BASED FUNDING.<EmDash />The Legislature may factor in the performance of schools in calculating any performance-based funding policy that is provided for annually in the General Appropriations Act.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">DISTRICT GRADE.<EmDash />The annual report required by subsection (1) shall include the school district’s grade. A school district’s grade shall be calculated using student performance and learning gains data on statewide assessments used for determining school grades under subparagraph (3)(b)1. for each eligible student enrolled for a full school year in the district. This calculation methodology captures each eligible student in the district who may have transferred among schools within the district or is enrolled in a school that does not receive a grade.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education shall adopt rules under ss. 120.536(1) and 120.54 to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 378, ch. 2002-387; s. 46, ch. 2006-74; s. 21, ch. 2008-235; s. 100, ch. 2009-21; s. 3, ch. 2009-222; s. 11, ch. 2010-22; s. 5, ch. 2010-48; s. 55, ch. 2011-4; s. 29, ch. 2011-175; s. 8, ch. 2012-194.</History>
+</Section>

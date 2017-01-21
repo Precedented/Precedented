@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.05" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Heads of departments; powers and duties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each head of a department, subject to the allotment of executive power under Article IV of the State Constitution, and except as otherwise provided by law, must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Plan, direct, coordinate, and execute the powers, duties, and functions vested in that department or vested in a division, bureau, or section of that department; powers and duties assigned or transferred to a division, bureau, or section of the department must not be construed to limit this authority and this responsibility;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Have authority, without being relieved of responsibility, to execute any of the powers, duties, and functions vested in the department or in any administrative unit thereof through administrative units and through assistants and deputies designated by the head of the department from time to time, unless the head of the department is explicitly required by law to perform the same without delegation;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Compile annually a comprehensive program budget reporting all program and fiscal matters related to the operation of his or her department, including each program, subprogram, and activity, and other matters as required by law;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Reimburse the members of advisory bodies, commissions, and boards of trustees for their actual and necessary expenses incurred in the performance of their duties in accordance with s. 112.061;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Subject to the requirements of chapter 120, exercise existing authority to adopt rules pursuant and limited to the powers, duties, and functions transferred to the department;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Exercise authority on behalf of the department to accept gifts, grants, bequests, loans, and endowments for purposes consistent with the powers, duties, and functions of the department. All such funds must be deposited in the State Treasury and appropriated by the Legislature for the purposes for which they were received by the department;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">If a department is under the direct supervision of a board, including a board consisting of the Governor and Cabinet, however designated, employ an executive director to serve at its pleasure; and</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Make recommendations concerning more effective internal structuring of the department to the Legislature. Unless otherwise required by law, such recommendations must be provided to the Legislature at least 30 days before the first day of the regular session at which they are to be considered, when practicable.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The appointment of a secretary appointed by the Governor to serve as the head of a department must be confirmed by the Senate.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Governor may assign the Lieutenant Governor, without Senate confirmation, the duty of serving as the head of any one department, the head of which is a secretary appointed by the Governor, notwithstanding any qualifications for appointment as secretary of the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each head of a department may require any officer or employee of the department to give a bond for the faithful performance of his or her duties. The head of a department may determine the amount of the bond and must approve the bond. In determining the amount of the bond, the head of the department may consider the amount of money or property likely to be in custody of the officer or employee at any one time. The premiums for the bonds must be paid out of the funds of the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 69-106; s. 2, ch. 74-256; s. 8, ch. 77-104; s. 4, ch. 94-235; s. 1314, ch. 95-147; s. 3, ch. 98-34; s. 6, ch. 2012-116.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 3, ch. 2012-116, provides that “[t]he Legislature intends that the amendments made by this act to ss. 20.02, 20.03, and 20.05, Florida Statutes, which apply to the organizational structure of the executive branch, and the creation of s. 120.515, Florida Statutes, which applies to administrative procedure, are to clarify that the placement of an executive department under the direct administration of an officer or board appointed by and serving at the pleasure of the Governor does not implicitly limit or restrict the Governor’s prerogative, legal authority, and constitutional responsibility to direct and supervise the execution of the law and the exercise of lawful discretion.”</Text>
+	</Note>
+</Section>

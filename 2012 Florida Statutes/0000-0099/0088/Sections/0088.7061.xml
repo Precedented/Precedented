@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.7061" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Registration of convention support order.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this part, a party who is an individual or a support enforcement agency seeking recognition of a convention support order shall register the order in this state as provided in part VI of this chapter.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding ss. 88.3111 and 88.6021(1), a request for registration of a convention support order must be accompanied by the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A complete text of the support order, or an abstract or extract of the support order drawn up by the issuing foreign tribunal, which may be in the form recommended by the Hague Conference on Private International Law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A record stating that the support order is enforceable in the issuing country.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the respondent did not appear and was not represented in the proceedings in the issuing country, a record attesting, as appropriate, either that the respondent had proper notice of the proceedings and an opportunity to be heard, or that the respondent had proper notice of the support order and the opportunity to be heard in a challenge or appeal on fact or law before a tribunal.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A record showing the amount of any arrears, and the date the amount was calculated.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A record showing a requirement for automatic adjustment of the amount of support, if any, and the information necessary to make the appropriate calculations, if necessary.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A record showing the extent to which the applicant received free legal assistance in the issuing country.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A request for registration of a convention support order may seek recognition and partial enforcement of the order.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state may vacate the registration of a convention support order without the filing of a contest under s. 88.7071 only if, acting on its own motion, the tribunal finds that recognition and enforcement of the order would be manifestly incompatible with public policy.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The tribunal shall promptly notify the parties of the registration or the order vacating the registration of a convention support order.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 64, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 64, ch. 2011-92, created s. 88.7061, to be effective on a date contingent upon the provisions of s. 81, ch. 2011-92. Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.”</Text>
+	</Note>
+</Section>

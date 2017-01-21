@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0320.95" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Transactions by electronic or telephonic means.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may accept an application provided for under this chapter by electronic or telephonic means.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may collect electronic mail addresses and use electronic mail in lieu of the United States Postal Service for the purpose of providing renewal notices.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 21, ch. 97-300; s. 44, ch. 2012-181.</History>
+</Section>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0765.303" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Suggested form of a living will.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A living will may, BUT NEED NOT, be in the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter">Living Will</Text>
+			<Text xml:space="preserve" Style="Indent">Declaration made this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, I, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, willfully and voluntarily make known my desire that my dying not be artificially prolonged under the circumstances set forth below, and I do hereby declare that, if at any time I am incapacitated and</Text>
+			<Text xml:space="preserve" Style="Indent"><Directions xml:space="preserve">(initial)</Directions> I have a terminal condition</Text>
+			<Text xml:space="preserve" Style="Indent">or <Directions xml:space="preserve">(initial)</Directions> I have an end-stage condition</Text>
+			<Text xml:space="preserve" Style="Indent">or <Directions xml:space="preserve">(initial)</Directions> I am in a persistent vegetative state</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">and if my attending or treating physician and another consulting physician have determined that there is no reasonable medical probability of my recovery from such condition, I direct that life-prolonging procedures be withheld or withdrawn when the application of such procedures would serve only to prolong artificially the process of dying, and that I be permitted to die naturally with only the administration of medication or the performance of any medical procedure deemed necessary to provide me with comfort care or to alleviate pain.</Text>
+			<Text xml:space="preserve" Style="Indent">It is my intention that this declaration be honored by my family and physician as the final expression of my legal right to refuse medical or surgical treatment and to accept the consequences for such refusal.</Text>
+			<Text xml:space="preserve" Style="Indent">In the event that I have been determined to be unable to provide express and informed consent regarding the withholding, withdrawal, or continuation of life-prolonging procedures, I wish to designate, as my surrogate to carry out the provisions of this declaration:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Name:<HorizontalRule Type="Variable" /></Text>
+			<Text xml:space="preserve" Style="Flush">Address:<HorizontalRule Type="Variable" /></Text>
+			<Table Width="100">
+				<ColumnDefinitions>
+					<Column Width="60" />
+					<Column Width="40" />
+				</ColumnDefinitions>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Zip Code:<HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/></Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+			<Text xml:space="preserve" Style="Flush">Phone:<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="Indent">I understand the full import of this declaration, and I am emotionally and mentally competent to make this declaration.</Text>
+			<Text xml:space="preserve" Style="Flush">Additional Instructions (optional): <HorizontalRule Type="Full" /><HorizontalRule Type="Full" /><HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />(Signed)<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />Witness<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />Address<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />Phone<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />Witness<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter"><HorizontalRule Type="Fixed" />Address<HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceBelow="true"><HorizontalRule Type="Fixed" />Phone<HorizontalRule Type="Fixed" /></Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The principal’s failure to designate a surrogate shall not invalidate the living will.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 92-199; s. 35, ch. 99-6; s. 26, ch. 99-331; s. 12, ch. 2000-295.</History>
+</Section>

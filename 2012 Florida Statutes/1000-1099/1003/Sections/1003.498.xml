@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1003.498" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School district virtual course offerings.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">School districts may deliver courses in the traditional school setting by personnel certified pursuant to s. 1012.55 who provide direct instruction through virtual instruction or through blended learning courses consisting of both traditional classroom and online instructional techniques. Students in a blended learning course must be full-time students of the school and receive the online instruction in a classroom setting at the school. The funding, performance, and accountability requirements for blended learning courses are the same as those for traditional courses.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">School districts may offer virtual courses for students enrolled in the school district. These courses must be identified in the course code directory. Students who meet the eligibility requirements of s. 1002.455 may participate in these virtual course offerings.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any eligible student who is enrolled in a school district may register and enroll in an online course offered by his or her school district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any eligible student who is enrolled in a school district may register and enroll in an online course offered by any other school district in the state, except as limited by the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A student may not enroll in a course offered through a virtual instruction program provided pursuant to s. 1002.45.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A student may not enroll in a virtual course offered by another school district if:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The course is offered online by the school district in which the student resides; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The course is offered in the school in which the student is enrolled. However, a student may enroll in an online course offered by another school district if the school in which the student is enrolled offers the course but the student is unable to schedule the course in his or her school.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The school district in which the student completes the course shall report the student’s completion of that course for funding pursuant to s. 1011.61(1)(c)1.b.(VI), and the home school district shall not report the student for funding for that course.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">For purposes of this paragraph, the combined total of all school district reported FTE may not be reported as more than 1.0 full-time equivalent student in any given school year. The Department of Education shall establish procedures to enable interdistrict coordination for the delivery and funding of this online option.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2011-137; s. 94, ch. 2012-5; s. 7, ch. 2012-192.</History>
+</Section>

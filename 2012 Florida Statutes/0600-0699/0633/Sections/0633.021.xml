@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0633.021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Board” means the Florida Fire Safety Board.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Certificate” means a certificate of competency issued by the State Fire Marshal.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Certification” means the act of obtaining or holding a certificate of competency from the State Fire Marshal.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Contracting” means engaging in business as a contractor.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Contractor I” means a contractor whose business includes the execution of contracts requiring the ability to lay out, fabricate, install, inspect, alter, repair, and service all types of fire protection systems, excluding preengineered systems.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Contractor II” means a contractor whose business is limited to the execution of contracts requiring the ability to lay out, fabricate, install, inspect, alter, repair, and service water sprinkler systems, water spray systems, foam-water sprinkler systems, foam-water spray systems, standpipes, combination standpipes and sprinkler risers, all piping that is an integral part of the system beginning at the point of service as defined in this section, sprinkler tank heaters, air lines, thermal systems used in connection with sprinklers, and tanks and pumps connected thereto, excluding preengineered systems.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Contractor III” means a contractor whose business is limited to the execution of contracts requiring the ability to fabricate, install, inspect, alter, repair, and service CO<Font xml:space="preserve" Baseline="Subscript">2</Font> systems, foam extinguishing systems, dry chemical systems, and Halon and other chemical systems, excluding preengineered systems.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Contractor IV” means a contractor whose business is limited to the execution of contracts requiring the ability to lay out, fabricate, install, inspect, alter, repair, and service automatic fire sprinkler systems for detached one-family dwellings, detached two-family dwellings, and mobile homes, excluding preengineered systems and excluding single-family homes in cluster units, such as apartments, condominiums, and assisted living facilities or any building that is connected to other dwellings.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Contractor V” means a contractor whose business is limited to the execution of contracts requiring the ability to fabricate, install, inspect, alter, repair, and service the underground piping for a fire protection system using water as the extinguishing agent beginning at the point of service as defined in this act and ending no more than 1 foot above the finished floor.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The definitions in this subsection must not be construed to include fire protection engineers or architects and do not limit or prohibit a licensed fire protection engineer or architect from designing any type of fire protection system. A distinction is made between system design concepts prepared by the design professional and system layout as defined in this section and typically prepared by the contractor. However, persons certified as a Contractor I, Contractor II, or Contractor IV under this chapter may design fire protection systems of 49 or fewer sprinklers, and may design the alteration of an existing fire sprinkler system if the alteration consists of the relocation, addition, or deletion of not more than 49 sprinklers, notwithstanding the size of the existing fire sprinkler system. A Contractor I, Contractor II, or Contractor IV may design a fire protection system the scope of which complies with NFPA 13D, Standard for the Installation of Sprinkler Systems in One- and Two-Family Dwellings and Manufactured Homes, as adopted by the State Fire Marshal, notwithstanding the number of fire sprinklers. Contractor-developed plans may not be required by any local permitting authority to be sealed by a registered professional engineer.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Explosives” means any chemical compound or mixture that has the property of yielding readily to combustion or oxidation upon the application of heat, flame, or shock and is capable of producing an explosion and is commonly used for that purpose, including but not limited to dynamite, nitroglycerin, trinitrotoluene, ammonium nitrate when combined with other ingredients to form an explosive mixture, blasting caps, and detonators; but the term does not include cartridges for firearms or fireworks as defined in chapter 791.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Fire equipment dealer Class A” means a licensed fire equipment dealer whose business is limited to servicing, recharging, repairing, installing, or inspecting all types of fire extinguishers and conducting hydrostatic tests on all types of fire extinguishers.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Fire equipment dealer Class B” means a licensed fire equipment dealer whose business is limited to servicing, recharging, repairing, installing, or inspecting all types of fire extinguishers, including recharging carbon dioxide units and conducting hydrostatic tests on all types of fire extinguishers, except carbon dioxide units.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Fire equipment dealer Class C” means a licensed fire equipment dealer whose business is limited to servicing, recharging, repairing, installing, or inspecting all types of fire extinguishers, except recharging carbon dioxide units, and conducting hydrostatic tests on all types of fire extinguishers, except carbon dioxide units.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Fire equipment dealer Class D” means a licensed fire equipment dealer whose business is limited to servicing, recharging, repairing, installing, hydrotesting, or inspecting of all types of preengineered fire extinguishing systems.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A “fire extinguisher” is a cylinder that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is portable and can be carried or is on wheels.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is manually operated.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">May use a variety of extinguishing agents that are expelled under pressure.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Is rechargeable or nonrechargeable.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Is installed, serviced, repaired, recharged, inspected, and hydrotested according to applicable procedures of the manufacturer, standards of the National Fire Protection Association, and the Code of Federal Regulations.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Is listed by a nationally recognized testing laboratory.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A “fire hydrant” is a connection to a water main, elevated water tank, or other source of water for the purpose of supplying water to a fire hose or other fire protection apparatus for fire suppression operations.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">A “fire protection system” is a system individually designed to protect the interior or exterior of a specific building, structure, or other special hazard from fire. Such systems include, but are not limited to, water sprinkler systems, water spray systems, foam-water sprinkler systems, foam-water spray systems, CO<Font xml:space="preserve" Baseline="Subscript">2</Font> systems, foam extinguishing systems, dry chemical systems, and Halon and other chemical systems used for fire protection use. Such systems also include any overhead and underground fire mains, fire hydrants and hydrant mains, standpipes and hoses connected to sprinkler systems, sprinkler tank heaters, air lines, thermal systems used in connection with fire sprinkler systems, and tanks and pumps connected to fire sprinkler systems.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">A “firesafety inspector” is an individual certified by the State Fire Marshal under s. 633.081 who is officially assigned the duties of conducting firesafety inspections of buildings and facilities on a recurring or regular basis.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Handling” means touching, holding, taking up, moving, controlling, or otherwise affecting with the hand or by any other agency.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the purposes of s. 633.085(1), the term “high-hazard occupancy” means any building or structure:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That contains combustible or explosive matter or flammable conditions dangerous to the safety of life or property.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In which persons receive educational instruction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In which persons reside, excluding private dwellings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Containing three or more floor levels.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Such buildings or structures include, but are not limited to, all hospitals and residential health care facilities, nursing homes and other adult care facilities, correctional or detention facilities, public schools, public lodging establishments, migrant labor camps, residential child care facilities, and self-service gasoline stations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this subsection, the term “high-hazard occupancy” does not include any residential condominium where the declaration of condominium or the bylaws provide that the rental of units shall not be permitted for less than 90 days.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Highway” means every way or place of whatever nature within the state open to the use of the public, as a matter of right, for purposes of vehicular traffic and includes public streets, alleys, roadways, or driveways upon grounds of colleges, universities, and institutions and other ways open to travel by the public, notwithstanding that the same have been temporarily closed for the purpose of construction, reconstruction, maintenance, or repair. The term does not include a roadway or driveway upon grounds owned by a private person.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Keeping” means possessing, holding, retaining, maintaining, or having habitually in stock for sale.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Layout” as used in this chapter means the layout of risers, cross mains, branch lines, sprinkler heads, sizing of pipe, hanger locations, and hydraulic calculations in accordance with the design concepts established through the provisions of the Responsibility Rules adopted by the Board of Professional Engineers.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Manufacture” means the compounding, combining, producing, or making of anything or the working of anything by hand, by machinery, or by any other agency into forms suitable for use.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">A “minimum firesafety standard” is a requirement or group of requirements adopted pursuant to s. 633.025 by a county, municipality, or special district with firesafety responsibilities, or by the State Fire Marshal pursuant to s. 394.879, for the protection of life and property from loss by fire which shall be met, as a minimum, by every occupancy, facility, building, structure, premises, device, or activity to which it applies.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Motor vehicle” means any device propelled by power other than muscular power in, upon, or by which any person or property is or may be transported or drawn upon a highway, except a device moved or used exclusively upon stationary rails or tracks.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Point-of-service” means the point at which the underground piping for a fire protection system as defined in this section using water as the extinguishing agent becomes used exclusively for the fire protection system.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A “preengineered system” is a fire suppression system which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Uses any of a variety of extinguishing agents.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is designed to protect specific hazards.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Must be installed according to pretested limitations and configurations specified by the manufacturer and applicable National Fire Protection Association (NFPA) standards. Only those chapters within the National Fire Protection Association standards that pertain to servicing, recharging, repairing, installing, hydrotesting, or inspecting any type of preengineered fire extinguishing system may be used.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Must be installed using components specified by the manufacturer or components that are listed as equal parts by a nationally recognized testing laboratory such as Underwriters Laboratories, Inc., or Factory Mutual Laboratories, Inc.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Must be listed by a nationally recognized testing laboratory.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Preengineered systems consist of and include all of the components and parts providing fire suppression protection, but do not include the equipment being protected, and may incorporate special nozzles, flow rates, methods of application, pressurization levels, and quantities of agents designed by the manufacturer for specific hazards.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Private carrier” means any motor vehicle, aircraft, or vessel operating intrastate in which there is identity of ownership between freight and carrier.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Sale” means the act of selling; the act whereby the ownership of property is transferred from one person to another for a sum of money or, loosely, for any consideration. The term includes the delivery of merchandise with or without consideration.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Special state firesafety inspector” means an individual officially assigned to the duties of conducting firesafety inspections required by law on behalf of or by an agency of the state having authority for inspections other than the Division of State Fire Marshal.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">A “sprinkler system” is a type of fire protection system, either manual or automatic, using water as an extinguishing agent and installed in accordance with applicable National Fire Protection Association standards.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Storing” means accumulating, laying away, or depositing for preservation or as a reserve fund in a store, warehouse, or other source from which supplies may be drawn or within which they may be deposited. The term is limited in meaning and application to storage having a direct relationship to transportation.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Transportation” means the conveying or carrying of property from one place to another by motor vehicle (except a motor vehicle subject to the provisions of s. 316.302), aircraft, or vessel, subject to such limitations as are set forth in s. 552.12, in which only the motor vehicles, aircraft, or vessels of the Armed Forces and other federal agencies are specifically exempted.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">A “uniform firesafety standard” is a requirement or group of requirements for the protection of life and property from loss by fire which shall be met by every building and structure specified in s. 633.022(1), and is neither weakened nor exceeded by law, rule, or ordinance of any other state agency or political subdivision or county, municipality, or special district with firesafety responsibilities.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Use” means application, employment; that enjoyment of property which consists of its employment, occupation, exercise, or practice.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 65-216; s. 6, ch. 71-271; s. 2, ch. 75-240; s. 1, ch. 80-342; s. 27, ch. 82-186; s. 1, ch. 84-107; s. 1, ch. 84-143; s. 1, ch. 84-243; s. 34, ch. 86-191; s. 4, ch. 87-287; s. 2, ch. 88-209; s. 2, ch. 88-362; s. 14, ch. 89-233; s. 1, ch. 91-189; s. 43, ch. 95-210; s. 6, ch. 95-379; s. 1, ch. 98-170; s. 52, ch. 98-419; s. 44, ch. 2000-372; s. 2, ch. 2001-64; s. 22, ch. 2005-147; s. 8, ch. 2006-65; s. 46, ch. 2010-176; s. 2, ch. 2011-79.</History>
+</Section>

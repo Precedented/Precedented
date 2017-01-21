@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.607" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Collection and enforcement by secured party.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If so agreed, and in any event after default, a secured party:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">May notify an account debtor or other person obligated on collateral to make payment or otherwise render performance to or for the benefit of the secured party;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">May take any proceeds to which the secured party is entitled under s. 679.3151;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">May enforce the obligations of an account debtor or other person obligated on collateral and exercise the rights of the debtor with respect to the obligation of the account debtor or other person obligated on collateral to make payment or otherwise render performance to the debtor, and with respect to any property that secures the obligations of the account debtor or other person obligated on the collateral;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If it holds a security interest in a deposit account perfected by control under s. 679.1041(1)(a), may apply the balance of the deposit account to the obligation secured by the deposit account; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If it holds a security interest in a deposit account perfected by control under s. 679.1041(1)(b) or (c), may instruct the bank to pay the balance of the deposit account to or for the benefit of the secured party.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">If necessary to enable a secured party to exercise under paragraph (1)(c) the right of a debtor to enforce a mortgage nonjudicially outside this state, the secured party may record in the office in which a record of the mortgage is recorded:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A copy of the security agreement that creates or provides for a security interest in the obligation secured by the mortgage; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The secured party’s sworn affidavit in recordable form stating that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A default has occurred; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The secured party is entitled to enforce the mortgage nonjudicially outside this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A secured party shall proceed in a commercially reasonable manner if the secured party:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Undertakes to collect from or enforce an obligation of an account debtor or other person obligated on collateral; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is entitled to charge back uncollected collateral or otherwise to full or limited recourse against the debtor or a secondary obligor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A secured party may deduct from the collections made pursuant to subsection (3) reasonable expenses of collection and enforcement, including reasonable attorney’s fees and legal expenses incurred by the secured party.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">This section does not determine whether an account debtor, bank, or other person obligated on collateral owes a duty to a secured party.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Nothing in subsection (2) is intended to create a right of nonjudicial foreclosure in this state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2001-198; s. 16, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 16, ch. 2012-59, amended subsection (2), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(2) If necessary to enable a secured party to exercise under paragraph (1)(c) the right of a debtor to enforce a mortgage nonjudicially outside this state, the secured party may record in the office in which a record of the mortgage is recorded:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) A copy of the security agreement that creates or provides for a security interest in the obligation secured by the mortgage; and</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The secured party’s sworn affidavit in recordable form stating that:</Text>
+		<Text xml:space="preserve" Style="Indent">1. A default has occurred with respect to the obligation secured by the mortgage; and</Text>
+		<Text xml:space="preserve" Style="Indent">2. The secured party is entitled to enforce the mortgage nonjudicially outside this state.</Text>
+	</Note>
+</Section>

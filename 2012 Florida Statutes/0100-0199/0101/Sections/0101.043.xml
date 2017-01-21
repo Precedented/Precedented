@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0101.043">
+	<Catchline xml:space="preserve">Identification required at polls.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The precinct register, as prescribed in s. 98.461, shall be used at the polls for the purpose of identifying the elector at the polls before allowing him or her to vote. The clerk or inspector shall require each elector, upon entering the polling place, to present one of the following current and valid picture identifications:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Florida driver’s license.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Florida identification card issued by the Department of Highway Safety and Motor Vehicles.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">United States passport.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Debit or credit card.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Military identification.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Student identification.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Retirement center identification.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Neighborhood association identification.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Public assistance identification.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the picture identification does not contain the signature of the elector, an additional identification that provides the elector’s signature shall be required. The address appearing on the identification presented by the elector may not be used as the basis to confirm an elector’s legal residence or otherwise challenge an elector’s legal residence. The elector shall sign his or her name in the space provided on the precinct register or on an electronic device provided for recording the elector’s signature. The clerk or inspector shall compare the signature with that on the identification provided by the elector and enter his or her initials in the space provided on the precinct register or on an electronic device provided for that purpose and allow the elector to vote if the clerk or inspector is satisfied as to the identity of the elector.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">When an elector presents his or her picture identification to the clerk or inspector and the elector’s address on the picture identification matches the elector’s address in the supervisor’s records, the elector may not be asked to provide additional information or to recite his or her home address.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the elector fails to furnish the required identification, the elector shall be allowed to vote a provisional ballot. The canvassing board shall determine the validity of the ballot pursuant to s. 101.048(2).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-267; s. 533, ch. 95-147; s. 10, ch. 98-129; s. 3, ch. 2001-40; s. 13, ch. 2003-415; s. 23, ch. 2005-277; s. 30, ch. 2005-278; s. 26, ch. 2007-30; s. 25, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 98.471.</Text>
+	</Note>
+</Section>

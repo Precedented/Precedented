@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.9916" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">New markets tax credit.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person or entity that makes a qualified investment earns a vested tax credit pursuant to the New Markets Development Program Act against taxes under s. 220.11 or s. 624.509 equal to 39 percent of the purchase price of the qualified investment. The holder of a qualified investment may claim the tax credit as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The holder may apply 7 percent of the purchase price against its tax liability in the tax year containing the third credit allowance date.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The holder may apply 8 percent of the purchase price against its tax liability in the tax years containing the fourth through seventh credit allowance dates.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A taxpayer may not claim a tax credit in excess of the taxpayer’s tax liability. If the credit granted pursuant to this section is not fully used in any single year because of insufficient tax liability on the part of the taxpayer, the unused amount may be carried forward for a period not to exceed 5 years. The carryover credit may be used in a subsequent year when the tax imposed for such year exceeds the credit for such year, after applying the other credits and unused credit carryovers in the order provided in s. 220.02(8). Carryover credit amounts shall be treated as unused credits for purposes of the transfer of unused credits pursuant to paragraph (2)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An insurance company that is subject to the insurance premium tax under s. 624.509 must apply the tax credit against the insurance premium tax. An insurer that claims a credit against premium tax liability earned by making a qualified investment under this section is not required to pay any additional retaliatory tax levied pursuant to s. 624.5091 as a result of claiming the tax credit. If the credit granted pursuant to this section is not fully used in any single year because of insufficient tax liability on the part of the taxpayer, the unused amount may be carried forward for a period not to exceed 5 years. The carryover credit may be used in a subsequent year when the tax imposed for such year exceeds the credit for such year, after applying the other credits and unused credit carryovers. Carryover credit amounts shall be treated as unused credits for purposes of the transfer of unused credits pursuant to paragraph (2)(b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A tax credit earned under this section may not be sold or transferred, except as provided in this subsection.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A partner, member, or shareholder of a partnership, limited liability company, S-corporation, or other “pass-through” entity may claim the tax credit pursuant to an agreement among the partners, members, or shareholders. Any change in the allocation of a tax credit under the agreement must be reported to the department and to the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Eligibility to claim a tax credit transfers to subsequent purchasers of a qualified investment. Such transfers must be reported to the department and to the Department of Revenue along with the identity, tax identification number, and tax credit amount allocated to a taxpayer pursuant to paragraph (a). The notice of transfer also must state whether unused tax credits are being transferred and the amount of unused tax credits being transferred.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 9, 15, ch. 2009-50; s. 198, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Expires December 31, 2022, pursuant to s. 15, ch. 2009-50.</Text>
+	</Note>
+</Section>

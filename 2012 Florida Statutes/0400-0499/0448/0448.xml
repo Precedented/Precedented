@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXI">
+	<ChapterNumber>448</ChapterNumber>
+	<ChapterName xml:space="preserve">General labor regulations</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Terms and conditions of employment</PartTitle>
+		<Section Number="0448.01" />
+		<Section Number="0448.03" />
+		<Section Number="0448.04" />
+		<Section Number="0448.045" />
+		<Section Number="0448.05" />
+		<Section Number="0448.07" />
+		<Section Number="0448.075" />
+		<Section Number="0448.076" />
+		<Section Number="0448.08" />
+		<Section Number="0448.09" />
+		<Section Number="0448.101" />
+		<Section Number="0448.102" />
+		<Section Number="0448.103" />
+		<Section Number="0448.104" />
+		<Section Number="0448.105" />
+		<Section Number="0448.109" />
+		<Section Number="0448.110" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Labor Pool Act</PartTitle>
+		<Section Number="0448.20" />
+		<Section Number="0448.21" />
+		<Section Number="0448.22" />
+		<Section Number="0448.23" />
+		<Section Number="0448.24" />
+		<Section Number="0448.25" />
+		<Section Number="0448.26" />
+	</Part>
+</Chapter>

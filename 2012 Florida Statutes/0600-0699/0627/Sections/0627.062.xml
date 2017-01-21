@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.062" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rate standards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The rates for all classes of insurance to which the provisions of this part are applicable may not be excessive, inadequate, or unfairly discriminatory.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As to all such classes of insurance:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Insurers or rating organizations shall establish and use rates, rating schedules, or rating manuals that allow the insurer a reasonable rate of return on the classes of insurance written in this state. A copy of rates, rating schedules, rating manuals, premium credits or discount schedules, and surcharge schedules, and changes thereto, must be filed with the office under one of the following procedures:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the filing is made at least 90 days before the proposed effective date and is not implemented during the office’s review of the filing and any proceeding and judicial review, such filing is considered a “file and use” filing. In such case, the office shall finalize its review by issuance of a notice of intent to approve or a notice of intent to disapprove within 90 days after receipt of the filing. The notice of intent to approve and the notice of intent to disapprove constitute agency action for purposes of the Administrative Procedure Act. Requests for supporting information, requests for mathematical or mechanical corrections, or notification to the insurer by the office of its preliminary findings does not toll the 90-day period during any such proceedings and subsequent judicial review. The rate shall be deemed approved if the office does not issue a notice of intent to approve or a notice of intent to disapprove within 90 days after receipt of the filing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the filing is not made in accordance with subparagraph 1., such filing must be made as soon as practicable, but within 30 days after the effective date, and is considered a “use and file” filing. An insurer making a “use and file” filing is potentially subject to an order by the office to return to policyholders those portions of rates found to be excessive, as provided in paragraph (h).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For all property insurance filings made or submitted after January 25, 2007, but before May 1, 2012, an insurer seeking a rate that is greater than the rate most recently approved by the office shall make a “file and use” filing. For purposes of this subparagraph, motor vehicle collision and comprehensive coverages are not considered property coverages.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon receiving a rate filing, the office shall review the filing to determine if a rate is excessive, inadequate, or unfairly discriminatory. In making that determination, the office shall, in accordance with generally accepted and reasonable actuarial techniques, consider the following factors:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Past and prospective loss experience within and without this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Past and prospective expenses.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The degree of competition among insurers for the risk insured.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Investment income reasonably expected by the insurer, consistent with the insurer’s investment practices, from investable premiums anticipated in the filing, plus any other expected income from currently invested assets representing the amount expected on unearned premium reserves and loss reserves. The commission may adopt rules using reasonable techniques of actuarial science and economics to specify the manner in which insurers calculate investment income attributable to classes of insurance written in this state and the manner in which investment income is used to calculate insurance rates. Such manner must contemplate allowances for an underwriting profit factor and full consideration of investment income which produce a reasonable rate of return; however, investment income from invested surplus may not be considered.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The reasonableness of the judgment reflected in the filing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Dividends, savings, or unabsorbed premium deposits allowed or returned to Florida policyholders, members, or subscribers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The adequacy of loss reserves.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The cost of reinsurance. The office may not disapprove a rate as excessive solely due to the insurer having obtained catastrophic reinsurance to cover the insurer’s estimated 250-year probable maximum loss or any lower level of loss.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Trend factors, including trends in actual losses per insured unit for the insurer making the filing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Conflagration and catastrophe hazards, if applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Projected hurricane losses, if applicable, which must be estimated using a model or method found to be acceptable or reliable by the Florida Commission on Hurricane Loss Projection Methodology, and as further provided in s. 627.0628.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">A reasonable margin for underwriting profit and contingencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">The cost of medical services, if applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Other relevant factors that affect the frequency or severity of claims or expenses.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In the case of fire insurance rates, consideration must be given to the availability of water supplies and the experience of the fire insurance business during a period of not less than the most recent 5-year period for which such experience is available.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If conflagration or catastrophe hazards are considered by an insurer in its rates or rating plan, including surcharges and discounts, the insurer shall establish a reserve for that portion of the premium allocated to such hazard and maintain the premium in a catastrophe reserve. Removal of such premiums from the reserve for purposes other than paying claims associated with a catastrophe or purchasing reinsurance for catastrophes must be approved by the office. Any ceding commission received by an insurer purchasing reinsurance for catastrophes must be placed in the catastrophe reserve.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">After consideration of the rate factors provided in paragraphs (b), (c), and (d), the office may find a rate to be excessive, inadequate, or unfairly discriminatory based upon the following standards:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Rates shall be deemed excessive if they are likely to produce a profit from Florida business which is unreasonably high in relation to the risk involved in the class of business or if expenses are unreasonably high in relation to services rendered.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Rates shall be deemed excessive if, among other things, the rate structure established by a stock insurance company provides for replenishment of surpluses from premiums, if the replenishment is attributable to investment losses.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Rates shall be deemed inadequate if they are clearly insufficient, together with the investment income attributable to them, to sustain projected losses and expenses in the class of business to which they apply.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A rating plan, including discounts, credits, or surcharges, shall be deemed unfairly discriminatory if it fails to clearly and equitably reflect consideration of the policyholder’s participation in a risk management program adopted pursuant to s. 627.0625.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A rate shall be deemed inadequate as to the premium charged to a risk or group of risks if discounts or credits are allowed which exceed a reasonable reflection of expense savings and reasonably expected loss experience from the risk or group of risks.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A rate shall be deemed unfairly discriminatory as to a risk or group of risks if the application of premium discounts, credits, or surcharges among such risks does not bear a reasonable relationship to the expected loss and expense experience among the various risks.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In reviewing a rate filing, the office may require the insurer to provide, at the insurer’s expense, all information necessary to evaluate the condition of the company and the reasonableness of the filing according to the criteria enumerated in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The office may at any time review a rate, rating schedule, rating manual, or rate change; the pertinent records of the insurer; and market conditions. If the office finds on a preliminary basis that a rate may be excessive, inadequate, or unfairly discriminatory, the office shall initiate proceedings to disapprove the rate and shall so notify the insurer. However, the office may not disapprove as excessive any rate for which it has given final approval or which has been deemed approved for 1 year after the effective date of the filing unless the office finds that a material misrepresentation or material error was made by the insurer or was contained in the filing. Upon being notified, the insurer or rating organization shall, within 60 days, file with the office all information that, in the belief of the insurer or organization, proves the reasonableness, adequacy, and fairness of the rate or rate change. The office shall issue a notice of intent to approve or a notice of intent to disapprove pursuant to paragraph (a) within 90 days after receipt of the insurer’s initial response. In such instances and in any administrative proceeding relating to the legality of the rate, the insurer or rating organization shall carry the burden of proof by a preponderance of the evidence to show that the rate is not excessive, inadequate, or unfairly discriminatory. After the office notifies an insurer that a rate may be excessive, inadequate, or unfairly discriminatory, unless the office withdraws the notification, the insurer may not alter the rate except to conform to the office’s notice until the earlier of 120 days after the date the notification was provided or 180 days after the date of implementing the rate. The office, subject to chapter 120, may disapprove without the 60-day notification any rate increase filed by an insurer within the prohibited time period or during the time that the legality of the increased rate is being contested.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">If the office finds that a rate or rate change is excessive, inadequate, or unfairly discriminatory, the office shall issue an order of disapproval specifying that a new rate or rate schedule, which responds to the findings of the office, be filed by the insurer. The office shall further order, for any “use and file” filing made in accordance with subparagraph (a)2., that premiums charged each policyholder constituting the portion of the rate above that which was actuarially justified be returned to the policyholder in the form of a credit or refund. If the office finds that an insurer’s rate or rate change is inadequate, the new rate or rate schedule filed with the office in response to such a finding is applicable only to new or renewal business of the insurer written on or after the effective date of the responsive filing.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise specifically provided in this chapter, for property and casualty insurance the office may not directly or indirectly:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Prohibit any insurer, including any residual market plan or joint underwriting association, from paying acquisition costs based on the full amount of premium, as defined in s. 627.403, applicable to any policy, or prohibit any such insurer from including the full amount of acquisition costs in a rate filing; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Impede, abridge, or otherwise compromise an insurer’s right to acquire policyholders, advertise, or appoint agents, including the calculation, manner, or amount of such agent commissions, if any.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">With respect to residential property insurance rate filings, the rate filing must account for mitigation measures undertaken by policyholders to reduce hurricane losses.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A residential property insurer may make a separate filing limited solely to an adjustment of its rates for reinsurance, the cost of financing products used as a replacement for reinsurance, financing costs incurred in the purchase of reinsurance, and the actual cost paid due to the application of the cash build-up factor pursuant to s. 215.555(5)(b) if the insurer:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Elects to purchase financing products such as a liquidity instrument or line of credit, in which case the cost included in filing for the liquidity instrument or line of credit may not result in a premium increase exceeding 3 percent for any individual policyholder. All costs contained in the filing may not result in an overall premium increase of more than 15 percent for any individual policyholder.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Includes in the filing a copy of all of its reinsurance, liquidity instrument, or line of credit contracts; proof of the billing or payment for the contracts; and the calculation upon which the proposed rate change is based demonstrating that the costs meet the criteria of this section.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An insurer that purchases reinsurance or financing products from an affiliated company may make a separate filing only if the costs for such reinsurance or financing products are charged at or below charges made for comparable coverage by nonaffiliated reinsurers or financial entities making such coverage or financing products available in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An insurer may make only one filing per 12-month period under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An insurer that elects to implement a rate change under this paragraph must file its rate filing with the office at least 45 days before the effective date of the rate change. After an insurer submits a complete filing that meets all of the requirements of this paragraph, the office has 45 days after the date of the filing to review the rate filing and determine if the rate is excessive, inadequate, or unfairly discriminatory.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The provisions of this subsection do not apply to workers’ compensation, employer’s liability insurance, and motor vehicle insurance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For individual risks that are not rated in accordance with the insurer’s rates, rating schedules, rating manuals, and underwriting rules filed with the office and that have been submitted to the insurer for individual rating, the insurer must maintain documentation on each risk subject to individual risk rating. The documentation must identify the named insured and specify the characteristics and classification of the risk supporting the reason for the risk being individually risk rated, including any modifications to existing approved forms to be used on the risk. The insurer must maintain these records for at least 5 years after the effective date of the policy.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Individual risk rates and modifications to existing approved forms are not subject to this part or part II, except for paragraph (a) and ss. 627.402, 627.403, 627.4035, 627.404, 627.405, 627.406, 627.407, 627.4085, 627.409, 627.4132, 627.4133, 627.415, 627.416, 627.417, 627.419, 627.425, 627.426, 627.4265, 627.427, and 627.428, but are subject to all other applicable provisions of this code and rules adopted thereunder.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection does not apply to private passenger motor vehicle insurance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The following categories or kinds of insurance and types of commercial lines risks are not subject to paragraph (2)(a) or paragraph (2)(f):</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Excess or umbrella.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Surety and fidelity.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Boiler and machinery and leakage and fire extinguishing equipment.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Errors and omissions.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Directors and officers, employment practices, fiduciary liability, and management liability.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Intellectual property and patent infringement liability.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Advertising injury and Internet liability insurance.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Property risks rated under a highly protected risks rating plan.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">General liability.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Nonresidential property, except for collateral protection insurance as defined in s. 624.6085.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="k">
+						<Text xml:space="preserve" Style="Intro">Nonresidential multiperil.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="l">
+						<Text xml:space="preserve" Style="Intro">Excess property.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="m">
+						<Text xml:space="preserve" Style="Intro">Burglary and theft.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="n">
+						<Text xml:space="preserve" Style="Intro">Any other commercial lines categories or kinds of insurance or types of commercial lines risks that the office determines should not be subject to paragraph (2)(a) or paragraph (2)(f) because of the existence of a competitive market for such insurance, similarity of such insurance to other categories or kinds of insurance not subject to paragraph (2)(a) or paragraph (2)(f), or to improve the general operational efficiency of the office.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Insurers or rating organizations shall establish and use rates, rating schedules, or rating manuals to allow the insurer a reasonable rate of return on insurance and risks described in subparagraph 1. which are written in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Reference Number="1"/>
+					<Text xml:space="preserve" Style="Intro">An insurer must notify the office of any changes to rates for insurance and risks described in subparagraph 1. within 30 days after the effective date of the change. The notice must include the name of the insurer, the type or kind of insurance subject to rate change, total premium written during the immediately preceding year by the insurer for the type or kind of insurance subject to the rate change, and the average statewide percentage change in rates. Underwriting files, premiums, losses, and expense statistics with regard to such insurance and risks written by an insurer must be maintained by the insurer and subject to examination by the office. Upon examination, the office, in accordance with generally accepted and reasonable actuarial techniques, shall consider the rate factors in paragraphs (2)(b), (c), and (d) and the standards in paragraph (2)(e) to determine if the rate is excessive, inadequate, or unfairly discriminatory.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A rating organization must notify the office of any changes to loss cost for insurance and risks described in subparagraph 1. within 30 days after the effective date of the change. The notice must include the name of the rating organization, the type or kind of insurance subject to a loss cost change, loss costs during the immediately preceding year for the type or kind of insurance subject to the loss cost change, and the average statewide percentage change in loss cost. Actuarial data with regard to changes to loss cost for risks not subject to paragraph (2)(a) or paragraph (2)(f) must be maintained by the rating organization for 2 years after the effective date of the change and are subject to examination by the office. The office may require the rating organization to incur the costs associated with an examination. Upon examination, the office, in accordance with generally accepted and reasonable actuarial techniques, shall consider the rate factors in paragraphs (2)(b)-(d) and the standards in paragraph (2)(e) to determine if the rate is excessive, inadequate, or unfairly discriminatory.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The establishment of any rate, rating classification, rating plan or schedule, or variation thereof in violation of part IX of chapter 626 is also in violation of this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">With respect to a rate filing involving coverage of the type for which the insurer is required to pay a reimbursement premium to the Florida Hurricane Catastrophe Fund, the insurer may fully recoup in its property insurance premiums any reimbursement premiums paid to the fund, together with reasonable costs of other reinsurance; however, except as otherwise provided in this section, the insurer may not recoup reinsurance costs that duplicate coverage provided by the fund. An insurer may not recoup more than 1 year of reimbursement premium at a time. Any under-recoupment from the prior year may be added to the following year’s reimbursement premium, and any over-recoupment must be subtracted from the following year’s reimbursement premium.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If an insurer requests an administrative hearing pursuant to s. 120.57 related to a rate filing under this section, the director of the Division of Administrative Hearings shall expedite the hearing and assign an administrative law judge who shall commence the hearing within 30 days after the receipt of the formal request and enter a recommended order within 30 days after the hearing or within 30 days after receipt of the hearing transcript by the administrative law judge, whichever is later. Each party shall have 10 days in which to submit written exceptions to the recommended order. The office shall enter a final order within 30 days after the entry of the recommended order. The provisions of this paragraph may be waived upon stipulation of all parties.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon entry of a final order, the insurer may request a expedited appellate review pursuant to the Florida Rules of Appellate Procedure. It is the intent of the Legislature that the First District Court of Appeal grant an insurer’s request for an expedited appellate review.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The provisions of this subsection apply only to rates for medical malpractice insurance and control to the extent of any conflict with other provisions of this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any portion of a judgment entered or settlement paid as a result of a statutory or common-law bad faith action and any portion of a judgment entered which awards punitive damages against an insurer may not be included in the insurer’s rate base and used to justify a rate or rate change. Any common-law bad faith action identified as such, any portion of a settlement entered as a result of a statutory or common-law action, or any portion of a settlement wherein an insurer agrees to pay specific punitive damages may not be used to justify a rate or rate change. The portion of the taxable costs and attorney’s fees which is identified as being related to the bad faith and punitive damages may not be included in the insurer’s rate base and used to justify a rate or rate change.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon reviewing a rate filing and determining whether the rate is excessive, inadequate, or unfairly discriminatory, the office shall consider, in accordance with generally accepted and reasonable actuarial techniques, past and present prospective loss experience, using loss experience solely for this state or giving greater credibility to this state’s loss data after applying actuarially sound methods of assigning credibility to such data.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Rates shall be deemed excessive if, among other standards established by this section, the rate structure provides for replenishment of reserves or surpluses from premiums when the replenishment is attributable to investment losses.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The insurer must apply a discount or surcharge based on the health care provider’s loss experience or establish an alternative method giving due consideration to the provider’s loss experience. The insurer must include in the filing a copy of the surcharge or discount schedule or a description of the alternative method used, and provide a copy, as approved by the office, to policyholders at the time of renewal and to prospective policyholders at the time of application for coverage.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Each medical malpractice insurer must make a rate filing under this section, sworn to by at least two executive officers of the insurer, at least once each calendar year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The chief executive officer or chief financial officer of a property insurer and the chief actuary of a property insurer must certify under oath and subject to the penalty of perjury, on a form approved by the commission, the following information, which must accompany a rate filing:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The signing officer and actuary have reviewed the rate filing;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Based on the signing officer’s and actuary’s knowledge, the rate filing does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Based on the signing officer’s and actuary’s knowledge, the information and other factors described in paragraph (2)(b), including, but not limited to, investment income, fairly present in all material respects the basis of the rate filing for the periods presented in the filing; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Based on the signing officer’s and actuary’s knowledge, the rate filing reflects all premium savings that are reasonably expected to result from legislative enactments and are in accordance with generally accepted and reasonable actuarial techniques.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A signing officer or actuary who knowingly makes a false certification under this subsection commits a violation of s. 626.9541(1)(e) and is subject to the penalties under s. 626.9521.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Failure to provide such certification by the officer and actuary shall result in the rate filing being disapproved without prejudice to be refiled.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The certification made pursuant to paragraph (a) is not rendered false if, after making the subject rate filing, the insurer provides the office with additional or supplementary information pursuant to a formal or informal request from the office. However, the actuary who is primarily responsible for preparing and submitting such information must certify the information in accordance with the certification required under paragraph (a) and the penalties in paragraph (b), except that the chief executive officer, chief financial officer, or chief actuary need not certify the additional or supplementary information.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The commission may adopt rules and forms to administer this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The burden is on the office to establish that rates are excessive for personal lines residential coverage with a dwelling replacement cost of $1 million or more or for a single condominium unit with a combined dwelling and contents replacement cost of $1 million or more. Upon request of the office, the insurer shall provide such loss and expense information as the office reasonably needs to meet this burden.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Any interest paid pursuant to s. 627.70131(5) may not be included in the insurer’s rate base and may not be used to justify a rate or rate change.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 67-9; s. 3, ch. 71-3(B); s. 3, ch. 76-168; s. 21, ch. 77-468; s. 1, ch. 77-457; s. 93, ch. 79-40; ss. 2, 3, ch. 81-318; ss. 341, 357, 809(2nd), ch. 82-243; ss. 45, 49, 79, ch. 82-386; s. 93, ch. 83-216; s. 9, ch. 86-160; ss. 19, 114, ch. 92-318; s. 8, ch. 92-328; s. 5, ch. 95-276; s. 4, ch. 96-194; s. 7, ch. 96-377; s. 8, ch. 2000-370; s. 55, ch. 2001-63; s. 1064, ch. 2003-261; ss. 40, 84, ch. 2003-416; s. 3, ch. 2005-111; s. 11, ch. 2006-12; s. 18, ch. 2007-1; s. 9, ch. 2007-90; s. 10, ch. 2008-66; s. 7, ch. 2009-87; s. 120, ch. 2010-5; s. 4, ch. 2010-175; s. 12, ch. 2011-39; s. 1, ch. 2011-160.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 12, ch. 2011-39. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Subparagraph (3)(d)3. was also amended by s. 1, ch. 2011-160, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">3. An insurer must notify the office of any changes to rates for insurance and risks described in subparagraph 1. no later than 30 days after the effective date of the change. The notice must include the name of the insurer, the type or kind of insurance subject to rate change, and the average statewide percentage change in rates. Actuarial data with regard to rates for risks described in subparagraph 1. written by an insurer shall be maintained by the insurer for 2 years after the effective date of changes to those rates and are subject to examination by the office. The office may require the insurer to incur the costs associated with an examination. Upon examination, the office shall, in accordance with generally accepted and reasonable actuarial techniques, consider the rate factors in paragraphs (2)(b), (c), and (d) and the standards in paragraph (2)(e) to determine if the rate is excessive, inadequate, or unfairly discriminatory.</Text>
+	</Note>
+</Section>

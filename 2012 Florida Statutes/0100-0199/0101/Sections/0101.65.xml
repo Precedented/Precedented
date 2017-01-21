@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0101.65">
+	<Catchline xml:space="preserve">Instructions to absent electors.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The supervisor shall enclose with each absentee ballot separate printed instructions in substantially the following form:</Text>
+		<Text xml:space="preserve" Style="Indent" SpaceAbove="true">READ THESE INSTRUCTIONS CAREFULLY BEFORE MARKING BALLOT.</Text>
+		<Text xml:space="preserve" Style="Indent">1. VERY IMPORTANT. In order to ensure that your absentee ballot will be counted, it should be completed and returned as soon as possible so that it can reach the supervisor of elections of the county in which your precinct is located no later than 7 p.m. on the day of the election.</Text>
+		<Text xml:space="preserve" Style="Indent">2. Mark your ballot in secret as instructed on the ballot. You must mark your own ballot unless you are unable to do so because of blindness, disability, or inability to read or write.</Text>
+		<Text xml:space="preserve" Style="Indent">3. Mark only the number of candidates or issue choices for a race as indicated on the ballot. If you are allowed to “Vote for One” candidate and you vote for more than one candidate, your vote in that race will not be counted.</Text>
+		<Text xml:space="preserve" Style="Indent">4. Place your marked ballot in the enclosed secrecy envelope.</Text>
+		<Text xml:space="preserve" Style="Indent">5. Insert the secrecy envelope into the enclosed mailing envelope which is addressed to the supervisor.</Text>
+		<Text xml:space="preserve" Style="Indent">6. Seal the mailing envelope and completely fill out the Voter’s Certificate on the back of the mailing envelope.</Text>
+		<Text xml:space="preserve" Style="Indent">7. VERY IMPORTANT. In order for your absentee ballot to be counted, you must sign your name on the line above (Voter’s Signature). An absentee ballot will be considered illegal and not be counted if the signature on the voter’s certificate does not match the signature on record. The signature on file at the start of the canvass of the absentee ballots is the signature that will be used to verify your signature on the voter’s certificate. If you need to update your signature for this election, send your signature update on a voter registration application to your supervisor of elections so that it is received no later than the start of the canvassing of absentee ballots, which occurs no earlier than the 15th day before election day.</Text>
+		<Text xml:space="preserve" Style="Indent">8. VERY IMPORTANT. If you are an overseas voter, you must include the date you signed the Voter’s Certificate on the line above (Date) or your ballot may not be counted.</Text>
+		<Text xml:space="preserve" Style="Indent">9. Mail, deliver, or have delivered the completed mailing envelope. Be sure there is sufficient postage if mailed.</Text>
+		<Text xml:space="preserve" Style="Indent">10. FELONY NOTICE. It is a felony under Florida law to accept any gift, payment, or gratuity in exchange for your vote for a candidate. It is also a felony under Florida law to vote in an election using a false identity or false address, or under any other circumstances making your ballot false or fraudulent.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 7380, 1917; RGS 372; CGL 433; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 35, ch. 28156, 1953; s. 23, ch. 29934, 1955; s. 34, ch. 65-380; s. 4, ch. 71-149; s. 9, ch. 72-63; s. 2, ch. 73-105; s. 7, ch. 73-157; ss. 3, 4, ch. 75-174; s. 23, ch. 77-175; s. 2, ch. 81-106; s. 10, ch. 81-304; s. 11, ch. 82-143; s. 7, ch. 83-251; s. 3, ch. 85-226; s. 2, ch. 86-33; s. 589, ch. 95-147; s. 5, ch. 96-57; s. 16, ch. 98-129; s. 33, ch. 99-2; s. 54, ch. 2001-40; s. 20, ch. 2003-415; s. 2, ch. 2004-232; s. 38, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 101.05.</Text>
+	</Note>
+</Section>

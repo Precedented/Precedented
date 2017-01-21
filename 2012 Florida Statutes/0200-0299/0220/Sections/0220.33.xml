@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.33" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Payments of estimated tax.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A taxpayer required to file a declaration of estimated tax pursuant to s. 220.24 shall pay such estimated tax as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If the declaration is required to be filed before the 1st day of the 5th month of the taxable year, the estimated tax shall be paid in four equal installments. The first installment shall be paid at the time of the required filing of the declaration; the second and third installments shall be paid before the 1st day of the 7th month and before the 1st day of the 10th month of the taxable year, respectively; and the fourth installment shall be paid before the 1st day of the next taxable year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the declaration is required to be filed before the 1st day of the 7th month of the taxable year, the estimated tax shall be paid in three equal installments. The first installment shall be paid at the time of required filing of the declaration; the second installment shall be paid before the 1st day of the 10th month of the taxable year; and the third installment shall be paid before the 1st day of the next taxable year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the declaration is required to be filed before the 1st day of the 10th month of the taxable year, the estimated tax shall be paid in two equal installments: at the time of required filing of the declaration for such taxable year and before the 1st day of the next taxable year, respectively.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the declaration is required to be filed on or before the first day of the succeeding taxable year, the estimated tax shall be paid in full at the time of such required filing.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the declaration is filed after the time prescribed in s. 220.241 due to the grant of an extension of time for filing, subsections (1)-(4) of this section shall not apply, and there shall be paid at the time of such filing all installments of estimated tax which would have been payable on or before such time if the declaration had been filed within the time prescribed in s. 220.241 and without regard to the extension, and the remaining installments shall be paid at the time at which, and in the amounts in which, they would have been payable if the declaration had been so filed.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If an amended declaration is filed, the remaining installments, if any, shall be ratably increased or decreased, as the case may be, to reflect the increase or decrease in the estimated tax occasioned by such amendment.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Reference Number="2"/>
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any administrative rule or determination of the department which allows estimated payments otherwise due on a Saturday, Sunday, or legal holiday to be paid on the next succeeding day that is not a Saturday, Sunday, or legal holiday, any estimated tax payment required under this section which would otherwise be due no later than Sunday, June 30, 2013, shall be paid on or before June 28, 2013. This subsection expires July 1, 2014.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The application of this section to taxable years of less than 12 months shall be in accordance with regulations prescribed by the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-984; s. 4, ch. 2008-206; s. 4, ch. 2012-145.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 5, ch. 2008-206, provides that “[t]he Department of Revenue may adopt rules necessary to administer the provisions of this act, including rules, forms, and guidelines for computing, claiming, and adding back bonus depreciation under s. 168(k) and deductions under s. 179 of the Internal Revenue Code of 1986, as amended.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Section 5, ch. 2012-145, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing section 4 of this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other law, the emergency rules adopted pursuant to this section shall remain in effect for 6 months after adoption and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

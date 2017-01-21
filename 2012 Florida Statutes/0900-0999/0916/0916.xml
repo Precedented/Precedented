@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVII">
+  <ChapterNumber>916</ChapterNumber>
+  <ChapterName xml:space="preserve">Mentally deficient and mentally ill defendants</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">General provisions</PartTitle>
+    <Section Number="0916.10" />
+    <Section Number="0916.105" />
+    <Section Number="0916.106" />
+    <Section Number="0916.107" />
+    <Section Number="0916.1075" />
+    <Section Number="0916.1081" />
+    <Section Number="0916.1085" />
+    <Section Number="0916.1091" />
+    <Section Number="0916.1093" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Forensic services for persons<NewLine />who are mentally ill</PartTitle>
+    <Section Number="0916.111" />
+    <Section Number="0916.115" />
+    <Section Number="0916.12" />
+    <Section Number="0916.13" />
+    <Section Number="0916.14" />
+    <Section Number="0916.145" />
+    <Section Number="0916.15" />
+    <Section Number="0916.16" />
+    <Section Number="0916.17" />
+  </Part>
+  <Part PartNumber="III">
+    <PartNumber>PART III</PartNumber>
+    <PartTitle xml:space="preserve">Forensic services for persons<NewLine />who are retarded or autistic</PartTitle>
+    <Section Number="0916.301" />
+    <Section Number="0916.3012" />
+    <Section Number="0916.302" />
+    <Section Number="0916.3025" />
+    <Section Number="0916.303" />
+    <Section Number="0916.304" />
+  </Part>
+</Chapter>

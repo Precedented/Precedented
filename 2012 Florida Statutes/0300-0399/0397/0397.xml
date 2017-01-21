@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXIX">
+	<ChapterNumber>397</ChapterNumber>
+	<ChapterName xml:space="preserve">Substance abuse services</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0397.301" />
+		<Section Number="0397.305" />
+		<Section Number="0397.311" />
+		<Section Number="0397.321" />
+		<Section Number="0397.331" />
+		<Section Number="0397.333" />
+		<Section Number="0397.334" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Service providers</PartTitle>
+		<Section Number="0397.401" />
+		<Section Number="0397.403" />
+		<Section Number="0397.405" />
+		<Section Number="0397.406" />
+		<Section Number="0397.407" />
+		<Section Number="0397.411" />
+		<Section Number="0397.415" />
+		<Section Number="0397.416" />
+		<Section Number="0397.419" />
+		<Section Number="0397.427" />
+		<Section Number="0397.431" />
+		<Section Number="0397.451" />
+		<Section Number="0397.461" />
+		<Section Number="0397.471" />
+		<Section Number="0397.481" />
+		<Section Number="0397.482" />
+		<Section Number="0397.483" />
+		<Section Number="0397.484" />
+		<Section Number="0397.485" />
+		<Section Number="0397.486" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Client rights</PartTitle>
+		<Section Number="0397.501" />
+		<Section Number="0397.581" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Voluntary admissions procedures</PartTitle>
+		<Section Number="0397.601" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Involuntary admissions procedures</PartTitle>
+		<SubPart SubPartNumber="A">
+			<SubPartNumber>A</SubPartNumber>
+			<SubPartTitle xml:space="preserve">General Provisions</SubPartTitle>
+			<Section Number="0397.675" />
+			<Section Number="0397.6751" />
+			<Section Number="0397.6752" />
+			<Section Number="0397.6758" />
+			<Section Number="0397.6759" />
+		</SubPart>
+		<SubPart SubPartNumber="B">
+			<SubPartNumber>B</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Noncourt Involved Admissions:<NewLine />Protective Custody</SubPartTitle>
+			<Section Number="0397.677" />
+			<Section Number="0397.6771" />
+			<Section Number="0397.6772" />
+			<Section Number="0397.6773" />
+			<Section Number="0397.6774" />
+			<Section Number="0397.6775" />
+		</SubPart>
+		<SubPart SubPartNumber="C">
+			<SubPartNumber>C</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Noncourt Involved Admissions;<NewLine />Emergency</SubPartTitle>
+			<Section Number="0397.679" />
+			<Section Number="0397.6791" />
+			<Section Number="0397.6793" />
+			<Section Number="0397.6795" />
+			<Section Number="0397.6797" />
+		</SubPart>
+		<SubPart SubPartNumber="D">
+			<SubPartNumber>D</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Noncourt Involved Admissions;<NewLine />Alternative Involuntary<NewLine />Assessment for Minors</SubPartTitle>
+			<Section Number="0397.6798" />
+			<Section Number="0397.6799" />
+		</SubPart>
+		<SubPart SubPartNumber="E">
+			<SubPartNumber>E</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Court Involved Admissions, Civil<NewLine />Involuntary Proceedings; Generally</SubPartTitle>
+			<Section Number="0397.681" />
+		</SubPart>
+		<SubPart SubPartNumber="F">
+			<SubPartNumber>F</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Court Involved Admissions;<NewLine />Involuntary Assessment; Stabilization</SubPartTitle>
+			<Section Number="0397.6811" />
+			<Section Number="0397.6814" />
+			<Section Number="0397.6815" />
+			<Section Number="0397.6818" />
+			<Section Number="0397.6819" />
+			<Section Number="0397.6821" />
+			<Section Number="0397.6822" />
+		</SubPart>
+		<SubPart SubPartNumber="G">
+			<SubPartNumber>G</SubPartNumber>
+			<SubPartTitle xml:space="preserve">Court Involved Admissions;<NewLine />Involuntary Treatment</SubPartTitle>
+			<Section Number="0397.693" />
+			<Section Number="0397.695" />
+			<Section Number="0397.6951" />
+			<Section Number="0397.6955" />
+			<Section Number="0397.6957" />
+			<Section Number="0397.697" />
+			<Section Number="0397.6971" />
+			<Section Number="0397.6975" />
+			<Section Number="0397.6977" />
+		</SubPart>
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Local ordinance prohibition and<NewLine />authorization; admissions procedures</PartTitle>
+		<Section Number="0397.701" />
+		<Section Number="0397.702" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Offender referrals</PartTitle>
+		<Section Number="0397.705" />
+		<Section Number="0397.706" />
+	</Part>
+	<Part PartNumber="VIII">
+		<PartNumber>PART VIII</PartNumber>
+		<PartTitle xml:space="preserve">Inmate substance abuse programs</PartTitle>
+		<Section Number="0397.752" />
+		<Section Number="0397.753" />
+		<Section Number="0397.754" />
+	</Part>
+	<Part PartNumber="IX">
+		<PartNumber>PART IX</PartNumber>
+		<PartTitle xml:space="preserve">Services coordination</PartTitle>
+		<Section Number="0397.801" />
+		<Section Number="0397.811" />
+		<Section Number="0397.821" />
+	</Part>
+	<Part PartNumber="X">
+		<PartNumber>PART X</PartNumber>
+		<PartTitle xml:space="preserve">Juvenile emergency procedures and<NewLine />children’s substance abuse services</PartTitle>
+		<Section Number="0397.901" />
+		<Section Number="0397.92" />
+		<Section Number="0397.93" />
+		<Section Number="0397.94" />
+		<Section Number="0397.95" />
+		<Section Number="0397.951" />
+		<Section Number="0397.96" />
+		<Section Number="0397.97" />
+		<Section Number="0397.98" />
+		<Section Number="0397.99" />
+		<Section Number="0397.997" />
+		<Section Number="0397.998" />
+	</Part>
+</Chapter>

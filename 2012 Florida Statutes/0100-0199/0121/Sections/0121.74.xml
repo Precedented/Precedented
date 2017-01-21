@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0121.74">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Administrative and educational expenses.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In addition to contributions required under ss. 121.71 and 121.73, effective July 1, 2010, through June 30, 2014, employers participating in the Florida Retirement System shall contribute an amount equal to 0.03 percent of the payroll reported for each class or subclass of Florida Retirement System membership. Effective July 1, 2014, the contribution rate shall be 0.04 percent of the payroll reported for each class or subclass of membership. The amount contributed shall be transferred by the Division of Retirement from the Florida Retirement System Contributions Clearing Trust Fund to the State Board of Administration’s Administrative Trust Fund to offset the costs of administering the investment plan and the costs of providing educational services to members of the Florida Retirement System. Approval of the trustees is required before the expenditure of these funds. Payments for third-party administrative or educational expenses shall be made only pursuant to the terms of the approved contracts for such services.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-177; s. 4, ch. 2003-260; s. 2, ch. 2004-293; s. 4, ch. 2005-93; s. 4, ch. 2010-180; s. 36, ch. 2011-68.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

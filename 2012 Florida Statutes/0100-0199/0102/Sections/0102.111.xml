@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0102.111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Elections Canvassing Commission.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Elections Canvassing Commission shall consist of the Governor and two members of the Cabinet selected by the Governor, all of whom shall serve ex officio. If a member of the commission is unable to serve for any reason, the Governor shall appoint a remaining member of the Cabinet. If there is a further vacancy, the remaining members of the commission shall agree on another elected official to fill the vacancy.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Elections Canvassing Commission shall meet at 9 a.m. on the 9th day after a primary election and at 9 a.m. on the 14th day after a general election to certify the returns of the election for each federal, state, and multicounty office. If a member of a county canvassing board that was constituted pursuant to s. 102.141 determines, within 5 days after the certification by the Elections Canvassing Commission, that a typographical error occurred in the official returns of the county, the correction of which could result in a change in the outcome of an election, the county canvassing board must certify corrected returns to the Department of State within 24 hours, and the Elections Canvassing Commission must correct and recertify the election returns as soon as practicable.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Division of Elections shall provide the staff services required by the Elections Canvassing Commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 35, ch. 3879, 1889; RS 189; s. 66, ch. 4328, 1895; GS 248; RGS 292; CGL 348; s. 6, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 30, ch. 71-377; s. 2, ch. 77-122; s. 25, ch. 77-175; s. 6, ch. 82-143; s. 39, ch. 2001-40; s. 56, ch. 2005-277; s. 12, ch. 2010-167.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 99.49.</Text>
+	</Note>
+</Section>

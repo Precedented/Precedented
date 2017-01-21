@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXVII">
+  <ChapterNumber>368</ChapterNumber>
+  <ChapterName xml:space="preserve">Gas transmission and distribution</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Gas Safety Law of 1967</PartTitle>
+    <Section Number="0368.01" />
+    <Section Number="0368.021" />
+    <Section Number="0368.03" />
+    <Section Number="0368.05" />
+    <Section Number="0368.061" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Natural Gas Transmission Pipeline<NewLine />Intrastate Regulatory Act</PartTitle>
+    <Section Number="0368.101" />
+    <Section Number="0368.102" />
+    <Section Number="0368.103" />
+    <Section Number="0368.104" />
+    <Section Number="0368.105" />
+    <Section Number="0368.106" />
+    <Section Number="0368.107" />
+    <Section Number="0368.108" />
+    <Section Number="0368.1085" />
+    <Section Number="0368.109" />
+    <Section Number="0368.111" />
+    <Section Number="0368.1115" />
+    <Section Number="0368.112" />
+  </Part>
+</Chapter>

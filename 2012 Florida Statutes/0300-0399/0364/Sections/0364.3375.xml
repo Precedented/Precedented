@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.3375" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Pay telephone service providers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person may not provide pay telephone service without first obtaining from the commission a certificate of authority or necessity to provide such service, except that the certification provisions of this subsection do not apply to a local exchange telecommunications company providing pay telephone service.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In granting such certificate the commission, if it finds that the action is consistent with the public interest, may exempt a pay telephone provider from some or all of the requirements of this chapter. However, the commission may exempt a pay telephone provider from this section only to prevent fraud or if it finds the exemption to be in the public interest.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A certificate authorizes the pay telephone provider to provide services statewide and to provide access to both local and intrastate interexchange pay telephone service, except that the commission may limit the type of calls that can be handled.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each pay telephone station shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Receive and permit coin-free access to the universal emergency telephone number “911” where operable or to a local exchange company toll operator.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Receive and provide coin-free or coin-return access to local directory assistance and the telephone number of the person responsible for repair service.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Designate a party responsible for processing refunds to customers.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Be equipped with a legible sign, card, or plate of reasonable permanence which provides information determined by the commission, by rule, to adequately inform the end user.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Be eligible to subscribe to flat-rate, single-line business local exchange services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each pay telephone station which provides access to any interexchange telecommunications company shall provide access to all locally available interexchange telecommunications companies and shall provide for the completion of international telephone calls under terms and conditions as determined by the commission. The commission may grant limited waivers of this provision to pay telephone companies to prevent fraud or as otherwise determined in the public interest.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 35, 49, ch. 90-244; s. 4, ch. 91-429; s. 1, ch. 92-126; s. 24, ch. 95-403; s. 34, ch. 2011-36.</History>
+</Section>

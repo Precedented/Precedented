@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1010.22" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Cost accounting and reporting for workforce education.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each school district and each Florida College System institution shall account for expenditures of all state, local, federal, and other funds in the manner prescribed by the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each school district and each Florida College System institution shall report expenditures for workforce education in accordance with requirements prescribed by the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Education, in cooperation with school districts and Florida College System institutions, shall develop and maintain a database of valid comparable information on workforce education which will meet both state and local needs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 540, ch. 2002-387; s. 158, ch. 2011-5.</History>
+</Section>

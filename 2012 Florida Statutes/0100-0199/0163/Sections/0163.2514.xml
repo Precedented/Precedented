@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.2514" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Growth Policy Act; definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 163.2511-163.2520, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Local government” means any county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Urban infill and redevelopment area” means an area or areas designated by a local government where:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Public services such as water and wastewater, transportation, schools, and recreation are already available or are scheduled to be provided in an adopted 5-year schedule of capital improvements;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The area, or one or more neighborhoods within the area, suffers from pervasive poverty, unemployment, and general distress as defined by s. 290.0058;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The area exhibits a proportion of properties that are substandard, overcrowded, dilapidated, vacant or abandoned, or functionally obsolete which is higher than the average for the local government;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">More than 50 percent of the area is within <Fraction>1/4</Fraction> mile of a transit stop, or a sufficient number of transit stops will be made available concurrent with the designation; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The area includes or is adjacent to community redevelopment areas, brownfields, enterprise zones, or Main Street programs, or has been designated by the state or Federal Government as an urban redevelopment, revitalization, or infill area under empowerment zone, enterprise community, or brownfield showcase community programs or similar programs.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 99-378; s. 187, ch. 2010-102; s. 4, ch. 2012-90.</History>
+</Section>

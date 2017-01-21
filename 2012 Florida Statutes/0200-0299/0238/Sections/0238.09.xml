@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0238.09" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Method of financing.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">All of the assets of the retirement system shall be credited, according to the purposes for which they are held, to one of four funds; namely, the Annuity Savings Trust Fund, the Pension Accumulation Trust Fund, the Expense Trust Fund, and the Survivors’ Benefit Trust Fund.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Annuity Savings Trust Fund shall be a fund in which shall be accumulated contributions made from the salaries of members under the provisions of paragraph (c) or paragraph (f). Contribution to, payments from, the Annuity Savings Trust Fund shall be made as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">With respect to plan A, B, C, or D, upon the basis of such tables as the Department of Management Services shall adopt, and regular interest, the actuary of the retirement system shall determine for each member the proportion of earnable compensation which, when deducted from each payment of his or her prospective earnable annual compensation prior to his or her minimum service retirement age, and accumulated at regular interest until such age, shall be computed to provide at such age:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An annuity equal to one one-hundred-fortieth of his or her average final compensation multiplied by the number of his or her years of membership in the case of each member electing to retire under the provisions of plan A or B.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An annuity equal to one one-hundred-twentieth of his or her average final compensation multiplied by the number of his or her years of membership service in the case of each member electing to retire under the provisions of plan C.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An annuity equal to one one-hundredth of his or her average final compensation multiplied by the number of his or her years of membership service in the case of each member electing to retire under the provisions of plan D.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">In the case of any member who has attained his or her minimum service retirement age prior to becoming a member, the proportion of salary applicable to such member, with respect to plan A, B, C, or D, shall be the proportion computed for the age 1 year younger than his or her minimum service retirement age.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A member under plan E shall make contribution to the fund of 6 percent of his or her earnable compensation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall certify to each employer the proportion of the earnable compensation of each member who is compensated by the employer, and the employer shall cause to be deducted from the salary of each member on each and every payroll for each and every payroll period an amount equal to the proportion of the member’s earnable compensation so computed. With respect to plan A, B, C, or D, the employer shall not make any deduction for annuity purposes from the compensation of a member who has attained the age of 60 years, if such member elects not to contribute.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In determining the amount earnable by a member in a payroll period, the department may consider the rate of compensation payable to such member on the first day of the payroll period as continuing throughout such payroll period, and it may omit deductions from compensation for any period less than a full payroll period if a teacher was not a member on the first day of the payroll period, and to facilitate the making of deductions, it may modify any deduction required of any member by such an amount as shall not exceed one-tenth of 1 percent of the annual salary from which said deduction is to be made.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The deductions provided for herein shall be made, notwithstanding that the minimum compensation provided for by law for any member shall be reduced thereby. Every member shall be deemed to consent and agree to the deductions made and provided for herein, and shall receipt in full for his or her salary or compensation; and payment of salary or compensation, less said deductions, shall be a full and complete discharge and acquittance of all claims and demands whatsoever for the services rendered by such person during the period covered by such payment, except as to the benefits provided by this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In addition to the deduction from salary, as hereinbefore required, any member may, with respect to plan A, B, C, or D, subject to the approval of the division, redeposit in the Annuity Savings Trust Fund, by a single payment or by an increased rate of contribution an amount equal to the total amount which he or she previously withdrew therefrom, as provided in this chapter, or any part thereof; or any member may deposit in the Annuity Savings Trust Fund, by a single payment or by an increased rate of contribution, amounts for the purchase of an additional annuity, but such additional payments shall not exceed the amount computed to provide, with his or her prospective retirement allowance, a total retirement allowance of one-half of his or her prospective average final compensation at his or her minimum service retirement age. Such additional amounts so deposited shall become a part of his or her accumulated contributions, except that in the case of disability retirement they shall be treated as excess contributions returnable to the member in cash or as an annuity of equivalent actuarial value and shall not be considered in computing his or her pension.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A member who elects to retire under plan E shall pay to the Annuity Savings Trust Fund prior to retirement or receive from the Annuity Savings Trust Fund, as the case may be, the difference between what his or her contributions, with accumulated interest, would have been under plan E and the actual contributions of the member with accumulated interest.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The accumulated contributions of a member returned to him or her upon withdrawal, or paid as provided in this chapter to his or her designated beneficiary, or to his or her executors or administrators in the event of his or her death, shall be paid from the Annuity Savings Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Upon the retirement of a member, his or her accumulated contributions shall be transferred from the Annuity Savings Trust Fund to the Pension Accumulation Trust Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Should a beneficiary, retired on account of disability, again become a member of the retirement system, his or her accumulated contributions as of the date of retirement not paid as an annuity, shall be transferred from the Pension Accumulation Trust Fund to the Annuity Savings Trust Fund and credited to his or her individual account in the Annuity Savings Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Pension Accumulation Trust Fund shall be the fund in which shall be accumulated all reserves for the payment of all annuities or benefits in lieu of annuities on retired members and all pensions and other benefits payable from contributions made by the members and by the employers, from which annuities, pensions and benefits in lieu thereof shall be paid. Contributions to, and payments from, the Pension Accumulation Trust Fund, other than as set forth in subsections (2) and (3) herein, shall be made as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">On account of each member there shall be paid annually into the Pension Accumulation Trust Fund, as provided for in s. 238.11, on account of the preceding year a certain percentage of his or her earnable compensation, to be known as the normal contribution, and an additional percentage of his or her earnable compensation, to be known as the accrued liability contribution. The rates percent of earnable compensation of such contributions shall be fixed on the basis of the liabilities of the retirement system, as shown by actuarial valuation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">On the basis of regular interest and of such mortality and other tables as shall be adopted by the department, the actuary engaged by the department to make each valuation required by this chapter shall, during the period over which the accrued liability contribution is payable, determine, immediately after making such valuation, the uniform and constant percentage of the earnable compensation of the average new entrant, which, if contributed on the basis of his or her compensation throughout his or her entire period of service, would be sufficient to provide for the payment of any pension payable by the state on his or her account. The rate percent so determined shall be known as the normal contribution rate. After the accrued liability contribution has ceased to be payable, the normal contribution rate shall be the rate percent of the earnable compensation of all members, obtained by deducting from the total liabilities of the Pension Accumulation Trust Fund the amount of the funds in hand to the credit of that fund and dividing the remainder by 1 percent of the present value of the prospective future salaries of all members as computed on the basis of the mortality and service tables adopted by the department and on the basis of regular interest. The normal rate of contribution shall be determined and certified to the department by the actuary after each valuation and shall continue in force until a new valuation and certification are made.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Immediately succeeding the first valuation, the actuary engaged by the department shall compute the rate percent of the total earnable compensation of all members which is equivalent to 4 percent of the amount of the total liability for pensions on account of all members and beneficiaries and not dischargeable by the present assets of the Pension Accumulation Trust Fund and by the aforesaid normal contribution if made on account of such members during the remainder of their active service. The rate percent, originally so determined, shall be known as the accrued liability contribution rate.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The total amount payable in each year into the Pension Accumulation Trust Fund shall be not less than the sum of the rates percent known as the normal contribution rate and the accrued liability contribution rate, of the total earnable compensation of all members during the preceding year; provided, however that the amount of each annual accrued liability contribution shall be at least 3 percent greater than the preceding annual accrued liability contribution; and provided that the aggregate payment into the Pension Accumulation Trust Fund shall be sufficient, when combined with the amount then held in the fund, to provide the benefits payable from the fund during the current year.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The accrued liability contribution shall be discontinued as soon as the accumulated reserve in the Pension Accumulation Trust Fund shall equal the present value, as actuarially computed and approved by the department, of the total liability of such fund less the present value, computed on the basis of the normal contribution rate, then in force of the prospective normal contributions to be received on account of persons who are at that time members.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Expense Trust Fund shall be the fund to which shall be credited all moneys contributed for the administrative expenses of the retirement system and from which shall be paid all expenses incurred in connection with the administration and operation of the retirement system. Contribution to the Expense Trust Fund shall be made by transfer from interest earnings on investments in the Annuity Savings Trust Fund. Such transfers shall be regulated by the Legislature pursuant to budgets filed in accordance with the provisions of chapter 216.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The survivors’ benefit fund shall be the fund in which shall be accumulated all reserves for the payment of all survivor benefits provided for in s. 238.07(18), except refund of accumulated contributions. There shall be paid into this fund:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All contributions by members based on the rate of twenty-five-hundredths percent of their salary as set out in paragraph (b) of this subsection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All contributions by the state to the Survivors’ Benefit Trust Fund.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">All transfers from other funds as required by this subsection.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall annually certify to each employer, at the time it makes the certification to the employer under paragraph (1)(c), the rate of twenty-five-hundredths percent to be applied by the employer to the salary of each member who is compensated by the employer, and the employer shall cause to be deducted from the salary of each member on each and every payroll for each and every payroll period an amount equal to twenty-five-hundredths percent of the member’s salary paid by the employer and the employer shall remit monthly such deducted amounts to the department which shall place the same in the Survivors’ Benefit Trust Fund of the Teachers’ Retirement System of the state. The amount of contributions by a member to the Survivors’ Benefit Trust Fund shall, in no event, be refundable to the member or his or her beneficiaries.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Beginning July 1, 1959, there shall be paid annually into the Survivors’ Benefit Trust Fund by the state on account of the preceding year a sum equal to the total amount paid into such fund by the members of the Teachers’ Retirement System of the state.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A member who makes contributions to the Survivors’ Benefit Trust Fund shall not thereby obtain, prior to July 1, 1959, any vested interest or right to the benefits under s. 238.07(18), and these benefits may be altered, changed or repealed by the Legislature at its 1959 session, provided that the beneficiaries of members whose deaths occur prior to July 1, 1959, shall have a vested interest in the benefits accruing to such beneficiaries under s. 238.07(18), and these rights may not be altered, changed nor repealed by the Legislature.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 19014, 1939; CGL 1940 Supp. 892(164); s. 5, ch. 22693, 1945; s. 7, ch. 22858, 1945; s. 5, ch. 23864, 1947; s. 11, ch. 25035, 1949; s. 8, ch. 29942, 1955; s. 6, ch. 57-357; s. 1, ch. 59-330; s. 2, ch. 61-119; s. 3, ch. 61-301; s. 6, ch. 63-554; ss. 31, 35, ch. 69-106; s. 3, ch. 72-345; s. 1, ch. 73-326; s. 53, ch. 79-164; s. 13, ch. 95-148; s. 79, ch. 99-255; s. 37, ch. 2010-5.</History>
+</Section>

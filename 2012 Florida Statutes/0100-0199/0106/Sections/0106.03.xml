@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Registration of political committees and electioneering communications organizations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each political committee that receives contributions or makes expenditures during a calendar year in an aggregate amount exceeding $500 or that seeks the signatures of registered electors in support of an initiative shall file a statement of organization as provided in subsection (3) within 10 days after its organization. If a political committee is organized within 10 days of any election, it shall immediately file the statement of organization required by this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each group shall file a statement of organization as an electioneering communications organization within 24 hours after the date on which it makes expenditures for an electioneering communication in excess of $5,000, if such expenditures are made within the timeframes specified in s. 106.011(18)(a)2. If the group makes expenditures for an electioneering communication in excess of $5,000 before the timeframes specified in s. 106.011(18)(a)2., it shall file the statement of organization within 24 hours after the 30th day before a primary or special primary election, or within 24 hours after the 60th day before any other election, whichever is applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">In a statewide, legislative, or multicounty election, an electioneering communications organization shall file a statement of organization with the Division of Elections.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">In a countywide election or any election held on less than a countywide basis, except as described in sub-subparagraph c., an electioneering communications organization shall file a statement of organization with the supervisor of elections of the county in which the election is being held.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">In a municipal election, an electioneering communications organization shall file a statement of organization with the officer before whom municipal candidates qualify.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Any electioneering communications organization that would be required to file a statement of organization in two or more locations need only file a statement of organization with the Division of Elections.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The statement of organization shall include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name, mailing address, and street address of the committee or electioneering communications organization;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The names, street addresses, and relationships of affiliated or connected organizations;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The area, scope, or jurisdiction of the committee or electioneering communications organization;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The name, mailing address, street address, and position of the custodian of books and accounts;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The name, mailing address, street address, and position of other principal officers, including the treasurer and deputy treasurer, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The name, address, office sought, and party affiliation of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each candidate whom the committee is supporting;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any other individual, if any, whom the committee is supporting for nomination for election, or election, to any public office whatever;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Any issue or issues the committee is supporting or opposing;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">If the committee is supporting the entire ticket of any party, a statement to that effect and the name of the party;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A statement of whether the committee is a continuing one;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Plans for the disposition of residual funds which will be made in the event of dissolution;</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">A listing of all banks, safe-deposit boxes, or other depositories used for committee or electioneering communications organization funds; </Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">A statement of the reports required to be filed by the committee or the electioneering communications organization with federal officials, if any, and the names, addresses, and positions of such officials; and</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">A statement of whether the electioneering communications organization was formed as a newly created organization during the current calendar quarter or was formed from an organization existing prior to the current calendar quarter. For purposes of this subsection, calendar quarters end the last day of March, June, September, and December.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A political committee which is organized to support or oppose statewide, legislative, or multicounty candidates or issues to be voted upon on a statewide or multicounty basis shall file a statement of organization with the Division of Elections.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (c), a political committee which is organized to support or oppose candidates or issues to be voted on in a countywide election or candidates or issues in any election held on less than a countywide basis shall file a statement of organization with the supervisor of elections of the county in which such election is being held.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A political committee which is organized to support or oppose only candidates for municipal office or issues to be voted on in a municipal election shall file a statement of organization with the officer before whom municipal candidates qualify.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any political committee which would be required under this subsection to file a statement of organization in two or more locations need file only with the Division of Elections.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any change in information previously submitted in a statement of organization shall be reported to the agency or officer with whom such committee or electioneering communications organization is required to register within 10 days following the change.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any committee which, after having filed one or more statements of organization, disbands or determines it will no longer receive contributions or make expenditures during the calendar year in an aggregate amount exceeding $500 shall so notify the agency or officer with whom such committee is required to file the statement of organization.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If the filing officer finds that a political committee has filed its statement of organization consistent with the requirements of subsection (2), it shall notify the committee in writing that it has been registered as a political committee. If the filing officer finds that a political committee’s statement of organization does not meet the requirements of subsection (2), it shall notify the committee of such finding and shall state in writing the reasons for rejection of the statement of organization.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Division of Elections shall adopt rules to prescribe the manner in which committees and electioneering communications organizations may be dissolved and have their registration canceled. Such rules shall, at a minimum, provide for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Notice which shall contain the facts and conduct which warrant the intended action, including but not limited to failure to file reports and limited activity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Adequate opportunity to respond.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Appeal of the decision to the Florida Elections Commission. Such appeals shall be exempt from the confidentiality provisions of s. 106.25.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 73-128; s. 3, ch. 74-200; s. 1, ch. 77-174; s. 41, ch. 77-175; s. 18, ch. 79-365; s. 25, ch. 81-304; s. 1, ch. 82-143; s. 36, ch. 84-302; s. 5, ch. 89-256; s. 27, ch. 90-315; s. 3, ch. 2006-300; s. 21, ch. 2010-167; ss. 8, 30, ch. 2011-6; s. 57, ch. 2011-40; HJR 7105, 2011 Regular Session.</History>
+</Section>

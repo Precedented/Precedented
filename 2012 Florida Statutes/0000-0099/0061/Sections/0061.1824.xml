@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0061.1824" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State Disbursement Unit.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Disbursement Unit is hereby created and shall be operated by the Department of Revenue or by a contractor responsible directly to the department. The State Disbursement Unit shall be responsible for the collection and disbursement of payments for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All support cases enforced by the department pursuant to Title IV-D of the Social Security Act; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All child support cases not being enforced by the department pursuant to Title IV-D of the Social Security Act in which the initial support order was issued in this state on or after January 1, 1994, and in which the obligor’s child support obligation is being paid through income deduction.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The State Disbursement Unit must be operated in coordination with the department’s child support enforcement automated system in Title IV-D cases.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The State Disbursement Unit shall perform the following functions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Disburse all receipts from intercepts, including, but not limited to, United States Internal Revenue Service, reemployment assistance or unemployment compensation, lottery, and administrative offset intercepts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide employers and payors with one address to which all income deduction collections are sent.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">When there is more than one income deduction order being enforced against the same obligor by the payor, allocate the amounts available for income deduction in the manner set forth in s. 61.1301.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To the extent feasible, use automated procedures for the collection and disbursement of support payments, including, but not limited to, having procedures for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Receipt of payments from obligors, employers, other states and jurisdictions, and other entities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Timely disbursement of payments to obligees, the department, and other state Title IV-D agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Accurate identification of payment source and amount.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Furnishing any parent, upon request, timely information on the current status of support payments under an order requiring payments to be made by or to the parent, except that in cases described in paragraph (1)(b), prior to the date the State Disbursement Unit becomes fully operational, the State Disbursement Unit shall not be required to convert and maintain in automated form records of payments kept pursuant to s. 61.181.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Electronic disbursement of support payments to obligees. The State Disbursement Unit shall notify obligees of electronic disbursement options. Any payments made to the State Disbursement Unit that are owed to the obligee shall be disbursed electronically. The obligee may designate a personal account for deposit of payments. If the obligee does not designate a personal account, the State Disbursement Unit shall deposit any payments into a stored value account that can be accessed by the obligee.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Information regarding disbursement must be transmitted in the following manner:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In Title IV-D cases, the State Disbursement Unit shall transmit, in an electronic format as prescribed by the department, all required information to the department on the same business day the information is received from the employer or other source of periodic income, if sufficient information identifying the payee is provided. The department shall determine distribution allocation of a collection and shall electronically transmit that information to the State Disbursement Unit, whereupon the State Disbursement Unit shall disburse the collection. The State Disbursement Unit may delay the disbursement of payments toward arrearages until the resolution of any timely appeal with respect to such arrearages. The State Disbursement Unit may delay the disbursement of Title IV-D collections until authorization by the Title IV-D agency has been received.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In non-Title IV-D cases, payment information is not transmitted to the department. The State Disbursement Unit may delay the disbursement of payments toward arrearages until the resolution of any timely appeal with respect to such arrearages.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Reconcile all cash receipts and all disbursements daily and provide the department with a daily reconciliation report in a format as prescribed by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Disburse support payments to foreign countries as may be required.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Receive and convert support payments made in foreign currency.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Remit to the department payments for costs due the department.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Handle insufficient funds payments, claims of lost or stolen checks, and stop payment orders.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Issue billing notices and statements of account, in accordance with federal requirements, in a format and frequency prescribed by the department to persons who pay and receive child support in Title IV-D cases.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Provide the department with a weekly report that summarizes and totals all financial transaction activity.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Provide toll-free access to customer assistance representatives and an automated voice response system that will enable the parties to a support case to obtain payment information.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For cases in which the obligor or payor fails to submit payment directly to the central address provided by the State Disbursement Unit, the depositories shall have procedures for accepting a support payment tendered in the form of cash or a check drawn on the account of a payor or obligor, unless the payor or obligor has previously remitted a check which was returned to the depository due to lack of sufficient funds in the account. If the payor or obligor has had a check returned for this reason, the depository shall accept payment by cash, cashier’s check, or money order, or may accept a check upon deposit by the payor or obligor of an amount equal to 1 month’s payment. Upon payment by cash, cashier’s check, or money order, the depository shall remit the payment to the State Disbursement Unit within 1 business day after receipt.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Obligees receiving payments through the State Disbursement Unit shall inform the State Disbursement Unit of changes in their names and addresses. Notification of all changes must be made directly to the State Disbursement Unit within 7 business days after a change. In Title IV-D cases, the State Disbursement Unit shall transmit the information to the department, in an electronic format prescribed by the department, within 1 business day after receipt.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">All support payments for cases to which the requirements of this section apply shall be made payable to and delivered to the State Disbursement Unit.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An employer that is required to remit tax payments electronically to the department under s. 213.755 or s. 443.163 shall remit support payments deducted pursuant to an income deduction order or income deduction notice and provide associated case data to the State Disbursement Unit by electronic means approved by the department. The department may waive the requirement to remit payments electronically for an employer that is unable to comply despite good faith efforts or due to circumstances beyond the employer’s reasonable control. Grounds for approving a waiver include, but are not limited to, circumstances in which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The employer does not have a computer that meets the minimum standards necessary for electronic remittance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Additional time is needed to program the employer’s computer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The employer does not currently file data electronically with any business or government agency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Compliance conflicts with the employer’s business procedures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Compliance would cause a financial hardship.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall adopt by rule standards for electronic remittance, data transfer, and waivers that, to the extent feasible, are consistent with the department’s rules for electronic filing and remittance of taxes under ss. 213.755 and 443.163. A waiver granted by the department from the requirement to file and remit electronically under s. 213.755 or s. 443.163 constitutes a waiver from the requirement under this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other statutory provision to the contrary, funds received by the State Disbursement Unit shall be held, administered, and disbursed by the State Disbursement Unit pursuant to the provisions of this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 43, ch. 98-397; s. 7, ch. 99-375; s. 13, ch. 2001-158; s. 10, ch. 2005-39; s. 3, ch. 2007-85; s. 2, ch. 2008-92; ss. 21, 22, 54, ch. 2008-153; s. 37, ch. 2012-30.</History>
+</Section>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0045.031" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Judicial sales procedure.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In any sale of real or personal property under an order or judgment, the procedures provided in this section and ss. 45.0315-45.035 may be followed as an alternative to any other sale procedure if so ordered by the court.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">FINAL JUDGMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the order or final judgment, the court shall direct the clerk to sell the property at public sale on a specified day that shall be not less than 20 days or more than 35 days after the date thereof, on terms and conditions specified in the order or judgment. A sale may be held more than 35 days after the date of final judgment or order if the plaintiff or plaintiff’s attorney consents to such time. The final judgment shall contain the following statement in conspicuous type:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IF THIS PROPERTY IS SOLD AT PUBLIC AUCTION, THERE MAY BE ADDITIONAL MONEY FROM THE SALE AFTER PAYMENT OF PERSONS WHO ARE ENTITLED TO BE PAID FROM THE SALE PROCEEDS PURSUANT TO THIS FINAL JUDGMENT.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IF YOU ARE A SUBORDINATE LIENHOLDER CLAIMING A RIGHT TO FUNDS REMAINING AFTER THE SALE, YOU MUST FILE A CLAIM WITH THE CLERK NO LATER THAN 60 DAYS AFTER THE SALE. IF YOU FAIL TO FILE A CLAIM, YOU WILL NOT BE ENTITLED TO ANY REMAINING FUNDS.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the property being foreclosed on has qualified for the homestead tax exemption in the most recent approved tax roll, the final judgment shall additionally contain the following statement in conspicuous type:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IF YOU ARE THE PROPERTY OWNER, YOU MAY CLAIM THESE FUNDS YOURSELF. YOU ARE NOT REQUIRED TO HAVE A LAWYER OR ANY OTHER REPRESENTATION AND YOU DO NOT HAVE TO ASSIGN YOUR RIGHTS TO ANYONE ELSE IN ORDER FOR YOU TO CLAIM ANY MONEY TO WHICH YOU ARE ENTITLED. PLEASE CHECK WITH THE CLERK OF THE COURT, <Directions xml:space="preserve">(INSERT INFORMATION FOR APPLICABLE COURT)</Directions> WITHIN TEN (10) DAYS AFTER THE SALE TO SEE IF THERE IS ADDITIONAL MONEY FROM THE FORECLOSURE SALE THAT THE CLERK HAS IN THE REGISTRY OF THE COURT.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IF YOU DECIDE TO SELL YOUR HOME OR HIRE SOMEONE TO HELP YOU CLAIM THE ADDITIONAL MONEY, YOU SHOULD READ VERY CAREFULLY ALL PAPERS YOU ARE REQUIRED TO SIGN, ASK SOMEONE ELSE, PREFERABLY AN ATTORNEY WHO IS NOT RELATED TO THE PERSON OFFERING TO HELP YOU, TO MAKE SURE THAT YOU UNDERSTAND WHAT YOU ARE SIGNING AND THAT YOU ARE NOT TRANSFERRING YOUR PROPERTY OR THE EQUITY IN YOUR PROPERTY WITHOUT THE PROPER INFORMATION. IF YOU CANNOT AFFORD TO PAY AN ATTORNEY, YOU MAY CONTACT <Directions xml:space="preserve">(INSERT LOCAL OR NEAREST LEGAL AID OFFICE AND TELEPHONE NUMBER)</Directions> TO SEE IF YOU QUALIFY FINANCIALLY FOR THEIR SERVICES. IF THEY CANNOT ASSIST YOU, THEY MAY BE ABLE TO REFER YOU TO A LOCAL BAR REFERRAL AGENCY OR SUGGEST OTHER OPTIONS. IF YOU CHOOSE TO CONTACT <Directions xml:space="preserve">(NAME OF LOCAL OR NEAREST LEGAL AID OFFICE)</Directions> FOR ASSISTANCE, YOU SHOULD DO SO AS SOON AS POSSIBLE AFTER RECEIPT OF THIS NOTICE.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A copy of the final judgment shall be furnished by the clerk by first class mail to the last known address of every party to the action or to the attorney of record for such party. Any irregularity in such mailing, including the failure to include this statement in any final judgment or order, shall not affect the validity or finality of the final judgment or order or any sale held pursuant to the final judgment or order. Any sale held more than 35 days after the final judgment or order shall not affect the validity or finality of the final judgment or order or any sale held pursuant to such judgment or order.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PUBLICATION OF SALE.<EmDash />Notice of sale shall be published once a week for 2 consecutive weeks in a newspaper of general circulation, as defined in chapter 50, published in the county where the sale is to be held. The second publication shall be at least 5 days before the sale. The notice shall contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of the property to be sold.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The time and place of sale.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A statement that the sale will be made pursuant to the order or final judgment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The caption of the action.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The name of the clerk making the sale.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A statement that any person claiming an interest in the surplus from the sale, if any, other than the property owner as of the date of the lis pendens must file a claim within 60 days after the sale.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The court, in its discretion, may enlarge the time of the sale. Notice of the changed time of sale shall be published as provided herein.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">CONDUCT OF SALE; DEPOSIT REQUIRED.<EmDash />The sale shall be conducted at public auction at the time and place set forth in the final judgment. The clerk shall receive the service charge imposed in s. 45.035 for services in making, recording, and certifying the sale and title that shall be assessed as costs. At the time of the sale, the successful high bidder shall post with the clerk a deposit equal to 5 percent of the final bid. The deposit shall be applied to the sale price at the time of payment. If final payment is not made within the prescribed period, the clerk shall readvertise the sale as provided in this section and pay all costs of the sale from the deposit. Any remaining funds shall be applied toward the judgment.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATION OF SALE.<EmDash />After a sale of the property the clerk shall promptly file a certificate of sale and serve a copy of it on each party in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">(Caption of Action)</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">CERTIFICATE OF SALE</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned clerk of the court certifies that notice of public sale of the property described in the order or final judgment was published in <HorizontalRule Type="Fixed" />, a newspaper circulated in <HorizontalRule Type="Fixed" /> County, Florida, in the manner shown by the proof of publication attached, and on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, the property was offered for public sale to the highest and best bidder for cash. The highest and best bid received for the property in the amount of $<HorizontalRule Type="Fixed" /> was submitted by <HorizontalRule Type="Fixed" />, to whom the property was sold. The proceeds of the sale are retained for distribution in accordance with the order or final judgment or law. WITNESS my hand and the seal of this court on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+			<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Clerk)</Directions></Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true">By <Directions xml:space="preserve">(Deputy Clerk)</Directions></Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATE OF TITLE.<EmDash />If no objections to the sale are filed within 10 days after filing the certificate of sale, the clerk shall file a certificate of title and serve a copy of it on each party in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">(Caption of Action)</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">CERTIFICATE OF TITLE</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned clerk of the court certifies that he or she executed and filed a certificate of sale in this action on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, for the property described herein and that no objections to the sale have been filed within the time allowed for filing objections.</Text>
+			<Text xml:space="preserve" Style="Indent">The following property in <HorizontalRule Type="Fixed" /> County, Florida:</Text>
+			<Text xml:space="preserve" Style="AlignCenter">(description)</Text>
+			<Text xml:space="preserve" Style="Flush">was sold to <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">WITNESS my hand and the seal of the court on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+			<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Clerk)</Directions></Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true">By <Directions xml:space="preserve">(Deputy Clerk)</Directions></Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">CONFIRMATION; RECORDING.<EmDash />When the certificate of title is filed the sale shall stand confirmed, and title to the property shall pass to the purchaser named in the certificate without the necessity of any further proceedings or instruments. The certificate of title shall be recorded by the clerk.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">DISBURSEMENTS OF PROCEEDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">On filing a certificate of title, the clerk shall disburse the proceeds of the sale in accordance with the order or final judgment and shall file a report of such disbursements and serve a copy of it on each party, and on the Department of Revenue if the department was named as a defendant in the action or if the Department of Economic Opportunity or the former Agency for Workforce Innovation was named as a defendant while the Department of Revenue was providing reemployment assistance tax collection services under contract with the Department of Economic Opportunity or the former Agency for Workforce Innovation through an interagency agreement pursuant to s. 443.1316.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The certificate of disbursements shall be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">(Caption of Action)</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">CERTIFICATE OF DISBURSEMENTS</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned clerk of the court certifies that he or she disbursed the proceeds received from the sale of the property as provided in the order or final judgment to the persons and in the amounts as follows:</Text>
+				<Text xml:space="preserve" Style="Flush">Name<FlushRight />Amount</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">Total disbursements: $<HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="AlignCenter">Surplus retained by clerk, if any: $<HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">IF YOU ARE A PERSON CLAIMING A RIGHT TO FUNDS REMAINING AFTER THE SALE, YOU MUST FILE A CLAIM WITH THE CLERK NO LATER THAN 60 DAYS AFTER THE SALE. IF YOU FAIL TO FILE A CLAIM, YOU WILL NOT BE ENTITLED TO ANY REMAINING FUNDS. AFTER 60 DAYS, ONLY THE OWNER OF RECORD AS OF THE DATE OF THE LIS PENDENS MAY CLAIM THE SURPLUS.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">WITNESS my hand and the seal of the court on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Clerk)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true">By <Directions xml:space="preserve">(Deputy Clerk)</Directions></Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If no objections to the report are served within 10 days after it is filed, the disbursements by the clerk shall stand approved as reported. If timely objections to the report are served, they shall be heard by the court. Service of objections to the report does not affect or cloud the title of the purchaser of the property in any manner.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If there are funds remaining after payment of all disbursements required by the final judgment of foreclosure and shown on the certificate of disbursements, the surplus shall be distributed as provided in this section and ss. 45.0315-45.035.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">VALUE OF PROPERTY.<EmDash />The amount of the bid for the property at the sale shall be conclusively presumed to be sufficient consideration for the sale. Any party may serve an objection to the amount of the bid within 10 days after the clerk files the certificate of sale. If timely objections to the bid are served, the objections shall be heard by the court. Service of objections to the amount of the bid does not affect or cloud the title of the purchaser in any manner. If the case is one in which a deficiency judgment may be sought and application is made for a deficiency, the amount bid at the sale may be considered by the court as one of the factors in determining a deficiency under the usual equitable principles.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">EXECUTION SALES.<EmDash />This section shall not apply to property sold under executions.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">ELECTRONIC SALES.<EmDash />The clerk may conduct the sale of real or personal property under an order or judgment pursuant to this section by electronic means. Such electronic sales shall comply with the procedures provided in this chapter, except that electronic proxy bidding shall be allowed and the clerk may require bidders to advance sufficient funds to pay the deposit required by subsection (3). The clerk shall provide access to the electronic sale by computer terminals open to the public at a designated location and shall accept an advance credit proxy bid from the plaintiff of any amount up to the maximum allowable credit bid of the plaintiff. A clerk who conducts such electronic sales may receive electronic deposits and payments related to the sale.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 67-254; s. 13, ch. 70-134; ss. 1-3, ch. 71-5; s. 1, ch. 77-354; s. 1, ch. 78-68; s. 1, ch. 85-267; s. 6, ch. 87-145; s. 1, ch. 93-250; s. 1, ch. 94-353; s. 1355, ch. 95-147; s. 2, ch. 99-6; s. 5, ch. 99-259; s. 1, ch. 2002-218; s. 1, ch. 2003-36; s. 45, ch. 2004-265; s. 1, ch. 2006-175; s. 1, ch. 2008-194; s. 43, ch. 2011-142; s. 3, ch. 2011-213; s. 33, ch. 2012-30.</History>
+</Section>

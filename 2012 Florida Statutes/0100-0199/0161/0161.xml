@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XI">
+	<ChapterNumber>161</ChapterNumber>
+	<ChapterName xml:space="preserve">Beach and shore preservation</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Regulation of construction,<NewLine />reconstruction, and<NewLine />other physical activity</PartTitle>
+		<Section Number="0161.011" />
+		<Section Number="0161.021" />
+		<Section Number="0161.031" />
+		<Section Number="0161.041" />
+		<Section Number="0161.0415" />
+		<Section Number="0161.042" />
+		<Section Number="0161.051" />
+		<Section Number="0161.052" />
+		<Section Number="0161.053" />
+		<Section Number="0161.05301" />
+		<Section Number="0161.0531" />
+		<Section Number="0161.0535" />
+		<Section Number="0161.054" />
+		<Section Number="0161.055" />
+		<Section Number="0161.061" />
+		<Section Number="0161.071" />
+		<Section Number="0161.081" />
+		<Section Number="0161.082" />
+		<Section Number="0161.085" />
+		<Section Number="0161.088" />
+		<Section Number="0161.091" />
+		<Section Number="0161.101" />
+		<Section Number="0161.111" />
+		<Section Number="0161.121" />
+		<Section Number="0161.131" />
+		<Section Number="0161.141" />
+		<Section Number="0161.142" />
+		<Section Number="0161.143" />
+		<Section Number="0161.144" />
+		<Section Number="0161.151" />
+		<Section Number="0161.161" />
+		<Section Number="0161.163" />
+		<Section Number="0161.181" />
+		<Section Number="0161.191" />
+		<Section Number="0161.201" />
+		<Section Number="0161.211" />
+		<Section Number="0161.212" />
+		<Section Number="0161.242" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Beach and shore preservation<NewLine />districts</PartTitle>
+		<Section Number="0161.25" />
+		<Section Number="0161.26" />
+		<Section Number="0161.27" />
+		<Section Number="0161.28" />
+		<Section Number="0161.29" />
+		<Section Number="0161.31" />
+		<Section Number="0161.32" />
+		<Section Number="0161.33" />
+		<Section Number="0161.34" />
+		<Section Number="0161.35" />
+		<Section Number="0161.36" />
+		<Section Number="0161.37" />
+		<Section Number="0161.38" />
+		<Section Number="0161.39" />
+		<Section Number="0161.40" />
+		<Section Number="0161.41" />
+		<Section Number="0161.45" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Coastal zone protection</PartTitle>
+		<Section Number="0161.52" />
+		<Section Number="0161.53" />
+		<Section Number="0161.54" />
+		<Section Number="0161.55" />
+		<Section Number="0161.56" />
+		<Section Number="0161.57" />
+		<Section Number="0161.58" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Oceans and Coastal Resources Act</PartTitle>
+		<Section Number="0161.70" />
+		<Section Number="0161.71" />
+		<Section Number="0161.72" />
+		<Section Number="0161.73" />
+		<Section Number="0161.74" />
+		<Section Number="0161.76" />
+	</Part>
+</Chapter>

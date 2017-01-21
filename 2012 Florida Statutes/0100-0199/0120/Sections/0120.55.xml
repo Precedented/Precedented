@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0120.55" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Publication.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of State shall:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Through a continuous revision and publication system, compile and publish electronically, on an Internet website managed by the department, the “Florida Administrative Code.” The Florida Administrative Code shall contain all rules adopted by each agency, citing the grant of rulemaking authority and the specific law implemented pursuant to which each rule was adopted, all history notes as authorized in s. 120.545(7), complete indexes to all rules contained in the code, and any other material required or authorized by law or deemed useful by the department. The electronic code shall display each rule chapter currently in effect in browse mode and allow full text search of the code and each rule chapter. The department may contract with a publishing firm for a printed publication; however, the department shall retain responsibility for the code as provided in this section. The electronic publication shall be the official compilation of the administrative rules of this state. The Department of State shall retain the copyright over the Florida Administrative Code.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Rules general in form but applicable to only one school district, community college district, or county, or a part thereof, or state university rules relating to internal personnel or business and finance shall not be published in the Florida Administrative Code. Exclusion from publication in the Florida Administrative Code shall not affect the validity or effectiveness of such rules.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">At the beginning of the section of the code dealing with an agency that files copies of its rules with the department, the department shall publish the address and telephone number of the executive offices of each agency, the manner by which the agency indexes its rules, a listing of all rules of that agency excluded from publication in the code, and a statement as to where those rules may be inspected.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Forms shall not be published in the Florida Administrative Code; but any form which an agency uses in its dealings with the public, along with any accompanying instructions, shall be filed with the committee before it is used. Any form or instruction which meets the definition of “rule” provided in s. 120.52 shall be incorporated by reference into the appropriate rule. The reference shall specifically state that the form is being incorporated by reference and shall include the number, title, and effective date of the form and an explanation of how the form may be obtained. Each form created by an agency which is incorporated by reference in a rule notice of which is given under s. 120.54(3)(a) after December 31, 2007, must clearly display the number, title, and effective date of the form and the number of the rule in which the form is incorporated.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The department shall allow adopted rules and material incorporated by reference to be filed in electronic form as prescribed by department rule. When a rule is filed for adoption with incorporated material in electronic form, the department’s publication of the Florida Administrative Code on its Internet website must contain a hyperlink from the incorporating reference in the rule directly to that material. The department may not allow hyperlinks from rules in the Florida Administrative Code to any material other than that filed with and maintained by the department, but may allow hyperlinks to incorporated material maintained by the department from the adopting agency’s website or other sites.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Electronically publish on an Internet website managed by the department a continuous revision and publication entitled the “Florida Administrative Register,” which shall serve as the official publication and must contain:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All notices required by s. 120.54(3)(a), showing the text of all rules proposed for consideration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All notices of public meetings, hearings, and workshops conducted in accordance with s. 120.525, including a statement of the manner in which a copy of the agenda may be obtained.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A notice of each request for authorization to amend or repeal an existing uniform rule or for the adoption of new uniform rules.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Notice of petitions for declaratory statements or administrative determinations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A summary of each objection to any rule filed by the Administrative Procedures Committee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any other material required or authorized by law or deemed useful by the department.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The department may contract with a publishing firm for a printed publication of the Florida Administrative Register and make copies available on an annual subscription basis.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Prescribe by rule the style and form required for rules, notices, and other materials submitted for filing.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Charge each agency using the Florida Administrative Register a space rate to cover the costs related to the Florida Administrative Register and the Florida Administrative Code.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Maintain a permanent record of all notices published in the Florida Administrative Register.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Florida Administrative Register Internet website must allow users to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Search for notices by type, publication date, rule number, word, subject, and agency.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Search a database that makes available all notices published on the website for a period of at least 5 years.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Subscribe to an automated e-mail notification of selected notices to be sent out before or concurrently with publication of the electronic Florida Administrative Register. Such notification must include in the text of the e-mail a summary of the content of each notice.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">View agency forms and other materials submitted to the department in electronic form and incorporated by reference in proposed rules.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Comment on proposed rules.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Publication of material required by paragraph (1)(b) on the Florida Administrative Register Internet website does not preclude publication of such material on an agency’s website or by other means.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each agency shall provide copies of its rules upon request, with citations to the grant of rulemaking authority and the specific law implemented for each rule.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any publication of a proposed rule promulgated by an agency, whether published in the Florida Administrative Register or elsewhere, shall include, along with the rule, the name of the person or persons originating such rule, the name of the agency head who approved the rule, and the date upon which the rule was approved.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Access to the Florida Administrative Register Internet website and its contents, including the e-mail notification service, shall be free for the public.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All fees and moneys collected by the Department of State under this chapter shall be deposited in the Records Management Trust Fund for the purpose of paying for costs incurred by the department in carrying out this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The unencumbered balance in the Records Management Trust Fund for fees collected pursuant to this chapter may not exceed $300,000 at the beginning of each fiscal year, and any excess shall be transferred to the General Revenue Fund.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-310; s. 1, ch. 75-107; s. 4, ch. 75-191; s. 5, ch. 76-131; s. 1, ch. 77-174; s. 4, ch. 77-453; s. 3, ch. 78-425; s. 4, ch. 79-299; s. 7, ch. 80-391; s. 4, ch. 81-309; s. 1, ch. 82-19; s. 1, ch. 82-47; s. 3, ch. 83-351; s. 3, ch. 84-203; s. 17, ch. 87-224; s. 1, ch. 87-322; s. 20, ch. 91-45; s. 15, ch. 96-159; s. 896, ch. 2002-387; s. 5, ch. 2004-235; s. 14, ch. 2004-335; s. 4, ch. 2006-82; ss. 8, 9, ch. 2008-104; ss. 11, 12, ch. 2010-5; s. 2, ch. 2012-63.</History>
+</Section>

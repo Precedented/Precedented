@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.262" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Deferred payment tax certificates.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">At a tax certificate sale, the tax collector shall strike to the county each certificate on property for which taxes have been deferred. Certificates issued pursuant to this section are exempt from the public sale of tax certificates held pursuant to s. 197.432 or s. 197.4725.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The certificates so held by the county shall bear interest at a rate equal to the semiannually compounded rate of 0.5 percent plus the average yield to maturity of the long-term fixed-income portion of the Florida Retirement System investments as of the end of the quarter preceding the date of the sale of the deferred payment tax certificates. However, the interest rate may not exceed 7 percent.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 77-301; s. 4, ch. 78-161; s. 2, ch. 84-137; s. 148, ch. 85-342; s. 3, ch. 89-328; s. 4, ch. 92-312; s. 19, ch. 2011-151.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 197.0168.</Text>
+	</Note>
+</Section>

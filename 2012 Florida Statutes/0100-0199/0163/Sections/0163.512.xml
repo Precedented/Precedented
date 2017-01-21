@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.512" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Community redevelopment neighborhood improvement districts; creation; advisory council; dissolution.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Upon the recommendation of the community redevelopment agency and after a local planning ordinance has been adopted authorizing the creation of community redevelopment neighborhood improvement districts, the local governing body of a municipality or county may create community redevelopment neighborhood improvement districts by the enactment of a separate ordinance for each district, which ordinance:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Specifies the boundaries, size, and name of the district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Authorizes the district to receive a planning grant from the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Authorizes the use of the community redevelopment trust fund created pursuant to s. 163.387 for the purposes of implementing the safe neighborhood improvement plan and furthering crime prevention through community policing innovations, environmental design, environmental security, and defensible space techniques, if expenditures from the community redevelopment trust fund are consistent with the community redevelopment plan created pursuant to s. 163.360.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Designates the community redevelopment board of commissioners established pursuant to s. 163.356 or s. 163.357 as the board of directors for the district.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Establishes an advisory council to the board of directors comprised of property owners or residents of the district.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">May prohibit the use of any district power authorized by s. 163.514.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Requires that the safe neighborhood improvement plan be consistent with the community redevelopment plan created pursuant to s. 163.360, and permits the safe neighborhood improvement plan to be included in the community redevelopment plan as an optional element.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Requires that the boundaries of the community redevelopment district be contained in whole within the community redevelopment area established pursuant to ss. 163.355 and 163.356.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Requires the district to notify the Department of Legal Affairs and the Department of Economic Opportunity in writing of its establishment within 30 days thereof pursuant to s. 163.5055.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The advisory council shall perform such duties as may be prescribed by the community redevelopment board established pursuant to s. 163.356 and shall submit within the time period specified by the board of directors a report on the district’s activities and a proposed budget to accomplish its objectives. In formulating a plan for services or improvements, the advisory council shall consult in public session with the appropriate staff or consultants of the community redevelopment board responsible for the district’s plan.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A district may be dissolved by the local governing body by rescinding the ordinance creating the district. The governing body shall consider rescinding the ordinance if presented with a petition containing the signatures of 60 percent of the residents of a district.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 91-86; s. 15, ch. 98-314; s. 22, ch. 2012-96.</History>
+</Section>

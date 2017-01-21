@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.79" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Incubator facilities for small business concerns.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution established pursuant to s. 1004.02(2) may provide incubator facilities to eligible small business concerns. As used in this section, “small business concern” shall be defined as an independently owned and operated business concern incorporated in Florida which is not an affiliate or a subsidiary of a business dominant in its field of operation, and which employs 25 or fewer full-time employees. “Incubator facility” shall be defined as a facility in which small business concerns share common space, equipment, and support personnel and through which such concerns have access to professional consultants for advice related to the technical and business aspects of conducting a commercial enterprise. The Florida College System institution board of trustees shall authorize concerns for inclusion in the incubator facility.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution that provides an incubator facility shall provide the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Management and maintenance of the incubator facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Secretarial and other support personnel, equipment, and utilities.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Mechanisms to assist with the acquisition of technical, management, and entrepreneurial expertise to resident and other local small business concerns.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The incubator facility and any improvements to the facility shall be owned or leased by the Florida College System institution. The Florida College System institution may charge residents of the facility all or part of the cost for facilities, utilities, and support personnel and equipment. No small business concern shall reside in the incubator facility for more than 5 calendar years. The state shall not be liable for any act or failure to act of any small business concern residing in an incubator facility pursuant to this section or of any such concern benefiting from the incubator facilities program.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions are encouraged to establish incubator facilities through which emerging small businesses supportive of spaceport endeavors and other high-technology enterprises may be served.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions are encouraged to establish incubator facilities through which emerging small businesses supportive of development of content and technology for digital broadband media and digital broadcasting may be served.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 230, ch. 2002-387; s. 62, ch. 2011-5.</History>
+</Section>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0736.0602" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Revocation or amendment of revocable trust.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Unless the terms of a trust expressly provide that the trust is irrevocable, the settlor may revoke or amend the trust. This subsection does not apply to a trust created under an instrument executed before the effective date of this code.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a revocable trust is created or funded by more than one settlor:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To the extent the trust consists of community property, the trust may be revoked by either spouse acting alone but may be amended only by joint action of both spouses.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To the extent the trust consists of property other than community property, each settlor may revoke or amend the trust with regard to the portion of the trust property attributable to that settlor’s contribution.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon the revocation or amendment of the trust by fewer than all of the settlors, the trustee shall promptly notify the other settlors of the revocation or amendment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Subject to s. 736.0403(2), the settlor may revoke or amend a revocable trust:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By substantial compliance with a method provided in the terms of the trust; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the terms of the trust do not provide a method, by:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A later will or codicil that expressly refers to the trust or specifically devises property that would otherwise have passed according to the terms of the trust; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any other method manifesting clear and convincing evidence of the settlor’s intent.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Upon revocation of a revocable trust, the trustee shall deliver the trust property as the settlor directs.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A settlor’s powers with respect to revocation, amendment, or distribution of trust property may be exercised by an agent under a power of attorney only as authorized by s. 709.2202.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A guardian of the property of the settlor may exercise a settlor’s powers with respect to revocation, amendment, or distribution of trust property only as provided in s. 744.441.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A trustee who does not know that a trust has been revoked or amended is not liable for distributions made and other actions taken on the assumption that the trust had not been amended or revoked.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2006-217; s. 32, ch. 2011-210.</History>
+</Section>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0382.015" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">New certificates of live birth; duty of clerks of court and department.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The clerk of the court in which any proceeding for adoption, annulment of an adoption, affirmation of parental status, or determination of paternity is to be registered, shall within 30 days after the final disposition, forward to the department a certified copy of the court order, or a report of the proceedings upon a form to be furnished by the department, together with sufficient information to identify the original birth certificate and to enable the preparation of a new birth certificate. The clerk of the court shall implement a monitoring and quality control plan to ensure that all judicial determinations of paternity are reported to the department in compliance with this section. The department shall track paternity determinations reported monthly by county, monitor compliance with the 30-day timeframe, and report the data to the clerks of the court quarterly.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ADOPTION AND ANNULMENT OF ADOPTION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of the report or certified copy of an adoption decree, together with the information necessary to identify the original certificate of live birth, and establish a new certificate, the department shall prepare and file a new birth certificate, absent objection by the court decreeing the adoption, the adoptive parents, or the adoptee if of legal age. The certificate shall bear the same file number as the original birth certificate. All names and identifying information relating to the adoptive parents entered on the new certificate shall refer to the adoptive parents, but nothing in the certificate shall refer to or designate the parents as being adoptive. All other items not affected by adoption shall be copied as on the original certificate, including the date of registration and filing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of the report or certified copy of an annulment-of-adoption decree, together with the sufficient information to identify the original certificate of live birth, the department shall, if a new certificate of birth was filed following an adoption report or decree, remove the new certificate and restore the original certificate to its original place in the files, and the certificate so removed shall be sealed by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of a report or certified copy of an adoption decree or annulment-of-adoption decree for a person born in another state, the department shall forward the report or decree to the state of the registrant’s birth. If the adoptee was born in Canada, the department shall send a copy of the report or decree to the appropriate birth registration authority in Canada.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DETERMINATION OF PATERNITY.<EmDash />Upon receipt of the report, a certified copy of a final decree of determination of paternity, or a certified copy of a final judgment of dissolution of marriage which requires the former husband to pay child support for the child, together with sufficient information to identify the original certificate of live birth, the department shall prepare and file a new birth certificate, which shall bear the same file number as the original birth certificate. The registrant’s name shall be entered as decreed by the court or as reflected in the final judgment or support order. The names and identifying information of the parents shall be entered as of the date of the registrant’s birth.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">AFFIRMATION OF PARENTAL STATUS.<EmDash />Upon receipt of an order of affirmation of parental status issued pursuant to s. 742.16, together with sufficient information to identify the original certificate of live birth, the department shall prepare and file a new birth certificate which shall bear the same file number as the original birth certificate. The names and identifying information of the registrant’s parents entered on the new certificate shall be the commissioning couple, but the new certificate may not make reference to or designate the parents as the commissioning couple.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">SUBSTITUTION OF NEW CERTIFICATE OF BIRTH FOR ORIGINAL.<EmDash />When a new certificate of birth is prepared, the department shall substitute the new certificate of birth for the original certificate on file. All copies of the original certificate of live birth in the custody of a local registrar or other state custodian of vital records shall be forwarded to the State Registrar. Thereafter, when a certified copy of the certificate of birth or portion thereof is issued, it shall be a copy of the new certificate of birth or portion thereof, except when a court order requires issuance of a certified copy of the original certificate of birth. In an adoption, change in paternity, affirmation of parental status, undetermined parentage, or court-ordered substitution, the department shall place the original certificate of birth and all papers pertaining thereto under seal, not to be broken except by order of a court of competent jurisdiction or as otherwise provided by law.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">FORM.<EmDash />Except for certificates of foreign birth which are registered as provided in s. 382.017, and delayed certificates of birth which are registered as provided in ss. 382.019 and 382.0195, all original, new, or amended certificates of live birth shall be identical in form, regardless of the marital status of the parents or the fact that the registrant is adopted or of undetermined parentage.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The department shall adopt and enforce all rules necessary for carrying out the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 19063, 1939; CGL 1940 Supp. 3301(4), (5); s. 1, ch. 22016, 1943; ss. 11, 12, ch. 25372, 1949; ss. 19, 35, ch. 69-106; s. 3, ch. 75-166; s. 106, ch. 77-147; s. 4, ch. 77-446; s. 13, ch. 87-387; s. 5, ch. 90-347; s. 191, ch. 96-406; s. 98, ch. 97-237; s. 18, ch. 99-397; s. 16, ch. 2005-39; s. 4, ch. 2010-187.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Consolidation of former ss. 382.21, 382.22.</Text>
+	</Note>
+</Section>

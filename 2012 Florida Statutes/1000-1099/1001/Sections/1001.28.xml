@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1001.28" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Distance learning duties.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The duties of the Department of Education concerning distance learning include, but are not limited to, the duty to:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Facilitate the implementation of a statewide coordinated system and resource system for cost-efficient advanced telecommunications services and distance education which will increase overall student access to education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Coordinate the use of existing resources, including, but not limited to, the state’s satellite transponders, the Florida Information Resource Network (FIRN), and distance learning initiatives.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Assist in the coordination of the utilization of the production and uplink capabilities available through Florida’s public television stations, eligible facilities, independent colleges and universities, private firms, and others as needed.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Seek the assistance and cooperation of Florida’s cable television providers in the implementation of the statewide advanced telecommunications services and distance learning network.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Seek the assistance and cooperation of Florida’s telecommunications carriers to provide affordable student access to advanced telecommunications services and to distance learning.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Coordinate partnerships for development, acquisition, use, and distribution of distance learning.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Secure and administer funding for programs and activities for distance learning from federal, state, local, and private sources and from fees derived from services and materials.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Manage the state’s satellite transponder resources and enter into lease agreements to maximize the use of available transponder time. All net revenue realized through the leasing of available transponder time, after deducting the costs of performing the management function, shall be recycled to support the public education distance learning in this state based upon an allocation formula of one-third to the Department of Education, one-third to Florida College System institutions, and one-third to state universities.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Hire appropriate staff which may include a position that shall be exempt from part II of chapter 110 and is included in the Senior Management Service in accordance with s. 110.205.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">Nothing in this section shall be construed to abrogate, supersede, alter, or amend the powers and duties of any state agency, district school board, Florida College System institution board of trustees, university board of trustees, the Board of Governors, or the State Board of Education.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2002-387; s. 73, ch. 2007-217; s. 4, ch. 2009-59; s. 15, ch. 2011-5; s. 6, ch. 2011-55.</History>
+</Section>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0339.285" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Enhanced Bridge Program for Sustainable Transportation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created within the Department of Transportation the Enhanced Bridge Program for Sustainable Transportation for the purpose of providing funds to improve the sufficiency rating of local bridges and to improve congested roads on the State Highway System or local corridors on which high-cost bridges are located in order to improve a corridor or provide an alternative corridor.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Matching funds provided from the program may fund up to 50 percent of project costs.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall allocate a minimum of 25 percent of funding available for the program for local bridge projects to replace, rehabilitate, paint, or install scour countermeasures to highway bridges located on public roads, other than those on the State Highway System. A project to be funded must, at a minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be classified as a structurally deficient bridge having a poor condition rating for the deck, superstructure, substructure component, or culvert;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Have a sufficiency rating of 35 or below; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Have average daily traffic of at least 500 vehicles.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Special consideration shall be given to bridges that are closed to all traffic or that have a load restriction of less than 10 tons.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall allocate remaining funding available for the program to improve highly congested roads on the State Highway System or local corridors on which high-cost bridges are located in order to improve the corridor or provide an alternative corridor. A project to be funded must, at a minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be on or provide direct relief to an existing corridor that is backlogged or constrained; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be a major bridge having an estimated cost greater than $25 million.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Preference shall be given to bridge projects located on corridors that connect to the Strategic Intermodal System, created under s. 339.64, and that have been identified as regionally significant in accordance with s. 339.155(4)(c), (d), and (e).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 43, ch. 2007-196; s. 90, ch. 2012-174.</History>
+</Section>

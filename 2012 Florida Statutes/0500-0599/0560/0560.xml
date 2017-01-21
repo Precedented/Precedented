@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIII">
+	<ChapterNumber>560</ChapterNumber>
+	<ChapterName xml:space="preserve">Money services businesses</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0560.103" />
+		<Section Number="0560.104" />
+		<Section Number="0560.105" />
+		<Section Number="0560.107" />
+		<Section Number="0560.109" />
+		<Section Number="0560.1091" />
+		<Section Number="0560.1092" />
+		<Section Number="0560.1105" />
+		<Section Number="0560.111" />
+		<Section Number="0560.113" />
+		<Section Number="0560.114" />
+		<Section Number="0560.1141" />
+		<Section Number="0560.115" />
+		<Section Number="0560.116" />
+		<Section Number="0560.118" />
+		<Section Number="0560.121" />
+		<Section Number="0560.123" />
+		<Section Number="0560.1235" />
+		<Section Number="0560.124" />
+		<Section Number="0560.125" />
+		<Section Number="0560.126" />
+		<Section Number="0560.127" />
+		<Section Number="0560.128" />
+		<Section Number="0560.129" />
+		<Section Number="0560.1401" />
+		<Section Number="0560.141" />
+		<Section Number="0560.142" />
+		<Section Number="0560.143" />
+		<Section Number="0560.144" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Payment instruments and<NewLine />funds transmission</PartTitle>
+		<Section Number="0560.203" />
+		<Section Number="0560.204" />
+		<Section Number="0560.205" />
+		<Section Number="0560.208" />
+		<Section Number="0560.2085" />
+		<Section Number="0560.209" />
+		<Section Number="0560.210" />
+		<Section Number="0560.211" />
+		<Section Number="0560.212" />
+		<Section Number="0560.213" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Check cashing and<NewLine />foreign currency exchange</PartTitle>
+		<Section Number="0560.303" />
+		<Section Number="0560.304" />
+		<Section Number="0560.309" />
+		<Section Number="0560.310" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Deferred presentment</PartTitle>
+		<Section Number="0560.402" />
+		<Section Number="0560.403" />
+		<Section Number="0560.404" />
+		<Section Number="0560.4041" />
+		<Section Number="0560.405" />
+		<Section Number="0560.406" />
+		<Section Number="0560.408" />
+	</Part>
+</Chapter>

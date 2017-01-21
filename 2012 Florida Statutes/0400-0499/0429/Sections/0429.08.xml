@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0429.08" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Unlicensed facilities; referral of person for residency to unlicensed facility; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">This section applies to the unlicensed operation of an assisted living facility in addition to the requirements of part II of chapter 408.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided under paragraph (d), any person who owns, operates, or maintains an unlicensed assisted living facility commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. Each day of continued operation is a separate offense.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person found guilty of violating paragraph (a) a second or subsequent time commits a felony of the second degree, punishable as provided under s. 775.082, s. 775.083, or s. 775.084. Each day of continued operation is a separate offense.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person who owns, operates, or maintains an unlicensed assisted living facility due to a change in this part or a modification in rule within 6 months after the effective date of such change and who, within 10 working days after receiving notification from the agency, fails to cease operation or apply for a license under this part commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. Each day of continued operation is a separate offense.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The agency shall publish a list, by county, of licensed assisted living facilities. This information may be provided electronically or through the agency’s Internet site.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is unlawful to knowingly refer a person for residency to an unlicensed assisted living facility; to an assisted living facility the license of which is under denial or has been suspended or revoked; or to an assisted living facility that has a moratorium pursuant to part II of chapter 408.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any health care practitioner, as defined in s. 456.001, who is aware of the operation of an unlicensed facility shall report that facility to the agency. Failure to report a facility that the practitioner knows or has reasonable cause to suspect is unlicensed shall be reported to the practitioner’s licensing board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any provider as defined in s. 408.803 which knowingly discharges a patient or client to an unlicensed facility is subject to sanction by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any employee of the agency or department, or the Department of Children and Family Services, who knowingly refers a person for residency to an unlicensed facility; to a facility the license of which is under denial or has been suspended or revoked; or to a facility that has a moratorium pursuant to part II of chapter 408 is subject to disciplinary action by the agency or department, or the Department of Children and Family Services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The employer of any person who is under contract with the agency or department, or the Department of Children and Family Services, and who knowingly refers a person for residency to an unlicensed facility; to a facility the license of which is under denial or has been suspended or revoked; or to a facility that has a moratorium pursuant to part II of chapter 408 shall be fined and required to prepare a corrective action plan designed to prevent such referrals.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 88-350; s. 6, ch. 91-263; s. 29, ch. 92-33; ss. 5, 39, ch. 93-216; s. 10, ch. 95-210; ss. 4, 48, ch. 95-418; s. 5, ch. 98-80; s. 1, ch. 99-179; s. 1, ch. 2000-318; s. 36, ch. 2001-62; s. 2, ch. 2004-344; ss. 2, 33, ch. 2006-197; s. 141, ch. 2007-230; s. 60, ch. 2009-223.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 400.408.</Text>
+	</Note>
+</Section>

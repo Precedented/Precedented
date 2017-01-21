@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0376.3072" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Petroleum Liability and Restoration Insurance Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is hereby created the Florida Petroleum Liability and Restoration Insurance Program to be administered by the department. The program shall provide restoration funding assistance to facilities regulated by the department’s petroleum storage tank rules. To implement the program, the department may contract with an insurance company, a reinsurance company, or other insurance consultant to issue third-party liability policies that meet the federal financial responsibility requirements of 40 C.F.R. s. 280.97, subpart H.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any owner or operator of a petroleum storage system may become an insured in the restoration insurance program at a facility provided:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A site at which an incident has occurred shall be eligible for restoration if the insured is a participant in the third-party liability insurance program or otherwise meets applicable financial responsibility requirements. After July 1, 1993, the insured must also provide the required excess insurance coverage or self-insurance for restoration to achieve the financial responsibility requirements of 40 C.F.R. s. 280.97, subpart H, not covered by paragraph (d).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A site which had a discharge reported prior to January 1, 1989, for which notice was given pursuant to s. 376.3071(9) or (12), and which is ineligible for the third-party liability insurance program solely due to that discharge shall be eligible for participation in the restoration program for any incident occurring on or after January 1, 1989, in accordance with subsection (3). Restoration funding for an eligible contaminated site will be provided without participation in the third-party liability insurance program until the site is restored as required by the department or until the department determines that the site does not require restoration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (b), a site where an application is filed with the department prior to January 1, 1995, where the owner is a small business under s. 288.703(6), a state community college with less than 2,500 FTE, a religious institution as defined by s. 212.08(7)(m), a charitable institution as defined by s. 212.08(7)(p), or a county or municipality with a population of less than 50,000, shall be eligible for up to $400,000 of eligible restoration costs, less a deductible of $10,000 for small businesses, eligible community colleges, and religious or charitable institutions, and $30,000 for eligible counties and municipalities, provided that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Except as provided in sub-subparagraph e., the facility was in compliance with department rules at the time of the discharge.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The owner or operator has, upon discovery of a discharge, promptly reported the discharge to the department, and drained and removed the system from service, if necessary.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The owner or operator has not intentionally caused or concealed a discharge or disabled leak detection equipment.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The owner or operator proceeds to complete initial remedial action as defined by department rules.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The owner or operator, if required and if it has not already done so, applies for third-party liability coverage for the facility within 30 days of receipt of an eligibility order issued by the department pursuant to this provision.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">However, the department may consider in-kind services from eligible counties and municipalities in lieu of the $30,000 deductible. The cost of conducting initial remedial action as defined by department rules shall be an eligible restoration cost pursuant to this provision.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">By January 1, 1997, facilities at sites with existing contamination shall be required to have methods of release detection to be eligible for restoration insurance coverage for new discharges subject to department rules for secondary containment. Annual storage system testing, in conjunction with inventory control, shall be considered to be a method of release detection until the later of December 22, 1998, or 10 years after the date of installation or the last upgrade. Other methods of release detection for storage tanks which meet such requirement are:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Interstitial monitoring of tank and integral piping secondary containment systems;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Automatic tank gauging systems; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">A statistical inventory reconciliation system with a tank test every 3 years.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For pressurized integral piping systems, the owner or operator must use:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">An automatic in-line leak detector with flow restriction meeting the requirements of department rules used in conjunction with an annual tightness or pressure test; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">An automatic in-line leak detector with electronic flow shut-off meeting the requirements of department rules.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">For suction integral piping systems, the owner or operator must use:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A single check valve installed directly below the suction pump, provided there are no other valves between the dispenser and the tank; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">An annual tightness test or other approved test.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Owners of facilities with existing contamination that install internal release detection systems in accordance with sub-subparagraph a. shall permanently close their external groundwater and vapor monitoring wells in accordance with department rules by December 31, 1998. Upon installation of the internal release detection system, these wells shall be secured and taken out of service until permanent closure.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Facilities with vapor levels of contamination meeting the requirements of or below the concentrations specified in the performance standards for release detection methods specified in department rules may continue to use vapor monitoring wells for release detection.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The department may approve other methods of release detection for storage tanks and integral piping which have at least the same capability to detect a new release as the methods specified in this subparagraph.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To be eligible to be certified as an insured facility, for discharges reported after January 1, 1989, the owner or operator shall file an affidavit upon enrollment in the program. The affidavit shall state that the owner or operator has read and is familiar with this chapter and the rules relating to petroleum storage systems and petroleum contamination site cleanup adopted pursuant to ss. 376.303 and 376.3071 and that the facility is in compliance with this chapter and applicable rules adopted pursuant to s. 376.303. Thereafter, the facility’s annual inspection report shall serve as evidence of the facility’s compliance with department rules. The facility’s certificate as an insured facility may be revoked only if the insured fails to correct a violation identified in an inspection report before a discharge occurs. The facility’s certification may be restored when the violation is corrected as verified by a reinspection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (a), to be eligible to be certified as an insured facility, the applicant must demonstrate to the department that the applicant has financial responsibility for third-party claims and excess coverage, as required by this section and 40 C.F.R. s. 280.97(h) and that the applicant maintains such insurance during the applicant’s participation as an insured facility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Should a reinspection of the facility be necessary to demonstrate compliance, the insured shall pay an inspection fee not to exceed $500 per facility to be deposited in the Inland Protection Trust Fund.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Upon report of a discharge, the department shall issue an order stating that the site is eligible for restoration coverage unless the insured has intentionally caused or concealed a discharge or disabled leak detection equipment, has misrepresented facts in the affidavit filed pursuant to subparagraph 1., or cannot demonstrate that he or she has obtained and maintained the financial responsibility for third-party claims and excess coverage as required in subparagraph 2.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Nothing contained herein shall prevent the department from assessing civil penalties for noncompliance as provided herein.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A lender that has loaned money to a participant in the Florida Petroleum Liability and Restoration Insurance Program and has held a mortgage lien, security interest, or any lien rights on the site primarily to protect the lender’s right to convert or liquidate the collateral in satisfaction of the debt secured, or a financial institution which serves as a trustee for an insured in the program for the purpose of site rehabilitation, shall be eligible for a state-funded cleanup of the site, if the lender forecloses the lien or accepts a deed in lieu of foreclosure on that property and acquires title, and as long as the following has occurred, as applicable:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The owner or operator provided the lender with proof that the facility is eligible for the restoration insurance program at the time of the loan or before the discharge occurred.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The financial institution or lender completes site rehabilitation and seeks reimbursement pursuant to s. 376.3071(12) or conducts preapproved site rehabilitation pursuant to s. 376.30711, as appropriate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The financial institution or lender did not engage in management activities at the site prior to foreclosure and does not operate the site or otherwise engage in management activities after foreclosure, except to comply with environmental statutes or rules or to prevent, abate, or remediate a discharge.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">With respect to eligible incidents reported to the department prior to July 1, 1992, the restoration insurance program shall provide up to $1.2 million of restoration for each incident and shall have an annual aggregate limit of $2 million of restoration per facility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For any site at which a discharge is reported on or after July 1, 1992, and for which restoration coverage is requested, the department shall pay for restoration in accordance with the following schedule:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">For discharges reported to the department from July 1, 1992, to June 30, 1993, the department shall pay up to $1.2 million of eligible restoration costs, less a $1,000 deductible per incident.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For discharges reported to the department from July 1, 1993, to December 31, 1993, the department shall pay up to $1.2 million of eligible restoration costs, less a $5,000 deductible per incident. However, if, prior to the date the discharge is reported and by September 1, 1993, the owner or operator can demonstrate financial responsibility in effect in accordance with 40 C.F.R. s. 280.97, subpart H, for coverage under sub-subparagraph c., the deductible will be $500. The $500 deductible shall apply for a period of 1 year from the effective date of a policy or other form of financial responsibility obtained and in effect by September 1, 1993.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">For discharges reported to the department from January 1, 1994, to December 31, 1996, the department shall pay up to $400,000 of eligible restoration costs, less a deductible of $10,000.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">For discharges reported to the department from January 1, 1997, to December 31, 1998, the department shall pay up to $300,000 of eligible restoration costs, less a deductible of $10,000.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Beginning January 1, 1999, no restoration coverage shall be provided.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">In addition, a supplemental deductible shall be added as follows:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A supplemental deductible of $5,000 if the owner or operator fails to report a suspected release within 1 working day after discovery.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A supplemental deductible of $10,000 if the owner or operator, within 3 days after discovery of an actual new discharge, fails to take steps to test or empty the storage system and complete such activity within 7 days.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">A supplemental deductible of $25,000 if the owner or operator, after testing or emptying the storage system, fails to proceed within 24 hours thereafter to abate the known source of the discharge or to begin free product removal relating to an actual new discharge and fails to complete abatement within 72 hours, although free product recovery may be ongoing.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The following are not eligible to participate in the Petroleum Liability and Restoration Insurance Program:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Sites owned or operated by the Federal Government during the time the facility was in operation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Sites where the owner or operator has denied the department reasonable site access.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any third-party claims relating to damages caused by discharges discovered prior to January 1, 1989.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any incidents discovered prior to January 1, 1989, are not eligible to participate in the restoration insurance program. However, this exclusion shall not be construed to prevent a new incident at the same location from participation in the restoration insurance program if the owner or operator is otherwise eligible. This exclusion shall not affect eligibility for participation in the EDI program.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Sites meeting the criteria of this subsection for which a site rehabilitation completion order was issued prior to June 1, 2008, do not qualify for the 2008 increase in site rehabilitation funding assistance and are bound by the pre-June 1, 2008, limits. Sites meeting the criteria of this subsection for which a site rehabilitation completion order was not issued prior to June 1, 2008, regardless of whether or not they have previously transitioned to nonstate-funded cleanup status, may continue state-funded cleanup pursuant to s. 376.30711 until a site rehabilitation completion order is issued or the increased site rehabilitation funding assistance limit is reached, whichever occurs first. At no time shall expenses incurred outside the preapproved site rehabilitation program under s. 376.30711 be reimbursable.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Sites that were certified as insured facilities and that were denied coverage for a discharge under the Petroleum Liability and Restoration Insurance Program may request a reevaluation under the criteria in subsection (2). Such request shall be made by December 31, 1996. If the contamination is redetermined to be eligible, the deductible and coverage limit in effect at the time the discharge was reported shall be applicable. The redetermination shall not affect the department’s authority for assessing supplemental deductibles or civil penalties. The department shall not assess a supplemental deductible or civil penalty for alleged failure to report or abate a discharge when the owner or operator can establish no discharge occurred. Notwithstanding any department order to the contrary, the supplemental deductibles in sub-subparagraph (2)(d)2.f. shall not be applied cumulatively but, rather, the highest applicable supplemental deductible shall be applied.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Restoration” means rehabilitation of contaminated sites both on and off the property of the owner or operator of the petroleum storage system and shall consist of investigation and assessment, cleanup of affected soil, groundwater, and surface water in accordance with the site selection and cleanup criteria established by the department pursuant to s. 376.3071(5), and maintenance and monitoring of the contaminated sites. The term “restoration” also means the department’s expeditious rehabilitation or replacement of potable water supplies as provided in s. 376.30(3)(c)1. In the event the department does not provide bottled water, or a replacement water supply within 3 days, the owner, operator, or their designee may provide bottled water to an affected third party, and that cost shall be reimbursable. The term “restoration” does not mean costs which may be associated with compliance with rules relating to stationary tanks adopted pursuant to s. 376.303.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Third-party liability” means the insured’s liability, other than for restoration costs, for bodily injury or property damage caused by an incident of inland contamination related to the storage of petroleum product.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Incident” means the reporting of any sudden or gradual discharge of petroleum product arising from operating a storage system containing petroleum product that results in a need for restoration or results in bodily injury or property damage neither expected nor intended by the petroleum storage system owner or operator.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Petroleum products” means petroleum products as defined by s. 376.301.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall adopt rules for the proper management and maintenance of the Florida Petroleum Liability and Restoration Insurance Program. The department may contract with an insurance company, reinsurance company, or other entity for the implementation of the program or any portion of the program. The purchase of insurance services by the department is not subject to the provisions of chapter 287.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Office of Insurance Regulation of the Financial Services Commission shall offer assistance as requested by the department to implement the program.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any insurance company, reinsurance company, or other entity contracted with by the department shall be subject to the same rules and regulations of the Office of Insurance Regulation applicable to other insurers, reinsurers, and other entities.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 3, 13, ch. 88-331; s. 5, ch. 89-188; s. 24, ch. 90-54; ss. 16, 19, ch. 91-305; s. 8, ch. 92-30; s. 3, ch. 94-311; s. 302, ch. 94-356; s. 1018, ch. 95-148; s. 8, ch. 96-277; s. 16, ch. 97-277; s. 179, ch. 99-13; s. 5, ch. 2000-228; s. 393, ch. 2003-261; s. 3, ch. 2008-127; s. 45, ch. 2012-5.</History>
+</Section>

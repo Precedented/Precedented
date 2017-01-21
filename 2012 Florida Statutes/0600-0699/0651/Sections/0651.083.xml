@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0651.083" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Residents’ rights.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No resident of any facility shall be deprived of any civil or legal rights, benefits, or privileges guaranteed by law, by the State Constitution, or by the United States Constitution solely by reason of status as a resident of a facility. Each resident of a facility has the right to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Live in a safe and decent living environment, free from abuse and neglect.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be treated with consideration and respect and with due recognition of personal dignity, individuality, and the need for privacy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Unrestricted private communication, including receiving and sending unopened correspondence. This includes the right to receive memos or announcements from or approved for distribution by the residents’ council.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Freedom to participate in and benefit from community services and activities and to achieve the highest possible level of independence, autonomy, and interaction within the community.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Exercise civil and religious liberties. No religious beliefs or practices, and no requirement of attendance at religious services, may be imposed upon any resident.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Present grievances and recommend changes in policies, procedures, and services to the staff of the facility, governing officials, or any other person without restraint, interference, coercion, discrimination, or reprisal. This right includes access to ombudsman volunteers and advocates and the right to be a member of, and active in, and to associate with, advocacy or special interest groups or associations.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Freedom from governmental intrusion into the private life of the resident, as provided in s. 23, Art. I of the State Constitution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The provider shall provide a copy of the bill of rights provided by subsection (1) to each resident at or before the resident’s admission to the facility.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any violation of the residents’ rights set forth in subsection (1) constitutes grounds for disciplinary action by the office under ss. 651.106 and 651.108.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person who submits or reports a complaint concerning a suspected violation of a resident’s rights or concerning services or conditions in a facility or who testifies in any administrative or judicial proceeding arising from such complaint is immune from any civil or criminal liability therefor, unless such person has acted in bad faith or with malicious purpose or if the court finds that there was a complete absence of a justiciable issue of either law or fact raised by the losing party.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The provider may not restrict a resident’s access to the residents’ council.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">This section does not supersede any bill of rights provided by law for residents of nursing homes or assisted living facilities.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 9, 16, ch. 91-98; s. 12, ch. 93-22; s. 45, ch. 95-210; s. 1680, ch. 2003-261; s. 10, ch. 2010-202.</History>
+</Section>

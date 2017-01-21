@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.1089" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Innovation Incentive Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Innovation Incentive Program is created within the Department of Economic Opportunity to ensure that sufficient resources are available to allow the state to respond expeditiously to extraordinary economic opportunities and to compete effectively for high-value research and development, innovation business, and alternative and renewal energy projects.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Alternative and renewable energy” means electrical, mechanical, or thermal energy produced from a method that uses one or more of the following fuels or energy sources: ethanol, cellulosic ethanol, biobutanol, biodiesel, biomass, biogas, hydrogen fuel cells, ocean energy, hydrogen, solar, hydro, wind, or geothermal.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Average private sector wage” means the statewide average wage in the private sector or the average of all private sector wages in the county or in the standard metropolitan area in which the project is located as determined by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Brownfield area” means an area designated as a brownfield area pursuant to s. 376.80.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Cumulative investment” means cumulative capital investment and all eligible capital costs, as defined in s. 220.191.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Enterprise zone” means an area designated as an enterprise zone pursuant to s. 290.0065.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Fiscal year” means the state fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Industry wage” means the average annual wage paid to employees in a particular industry, as designated by the North American Industry Classification System (NAICS), and compiled by the Bureau of Labor Statistics of the United States Department of Labor.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Innovation business” means a business expanding or locating in this state that is likely to serve as a catalyst for the growth of an existing or emerging technology cluster or will significantly impact the regional economy in which it is to expand or locate.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Jobs” means full-time equivalent positions, including, but not limited to, positions obtained from a temporary employment agency or employee leasing company or through a union agreement or coemployment under a professional employer organization agreement, that result directly from a project in this state. The term does not include temporary construction jobs.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Naming opportunities” means charitable donations from any person or entity in consideration for the right to have all or a portion of the facility named for or in the memory of any person, living or dead, or for any entity.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Net royalty revenues” means all royalty revenues less the cost of obtaining, maintaining, and enforcing related patent and intellectual property rights, both foreign and domestic.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Match” means funding from local sources, public or private, which will be paid to the applicant and which is equal to 100 percent of an award. Eligible match funding may include any tax abatement granted to the applicant under s. 196.1995 or the appraised market value of land, buildings, infrastructure, or equipment conveyed or provided at a discount to the applicant. Complete documentation of a match payment or other conveyance must be presented to and verified by the department prior to transfer of state funds to an applicant. An applicant may not provide, directly or indirectly, more than 5 percent of match funding in any fiscal year. The sources of such funding may not include, directly or indirectly, state funds appropriated from the General Revenue Fund or any state trust fund, excluding tax revenues shared with local governments pursuant to law.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Project” means the location to or expansion in this state by an innovation business, a research and development applicant, or an alternative and renewable energy applicant approved for an award pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Research and development” means basic and applied research in the sciences or engineering, as well as the design, development, and testing of prototypes or processes of new or improved products. Research and development does not include market research, routine consumer product testing, sales research, research in the social sciences or psychology, nontechnological activities, or technical services.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Research and development facility” means a facility that is predominately engaged in research and development activities. For purposes of this paragraph, the term “predominantly” means at least 51 percent of the time.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Rural area” means a rural city or rural community as defined in s. 288.106.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">To be eligible for consideration for an innovation incentive award, an innovation business, a research and development entity, or an alternative and renewable energy company must submit a written application to the department before making a decision to locate new operations in this state or expand an existing operation in this state. The application must include, but not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The applicant’s federal employer identification number, reemployment assistance account number, and state sales tax registration number. If such numbers are not available at the time of application, they must be submitted to the department in writing before the disbursement of any payments under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The location in this state at which the project is located or is to be located.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A description of the type of business activity, product, or research and development undertaken by the applicant, including six-digit North American Industry Classification System codes for all activities included in the project.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The applicant’s projected investment in the project.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The total investment, from all sources, in the project.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The number of net new full-time equivalent jobs in this state the applicant anticipates having created as of December 31 of each year in the project and the average annual wage of such jobs.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The total number of full-time equivalent employees currently employed by the applicant in this state, if applicable.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The anticipated commencement date of the project.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A detailed explanation of why the innovation incentive is needed to induce the applicant to expand or locate in the state and whether an award would cause the applicant to locate or expand in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">If applicable, an estimate of the proportion of the revenues resulting from the project that will be generated outside this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To qualify for review by the department, the applicant must, at a minimum, establish the following to the satisfaction of the department:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The jobs created by the project must pay an estimated annual average wage equaling at least 130 percent of the average private sector wage. The department may waive this average wage requirement at the request of Enterprise Florida, Inc., for a project located in a rural area, a brownfield area, or an enterprise zone, when the merits of the individual project or the specific circumstances in the community in relationship to the project warrant such action. A recommendation for waiver by Enterprise Florida, Inc., must include a specific justification for the waiver and be transmitted to the department in writing. If the department elects to waive the wage requirement, the waiver must be stated in writing and the reasons for granting the waiver must be explained.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A research and development project must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Serve as a catalyst for an emerging or evolving technology cluster.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Demonstrate a plan for significant higher education collaboration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Provide the state, at a minimum, a break-even return on investment within a 20-year period.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Be provided with a one-to-one match from the local community. The match requirement may be reduced or waived in rural areas of critical economic concern or reduced in rural areas, brownfield areas, and enterprise zones.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An innovation business project in this state, other than a research and development project, must:</Text>
+				<SubParagraph Id="1">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Result in the creation of at least 1,000 direct, new jobs at the business; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Result in the creation of at least 500 direct, new jobs if the project is located in a rural area, a brownfield area, or an enterprise zone.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Have an activity or product that is within an industry that is designated as a target industry business under s. 288.106 or a designated sector under s. 288.108.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Have a cumulative investment of at least $500 million within a 5-year period; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Have a cumulative investment that exceeds $250 million within a 10-year period if the project is located in a rural area, brownfield area, or an enterprise zone.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Be provided with a one-to-one match from the local community. The match requirement may be reduced or waived in rural areas of critical economic concern or reduced in rural areas, brownfield areas, and enterprise zones.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For an alternative and renewable energy project in this state, the project must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Demonstrate a plan for significant collaboration with an institution of higher education;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Provide the state, at a minimum, a break-even return on investment within a 20-year period;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Include matching funds provided by the applicant or other available sources. The match requirement may be reduced or waived in rural areas of critical economic concern or reduced in rural areas, brownfield areas, and enterprise zones;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Be located in this state; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Provide at least 35 direct, new jobs that pay an estimated annual average wage that equals at least 130 percent of the average private sector wage.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall review proposals pursuant to s. 288.061 for all three categories of innovation incentive awards. Before making a recommendation to the executive director, the department shall solicit comments and recommendations from the Department of Agriculture and Consumer Services. For each project, the evaluation and recommendation to the department must include, but need not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of the project, its required facilities, and the associated product, service, or research and development associated with the project.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The percentage of match provided for the project.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The number of full-time equivalent jobs that will be created by the project, the total estimated average annual wages of such jobs, and the types of business activities and jobs likely to be stimulated by the project.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The cumulative investment to be dedicated to the project within 5 years and the total investment expected in the project if more than 5 years.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The projected economic and fiscal impacts on the local and state economies relative to investment.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A statement of any special impacts the project is expected to stimulate in a particular business sector in the state or regional economy or in the state’s universities and community colleges.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A statement of any anticipated or proposed relationships with state universities.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A statement of the role the incentive is expected to play in the decision of the applicant to locate or expand in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A recommendation and explanation of the amount of the award needed to cause the applicant to expand or locate in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">A discussion of the efforts and commitments made by the local community in which the project is to be located to induce the applicant’s location or expansion, taking into consideration local resources and abilities.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">A recommendation for specific performance criteria the applicant would be expected to achieve in order to receive payments from the fund and penalties or sanctions for failure to meet or maintain performance conditions.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Additional evaluative criteria for a research and development facility project, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A description of the extent to which the project has the potential to serve as catalyst for an emerging or evolving cluster.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A description of the extent to which the project has or could have a long-term collaborative research and development relationship with one or more universities or community colleges in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A description of the existing or projected impact of the project on established clusters or targeted industry sectors.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A description of the project’s contribution to the diversity and resiliency of the innovation economy of this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A description of the project’s impact on special needs communities, including, but not limited to, rural areas, distressed urban areas, and enterprise zones.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Additional evaluative criteria for alternative and renewable energy proposals, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The availability of matching funds or other in-kind contributions applied to the total project from an applicant. The Department of Agriculture and Consumer Services shall give greater preference to projects that provide such matching funds or other in-kind contributions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The degree to which the project stimulates in-state capital investment and economic development in metropolitan and rural areas, including the creation of jobs and the future development of a commercial market for renewable energy technologies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The extent to which the proposed project has been demonstrated to be technically feasible based on pilot project demonstrations, laboratory testing, scientific modeling, or engineering or chemical theory that supports the proposal.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The degree to which the project incorporates an innovative new technology or an innovative application of an existing technology.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The degree to which a project generates thermal, mechanical, or electrical energy by means of a renewable energy resource that has substantial long-term production potential.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The degree to which a project demonstrates efficient use of energy and material resources.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The degree to which the project fosters overall understanding and appreciation of renewable energy technologies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The ability to administer a complete project.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Project duration and timeline for expenditures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The geographic area in which the project is to be conducted in relation to other projects.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The degree of public visibility and interaction.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department may negotiate the proposed amount of an award for any applicant meeting the requirements of this section. In negotiating such award, the department shall consider the amount of the incentive needed to cause the applicant to locate or expand in this state in conjunction with other relevant applicant impact and cost information and analysis as described in this section. Particular emphasis shall be given to the potential for the project to stimulate additional private investment and high-quality employment opportunities in the area.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of the evaluation and recommendation from the department, the Governor shall approve or deny an award. In recommending approval of an award, the department shall include proposed performance conditions that the applicant must meet in order to obtain incentive funds and any other conditions that must be met before the receipt of any incentive funds. The Governor shall consult with the President of the Senate and the Speaker of the House of Representatives before giving approval for an award. Upon review and approval of an award by the Legislative Budget Commission, the Executive Office of the Governor shall release the funds.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">After the conditions set forth in subsection (7) have been met, the department shall issue a letter certifying the applicant as qualified for an award. The department and the award recipient shall enter into an agreement that sets forth the conditions for payment of the incentive funds. The agreement must include, at a minimum:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The total amount of funds awarded.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The performance conditions that must be met in order to obtain the award or portions of the award, including, but not limited to, net new employment in the state, average wage, and total cumulative investment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Demonstration of a baseline of current service and a measure of enhanced capability.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The methodology for validating performance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The schedule of payments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Sanctions for failure to meet performance conditions, including any clawback provisions.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Additionally, agreements signed on or after July 1, 2009, must include the following provisions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (4), a requirement that the jobs created by the recipient of the incentive funds pay an annual average wage at least equal to the relevant industry’s annual average wage or at least 130 percent of the average private sector wage, whichever is greater.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A reinvestment requirement. Each recipient of an award shall reinvest up to 15 percent of net royalty revenues, including revenues from spin-off companies and the revenues from the sale of stock it receives from the licensing or transfer of inventions, methods, processes, and other patentable discoveries conceived or reduced to practice using its facilities in Florida or its Florida-based employees, in whole or in part, and to which the recipient of the grant becomes entitled during the 20 years following the effective date of its agreement with the department. Each recipient of an award also shall reinvest up to 15 percent of the gross revenues it receives from naming opportunities associated with any facility it builds in this state. Reinvestment payments shall commence no later than 6 months after the recipient of the grant has received the final disbursement under the contract and shall continue until the maximum reinvestment, as specified in the contract, has been paid. Reinvestment payments shall be remitted to the department for deposit in the Biomedical Research Trust Fund for companies specializing in biomedicine or life sciences, or in the Economic Development Trust Fund for companies specializing in fields other than biomedicine or the life sciences. If these trust funds no longer exist at the time of the reinvestment, the state’s share of reinvestment shall be deposited in their successor trust funds as determined by law. Each recipient of an award shall annually submit a schedule of the shares of stock held by it as payment of the royalty required by this paragraph and report on any trades or activity concerning such stock. Each recipient’s reinvestment obligations survive the expiration or termination of its agreement with the state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Requirements for the establishment of internship programs or other learning opportunities for educators and secondary, postsecondary, graduate, and doctoral students.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A requirement that the recipient submit quarterly reports and annual reports related to activities and performance to the department, according to standardized reporting periods.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A requirement for an annual accounting to the department of the expenditure of funds disbursed under this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A process for amending the agreement.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department shall validate the performance of an innovation business, a research and development facility, or an alternative and renewable energy business that has received an award. At the conclusion of the innovation incentive award agreement, or its earlier termination, the department shall, within 90 days, submit a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives detailing whether the recipient of the innovation incentive grant achieved its specified outcomes.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Each recipient of an award shall comply with business ethics standards developed by Enterprise Florida, Inc., which are based on appropriate best industry practices. The standards shall address ethical duties of business enterprises, fiduciary responsibilities of management, and compliance with the laws of this state.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives, as part of the annual report, a report summarizing the activities and accomplishments of the recipients of grants from the Innovation Incentive Program during the previous 12 months and an evaluation of whether the recipients are catalysts for additional direct and indirect economic development in Florida.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning March 1, 2010, and every third year thereafter, the Office of Program Policy Analysis and Government Accountability, in consultation with the Auditor General’s Office, shall release a report evaluating the Innovation Incentive Program’s progress toward creating clusters of high-wage, high-skilled, complementary industries that serve as catalysts for economic growth specifically in the regions in which they are located, and generally for the state as a whole. Such report should include critical analyses of quarterly and annual reports, annual audits, and other documents prepared by the Innovation Incentive Program awardees; relevant economic development reports prepared by the department, Enterprise Florida, Inc., and local or regional economic development organizations; interviews with the parties involved; and any other relevant data. Such report should also include legislative recommendations, if necessary, on how to improve the Innovation Incentive Program so that the program reaches its anticipated potential as a catalyst for direct and indirect economic development in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The department may seek the assistance of the Office of Program Policy Analysis and Government Accountability, the Legislature’s Office of Economic and Demographic Research, and other entities for the purpose of developing performance measures or techniques to quantify the synergistic economic development impacts that awardees of grants are having within their communities.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2006-55; s. 27, ch. 2008-227; s. 25, ch. 2009-21; s. 1, ch. 2009-51; s. 5, ch. 2010-136; s. 23, ch. 2010-147; s. 155, ch. 2011-142; s. 31, ch. 2012-5; s. 59, ch. 2012-30; s. 39, ch. 2012-96.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 497, ch. 2011-142, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) For purposes of this section, the term ‘Disproportionally Affected County’ means Bay County, Escambia County, Franklin County, Gulf County, Okaloosa County, Santa Rosa County, Walton County, or Wakulla County.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 up to the cumulative amount of $5 million of all state incentives received per project. Prior to granting such waiver, the executive director of the department shall file with the Governor a written statement of the conditions and circumstances constituting the reason for the waiver.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts in excess of $5 million but less than $10 million of all state incentives received per project. Prior to granting such waiver, the department shall file with the Governor, the President of the Senate, and the Speaker of the House of Representatives a written statement of the conditions and circumstances constituting the reason for the waiver, and requesting written concurrence within 5 business days to the Governor from the President of the Senate and the Speaker of the House of Representatives. Without such concurrence, the waiver shall not occur.</Text>
+		<Text xml:space="preserve" Style="Indent">“(4) The Department of Economic Opportunity is not authorized under this paragraph to waive job and wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts $10 million or more in state incentives received per project.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 1, ch. 2012-128.</Text>
+	</Note>
+</Section>

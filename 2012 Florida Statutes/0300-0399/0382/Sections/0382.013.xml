@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0382.013" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Birth registration.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A certificate for each live birth that occurs in this state shall be filed within 5 days after such birth with the local registrar of the district in which the birth occurred and shall be registered by the local registrar if the certificate has been completed and filed in accordance with this chapter and adopted rules. The information regarding registered births shall be used for comparison with information in the state case registry, as defined in chapter 61.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">FILING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a birth occurs in a hospital, birth center, or other health care facility, or en route thereto, the person in charge of the facility shall be responsible for preparing the certificate, certifying the facts of the birth, and filing the certificate with the local registrar. Within 48 hours after the birth, the physician, midwife, or person in attendance during or immediately after the delivery shall provide the facility with the medical information required by the birth certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a birth occurs outside a facility and a physician licensed in this state, a certified nurse midwife, a midwife licensed in this state, or a public health nurse employed by the department was in attendance during or immediately after the delivery, that person shall prepare and file the certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a birth occurs outside a facility and the delivery is not attended by one of the persons described in paragraph (b), the person in attendance, the mother, or the father shall report the birth to the registrar and provide proof of the facts of birth. The department may require such documents to be presented and such proof to be filed as it deems necessary and sufficient to establish the truth of the facts to be recorded by the certificate and may withhold registering the birth until its requirements are met.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a birth occurs in a moving conveyance and the child is first removed from the conveyance in this state, the birth shall be filed and registered in this state and the place to which the child is first removed shall be considered the place of birth.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The mother or the father of the child shall attest to the accuracy of the personal data entered on the certificate in time to permit the timely registration of the certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If a certificate of live birth is incomplete, the local registrar shall immediately notify the health care facility or person filing the certificate and shall require the completion of the missing items of information if they can be obtained prior to issuing certified copies of the birth certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Regardless of any plan to place a child for adoption after birth, the information on the birth certificate as required by this section must be as to the child’s birth parents unless and until an application for a new birth record is made under s. 63.152.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The State Registrar may receive electronically a birth certificate for each live birth which is required to be filed with the registrar under this chapter through facsimile or other electronic transfer for the purpose of filing the birth certificate. The receipt of a birth certificate by electronic transfer constitutes delivery to the State Registrar as required by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PATERNITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the mother is married at the time of birth, the name of the husband shall be entered on the birth certificate as the father of the child, unless paternity has been determined otherwise by a court of competent jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a), if the husband of the mother dies while the mother is pregnant but before the birth of the child, the name of the deceased husband shall be entered on the birth certificate as the father of the child, unless paternity has been determined otherwise by a court of competent jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the mother is not married at the time of the birth, the name of the father may not be entered on the birth certificate without the execution of an affidavit signed by both the mother and the person to be named as the father. The facility shall give notice orally or through the use of video or audio equipment, and in writing, of the alternatives to, the legal consequences of, and the rights, including, if one parent is a minor, any rights afforded due to minority status, and responsibilities that arise from signing an acknowledgment of paternity, as well as information provided by the Title IV-D agency established pursuant to s. 409.2557, regarding the benefits of voluntary establishment of paternity. Upon request of the mother and the person to be named as the father, the facility shall assist in the execution of the affidavit, a notarized voluntary acknowledgment of paternity, or a voluntary acknowledgment of paternity that is witnessed by two individuals and signed under penalty of perjury as specified by s. 92.525(2).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the paternity of the child is determined by a court of competent jurisdiction as provided under s. 382.015 or there is a final judgment of dissolution of marriage which requires the former husband to pay child support for the child, the name of the father and the surname of the child shall be entered on the certificate in accordance with the finding and order of the court. If the court fails to specify a surname for the child, the surname shall be entered in accordance with subsection (3).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the paternity of the child is determined pursuant to s. 409.256, the name of the father and the surname of the child shall be entered on the certificate in accordance with the finding and order of the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If the mother and father marry each other at any time after the child’s birth, upon receipt of a marriage license that identifies any such child, the department shall amend the certificate with regard to the parents’ marital status as though the parents were married at the time of birth.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">If the father is not named on the certificate, no other information about the father shall be entered on the certificate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">NAME OF CHILD.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the mother is married at the time of birth, the mother and father whose names are entered on the birth certificate shall select the given names and surname of the child if both parents have custody of the child, otherwise the parent who has custody shall select the child’s name.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the mother and father whose names are entered on the birth certificate disagree on the surname of the child and both parents have custody of the child, the surname selected by the father and the surname selected by the mother shall both be entered on the birth certificate, separated by a hyphen, with the selected names entered in alphabetical order. If the parents disagree on the selection of a given name, the given name may not be entered on the certificate until a joint agreement that lists the agreed upon given name and is notarized by both parents is submitted to the department, or until a given name is selected by a court.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the mother is not married at the time of birth, the parent who will have custody of the child shall select the child’s given name and surname.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If multiple names of the child exceed the space provided on the face of the birth certificate they shall be listed on the back of the certificate. Names listed on the back of the certificate shall be part of the official record.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">UNDETERMINED PARENTAGE.<EmDash />The person having custody of a child of undetermined parentage shall register a birth certificate showing all known or approximate facts relating to the birth. To assist in later determination, information concerning the place and circumstances under which the child was found shall be included on the portion of the birth certificate relating to marital status and medical details. In the event the child is later identified, a new birth certificate shall be prepared which shall bear the same number as the original birth certificate, and the original certificate shall be sealed and filed, shall be confidential and exempt from the provisions of s. 119.07(1), and shall not be opened to inspection by, nor shall certified copies of the same be issued except by court order to, any person other than the registrant if of legal age.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">DISCLOSURE.<EmDash />The original certificate of live birth shall contain all the information required by the department for legal, social, and health research purposes. However, all information concerning parentage, marital status, and medical details shall be confidential and exempt from the provisions of s. 119.07(1), except for health research purposes as approved by the department, nor shall copies of the same be issued except as provided in s. 382.025.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 6892, 1915; RGS 2083; CGL 3283; s. 1, ch. 77-319; s. 150, ch. 79-400; s. 11, ch. 87-387; s. 3, ch. 94-318; s. 1036, ch. 95-148; s. 43, ch. 97-170; s. 96, ch. 97-237; ss. 19, 46, ch. 98-397; s. 17, ch. 99-397; s. 10, ch. 2001-53; s. 8, ch. 2004-334; s. 15, ch. 2005-39; s. 5, ch. 2006-118; s. 3, ch. 2010-187.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 382.16.</Text>
+	</Note>
+</Section>

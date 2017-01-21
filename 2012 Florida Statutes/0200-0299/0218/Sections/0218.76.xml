@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.76" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Improper payment request or invoice; resolution of disputes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If an improper payment request or invoice is submitted by a vendor, the local governmental entity shall, within 10 days after the improper payment request or invoice is received, notify the vendor, in writing, that the payment request or invoice is improper and indicate what corrective action on the part of the vendor is needed to make the payment request or invoice proper.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a dispute arises between a vendor and a local governmental entity concerning payment of a payment request or invoice, the dispute shall be finally determined by the local governmental entity pursuant to a dispute resolution procedure established by the local governmental entity. Such procedure must provide that proceedings to resolve the dispute are commenced within 45 days after the date the payment request or proper invoice was received by the local governmental entity and concluded by final decision of the local governmental entity within 60 days after the date the payment request or proper invoice was received by the local governmental entity. Such procedures are not subject to chapter 120 and do not constitute an administrative proceeding that prohibits a court from deciding de novo any action arising out of the dispute. If the dispute is resolved in favor of the local governmental entity, interest charges begin to accrue 15 days after the local governmental entity’s final decision. If the dispute is resolved in favor of the vendor, interest begins to accrue as of the original date the payment became due.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the local governmental entity does not commence the dispute resolution procedure within the time required, a contractor may give written notice to the local governmental entity of the failure to timely commence its dispute resolution procedure. If the local governmental entity fails to commence the dispute resolution procedure within 4 business days after such notice, any amounts resolved in the contractor’s favor shall bear mandatory interest, as set forth in s. 218.735(9), from the date the payment request or invoice containing the disputed amounts was submitted to the local governmental entity. If the dispute resolution procedure is not commenced within 4 business days after the notice, the objection to the payment request or invoice shall be deemed waived. The waiver of an objection pursuant to this paragraph does not relieve a contractor of its contractual obligations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In an action to recover amounts due under this part, the court shall award court costs and reasonable attorney’s fees, including fees incurred through appeal, to the prevailing party.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 89-297; s. 6, ch. 2001-169; s. 34, ch. 2002-1; s. 3, ch. 2010-111.</History>
+</Section>

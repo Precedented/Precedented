@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.135" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Driver’s license agents.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall, upon application, authorize by interagency agreement any or all of the tax collectors who are constitutional officers under s. 1(d), Art. VIII of the State Constitution in the several counties of the state, subject to the requirements of law, in accordance with rules of the department, to serve as its agent for the provision of specified driver’s license services.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">These services shall be limited to the issuance of driver’s licenses and identification cards as authorized by this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each tax collector who is authorized by the department to provide driver’s license services shall bear all costs associated with providing those services.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A service fee of $6.25 shall be charged, in addition to the fees set forth in this chapter, for providing all services pursuant to this chapter. The service fee may not be charged:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">More than once per customer during a single visit to a tax collector’s office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For a reexamination requested by the Medical Advisory Board or required pursuant to s. 322.221.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For a voter registration transaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">In violation of any federal or state law.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each tax collector is required to give a good and sufficient surety bond, payable to the department, conditioned upon his or her faithfully and truly performing the duties imposed upon him or her according to the requirements of law and the rules of the department and upon his or her accounting for all materials, records, and other property and money that come into his or her possession or control by reason of performing these duties.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The amount of the bond must be determined by the department as an amount not less than 10 percent above the average of the daily deposits of each tax collector.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a tax collector is also an agent of the department for purposes of s. 320.03, the amount of the bond must be at least 10 percent above the average of the total daily deposits of all funds received by the tax collector on behalf of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of s. 320.03, only one bond is required in order for a tax collector to serve as an agent of the department under chapters 320 and 322.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each tax collector shall keep a full and complete record of all materials, records, and other properties received by him or her from the department, or from any other source, and shall make prompt remittance of moneys collected by him or her at such times and in such manner as prescribed by law, in accordance with departmental rules.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A tax collector may not issue or renew a driver’s license if he or she has any reason to believe that the licensee or prospective licensee is physically or mentally unqualified to operate a motor vehicle. The tax collector may direct any such licensee to the department for examination or reexamination under s. 322.221.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All driver’s license issuance services shall be assumed by the tax collectors who are constitutional officers under s. 1(d), Art. VIII of the State Constitution by June 30, 2015. The implementation shall follow the schedule outlined in the transition report of February 1, 2011, which was required pursuant to chapter 2010-163, Laws of Florida.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding chapter 116, each county officer within this state who is authorized to collect funds provided for in this chapter shall pay all sums officially received by the officer into the State Treasury no later than 5 working days after the close of the business day in which the officer received the funds. Payment by county officers to the state shall be made by means of electronic funds transfers.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The department may create exceptions by rule for tax collectors who cannot provide full driver’s license services due to the small population in the tax collector’s county.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 48, ch. 96-413; s. 2, ch. 2001-156; s. 34, ch. 2005-2; s. 75, ch. 2005-164; s. 33, ch. 2009-71; s. 4, ch. 2010-163; s. 23, ch. 2011-66.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0672.323" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Form of bill of lading required in overseas shipment; “overseas.”</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Where the contract contemplates overseas shipment and contains a term “C.I.F.” or “C. &amp; F. or F.O.B. vessel,” the seller unless otherwise agreed shall obtain a negotiable bill of lading stating that the goods have been loaded in board or, in the case of a term “C.I.F.” or “C. &amp; F.,” received for shipment.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Where in a case within subsection (1) a tangible bill of lading has been issued in a set of parts, unless otherwise agreed if the documents are not to be sent from abroad the buyer may demand tender of the full set; otherwise only one part of the bill of lading need be tendered. Even if the agreement expressly requires a full set:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Due tender of a single part is acceptable within the provisions of this chapter on cure of improper delivery (s. 672.508(1)); and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Even though the full set is demanded, if the documents are sent from abroad the person tendering an incomplete set may nevertheless require payment upon furnishing an indemnity which the buyer in good faith deems adequate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A shipment by water or by air or a contract contemplating such shipment is “overseas” insofar as by usage of trade or agreement it is subject to the commercial, financing or shipping practices characteristic of international deepwater commerce.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 8, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 2-323, U.C.C.</Text>
+	</Note>
+</Section>

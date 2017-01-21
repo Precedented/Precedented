@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.243" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions relating to homestead property tax deferral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Household” means a person or group of persons living together in a room or group of rooms as a housing unit, but the term does not include persons boarding in or renting a portion of the dwelling.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Income” means the “adjusted gross income,” as defined in s. 62 of the United States Internal Revenue Code, of all members of a household.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 77-301; s. 1, ch. 78-161; s. 19, ch. 79-334; s. 144, ch. 85-342; s. 4, ch. 98-139; s. 14, ch. 2011-151.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 197.0164.</Text>
+	</Note>
+</Section>

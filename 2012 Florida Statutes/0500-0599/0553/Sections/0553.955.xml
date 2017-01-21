@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0553.955" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For purposes of this part:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“AV” means the adjusted volume for refrigerators, refrigerator-freezers, and freezers, as defined in the applicable test procedure.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Ballast” or “fluorescent lamp ballast” means a device to operate a fluorescent lamp by providing a starting voltage and current and limiting the current during normal operation. It must also be designed to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Operate at nominal input voltages of 120 or 227 volts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Operate with an input frequency of 60 hertz.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Ballast efficiency factor” means the ratio of relative light output, expressed as a percent, to the power input, expressed in watts under test conditions.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Code” means the Florida Energy Efficiency Code for Building Construction.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Date of sale” means the day when the product is physically delivered to the buyer.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Business and Professional Regulation.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Distributor” means any person or business entity which distributes a privately labeled product on a national basis for which the specifications for manufacture, testing, and certification are established and attested to by the distributor, rather than the manufacturer.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Energy conservation standard” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A performance standard which prescribes a minimum level of energy efficiency or a maximum quantity of energy use for a covered product, determined in accordance with applicable test procedures;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A design requirement for the products specified in s. 553.957; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A testing and rating requirement for the products specified in s. 553.957; and</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">includes any other requirements which the department may prescribe.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“F40T12 lamp” means a tubular fluorescent lamp which is a nominal 40 watts, with a 48-inch tube, 1.5 inches in diameter. These lamps conform to American National Standards Institute standard C.78.1-1978.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“F96T12 lamp” means a tubular fluorescent lamp which is a nominal 75 watts, with a 96-inch tube, 1.5 inches in diameter. These lamps conform to American National Standards Institute standard C.78.3-1978.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Luminaire” means a complete lighting unit consisting of a fluorescent lamp or lamps, together with parts designed to distribute the light, to position and protect such lamps, and to connect such lamps to the power supply.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Manufacturer” means any person or business entity engaged in the original production or assembly of a product.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“New product” means a product that is sold, offered for sale, or installed for the first time and specifically includes floor models and demonstration units.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Nominal input voltage” means an input voltage within plus 5 percent or minus 5 percent of a specified value.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Nominal lamp watts” means the wattage at which a fluorescent lamp is designed to operate.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Occupancy” means an occupied building or part of a building.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Operation” means the ability to start the lamp at least 8 times out of 10 with a minimum of 1 minute between attempts when tested under test conditions.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Power input” means the rate of energy consumption in watts of a ballast and fluorescent lamp or lamps.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Relative light output” means the test ballast light output divided by a reference ballast light output using the same reference lamp and expressing the value as a percent.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">With respect to refrigerators, freezers, and refrigerator-freezers:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Automatic defrost system” means a defrost system in which the defrosting action for all refrigerated surfaces is initiated and terminated automatically.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Freezer” means a cabinet designed as a unit for the storage of food at temperatures of about 0 °F, having the ability to freeze food, and having a source of refrigeration requiring an energy input.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Refrigerator” means a cabinet designed for the refrigerated storage of food at temperatures above 32 °F, and having a source of refrigeration requiring an energy input. It may include a compartment for the freezing and storage of food at temperatures below 32 °F, but does not provide a separate low temperature compartment designed for the freezing of and the long-term storage of food at temperatures below 8 °F. It has only one exterior door, but it may have interior doors on compartments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Refrigerator-freezer” means a cabinet which consists of two or more compartments with at least one of the compartments designed for the refrigerated storage of foods at temperatures above 32 °F, and with at least one of the compartments designed for the freezing of and the storage of frozen foods at temperatures of 8 °F or below. The source of refrigeration requires energy input.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">Definitions used in the code shall also apply to terms used in this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 87-271; s. 11, ch. 93-249; s. 421, ch. 2011-142.</History>
+</Section>

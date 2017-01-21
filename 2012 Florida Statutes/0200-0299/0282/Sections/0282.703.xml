@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0282.703">
+	<Catchline xml:space="preserve">SUNCOM Network; exemptions from the required use.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The SUNCOM Network is established within the department as the state enterprise telecommunications system for providing local and long-distance communications services to state agencies, political subdivisions of the state, municipalities, and nonprofit corporations pursuant to this part. The SUNCOM Network shall be developed to transmit all types of telecommunications signals, including, but not limited to, voice, data, video, image, and radio. State agencies shall cooperate and assist in the development and joint use of telecommunications systems and services.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall design, engineer, implement, manage, and operate through state ownership, commercial leasing, contracted services, or some combination thereof, the facilities, equipment, and contracts providing SUNCOM Network services, and shall develop a system of equitable billings and charges for telecommunications services.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall own, manage, and establish standards for the telecommunications addressing and numbering plans for the SUNCOM Network. This includes distributing or revoking numbers and addresses to authorized users of the network and delegating or revoking the delegation of management of subsidiary groups of numbers and addresses to authorized users of the network.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall maintain a directory of information and services which provides the names, phone numbers, and e-mail addresses for employees, agencies, and network devices that are served, in whole or in part, by the SUNCOM Network. State agencies and political subdivisions of the state shall cooperate with the department by providing timely and accurate directory information in the manner established by the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All state agencies shall use the SUNCOM Network for agency telecommunications services as the services become available; however, an agency is not relieved of responsibility for maintaining telecommunications services necessary for effective management of its programs and functions. The department may provide such communications services to a state university if requested by the university.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a SUNCOM Network service does not meet the telecommunications requirements of an agency, the agency must notify the department in writing and detail the requirements for that service. If the department is unable to meet an agency’s requirements by enhancing SUNCOM Network service, the department may grant the agency an exemption from the required use of specified SUNCOM Network services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Unless an exemption has been granted by the department, effective October 1, 2010, all customers of a state primary data center, excluding state universities, must use the shared SUNCOM Network telecommunications services connecting the state primary data center to SUNCOM services for all telecommunications needs in accordance with department rules.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon discovery of customer noncompliance with this paragraph, the department shall provide the affected customer with a schedule for transferring to the shared telecommunications services provided by the SUNCOM Network and an estimate of all associated costs. The state primary data centers and their customers shall cooperate with the department to accomplish the transfer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Customers may request an exemption from this paragraph in the same manner as authorized in paragraph (a).</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">This section may not be construed to require a state university to use SUNCOM Network communication services.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 22, ch. 69-106; s. 13, ch. 87-137; s. 3, ch. 91-171; s. 222, ch. 92-279; s. 55, ch. 92-326; s. 10, ch. 96-390; s. 66, ch. 98-279; s. 6, ch. 2000-164; s. 12, ch. 2001-261; s. 935, ch. 2002-387; s. 19, ch. 2007-105; s. 18, ch. 2009-80; s. 6, ch. 2010-78; s. 11, ch. 2010-148.</History>
+	<Note>
+		<Text xml:space="preserve">Former s. 287.27; s. 282.103.</Text>
+	</Note>
+</Section>

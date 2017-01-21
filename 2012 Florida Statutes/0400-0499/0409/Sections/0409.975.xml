@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.975" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Managed care plan accountability.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In addition to the requirements of s. 409.967, plans and providers participating in the managed medical assistance program shall comply with the requirements of this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PROVIDER NETWORKS.<EmDash />Managed care plans must develop and maintain provider networks that meet the medical needs of their enrollees in accordance with standards established pursuant to s. 409.967(2)(c). Except as provided in this section, managed care plans may limit the providers in their networks based on credentials, quality indicators, and price.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Plans must include all providers in the region that are classified by the agency as essential Medicaid providers, unless the agency approves, in writing, an alternative arrangement for securing the types of services offered by the essential providers. Providers are essential for serving Medicaid enrollees if they offer services that are not available from any other provider within a reasonable access standard, or if they provided a substantial share of the total units of a particular service used by Medicaid patients within the region during the last 3 years and the combined capacity of other service providers in the region is insufficient to meet the total needs of the Medicaid patients. The agency may not classify physicians and other practitioners as essential providers. The agency, at a minimum, shall determine which providers in the following categories are essential Medicaid providers:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Federally qualified health centers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Statutory teaching hospitals as defined in s. 408.07(45).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Hospitals that are trauma centers as defined in s. 395.4001(14).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Hospitals located at least 25 miles from any other hospital with similar services.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Managed care plans that have not contracted with all essential providers in the region as of the first date of recipient enrollment, or with whom an essential provider has terminated its contract, must negotiate in good faith with such essential providers for 1 year or until an agreement is reached, whichever is first. Payments for services rendered by a nonparticipating essential provider shall be made at the applicable Medicaid rate as of the first day of the contract between the agency and the plan. A rate schedule for all essential providers shall be attached to the contract between the agency and the plan. After 1 year, managed care plans that are unable to contract with essential providers shall notify the agency and propose an alternative arrangement for securing the essential services for Medicaid enrollees. The arrangement must rely on contracts with other participating providers, regardless of whether those providers are located within the same region as the nonparticipating essential service provider. If the alternative arrangement is approved by the agency, payments to nonparticipating essential providers after the date of the agency’s approval shall equal 90 percent of the applicable Medicaid rate. If the alternative arrangement is not approved by the agency, payment to nonparticipating essential providers shall equal 110 percent of the applicable Medicaid rate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Certain providers are statewide resources and essential providers for all managed care plans in all regions. All managed care plans must include these essential providers in their networks. Statewide essential providers include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Faculty plans of Florida medical schools.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Regional perinatal intensive care centers as defined in s. 383.16(2).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Hospitals licensed as specialty children’s hospitals as defined in s. 395.002(28).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Accredited and integrated systems serving medically complex children that are comprised of separately licensed, but commonly owned, health care providers delivering at least the following services: medical group home, in-home and outpatient nursing care and therapies, pharmacy services, durable medical equipment, and Prescribed Pediatric Extended Care.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Managed care plans that have not contracted with all statewide essential providers in all regions as of the first date of recipient enrollment must continue to negotiate in good faith. Payments to physicians on the faculty of nonparticipating Florida medical schools shall be made at the applicable Medicaid rate. Payments for services rendered by regional perinatal intensive care centers shall be made at the applicable Medicaid rate as of the first day of the contract between the agency and the plan. Payments to nonparticipating specialty children’s hospitals shall equal the highest rate established by contract between that provider and any other Medicaid managed care plan.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">After 12 months of active participation in a plan’s network, the plan may exclude any essential provider from the network for failure to meet quality or performance criteria. If the plan excludes an essential provider from the plan, the plan must provide written notice to all recipients who have chosen that provider for care. The notice shall be provided at least 30 days before the effective date of the exclusion.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each managed care plan must offer a network contract to each home medical equipment and supplies provider in the region which meets quality and fraud prevention and detection standards established by the plan and which agrees to accept the lowest price previously negotiated between the plan and another such provider.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">FLORIDA MEDICAL SCHOOLS QUALITY NETWORK.<EmDash />The agency shall contract with a single organization representing medical schools and graduate medical education programs in the state for the purpose of establishing an active and ongoing program to improve clinical outcomes in all managed care plans. Contracted activities must support greater clinical integration for Medicaid enrollees through interdependent and cooperative efforts of all providers participating in managed care plans. The agency shall support these activities with certified public expenditures and any earned federal matching funds and shall seek any plan amendments or waivers necessary to comply with this subsection. To be eligible to participate in the quality network, a medical school must contract with each managed care plan in its region.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PERFORMANCE MEASUREMENT.<EmDash />Each managed care plan shall monitor the quality and performance of each participating provider. At the beginning of the contract period, each plan shall notify all its network providers of the metrics used by the plan for evaluating the provider’s performance and determining continued participation in the network.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">MOMCARE NETWORK.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency shall contract with an administrative services organization representing all Healthy Start Coalitions providing risk appropriate care coordination and other services in accordance with a federal waiver and pursuant to s. 409.906. The contract shall require the network of coalitions to provide counseling, education, risk-reduction and case management services, and quality assurance for all enrollees of the waiver. The agency shall evaluate the impact of the MomCare network by monitoring each plan’s performance on specific measures to determine the adequacy, timeliness, and quality of services for pregnant women and infants. The agency shall support this contract with certified public expenditures of general revenue appropriated for Healthy Start services and any earned federal matching funds.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each managed care plan shall establish specific programs and procedures to improve pregnancy outcomes and infant health, including, but not limited to, coordination with the Healthy Start program, immunization programs, and referral to the Special Supplemental Nutrition Program for Women, Infants, and Children, and the Children’s Medical Services program for children with special health care needs. Each plan’s programs and procedures shall include agreements with each local Healthy Start Coalition in the region to provide risk-appropriate care coordination for pregnant women and infants, consistent with agency policies and the MomCare network. Each managed care plan must notify the agency of the impending birth of a child to an enrollee, or notify the agency as soon as practicable after the child’s birth.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SCREENING RATE.<EmDash />After the end of the second contract year, each managed care plan shall achieve an annual Early and Periodic Screening, Diagnosis, and Treatment Service screening rate of at least 80 percent of those recipients continuously enrolled for at least 8 months.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">PROVIDER PAYMENT.<EmDash />Managed care plans and hospitals shall negotiate mutually acceptable rates, methods, and terms of payment. For rates, methods, and terms of payment negotiated after the contract between the agency and the plan is executed, plans shall pay hospitals, at a minimum, the rate the agency would have paid on the first day of the contract between the provider and the plan. Such payments to hospitals may not exceed 120 percent of the rate the agency would have paid on the first day of the contract between the provider and the plan, unless specifically approved by the agency. Payment rates may be updated periodically.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">MEDICALLY NEEDY ENROLLEES.<EmDash />Each managed care plan must accept any medically needy recipient who selects or is assigned to the plan and provide that recipient with continuous enrollment for 12 months. After the first month of qualifying as a medically needy recipient and enrolling in a plan, and contingent upon federal approval, the enrollee shall pay the plan a portion of the monthly premium equal to the enrollee’s share of the cost as determined by the department. The agency shall pay any remaining portion of the monthly premium. Plans are not obligated to pay claims for medically needy patients for services provided before enrollment in the plan. Medically needy patients are responsible for payment of incurred claims that are used to determine eligibility. Plans must provide a grace period of at least 90 days before disenrolling recipients who fail to pay their shares of the premium.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 2011-134; s. 54, ch. 2012-5.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 29, ch. 2011-135, provides that “[t]he Agency for Health Care Administration shall develop a plan for implementing a plan for medically needy Medicaid enrollees pursuant to s. 409.975(8), Florida Statutes, as created in HB 7107 or similar legislation that is adopted in the same legislative session or an extension thereof and becomes law, and shall immediately seek federal approval to implement that subsection. The plan shall include a preliminary calculation of actuarially sound rates and estimated fiscal impact.” Section 409.975(8), which appeared in early versions of HB 7107, appears as s. 409.975(7) in the enrolled version of the bill; the cross-reference was not updated to conform.</Text>
+	</Note>
+</Section>

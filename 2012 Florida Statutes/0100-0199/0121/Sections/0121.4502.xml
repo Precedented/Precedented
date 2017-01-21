@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0121.4502" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Florida Retirement System Investment Plan Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Retirement System Investment Plan Trust Fund is created to hold the assets of the Florida Retirement System Investment Plan in trust for the exclusive benefit of the plan’s members and beneficiaries, and for the payment of reasonable administrative expenses of the plan, in accordance with s. 401 of the Internal Revenue Code, and shall be administered by the state board as trustee. Funds shall be credited to the trust fund as provided in this part, to be used for the purposes of this part. The trust fund is exempt from the service charges imposed by s. 215.20.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Florida Retirement System Investment Plan Trust Fund is a retirement trust fund of the Florida Retirement System that accounts for retirement plan assets held by the state in a trustee capacity as a fiduciary for individual participants in the Florida Retirement System Investment Plan and, pursuant to s. 19(f), Art. III of the State Constitution, is not subject to termination.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A forfeiture account shall be created within the Florida Retirement System Investment Plan Trust Fund to hold the assets derived from the forfeiture of benefits by participants. Pursuant to a private letter ruling from the Internal Revenue Service, the forfeiture account may be used only for paying expenses of the Florida Retirement System Investment Plan and reducing future employer contributions to the program. Consistent with Rulings 80-155 and 74-340 of the Internal Revenue Service, unallocated reserves within the forfeiture account must be used as quickly and as prudently as possible considering the state board’s fiduciary duty. Expected withdrawals from the account must endeavor to reduce the account to zero each fiscal year.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2001-255; s. 2, ch. 2010-180; s. 27, ch. 2011-68.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

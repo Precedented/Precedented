@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0100.371" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Initiatives; procedure for placement on ballot.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Constitutional amendments proposed by initiative shall be placed on the ballot for the general election, provided the initiative petition has been filed with the Secretary of State no later than February 1 of the year the general election is held. A petition shall be deemed to be filed with the Secretary of State upon the date the secretary determines that valid and verified petition forms have been signed by the constitutionally required number and distribution of electors under this code.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The sponsor of an initiative amendment shall, prior to obtaining any signatures, register as a political committee pursuant to s. 106.03 and submit the text of the proposed amendment to the Secretary of State, with the form on which the signatures will be affixed, and shall obtain the approval of the Secretary of State of such form. The Secretary of State shall adopt rules pursuant to s. 120.54 prescribing the style and requirements of such form. Upon filing with the Secretary of State, the text of the proposed amendment and all forms filed in connection with this section must, upon request, be made available in alternative formats.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An initiative petition form circulated for signature may not be bundled with or attached to any other petition. Each signature shall be dated when made and shall be valid for a period of 2 years following such date, provided all other requirements of law are met. The sponsor shall submit signed and dated forms to the supervisor of elections for the county of residence listed by the person signing the form for verification of the number of valid signatures obtained. If a signature on a petition is from a registered voter in another county, the supervisor shall notify the petition sponsor of the misfiled petition. The supervisor shall promptly verify the signatures within 30 days after receipt of the petition forms and payment of the fee required by s. 99.097. The supervisor shall promptly record, in the manner prescribed by the Secretary of State, the date each form is received by the supervisor, and the date the signature on the form is verified as valid. The supervisor may verify that the signature on a form is valid only if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The form contains the original signature of the purported elector.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The purported elector has accurately recorded on the form the date on which he or she signed the form.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The form sets forth the purported elector’s name, address, city, county, and voter registration number or date of birth.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The purported elector is, at the time he or she signs the form and at the time the form is verified, a duly qualified and registered elector in the state.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The supervisor shall retain the signature forms for at least 1 year following the election in which the issue appeared on the ballot or until the Division of Elections notifies the supervisors of elections that the committee that circulated the petition is no longer seeking to obtain ballot position.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Secretary of State shall determine from the signatures verified by the supervisors of elections the total number of verified valid signatures and the distribution of such signatures by congressional districts. Upon a determination that the requisite number and distribution of valid signatures have been obtained, the secretary shall issue a certificate of ballot position for that proposed amendment and shall assign a designating number pursuant to s. 101.161.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 45 days after receipt of a proposed revision or amendment to the State Constitution by initiative petition from the Secretary of State, the Financial Impact Estimating Conference shall complete an analysis and financial impact statement to be placed on the ballot of the estimated increase or decrease in any revenues or costs to state or local governments resulting from the proposed initiative. The Financial Impact Estimating Conference shall submit the financial impact statement to the Attorney General and Secretary of State.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Financial Impact Estimating Conference shall provide an opportunity for any proponents or opponents of the initiative to submit information and may solicit information or analysis from any other entities or agencies, including the Office of Economic and Demographic Research.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All meetings of the Financial Impact Estimating Conference shall be open to the public. The President of the Senate and the Speaker of the House of Representatives, jointly, shall be the sole judge for the interpretation, implementation, and enforcement of this subsection.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Financial Impact Estimating Conference is established to review, analyze, and estimate the financial impact of amendments to or revisions of the State Constitution proposed by initiative. The Financial Impact Estimating Conference shall consist of four principals: one person from the Executive Office of the Governor; the coordinator of the Office of Economic and Demographic Research, or his or her designee; one person from the professional staff of the Senate; and one person from the professional staff of the House of Representatives. Each principal shall have appropriate fiscal expertise in the subject matter of the initiative. A Financial Impact Estimating Conference may be appointed for each initiative.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Principals of the Financial Impact Estimating Conference shall reach a consensus or majority concurrence on a clear and unambiguous financial impact statement, no more than 75 words in length, and immediately submit the statement to the Attorney General. Nothing in this subsection prohibits the Financial Impact Estimating Conference from setting forth a range of potential impacts in the financial impact statement. Any financial impact statement that a court finds not to be in accordance with this section shall be remanded solely to the Financial Impact Estimating Conference for redrafting. The Financial Impact Estimating Conference shall redraft the financial impact statement within 15 days.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the members of the Financial Impact Estimating Conference are unable to agree on the statement required by this subsection, or if the Supreme Court has rejected the initial submission by the Financial Impact Estimating Conference and no redraft has been approved by the Supreme Court by 5 p.m. on the 75th day before the election, the following statement shall appear on the ballot pursuant to s. 101.161(1): “The financial impact of this measure, if any, cannot be reasonably determined at this time.”</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The financial impact statement must be separately contained and be set forth after the ballot summary as required in s. 101.161(1).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any financial impact statement that the Supreme Court finds not to be in accordance with this subsection shall be remanded solely to the Financial Impact Estimating Conference for redrafting, provided the court’s advisory opinion is rendered at least 75 days before the election at which the question of ratifying the amendment will be presented. The Financial Impact Estimating Conference shall prepare and adopt a revised financial impact statement no later than 5 p.m. on the 15th day after the date of the court’s opinion.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If, by 5 p.m. on the 75th day before the election, the Supreme Court has not issued an advisory opinion on the initial financial impact statement prepared by the Financial Impact Estimating Conference for an initiative amendment that otherwise meets the legal requirements for ballot placement, the financial impact statement shall be deemed approved for placement on the ballot.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In addition to the financial impact statement required by this subsection, the Financial Impact Estimating Conference shall draft an initiative financial information statement. The initiative financial information statement should describe in greater detail than the financial impact statement any projected increase or decrease in revenues or costs that the state or local governments would likely experience if the ballot measure were approved. If appropriate, the initiative financial information statement may include both estimated dollar amounts and a description placing the estimated dollar amounts into context. The initiative financial information statement must include both a summary of not more than 500 words and additional detailed information that includes the assumptions that were made to develop the financial impacts, workpapers, and any other information deemed relevant by the Financial Impact Estimating Conference.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Department of State shall have printed, and shall furnish to each supervisor of elections, a copy of the summary from the initiative financial information statements. The supervisors shall have the summary from the initiative financial information statements available at each polling place and at the main office of the supervisor of elections upon request.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The Secretary of State and the Office of Economic and Demographic Research shall make available on the Internet each initiative financial information statement in its entirety. In addition, each supervisor of elections whose office has a website shall post the summary from each initiative financial information statement on the website. Each supervisor shall include the Internet addresses for the information statements on the Secretary of State’s and the Office of Economic and Demographic Research’s websites in the publication or mailing required by s. 101.20.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Department of State may adopt rules in accordance with s. 120.54 to carry out the provisions of subsections (1)-(5).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">No provision of this code shall be deemed to prohibit a private person exercising lawful control over privately owned property, including property held open to the public for the purposes of a commercial enterprise, from excluding from such property persons seeking to engage in activity supporting or opposing initiative amendments.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 79-365; s. 12, ch. 83-251; s. 30, ch. 84-302; s. 22, ch. 97-13; s. 9, ch. 2002-281; s. 3, ch. 2002-390; s. 3, ch. 2004-33; s. 28, ch. 2005-278; s. 4, ch. 2006-119; s. 25, ch. 2007-30; s. 1, ch. 2007-231; s. 14, ch. 2008-95; s. 23, ch. 2011-40.</History>
+</Section>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1006.061" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Child abuse, abandonment, and neglect policy.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Each district school board, charter school, and private school that accepts scholarship students under s. 1002.39 or s. 1002.395 shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Post in a prominent place in each school a notice that, pursuant to chapter 39, all employees and agents of the district school board, charter school, or private school have an affirmative duty to report all actual or suspected cases of child abuse, abandonment, or neglect; have immunity from liability if they report such cases in good faith; and have a duty to comply with child protective investigations and all other provisions of law relating to child abuse, abandonment, and neglect. The notice shall also include the statewide toll-free telephone number of the central abuse hotline.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Post in a prominent place at each school site and on each school’s Internet website, if available, the policies and procedures for reporting alleged misconduct by instructional personnel or school administrators which affects the health, safety, or welfare of a student; the contact person to whom the report is made; and the penalties imposed on instructional personnel or school administrators who fail to report suspected or actual child abuse or alleged misconduct by other instructional personnel or school administrators.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Require the principal of the charter school or private school, or the district school superintendent, or the superintendent’s designee, at the request of the Department of Children and Family Services, to act as a liaison to the Department of Children and Family Services and the child protection team, as defined in s. 39.01, when in a case of suspected child abuse, abandonment, or neglect or an unlawful sexual offense involving a child the case is referred to such a team; except that this does not relieve or restrict the Department of Children and Family Services from discharging its duty and responsibility under the law to investigate and report every suspected or actual case of child abuse, abandonment, or neglect or unlawful sexual offense involving a child.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">The Department of Education shall develop, and publish on the department’s Internet website, sample notices suitable for posting in accordance with subsections (1) and (2).</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 273, ch. 2002-387; s. 20, ch. 2008-108; s. 17, ch. 2010-24.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0202.125" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sales of communications services; specified exemptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Reference Number="1" />
+			<Text xml:space="preserve" Style="Intro">The separately stated sales price of communications services sold to residential households is exempt from the tax imposed by s. 202.12 and s. 203.01(1)(b)3. This exemption does not apply to any residence that constitutes all or part of a transient public lodging establishment as defined in chapter 509, any mobile communications service, any video service, or any direct-to-home satellite service.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The sale of communications services provided to the Federal Government, any agency or instrumentality of the Federal Government, or any entity that is exempt from state taxes under federal law is exempt from the taxes imposed or administered pursuant to ss. 202.12 and 202.19.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The sale of communications services to the state or any county, municipality, or political subdivision of the state when payment is made directly to the dealer by the governmental entity is exempt from the taxes imposed or administered pursuant to ss. 202.12 and 202.19. This exemption does not inure to any transaction otherwise taxable under this chapter when payment is made by a government employee by any means, including, but not limited to, cash, check, or credit card even when that employee is subsequently reimbursed by the governmental entity.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The sale of communications services to a home for the aged, religious institution or educational institution that is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code, or by a religious institution that is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code having an established physical place for worship at which nonprofit religious services and activities are regularly conducted and carried on, is exempt from the taxes imposed or administered pursuant to ss. 202.12 and 202.19. As used in this subsection, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Religious institution” means an organization owning and operating an established physical place for worship at which nonprofit religious services and activities are regularly conducted. The term also includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit corporation the sole purpose of which is to provide free transportation services to religious institution members, their families, and other religious institution attendees.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit state, district, or other governing or administrative office the function of which is to assist or regulate the customary activities of religious institutions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit corporation that owns and operates a television station in this state of which at least 90 percent of the programming consists of programs of a religious nature and the financial support for which, exclusive of receipts for broadcasting from other nonprofit organizations, is predominantly from contributions from the public.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit corporation the primary activity of which is making and distributing audio recordings of religious scriptures and teachings to blind or visually impaired persons at no charge.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit corporation the sole or primary purpose of which is to provide, upon invitation, nonprofit religious services, evangelistic services, religious education, administrative assistance, or missionary assistance for a religious institution, or established physical place of worship at which nonprofit religious services and activities are regularly conducted.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Educational institution” includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any state tax-supported, parochial, religious institution, and nonprofit private school, college, or university that conducts regular classes and courses of study required for accreditation by or membership in the Southern Association of Colleges and Schools, the Florida Council of Independent Schools, or the Florida Association of Christian Colleges and Schools, Inc.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit private school that conducts regular classes and courses of study which are accepted for continuing education credit by a board of the Division of Medical Quality Assurance of the Department of Health.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit library.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit art gallery.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit performing arts center that provides educational programs to school children, which programs involve performances or other educational activities at the performing arts center and serve a minimum of 50,000 school children a year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any nonprofit museum that is open to the public.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Home for the aged” includes any nonprofit corporation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In which at least 75 percent of the occupants are 62 years of age or older or totally and permanently disabled; which qualifies for an ad valorem property tax exemption under s. 196.196, s. 196.197, or s. 196.1975; and which is exempt from the sales tax imposed under chapter 212.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Licensed as a nursing home under chapter 400 or an assisted living facility under chapter 429 and which is exempt from the sales tax imposed under chapter 212.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 4, 58, ch. 2000-260; s. 38, ch. 2001-140; s. 1, ch. 2002-48; s. 2, ch. 2003-254; s. 8, ch. 2006-197; s. 4, ch. 2010-138; s. 2, ch. 2010-149; s. 3, ch. 2012-70.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve">Section 6, ch. 2010-149, provides that “[t]he Department of Revenue may, and all conditions are deemed met to, adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, for the purpose of promulgating such forms and instructions as are required to effectuate this act.”</Text>
+	</Note>
+</Section>

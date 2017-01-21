@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0255.257" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Energy management; buildings occupied by state agencies.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ENERGY CONSUMPTION AND COST DATA.<EmDash />Each state agency shall collect data on energy consumption and cost. The data gathered shall be on state-owned facilities and metered state-leased facilities of 5,000 net square feet or more. These data will be used in the computation of the effectiveness of the state energy management plan and the effectiveness of the energy management program of each of the state agencies. Collected data shall be reported annually to the department in a format prescribed by the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ENERGY MANAGEMENT COORDINATORS.<EmDash />Each state agency, the Florida Public Service Commission, the Department of Military Affairs, and the judicial branch shall appoint a coordinator whose responsibility shall be to advise the head of the state agency on matters relating to energy consumption in facilities under the control of that head or in space occupied by the various units comprising that state agency, in vehicles operated by that state agency, and in other energy-consuming activities of the state agency. The coordinator shall implement the energy management program agreed upon by the state agency concerned and assist the department in the development of the State Energy Management Plan.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">CONTENTS OF THE STATE ENERGY MANAGEMENT PLAN.<EmDash />The Department of Management Services, in coordination with the Department of Agriculture and Consumer Services, shall further develop the state energy management plan consisting of, but not limited to, the following elements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Data-gathering requirements;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Building energy audit procedures;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Uniform data analysis and reporting procedures;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Employee energy education program measures;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Energy consumption reduction techniques;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Training program for state agency energy management coordinators; and</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Guidelines for building managers.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The plan shall include a description of actions that state agencies shall take to reduce consumption of electricity and nonrenewable energy sources used for space heating and cooling, ventilation, lighting, water heating, and transportation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADOPTION OF STANDARDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All state agencies shall adopt a sustainable building rating system or use a national model green building code for all new buildings and renovations to existing buildings.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No state agency shall enter into new leasing agreements for office space that does not meet Energy Star building standards, except when the appropriate state agency head determines that no other viable or cost-effective alternative exists.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All state agencies shall develop energy conservation measures and guidelines for new and existing office space where state agencies occupy more than 5,000 square feet. These conservation measures shall focus on programs that may reduce energy consumption and, when established, provide a net reduction in occupancy costs.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 78-26; s. 115, ch. 79-190; s. 38, ch. 85-349; s. 3, ch. 91-113; s. 17, ch. 98-279; s. 23, ch. 99-399; s. 1, ch. 2001-259; s. 21, ch. 2008-227; s. 5, ch. 2011-222; s. 8, ch. 2012-117.</History>
+</Section>

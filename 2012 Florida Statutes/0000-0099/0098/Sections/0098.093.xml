@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0098.093" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Duty of officials to furnish information relating to deceased persons, persons adjudicated mentally incapacitated, and persons convicted of a felony.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In order to identify ineligible registered voters and maintain accurate and current voter registration records in the statewide voter registration system pursuant to procedures in s. 98.065 or s. 98.075, it is necessary for the department and supervisors of elections to receive or access certain information from state and federal officials and entities in the format prescribed. </Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">To the maximum extent feasible, state and local government agencies shall facilitate provision of information and access to data to the department, including, but not limited to, databases that contain reliable criminal records and records of deceased persons. State and local government agencies that provide such data shall do so without charge if the direct cost incurred by those agencies is not significant.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Health shall furnish monthly to the department a list containing the name, address, date of birth, date of death, social security number, race, and sex of each deceased person 17 years of age or older.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each clerk of the circuit court shall furnish monthly to the department a list of those persons who have been adjudicated mentally incapacitated with respect to voting during the preceding calendar month, a list of those persons whose mental capacity with respect to voting has been restored during the preceding calendar month, and a list of those persons who have returned signed jury notices during the preceding months to the clerk of the circuit court indicating a change of address. Each list shall include the name, address, date of birth, race, sex, and, whichever is available, the Florida driver’s license number, Florida identification card number, or social security number of each such person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of information from the United States Attorney, listing persons convicted of a felony in federal court, the department shall use such information to identify registered voters or applicants for voter registration who may be potentially ineligible based on information provided in accordance with s. 98.075.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Department of Law Enforcement shall identify those persons who have been convicted of a felony who appear in the voter registration records supplied by the statewide voter registration system, in a time and manner that enables the department to meet its obligations under state and federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The Florida Parole Commission shall furnish at least bimonthly to the department data, including the identity of those persons granted clemency in the preceding month or any updates to prior records which have occurred in the preceding month. The data shall contain the commission’s case number and the person’s name, address, date of birth, race, gender, Florida driver’s license number, Florida identification card number, or the last four digits of the social security number, if available, and references to record identifiers assigned by the Department of Corrections and the Department of Law Enforcement, a unique identifier of each clemency case, and the effective date of clemency of each person.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The Department of Corrections shall identify those persons who have been convicted of a felony and committed to its custody or placed on community supervision. The information must be provided to the department at a time and in a manner that enables the department to identify registered voters who are convicted felons and to meet its obligations under state and federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The Department of Highway Safety and Motor Vehicles shall furnish monthly to the department a list of those persons whose names have been removed from the driver’s license database because they have been licensed in another state. The list shall contain the name, address, date of birth, sex, social security number, and driver’s license number of each such person.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro"> This section does not limit or restrict the supervisor in his or her duty to remove the names of persons from the statewide voter registration system pursuant to s. 98.075(7) based upon information received from other sources.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 14730, 1931; CGL 1936 Supp. 302(1); s. 10, ch. 24203, 1947; s. 11, ch. 25035, 1949; s. 2, ch. 26870, 1951; s. 1, ch. 29917; s. 9, ch. 29934, 1955; s. 33, ch. 73-333; s. 27, ch. 77-147; s. 5, ch. 77-175; s. 32, ch. 94-224; s. 1388, ch. 95-147; s. 7, ch. 99-8; s. 24, ch. 2005-278; s. 10, ch. 2011-40; s. 4, ch. 2012-5.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 98.41; s. 98.301.</Text>
+	</Note>
+</Section>

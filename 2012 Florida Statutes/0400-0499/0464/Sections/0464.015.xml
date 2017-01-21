@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0464.015" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Titles and abbreviations; restrictions; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold licenses to practice professional nursing in this state or who are performing nursing services pursuant to the exception set forth in s. 464.022(8) shall have the right to use the title “Registered Nurse” and the abbreviation “R.N.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold licenses to practice as licensed practical nurses in this state or who are performing practical nursing services pursuant to the exception set forth in s. 464.022(8) shall have the right to use the title “Licensed Practical Nurse” and the abbreviation “L.P.N.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Only persons who are graduates of prelicensure nursing education programs listed in s. 464.008(1)(c) may use the term “Graduate Nurse” and the abbreviation “G.N.,” pending the results of the first licensure examination for which they are eligible.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Only persons who are graduates of prelicensure nursing education programs listed in s. 464.008(1)(c) may use the term “Graduate Practical Nurse” and the abbreviation “G.P.N.,” pending the results of the first licensure examination for which they are eligible.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold valid certificates to practice as clinical nurse specialists in this state may use the title “Clinical Nurse Specialist” and the abbreviation “C.N.S.”</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold valid certificates to practice as certified registered nurse anesthetists in this state may use the title “Certified Registered Nurse Anesthetist” and the abbreviations “C.R.N.A.” or “nurse anesthetist.”</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold valid certificates to practice as certified nurse midwives in this state may use the title “Certified Nurse Midwife” and the abbreviations “C.N.M.” or “nurse midwife.”</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Only persons who hold valid certificates to practice as advanced registered nurse practitioners in this state may use the title “Advanced Registered Nurse Practitioner” and the abbreviation “A.R.N.P.”</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A person may not practice or advertise as, or assume the title of, registered nurse, licensed practical nurse, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or advanced registered nurse practitioner or use the abbreviation “R.N.,” “L.P.N.,” “C.N.S.,” “C.R.N.A.,” “C.N.M.,” or “A.R.N.P.” or take any other action that would lead the public to believe that person was certified as such or is performing nursing services pursuant to the exception set forth in s. 464.022(8), unless that person is licensed or certified to practice as such.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">A violation of this section is a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 6, ch. 79-225; ss. 2, 3, ch. 81-318; ss. 12, 17, 18, ch. 86-284; s. 58, ch. 91-137; s. 5, ch. 91-156; s. 4, ch. 91-429; s. 4, ch. 2007-167; s. 4, ch. 2010-37.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">See</Font> s. 464.016(2)(a) as amended by s. 183, ch. 99-397, for addition of the term “Nurse” to the list of titles relating to nursing use of which without proper licensure or certification constitutes a misdemeanor.</Text>
+	</Note>
+</Section>

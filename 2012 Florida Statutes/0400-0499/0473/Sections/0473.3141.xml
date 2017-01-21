@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0473.3141" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certified public accountants licensed in other states.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this chapter, an individual who does not have an office in this state has the privileges of Florida certified public accountants and may provide public accounting services in this state without obtaining a license under this chapter or notifying or registering with the board or paying a fee if the individual:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Holds a valid license as a certified public accountant from a state that the board or its designee has determined by rule to have adopted standards that are substantially equivalent to the certificate requirements in s. 5 of the Uniform Accountancy Act in the issuance of licenses; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Holds a valid license as a certified public accountant from a state that has not been approved by the board as having adopted standards in substantial equivalence with s. 5 of the Uniform Accountancy Act, but obtains verification from the board, or its designee, as determined by rule, that the individual’s certified public accountant qualifications are substantially equivalent to the certificate requirements in s. 5 of the Uniform Accountancy Act.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The board shall define by rule what constitutes an office.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this chapter, an individual who qualifies to practice under this section may offer or provide services in this state in person, by mail, by telephone, or by electronic means, and a notice, fee, or other submission is not required.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An individual certified public accountant from another state who practices pursuant to this section, and the firm that employs that individual, shall both consent, as a condition of the privilege of practicing in this state:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To the personal and subject matter jurisdiction and disciplinary authority of the board;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To comply with this chapter and the applicable board rules;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That if the license as a certified public accountant from the state of the individual’s principal place of business is no longer valid, the individual will cease offering or rendering public accounting services in this state, individually and on behalf of a firm; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To the appointment of the state board that issued the individual’s license as the agent upon whom process may be served in any action or proceeding by the board or department against the individual or firm.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An individual who qualifies to practice under this section may perform the services identified in s. 473.302(8)(a) only through a firm that has obtained a license issued under s. 473.3101 or is authorized by s. 473.3101 to provide such services.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Disciplinary action against an individual or firm that practices pursuant to this section is not valid unless, prior to the entry of a final order, the agency has served, by personal service pursuant to this chapter or chapter 48 or by certified mail, an administrative complaint that provides reasonable notice to the individual or firm of facts or conduct that warrants the intended action and unless the individual or firm has been given an adequate opportunity to request a proceeding pursuant to ss. 120.569 and 120.57.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 14, ch. 2009-54; s. 16, ch. 2012-212.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 21, ch. 2012-212, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect July 1, 2012, and shall apply to legal notices that must be published on or after that date.”</Text>
+	</Note>
+</Section>

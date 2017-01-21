@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="VI">
+	<ChapterNumber>83</ChapterNumber>
+	<ChapterName xml:space="preserve">Landlord and tenant</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Nonresidential tenancies</PartTitle>
+		<Section Number="0083.001" />
+		<Section Number="0083.01" />
+		<Section Number="0083.02" />
+		<Section Number="0083.03" />
+		<Section Number="0083.04" />
+		<Section Number="0083.05" />
+		<Section Number="0083.06" />
+		<Section Number="0083.07" />
+		<Section Number="0083.08" />
+		<Section Number="0083.09" />
+		<Section Number="0083.10" />
+		<Section Number="0083.11" />
+		<Section Number="0083.12" />
+		<Section Number="0083.13" />
+		<Section Number="0083.135" />
+		<Section Number="0083.14" />
+		<Section Number="0083.15" />
+		<Section Number="0083.18" />
+		<Section Number="0083.19" />
+		<Section Number="0083.20" />
+		<Section Number="0083.201" />
+		<Section Number="0083.202" />
+		<Section Number="0083.21" />
+		<Section Number="0083.22" />
+		<Section Number="0083.231" />
+		<Section Number="0083.232" />
+		<Section Number="0083.241" />
+		<Section Number="0083.251" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Residential tenancies</PartTitle>
+		<Section Number="0083.40" />
+		<Section Number="0083.41" />
+		<Section Number="0083.42" />
+		<Section Number="0083.43" />
+		<Section Number="0083.44" />
+		<Section Number="0083.45" />
+		<Section Number="0083.46" />
+		<Section Number="0083.47" />
+		<Section Number="0083.48" />
+		<Section Number="0083.49" />
+		<Section Number="0083.50" />
+		<Section Number="0083.51" />
+		<Section Number="0083.52" />
+		<Section Number="0083.53" />
+		<Section Number="0083.535" />
+		<Section Number="0083.54" />
+		<Section Number="0083.55" />
+		<Section Number="0083.56" />
+		<Section Number="0083.57" />
+		<Section Number="0083.575" />
+		<Section Number="0083.58" />
+		<Section Number="0083.59" />
+		<Section Number="0083.595" />
+		<Section Number="0083.60" />
+		<Section Number="0083.61" />
+		<Section Number="0083.62" />
+		<Section Number="0083.625" />
+		<Section Number="0083.63" />
+		<Section Number="0083.64" />
+		<Section Number="0083.67" />
+		<Section Number="0083.681" />
+		<Section Number="0083.682" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Self-service storage space</PartTitle>
+		<Section Number="0083.801" />
+		<Section Number="0083.803" />
+		<Section Number="0083.805" />
+		<Section Number="0083.8055" />
+		<Section Number="0083.806" />
+		<Section Number="0083.808" />
+		<Section Number="0083.809" />
+	</Part>
+</Chapter>

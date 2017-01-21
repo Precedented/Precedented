@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XL">
+	<ChapterNumber>719</ChapterNumber>
+	<ChapterName xml:space="preserve">Cooperatives</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0719.101" />
+		<Section Number="0719.102" />
+		<Section Number="0719.103" />
+		<Section Number="0719.1035" />
+		<Section Number="0719.104" />
+		<Section Number="0719.105" />
+		<Section Number="0719.1055" />
+		<Section Number="0719.106" />
+		<Section Number="0719.1064" />
+		<Section Number="0719.1065" />
+		<Section Number="0719.107" />
+		<Section Number="0719.108" />
+		<Section Number="0719.109" />
+		<Section Number="0719.110" />
+		<Section Number="0719.111" />
+		<Section Number="0719.112" />
+		<Section Number="0719.1124" />
+		<Section Number="0719.114" />
+		<Section Number="0719.115" />
+		<Section Number="0719.1255" />
+		<Section Number="0719.127" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Rights and obligations<NewLine />of developers</PartTitle>
+		<Section Number="0719.202" />
+		<Section Number="0719.203" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Rights and obligations<NewLine />of association</PartTitle>
+		<Section Number="0719.301" />
+		<Section Number="0719.302" />
+		<Section Number="0719.3026" />
+		<Section Number="0719.303" />
+		<Section Number="0719.304" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Special types of cooperatives</PartTitle>
+		<Section Number="0719.401" />
+		<Section Number="0719.4015" />
+		<Section Number="0719.402" />
+		<Section Number="0719.403" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Regulation and disclosure prior<NewLine />to sale of residential<NewLine />cooperatives</PartTitle>
+		<Section Number="0719.501" />
+		<Section Number="0719.502" />
+		<Section Number="0719.503" />
+		<Section Number="0719.504" />
+		<Section Number="0719.505" />
+		<Section Number="0719.506" />
+		<Section Number="0719.507" />
+		<Section Number="0719.508" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Conversions to cooperative</PartTitle>
+		<Section Number="0719.604" />
+		<Section Number="0719.606" />
+		<Section Number="0719.608" />
+		<Section Number="0719.61" />
+		<Section Number="0719.612" />
+		<Section Number="0719.614" />
+		<Section Number="0719.616" />
+		<Section Number="0719.618" />
+		<Section Number="0719.62" />
+		<Section Number="0719.621" />
+		<Section Number="0719.622" />
+	</Part>
+</Chapter>

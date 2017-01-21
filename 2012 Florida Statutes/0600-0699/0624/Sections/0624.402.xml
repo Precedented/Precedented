@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.402" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exceptions, certificate of authority required.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A certificate of authority shall not be required of an insurer with respect to:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Investigation, settlement, or litigation of claims under its policies lawfully written in this state, or liquidation of assets and liabilities of the insurer (other than collection of new premiums), all as resulting from its former authorized operations in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Transactions involving a policy, subsequent to issuance thereof, covering only subjects of insurance not resident, located, or expressly to be performed in this state at the time of issuance, and lawfully solicited, written, or delivered outside this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Transactions pursuant to surplus lines coverages lawfully written under part VIII of chapter 626.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Reinsurance, when transacted as authorized under s. 624.610.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Continuation and servicing of life insurance or health insurance policies or annuity contracts remaining in force as to residents of this state when the insurer has withdrawn from the state and is not transacting new insurance therein.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Investment by a foreign insurer of its funds in real estate in this state or in securities secured thereby, if the foreign insurer complies with the laws of this state relating generally to foreign business corporations.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Transactions involving hospital professional, hospital liability, and hospital general liability insurance issued to a resident of this state by a captive insurance company, provided:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The captive insurance company is domiciled in a United States jurisdiction, the insurance regulatory body of which has been accredited by the National Association of Insurance Commissioners;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The insured owns or controls, or holds with the power to vote, a percentage of the voting securities of such captive insurance company which is equal to or greater than the greatest percentage of voting securities owned or controlled by any other person;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The captive insurance company files an insurance premium tax return in this state and pays the tax on such insurance premiums imposed by s. 624.509(1) or s. 624.5091, whichever is greater;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The captive insurance company has insured no more than three hospitals in Florida;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The captive insurance company has been in existence for at least 3 years as of July 1, 1992; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The captive insurance company maintains a surplus of at least $1.5 million in accordance with the laws of its state of domicile.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An insurer domiciled outside the United States covering only persons who, at the time of issuance or renewal, are nonresidents of the United States if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The insurer does not solicit, sell, or accept application for any insurance policy or contract to be delivered or issued for delivery to any person in any state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The insurer registers with the office via a letter of notification upon commencing business from this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The insurer provides the following information, in English, to the office annually by March 1:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The name of the insurer; the country of domicile; the address of the insurer’s principal office and office in this state; the names of the owners of the insurer and their percentage of ownership; the names of the officers and directors of the insurer; the name, e-mail, and telephone number of a contact person for the insurer; and the number of individuals who are employed by the insurer or its affiliates in this state;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The lines of insurance and types of products offered by the insurer;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A statement from the applicable regulatory body of the insurer’s domicile certifying that the insurer is licensed or registered for those lines of insurance and types of products in that domicile; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A copy of the filings required by the applicable regulatory body of the insurer’s country of domicile in that country’s official language or in English, if available;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">All certificates, policies, or contracts issued in this state showing coverage under the insurer’s policy include the following statement in a contrasting color and at least 10-point type: “The policy providing your coverage and the insurer providing this policy have not been approved by the Florida Office of Insurance Regulation”; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If the insurer ceases to do business from this state, the insurer will provide written notification to the office within 30 days after cessation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, “nonresident” means a trust or other entity organized and domiciled under the laws of a country other than the United States or a person who resides in and maintains a physical place of domicile in a country other than the United States, which he or she recognizes as and intends to maintain as his or her permanent home. A nonresident does not include an unauthorized immigrant present in the United States. Notwithstanding any other provision of law, it is conclusively presumed, for purposes of this subsection, that a person is a resident of the United States if such person has:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Had his or her principal place of domicile in the United States for 180 days or more in the 365 days prior to issuance or renewal of the policy;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Registered to vote in any state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Made a statement of domicile in any state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Filed for homestead tax exemption on property in any state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Subject to the limitations provided in this subsection, services, including those listed in s. 624.10, may be provided by the insurer or an affiliated person as defined in s. 624.04 under common ownership or control with the insurer.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An alien insurer transacting insurance in this state without complying with this subsection shall be in violation of this chapter and subject to the penalties provided in s. 624.15.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Life insurance policies or annuity contracts may be solicited, sold, or issued in this state by an insurer domiciled outside the United States, covering only persons who, at the time of issuance are nonresidents of the United States, provided that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The insurer is currently an authorized insurer in his or her country of domicile as to the kind or kinds of insurance proposed to be offered and must have been such an insurer for not fewer than the immediately preceding 3 years, or must be the wholly owned subsidiary of such authorized insurer or must be the wholly owned subsidiary of an already eligible authorized insurer as to the kind or kinds of insurance proposed for a period of not fewer than the immediately preceding 3 years. However, the office may waive the 3-year requirement if the insurer has operated successfully for a period of at least the immediately preceding year and has capital and surplus of not less than $25 million.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Before the office may grant eligibility, the requesting insurer furnishes the office with a duly authenticated copy of its current annual financial statement, in English, and with all monetary values therein expressed in United States dollars, at an exchange rate then-current and shown in the statement, in the case of statements originally made in the currencies of other countries, and with such additional information relative to the insurer as the office may request.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The insurer has and maintains surplus as to policyholders of not less than $15 million. Any such surplus as to policyholders shall be represented by investments consisting of eligible investments for like funds of like domestic insurers under part II of chapter 625; however, any such surplus as to policyholders may be represented by investments permitted by the domestic regulator of such alien insurance company if such investments are substantially similar in terms of quality, liquidity, and security to eligible investments for like funds of like domestic insurers under part II of chapter 625.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The insurer has <Reference Number="1"/>a good reputation as to providing service to its policyholders and the payment of losses and claims.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">To maintain eligibility, the insurer furnishes the office within the time period specified in s. 624.424(1), a duly authenticated copy of its current annual and quarterly financial statements, in English, and with all monetary values therein expressed in United States dollars, at an exchange rate then-current and shown in the statement, in the case of statements originally made in the currencies of other countries, and with such additional information relative to the insurer as the office may request.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">An insurer receiving eligibility under this subsection agrees to make its books and records pertaining to its operations in this state available for inspection during normal business hours upon request of the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The insurer notifies the applicant in clear and conspicuous language:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The date of organization of the insurer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The identity of and rating assigned by each recognized insurance company rating organization that has rated the insurer or, if applicable, that the insurer is unrated.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">That the insurer does not hold a certificate of authority issued in this state and that the office does not exercise regulatory oversight over the insurer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The identity and address of the regulatory authority exercising oversight of the insurer. This paragraph does not impose upon the office any duty or responsibility to determine the actual financial condition or claims practices of any unauthorized insurer, and the status of eligibility, if granted by the office, indicates only that the insurer appears to be financially sound and to have satisfactory claims practices and that the office has no credible evidence to the contrary.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the office has reason to believe that an insurer issuing policies or contracts pursuant to this subsection is insolvent or is in unsound financial condition, does not make reasonable prompt payment of benefits, or is no longer eligible under the conditions specified in this subsection, the office may conduct an examination or investigation in accordance with s. 624.316, s. 624.3161, or s. 624.320 and, if the findings of the examination or investigation warrant, may withdraw the eligibility of the insurer to issue policies or contracts pursuant to this subsection without having a certificate of authority issued by the office.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection does not provide an exception to the agent licensure requirements of chapter 626. A insurer issuing policies or contracts pursuant to this subsection shall appoint the agents that the insurer uses to sell such policies or contracts as provided in chapter 626.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An insurer issuing policies or contracts pursuant to this subsection is subject to part IX of chapter 626, the Unfair Insurance Trade Practices Act, and the office may take such actions against the insurer for a violation as are provided in that part.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Policies and contracts issued pursuant to this subsection are not subject to the premium tax specified in s. 624.509.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Applications for life insurance coverage offered under this subsection must contain, in contrasting color and not less than 12-point type, the following statement on the same page as the applicant’s signature:</Text>
+				<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">This policy is primarily governed by the laws of a foreign country. As a result, all of the rating and underwriting laws applicable to policies filed in this state do not apply to this coverage, which may result in your premiums being higher than would be permissible under a Florida-approved policy. A purchase of individual life insurance should be considered carefully, as future medical conditions may make it impossible to qualify for another individual life policy. If the insurer issuing your policy becomes insolvent, this policy is not covered by the Florida Life and Health Insurance Guaranty Association. For information concerning individual life coverage under a Florida-approved policy, consult your agent or the Florida Department of Financial Services.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">All life insurance policies and annuity contracts issued pursuant to this subsection must contain on the first page of the policy or contract, in contrasting color and not less than 10-point type, the following statement:</Text>
+				<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">The benefits of the policy providing your coverage are governed primarily by the law of a country other than the United States.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">All single-premium life insurance policies and single-premium annuity contracts issued to persons who are not residents of the United States and are not nonresidents illegally residing in the United States pursuant to this subsection are subject to chapter 896.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, the term “nonresident” means a trust or other entity or person as defined in subsection (8).</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">An alien insurer transacting insurance in this state without complying with this subsection is in violation of this chapter and subject to the penalties provided in s. 624.15, and must also pay the fine required for each violation as prescribed by s. 626.910.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 46, ch. 59-205; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 38, 64, 809(1st), ch. 82-243; s. 8, ch. 87-226; ss. 184, 187, 188, ch. 91-108; s. 4, ch. 91-429; s. 2, ch. 92-328; s. 1, ch. 2005-94; s. 4, ch. 2011-174; s. 3, ch. 2012-151.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “a” was substituted for the word “of” by the editors to improve clarity.</Text>
+	</Note>
+</Section>

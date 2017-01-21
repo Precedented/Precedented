@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.481" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Requirements for certain annuity agreements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any duly organized domestic or foreign nonstock corporation, or any unincorporated charitable trust, if such corporation or trust:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has been in active operation for at least 5 years prior thereto and has qualified as an exempt organization under the Internal Revenue Code, 26 U.S.C. s. 501(c)(3), or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has been wholly controlled for at least 10 years by a corporation or trust qualified under paragraph (a), if the subunit has been a corporation or trust for at least 2 years, and has engaged in the selling of annuity agreements authorized under this section in at least three other states without complaint,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">may enter into annuity agreements with donors in accordance with this section. Such corporation or trust may receive gifts conditioned upon, or in return for, its agreement to pay an annuity to the donor or other designated beneficiary or beneficiaries and to make and carry out such annuity agreement. Annuity benefits under any such annuity agreement must be calculated to return to such corporation or trust upon the death of the annuitant a residue at least equal to one-half the original gift or other consideration for such annuity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Every such domestic corporation or such domestic or foreign trust shall have and maintain admitted assets at least equal to the sum of the reserves on its outstanding annuity agreements, and a surplus of 10 percent of such reserves, calculated using:</Text>
+				<SubParagraph Id="1">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The present value of future guaranteed benefits for individual annuities that have either commenced paying benefits or have fixed a future date of the first benefit payment.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The commissioner’s annuity reserve method, as set forth in s. 625.121(7)(c), for individual deferred annuities that have not fixed a date for the first benefit payment.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The mortality tables used to value individual annuities, as defined in s. 625.121(5).</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">For annuities issued prior to July 1, 1998:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The mortality tables described in s. 625.121(5)(h), for individual annuities;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">At the option of the corporation or trust, the 1983 Individual Annuity Mortality Table; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">At the option of the corporation or trust, the 2000 Individual Annuity Mortality Table for annuities issued between January 1, 1998, and June 30, 1998, inclusive.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For annuities issued on or after July 1, 1998:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The mortality tables set forth in s. 625.121(5)(i)3.;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Any other mortality tables required to be used by insurers in accordance with s. 625.121; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">At the option of the corporation or trust, any other mortality tables authorized to be used by insurers in accordance with s. 625.121.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An interest rate not greater than the maximum interest rate permitted for the valuation of individual annuities issued during the same calendar year as the charitable gift annuity for individual annuities as set forth in s. 625.121(6)(b)-(f).</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The maximum statutory valuation interest rates for single-premium immediate annuities for 1992 may be used for annuities issued in 1992 or any prior year. The maximum statutory valuation interest rates for single-premium immediate annuities issued in 1992 through 2001 are as follows:</Text>
+						<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+							<ColumnDefinitions>
+								<Column Width="50" />
+								<Column Width="50" />
+							</ColumnDefinitions>
+							<Header>
+								<Row Height="1.5">
+									<Cell VerticalAlign="Top" HorizontalAlign="Center">
+										<Text xml:space="preserve">Year of Issue</Text>
+									</Cell>
+									<Cell VerticalAlign="Top" HorizontalAlign="Center">
+										<Text xml:space="preserve">Single Premium Immediate<NewLine />Annuity Interest Rate</Text>
+									</Cell>
+								</Row>
+								<Row><Cell/>
+								</Row>
+							</Header>
+							<Body>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1992</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">7.75 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1993</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">7.00 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1994</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.50 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1995</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">7.25 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1996</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.75 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1997</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.75 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1998</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.25 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">1999</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.25 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">2000</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">7.00 percent</Text>
+									</Cell>
+								</Row>
+								<Row>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">2001</Text>
+									</Cell>
+									<Cell HorizontalAlign="Center">
+										<Text xml:space="preserve">6.75 percent</Text>
+									</Cell>
+								</Row>
+							</Body>
+						</Table>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For 2002 and subsequent years, until an interest rate for a specified year can be determined in accordance with s. 625.121(6), the prior year’s rate shall be used unless the office requires use of a lower rate.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In determining the reserves of any such corporation or trust, a deduction shall be made for all or any portion of an annuity risk which is reinsured by a life insurance company authorized to do business in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The assets of such corporation or trust in an amount at least equal to the sum of such reserves and surplus shall be invested only in mutual funds or investments permitted under part II of chapter 625 for the investment of the reserves of authorized life insurance companies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For purposes of this section, the provisions of s. 625.305(2)(a) shall not apply. In lieu thereof, the fair market value of investments made by such corporation or trust in stock authorized by s. 625.324 may not exceed 50 percent of such corporation’s or trust’s required reserves and surplus. The fair market value in stock of any one corporation or mutual fund may not exceed 10 percent of such corporation’s or trust’s required reserves and surplus. All other provisions of s. 625.305 shall apply. Such assets shall be segregated as separate and distinct funds, independent of all other funds of such corporation or trust, and shall not be applied for the payment of the debts and obligations of the corporation or trust or for any purpose other than the annuity benefits specified in this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">No such foreign corporation shall make these annuity agreements in this state unless it complies with all the requirements of this section imposed upon like domestic corporations, except that the corporation may invest its reserve and surplus funds in the kind of securities permitted by the laws of the state in which it was incorporated or organized.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any corporation or trust that engages in the business of issuing these annuity agreements shall notify the office in writing by the later of 90 days after the effective date of this act or the date on which it enters into the first of these annuity agreements. The notice must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be signed by two or more officers or directors of the organization;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Identify the organization; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Certify that the organization meets the requirements of this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any annuity agreement entered into by a corporation or trust must contain the following clause: “This annuity is not issued by an insurance company, is subject only to limited regulation by the State of Florida and is not protected or otherwise guaranteed by any government agency.”</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If the office finds that any such corporation or trust has failed to comply with the requirements of this section, it may order such corporation or trust to cease making any new annuity agreements until such requirements have been satisfied. The office may, in its discretion, require annual statements by such corporation or trust and may accept in lieu thereof a sworn statement by two or more of the principal officers thereof, in such form as will satisfy the office that the requirements of this section are being complied with.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Except as provided in this section, every such corporation or trust shall be exempt from the provisions of this code in making annuity agreements issued under this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Any annuity agreement entered into by a corporation or trust the sole purpose of which is to support a state institution of higher learning shall contain the following clause:</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">“This agreement is the entire contract between the parties, with rights and responsibilities of each party to the other as set forth herein. The donor or annuitant shall not have recourse against any assets of the state other than any funds or assets donated by, or funds derived from any assets donated by, the donor as set forth herein.”</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Agreements in the form of a charitable remainder unitrust trust, charitable remainder annuity trust, charitable lead trust, pooled income fund or other similar charitable split interest trust arrangement (not including a charitable gift annuity), described in ss. 170(f)(2)(A) and (B), 664(d)(1) and (2), and 642(c)(5) of the Internal Revenue Code are exempt from the provisions of subsections (1), (2), (3), and (5).</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The provisions of part IX of chapter 626 apply to issuers of annuity agreements under this section.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The commission shall adopt rules and forms for the filing of annual statements and agreements pertaining to donor annuity organizations.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-149; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 21, ch. 78-95; ss. 2, 3, ch. 81-318; ss. 403, 404, 809(2nd), ch. 82-243; s. 79, ch. 82-386; ss. 44, 114, ch. 92-318; s. 16, ch. 96-168; s. 25, ch. 97-93; s. 15, ch. 99-307; s. 10, ch. 2000-370; s. 58, ch. 2001-63; s. 6, ch. 2002-247; s. 1133, ch. 2003-261.</History>
+</Section>

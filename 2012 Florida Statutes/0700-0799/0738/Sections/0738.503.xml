@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.503" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Obligation to pay money.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An amount received as interest, whether determined at a fixed, variable, or floating rate, on an obligation to pay money to the fiduciary, including an amount received as consideration for prepaying principal, shall be allocated to income without any provision for amortization of premium.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided herein, a fiduciary shall allocate to principal an amount received from the sale, redemption, or other disposition of an obligation to pay money to the fiduciary.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The increment in value of a bond or other obligation for the payment of money bearing no stated interest but payable at a future time in excess of the price at which it was issued or purchased, if purchased after issuance, is distributable as income. If the increment in value accrues and becomes payable pursuant to a fixed schedule of appreciation, it may be distributed to the beneficiary who was the income beneficiary at the time of increment from the first principal cash available or, if none is available, when the increment is realized by sale, redemption, or other disposition. If unrealized increment is distributed as income but out of principal, the principal must be reimbursed for the increment when realized. If, in the reasonable judgment of the fiduciary, exercised in good faith, the ultimate payment of the bond principal is in doubt, the fiduciary may withhold the payment of incremental interest to the income beneficiary.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to an obligation to which s. 738.602, s. 738.603, s. 738.604, s. 738.605, s. 738.607, or s. 738.608 applies.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 17, ch. 2012-49.</History>
+</Section>

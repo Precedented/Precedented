@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0494.00172" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mortgage Guaranty Trust Fund; payment of fees and claims.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A nonrefundable fee is imposed on each application for a mortgage broker, mortgage lender, or loan originator license and on each annual application for a renewal of such license. For a loan originator, the initial and renewal fee is $20. For mortgage brokers and lenders, the initial and renewal fee is $100. This fee is in addition to the regular application or renewal fee assessed and shall be deposited into the Mortgage Guaranty Trust Fund of the office for the payment of claims in accordance with this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If the amount in the trust fund exceeds $5 million, the additional fee shall be discontinued and may not be reimposed until the fund is reduced to below $1 million pursuant to disbursements made in accordance with this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A borrower in a mortgage loan transaction is eligible to seek recovery from the trust fund if all of the following conditions are met:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The borrower has recorded a final judgment issued by a state court wherein the cause of action against a licensee under this chapter was based on a violation of this chapter and the damages were the result of that violation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The borrower has caused a writ of execution to be issued upon such judgment, and the officer executing the judgment has made a return showing that no personal or real property of the judgment debtor liable to be levied upon in satisfaction of the judgment can be found or that the amount realized on the sale of the judgment debtor’s property pursuant to such execution is insufficient to satisfy the judgment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The borrower has made all reasonable searches and inquiries to ascertain whether the judgment debtor possesses real or personal property or other assets subject to being sold or applied in satisfaction of the judgment, and has discovered no such property or assets; or he or she has discovered property and assets and has taken all necessary action and proceedings for the application thereof to the judgment, but the amount realized is insufficient to satisfy the judgment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The borrower has applied any amounts recovered from the judgment debtor, or from any other source, to the damages awarded by the court.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The borrower, at the time the action was instituted, gave notice and provided a copy of the complaint to the office by certified mail. The requirement of a timely giving of notice may be waived by the office upon a showing of good cause.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The act for which recovery is sought occurred on or after January 1, 2011.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The requirements of subsection (2) are not applicable if the licensee upon which the claim is sought has filed for bankruptcy or has been adjudicated bankrupt. However, the claimant must file a proof of claim in the bankruptcy proceedings and must notify the office by certified mail of the claim by enclosing a copy of the proof of claim and all supporting documents.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person who meets all of the conditions in subsection (2) may apply to the office for payment from the trust fund equal to the unsatisfied portion of that person’s judgment or $50,000, whichever is less, but only to the extent that the amount reflected in the judgment is for actual or compensatory damages, plus any attorney’s fees and costs awarded by the trial court which have been determined by the court, and the documented costs associated with attempting to collect the judgment. Actual or compensatory damages may not include postjudgment interest. Attorney’s fees may not exceed $5,000 or 20 percent of the actual or compensatory damages, whichever is less. If actual or compensatory damages, plus attorney’s fees and costs, exceed $50,000, actual or compensatory damages must be paid first. The cumulative payment for actual or compensatory damages, plus attorney’s fees and costs, may not exceed $50,000 as described in this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A borrower may not collect more than $50,000 from the trust fund for any claim regardless of the number of licensees liable for the borrower’s damages.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Payments for claims are limited in the aggregate to $250,000 against any one licensee under this chapter. If the total claims exceed the aggregate limit of $250,000, the office shall prorate payments based on the ratio that a claim bears to the total claims filed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Payments shall be made to all persons meeting the requirements of subsection (2) 2 years after the date the first complete and valid notice is received by the office. Persons who give notice after 2 years and who otherwise comply with the conditions precedent to recovery may recover from any remaining portion of the $250,000 aggregate as provided in this subsection, with claims being paid in the order notice was received until the $250,000 aggregate has been disbursed.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The claimant shall assign his or her right, title, and interest in the judgment, to the extent of his or her recovery from the fund, to the office and shall record, at his or her own expense, the assignment of judgment in every county where the judgment is recorded.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the money in the fund is insufficient to satisfy any valid claim or portion thereof, the office shall satisfy such unpaid claim or portion as soon as a sufficient amount of money has been deposited in the trust fund. If there is more than one unsatisfied claim outstanding, such claims shall be paid in the order in which the claims were filed with the office.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The payment of any amount from the fund in settlement of a claim or in satisfaction of a judgment against a licensee constitutes prima facie grounds for the revocation of the license.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2009-241.</History>
+</Section>

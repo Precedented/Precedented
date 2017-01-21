@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0943.051" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Criminal justice information; collection and storage; fingerprinting.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Criminal Justice Information Program, acting as the state’s central criminal justice information repository, shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Collect, process, store, maintain, and disseminate criminal justice information and records necessary to the operation of the criminal justice information system of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Develop systems that inform one criminal justice agency of the criminal justice information held or maintained by other criminal justice agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each adult person charged with or convicted of a felony, misdemeanor, or violation of a comparable ordinance by a state, county, municipal, or other law enforcement agency shall be fingerprinted, and such fingerprints shall be submitted to the department in the manner prescribed by rule. Exceptions to this requirement for specified misdemeanors or comparable ordinance violations may be made by the department by rule.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A minor who is charged with or found to have committed an offense that would be a felony if committed by an adult shall be fingerprinted and the fingerprints shall be submitted to the department in the manner prescribed by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A minor who is charged with or found to have committed the following offenses shall be fingerprinted and the fingerprints shall be submitted to the department:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Assault, as defined in s. 784.011.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Battery, as defined in s. 784.03.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Carrying a concealed weapon, as defined in s. 790.01(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Unlawful use of destructive devices or bombs, as defined in s. 790.1615(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Negligent treatment of children, as defined in former s. 827.05.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Assault or battery on a law enforcement officer, a firefighter, or other specified officers, as defined in s. 784.07(2)(a) and (b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Open carrying of a weapon, as defined in s. 790.053.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Exposure of sexual organs, as defined in s. 800.03.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Unlawful possession of a firearm, as defined in s. 790.22(5).</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Petit theft, as defined in s. 812.014(3).</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Cruelty to animals, as defined in s. 828.12(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Arson, as defined in s. 806.031(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Unlawful possession or discharge of a weapon or firearm at a school-sponsored event or on school property as defined in s. 790.115.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Fingerprints shall be used as the basis for criminal history records.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 80-409; s. 2, ch. 85-224; s. 5, ch. 93-204; s. 1, ch. 94-126; s. 89, ch. 94-209; s. 12, ch. 95-184; s. 2, ch. 95-427; s. 2, ch. 96-293; s. 28, ch. 96-322; s. 6, ch. 98-94; s. 2, ch. 99-284; s. 6, ch. 99-300; s. 11, ch. 2000-155; s. 2, ch. 2002-51; s. 6, ch. 2007-112; s. 32, ch. 2010-117.</History>
+</Section>

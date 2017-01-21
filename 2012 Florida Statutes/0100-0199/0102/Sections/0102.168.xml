@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0102.168" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Contest of election.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in s. 102.171, the certification of election or nomination of any person to office, or of the result on any question submitted by referendum, may be contested in the circuit court by any unsuccessful candidate for such office or nomination thereto or by any elector qualified to vote in the election related to such candidacy, or by any taxpayer, respectively.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Such contestant shall file a complaint, together with the fees prescribed in chapter 28, with the clerk of the circuit court within 10 days after midnight of the date the last board responsible for certifying the results officially certifies the results of the election being contested.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The complaint shall set forth the grounds on which the contestant intends to establish his or her right to such office or set aside the result of the election on a submitted referendum. The grounds for contesting an election under this section are:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Misconduct, fraud, or corruption on the part of any election official or any member of the canvassing board sufficient to change or place in doubt the result of the election.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Ineligibility of the successful candidate for the nomination or office in dispute.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Receipt of a number of illegal votes or rejection of a number of legal votes sufficient to change or place in doubt the result of the election.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Proof that any elector, election official, or canvassing board member was given or offered a bribe or reward in money, property, or any other thing of value for the purpose of procuring the successful candidate’s nomination or election or determining the result on any question submitted by referendum.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The canvassing board responsible for canvassing the election is an indispensable party defendant in county and local elections. The Elections Canvassing Commission is an indispensable party defendant in federal, state, and multicounty elections and in elections for justice of the Supreme Court, judge of a district court of appeal, and judge of a circuit court. The successful candidate is an indispensable party to any action brought to contest the election or nomination of a candidate.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A statement of the grounds of contest may not be rejected, nor the proceedings dismissed, by the court for any want of form if the grounds of contest provided in the statement are sufficient to clearly inform the defendant of the particular proceeding or cause for which the nomination or election is contested.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A copy of the complaint shall be served upon the defendant and any other person named therein in the same manner as in other civil cases under the laws of this state. Within 10 days after the complaint has been served, the defendant must file an answer admitting or denying the allegations on which the contestant relies or stating that the defendant has no knowledge or information concerning the allegations, which shall be deemed a denial of the allegations, and must state any other defenses, in law or fact, on which the defendant relies. If an answer is not filed within the time prescribed, the defendant may not be granted a hearing in court to assert any claim or objection that is required by this subsection to be stated in an answer.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Any candidate, qualified elector, or taxpayer presenting such a contest to a circuit judge is entitled to an immediate hearing. However, the court in its discretion may limit the time to be consumed in taking testimony, with a view therein to the circumstances of the matter and to the proximity of any succeeding election.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">In any contest that requires a review of the canvassing board’s decision on the legality of an absentee ballot pursuant to s. 101.68 based upon a comparison of the signature on the voter’s certificate and the signature of the elector in the registration records, the circuit court may not review or consider any evidence other than the signature on the voter’s certificate and the signature of the elector in the registration records. The court’s review of such issue shall be to determine only if the canvassing board abused its discretion in making its decision.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 7, 8, Art. 10, ch. 38, 1845; RS 199; GS 283; RGS 379; CGL 444; s. 3, ch. 26870, 1951; s. 16, ch. 65-378; s. 28, ch. 77-175; s. 49, ch. 79-400; s. 602, ch. 95-147; s. 3, ch. 99-339; s. 44, ch. 2001-40; s. 60, ch. 2005-277; s. 44, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 104.06; s. 99.192; s. 102.161.</Text>
+	</Note>
+</Section>

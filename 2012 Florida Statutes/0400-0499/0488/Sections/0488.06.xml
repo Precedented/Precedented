@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0488.06" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Revocation or suspension of license or certificate.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Department of Highway Safety and Motor Vehicles may suspend or revoke any license or certificate issued under the provisions of this chapter if the holder of the license or certificate or an instructor, agent, or employee of the commercial driving school has:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Violated the provisions of this chapter;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Been convicted of, pled no contest to, or had adjudication withheld for any felony offense or misdemeanor offense, as shown by a fingerprint-based criminal background check, the cost of which must be borne by the applicant, instructor, agent, or employee;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Committed any fraud or willful misrepresentation in applying for or obtaining a license; or</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Solicited business on any premises, including parking areas, used by the department or a tax collector for the purpose of licensing drivers.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">For purposes of subsection (2), fingerprints shall be submitted by the Department of Highway Safety and Motor Vehicles to the Florida Department of Law Enforcement for state processing, and the Florida Department of Law Enforcement shall forward them to the Federal Bureau of Investigation for national processing. The Department of Highway Safety and Motor Vehicles shall screen the background check results to determine if an applicant, instructor, agency, or employee meets licensure or certification requirements.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 28142, 1953; ss. 24, 35, ch. 69-106; s. 2, ch. 81-318; ss. 7, 10, 11, ch. 84-150; s. 4, ch. 91-429; s. 41, ch. 2010-223.</History>
+</Section>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0712.06" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Contents of notice; recording and indexing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To be effective, the notice referred to in s. 712.05 shall contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name or description of the claimant or the homeowners’ association desiring to preserve any covenant or restriction and the name and particular post office address of the person filing the claim or the homeowners’ association.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name and post office address of an owner, or the name and post office address of the person in whose name said property is assessed on the last completed tax assessment roll of the county at the time of filing, who, for purpose of such notice, shall be deemed to be an owner; provided, however, if a homeowners’ association is filing the notice, then the requirements of this paragraph may be satisfied by attaching to and recording with the notice an affidavit executed by the appropriate member of the board of directors of the homeowners’ association affirming that the board of directors of the homeowners’ association caused a statement in substantially the following form to be mailed or hand delivered to the members of that homeowners’ association:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">STATEMENT OF MARKETABLE TITLE ACTION</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">The [name of homeowners’ association] (the “Association”) has taken action to ensure that the [name of declaration, covenant, or restriction], recorded in Official Records Book <HorizontalRule Type="Fixed" />, Page <HorizontalRule Type="Fixed" />, of the public records of <HorizontalRule Type="Fixed" /> County, Florida, as may be amended from time to time, currently burdening the property of each and every member of the Association, retains its status as the source of marketable title with regard to the transfer of a member’s residence. To this end, the Association shall cause the notice required by chapter 712, Florida Statutes, to be recorded in the public records of <HorizontalRule Type="Fixed" /> County, Florida. Copies of this notice and its attachments are available through the Association pursuant to the Association’s governing documents regarding official records of the Association.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A full and complete description of all land affected by such notice, which description shall be set forth in particular terms and not by general reference, but if said claim is founded upon a recorded instrument or a covenant or a restriction, then the description in such notice may be the same as that contained in such recorded instrument or covenant or restriction, provided the same shall be sufficient to identify the property.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A statement of the claim showing the nature, description, and extent of such claim or, in the case of a covenant or restriction, a copy of the covenant or restriction, except that it shall not be necessary to show the amount of any claim for money or the terms of payment.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If such claim is based upon an instrument of record or a recorded covenant or restriction, such instrument of record or recorded covenant or restriction shall be deemed sufficiently described to identify the same if the notice includes a reference to the book and page in which the same is recorded.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Such notice shall be acknowledged in the same manner as deeds are acknowledged for record.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Such notice shall be filed with the clerk of the circuit court of the county or counties where the land described therein is situated, together with a true copy thereof. The clerk shall enter, record, and index said notice in the same manner that deeds are entered, recorded, and indexed, as though the claimant were the grantee in the deed and the purported owner were the grantor in a deed, and the clerk shall charge the same fees for recording thereof as are charged for recording deeds. In those counties where the circuit court clerk maintains a tract index, such notice shall also be indexed therein.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The person providing the notice referred to in s. 712.05 shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Cause the clerk of the circuit court to mail by registered or certified mail to the purported owner of said property, as stated in such notice, a copy thereof and shall enter on the original, before recording the same, a certificate showing such mailing. For preparing the certificate, the claimant shall pay to the clerk the service charge as prescribed in s. 28.24(8) and the necessary costs of mailing, in addition to the recording charges as prescribed in s. 28.24(12). If the notice names purported owners having more than one address, the person filing the same shall furnish a true copy for each of the several addresses stated, and the clerk shall send one such copy to the purported owners named at each respective address. Such certificate shall be sufficient if the same reads substantially as follows:</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">I hereby certify that I did on this <HorizontalRule Type="Fixed"/>, mail by registered (or certified) mail a copy of the foregoing notice to each of the following at the address stated:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Clerk of the circuit court)</Directions><NewLine />of <HorizontalRule Type="Fixed"/> County, Florida,<NewLine />By<Directions xml:space="preserve">(Deputy clerk)</Directions></Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The clerk of the circuit court is not required to mail to the purported owner of such property any such notice that pertains solely to the preserving of any covenant or restriction or any portion of a covenant or restriction; or</Text>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Publish once a week, for 2 consecutive weeks, the notice referred to in s. 712.05, with the official record book and page number in which such notice was recorded, in a newspaper as defined in chapter 50 in the county in which the property is located.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Failure of any purported owner to receive the mailed notice shall not affect the validity of the notice or vitiate the effect of the filing of such notice.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 63-133; s. 5, ch. 77-354; s. 7, ch. 82-205; s. 57, ch. 95-211; s. 4, ch. 97-202; s. 2, ch. 2003-79; s. 110, ch. 2003-402; s. 3, ch. 2010-104.</History>
+</Section>

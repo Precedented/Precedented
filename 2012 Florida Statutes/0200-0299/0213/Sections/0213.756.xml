@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.756" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Funds collected are state tax funds.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Funds collected from a purchaser under the representation that they are taxes provided for under the state revenue laws are state funds from the moment of collection and are not subject to refund absent proof that such funds have been refunded previously to the purchaser.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In any action by a purchaser against a retailer, dealer, or vendor to obtain a refund of or to otherwise recover taxes, fees, or surcharges collected by the retailer, dealer, or vendor from the purchaser:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The purchaser in the action has the burden of proving all elements of its claim for a refund by clear and convincing evidence;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The sole remedy in the action is damages measured by the difference between what the retailer, dealer, or vendor collected as a tax, fee, or surcharge and what the retailer, dealer, or vendor paid to the taxing authority plus any discount or collection allowance authorized by law and taken by the retailer, dealer, or vendor; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">It is an affirmative defense to the action when the retailer, dealer, or vendor remitted the amount collected from the purchaser to the appropriate taxing authority, less any discount or collection allowance authorized by law.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This subsection applies to those taxes enumerated in s. 72.011, excluding chapter 202 and that portion of chapter 203 collected thereunder, and also applies to taxes imposed under chapter 205.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection does not change the law regarding standing to claim a refund.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 41, ch. 91-112; s. 1, ch. 2005-184.</History>
+</Section>

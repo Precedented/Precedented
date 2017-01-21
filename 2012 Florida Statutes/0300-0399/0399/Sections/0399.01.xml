@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Alteration” means any change or addition to the vertical conveyance other than maintenance, repair, or replacement.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Certificate of operation” means a document issued by the department which indicates that the conveyance has had the required safety inspection and tests and that fees have been paid as provided in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Conveyance” means an elevator, dumbwaiter, escalator, moving sidewalk, platform lift, or stairway chairlift.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Business and Professional Regulation.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Hotels and Restaurants of the Department of Business and Professional Regulation.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Elevator” means one of the following mechanical devices:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A hoisting and lowering mechanism, equipped with a car and platform that moves in guide rails and serves two or more landings to transport material or passengers or both.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An escalator, which is a power-driven, inclined continuous stairway used for raising or lowering passengers.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A dumbwaiter, which is a hoisting and lowering mechanism equipped with a car of limited size which moves in guide rails and serves two or more landings.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A moving walk, which is a type of passenger-carrying device on which passengers stand or walk and in which the passenger-carrying surface remains parallel to its direction of motion and is uninterrupted.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An inclined stairway chairlift, which is a device used to transport physically handicapped persons over architectural barriers.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An inclined or vertical wheelchair lift, which is a device used to transport wheelchair handicapped persons over architectural barriers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Existing installation” means an installation defined as an “installation, existing” in the Florida Building Code.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Elevator Safety Technical Advisory Committee” means the committee appointed by the secretary of the Department of Business and Professional Regulation.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Private residence” means a separate dwelling or a separate apartment in a multiple dwelling which is occupied by members of a single-family unit.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Service maintenance contract” means a contract that provides for routine examination, lubrication, cleaning, adjustment, replacement of parts, and performance of applicable code-required safety tests such as on a traction elevator and annual relief pressure test on a hydraulic elevator and any other service, repair, and maintenance sufficient to ensure the safe operation of the elevator. A service maintenance contract shall be made available upon request of the department for purposes of oversight and monitoring.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Temporary operation inspection” means an inspection performed by a certified elevator inspector, the successful passage of which permits the temporary use of a noncompliant vertical conveyance as provided by rule.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Registered elevator company” means an entity registered with and authorized by the division employing persons to construct, install, inspect, maintain, or repair any vertical conveyance. Each registered elevator company must annually register with the division and maintain general liability insurance coverage in the minimum amounts set by rule.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Certified elevator inspector” is a natural person registered with and authorized by the division to construct, install, inspect, maintain, or repair any vertical conveyance, after having properly acquired the qualified elevator inspector credential as prescribed by the American Society of Mechanical Engineers.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Certified elevator technician” means a natural person authorized by the division to construct, install, maintain, or repair any vertical conveyance, after having been issued an elevator certificate of competency by the division. Each certified elevator technician must annually register with the division and be covered by general liability insurance coverage in the minimum amounts set by the division.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Elevator helper” means a natural person performing work under the direct supervision of an elevator certificate of competency holder to construct, install, maintain, or repair any vertical conveyance.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Elevator certificate of competency” means a credential issued by the division to any individual natural person successfully completing an examination as prescribed by rule and paying a nonrefundable fee of $50. Such credential shall be valid for and expire at the end of 1 year, and may be renewed by the division when the division receives proof of the elevator certificate of competency holder’s completion of 8 hours of continuing education from a provider approved by the department and a nonrefundable renewal fee of $50. The department shall adopt by rule criteria for providing approval and procedures for continuing education reporting.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An elevator certificate of competency may be issued only if the applicant meets the following requirements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Four years’ work experience in the construction, maintenance, service, and repair of conveyances covered by this chapter. This experience shall be verified by current or previously registered elevator companies as required by the division.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One of the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Proof of completion and successful passage of a written examination administered by the division or a provider approved by the division under standards it adopted by rule.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Proof of completion of an apprenticeship program for elevator mechanics which has standards substantially equivalent to those found in a national training program for elevator mechanics and is registered with the Bureau of Apprenticeship and Training of the United States Department of Labor or a state apprenticeship authority.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Proof of licensure or certification by a state or local jurisdiction in the United States having standards substantially equal to or more stringent than those of this chapter.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A licensed mechanical engineer whose license is in good standing may be granted an elevator certificate of competency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">All other building transportation terms are defined in the current Florida Building Code.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 24096, 1947; s. 1, ch. 57-227; ss. 16, 35, ch. 69-106; s. 10, ch. 71-157; s. 1, ch. 71-228; s. 151, ch. 71-377; s. 1, ch. 81-120; s. 2, ch. 81-318; ss. 1, 16, 17, ch. 83-145; s. 1, ch. 90-73; ss. 1, 8, ch. 93-16; s. 47, ch. 94-218; s. 6, ch. 2001-186; s. 3, ch. 2002-293; s. 6, ch. 2002-299; s. 1, ch. 2010-110.</History>
+</Section>

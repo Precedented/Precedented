@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0938.29" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Legal assistance; lien for payment of attorney’s fees or costs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A defendant who is convicted of a criminal act or a violation of probation or community control and who has received the assistance of the public defender’s office, a special assistant public defender, the office of criminal conflict and civil regional counsel, or a private conflict attorney, or who has received due process services after being found indigent for costs under s. 27.52, shall be liable for payment of the assessed application fee under s. 27.52 and attorney’s fees and costs. Attorney’s fees and costs shall be set in all cases at no less than $50 per case when a misdemeanor or criminal traffic offense is charged and no less than $100 per case when a felony offense is charged, including a proceeding in which the underlying offense is a violation of probation or community control. The court may set a higher amount upon a showing of sufficient proof of higher fees or costs incurred. For purposes of this section, “convicted” means a determination of guilt, or of violation of probation or community control, which is a result of a plea, trial, or violation proceeding, regardless of whether adjudication is withheld. The court shall include these fees and costs in every judgment rendered against the convicted person.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon entering a judgment of conviction, the defendant shall be liable to pay the attorney’s fees and costs in full after the judgment of conviction becomes final. The court shall impose the attorney’s fees and costs notwithstanding the defendant’s present ability to pay.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The defendant shall pay the application fee under s. 27.52(1)(b) and attorney’s fees and costs in full or in installments, at the time or times specified. The court may order payment of the assessed application fee and attorney’s fees and costs as a condition of probation, of suspension of sentence, or of withholding the imposition of sentence. All funds collected under this section shall be distributed as provided in s. 27.562.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is created in the name of the state a lien, enforceable as hereinafter provided, upon all the property, both real and personal, of any person who:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has received any assistance from any public defender of the state, from any special assistant public defender, from any office of criminal conflict and civil regional counsel, or from any private conflict attorney, or who has received due process services after being found indigent for costs; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is a parent of an accused minor or an accused adult tax-dependent person who is being, or has been, represented by any public defender of the state, by any special assistant public defender, by any office of criminal conflict and civil regional counsel, or by a private conflict attorney, or who is receiving or has received due process services after being found indigent for costs.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Such lien constitutes a claim against the defendant-recipient or parent and his or her estate, enforceable according to law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A judgment showing the name and residence of the defendant-recipient or parent shall be recorded in the public record, without cost, by the clerk of the circuit court in the county where the defendant-recipient or parent resides and in each county in which such defendant-recipient or parent then owns or later acquires any property. Such judgments shall be enforced on behalf of the state by the clerk of the circuit court of the county in which assistance was rendered. The lien against a parent shall remain in force notwithstanding the child becoming emancipated or the child reaching the age of majority.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court within the county wherein the defendant-recipient was tried or received the services of a public defender, special assistant public defender, office of criminal conflict and civil regional counsel, or appointed private legal counsel, or received due process services after being found indigent for costs, shall enforce, satisfy, compromise, settle, subordinate, release, or otherwise dispose of any debt or lien imposed under this section. A defendant-recipient or parent, liable to pay attorney’s fees or costs and who is not in willful default in the payment thereof, may, at any time, petition the court which entered the order for deferral of the payment of attorney’s fees or costs or of any unpaid portion thereof.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">No lien thus created shall be foreclosed upon the homestead of such defendant-recipient or parent, nor shall any defendant-recipient or parent liable for payment of attorney’s fees or costs be denied any of the protections afforded any other civil judgment debtor.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The court having jurisdiction of the defendant-recipient shall, at such stage of the proceedings as the court may deem appropriate, determine the value of the services of the public defender, special assistant public defender, office of criminal conflict and civil regional counsel, or appointed private legal counsel and costs, at which time the defendant-recipient or parent, after adequate notice thereof, shall have opportunity to be heard and offer objection to the determination, and to be represented by counsel, with due opportunity to exercise and be accorded the procedures and rights provided in the laws and court rules pertaining to civil cases at law.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 63-410; s. 7, ch. 67-539; s. 1, ch. 72-41; s. 1, ch. 77-264; s. 2, ch. 77-378; s. 10, ch. 79-400; s. 8, ch. 80-376; s. 1, ch. 83-256; s. 2, ch. 89-129; s. 142, ch. 95-147; s. 2, ch. 96-232; s. 7, ch. 97-107; s. 22, ch. 97-271; s. 128, ch. 2003-402; s. 86, ch. 2004-265; s. 61, ch. 2005-236; s. 113, ch. 2006-1; s. 29, ch. 2007-62; s. 45, ch. 2008-111; s. 33, ch. 2010-162.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 27.56.</Text>
+	</Note>
+</Section>

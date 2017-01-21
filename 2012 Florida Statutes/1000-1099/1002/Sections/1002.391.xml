@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.391" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Auditory-oral education programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Auditory-oral education program” means a program that develops and relies solely on listening skills and uses an implant or assistive hearing device for the purpose of relying on speech and spoken language skills as the method of communication.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Deaf or hard of hearing” means aided or unaided hearing loss that affects the processing of linguistic information and adversely affects performance in the educational environment. The degree of loss may range from mild to profound in accordance with criteria established by rule of the State Board of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“School” means a public or private school located in this state which can teach children who have obtained an implant or assistive hearing device, using faculty certified as listening and spoken language specialists.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The parent of a child who is deaf or hard of hearing and who meets the following requirements may enroll the child in an auditory-oral education program as a school of choice pursuant to s. 1002.20. Such child may continue attending the school and complete the development of listening and spoken language skills at the school. In order to enroll and attend, the child must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Have received an implant or assistive hearing device;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be between the ages of 3 and 7 years, or between the ages of 2 and 7 years when the school district elects to serve children with disabilities who are under the age of 3 years; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Be a resident of the state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The level of services shall be determined by the individual educational plan team or individualized family support plan team, which includes the child’s parent in accordance with the rules of the State Board of Education. A child is eligible for services under this section until the end of the school year in which he or she reaches the age of 7 years or after grade 2, whichever comes first.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2011-175.</History>
+</Section>

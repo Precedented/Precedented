@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0817.234" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">False and fraudulent insurance claims.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person commits insurance fraud punishable as provided in subsection (11) if that person, with the intent to injure, defraud, or deceive any insurer:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Presents or causes to be presented any written or oral statement as part of, or in support of, a claim for payment or other benefit pursuant to an insurance policy or a health maintenance organization subscriber or provider contract, knowing that such statement contains any false, incomplete, or misleading information concerning any fact or thing material to such claim;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Prepares or makes any written or oral statement that is intended to be presented to any insurer in connection with, or in support of, any claim for payment or other benefit pursuant to an insurance policy or a health maintenance organization subscriber or provider contract, knowing that such statement contains any false, incomplete, or misleading information concerning any fact or thing material to such claim;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Knowingly presents, causes to be presented, or prepares or makes with knowledge or belief that it will be presented to any insurer, purported insurer, servicing corporation, insurance broker, or insurance agent, or any employee or agent thereof, any false, incomplete, or misleading information or written or oral statement as part of, or in support of, an application for the issuance of, or the rating of, any insurance policy, or a health maintenance organization subscriber or provider contract; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Knowingly conceals information concerning any fact material to such application; or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Knowingly presents, causes to be presented, or prepares or makes with knowledge or belief that it will be presented to any insurer a claim for payment or other benefit under a personal injury protection insurance policy if the person knows that the payee knowingly submitted a false, misleading, or fraudulent application or other document when applying for licensure as a health care clinic, seeking an exemption from licensure as a health care clinic, or demonstrating compliance with part X of chapter 400.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All claims and application forms must contain a statement that is approved by the Office of Insurance Regulation of the Financial Services Commission which clearly states in substance the following: “Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of claim or an application containing any false, incomplete, or misleading information is guilty of a felony of the third degree.” This paragraph does not apply to reinsurance contracts, reinsurance agreements, or reinsurance claims transactions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any physician licensed under chapter 458, osteopathic physician licensed under chapter 459, chiropractic physician licensed under chapter 460, or other practitioner licensed under the laws of this state who knowingly and willfully assists, conspires with, or urges any insured party to fraudulently violate any of the provisions of this section or part XI of chapter 627, or any person who, due to such assistance, conspiracy, or urging by said physician, osteopathic physician, chiropractic physician, or practitioner, knowingly and willfully benefits from the proceeds derived from the use of such fraud, commits insurance fraud, punishable as provided in subsection (11). In the event that a physician, osteopathic physician, chiropractic physician, or practitioner is adjudicated guilty of a violation of this section, the Board of Medicine as set forth in chapter 458, the Board of Osteopathic Medicine as set forth in chapter 459, the Board of Chiropractic Medicine as set forth in chapter 460, or other appropriate licensing authority shall hold an administrative hearing to consider the imposition of administrative sanctions as provided by law against said physician, osteopathic physician, chiropractic physician, or practitioner.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to any other provision of law, systematic upcoding by a provider, as defined in s. 641.19(14), with the intent to obtain reimbursement otherwise not due from an insurer is punishable as provided in s. 641.52(5).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any attorney who knowingly and willfully assists, conspires with, or urges any claimant to fraudulently violate any of the provisions of this section or part XI of chapter 627, or any person who, due to such assistance, conspiracy, or urging on such attorney’s part, knowingly and willfully benefits from the proceeds derived from the use of such fraud, commits insurance fraud, punishable as provided in subsection (11).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person or governmental unit licensed under chapter 395 to maintain or operate a hospital, and any administrator or employee of any such hospital, who knowingly and willfully allows the use of the facilities of said hospital by an insured party in a scheme or conspiracy to fraudulently violate any of the provisions of this section or part XI of chapter 627 commits insurance fraud, punishable as provided in subsection (11). Any adjudication of guilt for a violation of this subsection, or the use of business practices demonstrating a pattern indicating that the spirit of the law set forth in this section or part XI of chapter 627 is not being followed, shall be grounds for suspension or revocation of the license to operate the hospital or the imposition of an administrative penalty of up to $5,000 by the licensing agency, as set forth in chapter 395.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any insurer damaged as a result of a violation of any provision of this section when there has been a criminal adjudication of guilt shall have a cause of action to recover compensatory damages, plus all reasonable investigation and litigation expenses, including attorneys’ fees, at the trial and appellate courts.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">For the purposes of this section, “statement” includes, but is not limited to, any notice, statement, proof of loss, bill of lading, invoice, account, estimate of property damages, bill for services, diagnosis, prescription, hospital or doctor records, X ray, test result, or other evidence of loss, injury, or expense.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It shall constitute a material omission and insurance fraud, punishable as provided in subsection (11), for any service provider, other than a hospital, to engage in a general business practice of billing amounts as its usual and customary charge, if such provider has agreed with the insured or intends to waive deductibles or copayments, or does not for any other reason intend to collect the total amount of such charge. With respect to a determination as to whether a service provider has engaged in such general business practice, consideration shall be given to evidence of whether the physician or other provider made a good faith attempt to collect such deductible or copayment. This paragraph does not apply to physicians or other providers who waive deductibles or copayments or reduce their bills as part of a bodily injury settlement or verdict.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The provisions of this section shall also apply as to any insurer or adjusting firm or its agents or representatives who, with intent, injure, defraud, or deceive any claimant with regard to any claim. The claimant shall have the right to recover the damages provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An insurer, or any person acting at the direction of or on behalf of an insurer, may not change an opinion in a mental or physical report prepared under <Reference Number="1"/>s. 627.736(8) or direct the physician preparing the report to change such opinion; however, this provision does not preclude the insurer from calling to the attention of the physician errors of fact in the report based upon information in the claim file. Any person who violates this paragraph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any person intending to defraud any other person to solicit or cause to be solicited any business from a person involved in a motor vehicle accident for the purpose of making, adjusting, or settling motor vehicle tort claims or claims for personal injury protection benefits required by s. 627.736. Any person who violates the provisions of this paragraph commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. A person who is convicted of a violation of this subsection shall be sentenced to a minimum term of imprisonment of 2 years.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person may not solicit or cause to be solicited any business from a person involved in a motor vehicle accident by any means of communication other than advertising directed to the public for the purpose of making motor vehicle tort claims or claims for personal injury protection benefits required by s. 627.736, within 60 days after the occurrence of the motor vehicle accident. Any person who violates this paragraph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A lawyer, health care practitioner as defined in s. 456.001, or owner or medical director of a clinic required to be licensed pursuant to s. 400.9905 may not, at any time after 60 days have elapsed from the occurrence of a motor vehicle accident, solicit or cause to be solicited any business from a person involved in a motor vehicle accident by means of in person or telephone contact at the person’s residence, for the purpose of making motor vehicle tort claims or claims for personal injury protection benefits required by s. 627.736. Any person who violates this paragraph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Charges for any services rendered by any person who violates this subsection in regard to the person for whom such services were rendered are noncompensable and unenforceable as a matter of law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A person may not organize, plan, or knowingly participate in an intentional motor vehicle crash or a scheme to create documentation of a motor vehicle crash that did not occur for the purpose of making motor vehicle tort claims or claims for personal injury protection benefits as required by s. 627.736. Any person who violates this subsection commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. A person who is convicted of a violation of this subsection shall be sentenced to a minimum term of imprisonment of 2 years.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">A licensed health care practitioner who is found guilty of insurance fraud under this section for an act relating to a personal injury protection insurance policy loses his or her license to practice for 5 years and may not receive reimbursement for personal injury protection benefits for 10 years.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">If the value of any property involved in a violation of this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is less than $20,000, the offender commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is $20,000 or more, but less than $100,000, the offender commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is $100,000 or more, the offender commits a felony of the first degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">In addition to any criminal liability, a person convicted of violating any provision of this section for the purpose of receiving insurance proceeds from a motor vehicle insurance contract is subject to a civil penalty.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except for a violation of subsection (9), the civil penalty shall be:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A fine up to $5,000 for a first offense.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A fine greater than $5,000, but not to exceed $10,000, for a second offense.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A fine greater than $10,000, but not to exceed $15,000, for a third or subsequent offense.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The civil penalty for a violation of subsection (9) must be at least $15,000 but may not exceed $50,000.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The civil penalty shall be paid to the Insurance Regulatory Trust Fund within the Department of Financial Services and used by the department for the investigation and prosecution of insurance fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">This subsection does not prohibit a state attorney from entering into a written agreement in which the person charged with the violation does not admit to or deny the charges but consents to payment of the civil penalty.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Insurer” means any insurer, health maintenance organization, self-insurer, self-insurance fund, or similar entity or person regulated under chapter 440 or chapter 641 or by the Office of Insurance Regulation under the Florida Insurance Code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Property” means property as defined in s. 812.012.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Value” means value as defined in s. 812.012.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 76-266; s. 36, ch. 77-468; s. 3, ch. 78-258; s. 1, ch. 79-81; s. 487, ch. 81-259; s. 9, ch. 83-28; s. 24, ch. 88-370; s. 41, ch. 91-110; s. 123, ch. 92-149; s. 8, ch. 95-340; s. 1253, ch. 97-102; s. 65, ch. 97-264; s. 298, ch. 98-166; s. 6, ch. 99-204; s. 11, ch. 2000-252; s. 7, ch. 2001-271; s. 1909, ch. 2003-261; s. 10, ch. 2003-411; s. 16, ch. 2006-305; s. 19, ch. 2011-174; s. 13, ch. 2012-197.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 627.736(7) relates to mental and physical examination and related reports; subsection (8) relates to attorney′s fees.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 627.7375.</Text>
+	</Note>
+</Section>

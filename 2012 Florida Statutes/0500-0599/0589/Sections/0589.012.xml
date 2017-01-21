@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0589.012" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Friends of Florida State Forests Program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Friends of Florida State Forests Program is established within the Department of Agriculture and Consumer Services. Its purpose is to provide support and assistance for existing and future programs of the Florida Forest Service. These programs must be consistent with the Florida Forest Service mission statement which is incorporated by reference. The purpose of the program is to:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Conduct programs and activities related to environmental education, fire prevention, recreation, and forest management.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Identify and pursue methods to provide resources and materials for these programs.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Establish a statewide method to integrate these resources and materials.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 97-220; s. 25, ch. 2012-7.</History>
+</Section>

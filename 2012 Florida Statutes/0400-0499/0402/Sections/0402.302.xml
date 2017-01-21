@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0402.302" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Child care” means the care, protection, and supervision of a child, for a period of less than 24 hours a day on a regular basis, which supplements parental care, enrichment, and health supervision for the child, in accordance with his or her individual needs, and for which a payment, fee, or grant is made for care.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Child care facility” includes any child care center or child care arrangement which provides child care for more than five children unrelated to the operator and which receives a payment, fee, or grant for any of the children receiving care, wherever operated, and whether or not operated for profit. The following are not included:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Public schools and nonpublic schools and their integral programs, except as provided in s. 402.3025;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Summer camps having children in full-time residence;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Summer day camps;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Bible schools normally conducted during vacation periods; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Operators of transient establishments, as defined in chapter 509, which provide child care services solely for the guests of their establishment or resort, provided that all child care personnel of the establishment are screened according to the level 2 screening requirements of chapter 435.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Child care personnel” means all owners, operators, employees, and volunteers working in a child care facility. The term does not include persons who work in a child care facility after hours when children are not present or parents of children in a child care facility. For purposes of screening, the term includes any member, over the age of 12 years, of a child care facility operator’s family, or person, over the age of 12 years, residing with a child care facility operator if the child care facility is located in or adjacent to the home of the operator or if the family member of, or person residing with, the child care facility operator has any direct contact with the children in the facility during its hours of operation. Members of the operator’s family or persons residing with the operator who are between the ages of 12 years and 18 years are not required to be fingerprinted but must be screened for delinquency records. For purposes of screening, the term also includes persons who work in child care programs that provide care for children 15 hours or more each week in public or nonpublic schools, family day care homes, or programs otherwise exempted under s. 402.316. The term does not include public or nonpublic school personnel who are providing care during regular school hours, or after hours for activities related to a school’s program for grades kindergarten through 12. A volunteer who assists on an intermittent basis for less than 10 hours per month is not included in the term “personnel” for the purposes of screening and training if a person who meets the screening requirement of s. 402.305(2) is always present and has the volunteer in his or her line of sight. Students who observe and participate in a child care facility as a part of their required coursework are not considered child care personnel, provided such observation and participation are on an intermittent basis and a person who meets the screening requirement of s. 402.305(2) is always present and has the student in his or her line of sight.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Child welfare provider” means a licensed child-caring or child-placing agency.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Children and Family Services.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Drop-in child care” means child care provided occasionally in a child care facility in a shopping mall or business establishment where a child is in care for no more than a 4-hour period and the parent remains on the premises of the shopping mall or business establishment at all times. Drop-in child care arrangements shall meet all requirements for a child care facility unless specifically exempted.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Evening child care” means child care provided during the evening hours and may encompass the hours of 6:00 p.m. to 7:00 a.m. to accommodate parents who work evenings and late-night shifts.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Family day care home” means an occupied residence in which child care is regularly provided for children from at least two unrelated families and which receives a payment, fee, or grant for any of the children receiving care, whether or not operated for profit. Household children under 13 years of age, when on the premises of the family day care home or on a field trip with children enrolled in child care, shall be included in the overall capacity of the licensed home. A family day care home shall be allowed to provide care for one of the following groups of children, which shall include household children under 13 years of age:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A maximum of four children from birth to 12 months of age.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A maximum of three children from birth to 12 months of age, and other children, for a maximum total of six children.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A maximum of six preschool children if all are older than 12 months of age.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A maximum of 10 children if no more than 5 are preschool age and, of those 5, no more than 2 are under 12 months of age.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Household children” means children who are related by blood, marriage, or legal adoption to, or who are the legal wards of, the family day care home operator, the large family child care home operator, or an adult household member who permanently or temporarily resides in the home. Supervision of the operator’s household children shall be left to the discretion of the operator unless those children receive subsidized child care through the School Readiness Program pursuant to s. 411.0101 to be in the home.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Indoor recreational facility” means an indoor commercial facility which is established for the primary purpose of entertaining children in a planned fitness environment through equipment, games, and activities in conjunction with food service and which provides child care for a particular child no more than 4 hours on any one day. An indoor recreational facility must be licensed as a child care facility under s. 402.305, but is exempt from the minimum outdoor-square-footage-per-child requirement specified in that section, if the indoor recreational facility has, at a minimum, 3,000 square feet of usable indoor floor space.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Large family child care home” means an occupied residence in which child care is regularly provided for children from at least two unrelated families, which receives a payment, fee, or grant for any of the children receiving care, whether or not operated for profit, and which has at least two full-time child care personnel on the premises during the hours of operation. One of the two full-time child care personnel must be the owner or occupant of the residence. A large family child care home must first have operated as a licensed family day care home for 2 years, with an operator who has had a child development associate credential or its equivalent for 1 year, before seeking licensure as a large family child care home. Household children under 13 years of age, when on the premises of the large family child care home or on a field trip with children enrolled in child care, shall be included in the overall capacity of the licensed home. A large family child care home shall be allowed to provide care for one of the following groups of children, which shall include household children under 13 years of age:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A maximum of 8 children from birth to 24 months of age.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A maximum of 12 children, with no more than 4 children under 24 months of age.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Local licensing agency” means any agency or individual designated by the county to license child care facilities.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Operator” means any onsite person ultimately responsible for the overall operation of a child care facility, whether or not he or she is the owner or administrator of such facility.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Owner” means the person who is licensed to operate the child care facility.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Screening” means the act of assessing the background of child care personnel and volunteers and includes, but is not limited to, employment history checks, local criminal records checks through local law enforcement agencies, fingerprinting for all purposes and checks in this subsection, statewide criminal records checks through the Department of Law Enforcement, and federal criminal records checks through the Federal Bureau of Investigation.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Secretary” means the Secretary of Children and Family Services.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Substantial compliance” means that level of adherence which is sufficient to safeguard the health, safety, and well-being of all children under care. Substantial compliance is greater than minimal adherence but not to the level of absolute adherence. Where a violation or variation is identified as the type which impacts, or can be reasonably expected within 90 days to impact, the health, safety, or well-being of a child, there is no substantial compliance.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Weekend child care” means child care provided between the hours of 6 p.m. on Friday and 6 a.m. on Monday.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 74-113; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 6, 7, ch. 83-248; s. 2, ch. 84-551; s. 23, ch. 85-54; s. 22, ch. 87-238; s. 2, ch. 88-391; s. 1, ch. 90-35; s. 34, ch. 90-306; s. 7, ch. 91-300; ss. 1, 2, ch. 93-115; s. 1, ch. 94-257; s. 1059, ch. 95-148; s. 57, ch. 95-228; s. 75, ch. 96-175; s. 1, ch. 97-63; s. 1, ch. 98-165; s. 8, ch. 99-304; s. 16, ch. 2000-253; s. 989, ch. 2002-387; s. 57, ch. 2004-267; s. 2, ch. 2006-91; s. 22, ch. 2010-114; s. 1, ch. 2010-158; s. 2, ch. 2011-75.</History>
+</Section>

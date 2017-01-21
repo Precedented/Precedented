@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIX">
+	<ChapterNumber>672</ChapterNumber>
+	<ChapterName xml:space="preserve">Uniform Commercial Code: sales</ChapterName>
+	<TitleNote>
+		<Text xml:space="preserve" Style="AlignCenter"><Font xml:space="preserve" Style="Bold">ARTICLE 2</Font></Text>
+	</TitleNote>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Short title, general construction,<NewLine />and subject matter</PartTitle>
+		<Section Number="0672.101" />
+		<Section Number="0672.102" />
+		<Section Number="0672.103" />
+		<Section Number="0672.104" />
+		<Section Number="0672.105" />
+		<Section Number="0672.106" />
+		<Section Number="0672.107" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Form, formation, and readjustment<NewLine />of contract</PartTitle>
+		<Section Number="0672.201" />
+		<Section Number="0672.202" />
+		<Section Number="0672.203" />
+		<Section Number="0672.204" />
+		<Section Number="0672.205" />
+		<Section Number="0672.206" />
+		<Section Number="0672.207" />
+		<Section Number="0672.208" />
+		<Section Number="0672.209" />
+		<Section Number="0672.210" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">General obligation and<NewLine />construction of contract</PartTitle>
+		<Section Number="0672.301" />
+		<Section Number="0672.302" />
+		<Section Number="0672.303" />
+		<Section Number="0672.304" />
+		<Section Number="0672.305" />
+		<Section Number="0672.306" />
+		<Section Number="0672.307" />
+		<Section Number="0672.308" />
+		<Section Number="0672.309" />
+		<Section Number="0672.310" />
+		<Section Number="0672.311" />
+		<Section Number="0672.312" />
+		<Section Number="0672.313" />
+		<Section Number="0672.314" />
+		<Section Number="0672.315" />
+		<Section Number="0672.316" />
+		<Section Number="0672.317" />
+		<Section Number="0672.318" />
+		<Section Number="0672.319" />
+		<Section Number="0672.320" />
+		<Section Number="0672.321" />
+		<Section Number="0672.322" />
+		<Section Number="0672.323" />
+		<Section Number="0672.324" />
+		<Section Number="0672.325" />
+		<Section Number="0672.326" />
+		<Section Number="0672.327" />
+		<Section Number="0672.328" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Title, creditors, and good<NewLine />faith purchasers</PartTitle>
+		<Section Number="0672.401" />
+		<Section Number="0672.402" />
+		<Section Number="0672.403" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Performance</PartTitle>
+		<Section Number="0672.501" />
+		<Section Number="0672.502" />
+		<Section Number="0672.503" />
+		<Section Number="0672.504" />
+		<Section Number="0672.505" />
+		<Section Number="0672.506" />
+		<Section Number="0672.507" />
+		<Section Number="0672.508" />
+		<Section Number="0672.509" />
+		<Section Number="0672.510" />
+		<Section Number="0672.511" />
+		<Section Number="0672.512" />
+		<Section Number="0672.513" />
+		<Section Number="0672.514" />
+		<Section Number="0672.515" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Breach, repudiation, and excuse</PartTitle>
+		<Section Number="0672.601" />
+		<Section Number="0672.602" />
+		<Section Number="0672.603" />
+		<Section Number="0672.604" />
+		<Section Number="0672.605" />
+		<Section Number="0672.606" />
+		<Section Number="0672.607" />
+		<Section Number="0672.608" />
+		<Section Number="0672.609" />
+		<Section Number="0672.610" />
+		<Section Number="0672.611" />
+		<Section Number="0672.612" />
+		<Section Number="0672.613" />
+		<Section Number="0672.614" />
+		<Section Number="0672.615" />
+		<Section Number="0672.616" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Remedies</PartTitle>
+		<Section Number="0672.701" />
+		<Section Number="0672.702" />
+		<Section Number="0672.703" />
+		<Section Number="0672.704" />
+		<Section Number="0672.705" />
+		<Section Number="0672.706" />
+		<Section Number="0672.707" />
+		<Section Number="0672.708" />
+		<Section Number="0672.709" />
+		<Section Number="0672.710" />
+		<Section Number="0672.711" />
+		<Section Number="0672.712" />
+		<Section Number="0672.713" />
+		<Section Number="0672.714" />
+		<Section Number="0672.715" />
+		<Section Number="0672.716" />
+		<Section Number="0672.717" />
+		<Section Number="0672.718" />
+		<Section Number="0672.719" />
+		<Section Number="0672.720" />
+		<Section Number="0672.721" />
+		<Section Number="0672.722" />
+		<Section Number="0672.723" />
+		<Section Number="0672.724" />
+	</Part>
+</Chapter>

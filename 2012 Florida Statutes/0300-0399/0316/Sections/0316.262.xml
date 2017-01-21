@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.262" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Performance ability of motor vehicle brakes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Every motor vehicle and combination of vehicles, at all times and under all conditions of loading, upon application of the service brake, shall be capable of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Developing a braking force that is not less than the percentage of its gross weight tabulated herein for its classification;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Decelerating to a stop from not more than 20 miles per hour at not less than the feet per second per second tabulated herein for its classification; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Stopping from a speed of 20 miles per hour in not more than the distance tabulated herein for its classification, such distance to be measured from the point at which movement of the service brake pedal or control begins.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Tests for deceleration and stopping distance shall be made on a substantially level (not to exceed plus or minus 1 percent grade), dry, smooth, hard surface that is free from loose material.</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="8" />
+					<Column Width="26" />
+					<Column Width="22" />
+					<Column Width="22" />
+					<Column Width="22" />
+				</ColumnDefinitions>
+				<CellPadding Right="6"/>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Top" ColSpan="2" Border="Bottom">
+							<Text xml:space="preserve">Classification of vehicles</Text>
+						</Cell>
+						<Cell VerticalAlign="Top" Border="Bottom">
+							<Text xml:space="preserve">Braking force as a percentage of gross vehicle or combination weight</Text>
+						</Cell>
+						<Cell VerticalAlign="Top" Border="Bottom">
+							<Text xml:space="preserve">Deceleration in feet per second per second</Text>
+						</Cell>
+						<Cell VerticalAlign="Top" Border="Bottom">
+							<Text xml:space="preserve">Brake system application and braking distance in feet from an initial speed of 20 mph</Text>
+						</Cell>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">A</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Passenger vehicles with a seating capacity of 10 people or less including driver, not having a manufacturer’s gross vehicle weight rating..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">52.8%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">17</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">25</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">B</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Single unit vehicles with a manufacturer’s gross vehicle weight rating of 10,000 pounds or less..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">30</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">C-1</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Single unit vehicles with a manufacturer’s gross weight rating of more than 10,000 pounds..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">40</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">C-2</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Combination of a two-axle towing vehicle and a trailer with a gross trailer weight of 3,000 pounds or less..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">40</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">C-3</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Buses, regardless of the number of axles, not having a manufacturer’s gross weight rating..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">40</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">C-4</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">All combinations of vehicles in driveaway-towaway operations..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">40</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Top">
+							<Text xml:space="preserve">D</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">All other vehicles and combinations of vehicles..........</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">43.5%</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">14</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">50</Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A violation of this section is a noncriminal traffic infraction, punishable as a nonmoving violation as provided in chapter 318.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-135; s. 2, ch. 87-225; s. 200, ch. 99-248.</History>
+</Section>

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.194" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Corporate income tax credits for spaceflight projects.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section may be cited as the “Florida Space Business Incentives Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PURPOSE.<EmDash />The purpose of this section is to create incentives to attract launch, payload, research and development, and other space business to this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Administrative support” means that 51 percent or more of an activity supports a certified spaceflight business.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Certified” means that a spaceflight business has been certified by the Department of Economic Opportunity as meeting all of the requirements necessary to obtain at least one of the approved tax credits available under this section, including approval to transfer a credit.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“New employee” means a state resident who begins or maintains full-time employment in this state with a spaceflight business on or after October 1, 2011. The term does not include a person who is a partner, majority stockholder, or owner of the business or a person who is employed in a temporary construction job or primarily involved with the construction of real property.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“New job” means the full-time employment of an employee in a manner that is consistent with terms used by the Department of Economic Opportunity and the United States Department of Labor for purposes of reemployment assistance tax administration and employment estimation. In order to meet the requirement for certification specified in paragraph (5)(b), a new job must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Pay new employees at least 115 percent of the statewide or countywide average annual private sector wage for the 3 taxable years immediately preceding filing an application for certification;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Require a new employee to perform duties on a regular full-time basis in this state for an average of at least 36 hours per week each month for the 3 taxable years immediately preceding filing an application for certification; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Not be held by a person who has previously been included as a new employee on an application for any credit authorized under this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Payload” means an object built or assembled in this state to be placed into earth’s upper atmospheres or space.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Reentry” means to return or attempt to return an object from earth’s upper atmospheres or space.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Reentry service” means an activity conducted in this state related to preparing a reentry vehicle and any payload for reentry and the reentry.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Space vehicle” means any spacecraft, satellite, space station, upper-stage, launch vehicle, reentry vehicle, and related ground-support systems and equipment.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Spaceflight business” means a business that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is registered with the Secretary of State to do business in this state; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is currently engaged in a spaceflight project. A spaceflight business may participate in more than one spaceflight project at a time and may conduct work on a commercial, governmental, or United States defense-related spaceflight project.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Spaceflight project” means any of the following activities performed in this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Designing, manufacturing, testing, or assembling a space vehicle or components thereof;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Providing a launch service, payload processing service, or reentry service;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Providing the payload for a launch vehicle or reentry space vehicle;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Administrative support; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Providing the launch vehicle or the reentry vehicle for space tourists.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Taxpayer” has the same meaning as provided in s. 220.03.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TAX CREDITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If approved and certified pursuant to subsection (5), the following tax credits may be taken on a return for a taxable year beginning on or after October 1, 2015:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A certified spaceflight business may take a nontransferable corporate income tax credit for up to 50 percent of the business’s tax liability under this chapter for the taxable year in which the credit is taken. The maximum nontransferable tax credit amount that may be approved per taxpayer for a taxable year is $1 million. No more than $3 million in total tax credits pursuant to this subparagraph may be certified pursuant to subsection (5). No credit may be approved after October 1, 2017.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A certified spaceflight business may transfer, in whole or in part, its Florida net operating loss that would otherwise be available to be taken on a return filed under this chapter, provided that the activity giving rise to such net operating loss must have occurred after July 1, 2011. The transfer allowed under this subparagraph will be in the form of a transferable tax credit equal to the amount of the net operating loss eligible to be transferred. The maximum transferable tax credit amount that may be approved per taxpayer for a taxable year is $2.5 million. No more than $7 million in total tax credits pursuant to this subparagraph may be certified pursuant to subsection (5). No credit may be approved after October 1, 2017.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">In order to transfer the credit, the business must:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Have been approved to transfer the tax credit for the taxable year in which it is transferred;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Have incurred a qualifying net operating loss on activity in this state after July 1, 2011, directly associated with one or more spaceflight projects in any of its 3 previous taxable years;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">Not be 50 percent or more owned or controlled, directly or indirectly, by another corporation that has demonstrated positive net income in any of the 3 previous taxable years of ongoing operations; and</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">Not be part of a consolidated group of affiliated corporations, as filed for federal income tax purposes, which in the aggregate demonstrated positive net income in any of the 3 previous taxable years.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The credit that may be transferred by a certified spaceflight business:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Is limited to the amount of eligible net operating losses incurred in the immediate 3 taxable years before the transfer; and</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Must be directly associated with a spaceflight project in this state as verified through an audit or examination by a certified public accountant licensed to do business in this state and as verified by the Department of Economic Opportunity.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each certified spaceflight business may only be approved for a credit under subparagraph (a)1. once and may only be approved to transfer a tax credit under subparagraph (a)2. once, and a certified spaceflight business may not be approved for both in a single state fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Credits approved under subparagraph (a)1. may be taken only against the corporate income tax liability generated by or arising out of a spaceflight project in this state, as verified through an audit or examination by a certified public accountant licensed to do business in this state and as verified by the Department of Economic Opportunity.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A certified spaceflight business may not file a consolidated return in order to claim the tax incentives described in this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The certified spaceflight business or transferee must demonstrate to the satisfaction of the Department of Economic Opportunity and the department that it is eligible to take the credits approved under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">APPLICATION AND CERTIFICATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In order to claim a tax credit under this section, a spaceflight business must first submit an application to the Department of Economic Opportunity for approval to earn tax credits or create transferable tax credits. The application must be filed by the date established by the Department of Economic Opportunity. In addition to any information that the Department of Economic Opportunity may require, the applicant must provide a complete description of the activity in this state which demonstrates to the Department of Economic Opportunity the applicant’s likelihood to be certified to take or transfer a credit. The applicant must also provide a description of the total amount and type of credits for which approval is sought. The Department of Economic Opportunity may consult with Space Florida regarding the qualifications of an applicant. The applicant shall provide an affidavit certifying that all information contained in the application is true and correct.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Approval of the credits shall be provided on a first-come, first-served basis, based on the date the completed applications are received by the Department of Economic Opportunity. A taxpayer may not submit more than one completed application per state fiscal year. The Department of Economic Opportunity may not accept an incomplete placeholder application, and the submission of such an application will not secure a place in the first-come, first-served application line.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity has 60 days after the receipt of a completed application within which to issue a notice of intent to deny or approve an application for credits. The Department of Economic Opportunity must ensure that the corporate income tax credits approved for all applicants do not exceed the limits provided in this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In order to take a tax credit under subparagraph (a)1. or, if applicable, to transfer an approved credit under subparagraph (a)2., a spaceflight business must submit an application for certification to the Department of Economic Opportunity along with a nonrefundable $250 fee.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The application must include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The name and physical in-state address of the taxpayer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Documentation demonstrating to the satisfaction of the Department of Economic Opportunity that:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The taxpayer is a spaceflight business.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The business has engaged in a qualifying spaceflight project before taking or transferring a credit under this section.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">In addition to any requirement specific to a credit, documentation that the business has:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Created 35 new jobs in this state directly associated with spaceflight projects during its immediately preceding 3 taxable years. The business shall be deemed to have created new jobs if the number of full-time jobs located in this state at the time of application for certification is greater than the total number of full-time jobs located in this state at the time of application for approval to earn credits; and</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Invested a total of at least $15 million in this state on a spaceflight project during its immediately preceding 3 taxable years.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The total amount and types of credits sought.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">An acknowledgment that a transfer of a tax credit is to be accomplished pursuant to subsection (5).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">A copy of an audit or audits of the preceding 3 taxable years, prepared by a certified public accountant licensed to practice in this state, which identifies that portion of the business’s activities in this state related to spaceflight projects in this state.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">An acknowledgment that the business must file an annual report on the spaceflight project’s progress with the Department of Economic Opportunity.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Any other information necessary to demonstrate that the applicant meets the job creation, investment, and other requirements of this section.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Within 60 days after receipt of the application for certification, the Department of Economic Opportunity shall evaluate the application and recommend the business for certification or denial. The executive director of the Department of Economic Opportunity must approve or deny the application within 30 days after receiving the recommendation. If approved, the Department of Economic Opportunity must provide a letter of certification to the applicant consistent with any restrictions imposed. If the Department of Economic Opportunity denies any part of the requested credit, the Department of Economic Opportunity must inform the applicant of the grounds for the denial. A copy of the certification shall be submitted to the department within 10 days after the executive director’s approval.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">TRANSFERABILITY OF CREDIT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A certified spaceflight business allowed to transfer an approved credit, in whole or in part, to a taxpayer by written agreement may do so without transferring any ownership interest in the property generating the credit or any interest in the entity owning such property.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In order to perfect the transfer, the transferor shall provide the department with a written transfer statement that has been approved by the Department of Economic Opportunity notifying the department of the transferor’s intent to transfer the tax credits to the transferee; the date that the transfer is effective; the transferee’s name, address, and federal taxpayer identification number; the tax period; and the amount of tax credits to be transferred. Upon receipt of the approved transfer statement, the department shall provide the transferee and the Department of Economic Opportunity with a certificate reflecting the tax credit amounts transferred. A copy of the certificate must be attached to each tax return for which the transferee seeks to apply the credits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">AUDIT AUTHORITY; RECAPTURE OF CREDITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to its existing audit and investigative authority, the department may perform any additional financial and technical audits and investigations, including examining the accounts, books, and financial records of the tax credit applicant, which are necessary for verifying the accuracy of the return and to ensure compliance with this section. If requested by the department, the Department of Economic Opportunity and Space Florida must provide technical assistance for any technical audits or examinations performed under this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Grounds for forfeiture of previously claimed tax credits approved under this section exist if the department determines, as a result of an audit or examination, or from information received from the Department of Economic Opportunity, that a certified spaceflight business, or in the case of transferred tax credits, a taxpayer received tax credits for which the certified spaceflight business or taxpayer was not entitled. The spaceflight business or transferee must file an amended return reflecting the disallowed credits and paying any tax due as a result of the amendment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If an amendment to, recomputation of, or redetermination of a certified spaceflight business’s Florida corporate income tax return changes an item entered into the computation of a claimed credit, the taxpayer must notify the department by filing an amended return. The amount of any credit award not supported by the amended return shall be deemed a deficiency that must be remitted with the amended return and is subject to s. 220.23. The spaceflight business is also liable for a penalty equal to the credit claimed or transferred, reduced in proportion to the amount of the net operating loss certified for transfer which is disallowed over the amount of the net operating loss certified for the credit. The certified business and its successors must maintain all records necessary to support the reported net operating loss.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity may revoke or modify a certification granting eligibility for tax credits if it finds that the certified spaceflight business made a false statement or representation in any application, record, report, plan, or other document filed in an attempt to receive tax credits under this section. The Department of Economic Opportunity shall immediately notify the department of any revoked or modified orders affecting previously granted tax credits. The certified spaceflight business must also notify the department of any change in its claimed tax credit.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The certified spaceflight business must file with the department an amended return or other report required by the department by rule and pay any required tax and interest within 60 days after the certified business receives notification from the Department of Economic Opportunity that previously approved tax credits have been revoked or modified. If the revocation or modification order is contested, the spaceflight business must file the amended return or other report within 60 days after a final order is issued.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The department may assess an additional tax, penalty, or interest pursuant to s. 95.091.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity, in consultation with Space Florida, shall adopt rules to administer this section, including rules relating to application forms for credit approval and certification, and the application and certification procedures, guidelines, and requirements necessary to administer this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules to administer this section, including rules relating to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The forms required to claim a tax credit under this section, the requirements and basis for establishing an entitlement to a credit, and the examination and audit procedures required to administer this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The implementation and administration of provisions allowing the transfer of a net operating loss as a tax credit, including rules that prescribe forms, reporting requirements, and specific procedures, guidelines, and requirements necessary to perform the transfer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The minimum portion of the credit which is available for transfer.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">ANNUAL REPORT.<EmDash />Beginning in 2014, the Department of Economic Opportunity, in cooperation with Space Florida and the department, shall submit an annual report summarizing activities relating to the Florida Space Business Incentives Act established under this section to the Governor, the President of the Senate, and the Speaker of the House of Representatives by each November 30.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">NONAPPLICABILITY.<EmDash />This section does not apply to returns filed for any tax period before October 1, 2015.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 2011-76; s. 51, ch. 2012-30; s. 29, ch. 2012-96.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

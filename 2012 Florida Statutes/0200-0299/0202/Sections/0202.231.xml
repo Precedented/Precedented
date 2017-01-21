@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0202.231" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Provision of information to local taxing jurisdictions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall provide a monthly report to each jurisdiction imposing the tax authorized by s. 202.19. Each report shall contain the following information for the jurisdiction which is receiving the report: the name and other information necessary to identify each dealer providing service in the jurisdiction, including each dealer’s federal employer identification number; the gross taxable sales reported by each dealer; the amount of the dealer’s collection allowance; and any adjustments specified on the return, including audit assessments or refunds, and interest or penalties, affecting the net tax from each dealer which is being remitted to the jurisdiction. The report shall total the net amount transferred to the jurisdiction, showing the net taxes remitted by dealers less the administrative fees deducted by the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Monthly reports shall be transmitted by the department to each municipality and county through a secure electronic mail system or by other suitable written or electronic means.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The gross taxable sales and the total net amount transferred to the jurisdiction, showing the net taxes remitted by dealers less the administrative fees deducted by the department contained in the monthly reports required by this section, shall be aggregated on a jurisdiction-by-jurisdiction basis, and the aggregate jurisdiction-by-jurisdiction information shall be made available by the department to the public through the department’s website for each fiscal year this chapter has been in effect.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2001-140; s. 7, ch. 2012-70.</History>
+</Section>

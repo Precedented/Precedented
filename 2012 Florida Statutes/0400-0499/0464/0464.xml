@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXII">
+	<ChapterNumber>464</ChapterNumber>
+	<ChapterName xml:space="preserve">Nursing</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Nurse Practice Act</PartTitle>
+		<Section Number="0464.001" />
+		<Section Number="0464.002" />
+		<Section Number="0464.003" />
+		<Section Number="0464.004" />
+		<Section Number="0464.005" />
+		<Section Number="0464.006" />
+		<Section Number="0464.008" />
+		<Section Number="0464.009" />
+		<Section Number="0464.0115" />
+		<Section Number="0464.012" />
+		<Section Number="0464.013" />
+		<Section Number="0464.014" />
+		<Section Number="0464.015" />
+		<Section Number="0464.016" />
+		<Section Number="0464.017" />
+		<Section Number="0464.018" />
+		<Section Number="0464.019" />
+		<Section Number="0464.0195" />
+		<Section Number="0464.0196" />
+		<Section Number="0464.0205" />
+		<Section Number="0464.022" />
+		<Section Number="0464.027" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Certified nursing assistants</PartTitle>
+		<Section Number="0464.201" />
+		<Section Number="0464.202" />
+		<Section Number="0464.203" />
+		<Section Number="0464.204" />
+		<Section Number="0464.205" />
+		<Section Number="0464.206" />
+		<Section Number="0464.207" />
+		<Section Number="0464.208" />
+		<Section Number="0464.2085" />
+	</Part>
+</Chapter>

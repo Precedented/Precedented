@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.509" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions; weatherization of low-income residences.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this act, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Community action agency” means a private corporation or public agency established pursuant to the Economic Opportunity Act of 1964, Pub. L. No. 88-452, which is authorized to administer funds from federal, state, local, or private funding entities to assess, design, operate, finance, and oversee antipoverty programs.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Energy assessment” means an analysis of a dwelling unit to determine the need for cost-effective energy conservation measures as determined by the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Household” means an individual or group of individuals living in a dwelling unit as defined by the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Low income” means household income that is at or below 125 percent of the federally established poverty level.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Residence” means a dwelling unit as defined by the department.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Weatherization” means materials or measures and their installation as defined in the federal Energy Conservation and Production Act, Pub. L. No. 94-385, which are used to improve the thermal efficiency of a residence.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Weatherizing agency” means any approved department grantee that bears the responsibility for ensuring the performance of weatherization of residences under this act and has been approved by the department, that was performing weatherization services as of July 1, 1988, unless such agency has withdrawn or lost its designation as a result of failure to perform under acceptable contract conditions as determined by the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 91-287; s. 303, ch. 2011-142.</History>
+</Section>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.806" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Grounds for termination of parental rights.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Grounds for the termination of parental rights may be established under any of the following circumstances:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">When the parent or parents have voluntarily executed a written surrender of the child and consented to the entry of an order giving custody of the child to the department for subsequent adoption and the department is willing to accept custody of the child.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The surrender document must be executed before two witnesses and a notary public or other person authorized to take acknowledgments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The surrender and consent may be withdrawn after acceptance by the department only after a finding by the court that the surrender and consent were obtained by fraud or under duress.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Abandonment as defined in s. 39.01(1) or when the identity or location of the parent or parents is unknown and cannot be ascertained by diligent search within 60 days.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">When the parent or parents engaged in conduct toward the child or toward other children that demonstrates that the continuing involvement of the parent or parents in the parent-child relationship threatens the life, safety, well-being, or physical, mental, or emotional health of the child irrespective of the provision of services. Provision of services may be evidenced by proof that services were provided through a previous plan or offered as a case plan from a child welfare agency.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">When the parent of a child is incarcerated and either:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The period of time for which the parent is expected to be incarcerated will constitute a significant portion of the child’s minority. When determining whether the period of time is significant, the court shall consider the child’s age and the child’s need for a permanent and stable home. The period of time begins on the date that the parent enters into incarceration;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The incarcerated parent has been determined by the court to be a violent career criminal as defined in s. 775.084, a habitual violent felony offender as defined in s. 775.084, or a sexual predator as defined in s. 775.21; has been convicted of first degree or second degree murder in violation of s. 782.04 or a sexual battery that constitutes a capital, life, or first degree felony violation of s. 794.011; or has been convicted of an offense in another jurisdiction which is substantially similar to one of the offenses listed in this paragraph. As used in this section, the term “substantially similar offense” means any offense that is substantially similar in elements and penalties to one of those listed in this subparagraph, and that is in violation of a law of any other jurisdiction, whether that of another state, the District of Columbia, the United States or any possession or territory thereof, or any foreign jurisdiction; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The court determines by clear and convincing evidence that continuing the parental relationship with the incarcerated parent would be harmful to the child and, for this reason, that termination of the parental rights of the incarcerated parent is in the best interest of the child. When determining harm, the court shall consider the following factors:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The age of the child.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The relationship between the child and the parent.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The nature of the parent’s current and past provision for the child’s developmental, cognitive, psychological, and physical needs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The parent’s history of criminal behavior, which may include the frequency of incarceration and the unavailability of the parent to the child due to incarceration.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Any other factor the court deems relevant.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">When a child has been adjudicated dependent, a case plan has been filed with the court, and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The child continues to be abused, neglected, or abandoned by the parent or parents. The failure of the parent or parents to substantially comply with the case plan for a period of 12 months after an adjudication of the child as a dependent child or the child’s placement into shelter care, whichever occurs first, constitutes evidence of continuing abuse, neglect, or abandonment unless the failure to substantially comply with the case plan was due to the parent’s lack of financial resources or to the failure of the department to make reasonable efforts to reunify the parent and child. The 12-month period begins to run only after the child’s placement into shelter care or the entry of a disposition order placing the custody of the child with the department or a person other than the parent and the court’s approval of a case plan having the goal of reunification with the parent, whichever occurs first; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The parent or parents have materially breached the case plan. Time is of the essence for permanency of children in the dependency system. In order to prove the parent or parents have materially breached the case plan, the court must find by clear and convincing evidence that the parent or parents are unlikely or unable to substantially comply with the case plan before time to comply with the case plan expires.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The parent or parents engaged in egregious conduct or had the opportunity and capability to prevent and knowingly failed to prevent egregious conduct that threatens the life, safety, or physical, mental, or emotional health of the child or the child’s sibling.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “sibling” means another child who resides with or is cared for by the parent or parents regardless of whether the child is related legally or by consanguinity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “egregious conduct” means abuse, abandonment, neglect, or any other conduct that is deplorable, flagrant, or outrageous by a normal standard of conduct. Egregious conduct may include an act or omission that occurred only once but was of such intensity, magnitude, or severity as to endanger the life of the child.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The parent or parents have subjected the child or another child to aggravated child abuse as defined in s. 827.03, sexual battery or sexual abuse as defined in s. 39.01, or chronic abuse.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The parent or parents have committed the murder, manslaughter, aiding or abetting the murder, or conspiracy or solicitation to murder the other parent or another child, or a felony battery that resulted in serious bodily injury to the child or to another child.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The parental rights of the parent to a sibling of the child have been terminated involuntarily.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The parent or parents have a history of extensive, abusive, and chronic use of alcohol or a controlled substance which renders them incapable of caring for the child, and have refused or failed to complete available treatment for such use during the 3-year period immediately preceding the filing of the petition for termination of parental rights.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">A test administered at birth that indicated that the child’s blood, urine, or meconium contained any amount of alcohol or a controlled substance or metabolites of such substances, the presence of which was not the result of medical treatment administered to the mother or the newborn infant, and the biological mother of the child is the biological mother of at least one other child who was adjudicated dependent after a finding of harm to the child’s health or welfare due to exposure to a controlled substance or alcohol as defined in s. 39.01, after which the biological mother had the opportunity to participate in substance abuse treatment.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">On three or more occasions the child or another child of the parent or parents has been placed in out-of-home care pursuant to this chapter, and the conditions that led to the child’s out-of-home placement were caused by the parent or parents.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Reasonable efforts to preserve and reunify families are not required if a court of competent jurisdiction has determined that any of the events described in paragraphs (1)(b)-(d) or (f)-(l) have occurred.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a petition for termination of parental rights is filed under subsection (1), a separate petition for dependency need not be filed and the department need not offer the parents a case plan having a goal of reunification, but may instead file with the court a case plan having a goal of termination of parental rights to allow continuation of services until the termination is granted or until further orders of the court are issued.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If an expedited termination of parental rights petition is filed, reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan, and to complete whatever steps are necessary to finalize the permanent placement of the child.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 87-289; s. 16, ch. 90-306; s. 4, ch. 90-309; s. 7, ch. 92-158; s. 35, ch. 94-164; s. 1, ch. 97-226; s. 12, ch. 97-276; s. 88, ch. 98-403; s. 2, ch. 98-417; s. 45, ch. 99-193; s. 35, ch. 2000-139; s. 3, ch. 2001-3; s. 12, ch. 2004-371; s. 25, ch. 2006-86; s. 16, ch. 2008-245; s. 2, ch. 2009-21; s. 15, ch. 2012-178.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.464.</Text>
+	</Note>
+</Section>

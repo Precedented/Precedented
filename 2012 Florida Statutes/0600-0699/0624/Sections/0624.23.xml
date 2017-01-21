@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.23" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public records exemption.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Consumer” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A prospective purchaser, purchaser, or beneficiary of, or applicant for, any product or service regulated under the Florida Insurance Code, and a family member or dependent of a consumer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An employee seeking assistance from the Employee Assistance and Ombudsman Office under s. 440.191.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Personal financial and health information” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A consumer’s personal health condition, disease, or injury;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A history of a consumer’s personal medical diagnosis or treatment;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The existence, nature, source, or amount of a consumer’s personal income or expenses;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Records of or relating to a consumer’s personal financial transactions of any kind;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The existence, identification, nature, or value of a consumer’s assets, liabilities, or net worth;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The existence or content of, or any individual coverage or status under a consumer’s beneficial interest in, any insurance policy or annuity contract; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The existence, identification, nature, or value of a consumer’s interest in any insurance policy, annuity contract, or trust.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Personal financial and health information held by the department or office relating to a consumer’s complaint or inquiry regarding a matter or activity regulated under the Florida Insurance Code or s. 440.191 are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution. This exemption applies to personal financial and health information held by the department or office before, on, or after the effective date of this exemption.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Such confidential and exempt information may be disclosed to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Another governmental entity, if disclosure is necessary for the receiving entity to perform its duties and responsibilities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The National Association of Insurance Commissioners.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The consumer or the consumer’s legally authorized representative.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-175; s. 89, ch. 2003-1; s. 1097, ch. 2003-261; s. 1, ch. 2007-70; s. 1, ch. 2012-225.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 627.3111.</Text>
+	</Note>
+</Section>

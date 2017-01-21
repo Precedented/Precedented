@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1315" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Treatment of Indian tribes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employer” means any Indian tribe for which service in employment as defined by this chapter is performed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Employment” means service performed in the employ of an Indian tribe, as defined by s. 3306(u) of the Federal Unemployment Tax Act, if this service is excluded from employment as defined by that act solely by reason of s. 3306(c)(7) of that act and is not otherwise excluded from employment under this chapter. For purposes of this section, the exclusions from employment under s. 443.1216(4) apply to services performed in the employ of an Indian tribe.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Benefits based on service in employment are payable in the same amount, on the same terms, and subject to the same conditions as benefits payable based on other service subject to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Indian tribes or tribal units of Indian tribes, including subdivisions, subsidiaries, or business enterprises wholly owned by those Indian tribes, subject to this chapter must pay contributions under the same terms and conditions as all other subject employers unless they elect to become reimbursing employers and reimburse the Unemployment Compensation Trust Fund amounts equal to the amount of benefits attributable to service in the employ of the Indian tribe.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Indian tribes electing to make reimbursements in lieu of contributions must make this election in the same manner and under the same conditions in s. 443.1312 for nonprofit organizations subject to this chapter. Indian tribes must determine whether reimbursement for benefits paid will be elected by the tribe as a whole, by individual tribal units of an Indian tribe, or by combinations of individual tribal units.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Indian tribes or tribal units shall be billed for the full amount of benefits attributable to service in the employ of the Indian tribe or tribal unit on the same schedule as other employing units that elect to make reimbursements in lieu of contributions.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The tax collection service provider may require an Indian tribe or tribal unit that elects to become a reimbursing employer to, within 90 days after the effective date of that election:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Execute and file with the tax collection service provider a surety bond approved by the service provider; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Deposit with the tax collection service provider money or securities on the same basis as other employers with the same election option.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An Indian tribe or tribal unit that fails to make required reimbursements, including assessments of interest and penalty, within 90 days after receipt of the bill, loses the option to make reimbursements in lieu of contributions as provided in subsection (3) for the following tax year unless payment in full is received before contribution rates for the next tax year are computed.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The option to make reimbursements in lieu of contributions is reinstated once the Indian tribe makes all contributions timely for 1 year and no contributions or reimbursements for benefits paid, penalties, or interest remain outstanding.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Services performed for an Indian tribe or tribal unit that fails to make required reimbursements, including assessments of interest and penalty, after all collection activities deemed necessary by the tax collection service provider, subject to approval by the Department of Economic Opportunity, are exhausted may not be treated as employment for purposes of paragraph (1)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The tax collection service provider may determine that any Indian tribe that loses coverage under subparagraph 1. may have services performed for the tribe subsequently included as employment for purposes of paragraph (1)(b) if all contributions, reimbursements, penalties, and interest are paid.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department or its tax collection service provider shall immediately notify the United States Internal Revenue Service and the United States Department of Labor when an Indian tribe fails to make reimbursements required under this section, including assessments of interest and penalty, within 90 days after a final notice of delinquency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Notices of payment and reporting delinquency to Indian tribes or tribal units must include information that failure to make full reimbursement within the prescribed timeframe:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Will cause the Indian tribe to be liable for taxes under the Federal Unemployment Tax Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Will cause the Indian tribe to lose the option to make reimbursements in lieu of contributions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Could cause the Indian tribe to be excepted from the definition of “employer” provided in paragraph (1)(a) and services in the employ of the Indian tribe provided in paragraph (1)(b) to be excepted from employment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An Indian tribe must reimburse the fund for all extended benefits paid that are attributable to service in the employ of the Indian tribe unless the benefits are reimbursed by the Federal Government.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity and the state agency providing reemployment assistance tax collection services shall adopt rules necessary to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 51, ch. 2002-218; s. 35, ch. 2003-36; s. 368, ch. 2011-142; s. 18, ch. 2012-30.</History>
+</Section>

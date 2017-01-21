@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.21" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Determination of resident status for tuition purposes.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Students shall be classified as residents or nonresidents for the purpose of assessing tuition in postsecondary educational programs offered by charter technical career centers or career centers operated by school districts, in Florida College System institutions, and in state universities.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Dependent child” means any person, whether or not living with his or her parent, who is eligible to be claimed by his or her parent as a dependent under the federal income tax code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Initial enrollment” means the first day of class at an institution of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Institution of higher education” means any charter technical career center as defined in s. 1002.34, career center operated by a school district as defined in s. 1001.44, Florida College System institution as defined in s. 1000.21(3), or state university as defined in s. 1000.21(6).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Legal resident” or “resident” means a person who has maintained his or her residence in this state for the preceding year, has purchased a home which is occupied by him or her as his or her residence, or has established a domicile in this state pursuant to s. 222.17.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Nonresident for tuition purposes” means a person who does not qualify for the in-state tuition rate.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Parent” means the natural or adoptive parent or legal guardian of a dependent child.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Resident for tuition purposes” means a person who qualifies as provided in this section for the in-state tuition rate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To qualify as a resident for tuition purposes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A person or, if that person is a dependent child, his or her parent or parents must have established legal residence in this state and must have maintained legal residence in this state for at least 12 consecutive months immediately prior to his or her initial enrollment in an institution of higher education.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Every applicant for admission to an institution of higher education shall be required to make a statement as to his or her length of residence in the state and, further, shall establish that his or her presence or, if the applicant is a dependent child, the presence of his or her parent or parents in the state currently is, and during the requisite 12-month qualifying period was, for the purpose of maintaining a bona fide domicile, rather than for the purpose of maintaining a mere temporary residence or abode incident to enrollment in an institution of higher education.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">However, with respect to a dependent child living with an adult relative other than the child’s parent, such child may qualify as a resident for tuition purposes if the adult relative is a legal resident who has maintained legal residence in this state for at least 12 consecutive months immediately prior to the child’s initial enrollment in an institution of higher education, provided the child has resided continuously with such relative for the 5 years immediately prior to the child’s initial enrollment in an institution of higher education, during which time the adult relative has exercised day-to-day care, supervision, and control of the child.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The legal residence of a dependent child whose parents are divorced, separated, or otherwise living apart will be deemed to be this state if either parent is a legal resident of this state, regardless of which parent is entitled to claim, and does in fact claim, the minor as a dependent pursuant to federal individual income tax provisions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individual shall not be classified as a resident for tuition purposes and, thus, shall not be eligible to receive the in-state tuition rate until he or she has provided such evidence related to legal residence and its duration or, if that individual is a dependent child, evidence of his or her parent’s legal residence and its duration, as may be required by law and by officials of the institution of higher education from which he or she seeks the in-state tuition rate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, evidence of legal residence and its duration shall include clear and convincing documentation that residency in this state was for a minimum of 12 consecutive months prior to a student’s initial enrollment in an institution of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each institution of higher education shall affirmatively determine that an applicant who has been granted admission to that institution as a Florida resident meets the residency requirements of this section at the time of initial enrollment. The residency determination must be documented by the submission of written or electronic verification that includes two or more of the documents identified in this paragraph. No single piece of evidence shall be conclusive.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The documents must include at least one of the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A Florida voter’s registration card.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A Florida driver’s license.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A State of Florida identification card.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A Florida vehicle registration.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Proof of a permanent home in Florida which is occupied as a primary residence by the individual or by the individual’s parent if the individual is a dependent child.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Proof of a homestead exemption in Florida.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Transcripts from a Florida high school for multiple years if the Florida high school diploma or GED was earned within the last 12 months.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Proof of permanent full-time employment in Florida for at least 30 hours per week for a 12-month period.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The documents may include one or more of the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A declaration of domicile in Florida.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A Florida professional or occupational license.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Florida incorporation.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A document evidencing family ties in Florida.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Proof of membership in a Florida-based charitable or professional organization.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Any other documentation that supports the student’s request for resident status, including, but not limited to, utility bills and proof of 12 consecutive months of payments; a lease agreement and proof of 12 consecutive months of payments; or an official state, federal, or court document evidencing legal ties to Florida.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">With respect to a dependent child, the legal residence of the dependent child’s parent or parents is prima facie evidence of the dependent child’s legal residence, which evidence may be reinforced or rebutted, relative to the age and general circumstances of the dependent child, by the other evidence of legal residence required of or presented by the dependent child. However, the legal residence of a dependent child’s parent or parents who are domiciled outside this state is not prima facie evidence of the dependent child’s legal residence if that dependent child has lived in this state for 5 consecutive years prior to enrolling or reregistering at the institution of higher education at which resident status for tuition purposes is sought.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In making a domiciliary determination related to the classification of a person as a resident or nonresident for tuition purposes, the domicile of a married person, irrespective of sex, shall be determined, as in the case of an unmarried person, by reference to all relevant evidence of domiciliary intent. For the purposes of this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person shall not be precluded from establishing or maintaining legal residence in this state and subsequently qualifying or continuing to qualify as a resident for tuition purposes solely by reason of marriage to a person domiciled outside this state, even when that person’s spouse continues to be domiciled outside of this state, provided such person maintains his or her legal residence in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person shall not be deemed to have established or maintained a legal residence in this state and subsequently to have qualified or continued to qualify as a resident for tuition purposes solely by reason of marriage to a person domiciled in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In determining the domicile of a married person, irrespective of sex, the fact of the marriage and the place of domicile of such person’s spouse shall be deemed relevant evidence to be considered in ascertaining domiciliary intent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, a person who is classified as a nonresident for tuition purposes may become eligible for reclassification as a resident for tuition purposes if that person or, if that person is a dependent child, his or her parent presents clear and convincing documentation that supports permanent legal residency in this state for at least 12 consecutive months rather than temporary residency for the purpose of pursuing an education, such as documentation of full-time permanent employment for the prior 12 months or the purchase of a home in this state and residence therein for the prior 12 months while not enrolled in an institution of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a person who is a dependent child and his or her parent move to this state while such child is a high school student and the child graduates from a high school in this state, the child may become eligible for reclassification as a resident for tuition purposes when the parent submits evidence that the parent qualifies for permanent residency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a person who is a dependent child and his or her parent move to this state after such child graduates from high school, the child may become eligible for reclassification as a resident for tuition purposes after the parent submits evidence that he or she has established legal residence in the state and has maintained legal residence in the state for at least 12 consecutive months.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person who is classified as a nonresident for tuition purposes and who marries a legal resident of the state or marries a person who becomes a legal resident of the state may, upon becoming a legal resident of the state, become eligible for reclassification as a resident for tuition purposes upon submitting evidence of his or her own legal residency in the state, evidence of his or her marriage to a person who is a legal resident of the state, and evidence of the spouse’s legal residence in the state for at least 12 consecutive months immediately preceding the application for reclassification.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A person shall not lose his or her resident status for tuition purposes solely by reason of serving, or, if such person is a dependent child, by reason of his or her parent’s or parents’ serving, in the Armed Forces outside this state.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A person who has been properly classified as a resident for tuition purposes but who, while enrolled in an institution of higher education in this state, loses his or her resident tuition status because the person or, if he or she is a dependent child, the person’s parent or parents establish domicile or legal residence elsewhere shall continue to enjoy the in-state tuition rate for a statutory grace period, which period shall be measured from the date on which the circumstances arose that culminated in the loss of resident tuition status and shall continue for 12 months. However, if the 12-month grace period ends during a semester or academic term for which such former resident is enrolled, such grace period shall be extended to the end of that semester or academic term.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any person who ceases to be enrolled at or who graduates from an institution of higher education while classified as a resident for tuition purposes and who subsequently abandons his or her domicile in this state shall be permitted to reenroll at an institution of higher education in this state as a resident for tuition purposes without the necessity of meeting the 12-month durational requirement of this section if that person has reestablished his or her domicile in this state within 12 months of such abandonment and continuously maintains the reestablished domicile during the period of enrollment. The benefit of this subsection shall not be accorded more than once to any one person.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The following persons shall be classified as residents for tuition purposes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Active duty members of the Armed Services of the United States residing or stationed in this state, their spouses, and dependent children, and active drilling members of the Florida National Guard.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Active duty members of the Armed Services of the United States and their spouses and dependents attending a Florida College System institution or state university within 50 miles of the military establishment where they are stationed, if such military establishment is within a county contiguous to Florida.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">United States citizens living on the Isthmus of Panama, who have completed 12 consecutive months of college work at the Florida State University Panama Canal Branch, and their spouses and dependent children.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Full-time instructional and administrative personnel employed by state public schools and institutions of higher education and their spouses and dependent children.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Students from Latin America and the Caribbean who receive scholarships from the federal or state government. Any student classified pursuant to this paragraph shall attend, on a full-time basis, a Florida institution of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Southern Regional Education Board’s Academic Common Market graduate students attending Florida’s state universities.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Full-time employees of state agencies or political subdivisions of the state when the student fees are paid by the state agency or political subdivision for the purpose of job-related law enforcement or corrections training.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">McKnight Doctoral Fellows and Finalists who are United States citizens.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">United States citizens living outside the United States who are teaching at a Department of Defense Dependent School or in an American International School and who enroll in a graduate level education program which leads to a Florida teaching certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Active duty members of the Canadian military residing or stationed in this state under the North American Air Defense (NORAD) agreement, and their spouses and dependent children, attending a Florida College System institution or state university within 50 miles of the military establishment where they are stationed.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Active duty members of a foreign nation’s military who are serving as liaison officers and are residing or stationed in this state, and their spouses and dependent children, attending a Florida College System institution or state university within 50 miles of the military establishment where the foreign liaison officer is stationed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Once a student has been classified as a resident for tuition purposes, an institution of higher education to which the student transfers is not required to reevaluate the classification unless inconsistent information suggests that an erroneous classification was made or the student’s situation has changed. However, the student must have attended the institution making the initial classification within the prior 12 months, and the residency classification must be noted on the student’s transcript. The Higher Education Coordinating Council shall consider issues related to residency determinations and make recommendations relating to efficiency and effectiveness of current law.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Each institution of higher education shall establish a residency appeal committee comprised of at least three members to consider student appeals of residency determinations, in accordance with the institution’s official appeal process. The residency appeal committee must render to the student the final residency determination in writing. The institution must advise the student of the reasons for the determination.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education and the Board of Governors shall adopt rules to implement this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2002-270; s. 400, ch. 2002-387; s. 14, ch. 2004-230; s. 132, ch. 2007-217; s. 7, ch. 2009-60; s. 2, ch. 2009-123; s. 10, ch. 2010-155; s. 116, ch. 2011-5.</History>
+</Section>

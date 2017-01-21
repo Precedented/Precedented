@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.63" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School-year prekindergarten program delivered by public schools.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each school district may administer the Voluntary Prekindergarten Education Program at the district level for students enrolled under s. 1002.53(3)(c) in a school-year prekindergarten program delivered by a public school.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each school-year prekindergarten program delivered by a public school must comprise at least 540 instructional hours.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The district school board of each school district shall determine which public schools in the district may deliver the prekindergarten program during the school year.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each public school must have, for each prekindergarten class, at least one prekindergarten instructor who meets each requirement in s. 1002.55(3)(c) for a prekindergarten instructor of a private prekindergarten provider.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each prekindergarten instructor employed by a public school delivering the school-year prekindergarten program must be of good moral character, must be screened using the level 2 screening standards in s. 435.04 before employment and rescreened at least once every 5 years, must be denied employment or terminated if required under s. 435.06, and must not be ineligible to teach in a public school because his or her educator certificate is suspended or revoked. This subsection does not supersede employment requirements for instructional personnel in public schools which are more stringent than the requirements of this subsection.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A public school prekindergarten provider may assign a substitute instructor to temporarily replace a credentialed instructor if the credentialed instructor assigned to a prekindergarten class is absent, as long as the substitute instructor is of good moral character and has been screened before employment in accordance with level 2 background screening requirements in chapter 435. This subsection does not supersede employment requirements for instructional personnel in public schools which are more stringent than the requirements of this subsection. The Office of Early Learning shall adopt rules to implement this subsection which shall include required qualifications of substitute instructors and the circumstances and time limits for which a public school prekindergarten provider may assign a substitute instructor.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Each prekindergarten class in a public school delivering the school-year prekindergarten program must be composed of at least 4 students but may not exceed 20 students. In order to protect the health and safety of students, each school must also provide appropriate adult supervision for students at all times and, for each prekindergarten class composed of 12 or more students, must have, in addition to a prekindergarten instructor who meets the requirements of s. 1002.55(3)(c), at least one adult prekindergarten instructor who is not required to meet those requirements but who must meet each requirement of subsection (5).</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Each public school delivering the school-year prekindergarten program must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Register with the early learning coalition on forms prescribed by the Office of Early Learning; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Deliver the Voluntary Prekindergarten Education Program in accordance with this part.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-484; s. 7, ch. 2008-196; s. 6, ch. 2009-3; s. 12, ch. 2011-55; s. 452, ch. 2011-142.</History>
+</Section>

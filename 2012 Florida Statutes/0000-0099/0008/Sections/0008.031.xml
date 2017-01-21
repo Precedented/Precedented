@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0008.031" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Election of representatives to Congress.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The districts named in s. 8.0002 constitute and form the congressional districts of the state, and a representative to the Congress shall be selected in and for each of the congressional districts as provided by law.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 96-192; s. 5, ch. 2002-12; s. 4, ch. 2012-2.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 7, ch. 2012-2, provides that “[e]xcept as otherwise expressly provided in this act and except for this section, which shall take effect upon this act becoming a law, this act shall take effect upon the expiration of the terms of the representatives to the United States House of Representatives serving on the date that this act becomes a law.”</Text>
+	</Note>
+</Section>

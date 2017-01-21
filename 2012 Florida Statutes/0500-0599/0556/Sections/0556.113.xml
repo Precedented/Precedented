@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0556.113" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sunshine State One-Call of Florida, Inc.; public records exemption.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “proprietary confidential business information” means information provided by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A member operator which is a map, plan, facility location diagram, internal damage investigation report or analysis, dispatch methodology, or trade secret as defined in s. 688.002, or which describes the exact location of a utility underground facility or the protection, repair, or restoration thereof, and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is intended to be and is treated by the member operator as confidential;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The disclosure of which would likely be used by a competitor to harm the business interests of the member operator or could be used for the purpose of inflicting damage on underground facilities; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Is not otherwise readily ascertainable or publicly available by proper means by other persons from another source in the same configuration as provided to Sunshine State One-Call of Florida, Inc.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An excavator in an internal damage investigation report or analysis relating to damage to underground utility facilities, and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is intended to be and is treated by the excavator as confidential;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The disclosure of which would be reasonably likely to be used by a competitor to harm the business interests of the excavator or could be used for the purpose of inflicting damage on underground facilities; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Is not otherwise readily ascertainable or publicly available by proper means by other persons from another source in the same configuration as provided to Sunshine State One-Call of Florida, Inc.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Proprietary confidential business information held by Sunshine State One-Call of Florida, Inc., for the purpose of describing the extent and root cause of damage to an underground facility or using the member ticket management software system is exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2007-101; s. 1, ch. 2012-221.</History>
+</Section>

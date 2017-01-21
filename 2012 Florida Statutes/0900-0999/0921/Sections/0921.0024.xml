@@ -1,0 +1,976 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0921.0024" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Criminal Punishment Code; worksheet computations; scoresheets.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Criminal Punishment Code worksheet is used to compute the subtotal and total sentence points as follows:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">FLORIDA CRIMINAL PUNISHMENT CODE<NewLine />WORKSHEET</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">OFFENSE SCORE</Text>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="15" />
+						<Column Width="30" />
+						<Column Width="20" />
+						<Column Width="35" />
+					</ColumnDefinitions>
+					<Header>
+						<Row>
+							<Cell ColSpan="4" HorizontalAlign="Center">
+								<Text xml:space="preserve">Primary Offense</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell Border="Bottom">
+								<Text xml:space="preserve">Level</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" Border="Bottom">
+								<Text xml:space="preserve">Sentence Points</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell HorizontalAlign="Right" Border="Bottom">
+								<Text xml:space="preserve">Total</Text>
+							</Cell>
+						</Row>
+					</Header>
+					<Body>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">10</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">116</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">9</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">92</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">8</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">74</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">7</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">56</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">36</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">5</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">28</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">22</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">3</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">16</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">10</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">1</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell Border="Bottom"></Cell>
+							<Cell Border="Bottom"></Cell>
+							<Cell Border="Bottom"></Cell>
+							<Cell Border="Bottom"></Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="4" HorizontalAlign="Right">
+								<Text xml:space="preserve"><Font xml:space="preserve" Effect="Underline">Total   </Font></Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="11" />
+						<Column Width="23" />
+						<Column Width="10" />
+						<Column Width="23" />
+						<Column Width="10" />
+						<Column Width="23" />
+					</ColumnDefinitions>
+					<Header>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Center">
+								<Text xml:space="preserve">Additional Offenses</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell Border="Bottom">
+								<Text xml:space="preserve">Level</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" Border="Bottom">
+								<Text xml:space="preserve">Sentence Points</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Center">
+								<Text xml:space="preserve">Counts</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Right">
+								<Text xml:space="preserve">Total</Text>
+							</Cell>
+						</Row>
+					</Header>
+					<Body>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">10</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">58</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">9</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">46</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">8</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">37</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">7</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">28</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">18</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">5</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">5.4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">3.6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">3</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">2.4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">1.2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">1</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">0.7</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">M</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">0.2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row><Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+						</Row>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Right">
+								<Text xml:space="preserve"><Font xml:space="preserve" Effect="Underline">Total   </Font></Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="30" />
+						<Column Width="20" />
+						<Column Width="6" />
+						<Column Width="19" />
+						<Column Width="6" />
+						<Column Width="19" />
+					</ColumnDefinitions>
+					<Header>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Center">
+								<Text xml:space="preserve">Victim Injury</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell Border="Bottom">
+								<Text xml:space="preserve">Level</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" Border="Bottom">
+								<Text xml:space="preserve">Sentence Points</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Center">
+								<Text xml:space="preserve">Number</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Right">
+								<Text xml:space="preserve">Total</Text>
+							</Cell>
+						</Row>
+					</Header>
+					<Body>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">2nd degree<NewLine />murder-<NewLine />death</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">240</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Death</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">120</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Severe</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">40</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Moderate</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">18</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Slight</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Sexual<NewLine /> penetration</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">80</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">Sexual<NewLine /> contact</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">40</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row><Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+						</Row>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Right">
+								<Text xml:space="preserve"><Font xml:space="preserve" Effect="Underline">Total   </Font></Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Text xml:space="preserve" Style="Flush">Primary Offense + Additional Offenses + Victim Injury =</Text>
+				<Text xml:space="preserve" Style="AlignCenter">TOTAL OFFENSE SCORE</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">PRIOR RECORD SCORE</Text>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="11" />
+						<Column Width="23" />
+						<Column Width="15" />
+						<Column Width="15" />
+						<Column Width="6" />
+						<Column Width="30" />
+					</ColumnDefinitions>
+					<Header>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Center">
+								<Text xml:space="preserve">Prior Record</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell Border="Bottom">
+								<Text xml:space="preserve">Level</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" Border="Bottom">
+								<Text xml:space="preserve">Sentence Points</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Center">
+								<Text xml:space="preserve">Number</Text>
+							</Cell>
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" HorizontalAlign="Right">
+								<Text xml:space="preserve">Total</Text>
+							</Cell>
+						</Row>
+					</Header>
+					<Body>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">10</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">29</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">9</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">23</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">8</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">19</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">7</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">14</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">9</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">5</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">3.6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">2.4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">3</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">1.6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">0.8</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">1</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">0.5</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell VerticalAlign="Bottom">
+								<Text xml:space="preserve">M</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">0.2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">x</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+								<Text xml:space="preserve">=</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right" VerticalAlign="Bottom">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed" /></Text>
+							</Cell>
+						</Row>
+						<Row><Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+							<Cell Border="Bottom" />
+						</Row>
+						<Row>
+							<Cell ColSpan="6" HorizontalAlign="Right">
+								<Text xml:space="preserve"><Font xml:space="preserve" Effect="Underline">Total   </Font></Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Text xml:space="preserve" Style="Flush">  TOTAL OFFENSE SCORE<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  TOTAL PRIOR RECORD SCORE<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">  LEGAL STATUS<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  COMMUNITY SANCTION VIOLATION<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  PRIOR SERIOUS FELONY<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  PRIOR CAPITAL FELONY<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  FIREARM OR SEMIAUTOMATIC WEAPON<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush"><FlushRight />SUBTOTAL<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">  PRISON RELEASEE REOFFENDER (no)(yes)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  VIOLENT CAREER CRIMINAL (no)(yes)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  HABITUAL VIOLENT OFFENDER (no)(yes)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  HABITUAL OFFENDER (no)(yes)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  DRUG TRAFFICKER (no)(yes) (x multiplier)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  LAW ENF. PROTECT. (no)(yes) (x multiplier)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  MOTOR VEHICLE THEFT (no)(yes) (x multiplier)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  CRIMINAL GANG OFFENSE (no)(yes) (x multiplier)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush">  DOMESTIC VIOLENCE IN THE PRESENCE OF RELATED CHILD (no)(yes) (x multiplier)<HorizontalRule Type="Variable" /></Text>
+				<Text xml:space="preserve" Style="Flush"><HorizontalRule Type="Full" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceBelow="true"><FlushRight />TOTAL SENTENCE POINTS<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">WORKSHEET KEY:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Legal status points are assessed when any form of legal status existed at the time the offender committed an offense before the court for sentencing. Four (4) sentence points are assessed for an offender’s legal status.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Community sanction violation points are assessed when a community sanction violation is before the court for sentencing. Six (6) sentence points are assessed for each community sanction violation and each successive community sanction violation, unless any of the following apply:</Text>
+				<Text xml:space="preserve" Style="Indent">1. If the community sanction violation includes a new felony conviction before the sentencing court, twelve (12) community sanction violation points are assessed for the violation, and for each successive community sanction violation involving a new felony conviction.</Text>
+				<Text xml:space="preserve" Style="Indent">2. If the community sanction violation is committed by a violent felony offender of special concern as defined in s. 948.06:</Text>
+				<Text xml:space="preserve" Style="Indent">a. Twelve (12) community sanction violation points are assessed for the violation and for each successive violation of felony probation or community control where:</Text>
+				<Text xml:space="preserve" Style="Indent">(I) The violation does not include a new felony conviction; and</Text>
+				<Text xml:space="preserve" Style="Indent">(II) The community sanction violation is not based solely on the probationer or offender’s failure to pay costs or fines or make restitution payments.</Text>
+				<Text xml:space="preserve" Style="Indent">b. Twenty-four (24) community sanction violation points are assessed for the violation and for each successive violation of felony probation or community control where the violation includes a new felony conviction.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Multiple counts of community sanction violations before the sentencing court shall not be a basis for multiplying the assessment of community sanction violation points.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Prior serious felony points: If the offender has a primary offense or any additional offense ranked in level 8, level 9, or level 10, and one or more prior serious felonies, a single assessment of thirty (30) points shall be added. For purposes of this section, a prior serious felony is an offense in the offender’s prior record that is ranked in level 8, level 9, or level 10 under s. 921.0022 or s. 921.0023 and for which the offender is serving a sentence of confinement, supervision, or other sanction or for which the offender’s date of release from confinement, supervision, or other sanction, whichever is later, is within 3 years before the date the primary offense or any additional offense was committed.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Prior capital felony points: If the offender has one or more prior capital felonies in the offender’s criminal record, points shall be added to the subtotal sentence points of the offender equal to twice the number of points the offender receives for the primary offense and any additional offense. A prior capital felony in the offender’s criminal record is a previous capital felony offense for which the offender has entered a plea of nolo contendere or guilty or has been found guilty; or a felony in another jurisdiction which is a capital felony in that jurisdiction, or would be a capital felony if the offense were committed in this state.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Possession of a firearm, semiautomatic firearm, or machine gun: If the offender is convicted of committing or attempting to commit any felony other than those enumerated in s. 775.087(2) while having in his or her possession: a firearm as defined in s. 790.001(6), an additional eighteen (18) sentence points are assessed; or if the offender is convicted of committing or attempting to commit any felony other than those enumerated in s. 775.087(3) while having in his or her possession a semiautomatic firearm as defined in s. 775.087(3) or a machine gun as defined in s. 790.001(9), an additional twenty-five (25) sentence points are assessed.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sentencing multipliers:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Drug trafficking: If the primary offense is drug trafficking under s. 893.135, the subtotal sentence points are multiplied, at the discretion of the court, for a level 7 or level 8 offense, by 1.5. The state attorney may move the sentencing court to reduce or suspend the sentence of a person convicted of a level 7 or level 8 offense, if the offender provides substantial assistance as described in s. 893.135(4).</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Law enforcement protection: If the primary offense is a violation of the Law Enforcement Protection Act under s. 775.0823(2), (3), or (4), the subtotal sentence points are multiplied by 2.5. If the primary offense is a violation of s. 775.0823(5), (6), (7), (8), or (9), the subtotal sentence points are multiplied by 2.0. If the primary offense is a violation of s. 784.07(3) or s. 775.0875(1), or of the Law Enforcement Protection Act under s. 775.0823(10) or (11), the subtotal sentence points are multiplied by 1.5.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Grand theft of a motor vehicle: If the primary offense is grand theft of the third degree involving a motor vehicle and in the offender’s prior record, there are three or more grand thefts of the third degree involving a motor vehicle, the subtotal sentence points are multiplied by 1.5.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Offense related to a criminal gang: If the offender is convicted of the primary offense and committed that offense for the purpose of benefiting, promoting, or furthering the interests of a criminal gang as prohibited under s. 874.04, the subtotal sentence points are multiplied by 1.5.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Domestic violence in the presence of a child: If the offender is convicted of the primary offense and the primary offense is a crime of domestic violence, as defined in s. 741.28, which was committed in the presence of a child under 16 years of age who is a family or household member as defined in s. 741.28(3) with the victim or perpetrator, the subtotal sentence points are multiplied by 1.5.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The lowest permissible sentence is the minimum sentence that may be imposed by the trial court, absent a valid reason for departure. The lowest permissible sentence is any nonstate prison sanction in which the total sentence points equals or is less than 44 points, unless the court determines within its discretion that a prison sentence, which may be up to the statutory maximums for the offenses committed, is appropriate. When the total sentence points exceeds 44 points, the lowest permissible sentence in prison months shall be calculated by subtracting 28 points from the total sentence points and decreasing the remaining total by 25 percent. The total sentence points shall be calculated only as a means of determining the lowest permissible sentence. The permissible range for sentencing shall be the lowest permissible sentence up to and including the statutory maximum, as defined in s. 775.082, for the primary offense and any additional offenses before the court for sentencing. The sentencing court may impose such sentences concurrently or consecutively. However, any sentence to state prison must exceed 1 year. If the lowest permissible sentence under the code exceeds the statutory maximum sentence as provided in s. 775.082, the sentence required by the code must be imposed. If the total sentence points are greater than or equal to 363, the court may sentence the offender to life imprisonment. An offender sentenced to life imprisonment under this section is not eligible for any form of discretionary early release, except executive clemency or conditional medical release under s. 947.149.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A single scoresheet shall be prepared for each defendant to determine the permissible range for the sentence that the court may impose, except that if the defendant is before the court for sentencing for more than one felony and the felonies were committed under more than one version or revision of the guidelines or the code, separate scoresheets must be prepared. The scoresheet or scoresheets must cover all the defendant’s offenses pending before the court for sentencing. The state attorney shall prepare the scoresheet or scoresheets, which must be presented to the defense counsel for review for accuracy in all cases unless the judge directs otherwise. The defendant’s scoresheet or scoresheets must be approved and signed by the sentencing judge.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Corrections, in consultation with the Office of the State Courts Administrator, state attorneys, and public defenders, must develop and submit the revised Criminal Punishment Code scoresheet to the Supreme Court for approval by June 15 of each year, as necessary. Upon the Supreme Court’s approval of the revised scoresheet, the Department of Corrections shall produce and provide sufficient copies of the revised scoresheets by September 30 of each year, as necessary. Scoresheets must include item entries for the scoresheet preparer’s use in indicating whether any prison sentence imposed includes a mandatory minimum sentence or the sentence imposed was a downward departure from the lowest permissible sentence under the Criminal Punishment Code.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The Department of Corrections shall distribute sufficient copies of the Criminal Punishment Code scoresheets to those persons charged with the responsibility for preparing scoresheets.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall transmit a complete, accurate, and legible copy of the Criminal Punishment Code scoresheet used in each sentencing proceeding to the Department of Corrections. Scoresheets must be transmitted no less frequently than monthly, by the first of each month, and may be sent collectively.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A sentencing scoresheet must be prepared for every defendant who is sentenced for a felony offense. A copy of the individual offender’s Criminal Punishment Code scoresheet and any attachments thereto prepared pursuant to Rule 3.701, Rule 3.702, or Rule 3.703, Florida Rules of Criminal Procedure, or any other rule pertaining to the preparation and submission of felony sentencing scoresheets, must be attached to the copy of the uniform judgment and sentence form provided to the Department of Corrections.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 97-194; s. 6, ch. 98-204; s. 111, ch. 99-3; s. 57, ch. 99-7; s. 3, ch. 99-12; s. 10, ch. 99-188; s. 56, ch. 99-193; s. 25, ch. 2000-320; s. 2, ch. 2001-126; s. 4, ch. 2001-183; s. 1, ch. 2002-212; s. 163, ch. 2004-5; s. 18, ch. 2005-128; s. 5, ch. 2007-2; s. 2, ch. 2007-212; s. 26, ch. 2008-238.</History>
+</Section>

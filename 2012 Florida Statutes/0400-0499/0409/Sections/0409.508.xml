@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.508" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Low-income home energy assistance program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Eligible household” means a household eligible for funds from the Low-income Home Energy Assistance Act of 1981, 42 U.S.C. ss. 8621 et seq.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Home energy” means a source of heating or cooling in residential dwellings.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Utility” means any person, corporation, partnership, municipality, cooperative, association, or other legal entity and its lessees, trustees, or receivers now or hereafter owning, operating, managing, or controlling any plant or other facility supplying electricity or natural gas to or for the public within this state, directly or indirectly, for compensation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity is designated as the state agency to administer the Low-income Home Energy Assistance Act of 1981, 42 U.S.C. ss. 8621 et seq. The Department of Economic Opportunity is authorized to provide home energy assistance benefits to eligible households which may be in the form of cash, vouchers, certificates, or direct payments to electric or natural gas utilities or other energy suppliers and operators of low-rent, subsidized housing in behalf of eligible households. Priority shall be given to eligible households having at least one elderly or handicapped individual and to eligible households with the lowest incomes.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Agreements may be established between electric or natural gas utility companies, other energy suppliers, the Department of Revenue, and the Department of Economic Opportunity for the purpose of providing payments to energy suppliers in the form of a credit against sales and use taxes due or direct payments to energy suppliers for services rendered to low-income, eligible households.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity shall adopt rules to carry out the provisions of this act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 3, 4, 6, ch. 80-167; s. 7, ch. 82-100; s. 70, ch. 83-218; s. 20, ch. 93-181; s. 302, ch. 2011-142.</History>
+</Section>

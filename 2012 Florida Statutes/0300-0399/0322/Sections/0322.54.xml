@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.54" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Classification.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in s. 322.53, effective April 1, 1992, a person may not drive any motor vehicle not authorized by the classification of his or her driver’s license.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall issue, pursuant to the requirements of this chapter, driver licenses in accordance with the following classifications:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who drives a motor vehicle combination having a gross vehicle weight rating or gross vehicle weight of 26,001 pounds or more must possess a valid Class A driver license, if the gross vehicle weight rating or gross vehicle weight of the vehicle being towed is more than 10,000 pounds. Any person who possesses a valid Class A driver license may, subject to the appropriate restrictions and endorsements, drive any class of motor vehicle within this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person, except a person who possesses a valid Class A driver license, who drives a motor vehicle having a gross vehicle weight rating or gross vehicle weight of 26,001 pounds or more must possess a valid Class B driver license. Any person, except a person who possesses a valid Class A driver license, who drives such vehicle towing a vehicle having a gross vehicle weight rating of 10,000 pounds or less must possess a valid Class B driver license. Any person who possesses a valid Class B driver license may, subject to the appropriate restrictions and endorsements, drive any class of motor vehicle, other than the type of motor vehicle for which a Class A driver license is required, within this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person, except a person who possesses a valid Class A or a valid Class B driver license, who drives a motor vehicle having a gross vehicle weight rating of less than 26,001 pounds and who is required to obtain an endorsement pursuant to paragraph (1)(b), paragraph (1)(c), or paragraph (1)(e) of s. 322.57, must possess a valid Class C driver license. Any person who possesses a valid Class C driver license may, subject to the appropriate restrictions and endorsements, drive any class of motor vehicle, other than the type of motor vehicle for which a Class A or a Class B driver license is required, within this state.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person, except a person who possesses a valid Class A, valid Class B, or valid Class C driver license, who drives a motor vehicle must possess a valid Class E driver license. Any person who possesses a valid Class E driver license may, subject to the appropriate restrictions and endorsements, drive any type of motor vehicle, other than the type of motor vehicle for which a Class A, Class B, or Class C driver license is required, within this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Subject to paragraphs (a) and (b), nothing in this section prohibits a person who is not a resident of this state and who possesses a valid driver’s license issued by another jurisdiction from driving a motor vehicle within this state.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any nonresident who drives a commercial motor vehicle within this state must possess a valid commercial driver’s license issued in substantial compliance with the Commercial Motor Vehicle Safety Act of 1986.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall enter into agreements with other jurisdictions to implement and administer this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), any person who operates a commercial motor vehicle and who does not possess a valid commercial driver’s license authorizing such operation is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person whose commercial driver’s license has been expired for a period of 30 days or less and who drives a commercial motor vehicle within this state is guilty of a nonmoving violation, punishable as provided in s. 318.18.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 89-282; s. 426, ch. 95-148; s. 13, ch. 95-247; s. 45, ch. 95-333; s. 89, ch. 2005-164; s. 17, ch. 2012-128; s. 61, ch. 2012-181.</History>
+</Section>

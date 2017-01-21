@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0501.142" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Retail sales establishments; preemption; notice of refund policy; exceptions; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The regulation of refunds is preempted to the Department of Agriculture and Consumer Services notwithstanding any other law or local ordinance to the contrary. Every retail sales establishment offering goods for sale to the general public that offers no cash refund, credit refund, or exchange of merchandise must post a sign so stating at the point of sale. Failure of a retail sales establishment to exhibit a “no refund” sign under such circumstances at the point of sale shall mean that a refund or exchange policy exists, and the policy shall be presented in writing to the consumer upon request. Any retail establishment failing to comply with the provisions of this section shall grant to the consumer, upon request and proof of purchase, a refund on the merchandise, within 7 days of the date of purchase, provided the merchandise is unused and in the original carton, if one was furnished. Nothing herein shall prohibit a retail sales establishment from having a refund policy which exceeds the number of days specified herein. However, this subsection does not prohibit a local government from enforcing the provisions established by this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The provisions of this section shall not apply to the sale of food, perishable goods, goods which are custom made, goods which are custom altered at the request of the customer, or goods which cannot be resold by the merchant because of any law, rule, or regulation adopted by a governmental body.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may enter an order doing one or more of the following if the department finds that a person has violated or is operating in violation of any of the provisions of this section or the orders issued under this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Impose an administrative fine not to exceed $100 for each violation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Direct the person to cease and desist specified activities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The administrative proceedings that could result in the entry of an order imposing any of the penalties specified in subsection (3) are governed by chapter 120.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any moneys recovered by the Department of Agriculture and Consumer Services as a penalty under this section shall be deposited in the General Inspection Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Upon the first violation of this section, a local government may issue a written warning. Upon a second and any subsequent violation, a local government may impose a fine of up to $50 per violation. Any moneys recovered by the local government as a penalty under this section shall be deposited in the appropriate local account.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 78-148; s. 5, ch. 2006-165; s. 2, ch. 2007-334; s. 56, ch. 2012-116.</History>
+</Section>

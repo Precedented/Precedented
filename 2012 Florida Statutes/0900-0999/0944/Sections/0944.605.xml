@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0944.605" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Inmate release; notification.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Within 6 months before the release of an inmate from the custody of the Department of Corrections or a private correctional facility by expiration of sentence under s. 944.275, any release program provided by law, or parole under chapter 947, or as soon as possible if the offender is released earlier than anticipated, notification of such anticipated release date shall be made known by the Department of Corrections to the chief judge of the circuit in which the offender was sentenced, the appropriate state attorney, the original arresting law enforcement agency, the Department of Law Enforcement, and the sheriff as chief law enforcement officer of the county in which the inmate plans to reside. In addition, unless otherwise requested by the victim, the victim’s parent or guardian if the victim is a minor, the lawful representative of the victim or of the victim’s parent or guardian if the victim is a minor, the victim’s next of kin in the case of a homicide, the state attorney or the Department of Corrections, whichever is appropriate, shall notify such person within 6 months before the inmate’s release, or as soon as possible if the offender is released earlier than anticipated, when the name and address of such victim, or the name and address of the parent, guardian, next of kin, or lawful representative of the victim has been furnished to the agency. The state attorney shall provide the latest address documented for the victim, or for the victim’s parent, guardian, next of kin, or lawful representative, as applicable, to the sheriff with the other documents required by law for the delivery of inmates to those agencies for service of sentence. Upon request, within 30 days after an inmate is approved for community work release, the state attorney, the victim, the victim’s parent or guardian if the victim is a minor, the victim’s next of kin in the case of a homicide, or the lawful representative of the victim or of the victim’s parent or guardian if the victim is a minor shall be notified that the inmate has been approved for community work release. This section does not imply any repeal or modification of any provision of law relating to notification of victims.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Within 60 days before the anticipated release of an inmate under subsection (1), a digitized photograph of the inmate to be released shall be made by the Department of Corrections or a private correctional facility, whichever has custody of the inmate. If a private correctional facility makes the digitized photograph, this photograph shall be provided to the Department of Corrections. Additionally, the digitized photograph, whether made by the Department of Corrections or a private correctional facility, shall be placed in the inmate’s file. The Department of Corrections shall make the digitized photograph available electronically to the Department of Law Enforcement as soon as the digitized photograph is in the department’s database and must be in a format that is compatible with the requirements of the Florida Crime Information Center. The department shall provide a copy of the digitized photograph to a local law enforcement agency upon request.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If an inmate is to be released after having served one or more sentences for a conviction of robbery, sexual battery, home-invasion robbery, or carjacking, or an inmate to be released has a prior conviction for robbery, sexual battery, home-invasion robbery, or carjacking or similar offense, in this state or in another jurisdiction, and if such prior conviction information is contained in department records, the department shall release to the sheriff of the county in which the inmate plans to reside, and, if the inmate plans to reside within a municipality, to the chief of police of that municipality, the following information, which must include, but need not be limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Name.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Social security number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Date of birth.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Race.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Sex.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Height.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Weight.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Hair and eye color.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Tattoos or other identifying marks.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Fingerprints.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">A digitized photograph as provided in subsection (2).</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The department shall release the information specified in this paragraph within 6 months prior to the discharge of the inmate from the custody of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department may electronically submit the information listed in paragraph (a) to the sheriff of the county in which the inmate plans to reside, and, if the inmate plans to reside within a municipality, to the chief of police of that municipality.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An inmate who refuses to submit to the taking of a digitized photograph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall, at least 10 days before the anticipated date of release on work release of an inmate, notify in writing the county law enforcement agency in the county in this state in which the inmate is scheduled to be released.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Upon request of the victim, the personal representative of the victim, or the state attorney, the department shall notify the requesting person when an inmate has been approved for community work release within 30 days after the date of approval.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 85-107; s. 9, ch. 88-96; s. 54, ch. 88-122; s. 1, ch. 91-65; s. 22, ch. 91-225; s. 2, ch. 92-76; s. 35, ch. 96-312; s. 10, ch. 97-299; s. 9, ch. 98-81; s. 3, ch. 2001-124; s. 1, ch. 2001-209; s. 9, ch. 2010-64.</History>
+</Section>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0259.036" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Management review teams.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To determine whether conservation, preservation, and recreation lands titled in the name of the Board of Trustees of the Internal Improvement Trust Fund are being managed for the purposes for which they were acquired and in accordance with a land management plan adopted pursuant to s. 259.032, the board of trustees, acting through the Department of Environmental Protection, shall cause periodic management reviews to be conducted as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall establish a regional land management review team composed of the following members:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">One individual who is from the county or local community in which the parcel or project is located and who is selected by the county commission in the county which is most impacted by the acquisition.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One individual from the Division of Recreation and Parks of the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">One individual from the Florida Forest Service of the Department of Agriculture and Consumer Services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">One individual from the Fish and Wildlife Conservation Commission.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">One individual from the department’s district office in which the parcel is located.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A private land manager mutually agreeable to the state agency representatives.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">A member of the local soil and water conservation district board of supervisors.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A member of a conservation organization.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The staff of the Division of State Lands shall act as the review team coordinator for the purposes of establishing schedules for the reviews and other staff functions. The Legislature shall appropriate funds necessary to implement land management review team functions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The land management review team shall review select management areas prior to the date the manager is required to submit a 10-year land management plan update. For management areas that exceed 1,000 acres in size, the Division of State Lands shall schedule a land management review at least every 5 years. A copy of the review shall be provided to the manager, the Division of State Lands, and the Acquisition and Restoration Council. The manager shall consider the findings and recommendations of the land management review team in finalizing the required 10-year update of its management plan.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In conducting a review, the land management review team shall evaluate the extent to which the existing management plan provides sufficient protection to threatened or endangered species, unique or important natural or physical features, geological or hydrological functions, or archaeological features. The review shall also evaluate the extent to which the land is being managed for the purposes for which it was acquired and the degree to which actual management practices, including public access, are in compliance with the adopted management plan.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In the event a land management plan has not been adopted within the timeframes specified in s. 259.032(10), the department may direct a management review of the property, to be conducted by the land management review team. The review shall consider the extent to which the land is being managed for the purposes for which it was acquired and the degree to which actual management practices are in compliance with the management policy statement and management prospectus for that property.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the land management review team determines that reviewed lands are not being managed for the purposes for which they were acquired or in compliance with the adopted land management plan, management policy statement, or management prospectus, or if the managing agency fails to address the review findings in the updated management plan, the department shall provide the review findings to the board, and the managing agency must report to the board its reasons for managing the lands as it has.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">No later than the second board meeting in October of each year, the department shall report the annual review findings of its land management review team.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 97-164; s. 80, ch. 99-245; s. 17, ch. 99-247; s. 8, ch. 2003-394; s. 6, ch. 2012-7.</History>
+</Section>

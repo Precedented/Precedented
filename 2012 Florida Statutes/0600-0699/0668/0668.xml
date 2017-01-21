@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIX">
+	<TitleNumber>TITLE XXXIX</TitleNumber>
+	<TitleName xml:space="preserve">COMMERCIAL RELATIONS</TitleName>
+	<ChapterNumber>668</ChapterNumber>
+	<ChapterName xml:space="preserve">Electronic commerce</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Electronic signatures</PartTitle>
+		<Section Number="0668.001" />
+		<Section Number="0668.002" />
+		<Section Number="0668.003" />
+		<Section Number="0668.004" />
+		<Section Number="0668.006" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Uniform Electronic<NewLine />Transaction Act</PartTitle>
+		<Section Number="0668.50" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Electronic mail<NewLine />communications</PartTitle>
+		<Section Number="0668.60" />
+		<Section Number="0668.601" />
+		<Section Number="0668.602" />
+		<Section Number="0668.603" />
+		<Section Number="0668.604" />
+		<Section Number="0668.605" />
+		<Section Number="0668.606" />
+		<Section Number="0668.6075" />
+		<Section Number="0668.6076" />
+		<Section Number="0668.608" />
+		<Section Number="0668.610" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Fraudulent use or possession<NewLine />of identifying information</PartTitle>
+		<Section Number="0668.701" />
+		<Section Number="0668.702" />
+		<Section Number="0668.703" />
+		<Section Number="0668.704" />
+		<Section Number="0668.705" />
+	</Part>
+</Chapter>

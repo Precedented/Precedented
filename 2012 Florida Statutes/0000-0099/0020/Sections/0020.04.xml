@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Structure of executive branch.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The executive branch of state government is structured as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department is the principal administrative unit of the executive branch. Each department must bear a title beginning with the words “State of Florida” and continuing with “Department of <HorizontalRule Type="Fixed" />.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For field operations, departments may establish district or area offices that combine division, bureau, section, and subsection functions.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For their internal structure, all departments, except for the Department of Financial Services, the Department of Children and Families, the Department of Corrections, the Department of Management Services, the Department of Revenue, and the Department of Transportation, must adhere to the following standard terms:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The principal unit of the department is the “division.” Each division is headed by a “director.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The principal unit of the division is the “bureau.” Each bureau is headed by a “chief.”</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The principal unit of the bureau is the “section.” Each section is headed by an “administrator.”</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If further subdivision is necessary, sections may be divided into “subsections,” which are headed by “supervisors.”</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Within the Department of Children and Families there are organizational units called “circuits” and “regions.” Each circuit is aligned geographically with each judicial circuit, and each region comprises multiple circuits which are in geographical proximity to each other.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Within the Department of Corrections the principal policy and program development unit of the department is the “office.” Each “office” is headed by a director.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Within the Department of Transportation the principal policy and program development unit of the department is the “office.” Each “office” is headed by a director.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless specifically authorized by law, the head of a department may not reallocate duties and functions specifically assigned by law to a specific unit of the department. Those functions or agencies assigned generally to the department without specific designation to a unit of the department may be allocated and reallocated to a unit of the department at the discretion of the head of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Within the limitations of this subsection, the head of the department may recommend the establishment of additional divisions, bureaus, sections, and subsections of the department to promote efficient and effective operation of the department. However, additional divisions, or offices in the Department of Children and Families, the Department of Corrections, and the Department of Transportation, may be established only by specific statutory enactment. New bureaus, sections, and subsections of departments may be initiated by a department and established as recommended by the Department of Management Services and approved by the Executive Office of the Governor, or may be established by specific statutory enactment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For the purposes of such recommendations and approvals, the Department of Management Services and the Executive Office of the Governor, respectively, must adopt and apply specific criteria for assessing the appropriateness of all reorganization requests from agencies. The criteria must be applied to future agency requests for reorganization and must be used to review the appropriateness of bureaus currently in existence. Any current bureau that does not meet the criteria for a bureau must be reorganized into a section or other appropriate unit.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Executive Office of the Governor must maintain a current organizational chart of each agency of the executive branch, which must identify all divisions, bureaus, units, and subunits of the agency. Agencies must submit such organizational charts in accordance with guidelines established by the Executive Office of the Governor.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 69-106; s. 1, ch. 70-384; s. 1, ch. 75-48; s. 5, ch. 75-49; s. 1, ch. 75-275; s. 2, ch. 77-147; s. 2, ch. 78-95; s. 1, ch. 79-3; ss. 28, 61, ch. 79-190; s. 1, ch. 83-230; s. 11, ch. 85-318; s. 1, ch. 88-215; s. 1, ch. 88-235; s. 1, ch. 88-290; s. 2, ch. 91-158; s. 7, ch. 92-279; s. 55, ch. 92-326; s. 3, ch. 94-235; ss. 1, 15, ch. 95-272; ss. 2, 3, ch. 96-403; s. 1, ch. 97-287; s. 2, ch. 97-296; s. 3, ch. 99-155; s. 1, ch. 2000-139; s. 1, ch. 2002-404; s. 67, ch. 2003-261; s. 1, ch. 2012-84; ss. 7, 8, 56 , ch. 2012-119.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 7, ch. 2012-119, amended subsection (4) “[i]n order to implement Specific Appropriations 283 through 390 of the 2012-2013 General Appropriations Act.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 8, ch. 2012-119, provides that “[t]he amendment to s. 20.04(4), Florida Statutes, shall expire July 1, 2013, and the text of that subsection shall revert to that in existence on June 30, 2012, except that any amendments to such text enacted other than by this act shall be preserved and continue to operate to the extent that such amendments are not dependent upon the portions of text which expire pursuant to this section.”</Text>
+		<Text xml:space="preserve" Style="Indent">C. Section 56, ch. 2012-119, provides that “[i]f any other act passed during the 2012 Regular Session contains a provision that is substantively the same as a provision in this act, but that removes or is otherwise not subject to the future repeal applied to such provision by this act, the Legislature intends that the provision in the other act takes precedence and continues to operate, notwithstanding the future repeal provided by this act.” Section 1, ch. 2012-84, amended subsection (4) to make the same substantive change made in the amendment by s. 7, ch. 2012-119, and did not include a repeal provision.</Text>
+	</Note>
+</Section>

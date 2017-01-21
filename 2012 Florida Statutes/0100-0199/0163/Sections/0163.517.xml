@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.517" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Safe Neighborhoods Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Safe Neighborhoods Program is hereby created. The purpose of the program shall be to provide planning grants and technical assistance on a 100-percent matching basis to the neighborhood improvement districts authorized by this part. Planning grants shall be awarded to eligible applicants, pursuant to the process described in subsections (2) and (3), as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Property owners’ association neighborhood improvement districts may receive up to $20,000.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Local government neighborhood improvement districts may receive up to $100,000.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Special neighborhood improvement districts may receive up to $50,000.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Community redevelopment neighborhood improvement districts may receive up to $50,000.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Applications for planning grants from the Safe Neighborhoods Program shall be considered when the following criteria are met:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Verification that the local governing body has passed an ordinance creating neighborhood improvement districts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Verification of commitment to provide matching funds for purposes of planning for neighborhood improvement districts. A local match may include in-kind services such as office space and supplies. The fair market value of such in-kind services must be documented.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">All applications determined to be eligible for consideration shall be reviewed, evaluated, and rank ordered based on the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Evidence of commitment from neighborhood organizations, homeowners, property owners, business or merchant’s associations, or concerned individuals to participate in the activities of their neighborhood improvement districts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Need of the community for neighborhood improvement districts for purposes of reducing crime, including the degree to which crime data indicates an escalation of criminal activities which impact area physical and economic conditions, identification of environmental factors which support criminal activities, previous crime prevention plans and efforts which impact the physical environment, excessive traffic counts for residential roads, and crime rates in enterprise zones and in business and commercial areas.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Need of the community for state planning funds to successfully implement neighborhood improvement districts, including consideration of the community’s existing planning, law enforcement, and other appropriate local services and resources.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Population distribution of Florida’s cities and counties shall be considered in order to give communities of all sizes an opportunity to benefit from the matching funds provided by the Safe Neighborhoods Program for the establishment of neighborhood improvement districts. No more than one neighborhood improvement district within the boundaries of a local government shall be awarded a planning grant in any given funding cycle.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each neighborhood improvement district which receives funds under this section shall submit an audit to the department. Such audits shall be submitted no less than one time per year. Neighborhood improvement districts must submit an audit to the department at least 30 days prior to making application for additional planning grants. A local government audit performed in accordance with the provisions of chapter 218, covering the period of the grant, may be submitted to satisfy this requirement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 66, ch. 87-243; s. 36, ch. 91-45; s. 15, ch. 91-86; s. 9, ch. 93-120; s. 47, ch. 2012-116.</History>
+</Section>

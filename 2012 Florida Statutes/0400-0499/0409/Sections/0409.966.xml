@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.966" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligible plans; selection.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ELIGIBLE PLANS.<EmDash />Services in the Medicaid managed care program shall be provided by eligible plans. A provider service network must be capable of providing all covered services to a mandatory Medicaid managed care enrollee or may limit the provision of services to a specific target population based on the age, chronic disease state, or medical condition of the enrollee to whom the network will provide services. A specialty provider service network must be capable of coordinating care and delivering or arranging for the delivery of all covered services to the target population. A provider service network may partner with an insurer licensed under chapter 627 or a health maintenance organization licensed under chapter 641 to meet the requirements of a Medicaid contract.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ELIGIBLE PLAN SELECTION.<EmDash />The agency shall select a limited number of eligible plans to participate in the Medicaid program using invitations to negotiate in accordance with s. 287.057(3)(a). At least 90 days before issuing an invitation to negotiate, the agency shall compile and publish a databook consisting of a comprehensive set of utilization and spending data for the 3 most recent contract years consistent with the rate-setting periods for all Medicaid recipients by region or county. The source of the data in the report must include both historic fee-for-service claims and validated data from the Medicaid Encounter Data System. The report must be available in electronic form and delineate utilization use by age, gender, eligibility group, geographic area, and aggregate clinical risk score. Separate and simultaneous procurements shall be conducted in each of the following regions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Region 1, which consists of Escambia, Okaloosa, Santa Rosa, and Walton Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Region 2, which consists of Bay, Calhoun, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Taylor, Wakulla, and Washington Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Region 3, which consists of Alachua, Bradford, Citrus, Columbia, Dixie, Gilchrist, Hamilton, Hernando, Lafayette, Lake, Levy, Marion, Putnam, Sumter, Suwannee, and Union Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Region 4, which consists of Baker, Clay, Duval, Flagler, Nassau, St. Johns, and Volusia Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Region 5, which consists of Pasco and Pinellas Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Region 6, which consists of Hardee, Highlands, Hillsborough, Manatee, and Polk Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Region 7, which consists of Brevard, Orange, Osceola, and Seminole Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Region 8, which consists of Charlotte, Collier, DeSoto, Glades, Hendry, Lee, and Sarasota Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Region 9, which consists of Indian River, Martin, Okeechobee, Palm Beach, and St. Lucie Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Region 10, which consists of Broward County.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Region 11, which consists of Miami-Dade and Monroe Counties.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">QUALITY SELECTION CRITERIA.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The invitation to negotiate must specify the criteria and the relative weight of the criteria that will be used for determining the acceptability of the reply and guiding the selection of the organizations with which the agency negotiates. In addition to criteria established by the agency, the agency shall consider the following factors in the selection of eligible plans:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Accreditation by the National Committee for Quality Assurance, the Joint Commission, or another nationally recognized accrediting body.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Experience serving similar populations, including the organization’s record in achieving specific quality standards with similar populations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Availability and accessibility of primary care and specialty physicians in the provider network.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Establishment of community partnerships with providers that create opportunities for reinvestment in community-based services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Organization commitment to quality improvement and documentation of achievements in specific quality improvement projects, including active involvement by organization leadership.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Provision of additional benefits, particularly dental care and disease management, and other initiatives that improve health outcomes.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Evidence that an eligible plan has written agreements or signed contracts or has made substantial progress in establishing relationships with providers before the plan submitting a response.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Comments submitted in writing by any enrolled Medicaid provider relating to a specifically identified plan participating in the procurement in the same region as the submitting provider.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Documentation of policies and procedures for preventing fraud and abuse.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The business relationship an eligible plan has with any other eligible plan that responds to the invitation to negotiate.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An eligible plan must disclose any business relationship it has with any other eligible plan that responds to the invitation to negotiate. The agency may not select plans in the same region for the same managed care program that have a business relationship with each other. Failure to disclose any business relationship shall result in disqualification from participation in any region for the first full contract period after the discovery of the business relationship by the agency. For the purpose of this section, “business relationship” means an ownership or controlling interest, an affiliate or subsidiary relationship, a common parent, or any mutual interest in any limited partnership, limited liability partnership, limited liability company, or other entity or business association, including all wholly or partially owned subsidiaries, majority-owned subsidiaries, parent companies, or affiliates of such entities, business associations, or other enterprises, that exists for the purpose of making a profit.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">After negotiations are conducted, the agency shall select the eligible plans that are determined to be responsive and provide the best value to the state. Preference shall be given to plans that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Have signed contracts with primary and specialty physicians in sufficient numbers to meet the specific standards established pursuant to s. 409.967(2)(c).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Have well-defined programs for recognizing patient-centered medical homes and providing for increased compensation for recognized medical homes, as defined by the plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Are organizations that are based in and perform operational functions in this state, in-house or through contractual arrangements, by staff located in this state. Using a tiered approach, the highest number of points shall be awarded to a plan that has all or substantially all of its operational functions performed in the state. The second highest number of points shall be awarded to a plan that has a majority of its operational functions performed in the state. The agency may establish a third tier; however, preference points may not be awarded to plans that perform only community outreach, medical director functions, and state administrative functions in the state. For purposes of this subparagraph, operational functions include corporate headquarters, claims processing, member services, provider relations, utilization and prior authorization, case management, disease and quality functions, and finance and administration. For purposes of this subparagraph, the term “corporate headquarters” means the principal office of the organization, which may not be a subsidiary, directly or indirectly through one or more subsidiaries of, or a joint venture with, any other entity whose principal office is not located in the state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Have contracts or other arrangements for cancer disease management programs that have a proven record of clinical efficiencies and cost savings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Have contracts or other arrangements for diabetes disease management programs that have a proven record of clinical efficiencies and cost savings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Have a claims payment process that ensures that claims that are not contested or denied will be promptly paid pursuant to s. 641.3155.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For the first year of the first contract term, the agency shall negotiate capitation rates or fee for service payments with each plan in order to guarantee aggregate savings of at least 5 percent.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For prepaid plans, determination of the amount of savings shall be calculated by comparison to the Medicaid rates that the agency paid managed care plans for similar populations in the same areas in the prior year. In regions containing no prepaid plans in the prior year, determination of the amount of savings shall be calculated by comparison to the Medicaid rates established and certified for those regions in the prior year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For provider service networks operating on a fee-for-service basis, determination of the amount of savings shall be calculated by comparison to the Medicaid rates that the agency paid on a fee-for-service basis for the same services in the prior year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To ensure managed care plan participation in Regions 1 and 2, the agency shall award an additional contract to each plan with a contract award in Region 1 or Region 2. Such contract shall be in any other region in which the plan submitted a responsive bid and negotiates a rate acceptable to the agency. If a plan that is awarded an additional contract pursuant to this paragraph is subject to penalties pursuant to s. 409.967(2)(h) for activities in Region 1 or Region 2, the additional contract is automatically terminated 180 days after the imposition of the penalties. The plan must reimburse the agency for the cost of enrollment changes and other transition activities.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The agency may not execute contracts with managed care plans at payment rates not supported by the General Appropriations Act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADMINISTRATIVE CHALLENGE.<EmDash />Any eligible plan that participates in an invitation to negotiate in more than one region and is selected in at least one region may not begin serving Medicaid recipients in any region for which it was selected until all administrative challenges to procurements required by this section to which the eligible plan is a party have been finalized. If the number of plans selected is less than the maximum amount of plans permitted in the region, the agency may contract with other selected plans in the region not participating in the administrative challenge before resolution of the administrative challenge. For purposes of this subsection, an administrative challenge is finalized if an order granting voluntary dismissal with prejudice has been entered by any court established under Article V of the State Constitution or by the Division of Administrative Hearings, a final order has been entered into by the agency and the deadline for appeal has expired, a final order has been entered by the First District Court of Appeal and the time to seek any available review by the Florida Supreme Court has expired, or a final order has been entered by the Florida Supreme Court and a warrant has been issued.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2011-134; s. 50, ch. 2012-5; s. 6, ch. 2012-44.</History>
+</Section>

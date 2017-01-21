@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0429.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">License required; fee.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The requirements of part II of chapter 408 apply to the provision of services that require licensure pursuant to this part and part II of chapter 408 and to entities licensed by or applying for such licensure from the agency pursuant to this part. A license issued by the agency is required in order to operate an assisted living facility in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Separate licenses shall be required for facilities maintained in separate premises, even though operated under the same management. A separate license shall not be required for separate buildings on the same grounds.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In addition to the requirements of s. 408.806, each license granted by the agency must state the type of care for which the license is granted. Licenses shall be issued for one or more of the following categories of care: standard, extended congregate care, limited nursing services, or limited mental health.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A standard license shall be issued to facilities providing one or more of the personal services identified in s. 429.02. Such facilities may also employ or contract with a person licensed under part I of chapter 464 to administer medications and perform other tasks as specified in s. 429.255.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An extended congregate care license shall be issued to facilities providing, directly or through contract, services beyond those authorized in paragraph (a), including services performed by persons licensed under part I of chapter 464 and supportive services, as defined by rule, to persons who would otherwise be disqualified from continued residence in a facility licensed under this part.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In order for extended congregate care services to be provided, the agency must first determine that all requirements established in law and rule are met and must specifically designate, on the facility’s license, that such services may be provided and whether the designation applies to all or part of the facility. Such designation may be made at the time of initial licensure or relicensure, or upon request in writing by a licensee under this part and part II of chapter 408. The notification of approval or the denial of the request shall be made in accordance with part II of chapter 408. Existing facilities qualifying to provide extended congregate care services must have maintained a standard license and may not have been subject to administrative sanctions during the previous 2 years, or since initial licensure if the facility has been licensed for less than 2 years, for any of the following reasons:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A class I or class II violation;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Three or more repeat or recurring class III violations of identical or similar resident care standards from which a pattern of noncompliance is found by the agency;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Three or more class III violations that were not corrected in accordance with the corrective action plan approved by the agency;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Violation of resident care standards which results in requiring the facility to employ the services of a consultant pharmacist or consultant dietitian;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Denial, suspension, or revocation of a license for another facility licensed under this part in which the applicant for an extended congregate care license has at least 25 percent ownership interest; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Imposition of a moratorium pursuant to this part or part II of chapter 408 or initiation of injunctive proceedings.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A facility that is licensed to provide extended congregate care services shall maintain a written progress report on each person who receives services which describes the type, amount, duration, scope, and outcome of services that are rendered and the general status of the resident’s health. A registered nurse, or appropriate designee, representing the agency shall visit the facility at least quarterly to monitor residents who are receiving extended congregate care services and to determine if the facility is in compliance with this part, part II of chapter 408, and relevant rules. One of the visits may be in conjunction with the regular survey. The monitoring visits may be provided through contractual arrangements with appropriate community agencies. A registered nurse shall serve as part of the team that inspects the facility. The agency may waive one of the required yearly monitoring visits for a facility that has been licensed for at least 24 months to provide extended congregate care services, if, during the inspection, the registered nurse determines that extended congregate care services are being provided appropriately, and if the facility has no class I or class II violations and no uncorrected class III violations. The agency must first consult with the long-term care ombudsman council for the area in which the facility is located to determine if any complaints have been made and substantiated about the quality of services or care. The agency may not waive one of the required yearly monitoring visits if complaints have been made and substantiated.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A facility that is licensed to provide extended congregate care services must:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Demonstrate the capability to meet unanticipated resident service needs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Offer a physical environment that promotes a homelike setting, provides for resident privacy, promotes resident independence, and allows sufficient congregate space as defined by rule.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Have sufficient staff available, taking into account the physical plant and firesafety features of the building, to assist with the evacuation of residents in an emergency.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Adopt and follow policies and procedures that maximize resident independence, dignity, choice, and decisionmaking to permit residents to age in place, so that moves due to changes in functional status are minimized or avoided.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Allow residents or, if applicable, a resident’s representative, designee, surrogate, guardian, or attorney in fact to make a variety of personal choices, participate in developing service plans, and share responsibility in decisionmaking.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Implement the concept of managed risk.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Provide, directly or through contract, the services of a person licensed under part I of chapter 464.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">In addition to the training mandated in s. 429.52, provide specialized training as defined by rule for facility staff.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A facility that is licensed to provide extended congregate care services is exempt from the criteria for continued residency set forth in rules adopted under s. 429.41. A licensed facility must adopt its own requirements within guidelines for continued residency set forth by rule. However, the facility may not serve residents who require 24-hour nursing supervision. A licensed facility that provides extended congregate care services must also provide each resident with a written copy of facility policies governing admission and retention.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The primary purpose of extended congregate care services is to allow residents, as they become more impaired, the option of remaining in a familiar setting from which they would otherwise be disqualified for continued residency. A facility licensed to provide extended congregate care services may also admit an individual who exceeds the admission criteria for a facility with a standard license, if the individual is determined appropriate for admission to the extended congregate care facility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Before the admission of an individual to a facility licensed to provide extended congregate care services, the individual must undergo a medical examination as provided in s. 429.26(4) and the facility must develop a preliminary service plan for the individual.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">When a facility can no longer provide or arrange for services in accordance with the resident’s service plan and needs and the facility’s policy, the facility shall make arrangements for relocating the person in accordance with s. 429.28(1)(k).</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Failure to provide extended congregate care services may result in denial of extended congregate care license renewal.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A limited nursing services license shall be issued to a facility that provides services beyond those authorized in paragraph (a) and as specified in this paragraph.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In order for limited nursing services to be provided in a facility licensed under this part, the agency must first determine that all requirements established in law and rule are met and must specifically designate, on the facility’s license, that such services may be provided. Such designation may be made at the time of initial licensure or relicensure, or upon request in writing by a licensee under this part and part II of chapter 408. Notification of approval or denial of such request shall be made in accordance with part II of chapter 408. Existing facilities qualifying to provide limited nursing services shall have maintained a standard license and may not have been subject to administrative sanctions that affect the health, safety, and welfare of residents for the previous 2 years or since initial licensure if the facility has been licensed for less than 2 years.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Facilities that are licensed to provide limited nursing services shall maintain a written progress report on each person who receives such nursing services, which report describes the type, amount, duration, scope, and outcome of services that are rendered and the general status of the resident’s health. A registered nurse representing the agency shall visit such facilities at least twice a year to monitor residents who are receiving limited nursing services and to determine if the facility is in compliance with applicable provisions of this part, part II of chapter 408, and related rules. The monitoring visits may be provided through contractual arrangements with appropriate community agencies. A registered nurse shall also serve as part of the team that inspects such facility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A person who receives limited nursing services under this part must meet the admission criteria established by the agency for assisted living facilities. When a resident no longer meets the admission criteria for a facility licensed under this part, arrangements for relocating the person shall be made in accordance with s. 429.28(1)(k), unless the facility is licensed to provide extended congregate care services.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In accordance with s. 408.805, an applicant or licensee shall pay a fee for each license application submitted under this part, part II of chapter 408, and applicable rules. The amount of the fee shall be established by rule.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The biennial license fee required of a facility is $300 per license, with an additional fee of $50 per resident based on the total licensed resident capacity of the facility, except that no additional fee will be assessed for beds designated for recipients of optional state supplementation payments provided for in s. 409.212. The total fee may not exceed $10,000.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to the total fee assessed under paragraph (a), the agency shall require facilities that are licensed to provide extended congregate care services under this part to pay an additional fee per licensed facility. The amount of the biennial fee shall be $400 per license, with an additional fee of $10 per resident based on the total licensed resident capacity of the facility.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In addition to the total fee assessed under paragraph (a), the agency shall require facilities that are licensed to provide limited nursing services under this part to pay an additional fee per licensed facility. The amount of the biennial fee shall be $250 per license, with an additional fee of $10 per resident based on the total licensed resident capacity of the facility.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Counties or municipalities applying for licenses under this part are exempt from the payment of license fees.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 75-233; s. 8, ch. 79-12; ss. 12, 16, ch. 80-198; s. 2, ch. 81-318; ss. 43, 79, 83, ch. 83-181; s. 2, ch. 86-104; s. 5, ch. 87-371; s. 11, ch. 89-294; s. 5, ch. 91-263; s. 10, ch. 91-282; s. 22, ch. 93-177; ss. 4, 38, 39, ch. 93-216; s. 20, ch. 95-146; s. 9, ch. 95-210; ss. 2, 18, 23, ch. 95-418; s. 3, ch. 97-82; s. 18, ch. 97-96; s. 3, ch. 98-80; s. 99, ch. 2000-318; s. 33, ch. 2001-45; ss. 2, 31, ch. 2006-197; s. 101, ch. 2007-5; s. 139, ch. 2007-230; s. 141, ch. 2010-102.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 400.407.</Text>
+	</Note>
+</Section>

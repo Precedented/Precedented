@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0721.85" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Service to notice address or on registered agent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Service of process for a foreclosure proceeding involving a timeshare interest may be made by any means recognized by law. In addition, substituted service on an obligor who has appointed a registered agent under s. 721.84 may be made on such registered agent at the registered office. Also, when using s. 48.194 where in rem or quasi in rem relief only is sought, such service of process provisions are modified in connection with a foreclosure proceeding against a timeshare interest to provide that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Such service of process may be made on any person whether the person is located inside or outside this state, by certified mail, registered mail, or permitted delivery service, return receipt requested, addressed to the person to be served at the notice address, or on the person’s registered agent duly appointed under s. 721.84, at the registered office; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Service shall be considered obtained upon the signing of the return receipt by any person at the notice address, or by the registered agent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The current owner and the mortgagor of a timeshare interest must promptly notify the owners’ association and the mortgagee of any change of address.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Substituted notice under s. 721.855 or s. 721.856 for any party who has appointed a registered agent under s. 721.84 may be made on such registered agent at the registered office.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 98-36; s. 45, ch. 2000-302; s. 8, ch. 2010-134.</History>
+</Section>

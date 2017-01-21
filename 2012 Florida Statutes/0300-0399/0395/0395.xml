@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXIX">
+	<ChapterNumber>395</ChapterNumber>
+	<ChapterName xml:space="preserve">Hospital licensing and regulation</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Hospitals and other<NewLine />licensed facilities</PartTitle>
+		<Section Number="0395.001" />
+		<Section Number="0395.002" />
+		<Section Number="0395.003" />
+		<Section Number="0395.004" />
+		<Section Number="0395.0056" />
+		<Section Number="0395.009" />
+		<Section Number="0395.0161" />
+		<Section Number="0395.0162" />
+		<Section Number="0395.0163" />
+		<Section Number="0395.0185" />
+		<Section Number="0395.0191" />
+		<Section Number="0395.0193" />
+		<Section Number="0395.0195" />
+		<Section Number="0395.0197" />
+		<Section Number="0395.1011" />
+		<Section Number="0395.1012" />
+		<Section Number="0395.1021" />
+		<Section Number="0395.1023" />
+		<Section Number="0395.1024" />
+		<Section Number="0395.1025" />
+		<Section Number="0395.1027" />
+		<Section Number="0395.1031" />
+		<Section Number="0395.1041" />
+		<Section Number="0395.1046" />
+		<Section Number="0395.1051" />
+		<Section Number="0395.1055" />
+		<Section Number="0395.1056" />
+		<Section Number="0395.106" />
+		<Section Number="0395.1065" />
+		<Section Number="0395.107" />
+		<Section Number="0395.10971" />
+		<Section Number="0395.10972" />
+		<Section Number="0395.10973" />
+		<Section Number="0395.10974" />
+		<Section Number="0395.10975" />
+		<Section Number="0395.2050" />
+		<Section Number="0395.301" />
+		<Section Number="0395.3015" />
+		<Section Number="0395.302" />
+		<Section Number="0395.3025" />
+		<Section Number="0395.3035" />
+		<Section Number="0395.3036" />
+		<Section Number="0395.3037" />
+		<Section Number="0395.3038" />
+		<Section Number="0395.3039" />
+		<Section Number="0395.3041" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Trauma</PartTitle>
+		<Section Number="0395.40" />
+		<Section Number="0395.4001" />
+		<Section Number="0395.401" />
+		<Section Number="0395.4015" />
+		<Section Number="0395.402" />
+		<Section Number="0395.4025" />
+		<Section Number="0395.403" />
+		<Section Number="0395.4036" />
+		<Section Number="0395.404" />
+		<Section Number="0395.4045" />
+		<Section Number="0395.405" />
+		<Section Number="0395.50" />
+		<Section Number="0395.51" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Rural hospitals</PartTitle>
+		<Section Number="0395.602" />
+		<Section Number="0395.6025" />
+		<Section Number="0395.603" />
+		<Section Number="0395.604" />
+		<Section Number="0395.605" />
+		<Section Number="0395.6061" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Public Medical Assistance Trust Fund</PartTitle>
+		<Section Number="0395.701" />
+		<Section Number="0395.7015" />
+		<Section Number="0395.7016" />
+		<Section Number="0395.7017" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Family practice teaching hospitals</PartTitle>
+		<Section Number="0395.805" />
+		<Section Number="0395.806" />
+		<Section Number="0395.807" />
+	</Part>
+</Chapter>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0030.49" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Budgets.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 129.03(2), each sheriff shall annually prepare and submit to the board of county commissioners a proposed budget for carrying out the powers, duties, and operations of the office for the next fiscal year. The fiscal year of the sheriff commences on October 1 and ends September 30 of each year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The proposed budget must show the estimated amounts of all proposed expenditures for operating and equipping the sheriff’s office and jail, excluding the cost of construction, repair, or capital improvement of county buildings during the fiscal year. The expenditures must be categorized at the appropriate fund level in accordance with the following functional categories:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">General law enforcement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Corrections and detention alternative facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Court services, excluding service of process.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The sheriff shall submit a sworn certificate along with the proposed budget stating that the proposed expenditures are reasonable and necessary for the proper and efficient operation of the office for the next fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Within the appropriate fund and functional category, expenditures must be itemized in accordance with the uniform accounting system prescribed by the Department of Financial Services, as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Personnel services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Operating expenses.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Capital outlay.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Debt service.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Grants and aids.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Other uses.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The sheriff shall submit to the board of county commissioners for consideration and inclusion in the county budget, as deemed appropriate by the county, requests for construction, repair, or capital improvement of county buildings operated or occupied by the sheriff.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The sheriff shall furnish to the board of county commissioners or the budget commission, if there is a budget commission in the county, all relevant and pertinent information concerning expenditures made in previous fiscal years and proposed expenditures which the board or commission deems necessary, including expenditures at the subobject code level in accordance with the uniform accounting system prescribed by the Department of Financial Services. The board or commission may not amend, modify, increase, or reduce any expenditure at the subobject code level. The board or commission may not require confidential information concerning details of investigations which is exempt from s. 119.07(1).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The board of county commissioners or the budget commission, as appropriate, may require the sheriff to correct mathematical, mechanical, factual, and clerical errors and errors as to form in the proposed budget. At the hearings held pursuant to s. 200.065, the board or commission may amend, modify, increase, or reduce any or all items of expenditure in the proposed budget, as certified by the sheriff pursuant to paragraphs (2)(a)-(c), and shall approve such budget, as amended, modified, increased, or reduced. The board or commission must give written notice of its action to the sheriff and specify in such notice the specific items amended, modified, increased, or reduced. The budget must include the salaries and expenses of the sheriff’s office, cost of operation of the county jail, purchase, maintenance and operation of equipment, including patrol cars, radio systems, transporting prisoners, court duties, and all other salaries, expenses, equipment, and investigation expenditures of the entire sheriff’s office for the previous year.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The sheriff, within 30 days after receiving written notice of such action by the board or commission, in person or in his or her office, may file an appeal by petition to the Administration Commission. The petition must set forth the budget proposed by the sheriff, in the form and manner prescribed by the Executive Office of the Governor and approved by the Administration Commission, and the budget as approved by the board of county commissioners or the budget commission and shall contain the reasons or grounds for the appeal. Such petition shall be filed with the Executive Office of the Governor, and a copy served upon the board or commission from the decision of which appeal is taken by delivering the same to the chair or president thereof or to the clerk of the circuit court.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The board or commission shall have 5 days following delivery of a copy of such petition to file a reply with the Executive Office of the Governor, and shall deliver a copy of such reply to the sheriff.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of the petition, the Executive Office of the Governor shall provide for a budget hearing at which the matters presented in the petition and the reply shall be considered. A report of the findings and recommendations of the Executive Office of the Governor thereon shall be promptly submitted to the Administration Commission, which, within 30 days, shall either approve the action of the board or commission as to each separate item, or approve the budget as proposed by the sheriff as to each separate item, or amend or modify the budget as to each separate item within the limits of the proposed board of expenditures and the expenditures as approved by the board of county commissioners or the budget commission, as the case may be. The budget as approved, amended, or modified by the Administration Commission shall be final.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The board of county commissioners and the budget commission, if there is a budget commission within the county, shall include in the county budget the items of proposed expenditures as set forth in the budget required by this section to be submitted, after the budget has been reviewed and approved as provided herein; and the board or commission, as the case may be, shall include the reserve for contingencies provided herein for each budget of the sheriff in the reserve for contingencies in the budget of the appropriate county fund.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The reserve for contingencies in the budget of a sheriff shall be governed by the same provisions governing the amount and use of the reserve for contingencies appropriated in the county budget, except that the reserve for contingency in the budget of the sheriff shall be appropriated upon written request of the sheriff.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The items placed in the budget of the board of county commissioners pursuant to this law shall be subject to the same provisions of law as the county annual budget; except that no amendments may be made to the appropriations for the sheriff’s office except as requested by the sheriff.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The proposed expenditures in the budget shall be submitted to the board of county commissioners or budget commission, if there is a budget commission within the county, by June 1 each year; and the budget shall be included by the board or commission, as the case may be, in the budget of either the general fund or the fine and forfeiture fund, or in part of each.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">If in the judgment of the sheriff an emergency should arise by reason of which the sheriff would be unable to perform his or her duties without the expenditure of larger amounts than those provided in the budget, he or she may apply to the board of county commissioners for the appropriation of additional amounts. If the board of county commissioners approves the sheriff’s request, no further action is required on either party. If the board of county commissioners disapproves a portion or all of the sheriff’s request, the sheriff may apply to the Administration Commission for the appropriation of additional amounts. The sheriff shall at the same time deliver a copy of the application to the Administration Commission, the board of county commissioners, and the budget commission, if there is a budget commission within the county. The Administration Commission may require a budget hearing on the application, after due notice to the sheriff and to the boards, and may grant or deny an increase or increases in the appropriations for the sheriff’s offices. If any increase is granted, the board of county commissioners, and the budget commission, if there is a budget commission in the county, shall amend accordingly the budget of the appropriate county fund or funds. Such budget shall be brought into balance, if possible, by application of excess receipts in such county fund or funds. If such excess receipts are not available in sufficient amount, the county fund budget or budgets shall be brought into balance by adding an item of “Vouchers unpaid” in the appropriate amount to the receipts side of the budget, and provision for paying such vouchers shall be made in the budget of the county fund for the next fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of law to the contrary, a sheriff may include a clothing and maintenance allowance for plainclothes deputies within his or her budget.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 57-368; ss. 3, 4, ch. 59-216; ss. 12, 28, 35, ch. 69-106; s. 7, ch. 71-355; s. 7, ch. 73-349; s. 1, ch. 74-103; s. 17, ch. 77-104; s. 85, ch. 79-190; s. 28, ch. 81-259; s. 1, ch. 82-33; s. 12, ch. 82-154; s. 1, ch. 83-204; s. 35, ch. 84-254; s. 9, ch. 90-360; s. 188, ch. 95-147; s. 1, ch. 95-169; s. 12, ch. 96-406; s. 22, ch. 97-96; s. 2, ch. 2002-193; s. 91, ch. 2003-261; s. 2, ch. 2011-144.</History>
+</Section>

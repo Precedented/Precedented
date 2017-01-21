@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.022" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Appointment of a registered agent; duties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each political committee, committee of continuous existence, or electioneering communications organization shall have and continuously maintain in this state a registered office and a registered agent and must file with the filing officer a statement of appointment for the registered office and registered agent. The statement of appointment must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide the name of the registered agent and the street address and phone number for the registered office;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Identify the entity for whom the registered agent serves;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Designate the address the registered agent wishes to use to receive mail;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Include the entity’s undertaking to inform the filing officer of any change in such designated address;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide for the registered agent’s acceptance of the appointment, which must confirm that the registered agent is familiar with and accepts the obligations of the position as set forth in this section; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Contain the signature of the registered agent and the entity engaging the registered agent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An entity may change its appointment of registered agent and registered office under this section by executing a written statement of change and filing it with the filing officer. The statement must satisfy all of the requirements of subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A registered agent may resign his or her appointment as registered agent by executing a written statement of resignation and filing it with the filing officer. An entity without a registered agent may not make expenditures or accept contributions until it files a written statement of change as required in subsection (2).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 67, ch. 2005-277; s. 2, ch. 2006-300; s. 20, ch. 2010-167; ss. 6, 30, ch. 2011-6; s. 54, ch. 2011-40; HJR 7105, 2011 Regular Session.</History>
+</Section>

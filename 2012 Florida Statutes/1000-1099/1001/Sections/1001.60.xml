@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1001.60" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida College System.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PURPOSES.<EmDash />In order to maximize open access for students, respond to community needs for postsecondary academic education and career degree education, and provide associate and baccalaureate degrees that will best meet the state’s employment needs, the Legislature establishes a system of governance for the Florida College System.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">FLORIDA COLLEGE SYSTEM.<EmDash />There shall be a single Florida College System comprised of the Florida College System institutions identified in s. 1000.21(3). A Florida College System institution may not offer graduate degree programs.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The programs and services offered by Florida College System institutions in providing associate and baccalaureate degrees shall be delivered in a cost-effective manner that demonstrates substantial savings to the student and to the state over the cost of providing the degree at a state university.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">With the approval of its district board of trustees, a Florida College System institution may change the institution’s name set forth in s. 1000.21(3) and use the designation “college” or “state college” if it has been authorized to grant baccalaureate degrees pursuant to s. 1007.33 and has been accredited as a baccalaureate-degree-granting institution by the Commission on Colleges of the Southern Association of Colleges and Schools.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">With the approval of its district board of trustees, a Florida College System institution that does not meet the criteria in subparagraph 1. may request approval from the State Board of Education to change the institution’s name set forth in s. 1000.21(3) and use the designation “college.” The State Board of Education may approve the request if the Florida College System institution enters into an agreement with the State Board of Education to do the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Maintain as its primary mission responsibility for responding to community needs for postsecondary academic education and career degree education as prescribed in s. 1004.65(5).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Maintain an open-door admissions policy for associate-level degree programs and workforce education programs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Continue to provide outreach to underserved populations.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Continue to provide remedial education.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Comply with all provisions of the statewide articulation agreement that relate to 2-year and 4-year public degree-granting institutions as adopted by the State Board of Education pursuant to s. 1007.23.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A district board of trustees that approves a change to the name of an institution under paragraph (b) must seek statutory codification of such name change in s. 1000.21(3) during the next regular legislative session.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A Florida College System institution may not use the designation “university.”</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">LOCAL BOARDS OF TRUSTEES.<EmDash />Each institution within the Florida College System shall be governed by a local board of trustees as provided in s. 1001.64. The membership of each local board of trustees shall be as provided in s. 1001.61.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2008-52; s. 3, ch. 2009-228; s. 17, ch. 2011-5.</History>
+</Section>

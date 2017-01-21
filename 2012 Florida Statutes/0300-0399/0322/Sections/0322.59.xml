@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.59" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Possession of medical examiner’s certificate.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may not issue a commercial driver license to a person who is required by the laws of this state or by federal law to possess a medical examiner’s certificate, unless the person presents a valid certificate, as described in 49 C.F.R. s. 383.71, before licensure.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall disqualify a driver from operating a commercial motor vehicle if the driver holds a commercial driver license and fails to comply with the medical certification requirements in 49 C.F.R. s. 383.71.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A person who is disqualified from operating a commercial motor vehicle under this section may, if otherwise qualified, be issued a Class E driver license pursuant to s. 322.251.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 89-282; s. 18, ch. 2012-128; s. 63, ch. 2012-181.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0193.018" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Land owned by a community land trust used to provide affordable housing; assessment; structural improvements, condominium parcels, and cooperative parcels.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “community land trust” means a nonprofit entity that is qualified as charitable under s. 501(c)(3) of the Internal Revenue Code and has as one of its purposes the acquisition of land to be held in perpetuity for the primary purpose of providing affordable homeownership.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A community land trust may convey structural improvements, condominium parcels, or cooperative parcels, that are located on specific parcels of land that are identified by a legal description contained in and subject to a ground lease having a term of at least 99 years, for the purpose of providing affordable housing to natural persons or families who meet the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s. 420.0004, or the income limits for workforce housing, as defined in s. 420.5095(3). A community land trust shall retain a preemptive option to purchase any structural improvements, condominium parcels, or cooperative parcels on the land at a price determined by a formula specified in the ground lease which is designed to ensure that the structural improvements, condominium parcels, or cooperative parcels remain affordable.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In arriving at just valuation under s. 193.011, a structural improvement, condominium parcel, or cooperative parcel providing affordable housing on land owned by a community land trust, and the land owned by a community land trust that is subject to a 99-year or longer ground lease, shall be assessed using the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The amount a willing purchaser would pay a willing seller for the land is limited to an amount commensurate with the terms of the ground lease that restricts the use of the land to the provision of affordable housing in perpetuity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The amount a willing purchaser would pay a willing seller for resale-restricted improvements, condominium parcels, or cooperative parcels is limited to the amount determined by the formula in the ground lease.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the ground lease and all amendments and supplements thereto, or a memorandum documenting how such lease and amendments or supplements restrict the price at which the improvements, condominium parcels, or cooperative parcels may be sold, is recorded in the official public records of the county in which the leased land is located, the recorded lease and any amendments and supplements, or the recorded memorandum, shall be deemed a land use regulation during the term of the lease as amended or supplemented.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 2009-96; s. 2, ch. 2011-15.</History>
+</Section>

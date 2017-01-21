@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.472" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Redemption of tax certificates.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person may redeem a tax certificate at any time after the certificate is issued and before a tax deed is issued or the property is placed on the list of lands available for sale. The person redeeming a tax certificate shall pay the tax collector the face amount plus all interest, costs, and charges.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When a tax certificate is redeemed and the interest earned on the tax certificate is less than 5 percent of the face amount of the certificate, a mandatory minimum interest of an absolute 5 percent shall be levied upon the face value of the tax certificate. The person redeeming the tax certificate shall pay the interest rate due on the certificate or the 5 percent mandatory minimum interest, whichever is greater. This subsection applies to all county-held tax certificates and all individual tax certificates except those with an interest rate bid of zero percent.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The tax collector shall receive a fee of $6.25 for each tax certificate redeemed.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro"> A portion of a certificate may be redeemed only if such portion can be ascertained by legal description and the portion to be redeemed is evidenced by a contract for sale or recorded deed. The tax collector shall make a written request for apportionment to the property appraiser, and within 15 days the property appraiser shall furnish the tax collector a certificate apportioning the value to that portion sought to be redeemed and to the remaining land covered by the certificate.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">After a tax certificate is redeemed, the tax collector shall pay to the owner of the tax certificate the amount received by the tax collector less the redemption fee within 15 business days after the date of receipt of the redemption. Along with the payment, the tax collector shall identify the certificates redeemed and the amount paid for each certificate. However, if the tax collector pays the certificateholder electronically, the certificates redeemed and the amounts paid for each certificate shall be provided electronically by facsimile or electronic mail.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Nothing in this section shall be deemed to deny any person the right to redeem any outstanding tax certificate in accordance with the law.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The provisions of subsection (4) do not apply to collections relating to fee timeshare real property made pursuant to s. 192.037.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 183, ch. 85-342; s. 4, ch. 86-141; s. 58, ch. 94-353; s. 44, ch. 2011-151.</History>
+</Section>

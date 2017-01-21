@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.147" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Telephone solicitation; disclosure requirements; prohibitions; exemptions; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any telephone call supporting or opposing a candidate, elected public official, or ballot proposal must identify the persons or organizations sponsoring the call by stating either: “paid for by <HorizontalRule Type="Fixed"></HorizontalRule>” (insert name of persons or organizations sponsoring the call) or “paid for on behalf of <HorizontalRule Type="Fixed"></HorizontalRule>” (insert name of persons or organizations authorizing call). This paragraph does not apply to any telephone call in which both the individual making the call is not being paid and the individuals participating in the call know each other prior to the call.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any telephone call conducted for the purpose of polling respondents concerning a candidate or elected public official which is a part of a series of like telephone calls that consists of fewer than 1,000 completed calls and averages more than 2 minutes in duration is presumed to be a political poll and not subject to the provisions of paragraph (a).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No telephone call shall state or imply that the caller represents any person or organization unless the person or organization so represented has given specific approval in writing to make such representation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">No telephone call shall state or imply that the caller represents a nonexistent person or organization.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any telephone call, not conducted by independent expenditure, which expressly advocates for or against a candidate or ballot proposal requires prior written authorization by the candidate or sponsor of the ballot proposal that the call supports. A copy of such written authorization must be placed on file with the qualifying officer by the candidate or sponsor of the ballot proposal prior to the time the calls commence.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who willfully violates any provision of this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of paragraph (a), the term “person” includes any candidate; any officer of any political committee, committee of continuous existence, affiliated party committee, or political party executive committee; any officer, partner, attorney, or other representative of a corporation, partnership, or other business entity; and any agent or other person acting on behalf of any candidate, political committee, committee of continuous existence, affiliated party committee, political party executive committee, or corporation, partnership, or other business entity.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 97-13; s. 31, ch. 2008-95; s. 29, ch. 2010-167; ss. 20, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.</History>
+</Section>

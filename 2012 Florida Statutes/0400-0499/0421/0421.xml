@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXX">
+	<ChapterNumber>421</ChapterNumber>
+	<ChapterName xml:space="preserve">Public housing</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Housing authorities</PartTitle>
+		<Section Number="0421.001" />
+		<Section Number="0421.01" />
+		<Section Number="0421.02" />
+		<Section Number="0421.03" />
+		<Section Number="0421.04" />
+		<Section Number="0421.05" />
+		<Section Number="0421.06" />
+		<Section Number="0421.07" />
+		<Section Number="0421.08" />
+		<Section Number="0421.09" />
+		<Section Number="0421.091" />
+		<Section Number="0421.10" />
+		<Section Number="0421.101" />
+		<Section Number="0421.11" />
+		<Section Number="0421.12" />
+		<Section Number="0421.13" />
+		<Section Number="0421.14" />
+		<Section Number="0421.15" />
+		<Section Number="0421.16" />
+		<Section Number="0421.17" />
+		<Section Number="0421.18" />
+		<Section Number="0421.19" />
+		<Section Number="0421.21" />
+		<Section Number="0421.22" />
+		<Section Number="0421.23" />
+		<Section Number="0421.24" />
+		<Section Number="0421.25" />
+		<Section Number="0421.26" />
+		<Section Number="0421.261" />
+		<Section Number="0421.27" />
+		<Section Number="0421.28" />
+		<Section Number="0421.29" />
+		<Section Number="0421.30" />
+		<Section Number="0421.31" />
+		<Section Number="0421.32" />
+		<Section Number="0421.321" />
+		<Section Number="0421.33" />
+		<Section Number="0421.34" />
+		<Section Number="0421.35" />
+		<Section Number="0421.36" />
+		<Section Number="0421.46" />
+		<Section Number="0421.47" />
+		<Section Number="0421.48" />
+		<Section Number="0421.49" />
+		<Section Number="0421.50" />
+		<Section Number="0421.51" />
+		<Section Number="0421.52" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0421.55" />
+	</Part>
+</Chapter>

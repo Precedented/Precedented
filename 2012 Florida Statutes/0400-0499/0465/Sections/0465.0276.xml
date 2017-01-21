@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0465.0276" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Dispensing practitioner.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person may not dispense medicinal drugs unless licensed as a pharmacist or otherwise authorized under this chapter to do so, except that a practitioner authorized by law to prescribe drugs may dispense such drugs to her or his patients in the regular course of her or his practice in compliance with this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A practitioner registered under this section may not dispense a controlled substance listed in Schedule II or Schedule III as provided in s. 893.03. This paragraph does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The dispensing of complimentary packages of medicinal drugs which are labeled as a drug sample or complimentary drug as defined in s. 499.028 to the practitioner’s own patients in the regular course of her or his practice without the payment of a fee or remuneration of any kind, whether direct or indirect, as provided in subsection (5).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The dispensing of controlled substances in the health care system of the Department of Corrections.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The dispensing of a controlled substance listed in Schedule II or Schedule III in connection with the performance of a surgical procedure. The amount dispensed pursuant to the subparagraph may not exceed a 14-day supply. This exception does not allow for the dispensing of a controlled substance listed in Schedule II or Schedule III more than 14 days after the performance of the surgical procedure. For purposes of this subparagraph, the term “surgical procedure” means any procedure in any setting which involves, or reasonably should involve:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Perioperative medication and sedation that allows the patient to tolerate unpleasant procedures while maintaining adequate cardiorespiratory function and the ability to respond purposefully to verbal or tactile stimulation and makes intra- and postoperative monitoring necessary; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The use of general anesthesia or major conduction anesthesia and preoperative sedation.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The dispensing of a controlled substance listed in Schedule II or Schedule III pursuant to an approved clinical trial. For purposes of this subparagraph, the term “approved clinical trial” means a clinical research study or clinical investigation that, in whole or in part, is state or federally funded or is conducted under an investigational new drug application that is reviewed by the United States Food and Drug Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The dispensing of methadone in a facility licensed under s. 397.427 where medication-assisted treatment for opiate addiction is provided.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The dispensing of a controlled substance listed in Schedule II or Schedule III to a patient of a facility licensed under part IV of chapter 400.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A practitioner who dispenses medicinal drugs for human consumption for fee or remuneration of any kind, whether direct or indirect, must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Register with her or his professional licensing board as a dispensing practitioner and pay a fee not to exceed $100 at the time of such registration and upon each renewal of her or his license. Each appropriate board shall establish such fee by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Comply with and be subject to all laws and rules applicable to pharmacists and pharmacies, including, but not limited to, this chapter and chapters 499 and 893 and all federal laws and federal regulations.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Before dispensing any drug, give the patient a written prescription and orally or in writing advise the patient that the prescription may be filled in the practitioner’s office or at any pharmacy.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall inspect any facility where a practitioner dispenses medicinal drugs pursuant to subsection (2) in the same manner and with the same frequency as it inspects pharmacies for the purpose of determining whether the practitioner is in compliance with all statutes and rules applicable to her or his dispensing practice.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The registration of any practitioner who has been found by her or his respective board to have dispensed medicinal drugs in violation of this chapter shall be subject to suspension or revocation.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A practitioner who confines her or his activities to the dispensing of complimentary packages of medicinal drugs to the practitioner’s own patients in the regular course of her or his practice, without the payment of fee or remuneration of any kind, whether direct or indirect, and who herself or himself dispenses such drugs is not required to register pursuant to this section. The practitioner must dispense such drugs in the manufacturer’s labeled package with the practitioner’s name, patient’s name, and date dispensed, or, if such drugs are not dispensed in the manufacturer’s labeled package, they must be dispensed in a container which bears the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Practitioner’s name;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Patient’s name;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Date dispensed;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Name and strength of drug; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Directions for use.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 20, 27, ch. 86-256; s. 1, ch. 88-159; s. 59, ch. 91-137; s. 6, ch. 91-156; s. 4, ch. 91-429; s. 95, ch. 92-149; s. 248, ch. 97-103; s. 11, ch. 2010-211; s. 15, ch. 2011-141.</History>
+</Section>

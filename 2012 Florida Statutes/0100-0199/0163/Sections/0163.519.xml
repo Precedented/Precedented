@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.519" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Duties of Department of Legal Affairs.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Department of Legal Affairs shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Develop program design and criteria for funding neighborhood improvement districts.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Carry out the development, promulgation, and revision of rules required for the operation of the Safe Neighborhoods Program, the capital improvements provisions contained in s. 163.521, and any other duties assigned to the department by this part.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Develop application and review procedures.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Provide advice and technical assistance to local government units, property owners’ associations, and boards of directors for special neighborhood improvement districts and community redevelopment neighborhood improvement districts in their efforts to promote the goals of the Safe Neighborhoods Act and to apply for planning grants.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Review and evaluate applications for planning and technical assistance.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Provide for contract management, including the review of contract closeout reports for accountability and conformance with state law and the required administrative procedures.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Evaluate program performance in light of state objectives and future trends and opportunities and prepare recommendations for the Legislature.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Act as the repository of crime prevention through community policing innovations; environmental design strategies, principles, and tactics; environmental security plans and procedures; defensible space techniques; and safe neighborhood improvement plans.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Utilize staff to provide crime prevention through community policing innovations, environmental design, environmental security, and defensible space training.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Provide for consultant contracts for statewide training on safe neighborhood development for planners, engineers, local officials, property owners’ associations, and boards of directors of special neighborhood improvement districts.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Review and approve or disapprove safe neighborhood improvement plans prior to the adoption by the local governing body of any safe neighborhood improvement plan created pursuant to s. 163.516. Plans shall be submitted to the department for review and approval or disapproval. All such reviews shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ensure that appropriate plan elements are based on crime prevention through community policing innovations, environmental design, environmental security, or defensible space.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Ensure that appropriate plan elements are consistent with crime prevention through community policing innovations, environmental design, environmental security, and defensible space functions of neighborhood improvement districts as listed in s. 163.513.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Be completed within 60 days after receipt by the department with a detailed explanation of any deficiencies. The district shall submit the required modifications within 60 days after notification of the deficiencies, unless there is compelling evidence that an extension should be granted. After that time the department may withhold any payments to the neighborhood improvement district until compliance is made and may withhold submission to the Legislature of any capital improvement requests made pursuant to s. 163.521.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 68, ch. 87-243; s. 17, ch. 91-86; s. 12, ch. 93-120; s. 19, ch. 98-314; s. 45, ch. 2010-102.</History>
+</Section>

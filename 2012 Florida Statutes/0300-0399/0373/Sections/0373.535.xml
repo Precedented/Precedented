@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.535" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Preliminary district budgets.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">BUDGET DEVELOPMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By January 15 of each year, each water management district shall submit a preliminary budget for the next fiscal year for legislative review to the President of the Senate, the Speaker of the House of Representatives, and the chairs of each legislative committee and subcommittee having substantive or fiscal jurisdiction over water management districts, as determined by the President of the Senate or the Speaker of the House of Representatives, as applicable, in the form and manner prescribed in s. 373.536(5)(e). Each preliminary budget must also include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A section that clearly identifies and provides justification for each proposed expenditure listed in s. 373.536(5)(e)4.e. and f. and identifies the source of funds for each proposed expenditure.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A section identifying the justification for proposed expenditures by core mission area of responsibility and the source of funds needed for activities related to water supply, including alternative water supply and water resource development projects identified in the district’s regional water supply plans, water quality, flood protection and floodplain management, and natural systems.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A section reviewing the adopted and proposed budget allocations by program area and the performance metrics for the prior year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An analysis of each preliminary budget to determine the adequacy of fiscal resources available to the district and the adequacy of proposed district expenditures related to the core mission areas of responsibility for water supply, including alternative water supply and water resource development projects identified in the district’s regional water supply plans, water quality, flood protection and floodplain management, and natural systems. The analysis must be based on the particular needs within each district for core mission areas of responsibility. The water supply analysis must specifically include a determination of the adequacy of each district’s fiscal resources provided in the district’s preliminary budget to achieve appropriate progress toward meeting the districtwide 20-year projected water supply demands, including funding for alternative water supply development and conservation projects.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If applicable, the preliminary budget for each district must specify that the district’s first obligation for payment is the debt service on bonds and certificates of participation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE REVIEW.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Legislature may annually review the preliminary budget for each district, including, but not limited to, those items listed in s. 373.536(5)(e)4.d.-f., specific to regulation, outreach, management, and administration program areas.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">On or before March 1 of each year, the President of the Senate and the Speaker of the House of Representatives may submit comments regarding the preliminary budget to the districts, and provide a copy of the comments to the Executive Office of the Governor. Each district shall respond to the comments in writing on or before March 15 of each year to the President of the Senate, the Speaker of the House of Representatives, and the Executive Office of the Governor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If, following such review, the Legislature does not take any action pursuant to s. 373.503 on or before July 1 of each year, a water management district may proceed with budget development as provided in subsection (3) and s. 373.536.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FUNDING AUTHORITY GRANTED.<EmDash />Each district shall use the preliminary budget as submitted pursuant to subsection (1), and as may be amended by the district in response to review by the Legislature pursuant to this section and s. 373.503, as the basis for developing the tentative budget for the next fiscal year as provided in s. 373.536(5).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2012-126.</History>
+</Section>

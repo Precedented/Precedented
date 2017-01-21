@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.172" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Liability on repudiation or termination of contracts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, upon the repudiation or termination of any contract pursuant to s. 663.171, the liability of the office shall be limited to the actual direct compensatory damages of the parties to the contract, determined as of the date the office took possession of the business and property of the international banking corporation or the corporation’s licensed offices located in this state. The office shall not be liable for any future wages other than severance payments, to the extent such payments are reasonable standards, or for payments for future service, costs of cover, or any consequential, punitive, or exemplary damages, damages for lost profits or lost opportunity, or damages for pain and suffering.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, the liability of the office, upon the repudiation of any qualified financial contract or in connection with the termination or liquidation of any qualified financial contract in accordance with the terms of such contract, shall be limited as provided in subsection (1), except compensatory damages shall be deemed to include normal and reasonable costs of cover or other reasonable measures of damages used among participants in the market for qualified financial contract claims, calculated as of the date of repudiation or the date of the termination of such qualified financial contract in accordance with the terms of the contract. Upon the repudiation of any qualified financial contract or in connection with the termination or liquidation of any qualified financial contract in accordance with the terms of such contract, the office shall be entitled to damages and such damages shall be paid to the office upon written demand from the office to the other party or parties to the contract.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In the case of the liquidation of the business and property of an international banking corporation, or any of the corporation’s licensed offices located in this state, by the office, with respect to qualified financial contracts subject to netting agreements or arrangements that provide for netting present or future payment obligations or payment entitlements, including termination or closeout values relating to the obligations or entitlements, among the parties to the contracts and agreements or arrangements, the liability of the office to any party to any such qualified financial contract upon the repudiation or in any connection with the termination or liquidation of such qualified financial contract in accordance with the terms of such contract shall be limited to the lesser of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The global net payment obligation; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The licensed office net payment obligation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The liability of the office to a party under this section shall be reduced by any amount otherwise paid or received by the party with respect to the global net payment obligation pursuant to such qualified financial contract which, if added to the liability of the office under subsection (1), would exceed the global net payment obligation. The liability of the office under this section to a party to a qualified financial contract also shall be reduced by the fair market value or the amount of any proceeds of collateral that secures and has been applied to satisfy the obligations of the international banking corporation to the party pursuant to such qualified financial contract. If netting under the applicable netting agreement or arrangement results in a licensed office net payment entitlement, notwithstanding any provision in any such contract that purports to effect a forfeiture of such entitlement, the office may make written demand for and shall be entitled to receive from the party to such contract an amount not to exceed the lesser of the global net payment entitlement or the licensed office net payment entitlement.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The liability of a party under this section shall be reduced by any amount otherwise paid to or received by the office or any other liquidator or receiver of the international banking corporation or licensed office with respect to the global net payment entitlement pursuant to such qualified financial contract which, if added to the liability of the party under this section, would exceed the global net payments entitlement. The liability of a party under this section to the office pursuant to such qualified financial contract also shall be reduced by the fair market value of the amount of any proceeds of the collateral that secures and has been applied to satisfy the obligations of the party to the international banking corporation pursuant to such qualified financial contract.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 97-109; s. 1835, ch. 2003-261; s. 18, ch. 2010-9.</History>
+</Section>

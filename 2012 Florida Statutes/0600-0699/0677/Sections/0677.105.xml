@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.105" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reissuance in alternative medium.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Upon request of a person entitled under an electronic document of title, the issuer of the electronic document may issue a tangible document of title as a substitute for the electronic document if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The person entitled under the electronic document surrenders control of the document to the issuer; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The tangible document when issued contains a statement that it is issued in substitution for the electronic document.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Upon issuance of a tangible document of title in substitution for an electronic document of title in accordance with subsection (1):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The electronic document ceases to have any effect or validity; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The person that procured issuance of the tangible document warrants to all subsequent persons entitled under the tangible document that the warrantor was a person entitled under the electronic document when the warrantor surrendered control of the electronic document to the issuer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon request of a person entitled under a tangible document of title, the issuer of the tangible document may issue an electronic document of title as a substitute for the tangible document if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The person entitled under the tangible document surrenders possession of the document to the issuer; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The electronic document when issued contains a statement that it is issued in substitution for the tangible document.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Upon issuance of an electronic document of title in substitution for a tangible document of title in accordance with subsection (3):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The tangible document ceases to have any effect or validity; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The person that procured issuance of the electronic document warrants to all subsequent persons entitled under the electronic document that the warrantor was a person entitled under the tangible document when the warrantor surrendered possession of the tangible document to the issuer.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 21, ch. 2010-131; s. 48, ch. 2011-4.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-105, U.C.C.</Text>
+	</Note>
+</Section>

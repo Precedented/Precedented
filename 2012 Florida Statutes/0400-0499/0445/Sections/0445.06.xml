@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0445.06" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Ready to Work Certification Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created the Florida Ready to Work Certification Program to enhance the workplace skills of Floridians to better prepare them for successful employment in specific occupations.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Florida Ready to Work Certification Program may be conducted in public middle and high schools, Florida College System institutions, technical centers, one-stop career centers, vocational rehabilitation centers, and Department of Juvenile Justice educational facilities. The program may be made available to other entities that provide job training. The Department of Economic Opportunity, in coordination with the Department of Education, shall establish institutional readiness criteria for program implementation.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Florida Ready to Work Certification Program shall be composed of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A comprehensive identification of workplace skills for each occupation identified for inclusion in the program by the Department of Economic Opportunity and the Department of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A preinstructional assessment that delineates an individual’s mastery level on the specific workplace skills identified for that occupation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A targeted instructional program limited to those identified workplace skills in which the individual is not proficient as measured by the preinstructional assessment. Instruction must utilize a web-based program and be customized to meet identified specific needs of local employers.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A Florida Ready to Work Credential and portfolio awarded to individuals upon successful completion of the instruction. Each portfolio must delineate the skills demonstrated by the individual as evidence of the individual’s preparation for employment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A Florida Ready to Work Credential shall be awarded to an individual who successfully passes assessments in Reading for Information, Applied Mathematics, and Locating Information or any other assessments of comparable rigor. Each assessment shall be scored on a scale of 3 to 7. The level of the credential each individual receives is based on the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A bronze-level credential requires a minimum score of 3 or above on each of the assessments.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A silver-level credential requires a minimum score of 4 or above on each of the assessments.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A gold-level credential requires a minimum score of 5 or above on each of the assessments.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity, in consultation with the Department of Education, may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 35, ch. 2006-74; s. 15, ch. 2008-235; s. 73, ch. 2011-5; s. 476, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve">Former s. 1004.99.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXII">
+	<ChapterNumber>468</ChapterNumber>
+	<ChapterName xml:space="preserve">Miscellaneous professions and occupations</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Speech-language pathology and<NewLine/>audiology</PartTitle>
+		<Section Number="0468.1105" />
+		<Section Number="0468.1115" />
+		<Section Number="0468.1125" />
+		<Section Number="0468.1135" />
+		<Section Number="0468.1145" />
+		<Section Number="0468.1155" />
+		<Section Number="0468.1165" />
+		<Section Number="0468.1175" />
+		<Section Number="0468.1185" />
+		<Section Number="0468.1195" />
+		<Section Number="0468.1201" />
+		<Section Number="0468.1205" />
+		<Section Number="0468.1215" />
+		<Section Number="0468.1225" />
+		<Section Number="0468.1245" />
+		<Section Number="0468.1246" />
+		<Section Number="0468.1255" />
+		<Section Number="0468.1265" />
+		<Section Number="0468.1275" />
+		<Section Number="0468.1285" />
+		<Section Number="0468.1295" />
+		<Section Number="0468.1296" />
+		<Section Number="0468.1315" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Nursing home administration</PartTitle>
+		<Section Number="0468.1635" />
+		<Section Number="0468.1645" />
+		<Section Number="0468.1655" />
+		<Section Number="0468.1665" />
+		<Section Number="0468.1675" />
+		<Section Number="0468.1685" />
+		<Section Number="0468.1695" />
+		<Section Number="0468.1705" />
+		<Section Number="0468.1715" />
+		<Section Number="0468.1725" />
+		<Section Number="0468.1735" />
+		<Section Number="0468.1745" />
+		<Section Number="0468.1755" />
+		<Section Number="0468.1756" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Occupational therapy</PartTitle>
+		<Section Number="0468.201" />
+		<Section Number="0468.203" />
+		<Section Number="0468.204" />
+		<Section Number="0468.205" />
+		<Section Number="0468.207" />
+		<Section Number="0468.209" />
+		<Section Number="0468.211" />
+		<Section Number="0468.213" />
+		<Section Number="0468.215" />
+		<Section Number="0468.217" />
+		<Section Number="0468.219" />
+		<Section Number="0468.221" />
+		<Section Number="0468.223" />
+		<Section Number="0468.225" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Radiological personnel certification</PartTitle>
+		<Section Number="0468.3001" />
+		<Section Number="0468.3003" />
+		<Section Number="0468.301" />
+		<Section Number="0468.302" />
+		<Section Number="0468.303" />
+		<Section Number="0468.304" />
+		<Section Number="0468.305" />
+		<Section Number="0468.306" />
+		<Section Number="0468.3065" />
+		<Section Number="0468.307" />
+		<Section Number="0468.309" />
+		<Section Number="0468.3095" />
+		<Section Number="0468.3101" />
+		<Section Number="0468.311" />
+		<Section Number="0468.3115" />
+		<Section Number="0468.312" />
+		<Section Number="0468.314" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Respiratory therapy</PartTitle>
+		<Section Number="0468.35" />
+		<Section Number="0468.351" />
+		<Section Number="0468.352" />
+		<Section Number="0468.353" />
+		<Section Number="0468.354" />
+		<Section Number="0468.355" />
+		<Section Number="0468.358" />
+		<Section Number="0468.359" />
+		<Section Number="0468.36" />
+		<Section Number="0468.361" />
+		<Section Number="0468.363" />
+		<Section Number="0468.364" />
+		<Section Number="0468.365" />
+		<Section Number="0468.366" />
+		<Section Number="0468.367" />
+		<Section Number="0468.368" />
+		<Section Number="0468.369" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Auctioneers</PartTitle>
+		<Section Number="0468.381" />
+		<Section Number="0468.382" />
+		<Section Number="0468.383" />
+		<Section Number="0468.384" />
+		<Section Number="0468.385" />
+		<Section Number="0468.3851" />
+		<Section Number="0468.3852" />
+		<Section Number="0468.3855" />
+		<Section Number="0468.386" />
+		<Section Number="0468.387" />
+		<Section Number="0468.388" />
+		<Section Number="0468.389" />
+		<Section Number="0468.391" />
+		<Section Number="0468.392" />
+		<Section Number="0468.393" />
+		<Section Number="0468.394" />
+		<Section Number="0468.395" />
+		<Section Number="0468.396" />
+		<Section Number="0468.397" />
+		<Section Number="0468.398" />
+		<Section Number="0468.399" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Talent agencies</PartTitle>
+		<Section Number="0468.401" />
+		<Section Number="0468.402" />
+		<Section Number="0468.403" />
+		<Section Number="0468.404" />
+		<Section Number="0468.405" />
+		<Section Number="0468.406" />
+		<Section Number="0468.407" />
+		<Section Number="0468.408" />
+		<Section Number="0468.409" />
+		<Section Number="0468.410" />
+		<Section Number="0468.411" />
+		<Section Number="0468.412" />
+		<Section Number="0468.413" />
+		<Section Number="0468.414" />
+		<Section Number="0468.415" />
+	</Part>
+	<Part PartNumber="VIII">
+		<PartNumber>PART VIII</PartNumber>
+		<PartTitle xml:space="preserve">Community association management</PartTitle>
+		<Section Number="0468.431" />
+		<Section Number="0468.4315" />
+		<Section Number="0468.432" />
+		<Section Number="0468.433" />
+		<Section Number="0468.4336" />
+		<Section Number="0468.4337" />
+		<Section Number="0468.4338" />
+		<Section Number="0468.435" />
+		<Section Number="0468.436" />
+		<Section Number="0468.4365" />
+		<Section Number="0468.437" />
+		<Section Number="0468.438" />
+	</Part>
+	<Part PartNumber="IX">
+		<PartNumber>PART IX</PartNumber>
+		<PartTitle xml:space="preserve">Athlete agents</PartTitle>
+		<Section Number="0468.451" />
+		<Section Number="0468.452" />
+		<Section Number="0468.453" />
+		<Section Number="0468.4535" />
+		<Section Number="0468.4536" />
+		<Section Number="0468.454" />
+		<Section Number="0468.456" />
+		<Section Number="0468.4561" />
+		<Section Number="0468.45615" />
+		<Section Number="0468.4562" />
+		<Section Number="0468.4565" />
+		<Section Number="0468.457" />
+	</Part>
+	<Part PartNumber="X">
+		<PartNumber>PART X</PartNumber>
+		<PartTitle xml:space="preserve">Dietetics and nutrition practice</PartTitle>
+		<Section Number="0468.501" />
+		<Section Number="0468.502" />
+		<Section Number="0468.503" />
+		<Section Number="0468.504" />
+		<Section Number="0468.505" />
+		<Section Number="0468.506" />
+		<Section Number="0468.507" />
+		<Section Number="0468.508" />
+		<Section Number="0468.509" />
+		<Section Number="0468.51" />
+		<Section Number="0468.511" />
+		<Section Number="0468.512" />
+		<Section Number="0468.513" />
+		<Section Number="0468.514" />
+		<Section Number="0468.515" />
+		<Section Number="0468.516" />
+		<Section Number="0468.517" />
+		<Section Number="0468.518" />
+	</Part>
+	<Part PartNumber="XI">
+		<PartNumber>PART XI</PartNumber>
+		<PartTitle xml:space="preserve">Employee leasing companies</PartTitle>
+		<Section Number="0468.520" />
+		<Section Number="0468.521" />
+		<Section Number="0468.522" />
+		<Section Number="0468.523" />
+		<Section Number="0468.524" />
+		<Section Number="0468.5245" />
+		<Section Number="0468.525" />
+		<Section Number="0468.526" />
+		<Section Number="0468.527" />
+		<Section Number="0468.5275" />
+		<Section Number="0468.528" />
+		<Section Number="0468.529" />
+		<Section Number="0468.530" />
+		<Section Number="0468.531" />
+		<Section Number="0468.532" />
+		<Section Number="0468.533" />
+		<Section Number="0468.534" />
+		<Section Number="0468.535" />
+	</Part>
+	<Part PartNumber="XII">
+		<PartNumber>PART XII</PartNumber>
+		<PartTitle xml:space="preserve">Building code administrators<NewLine />and inspectors</PartTitle>
+		<Section Number="0468.601" />
+		<Section Number="0468.602" />
+		<Section Number="0468.603" />
+		<Section Number="0468.604" />
+		<Section Number="0468.605" />
+		<Section Number="0468.606" />
+		<Section Number="0468.607" />
+		<Section Number="0468.609" />
+		<Section Number="0468.613" />
+		<Section Number="0468.617" />
+		<Section Number="0468.619" />
+		<Section Number="0468.621" />
+		<Section Number="0468.627" />
+		<Section Number="0468.629" />
+		<Section Number="0468.631" />
+		<Section Number="0468.632" />
+		<Section Number="0468.633" />
+	</Part>
+	<Part PartNumber="XIII">
+		<PartNumber>PART XIII</PartNumber>
+		<PartTitle xml:space="preserve">Athletic trainers</PartTitle>
+		<Section Number="0468.70" />
+		<Section Number="0468.701" />
+		<Section Number="0468.703" />
+		<Section Number="0468.705" />
+		<Section Number="0468.707" />
+		<Section Number="0468.709" />
+		<Section Number="0468.711" />
+		<Section Number="0468.713" />
+		<Section Number="0468.715" />
+		<Section Number="0468.717" />
+		<Section Number="0468.719" />
+		<Section Number="0468.723" />
+	</Part>
+	<Part PartNumber="XIV">
+		<PartNumber>PART XIV</PartNumber>
+		<PartTitle xml:space="preserve">Orthotics, prosthetics, and pedorthics</PartTitle>
+		<Section Number="0468.80" />
+		<Section Number="0468.801" />
+		<Section Number="0468.802" />
+		<Section Number="0468.803" />
+		<Section Number="0468.806" />
+		<Section Number="0468.808" />
+		<Section Number="0468.809" />
+		<Section Number="0468.8095" />
+		<Section Number="0468.811" />
+		<Section Number="0468.812" />
+		<Section Number="0468.813" />
+	</Part>
+	<Part PartNumber="XV">
+		<PartNumber>PART XV</PartNumber>
+		<PartTitle xml:space="preserve">Home inspectors</PartTitle>
+		<Section Number="0468.83" />
+		<Section Number="0468.831" />
+		<Section Number="0468.8311" />
+		<Section Number="0468.8312" />
+		<Section Number="0468.8313" />
+		<Section Number="0468.8314" />
+		<Section Number="0468.8315" />
+		<Section Number="0468.8316" />
+		<Section Number="0468.8317" />
+		<Section Number="0468.8318" />
+		<Section Number="0468.8319" />
+		<Section Number="0468.832" />
+		<Section Number="0468.8321" />
+		<Section Number="0468.8322" />
+		<Section Number="0468.8323" />
+		<Section Number="0468.8324" />
+		<Section Number="0468.8325" />
+	</Part>
+	<Part PartNumber="XVI">
+		<PartNumber>PART XVI</PartNumber>
+		<PartTitle xml:space="preserve">Mold-related services</PartTitle>
+		<Section Number="0468.84" />
+		<Section Number="0468.841" />
+		<Section Number="0468.8411" />
+		<Section Number="0468.8412" />
+		<Section Number="0468.8413" />
+		<Section Number="0468.8414" />
+		<Section Number="0468.8415" />
+		<Section Number="0468.8416" />
+		<Section Number="0468.8417" />
+		<Section Number="0468.8418" />
+		<Section Number="0468.8419" />
+		<Section Number="0468.842" />
+		<Section Number="0468.8421" />
+		<Section Number="0468.8422" />
+		<Section Number="0468.8423" />
+		<Section Number="0468.8424" />
+	</Part>
+</Chapter>

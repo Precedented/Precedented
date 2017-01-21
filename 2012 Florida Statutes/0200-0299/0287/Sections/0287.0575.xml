@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0287.0575" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Coordination of contracted services.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following duties and responsibilities of the Department of Children and Family Services, the Agency for Persons with Disabilities, the Department of Health, the Department of Elderly Affairs, and the Department of Veterans’ Affairs, and service providers under contract to those agencies, are established:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No later than August 1, 2010, or upon entering into any new contract for health and human services, state agencies contracting for health and human services must notify their contract service providers of the requirements of this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">No later than October 1, 2010, contract service providers that have more than one contract with one or more state agencies to provide health and human services must provide to each of their contract managers a comprehensive list of their health and human services contracts. The list must include the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of each contracting state agency and the applicable office or program issuing the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The identifying name and number of each contract.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The starting and ending date of each contract.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The amount of each contract.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A brief description of the purpose of the contract and the types of services provided under each contract.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The name and contact information of the contract manager.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">With respect to contracts entered into on or after August 1, 2010, effective November 1, 2010, or 30 days after receiving the list provided under subsection (2), a single lead administrative coordinator for each contract service provider shall be designated as provided in this subsection from among the agencies having multiple contracts as provided in subsection (2). On or before the date such responsibilities are assumed, the designated lead administrative coordinator shall provide notice of his or her designation to the contract service provider and to the agency contract managers for each affected contract. Unless another lead administrative coordinator is selected by agreement of all affected contract managers, the designated lead administrative coordinator shall be the agency contract manager of the contract with the highest dollar value over the term of the contract, provided the term of the contract remaining at the time of designation exceeds 24 months. If the remaining terms of all contracts are 24 months or less, the designated lead administrative coordinator shall be the contract manager of the contract with the latest end date. A designated lead administrative coordinator, or his or her successor as contract manager, shall continue as lead administrative coordinator until another lead administrative coordinator is selected by agreement of all affected contract managers or until the end date of the contract for which the designated lead administrative coordinator serves as contract manager, at which time a new lead administrative coordinator shall be designated pursuant to this subsection, if applicable.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The designated lead administrative coordinator shall be responsible for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establishing a coordinated schedule for administrative and fiscal monitoring;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Consulting with other case managers to establish a single unified set of required administrative and fiscal documentation;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Consulting with other case managers to establish a single unified schedule for periodic updates of administrative and fiscal information; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintaining an accessible electronic file of up-to-date administrative and fiscal documents, including, but not limited to, corporate documents, membership records, audits, and monitoring reports.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Contract managers for agency contracts other than the designated lead administrative coordinator must conduct administrative and fiscal monitoring activities in accordance with the coordinated schedule and must obtain any necessary administrative and fiscal documents from the designated lead administrative coordinator’s electronic file.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to routine program performance monitoring or prohibit a contracting agency from directly and immediately contacting the service provider when the health or safety of clients is at risk.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Each agency contracting for health and human services shall annually evaluate the performance of its designated lead administrative coordinator in establishing coordinated systems, improving efficiency, and reducing redundant monitoring activities for state agencies and their service providers. The annual report shall be submitted to the Governor, the President of the Senate, and the Speaker of the House of Representatives.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 2010-151.</History>
+</Section>

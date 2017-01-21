@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0101.694" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mailing of ballots upon receipt of federal postcard application.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of a federal postcard application for an absentee ballot executed by a person whose registration is in order or whose application is sufficient to register or update the registration of that person, the supervisor shall send the ballot in accordance with s. 101.62(4).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of a federal postcard application for an absentee ballot executed by a person whose registration is not in order and whose application is insufficient to register or update the registration of that person, the supervisor shall follow the procedure set forth in s. 97.073.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Absentee envelopes printed for voters entitled to vote absentee under the Uniformed and Overseas Citizens Absentee Voting Act shall meet the specifications as determined by the Federal Voting Assistance Program of the United States Department of Defense and the United States Postal Service.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Cognizance shall be taken of the fact that absentee ballots and other materials such as instructions and envelopes are to be carried via air mail, and, to the maximum extent possible, such ballots and materials shall be reduced in size and weight of paper. The same ballot shall be used, however, as is used by other absentee voters.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 29904, 1955; ss. 4, 5, ch. 59-217; s. 41, ch. 65-380; s. 12, ch. 69-280; s. 23, ch. 77-175; s. 20, ch. 81-304; s. 37, ch. 94-224; s. 9, ch. 96-57; s. 25, ch. 2003-415; s. 50, ch. 2005-277; s. 8, ch. 2010-167.</History>
+</Section>

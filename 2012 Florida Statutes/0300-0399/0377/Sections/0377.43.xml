@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0377.43" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Disbursement of funds received for damages caused by the Deepwater Horizon oil spill.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “Disproportionally Affected County” means Bay County, Escambia County, Franklin County, Gulf County, Okaloosa County, Santa Rosa County, Walton County, or Wakulla County.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any funds received by the state from any governmental or private entity for damages caused by the Deepwater Horizon oil spill shall be deposited into the applicable state trust funds and expended pursuant to state law or as approved by the Legislative Budget Commission.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Seventy-five percent of such moneys may be used for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Scientific research into the impact of the oil spill on fisheries and coastal wildlife and vegetation along any Disproportionally Affected County’s shoreline and the development of strategies to implement restoration measures suggested by such research;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Environmental restoration of coastal areas damaged by the oil spill in any Disproportionally Affected County;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Economic incentives directed to any Disproportionally Affected County; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Initiatives to expand and diversify the economies of any Disproportionally Affected County.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The remaining 25 percent of such moneys may be used for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Scientific research into the impact of the oil spill on fisheries and coastal wildlife and vegetation along any of the state’s shoreline that is not a Disproportionally Affected County’s shoreline, and the development of strategies to implement restoration measures suggested by such research;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Environmental restoration of coastal areas damaged by the oil spill in any county other than a Disproportionally Affected County;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Economic incentives directed to any county other than a Disproportionally Affected County; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Initiatives to expand and diversify the economies of any county other than a Disproportionally Affected County.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Environmental Protection is the lead agency for expending the funds designated for environmental restoration efforts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity is the lead agency for expending the funds designated for economic incentives and diversification efforts.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 499, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 496, ch. 2011-142, as amended by s. 34, ch. 2012-119, provides:</Text>
+		<Text xml:space="preserve" Style="Indent">“Commission on Oil Spill Response Coordination.<EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The Board of Trustees of the Internal Improvement Trust Fund shall appoint a commission consisting of a representative of the office of each board member, a representative of each state agency that directly and materially responded to the Deepwater Horizon disaster, and the chair of the board of county commissioners of each of the following counties: Bay County, Escambia County, Franklin County, Gulf County, Okaloosa County, Santa Rosa County, Walton County, and Wakulla County. The Governor shall select the chair of the commission from among the appointees.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) The commission shall prepare a report for review and approval by the board of trustees which:</Text>
+		<Text xml:space="preserve" Style="Indent">“(a) Identifies potential changes to state and federal law and regulations which will improve the oversight and monitoring of offshore drilling activities and increase response capabilities to offshore oil spills.</Text>
+		<Text xml:space="preserve" Style="Indent">“(b) Identifies potential changes to state and federal law and regulations which will improve protections for public health and safety, occupational health and safety, and the environment and natural resources.</Text>
+		<Text xml:space="preserve" Style="Indent">“(c) Evaluates the merits of the establishment of a federal Gulf-wide disaster relief fund.</Text>
+		<Text xml:space="preserve" Style="Indent">“(d) Evaluates the need for a unified and uniform advocacy process for damage claims.</Text>
+		<Text xml:space="preserve" Style="Indent">“(e) Evaluates the need for changes to interstate coordination agreements in order to reduce the potential for damage claims and lawsuits.</Text>
+		<Text xml:space="preserve" Style="Indent">“(f) Addresses any other related issues as determined by the commission.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) The board of trustees shall deliver the report to the Governor, the President of the Senate, the Speaker of the House of Representatives, the Secretary of Environmental Protection, and the executive director of the Department of Economic Opportunity by January 1, 2013.</Text>
+		<Text xml:space="preserve" Style="Indent">“(4) This section expires January 1, 2013.”</Text>
+	</Note>
+</Section>

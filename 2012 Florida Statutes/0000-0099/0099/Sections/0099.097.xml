@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0099.097" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Verification of signatures on petitions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As determined by each supervisor, based upon local conditions, the checking of names on petitions may be based on the most inexpensive and administratively feasible of either of the following methods of verification:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A check of each petition; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A check of a random sample, as provided by the Department of State, of the petitions. The sample must be such that a determination can be made as to whether or not the required number of signatures has been obtained with a reliability of at least 99.5 percent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Rules and guidelines for petition verification shall be adopted by the Department of State. Rules and guidelines for a random sample method of verification may include a requirement that petitions bear an additional number of names and signatures, not to exceed 15 percent of the names and signatures otherwise required. If the petitions do not meet such criteria or if the petitions are prescribed by s. 100.371, the use of the random sample method of verification is not available to supervisors.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When a petitioner submits petitions which contain at least 15 percent more than the required number of signatures, the petitioner may require that the supervisor of elections use the random sampling verification method in certifying the petition.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If all other requirements for the petition are met, a signature on a petition shall be verified and counted as valid for a registered voter if, after comparing the signature on the petition and the signature of the registered voter in the voter registration system, the supervisor is able to determine that the petition signer is the same as the registered voter, even if the name on the petition is not in substantially the same form as in the voter registration system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In any situation in which this code requires the form of the petition to be prescribed by the division, no signature shall be counted toward the number of signatures required unless it is on a petition form prescribed by the division.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a voter signs a petition and lists an address other than the legal residence where the voter is registered, the supervisor shall treat the signature as if the voter had listed the address where the voter is registered.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The supervisor shall be paid in advance the sum of 10 cents for each signature checked or the actual cost of checking such signature, whichever is less, by the candidate or, in the case of a petition to have an issue placed on the ballot, by the person or organization submitting the petition. However, if a candidate, person, or organization seeking to have an issue placed upon the ballot cannot pay such charges without imposing an undue burden on personal resources or upon the resources otherwise available to such candidate, person, or organization, such candidate, person, or organization shall, upon written certification of such inability given under oath to the supervisor, be entitled to have the signatures verified at no charge. In the event a candidate, person, or organization submitting a petition to have an issue placed upon the ballot is entitled to have the signatures verified at no charge, the supervisor of elections of each county in which the signatures are verified at no charge shall submit the total number of such signatures checked in the county to the Chief Financial Officer no later than December 1 of the general election year, and the Chief Financial Officer shall cause such supervisor of elections to be reimbursed from the General Revenue Fund in an amount equal to 10 cents for each name checked or the actual cost of checking such signatures, whichever is less. In no event shall such reimbursement of costs be deemed or applied as extra compensation for the supervisor. Petitions shall be retained by the supervisors for a period of 1 year following the election for which the petitions were circulated.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The results of a verification pursuant to subparagraph (1)(a)2. may be contested in the circuit court by the candidate; an announced opponent; a representative of a designated political committee; or a person, party, or other organization submitting the petition. The contestant shall file a complaint, together with the fees prescribed in chapter 28, with the clerk of the circuit court in the county in which the petition is certified or in Leon County if the petition covers more than one county within 10 days after midnight of the date the petition is certified; and the complaint shall set forth the grounds on which the contestant intends to establish his or her right to require a complete check of the petition pursuant to subparagraph (1)(a)1. In the event the court orders a complete check of the petition and the result is not changed as to the success or lack of success of the petitioner in obtaining the requisite number of valid signatures, then such candidate, unless the candidate has filed the oath stating that he or she is unable to pay such charges; announced opponent; representative of a designated political committee; or party, person, or organization submitting the petition, unless such person or organization has filed the oath stating inability to pay such charges, shall pay to the supervisor of elections of each affected county for the complete check an amount calculated at the rate of 10 cents for each additional signature checked or the actual cost of checking such additional signatures, whichever is less.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If any person is paid to solicit signatures on a petition, an undue burden oath may not subsequently be filed in lieu of paying the fee to have signatures verified for that petition.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If an undue burden oath has been filed and payment is subsequently made to any person to solicit signatures on a petition, the undue burden oath is no longer valid and a fee for all signatures previously submitted to the supervisor of elections and any that are submitted thereafter shall be paid by the candidate, person, or organization that submitted the undue burden oath. If contributions as defined in s. 106.011 are received, any monetary contributions must first be used to reimburse the supervisor of elections for any signature verification fees that were not paid because of the filing of an undue burden oath.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 76-233; s. 10, ch. 77-175; s. 2, ch. 80-20; s. 1, ch. 82-141; s. 13, ch. 89-338; s. 2, ch. 90-229; s. 12, ch. 90-315; s. 542, ch. 95-147; s. 21, ch. 97-13; s. 7, ch. 99-318; s. 109, ch. 2003-261; s. 19, ch. 2011-40.</History>
+</Section>

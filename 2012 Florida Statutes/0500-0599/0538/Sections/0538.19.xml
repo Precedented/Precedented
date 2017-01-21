@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0538.19" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Records required; limitation of liability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A secondary metals recycler shall maintain a legible paper record of all purchase transactions to which such secondary metals recycler is a party. A secondary metals recycler shall also maintain a legible electronic record, in the English language, of all such purchase transactions. The appropriate law enforcement official may provide data specifications regarding the electronic record format, but such format must be approved by the Department of Law Enforcement. An electronic record of a purchase transaction shall be electronically transmitted to the appropriate law enforcement official no later than 10 a.m. of the business day following the date of the purchase transaction. The record transmitted to the appropriate law enforcement official must not contain the price paid for the items. A secondary metals recycler who transmits such records electronically is not required to also deliver the original or paper copies of the transaction forms to the appropriate law enforcement official. However, such official may, for purposes of a criminal investigation, request the secondary metals recycler to make available the original transaction form that was electronically transmitted. This original transaction form must include the price paid for the items. The secondary metals recycler shall make the form available to the appropriate law enforcement official within 24 hours after receipt of the request.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following information must be maintained on the form approved by the Department of Law Enforcement for each purchase transaction:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name and address of the secondary metals recycler.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name, initials, or other identification of the individual entering the information on the ticket.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The date and time of the transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The weight, quantity, or volume, and a description of the type of regulated metals property purchased in a purchase transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The amount of consideration given in a purchase transaction for the regulated metals property.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A signed statement from the person delivering the regulated metals property stating that she or he is the rightful owner of, or is entitled to sell, the regulated metals property being sold. If the purchase involves a stainless steel beer keg, the seller must provide written documentation from the manufacturer that the seller is the owner of the stainless steel beer keg or is an employee or agent of the manufacturer.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The distinctive number from the personal identification card of the person delivering the regulated metals property to the secondary metals recycler.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A description of the person from whom the regulated metals property was acquired, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Full name, current residential address, workplace, and home and work phone numbers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Height, weight, date of birth, race, gender, hair color, eye color, and any other identifying marks.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The right thumbprint, free of smudges and smears.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Vehicle description to include the make, model, and tag number of the vehicle and trailer of the person selling the regulated metals property.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any other information required by the form approved by the Department of Law Enforcement.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A photograph, videotape, or digital image of the regulated metals being sold.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">A photograph, videotape, or similar likeness of the person receiving consideration in which such person’s facial features are clearly visible.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A secondary metals recycler complies with the requirements of this section if it maintains an electronic database containing the information required by subsection (2) as long as the electronic information required by subsection (2), along with an electronic oath of ownership with an electronic signature of the seller of the secondary metals being purchased by the secondary metals recyclers and an electronic image of the seller’s right thumbprint that has no smudges and smears, can be downloaded onto a paper form in the image of the form approved by the Department of Law Enforcement as provided in subsection (2).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A secondary metals recycler shall maintain or cause to be maintained the information required by this section for not less than 3 years from the date of the purchase transaction.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A secondary metals recycler registered with the department that purchases a motor vehicle from a licensed salvage motor vehicle dealer as defined in s. 320.27 or another secondary metals recycler registered with the department and uses a mechanical crusher to convert the vehicle to scrap metal must obtain a signed statement from the seller stating that the seller has surrendered the vehicle’s certificate of title to the Department of Highway Safety and Motor Vehicles as provided in s. 319.30 or otherwise complied with the titling requirements provided by law for conversion of the vehicle to scrap metal. A secondary metals recycler is not liable for the seller’s failure to comply with the titling requirements provided by law for conversion of a motor vehicle to scrap metal if the secondary metals recycler obtains and maintains the seller’s signed statement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 89-533; s. 1, ch. 90-192; s. 4, ch. 91-429; s. 748, ch. 97-103; s. 2, ch. 2008-69; s. 5, ch. 2012-179.</History>
+</Section>

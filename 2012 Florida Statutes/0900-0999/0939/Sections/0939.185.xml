@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0939.185" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Assessment of additional court costs and surcharges.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The board of county commissioners may adopt by ordinance an additional court cost, not to exceed $65, to be imposed by the court when a person pleads guilty or nolo contendere to, or is found guilty of, or adjudicated delinquent for, any felony, misdemeanor, delinquent act, or criminal traffic offense under the laws of this state. Such additional assessment shall be accounted for separately by the county in which the offense occurred and be used only in the county imposing this cost, to be allocated as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Twenty-five percent of the amount collected shall be allocated to fund innovations, as determined by the chief judge of the circuit, to supplement state funding for the elements of the state courts system identified in s. 29.004 and county funding for local requirements under s. 29.008(2)(a)2.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Twenty-five percent of the amount collected shall be allocated to assist counties in providing legal aid programs required under s. 29.008(3)(a).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Twenty-five percent of the amount collected shall be allocated to fund personnel and legal materials for the public as part of a law library.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Twenty-five percent of the amount collected shall be used as determined by the board of county commissioners to support teen court programs, except as provided in s. 938.19(7), juvenile assessment centers, and other juvenile alternative programs.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Each county receiving funds under this section shall report the amount of funds collected pursuant to this section and an itemized list of expenditures for all authorized programs and activities. The report shall be submitted in a format developed by the Supreme Court to the Governor, the Chief Financial Officer, the President of the Senate, and the Speaker of the House of Representatives on a quarterly basis beginning with the quarter ending September 30, 2004. Quarterly reports shall be submitted no later than 30 days after the end of the quarter. Any unspent funds at the close of the county fiscal year allocated under subparagraphs 2., 3., and 4., shall be transferred for use pursuant to subparagraph 1.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to the court costs imposed under paragraph (a) and any other cost, fine, or penalty imposed by law, any unit of local government which is consolidated as provided by s. 9, Art. VIII of the State Constitution of 1885, as preserved by s. 6(e), Art. VIII of the State Constitution of 1968, and which is granted the authority in the State Constitution to exercise all the powers of a municipal corporation, and any unit of local government operating under a home rule charter adopted pursuant to ss. 10, 11, and 24, Art. VIII of the State Constitution of 1885, as preserved by s. 6(e), Art. VIII of the State Constitution of 1968, which is granted the authority in the State Constitution to exercise all the powers conferred now or hereafter by general law upon municipalities, may impose by ordinance a surcharge in the amount of $85 to be imposed by the court when a person pleads guilty or nolo contendere to, or is found guilty of, or adjudicated delinquent for, any felony, misdemeanor, delinquent act, or criminal traffic offense under the laws of this state. Revenue from the surcharge shall be transferred to such unit of local government for the purpose of replacing fine revenue deposited into the clerk’s fine and forfeiture fund under s. 142.01. Proceeds from the imposition of the surcharge authorized in this paragraph shall not be used for the purpose of securing payment of the principal and interest on bonds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The disbursement of costs collected under this section shall be subordinate in priority order of disbursement to all other state-imposed costs authorized in this chapter, restitution or other compensation to victims, and child support payments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The clerk of court shall cause a certified copy of the court order imposing such costs to be recorded in the public records. Such record constitutes a lien against the person upon whom the costs are imposed and shall attach as a lien on any real property owned by such person located in the county in which such order is recorded in the same manner and to the same extent as a judgment recorded as provided in s. 55.10. Such order shall attach as a lien on any personal property owned by such person located in the state upon the filing with the Department of State of a judgment lien certificate regarding such order as provided in ss. 55.202-55.209. A lien created under this paragraph does not attach to, or make subject to execution of levy or foreclosure, any real or personal property otherwise exempt under s. 4, Art. X of the State Constitution. A lien created under this paragraph is enforceable in the same manner as provided by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The court shall order a person to pay the additional court cost. If the person is determined to be indigent, the clerk shall defer payment of this cost.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 88, ch. 2004-265; ss. 63, 72, ch. 2005-236; s. 3, ch. 2007-71; s. 14, ch. 2009-61; s. 10, ch. 2009-215; s. 35, ch. 2010-162.</History>
+</Section>

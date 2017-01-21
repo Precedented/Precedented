@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.453" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Surface water improvement and management plans and programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each water management district, in cooperation with the department, the Department of Agriculture and Consumer Services, the Department of Economic Opportunity, the Fish and Wildlife Conservation Commission, local governments, and others, shall maintain a list that prioritizes water bodies of regional or statewide significance within the water management district. The list shall be reviewed and updated every 5 years.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Criteria to be used in developing the lists shall include, but not be limited to, consideration of violations of water quality standards occurring in the water body, the amounts of nutrients entering the water body and the water body’s trophic state, water bodies on the department’s list of impaired waters, water bodies with established total maximum daily loads, the existence of or need for a continuous aquatic weed control program in the water body, the biological condition of the water body, reduced fish and wildlife values, threats to agricultural and urban water supplies, threats to public recreational opportunities, the management of the water body through federal, state, or local water quality programs or plans, and public input.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In maintaining their respective priority water body lists, water management districts shall give consideration to the following priority areas:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The South Florida Water Management District shall give priority to the restoration needs of Lake Okeechobee, Biscayne Bay, the Lake Worth Lagoon, and the Indian River Lagoon system and their tributaries.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Southwest Florida Water Management District shall give priority to the restoration needs of Tampa Bay and its tributaries.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The St. Johns River Water Management District shall give priority to the restoration needs of Lake Apopka, the Lower St. Johns River, and the Indian River Lagoon system and their tributaries.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless otherwise provided by law, the water management districts, in cooperation with state agencies, local governments, and others, may develop surface water improvement and management plans and programs for the water bodies identified on the priority lists. Plans developed pursuant to this subsection shall include, but not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of the water body system, its historical and current uses, its hydrology, and the conditions that have led to the need for restoration or protection;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An identification of all governmental units that have jurisdiction over the water body and its drainage basin within the approved surface water improvement and management plan area, including local, regional, state, and federal units;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A description of land uses within the drainage basin of the priority water body and those of important tributaries;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Identification of point and nonpoint sources of water pollution that are discharged into the water body and its important tributaries;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A description of strategies and a schedule for related management actions for restoring or protecting the water body to Class III or better, including those needed to help achieve state-adopted total maximum daily loads for the water body;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A description of the management actions needed to maintain the water body once it has been restored and to prevent future degradation; and</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An estimate of the funding needed to carry out the restoration or protection strategies and a listing of available and potential funding sources and amounts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The governing board of the appropriate water management district shall hold at least one public hearing and public workshop in the vicinity of a priority water body for which a plan is being developed to obtain public input prior to finalizing the surface water improvement and management plan for the water body. The water management district shall then forward a copy of the plan to the department, the Fish and Wildlife Conservation Commission, the Department of Agriculture and Consumer Services, and appropriate local governmental units for their review and comment within 45 calendar days after the date the plan is forwarded to them. The department shall specifically comment on the likelihood that implementing the plan will significantly improve or protect water quality and associated natural systems. At the end of the 45-day review period, the water management district may proceed to approve the plan, whether or not comments have been submitted.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Plans shall be updated as necessary to ensure that they effectively address the restoration and protection needs of the priority water bodies and that they reflect current scientific understandings and budgetary adjustments. If a district determines that modifications of or additions to a plan are necessary, such modifications or additions shall be subject to the review process established in this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The governing board of each water management district is encouraged to appoint advisory committees as necessary to assist in formulating and evaluating strategies for water body protection and restoration activities and to increase public awareness and intergovernmental cooperation. Such committees should include representatives of appropriate local governments, state and federal agencies, existing advisory councils for the priority water body, and representatives of the public who use the water body.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The water management districts may contract with appropriate state, local, and regional agencies and others to perform various tasks associated with the development and implementation of surface water improvement and management plans and programs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 87-97; s. 25, ch. 89-279; s. 271, ch. 94-356; s. 187, ch. 99-245; s. 5, ch. 2003-265; s. 250, ch. 2011-142.</History>
+</Section>

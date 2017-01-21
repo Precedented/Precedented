@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.040" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Conditions and monitoring.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may issue a certificate of need, or an exemption, predicated upon statements of intent expressed by an applicant in the application for a certificate of need or an exemption. Any conditions imposed on a certificate of need or an exemption based on such statements of intent shall be stated on the face of the certificate of need or in the exemption approval.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency may consider, in addition to the other criteria specified in s. 408.035, a statement of intent by the applicant that a specified percentage of the annual patient days at the facility will be utilized by patients eligible for care under Title XIX of the Social Security Act. Any certificate of need issued to a nursing home in reliance upon an applicant’s statements that a specified percentage of annual patient days will be utilized by residents eligible for care under Title XIX of the Social Security Act must include a statement that such certification is a condition of issuance of the certificate of need. The certificate-of-need program shall notify the Medicaid program office and the Department of Elderly Affairs when it imposes conditions as authorized in this paragraph in an area in which a community diversion pilot project is implemented. Effective July 1, 2012, the agency may not impose sanctions related to patient day utilization by patients eligible for care under Title XIX of the Social Security Act for nursing homes.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A certificateholder or an exemption holder may apply to the agency for a modification of conditions imposed under paragraph (a) or paragraph (b). If the holder of a certificate of need or an exemption demonstrates good cause why the certificate or exemption should be modified, the agency shall reissue the certificate of need or exemption with such modifications as may be appropriate. The agency shall by rule define the factors constituting good cause for modification.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the holder of a certificate of need or an exemption fails to comply with a condition upon which the issuance of the certificate or exemption was predicated, the agency may assess an administrative fine against the certificateholder or exemption holder in an amount not to exceed $1,000 per failure per day. Failure to annually report compliance with any condition upon which the issuance of the certificate or exemption was predicated constitutes noncompliance. In assessing the penalty, the agency shall take into account as mitigation the degree of noncompliance. Proceeds of such penalties shall be deposited in the Public Medical Assistance Trust Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">Unless the applicant has commenced construction, if the project provides for construction, unless the applicant has incurred an enforceable capital expenditure commitment for a project, if the project does not provide for construction, or unless subject to paragraph (b), a certificate of need shall terminate 18 months after the date of issuance, except a certificate of need of an entity which was issued on or before April 1, 2009, shall terminate 36 months after the date of issuance. The agency shall monitor the progress of the holder of the certificate of need in meeting the timetable for project development specified in the application, and may revoke the certificate of need, if the holder of the certificate is not meeting such timetable and is not making a good-faith effort, as defined by rule, to meet it.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A certificate of need issued to an applicant holding a provisional certificate of authority under chapter 651 shall terminate 1 year after the applicant receives a valid certificate of authority from the Office of Insurance Regulation of the Financial Services Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The certificate-of-need validity period for a project shall be extended by the agency, to the extent that the applicant demonstrates to the satisfaction of the agency that good-faith commencement of the project is being delayed by litigation or by governmental action or inaction with respect to regulations or permitting precluding commencement of the project.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 27, ch. 87-92; s. 22, ch. 88-294; s. 15, ch. 92-33; s. 13, ch. 95-144; s. 6, ch. 97-270; s. 4, ch. 98-85; s. 11, ch. 2000-256; s. 12, ch. 2000-318; s. 434, ch. 2003-261; s. 10, ch. 2004-383; s. 3, ch. 2006-161; s. 2, ch. 2007-82; s. 4, ch. 2008-29; s. 1, ch. 2009-45; s. 14, ch. 2009-223; s. 3, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 14, ch. 2009-223. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Paragraph (2)(a) was also amended by s. 1, ch. 2009-45, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(2)(a) Unless the applicant has commenced construction, if the project provides for construction, unless the applicant has incurred an enforceable capital expenditure commitment for a project, if the project does not provide for construction, or unless subject to paragraph (b), a certificate of need shall terminate 3 years after the date of issuance. The agency shall monitor the progress of the holder of the certificate of need in meeting the timetable for project development specified in the application, and may revoke the certificate of need, if the holder of the certificate is not meeting such timetable and is not making a good-faith effort, as defined by rule, to meet it.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.710.</Text>
+	</Note>
+</Section>

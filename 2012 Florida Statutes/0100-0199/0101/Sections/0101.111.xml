@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0101.111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Voter challenges.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any registered elector or poll watcher of a county may challenge the right of a person to vote in that county. The challenge must be in writing and contain the following oath, which shall be delivered to the clerk or inspector:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">OATH OF PERSON ENTERING CHALLENGE</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">State of Florida</Text>
+				<Text xml:space="preserve" Style="Flush">County of <HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I do solemnly swear or affirm that my name is <HorizontalRule Type="Fixed" />; that I am a member of the <HorizontalRule Type="Fixed" /> Party; that I am a registered voter or pollwatcher; that my residence address is <HorizontalRule Type="Fixed" />, in the municipality of <HorizontalRule Type="Fixed" />; and that I have reason to believe that <HorizontalRule Type="Fixed" /> is attempting to vote illegally and the reasons for my belief are set forth herein to wit: <HorizontalRule Type="Variable" /><HorizontalRule Type="Full" /><HorizontalRule Type="Full" /></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Signature of person challenging voter)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn and subscribed to before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">(Clerk of election)</Directions></Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The clerk or inspector shall immediately deliver to the challenged person a copy of the oath of the person entering the challenge, and the challenged voter shall be allowed to cast a provisional ballot in accordance with s. 101.048, except as provided in subparagraph 2.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the basis for the challenge is that the person’s legal residence is not in that precinct, the person shall first be given the opportunity to execute a change of legal residence in order to be able to vote a regular ballot in accordance with s. 101.045(2). If the change of legal residence is such that the person is then properly registered for that precinct, the person shall be allowed to vote a regular ballot. If the change of legal residence places the person in another precinct, the person shall be directed to the proper precinct to vote. If such person insists that he or she is currently in the proper precinct, the person shall be allowed to vote a provisional ballot in accordance with s. 101.048.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Alternatively, a challenge in accordance with this section may be filed in advance with the supervisor of elections no sooner than 30 days before an election. The supervisor shall promptly provide the election board in the challenged voter’s precinct with a copy of the oath of the person entering the challenge. The challenged voter shall be allowed to cast a provisional ballot in accordance with s. 101.048, subject to the provisions of subparagraph (b)2.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any elector or poll watcher filing a frivolous challenge of any person’s right to vote commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083; however, electors or poll watchers shall not be subject to liability for any action taken in good faith and in furtherance of any activity or duty permitted of such electors or poll watchers by law. Each instance where any elector or poll watcher files a frivolous challenge of any person’s right to vote constitutes a separate offense.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 43, ch. 4328, 1895; GS 227; s. 43, ch. 6469, 1913; RGS 272, 347; CGL 328, 404; s. 5, ch. 26870, 1951; s. 10, ch. 27991, 1953; s. 23, ch. 28156, 1953; s. 4, ch. 65-380; s. 13, ch. 77-175; s. 554, ch. 95-147; s. 9, ch. 99-6; s. 17, ch. 2003-415; s. 27, ch. 2005-277; s. 10, ch. 2006-1; s. 17, ch. 2008-95; s. 4, ch. 2010-167.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former ss. 99.26, 102.42.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0499.62" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">License or permit required of manufacturer, distributor, dealer, or purchaser of ether.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It shall be unlawful for any person to engage in the business of manufacturing, distributing, or dealing in ether in this state, except when done in conformity with the provisions of this part. No person shall be required to obtain more than one license under this part to handle ether, but each person shall pay the highest fee applicable to her or his operation in each location.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any person who manufactures, distributes, or deals in ether in this state must possess a current valid license issued by the department, except that a manufacturer, distributor, or dealer who also purchases ether in this state shall not be required to obtain an additional permit as a purchaser of ether.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person who manufactures, distributes, or deals in ether at or from more than one location must possess a current valid license for each location.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person who purchases ether in this state must possess a current valid permit issued by the department, except that no permit shall be required of any person who purchases ether in quantities of less than 2.5 gallons, or equivalent by weight.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Annual fees for licenses and permits shall be specified by rule of the department, but shall not exceed the following amounts:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Manufacturer’s license<FlushRight Fill="Dot" />$700</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Distributor’s license<FlushRight Fill="Dot" />$700</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Dealer’s license<FlushRight Fill="Dot" />$350</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Purchaser’s permit<FlushRight Fill="Dot" />$150</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Licenses and permits issued by the department shall be valid beginning on October 1 of the year for which they are issued and shall expire on the following September 30.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A licensed or permitted facility shall renew its license or permit prior to its expiration date. If a renewal application and fee are not filed by the expiration date of any year, the permit may be reinstated only upon payment of a delinquent fee of $50, plus the required renewal fee, within 30 days after the date of expiration. If any person who is subject to the requirements of this part fails to comply with the renewal, the department shall have the authority to seize all ether products and dispose of them as of November 1 of the year the license or permit expires. Any funds collected from the disposal shall be placed in the Professional Regulation Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 10, 11, ch. 86-133; s. 4, ch. 91-429; s. 596, ch. 97-103; s. 17, ch. 2012-143.</History>
+</Section>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.1051" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Control of electronic chattel paper.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A secured party has control of electronic chattel paper if the record or records comprising the chattel paper are created, stored, and assigned in such a manner that:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A single authoritative copy of the record or records exists which is unique, identifiable and, except as otherwise provided in subsections (4), (5), and (6), unalterable;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The authoritative copy identifies the secured party as the assignee of the record or records;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The authoritative copy is communicated to and maintained by the secured party or its designated custodian;</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Copies or revisions that add or change an identified assignee of the authoritative copy can be made only with the participation of the secured party;</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any revision of the authoritative copy is readily identifiable as an authorized or unauthorized revision.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2001-198; s. 2, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 2, ch. 2012-59, amended s. 679.1051, effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">679.1051 Control of electronic chattel paper.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) A secured party has control of electronic chattel paper if a system employed for evidencing the transfer of interests in the chattel paper reliably establishes the secured party as the person to which the chattel paper was assigned.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) A system satisfies subsection (1), and a secured party has control of electronic chattel paper, if the record or records comprising the chattel paper are created, stored, and assigned in such a manner that:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) A single authoritative copy of the record or records exists which is unique, identifiable and, except as otherwise provided in paragraphs (d), (e), and (f), unalterable;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The authoritative copy identifies the secured party as the assignee of the record or records;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) The authoritative copy is communicated to and maintained by the secured party or its designated custodian;</Text>
+		<Text xml:space="preserve" Style="Indent">(d) Copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the secured party;</Text>
+		<Text xml:space="preserve" Style="Indent">(e) Each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and</Text>
+		<Text xml:space="preserve" Style="Indent">(f) Any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.</Text>
+	</Note>
+</Section>

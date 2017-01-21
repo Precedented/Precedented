@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0465.189" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Administration of vaccines and epinephrine autoinjection.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In accordance with guidelines of the Centers for Disease Control and Prevention for each recommended immunization or vaccine, a pharmacist may administer the following vaccines to an adult within the framework of an established protocol under a supervising physician licensed under chapter 458 or chapter 459:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Influenza vaccine.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Pneumococcal vaccine.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In accordance with guidelines of the Centers for Disease Control and Prevention, a pharmacist may administer the shingles vaccine within the framework of an established protocol and pursuant to a written or electronic prescription issued to the patient by a physician licensed under chapter 458 or chapter 459.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In order to address any unforeseen allergic reaction, a pharmacist may administer epinephrine using an autoinjector delivery system within the framework of an established protocol under a supervising physician licensed under chapter 458 or chapter 459.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A pharmacist may not enter into a protocol unless he or she maintains at least $200,000 of professional liability insurance and has completed training in administering vaccines authorized under this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A pharmacist administering vaccines under this section shall maintain and make available patient records using the same standards for confidentiality and maintenance of such records as those that are imposed on health care practitioners under s. 456.057. These records shall be maintained for a minimum of 5 years.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The decision by a supervising physician licensed under chapter 458 or chapter 459 to enter into a protocol under this section is a professional decision on the part of the practitioner, and a person may not interfere with a physician’s decision as to entering into such a protocol. A pharmacist may not enter into a protocol that is to be performed while acting as an employee without the written approval of the owner of the pharmacy. Pharmacists shall forward vaccination records to the department for inclusion in the state registry of immunization information.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Any pharmacist seeking to administer vaccines to adults under this section must be certified to administer such vaccines pursuant to a certification program approved by the Board of Pharmacy in consultation with the Board of Medicine and the Board of Osteopathic Medicine. The certification program shall, at a minimum, require that the pharmacist attend at least 20 hours of continuing education classes approved by the board. The program shall have a curriculum of instruction concerning the safe and effective administration of such vaccines, including, but not limited to, potential allergic reactions to such vaccines.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The written protocol between the pharmacist and supervising physician under this section must include particular terms and conditions imposed by the supervising physician upon the pharmacist relating to the administration of vaccines by the pharmacist pursuant to this section. The written protocol shall include, at a minimum, specific categories and conditions among patients for whom the supervising physician authorizes the pharmacist to administer such vaccines. The terms, scope, and conditions set forth in the written protocol between the pharmacist and the supervising physician must be appropriate to the pharmacist’s training and certification for administering such vaccines. Pharmacists who have been delegated the authority to administer vaccines under this section by the supervising physician under the protocol shall provide evidence of current certification by the Board of Pharmacy to the supervising physician. A supervising physician shall review the administration of such vaccines by the pharmacist pursuant to the written protocol between them, and this review shall take place as outlined in the written protocol. The process and schedule for the review shall be outlined in the written protocol between the pharmacist and the supervising physician.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The pharmacist shall submit to the Board of Pharmacy a copy of his or her protocol or written agreement to administer vaccines under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2007-152; s. 1, ch. 2012-60.</History>
+</Section>

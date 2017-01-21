@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.6515" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Out-of-state groups.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any group health insurance policy issued or delivered outside this state under which a resident of this state is provided coverage shall comply with the provisions of this part in the same manner as group health policies issued in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this part, this part does not apply to a group health insurance policy issued or delivered outside this state under which a resident of this state is provided coverage if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The policy is issued to an employee group the composition of which is substantially as described in s. 627.653; a labor union group or association group the composition of which is substantially as described in s. 627.654; an additional group the composition of which is substantially as described in s. 627.656; a group insured under a blanket health policy when the composition of the group is substantially in compliance with s. 627.659; a group insured under a franchise health policy when the composition of the group is substantially in compliance with s. 627.663; an association group to cover persons associated in any other common group, which common group is formed primarily for purposes other than providing insurance; a group that is established primarily for the purpose of providing group insurance, provided the benefits are reasonable in relation to the premiums charged thereunder and the issuance of the group policy has resulted, or will result, in economies of administration; or a group of insurance agents of an insurer, which insurer is the policyholder;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Certificates evidencing coverage under the policy are issued to residents of this state and contain in contrasting color and not less than 10-point type the following statement: “The benefits of the policy providing your coverage are governed primarily by the law of a state other than Florida”; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The policy provides the benefits specified in ss. 627.419, 627.6574, 627.6575, 627.6579, 627.6612, 627.66121, 627.66122, 627.6613, 627.667, 627.6675, 627.6691, and 627.66911, and complies with the requirements of s. 627.66996.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Applications for certificates of coverage offered to residents of this state must contain, in contrasting color and not less than 12-point type, the following statement on the same page as the applicant’s signature:</Text>
+				<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">“This policy is primarily governed by the laws of <Directions xml:space="preserve">insert state where the master policy if filed</Directions>. As a result, all of the rating laws applicable to policies filed in this state do not apply to this coverage, which may result in increases in your premium at renewal that would not be permissible under a Florida-approved policy. Any purchase of individual health insurance should be considered carefully, as future medical conditions may make it impossible to qualify for another individual health policy. For information concerning individual health coverage under a Florida-approved policy, consult your agent or the Florida Department of Financial Services.”</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">This paragraph applies only to group certificates providing health insurance coverage which require individualized underwriting to determine coverage eligibility for an individual or premium rates to be charged to an individual except for the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Policies issued to provide coverage to groups of persons all of whom are in the same or functionally related licensed professions, and providing coverage only to such licensed professionals, their employees, or their dependents;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Policies providing coverage to small employers as defined by s. 627.6699. Such policies shall be subject to, and governed by, the provisions of s. 627.6699;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Policies issued to a bona fide association, as defined by s. 627.6571(5), provided that there is a person or board acting as a fiduciary for the benefit of the members, and such association is not owned, controlled by, or otherwise associated with the insurance company; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any accidental death, accidental death and dismemberment, accident-only, vision-only, dental-only, hospital indemnity-only, hospital accident-only, cancer, specified disease, Medicare supplement, products that supplement Medicare, long-term care, or disability income insurance, or similar supplemental plans provided under a separate policy, certificate, or contract of insurance, which cannot duplicate coverage under an underlying health plan, coinsurance, or deductibles or coverage issued as a supplement to workers’ compensation or similar insurance, or automobile medical-payment insurance.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Section 624.428 is not applicable when residents of this state are enrolled for coverage under a policy or certificate issued in accordance with subsection (2).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Prior to solicitation in this state, a copy of the master policy and a copy of the form of the certificate evidencing coverage that will be issued to residents of this state shall be filed with the office for informational purposes.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Prior to solicitation in this state, an officer of the insurer shall truthfully certify to the office that the policy and certificates evidencing coverage have been reviewed and approved by the state in which the group policy is issued.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any insurer who provides coverage under certificates of insurance issued to residents of this state shall designate one Florida-licensed resident agent as agent of record for the service of such certificates, unless the policy is issued to a group substantially as described in s. 627.653, s. 627.654, s. 627.656, s. 627.659, or s. 627.663.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">No group, franchise, or blanket health insurance policy issued or delivered outside this state, under which policy a resident of this state is provided coverage for any diagnostic or surgical procedure involving bones or joints of the skeleton, shall discriminate against coverage for any similar diagnostic or surgical procedure involving bones or joints of the jaw and facial region, if, under accepted medical standards, such procedure or surgery is medically necessary to treat conditions caused by congenital or developmental deformity, disease, or injury. This subsection shall not be construed to affect any other coverage under this part or to restrict the scope of coverage under any policy, plan, or contract. Nothing in this subsection shall be construed to discourage appropriate nonsurgical procedures or to prohibit the continued coverage of nonsurgical procedures in the treatment of a bone or joint of the jaw and facial region. Furthermore, nothing in this subsection requires coverage for care or treatment of the teeth or gums, for intraoral prosthetic devices, or for surgical procedures for cosmetic purposes.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">For purposes of this subsection, dental treatment or surgery shall be considered necessary when the dental condition is likely to result in a medical condition if left untreated. Any group, franchise, or blanket health insurance policy issued or delivered outside this state, under which policy a resident of this state is provided coverage for general anesthesia and hospitalization services to a covered person, shall not preclude such coverage in assuring the safe delivery of necessary dental care provided to a covered person who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is under 8 years of age and is determined by a licensed dentist, and the child’s physician licensed under chapter 458 or chapter 459, to require necessary dental treatment in a hospital or ambulatory surgical center due to a significantly complex dental condition or a developmental disability in which patient management in the dental office has proved to be ineffective; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has one or more medical conditions that would create significant or undue medical risk for the individual in the course of delivery of any necessary dental treatment or surgery if not rendered in a hospital or ambulatory surgical center.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">As provided herein, all terms and conditions of the covered person’s health insurance policy shall apply to such services, and this section does not require coverage for the diagnosis or treatment of dental disease. An insurer may require prior authorization for general anesthesia and hospital services required under this section in the same manner the insurer requires prior authorization for hospitalization for other covered services. This subsection shall not apply to Medicare supplement, long-term care, disability, limited benefit, accident only, or specified disease policies.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any insured shall be able to terminate membership or affiliation with the group to whom the master policy is issued. An insured that elects to terminate his or her membership or affiliation with the group shall provide written notice to the insurer. Upon providing the written notice, the member shall be entitled to the rights and options provided by s. 627.6675.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Any pricing structure that results, or is reasonably expected to result, in rate escalations resulting in a death spiral, which is a rate escalation caused by segmenting healthy and unhealthy lives resulting in an ultimate pool of primarily less healthy insureds, is considered a predatory pricing structure and constitutes unfair discrimination as provided in s. 626.9541(1)(g). The Financial Services Commission may adopt rules to define other unfairly discriminatory or predatory health insurance rating practices.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 499, 809(2nd), ch. 82-243; s. 79, ch. 82-386; s. 110, ch. 83-216; s. 3, ch. 84-202; s. 5, ch. 86-122; s. 2, ch. 89-190; s. 7, ch. 90-249; s. 2, ch. 90-255; ss. 129, 149, ch. 92-33; s. 114, ch. 92-318; s. 5, ch. 96-282; s. 3, ch. 96-361; s. 6, ch. 97-48; s. 2, ch. 98-66; s. 2, ch. 98-312; s. 3, ch. 2003-139; s. 1164, ch. 2003-261; s. 1, ch. 2004-7; s. 4, ch. 2011-111.</History>
+</Section>

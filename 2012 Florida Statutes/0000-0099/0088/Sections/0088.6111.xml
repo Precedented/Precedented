@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6111" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Modification of child support order of another state.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">After a child support order issued in another state has been registered in this state, the responding tribunal of this state may modify that order only if s. 88.6131 does not apply and after notice and hearing it finds that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The following requirements are met:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The child, the individual obligee, and the obligor do not reside in the issuing state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A petitioner who is a nonresident of this state seeks modification; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The respondent is subject to the personal jurisdiction of the tribunal of this state; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The child, or a party who is an individual, is subject to the personal jurisdiction of the tribunal of this state and all of the parties who are individuals have filed written consents in the issuing tribunal for a tribunal of this state to modify the support order and assume continuing exclusive jurisdiction over the order. However, if the issuing state is a foreign jurisdiction that has not enacted a law or established procedures substantially similar to the procedures under this act, the consent otherwise required of an individual residing in this state is not required for the tribunal to assume jurisdiction to modify the child support order.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Modification of a registered child support order is subject to the same requirements, procedures, and defenses that apply to the modification of an order issued by a tribunal of this state and the order may be enforced and satisfied in the same manner.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state may not modify any aspect of a child support order that may not be modified under the law of the issuing state. If two or more tribunals have issued child support orders for the same obligor and child, the order that controls and must be so recognized under s. 88.2071 establishes the aspects of the support order which are nonmodifiable.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">On issuance of an order modifying a child support order issued in another state, a tribunal of this state becomes the tribunal of continuing exclusive jurisdiction.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 96-189; s. 33, ch. 97-170; s. 53, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 53, ch. 2011-92, amended s. 88.6111, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.6111 Modification of child support order of another state.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) If s. 88.6131 does not apply, upon petition, a tribunal of this state may modify a child support order issued in another state which is registered in this state if, after notice and hearing, the tribunal finds that:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The following requirements are met:</Text>
+		<Text xml:space="preserve" Style="Indent">1. Neither the child, nor the obligee who is an individual, nor the obligor resides in the issuing state;</Text>
+		<Text xml:space="preserve" Style="Indent">2. A petitioner who is a nonresident of this state seeks modification; and</Text>
+		<Text xml:space="preserve" Style="Indent">3. The respondent is subject to the personal jurisdiction of the tribunal of this state; or</Text>
+		<Text xml:space="preserve" Style="Indent">(b) This state is the state of residence of the child, or a party who is an individual, is subject to the personal jurisdiction of the tribunal of this state and all of the parties who are individuals have filed consents in a record in the issuing tribunal for a tribunal of this state to modify the support order and assume continuing exclusive jurisdiction.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) Modification of a registered child support order is subject to the same requirements, procedures, and defenses that apply to the modification of an order issued by a tribunal of this state and the order may be enforced and satisfied in the same manner.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) A tribunal of this state may not modify any aspect of a child support order that may not be modified under the law of the issuing state, including the duration of the obligation of support. If two or more tribunals have issued child support orders for the same obligor and same child, the order that controls and must be so recognized under s. 88.2071 establishes the aspects of the support order which are nonmodifiable.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) In a proceeding to modify a child support order, the law of the state that is determined to have issued the initial controlling order governs the duration of the obligation of support. The obligor’s fulfillment of the duty of support established by that order precludes imposition of a further obligation of support by a tribunal of this state.</Text>
+		<Text xml:space="preserve" Style="Indent">(5) On issuance of an order by a tribunal of this state modifying a child support order issued in another state, the tribunal of this state becomes the tribunal of continuing exclusive jurisdiction.</Text>
+		<Text xml:space="preserve" Style="Indent">(6) Notwithstanding subsections (1)-(5) and s. 88.2011(2), a tribunal of this state retains jurisdiction to modify an order issued by a tribunal of this state if:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) One party resides in another state; and</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The other party resides outside the United States.</Text>
+	</Note>
+</Section>

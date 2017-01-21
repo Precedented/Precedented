@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0787.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Interference with custody.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Whoever, without lawful authority, knowingly or recklessly takes or entices, or aids, abets, hires, or otherwise procures another to take or entice, any minor or any incompetent person from the custody of the minor’s or incompetent person’s parent, his or her guardian, a public agency having the lawful charge of the minor or incompetent person, or any other lawful custodian commits the offense of interference with custody and commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In the absence of a court order determining rights to custody or visitation with any minor or with any incompetent person, any parent of the minor or incompetent person, whether natural or adoptive, stepparent, legal guardian, or relative of the minor or incompetent person who has custody thereof and who takes, detains, conceals, or entices away that minor or incompetent person within or without the state with malicious intent to deprive another person of his or her right to custody of the minor or incompetent person commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A subsequently obtained court order for custody or visitation does not affect application of this section.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is a defense that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The defendant had reasonable cause to believe that his or her action was necessary to preserve the minor or the incompetent person from danger to his or her welfare.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The defendant was the victim of an act of domestic violence or had reasonable cause to believe that he or she was about to become the victim of an act of domestic violence as defined in s. 741.28, and the defendant had reasonable cause to believe that the action was necessary in order for the defendant to escape from, or protect himself or herself from, the domestic violence or to preserve the minor or incompetent person from exposure to the domestic violence.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The minor or incompetent person was taken away at his or her own instigation without enticement and without purpose to commit a criminal offense with or against the minor or incompetent person, and the defendant establishes that it was reasonable to rely on the instigating acts of the minor or incompetent person.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Proof that a person has not attained the age of 18 years creates the presumption that the defendant knew the minor’s age or acted in reckless disregard thereof.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The offenses prescribed in subsections (1) and (2) do not apply in cases in which a person having a legal right to custody of a minor or incompetent person is the victim of any act of domestic violence, has reasonable cause to believe he or she is about to become the victim of any act of domestic violence, as defined in s. 741.28, or believes that his or her action was necessary to preserve the minor or the incompetent person from danger to his or her welfare and seeks shelter from such acts or possible acts and takes with him or her the minor or incompetent person.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In order to gain the exception conferred by paragraph (a), a person who takes a minor or incompetent person under this subsection must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Within 10 days after taking the minor or incompetent person, make a report to the sheriff’s office or state attorney’s office for the county in which the minor or incompetent person resided at the time he or she was taken, which report must include the name of the person taking the minor or incompetent person, the current address and telephone number of the person and minor or incompetent person, and the reasons the minor or incompetent person was taken.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Within a reasonable time after taking a minor, commence a custody proceeding that is consistent with the federal Parental Kidnapping Prevention Act, 28 U.S.C. s. 1738A, or the Uniform Child Custody Jurisdiction and Enforcement Act, ss. 61.501-61.542.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Inform the sheriff’s office or state attorney’s office for the county in which the minor or incompetent person resided at the time he or she was taken of any change of address or telephone number of the person and the minor or incompetent person.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The current address and telephone number of the person and the minor or incompetent person which are contained in the report made to a sheriff or state attorney under paragraph (b) are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A sheriff or state attorney may allow an agency, as defined in s. 119.011, to inspect and copy records made confidential and exempt under this paragraph in the furtherance of that agency’s duties and responsibilities.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 74-383; s. 14, ch. 75-298; s. 1, ch. 77-174; s. 1, ch. 88-244; s. 25, ch. 94-134; s. 25, ch. 94-135; s. 1201, ch. 97-102; s. 1, ch. 2000-231; s. 1, ch. 2000-357; s. 157, ch. 2004-5; s. 1, ch. 2005-89; s. 1, ch. 2006-114; s. 1, ch. 2006-115; s. 1, ch. 2011-99.</History>
+</Section>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.6011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Case plan development.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall prepare a draft of the case plan for each child receiving services under this chapter. A parent of a child may not be threatened or coerced with the loss of custody or parental rights for failing to admit in the case plan of abusing, neglecting, or abandoning a child. Participating in the development of a case plan is not an admission to any allegation of abuse, abandonment, or neglect, and it is not a consent to a finding of dependency or termination of parental rights. The case plan shall be developed subject to the following requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The case plan must be developed in a face-to-face conference with the parent of the child, any court-appointed guardian ad litem, and, if appropriate, the child and the temporary custodian of the child.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parent may receive assistance from any person or social service agency in preparing the case plan. The social service agency, the department, and the court, when applicable, shall inform the parent of the right to receive such assistance, including the right to assistance of counsel.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a parent is unwilling or unable to participate in developing a case plan, the department shall document that unwillingness or inability to participate. The documentation must be provided in writing to the parent when available for the court record, and the department shall prepare a case plan conforming as nearly as possible with the requirements set forth in this section. The unwillingness or inability of the parent to participate in developing a case plan does not preclude the filing of a petition for dependency or for termination of parental rights. The parent, if available, must be provided a copy of the case plan and be advised that he or she may, at any time before the filing of a petition for termination of parental rights, enter into a case plan and that he or she may request judicial review of any provision of the case plan with which he or she disagrees at any court hearing set for the child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The case plan must be written simply and clearly in English and, if English is not the principal language of the child’s parent, to the extent possible in the parent’s principal language. Each case plan must contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of the identified problem being addressed, including the parent’s behavior or acts resulting in risk to the child and the reason for the intervention by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The permanency goal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If concurrent planning is being used, a description of the permanency goal of reunification with the parent or legal custodian in addition to a description of one of the remaining permanency goals described in s. 39.01.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If a child has not been removed from a parent, but is found to be dependent, even if adjudication of dependency is withheld, the court may leave the child in the current placement with maintaining and strengthening the placement as a permanency option.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If a child has been removed from a parent and is placed with a parent from whom the child was not removed, the court may leave the child in the placement with the parent from whom the child was not removed with maintaining and strengthening the placement as a permanency option.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If a child has been removed from a parent and is subsequently reunified with that parent, the court may leave the child with that parent with maintaining and strengthening the placement as a permanency option.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The date the compliance period expires. The case plan must be limited to as short a period as possible for accomplishing its provisions. The plan’s compliance period expires no later than 12 months after the date the child was initially removed from the home, the child was adjudicated dependent, or the date the case plan was accepted by the court, whichever occurs first.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A written notice to the parent that failure of the parent to substantially comply with the case plan may result in the termination of parental rights, and that a material breach of the case plan may result in the filing of a petition for termination of parental rights sooner than the compliance period set forth in the case plan.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The case plan must be signed by all parties, except that the signature of a child may be waived if the child is not of an age or capacity to participate in the case-planning process. Signing the case plan constitutes an acknowledgment that the case plan has been developed by the parties and that they are in agreement as to the terms and conditions contained in the case plan. The refusal of a parent to sign the case plan does not prevent the court from accepting the case plan if the case plan is otherwise acceptable to the court. Signing the case plan does not constitute an admission to any allegation of abuse, abandonment, or neglect and does not constitute consent to a finding of dependency or termination of parental rights. Before signing the case plan, the department shall explain the provisions of the plan to all persons involved in its implementation, including, when appropriate, the child.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The case plan must describe:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The role of the foster parents or legal custodians when developing the services that are to be provided to the child, foster parents, or legal custodians;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The responsibility of the case manager to forward a relative’s request to receive notification of all proceedings and hearings submitted pursuant to s. 39.301(14)(b) to the attorney for the department;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The minimum number of face-to-face meetings to be held each month between the parents and the department’s family services counselors to review the progress of the plan, to eliminate barriers to progress, and to resolve conflicts or disagreements; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The parent’s responsibility for financial support of the child, including, but not limited to, health insurance and child support. The case plan must list the costs associated with any services or treatment that the parent and child are expected to receive which are the financial responsibility of the parent. The determination of child support and other financial support shall be made independently of any determination of indigency under s. 39.013.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">When the permanency goal for a child is adoption, the case plan must include documentation of the steps the agency is taking to find an adoptive family or other permanent living arrangement for the child. At a minimum, the documentation shall include recruitment efforts that are specific to the child, such as the use of state, regional, and national adoption exchanges, including electronic exchange systems.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">After the case plan has been developed, the department shall adhere to the following procedural requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the parent’s substantial compliance with the case plan requires the department to provide services to the parents or the child and the parents agree to begin compliance with the case plan before the case plan’s acceptance by the court, the department shall make the appropriate referrals for services that will allow the parents to begin the agreed-upon tasks and services immediately.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">After the case plan has been agreed upon and signed by the parties, a copy of the plan must be given immediately to the parties, including the child if appropriate, and to other persons as directed by the court.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A case plan must be prepared, but need not be submitted to the court, for a child who will be in care no longer than 30 days unless that child is placed in out-of-home care a second time within a 12-month period.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In each case in which a child has been placed in out-of-home care, a case plan must be prepared within 60 days after the department removes the child from the home and shall be submitted to the court before the disposition hearing for the court to review and approve.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">After jurisdiction attaches, all case plans must be filed with the court, and a copy provided to all the parties whose whereabouts are known, not less than 3 business days before the disposition hearing. The department shall file with the court, and provide copies to the parties, all case plans prepared before jurisdiction of the court attached.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The case plan must be filed with the court and copies provided to all parties, including the child if appropriate, not less than 3 business days before the disposition hearing.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The case plan must describe a process for making available to all physical custodians and family services counselors the information required by s. 39.6012(2) and for ensuring that this information follows the child until permanency has been achieved.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 2006-86; s. 27, ch. 2008-245; s. 11, ch. 2009-43; s. 11, ch. 2012-178.</History>
+</Section>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0202.29" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Bad debts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A dealer who has paid the tax imposed by this chapter may take a credit or obtain a refund for tax paid by the dealer on unpaid balances due on worthless accounts within 12 months following the last day of the calendar year for which the bad debt was charged off on the taxpayer’s federal income tax return.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If any accounts for which a credit or refund has been received are then in whole or in part paid to the dealer, the amount paid must be included in the first return filed after such receipt and the tax paid accordingly.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Bad debts associated with accounts receivable which have been assigned or sold with recourse are eligible upon reassignment for inclusion by the dealer in the credit or refund authorized by this section.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A dealer may report the credit for bad debt allowed under this section by netting such credit against the tax due to the state pursuant to s. 202.12 or to a local jurisdiction pursuant to s. 202.19, but such netting may not reduce the amount due to the state or to any local jurisdiction below zero.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of determining the amount of bad debt that is attributable to the state or to a local jurisdiction, a dealer may employ a proportionate allocation method based on current gross taxes due or another reasonable allocation method approved by the department.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 21, 58, ch. 2000-260; s. 38, ch. 2001-140; s. 1, ch. 2010-83.</History>
+</Section>

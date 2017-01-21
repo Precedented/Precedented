@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Income taxes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A tax required to be paid by a fiduciary based on receipts allocated to income shall be paid from income.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A tax required to be paid by a fiduciary based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A tax required to be paid by a fiduciary on the trust’s or estate’s share of an entity’s taxable income shall be paid proportionately:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">From income to the extent receipts from the entity are allocated to income.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">From principal to the extent receipts from the entity are allocated to principal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">From principal to the extent that the income taxes payable by the trust or estate exceed the total receipts from the entity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">After applying subsections (1)-(3), the fiduciary shall adjust income or principal receipts to the extent that the trust’s or estate’s income taxes are reduced, but not eliminated, because the trust or estate receives a deduction for payments made to a beneficiary. The amount distributable to that beneficiary as income as a result of this adjustment shall be equal to the cash received by the trust or estate, reduced, but not below zero, by the entity’s taxable income allocable to the trust or estate multiplied by the trust’s or estate’s income tax rate. The reduced amount shall be divided by the difference between 1 and the trust’s or estate’s income tax rate in order to determine the amount distributable to that beneficiary as income before giving effect to other receipts or disbursements allocable to that beneficiary’s interest.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 31, ch. 2012-49.</History>
+</Section>

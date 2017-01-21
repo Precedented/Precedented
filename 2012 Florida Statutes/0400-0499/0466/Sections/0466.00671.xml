@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0466.00671" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Renewal of the health access dental license.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A health access dental licensee shall apply for renewal each biennium. At the time of renewal, the licensee shall sign a statement that she or he has complied with all continuing education requirements of an active dentist licensee. The board shall renew a health access dental license for an applicant that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Submits documentation, as approved by the board, from the employer in the health access setting that the licensee has at all times pertinent remained an employee;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has not been convicted of or pled nolo contendere to, regardless of adjudication, any felony or misdemeanor related to the practice of a health care profession;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has paid a renewal fee set by the board. The fee specified herein may not differ from the renewal fee adopted by the board pursuant to s. 466.013. The department may provide payment for these fees through the dentist’s salary, benefits, or other department funds;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has not failed the examination specified in s. 466.006 since initially receiving a health access dental license or since the last renewal; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Has not been reported to the National Practitioner Data Bank, unless the applicant successfully appealed to have his or her name removed from the data bank.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The board may undertake measures to independently verify the health access dental licensee’s ongoing employment status in the health access setting.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 4, 6, ch. 2008-64; s. 12, ch. 2011-95.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed January 1, 2015, by s. 6, ch. 2008-64, unless reenacted by the Legislature.</Text>
+	</Note>
+</Section>

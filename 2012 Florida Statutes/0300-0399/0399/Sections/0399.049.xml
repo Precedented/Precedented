@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.049" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disciplinary action.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may suspend or revoke an elevator inspector certification, an elevator company registration, an elevator certificate of competency, or an elevator certificate of operation issued under this chapter or impose an administrative penalty of up to $1,000 per violation upon any registered elevator company or certificateholder who commits any one or more of the following violations:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any false statement as to a material matter in an application for registration, certification, or any permit or certificate issued under this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Fraud, misrepresentation, or bribery in the practice of the profession.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Failure by a certified elevator inspector to provide the department and the certificate of operation holder with a copy of the inspection report within 5 days after the date of any inspection performed after the initial certificate of operation is issued.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Violation of any provision of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Failure by a certified elevator inspector to maintain his or her qualified elevator inspector credential in good standing.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Having a license to install, inspect, maintain, or repair any vertical conveyance revoked, suspended, or otherwise acted against, including the denial of licensure, by the licensing authority of another state, territory, or county.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Engaging in fraud or deceit, negligence, incompetency, or misconduct in the practice of the profession.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any disciplinary action taken under this chapter must comply with chapter 120 and any rules adopted thereunder.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2001-186; s. 6, ch. 2002-293; s. 9, ch. 2002-299; s. 4, ch. 2010-110.</History>
+</Section>

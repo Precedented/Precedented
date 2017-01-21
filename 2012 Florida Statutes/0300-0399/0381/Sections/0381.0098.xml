@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0098" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Biomedical waste.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE INTENT.<EmDash />Except as otherwise provided herein, the Department of Health shall regulate the packaging, transport, storage, and treatment of biomedical waste. The Department of Environmental Protection shall regulate onsite and offsite incineration and disposal of biomedical waste. Consistent with the foregoing, the Department of Health shall have the exclusive authority to establish treatment efficacy standards for biomedical waste and the Department of Environmental Protection shall have the exclusive authority to establish statewide standards relating to environmental impacts, if any, of treatment and disposal including, but not limited to, water discharges and air emissions. An interagency agreement between the Department of Environmental Protection and the Department of Health shall be developed to ensure maximum efficiency in coordinating, administering, and regulating biomedical wastes.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Biomedical waste” means any solid or liquid waste which may present a threat of infection to humans. The term includes, but is not limited to, nonliquid human tissue and body parts; laboratory and veterinary waste which contains human-disease-causing agents; discarded disposable sharps; human blood, blood products, and body fluids; and other materials which in the opinion of the department represent a significant risk of infection to persons outside the generating facility. The term does not include human remains that are disposed of by persons licensed under chapter 497.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Biomedical waste generator” means a facility or person that produces or generates biomedical waste. The term includes, but is not limited to, hospitals, skilled nursing or convalescent hospitals, intermediate care facilities, clinics, dialysis clinics, dental offices, health maintenance organizations, surgical clinics, medical buildings, physicians’ offices, laboratories, veterinary clinics, and funeral homes where embalming procedures are performed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Sharps” mean those biomedical wastes which as a result of their physical characteristics are capable of puncturing, lacerating, or otherwise breaking the skin when handled.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Treatment” means any process, including steam treatment, chemical treatment, and microwave shredding, which changes the character or composition of biomedical waste so as to render it noninfectious. For the purposes of this section, treatment does not include the incineration of biomedical waste.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">OPERATING STANDARDS.<EmDash />The department shall adopt rules necessary to protect the health, safety, and welfare of the public and to carry out the purpose of this section. Such rules shall address, but need not be limited to, definitions of terms, the packaging of biomedical waste, including specific requirements for the segregation of the waste at the point of generation; the safe packaging of sharps; the placement of the waste in containers that will protect waste handlers and the public from exposure; the appropriate labeling of containers of waste; written operating plans for managing biomedical waste; and the transport, storage, and treatment of biomedical wastes.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">PERMITS AND FEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All persons who generate, store, or treat biomedical waste shall obtain a permit from the department prior to commencing operation, except that a biomedical waste generator generating less than 25 pounds of biomedical waste in each 30-day period shall be exempt from the registration and fee requirements of this subsection. A biomedical waste generator need not obtain a separate permit if such generator works less than 6 hours in a 7-day period at a location different than the location specified on the permit. The department may issue combined permits for generation, storage, and treatment as appropriate to streamline permitting procedures. Application for such permit shall be made on an application form provided by the department and within the timeframes and in the manner prescribed by department rule.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Once the department determines that the person generating, storing, or treating biomedical waste is capable of constructing a facility or operating in compliance with this section and the rules adopted under this section, the department shall grant the permit.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the department determines that the person generating, storing, or treating biomedical waste does not meet the provisions outlined in this section or the rules adopted under this section, the department shall deny the application for the permit pursuant to provisions of chapter 120. Such denial shall be in writing and shall list the circumstances for denial. Upon correction of such circumstances, the permit shall be issued.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The permit for a biomedical waste facility may not be transferred. When the ownership, control, or name of a biomedical waste facility is changed and continues to operate, the new owner shall apply to the department, upon forms provided by the department, for issuance of a permit in the timeframe and manner prescribed by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The department shall establish a schedule of fees for such permits. Fees assessed under this section shall be in an amount sufficient to meet the costs of carrying out the provisions of this section and rules adopted under this section. The fee schedule shall not be less than $50 or more than $400 for each year the permit is valid. Fees may be prorated on a quarterly basis when a facility will be in operation for 6 months or less before the annual renewal date. The department shall assess the minimum fees provided in this subsection until a fee schedule is adopted by rule of the department. Facilities owned and operated by the state shall be exempt from the payment of any fees.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Fees collected by the department in accordance with provisions of this section and the rules adopted under this section shall be deposited into a trust fund administered by the department for the payment of costs incurred in the administration of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Permits issued by the department shall be valid for no more than 5 years. However, upon expiration, a new permit may be issued by the department in accordance with this section and the rules of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The department may develop a streamlined process for permitting biomedical waste storage facilities that accept and store only sharps collected from the public, which may include the issuance of a single permit for each applicant that develops or sponsors a sharps collection program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">TRANSPORTERS.<EmDash />Any person who transports biomedical waste within the state must register with the department prior to engaging in the transport of biomedical waste in accordance with rules adopted by the department. A registration may not be transferred from one biomedical waste transporter to another. If the ownership or name of a biomedical waste transporter is changed and the owner intends to continue operation of the transporter, the owner must apply to the department on departmental forms within the timeframes and in the manner prescribed by department rule. The department may charge registration fees in the same manner as is provided in paragraphs (4)(e) and (f). The department may exempt from this requirement any person who, or facility that, transports less than 25 pounds of such waste on any single occasion.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">TRACKING SYSTEM.<EmDash />The department shall adopt rules for a system of tracking biomedical waste.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Such system shall, at a minimum, provide for tracking of the transportation of the waste from the generator to the treatment or incineration facility, including a means for providing the generator of the waste assurance that the waste is received by the treatment or incineration facility, and shall include the identification of the entity transporting the waste on the container.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Inspections may be conducted for purposes of compliance with this section. Any such inspection shall be commenced and completed with reasonable promptness. If the officer, employee, or representative of the department obtains any samples, prior to leaving the premises he or she shall give the owner, operator, or agent in charge a receipt describing the sample obtained.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person who fails to comply with the provisions of this subsection commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">ENFORCEMENT AND PENALTIES.<EmDash />Any person or public body in violation of this section or rules adopted under this section is subject to penalties provided in ss. 381.0012 and 381.0061. However, an administrative fine not to exceed $2,500 may be imposed for each day such person or public body is in violation of this section. The department may deny, suspend, or revoke any biomedical waste permit or registration if the permittee violates this section, any rule adopted under this section, or any lawful order of the department.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">PREEMPTION OF AUTHORITY TO REGULATE.<EmDash />The regulation and inspection of biomedical waste generators is hereby preempted by the state. Nothing in this chapter shall be construed to affect a local government’s zoning and land use authority over biomedical waste generators. Acute care hospitals, licensed under chapter 395, which utilize a certified onsite treatment process involving grinding and treatment, may dispose of such treated biomedical waste in the normal municipal solid waste stream upon notifying the local governments that are responsible for solid waste collection and disposal.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 51, ch. 88-130; s. 2, ch. 89-138; s. 42, ch. 91-297; s. 1, ch. 92-104; s. 6, ch. 93-207; s. 353, ch. 94-356; s. 1, ch. 96-284; s. 184, ch. 97-101; s. 13, ch. 98-151; s. 13, ch. 2000-242; s. 137, ch. 2004-301; s. 51, ch. 2004-350; s. 40, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.80.</Text>
+	</Note>
+</Section>

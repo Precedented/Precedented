@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0947.005" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, unless the context clearly indicates otherwise:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Authority” means the Control Release Authority.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Child care facility” has the same meaning as provided in s. 402.302.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Commission” means the Parole Commission.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Corrections.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Effective parole release date” means the actual parole release date as determined by the presumptive parole release date, satisfactory institutional conduct, and an acceptable parole plan.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Park” has the same meaning as provided in s. 775.215.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Playground” has the same meaning as provided in s. 775.215.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Presumptive parole release date” means the tentative parole release date as determined by objective parole guidelines.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Provisional release date” means the date projected for the prisoner’s release from custody as determined pursuant to <Reference Number="1"/>s. 944.277.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Qualified practitioner” means a social worker, a mental health counselor, or a marriage and family therapist licensed under chapter 491 who, as determined by rule of the respective board, has the coursework, training, qualifications, and experience to evaluate and treat sexual offenders; a psychiatrist licensed under chapter 458 or chapter 459; or a psychologist licensed under chapter 490.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Risk assessment” means an assessment completed by an independent qualified practitioner to evaluate the level of risk associated when a sex offender has contact with a child.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Safety plan” means a written document prepared by the qualified practitioner, in collaboration with the sex offender, the child’s parent or legal guardian, and, when appropriate, the child, which establishes clear roles and responsibilities for each individual involved in any contact between the child and the sex offender.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“School” has the same meaning as provided in s. 775.215.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Secretary” means the Secretary of Corrections.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Tentative release date” means the date projected for the prisoner’s release from custody by virtue of gain-time granted or forfeited pursuant to s. 944.275(3)(a).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 78-417; s. 101, ch. 79-3; s. 2, ch. 81-322; s. 34, ch. 83-131; ss. 24, 37, ch. 86-183; ss. 14, 66, 67, ch. 88-122; s. 1, ch. 89-526; ss. 11, 17, ch. 89-531; s. 20, ch. 90-337; s. 1, ch. 93-2; s. 1, ch. 2005-67; s. 7, ch. 2007-200; s. 8, ch. 2007-209; s. 9, ch. 2010-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 32, ch. 93-406.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVII">
+	<ChapterNumber>938</ChapterNumber>
+	<ChapterName xml:space="preserve">Court costs</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Mandatory costs in all cases</PartTitle>
+		<Section Number="0938.01" />
+		<Section Number="0938.03" />
+		<Section Number="0938.04" />
+		<Section Number="0938.05" />
+		<Section Number="0938.055" />
+		<Section Number="0938.06" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Mandatory costs in<NewLine />specific types of cases</PartTitle>
+		<Section Number="0938.07" />
+		<Section Number="0938.08" />
+		<Section Number="0938.085" />
+		<Section Number="0938.10" />
+		<Section Number="0938.13" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Mandatory court costs authorized<NewLine />by local governmental entities</PartTitle>
+		<Section Number="0938.15" />
+		<Section Number="0938.17" />
+		<Section Number="0938.19" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Discretionary costs in<NewLine />specific types of cases</PartTitle>
+		<Section Number="0938.21" />
+		<Section Number="0938.23" />
+		<Section Number="0938.27" />
+		<Section Number="0938.29" />
+		<Section Number="0938.30" />
+		<Section Number="0938.301" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0938.31" />
+		<Section Number="0938.35" />
+	</Part>
+</Chapter>

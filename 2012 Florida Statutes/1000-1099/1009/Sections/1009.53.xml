@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.53" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Bright Futures Scholarship Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Bright Futures Scholarship Program is created to establish a lottery-funded scholarship program to reward any Florida high school graduate who merits recognition of high academic achievement and who enrolls in a degree program, certificate program, or applied technology program at an eligible Florida public or private postsecondary education institution within 3 years of graduation from high school.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Bright Futures Scholarship Program consists of three types of awards: the Florida Academic Scholarship, the Florida Medallion Scholarship, and the Florida Gold Seal Vocational Scholarship.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall administer the Bright Futures Scholarship Program according to rules and procedures established by the State Board of Education. A single application must be sufficient for a student to apply for any of the three types of awards. The department must advertise the availability of the scholarship program and must notify students, teachers, parents, guidance counselors, and principals or other relevant school administrators of the criteria and application procedures. The department must begin this process of notification no later than January 1 of each year.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Funding for the Bright Futures Scholarship Program must be allocated from the Education Enhancement Trust Fund and must be provided before allocations from that fund are calculated for disbursement to other educational entities.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If funds appropriated are not adequate to provide the maximum allowable award to each eligible applicant, awards in all three components of the program must be prorated using the same percentage reduction.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 216.301, if all funds allocated to the Bright Futures Scholarship Program are not used in any fiscal year, up to 10 percent of the total allocation may be carried forward and used for awards in the following year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall issue awards from the scholarship program annually. Annual awards may be for up to 45 semester credit hours or the equivalent. Before the registration period each semester, the department shall transmit payment for each award to the president or director of the postsecondary education institution, or his or her representative, except that the department may withhold payment if the receiving institution fails to report or to make refunds to the department as required in this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 30 days after the end of regular registration each semester, the educational institution shall certify to the department the eligibility status of each student who receives an award. After the end of the drop and add period, an institution is not required to reevaluate or revise a student’s eligibility status; however, an institution must make a refund to the department within 30 days after the end of the semester of any funds received for courses dropped by a student or courses from which a student has withdrawn after the end of the drop and add period, unless the student has been granted an exception by the department pursuant to subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An institution that receives funds from the program shall certify to the department the amount of funds disbursed to each student and shall remit to the department any undisbursed advances within 60 days after the end of regular registration.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each institution that receives moneys through this program shall provide for a financial audit, as defined in s. 11.45, conducted by an independent certified public accountant or the Auditor General for each fiscal year in which the institution expends program moneys in excess of $100,000. At least every 2 years, the audit shall include an examination of the institution’s administration of the program and the institution’s accounting of the moneys for the program since the last examination of the institution’s administration of the program. The report on the audit must be submitted to the department within 9 months after the end of the fiscal year. The department may conduct its own annual audit of an institution’s administration of the program. The department may request a refund of any moneys overpaid to the institution for the program. The department may suspend or revoke an institution’s eligibility to receive future moneys for the program if the department finds that an institution has not complied with this section. The institution must remit within 60 days any refund requested in accordance with this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any institution that is not subject to an audit pursuant to this subsection shall attest, under penalty of perjury, that the moneys were used in compliance with law. The attestation shall be made annually in a form and format determined by the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A student enrolled in 6 to 8 semester credit hours may receive up to one-half of the maximum award; a student enrolled in 9 to 11 credit hours may receive up to three-fourths of the maximum award; and a student enrolled in 12 or more credit hours may receive up to the full award.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A student may receive only one type of award from the Florida Bright Futures Scholarship Program at a time, but may transfer from one type of award to another through the renewal application process, if the student’s eligibility status changes. However, a student is not eligible to transfer from a Florida Medallion Scholarship or a Florida Gold Seal Vocational Scholarship to a Florida Academic Scholarship. A student who receives an award from the program may also receive a federal family education loan or a federal direct loan, and the value of the award must be considered in the certification or calculation of the student’s loan eligibility.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">If a recipient transfers from one eligible institution to another and continues to meet eligibility requirements, the award must be transferred with the student.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A student may use an award for summer term enrollment if funds are available.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Funds from any scholarship within the Florida Bright Futures Scholarship Program may not be used to pay for remedial or college-preparatory coursework.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Funds for any scholarship within the Florida Bright Futures Scholarship Program may not be used to pay for courses dropped by a student or courses from which a student has withdrawn after the end of the drop and add period. However, a student who receives an award under this program and subsequently drops one or more courses or withdraws from all courses after the end of the drop and add period due to a verifiable illness or other documented emergency may be granted an exception pursuant to s. 1009.40(1)(b)4., unless the institution’s policy is to refund the cost of the courses. The department shall notify eligible recipients of the provisions of this subsection. Each institution shall notify award recipients of the provisions of this subsection during the registration process.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 422, ch. 2002-387; s. 13, ch. 2009-60; s. 10, ch. 2011-52.</History>
+</Section>

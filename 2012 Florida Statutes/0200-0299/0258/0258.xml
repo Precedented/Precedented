@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XVIII">
+	<ChapterNumber>258</ChapterNumber>
+	<ChapterName xml:space="preserve">State parks and preserves</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Parks</PartTitle>
+		<Section Number="0258.001" />
+		<Section Number="0258.004" />
+		<Section Number="0258.007" />
+		<Section Number="0258.008" />
+		<Section Number="0258.014" />
+		<Section Number="0258.0145" />
+		<Section Number="0258.015" />
+		<Section Number="0258.016" />
+		<Section Number="0258.0165" />
+		<Section Number="0258.017" />
+		<Section Number="0258.021" />
+		<Section Number="0258.027" />
+		<Section Number="0258.034" />
+		<Section Number="0258.037" />
+		<Section Number="0258.041" />
+		<Section Number="0258.08" />
+		<Section Number="0258.081" />
+		<Section Number="0258.083" />
+		<Section Number="0258.09" />
+		<Section Number="0258.10" />
+		<Section Number="0258.11" />
+		<Section Number="0258.12" />
+		<Section Number="0258.14" />
+		<Section Number="0258.15" />
+		<Section Number="0258.156" />
+		<Section Number="0258.157" />
+		<Section Number="0258.158" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Aquatic preserves</PartTitle>
+		<Section Number="0258.35" />
+		<Section Number="0258.36" />
+		<Section Number="0258.37" />
+		<Section Number="0258.38" />
+		<Section Number="0258.39" />
+		<Section Number="0258.391" />
+		<Section Number="0258.392" />
+		<Section Number="0258.3925" />
+		<Section Number="0258.393" />
+		<Section Number="0258.394" />
+		<Section Number="0258.395" />
+		<Section Number="0258.396" />
+		<Section Number="0258.397" />
+		<Section Number="0258.399" />
+		<Section Number="0258.40" />
+		<Section Number="0258.41" />
+		<Section Number="0258.42" />
+		<Section Number="0258.43" />
+		<Section Number="0258.44" />
+		<Section Number="0258.45" />
+		<Section Number="0258.46" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Wild and scenic rivers</PartTitle>
+		<Section Number="0258.501" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous provisions</PartTitle>
+		<Section Number="0258.601" />
+	</Part>
+</Chapter>

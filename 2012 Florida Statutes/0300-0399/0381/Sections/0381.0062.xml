@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0062" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Supervision; private and certain public water systems.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Contaminant” means any physical, biological, chemical, or radiological substance or matter in water.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health, including the county health departments.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Florida Safe Drinking Water Act” means part VI of chapter 403.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Health hazard” means any condition, contaminant, device, or practice in a water system or its operation which will create or has the potential to create an acute or chronic threat to the health and well-being of the water consumer.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Limited use commercial public water system” means a public water system not covered or included in the Florida Safe Drinking Water Act, which serves one or more nonresidential establishments and provides piped water.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Limited use community public water system” means a public water system not covered or included in the Florida Safe Drinking Water Act, which serves five or more residences or two or more rental residences, and provides piped water.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Maximum contaminant level” means the maximum permissible level of a contaminant in potable water delivered to consumers.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Multifamily water system” means a water system that provides piped water to three or four residences, one of which may be a rental residence.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Person” means an individual, public or private corporation, company, association, partnership, municipality, agency of the state, district, federal, or any other legal entity, or its legal representative, agent, or assignee.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Potable water” means water that is satisfactory for human consumption, dermal contact, culinary purposes, or dishwashing as approved by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Private water system” means a water system that provides piped water for one or two residences, one of which may be a rental residence.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Public consumption” means oral ingestion or physical contact with water by a person for any purpose other than cleaning work areas or simple handwashing. Examples of public consumption include, when making food or beverages available to the general public, water used for washing food, cooking utensils, or food service areas and water used for preparing food or beverages; washing surfaces accessed by children as in a child care center or similar setting; washing medical instruments or surfaces accessed by a patient; any water usage in health care facilities; emergency washing devices such as eye washing sinks; washing in food processing plants or establishments like slaughterhouses and packinghouses; and water used in schools.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Public water system” means a water system that is not included or covered under the Florida Safe Drinking Water Act, provides piped water to the public, and is not a private or multifamily water system. For purposes of this section, public water systems are classified as limited use community or limited use commercial.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Supplier of water” means the person, company, or corporation that owns or operates a limited use community or limited use commercial public water system, a multifamily water system, or a private water system.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Variance” means a sanction from the department affording a supplier of water an extended time to correct a maximum contaminant level violation caused by the raw water or to deviate from construction standards established by rule of the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SUPERVISION.<EmDash />The department and its agents shall have general supervision and control over all private water systems, multifamily water systems, and public water systems not covered or included in the Florida Safe Drinking Water Act (part VI of chapter 403), and over those aspects of the public water supply program for which it has the duties and responsibilities provided for in part VI of chapter 403. The department shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Administer and enforce the provisions of this section and all rules and orders adopted or issued under this section, including water quality and monitoring standards.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Require any person wishing to construct, modify, or operate a limited use community or limited use commercial public water system or a multifamily water system to first make application to and obtain approval from the department on forms adopted by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Review and act upon any application for the construction, modification, operation, or change of ownership of, and conduct surveillance, enforcement, and compliance investigations of, limited use community and limited use commercial public water systems, and multifamily water systems.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Require a fee from the supplier of water in an amount sufficient to cover the costs of reviewing and acting upon any application for the construction, modification, or operation of a limited use community and limited use commercial public water system, of not less than $10 or more than $90 annually.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Require a fee from the supplier of water in an amount sufficient to cover the costs of reviewing and acting upon any application for the construction or change of ownership of a multifamily water system, of not less than $10 or more than $90.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Require a fee from the supplier of water in an amount sufficient to cover the costs of sample collection, review of analytical results, health-risk interpretations, and coordination with other agencies when such work is not included in paragraphs (b) and (c) and is requested by the supplier of water, of not less than $10 or more than $90.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Require suppliers of water to collect samples of water, to submit such samples to a department-certified drinking water laboratory for contaminant analysis, and to keep sampling records as required by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Require all fees collected by the department in accordance with the provisions of this section to be deposited in an appropriate trust fund of the department, and used exclusively for the payment of costs incurred in the administration of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Prohibit any supplier of water from, intentionally or otherwise, introducing any contaminant which poses a health hazard into a drinking water system.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Require suppliers of water to give public notice of water problems and corrective measures under the conditions specified by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Require a fee to cover the cost of reinspection of any system regulated under this section, which may not be less than $25 or more than $40.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">RIGHT OF ENTRY.<EmDash />For purposes of this section, department personnel may enter, at any reasonable time and if they have reasonable cause to believe a violation of this section is occurring or about to occur, upon any and all parts of the premises of such limited use public and multifamily drinking water systems, to make an examination and investigation to determine the sanitary and safety conditions of such systems.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ENFORCEMENT AND PENALTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who constructs, modifies, or operates a limited use community or limited use commercial public water system, a multifamily water system, or a private water system, without first complying with the requirements of this section, who operates a water system in violation of department order, or who maintains or operates a water system after revocation of the permit is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This section and rules adopted pursuant to this section may be enforced by injunction or restraining order granted by a circuit court as provided in s. 381.0012(2).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Additional remedies available to county health department staff through any county or municipal ordinance may be applied, over and above the penalties set forth in this section, to any violation of this section or the rules adopted pursuant to this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">VARIANCES AND EXEMPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may grant variances and exemptions from the rules adopted under this section through procedures set forth by the rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any establishment with a limited use commercial public water system which does not make tap water available for public consumption and meets the water quality standards and installation requirements established by the department shall be exempt from obtaining an annual operating permit from the department, if the supplier of water:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Registers with the department; if the establishment changes ownership or business activity, it must register; and pay a $15 registration fee; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Performs an initial water quality clearance of the water supply system.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A system exempt under this subsection may, in order to retain potable water status, conduct annual testing for bacteria in the form of one satisfactory microbiological sample per calendar year.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 29834, 1955; ss. 19, 35, ch. 69-106; s. 69, ch. 77-147; s. 16, ch. 77-337; s. 68, ch. 90-331; s. 23, ch. 91-297; s. 1, ch. 93-50; s. 651, ch. 95-148; s. 14, ch. 96-303; s. 179, ch. 97-101; s. 20, ch. 97-237; s. 6, ch. 98-151; s. 12, ch. 99-397; s. 9, ch. 2000-242; s. 31, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.261.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.2061" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Enforcement and modification of support order by tribunal having continuing jurisdiction.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state may serve as an initiating tribunal to request a tribunal of another state to enforce or modify a support order issued in that state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state having continuing exclusive jurisdiction over a support order may act as a responding tribunal to enforce or modify the order. If a party subject to the continuing exclusive jurisdiction of the tribunal no longer resides in the issuing state, in subsequent proceedings the tribunal may apply s. 88.3161 (special rules of evidence and procedure) to receive evidence from another state and s. 88.3181 (assistance with discovery) to obtain discovery through a tribunal of another state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state which lacks continuing exclusive jurisdiction over a spousal support order may not serve as a responding tribunal to modify a spousal support order of another state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 96-189; s. 10, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 10, ch. 2011-92, amended s. 88.2061, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.2061 Continuing jurisdiction to enforce child support order.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) A tribunal of this state that has issued a child support order consistent with the law of this state may serve as an initiating tribunal to request a tribunal of another state to enforce:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The order if the order is the controlling order and has not been modified by a tribunal of another state that assumed jurisdiction pursuant to the Uniform Interstate Family Support Act; or</Text>
+		<Text xml:space="preserve" Style="Indent">(b) A money judgment for arrears of support and interest on the order accrued before a determination that an order of a tribunal of another state is the controlling order.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) A tribunal of this state having continuing jurisdiction over a support order may act as a responding tribunal to enforce the order.</Text>
+	</Note>
+</Section>

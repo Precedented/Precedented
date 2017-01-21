@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1010.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Purchasing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Purchases and leases by school districts and Florida College System institutions shall comply with the requirements of law and rules of the State Board of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Purchases and leases by state universities shall comply with the requirements of law and regulations of the Board of Governors.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each district school board and Florida College System institution board of trustees shall adopt rules, and each university board of trustees shall adopt regulations, to be followed in making purchases.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In districts in which the county purchasing agent is authorized by law to make purchases for the benefit of other governmental agencies within the county, the district school board and Florida College System institution board of trustees shall have the option to purchase from the current county contracts at the unit price stated therein if such purchase is to the economic advantage of the district school board or the Florida College System institution board of trustees; subject to confirmation of the items of purchase to the standards and specifications prescribed by the school district or Florida College System institution.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The State Board of Education may, by rule, provide for alternative procedures for school districts and Florida College System institutions for bidding or purchasing in cases in which the character of the item requested renders competitive bidding impractical.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Board of Governors may, by regulation, provide for alternative procedures for state universities for bidding or purchasing in cases in which the character of the item requested renders competitive bidding impractical.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 530, ch. 2002-387; s. 145, ch. 2007-217; s. 23, ch. 2010-78; s. 152, ch. 2011-5; s. 21, ch. 2011-177.</History>
+</Section>

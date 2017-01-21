@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0120.555" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Summary removal of published rules no longer in force and effect.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">When, as part of the continuous revision system authorized in s. 120.55(1)(a)1. or as otherwise provided by law, the Department of State is in doubt whether a rule published in the official version of the Florida Administrative Code is still in full force and effect, the procedure in this section shall be employed.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of State shall submit to the head of the agency with authority to repeal or amend the rule, if any, or if no such agency can be identified, to the Governor, a written request for a statement as to whether the rule is still in full force and effect. A copy of the request shall be promptly delivered to the committee and to the Attorney General. The Department of State shall publish a notice of the request together with a copy of the request in the Florida Administrative Weekly next available after delivery of the request to the head of the agency or the Governor.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">No later than 90 days after the date the notice required in subsection (1) is published, the agency or the Governor, notified pursuant to subsection (1), shall file a written response with the Department of State stating whether the rule is in full force and effect and under the jurisdiction of an agency with full authority to amend or repeal the rule. Failure to respond timely under this subsection constitutes an acknowledgment by the agency or the Governor that the rule is no longer in effect and is subject to summary repeal under this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of State shall publish a notice of the agency’s or Governor’s timely response or the acknowledgment determined under subsection (2) in the Florida Administrative Weekly next available after receipt of the response or the expiration of the response period, whichever occurs first.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the response states that the rule is no longer in effect, or if no response is filed timely with the Department of State, the notice required in subsection (3) shall also give notice of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Based on the agency’s or Governor’s written response or the acknowledgment determined under subsection (2), the rule will be repealed summarily pursuant to this section and removed from the Florida Administrative Code.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any objection to the summary repeal under this section must be filed as a petition challenging a proposed rule under s. 120.56 and must be filed no later than 21 days after the date the notice is published in the Florida Administrative Weekly.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For purposes only of challenging a summary repeal under this section, the agency with current authority to repeal the rule under s. 120.54 shall be named as the respondent in the petition and shall be the proper party in interest. In such circumstances, the Department of State shall not be named as a party in a petition filed under paragraph (b) and this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If no agency currently has authority to repeal the rule under s. 120.54, the Department of State shall be named as the respondent in a petition filed under paragraph (b) and this paragraph. The Attorney General shall represent the Department of State in all proceedings under this paragraph.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Upon the expiration of the 21-day period to file an objection to a notice of summary repeal published pursuant to subsection (4), if no timely objection is filed, or, if a timely objection is filed, on the date a decision finding the rule is no longer in effect becomes final, the Department of State shall update the Florida Administrative Code to remove the rule and shall provide historical notes identifying the manner in which the rule ceased to have effect, including the summary repeal pursuant to this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2012-31.</History>
+</Section>

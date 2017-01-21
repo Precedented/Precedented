@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0252.88" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Whenever EPCRA authorizes an employer to exclude trade secret information from its submittals, the employer shall furnish the information so excluded to the commission upon request. Such information shall be confidential and exempt from the provisions of s. 119.07(1). The commission shall not disclose such information except pursuant to a final determination under s. 322 of EPCRA by the Administrator of the Environmental Protection Agency that such information is not entitled to trade secret protection, or pursuant to an order of court.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Whenever EPCRA authorizes an owner or operator to elect to withhold from disclosure the location of specific hazardous chemicals, such information shall be confidential and exempt from the provisions of s. 119.07(1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">All information, including, but not limited to, site plans and specific location information on hazardous chemicals furnished to a fire department pursuant to EPCRA or this part, shall be confidential and exempt from the provisions of s. 119.07(1) while in the possession of the fire department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The division, the commission, and the committees shall furnish copies of public records submitted under EPCRA or this part, and may charge a fee of $1 per page per person per year for over 25 pages of materials copied.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 88-200; s. 86, ch. 90-360; s. 7, ch. 92-150; s. 1, ch. 95-121; s. 108, ch. 96-406; s. 111, ch. 2011-142.</History>
+</Section>

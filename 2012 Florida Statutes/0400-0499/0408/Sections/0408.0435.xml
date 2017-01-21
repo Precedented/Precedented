@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.0435" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Moratorium on nursing home certificates of need.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the establishment of need as provided for in this chapter, a certificate of need for additional community nursing home beds may not be approved by the agency until Medicaid managed care is implemented statewide pursuant to ss. 409.961-409.985 or October 1, 2016, whichever is earlier.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that the continued growth in the Medicaid budget for nursing home care has constrained the ability of the state to meet the needs of its elderly residents through the use of less restrictive and less institutional methods of long-term care. It is therefore the intent of the Legislature to limit the increase in Medicaid nursing home expenditures in order to provide funds to invest in long-term care that is community-based and provides supportive services in a manner that is both more cost-effective and more in keeping with the wishes of the elderly residents of this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This moratorium on certificates of need shall not apply to sheltered nursing home beds in a continuing care retirement community certified by the former Department of Insurance or by the Office of Insurance Regulation pursuant to chapter 651.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The moratorium on certificates of need does not apply and a certificate of need for additional community nursing home beds may be approved for a county that meets the following circumstances:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The county has no community nursing home beds; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The lack of community nursing home beds occurs because all nursing home beds in the county that were licensed on July 1, 2001, have subsequently closed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The certificate-of-need review for such circumstances shall be subject to the comparative review process consistent with the provisions of s. 408.039, and the number of beds may not exceed the number of beds lost by the county after July 1, 2001.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection shall be repealed upon the expiration of the moratorium established in subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The moratorium on certificates of need does not apply for the addition of nursing home beds licensed under chapter 400 to a nursing home located in a county having up to 50,000 residents, in a number not exceeding 10 total beds or 10 percent of the number of beds licensed in the facility being expanded, whichever is greater. In addition to any other documentation required by the agency, a request submitted under this subsection must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Certify that the facility has not had any class I or class II deficiencies within the 30 months preceding the request for addition.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Certify that the prior 12-month average occupancy rate for the nursing home beds at the facility meets or exceeds 94 percent and the facility had not had any class I or class II deficiencies since its initial licensure.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For a facility that has been licensed for less than 24 months, certify that the prior 6-month average occupancy rate for the nursing home beds at the facility meets or exceeds 94 percent and that the facility has not had any class I or class II deficiencies since its initial licensure.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection shall be repealed upon the expiration of the moratorium established in subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The moratorium on certificates of need does not apply for the addition of nursing home beds licensed under chapter 400 in a number not exceeding 10 total beds or 10 percent of the number of beds licensed in the facility being expanded, whichever is greater, if the facility meets the requirements of paragraph (a).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to any other documentation required by the agency, a request for the addition of beds under this subsection must certify that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The facility has not had any class I or class II deficiencies within the 30 months preceding the request for addition;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The prior 12-month average occupancy rate for the nursing home beds at the facility meets or exceeds 96 percent;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The occupancy rate for nursing home beds in the subdistrict is 94 percent or greater; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any beds authorized for the facility under this subsection before the date of the current request for additional beds have been licensed and operational for at least 12 months.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A nursing home may request additional beds under this subsection as an exemption from the provisions of s. 408.036(1). The timeframes and monitoring process specified in s. 408.040(2)(a)-(c) apply to any exemption issued under this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency shall count beds authorized under this subsection as approved beds in the published inventory of nursing home beds until the beds are licensed.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection shall be repealed upon the expiration of the moratorium established in subsection (1).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 52, ch. 2001-45; s. 1693, ch. 2003-261; s. 12, ch. 2004-298; s. 14, ch. 2004-383; s. 1, ch. 2006-161; s. 4, ch. 2011-135.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 651.1185.</Text>
+	</Note>
+</Section>

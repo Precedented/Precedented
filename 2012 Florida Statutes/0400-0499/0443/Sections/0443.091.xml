@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.091" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Benefit eligibility conditions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An unemployed individual is eligible to receive benefits for any week only if the Department of Economic Opportunity finds that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">She or he has made a claim for benefits for that week in accordance with the rules adopted by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">She or he has registered with the department for work and subsequently reports to the one-stop career center as directed by the regional workforce board for reemployment services. This requirement does not apply to persons who are:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Non-Florida residents;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">On a temporary layoff;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Union members who customarily obtain employment through a union hiring hall; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Claiming benefits under an approved short-time compensation plan as provided in s. 443.1116.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To make continued claims for benefits, she or he is reporting to the department in accordance with this paragraph and department rules, and participating in an initial skills review, as directed by the department. Department rules may not conflict with s. 443.111(1)(b), which requires that each claimant continue to report regardless of any pending appeal relating to her or his eligibility or disqualification for benefits.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For each week of unemployment claimed, each report must, at a minimum, include the name, address, and telephone number of each prospective employer contacted, or the date the claimant reported to a one-stop career center, pursuant to paragraph (d).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The administrator or operator of the initial skills review shall notify the department when the individual completes the initial skills review and report the results of the review to the regional workforce board or the one-stop career center as directed by the workforce board. The department shall prescribe a numeric score on the initial skills review that demonstrates a minimal proficiency in workforce skills. The department, workforce board, or one-stop career center shall use the initial skills review to develop a plan for referring individuals to training and employment opportunities. The failure of the individual to comply with this requirement will result in the individual being determined ineligible for benefits for the week in which the noncompliance occurred and for any subsequent week of unemployment until the requirement is satisfied. However, this requirement does not apply if the individual is able to affirmatively attest to being unable to complete such review due to illiteracy or a language impediment or is exempt from the work registration requirement as set forth in paragraph (b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any individual <Reference Number="1" />who falls below the minimal proficiency score prescribed by the department in subparagraph 2. on the initial skills review shall be offered training opportunities and encouraged to participate in such training at no cost to the individual in order to improve his or her workforce skills to the minimal proficiency level.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The department shall coordinate with Workforce Florida, Inc., the workforce boards, and the one-stop career centers to identify, develop, and utilize best practices for improving the skills of individuals who choose to participate in training opportunities and who have a minimal proficiency score below the score prescribed in subparagraph 2.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The department, in coordination with Workforce Florida, Inc., the workforce boards, and the one-stop career centers, shall evaluate the use, effectiveness, and costs associated with the training prescribed in subparagraph 3. and report its findings and recommendations for training and the use of best practices to the Governor, the President of the Senate, and the Speaker of the House of Representatives by January 1, 2013.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">She or he is able to work and is available for work. In order to assess eligibility for a claimed week of unemployment, the department shall develop criteria to determine a claimant’s ability to work and availability for work. A claimant must be actively seeking work in order to be considered available for work. This means engaging in systematic and sustained efforts to find work, including contacting at least five prospective employers for each week of unemployment claimed. The department may require the claimant to provide proof of such efforts to the one-stop career center as part of reemployment services. The department shall conduct random reviews of work search information provided by claimants. As an alternative to contacting at least five prospective employers for any week of unemployment claimed, a claimant may, for that same week, report in person to a one-stop career center to meet with a representative of the center and access reemployment services of the center. The center shall keep a record of the services or information provided to the claimant and shall provide the records to the department upon request by the department. However:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this paragraph or paragraphs (b) and (e), an otherwise eligible individual may not be denied benefits for any week because she or he is in training with the approval of the department, or by reason of s. 443.101(2) relating to failure to apply for, or refusal to accept, suitable work. Training may be approved by the department in accordance with criteria prescribed by rule. A claimant’s eligibility during approved training is contingent upon satisfying eligibility conditions prescribed by rule.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this chapter, an otherwise eligible individual who is in training approved under s. 236(a)(1) of the Trade Act of 1974, as amended, may not be determined ineligible or disqualified for benefits due to enrollment in such training or because of leaving work that is not suitable employment to enter such training. As used in this subparagraph, the term “suitable employment” means work of a substantially equal or higher skill level than the worker’s past adversely affected employment, as defined for purposes of the Trade Act of 1974, as amended, the wages for which are at least 80 percent of the worker’s average weekly wage as determined for purposes of the Trade Act of 1974, as amended.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section, an otherwise eligible individual may not be denied benefits for any week because she or he is before any state or federal court pursuant to a lawfully issued summons to appear for jury duty.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Union members who customarily obtain employment through a union hiring hall may satisfy the work search requirements of this paragraph by reporting daily to their union hall.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The work search requirements of this paragraph do not apply to persons who are unemployed as a result of a temporary layoff or who are claiming benefits under an approved short-time compensation plan as provided in s. 443.1116.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">In small counties as defined in s. 120.52(19), a claimant engaging in systematic and sustained efforts to find work must contact at least three prospective employers for each week of unemployment claimed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">She or he participates in reemployment services, such as job search assistance services, whenever the individual has been determined, by a profiling system established by the rules of the department, to be likely to exhaust regular benefits and to be in need of reemployment services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">She or he has been unemployed for a waiting period of 1 week. A week may be counted as a waiting week under this subsection only if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">It occurs within the benefit year that includes the week for which she or he claims payment of benefits;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Benefits have not been paid for that week; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The individual was eligible for benefits for that week as provided in this section and s. 443.101, except for the requirements of this subsection and s. 443.101(5).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">She or he has been paid wages for insured work equal to 1.5 times her or his high quarter wages during her or his base period, except that an unemployed individual is not eligible to receive benefits if the base period wages are less than $3,400.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">She or he submitted to the department a valid social security number assigned to her or him. The department may verify the social security number with the United States Social Security Administration and may deny benefits if the department is unable to verify the individual’s social security number, the social security number is invalid, or the social security number is not assigned to the individual.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An individual may not receive benefits in a benefit year unless, after the beginning of the next preceding benefit year during which she or he received benefits, she or he performed service, regardless of whether in employment as defined in s. 443.036, and earned remuneration for that service of at least 3 times her or his weekly benefit amount as determined for her or his current benefit year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Benefits based on service in employment described in s. 443.1216(2) and (3) are payable in the same amount, on the same terms, and subject to the same conditions as benefits payable based on other service subject to this chapter, except that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Benefits are not payable for services in an instructional, research, or principal administrative capacity for an educational institution or an institution of higher education for any week of unemployment commencing during the period between 2 successive academic years; during a similar period between two regular terms, whether or not successive; or during a period of paid sabbatical leave provided for in the individual’s contract, to any individual, if the individual performs those services in the first of those academic years or terms and there is a contract or a reasonable assurance that the individual will perform services in any such capacity for any educational institution or institution of higher education in the second of those academic years or terms.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Benefits may not be based on services in any other capacity for an educational institution or an institution of higher education to any individual for any week that commences during a period between 2 successive academic years or terms if the individual performs those services in the first of the academic years or terms and there is a reasonable assurance that the individual will perform those services in the second of the academic years or terms. However, if compensation is denied to any individual under this paragraph and the individual was not offered an opportunity to perform those services for the educational institution for the second of those academic years or terms, that individual is entitled to a retroactive payment of compensation for each week for which the individual filed a timely claim for compensation and for which compensation was denied solely by reason of this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Benefits are not payable based on services provided to an educational institution or institution of higher learning to any individual for any week that commences during an established and customary vacation period or holiday recess if the individual performs any services described in paragraph (a) or paragraph (b) in the period immediately before the vacation period or holiday recess and there is a reasonable assurance that the individual will perform any service in the period immediately after the vacation period or holiday recess.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Benefits are not payable for services in any capacity specified in paragraphs (a), (b), and (c) to any individual who performed those services in an educational institution while in the employ of a governmental agency or governmental entity that is established and operated exclusively for the purpose of providing those services to one or more educational institutions.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Benefits are not payable for services in any capacity specified in paragraphs (a), (b), (c), and (d) to any individual who provided those services to or on behalf of an educational institution, or an institution of higher education.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Effective July 1, 2013, paragraphs (a), (b), and (c) shall apply to services provided by an individual for an educational institution while in the employ of a private employer holding a contractual relationship with such educational institution, but only if the base period wages attributable to such services are identified as such in the quarterly reports filed pursuant to s. 443.131(1).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Fixed contract” means a written agreement of employment for a specified period of time.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Continuing contract” means a written agreement that is automatically renewed until terminated by one of the parties to the contract.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In the event of national emergency, in the course of which the Federal Emergency Unemployment Payment Plan is, at the request of the Governor, invoked for all or any part of the state, the emergency plan shall supersede the procedures prescribed by this chapter, and by rules adopted under this chapter, and the department shall act as the Florida agency for the United States Department of Labor in the administration of the plan.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Benefits are not payable to any individual based on service 90 percent or more of which consists of participating in sports or athletic events or training, or preparing to participate, for any week that commences during the period between two successive sport seasons, or similar periods, if the individual performed the service in the first of those seasons, or similar periods, and there is a reasonable assurance that the individual will perform those services in the later of those seasons, or similar periods.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 18402, 1937; s. 3, ch. 19637, 1939; CGL 1940 Supp. 4151(492); s. 5, ch. 20685, 1941; s. 3, ch. 21983, 1943; s. 3, ch. 26879, 1951; s. 3, ch. 29771, 1955; s. 2, ch. 57-247; s. 3, ch. 59-55; s. 2, ch. 61-132; ss. 17, 35, ch. 69-106; s. 5, ch. 71-225; s. 2, ch. 75-39; s. 3, ch. 77-262; s. 3, ch. 77-399; s. 1, ch. 77-420; s. 2, ch. 78-386; ss. 3, 8, 9, ch. 80-95; s. 2, ch. 82-91; s. 2, ch. 83-10; s. 1, ch. 84-40; s. 1, ch. 84-279; s. 1, ch. 85-114; s. 1, ch. 88-100; s. 3, ch. 88-289; s. 1, ch. 90-9; s. 1, ch. 90-89; s. 3, ch. 94-347; s. 3, ch. 96-378; s. 20, ch. 96-423; s. 1059, ch. 97-103; s. 5, ch. 98-149; s. 2, ch. 98-154; s. 105, ch. 2000-165; s. 23, ch. 2003-36; s. 3, ch. 2005-209; s. 7, ch. 2010-90; s. 35, ch. 2011-4; s. 356, ch. 2011-142; s. 4, ch. 2011-235; s. 6, ch. 2012-30; s. 69, ch. 2012-96.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “who” was substituted for the word “that” by the editors.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 443.05.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.915" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">County contributions to Medicaid.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Although the state is responsible for the full portion of the state share of the matching funds required for the Medicaid program, in order to acquire a certain portion of these funds, the state shall charge the counties for certain items of care and service as provided in this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each county shall participate in the following items of care and service:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For both health maintenance members and fee-for-service beneficiaries, payments for inpatient hospitalization in excess of 10 days, but not in excess of 45 days, with the exception of pregnant women and children whose income is in excess of the federal poverty level and who do not participate in the Medicaid medically needy program, and for adult lung transplant services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For both health maintenance members and fee-for-service beneficiaries, payments for nursing home or intermediate facilities care in excess of $170 per month, with the exception of skilled nursing care for children under age 21.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A county’s participation must be 35 percent of the total cost, or the applicable discounted cost paid by the state for Medicaid recipients enrolled in health maintenance organizations or prepaid health plans, of providing the items listed in subsection (1), except that the payments for items listed in paragraph (1)(b) may not exceed $55 per month per person.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each county shall set aside sufficient funds to pay for items of care and service provided to the county’s eligible recipients for which county contributions are required, regardless of where in the state the care or service is rendered.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Each county shall contribute its pro rata share of the total county participation based upon statements rendered by the agency. The agency shall render such statements monthly based on each county’s eligible recipients. For purposes of this section, each county’s eligible recipients shall be determined by the recipient’s address information contained in the federally approved Medicaid eligibility system within the Department of Children and Family Services. A county may use the process developed under subsection (10) to request a refund if it determines that the statement rendered by the agency contains errors.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In any county in which a special taxing district or authority is located which will benefit from the medical assistance programs covered by this section, the board of county commissioners may divide the county’s financial responsibility for this purpose proportionately, and each such district or authority must furnish its share to the board of county commissioners in time for the board to comply with subsection (3). Any appeal of the proration made by the board of county commissioners must be made to the Department of Financial Services, which shall then set the proportionate share of each party.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Counties are exempt from contributing toward the cost of new exemptions on inpatient ceilings for statutory teaching hospitals, specialty hospitals, and community hospital education program hospitals that came into effect July 1, 2000, and for special Medicaid payments that came into effect on or after July 1, 2000.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By August 1, 2012, the agency shall certify to each county the amount of such county’s billings from November 1, 2001, through April 30, 2012, which remain unpaid. A county may contest the amount certified by filing a petition under the applicable provisions of chapter 120 on or before September 1, 2012. This procedure is the exclusive method to challenge the amount certified. In order to successfully challenge the amount certified, a county must show, by a preponderance of the evidence, that a recipient was not an eligible recipient of that county or that the amount certified was otherwise in error.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By September 15, 2012, the agency shall certify to the Department of Revenue:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For each county that files a petition on or before September 1, 2012, the amount certified under paragraph (a); and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For each county that does not file a petition on or before September 1, 2012, an amount equal to 85 percent of the amount certified under paragraph (a).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The filing of a petition under paragraph (a) shall not stay or stop the Department of Revenue from reducing distributions in accordance with paragraph (b) and subsection (8). If a county that files a petition under paragraph (a) is able to demonstrate that the amount certified should be reduced, the agency shall notify the Department of Revenue of the amount of the reduction. The Department of Revenue shall adjust all future monthly distribution reductions under subsection (8) in a manner that results in the remaining total distribution reduction being applied in equal monthly amounts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning with the October 2012 distribution, the Department of Revenue shall reduce each county’s distributions pursuant to s. 218.26 by one thirty-sixth of the amount certified by the agency under subsection (7) for that county, minus any amount required under paragraph (b). Beginning with the October 2013 distribution, the Department of Revenue shall reduce each county’s distributions pursuant to s. 218.26 by one forty-eighth of two-thirds of the amount certified by the agency under subsection (7) for that county, minus any amount required under paragraph (b). However, the amount of the reduction may not exceed 50 percent of each county’s distribution. If, after 60 months, the reductions for any county do not equal the total amount initially certified by the agency, the Department of Revenue shall continue to reduce such county’s distribution by up to 50 percent until the total amount certified is reached. The amounts by which the distributions are reduced shall be transferred to the General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As an assurance to holders of bonds issued before the effective date of this act to which distributions made pursuant to s. 218.26 are pledged, or bonds issued to refund such bonds which mature no later than the bonds they refunded and which result in a reduction of debt service payable in each fiscal year, the amount available for distribution to a county shall remain as provided by law and continue to be subject to any lien or claim on behalf of the bondholders. The Department of Revenue must ensure, based on information provided by an affected county, that any reduction in amounts distributed pursuant to paragraph (a) does not reduce the amount of distribution to a county below the amount necessary for the timely payment of principal and interest when due on the bonds and the amount necessary to comply with any covenant under the bond resolution or other documents relating to the issuance of the bonds. If a reduction to a county’s monthly distribution must be decreased in order to comply with this paragraph, the Department of Revenue must notify the agency of the amount of the decrease and the agency must send a bill for payment of such amount to the affected county.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning May 1, 2012, and each month thereafter, the agency shall certify to the Department of Revenue by the 7th day of each month the amount of the monthly statement rendered to each county pursuant to subsection (4). Beginning with the May 2012 distribution, the Department of Revenue shall reduce each county’s monthly distribution pursuant to s. 218.61 by the amount certified by the agency minus any amount required under paragraph (b). The amounts by which the distributions are reduced shall be transferred to the General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As an assurance to holders of bonds issued before the effective date of this act to which distributions made pursuant to s. 218.61 are pledged, or bonds issued to refund such bonds which mature no later than the bonds they refunded and which result in a reduction of debt service payable in each fiscal year, the amount available for distribution to a county shall remain as provided by law and continue to be subject to any lien or claim on behalf of the bondholders. The Department of Revenue must ensure, based on information provided by an affected county, that any reduction in amounts distributed pursuant to paragraph (a) does not reduce the amount of distribution to a county below the amount necessary for the timely payment of principal and interest when due on the bonds and the amount necessary to comply with any covenant under the bond resolution or other documents relating to the issuance of the bonds. If a reduction to a county’s monthly distribution must be decreased in order to comply with this paragraph, the Department of Revenue must notify the agency of the amount of the decrease and the agency must send a bill for payment of such amount to the affected county.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The agency, in consultation with the Department of Revenue and the Florida Association of Counties, shall develop a process for refund requests which:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Allows counties to submit to the agency written requests for refunds of any amounts by which the distributions were reduced as provided in subsection (9) and which set forth the reasons for the refund requests.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Requires the agency to make a determination as to whether a refund request is appropriate and should be approved, in which case the agency shall certify the amount of the refund to the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Requires the department to issue the refund for the certified amount to the county from the General Revenue Fund. The Department of Revenue may issue the refund in the form of a credit against reductions to be applied to subsequent monthly distributions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Beginning in the 2013-2014 fiscal year and each year thereafter through the 2020-2021 fiscal year, the Chief Financial Officer shall transfer from the General Revenue Fund to the Lawton Chiles Endowment Fund an amount equal to the amounts transferred to the General Revenue Fund in the previous fiscal year pursuant to subsections (8) and (9), reduced by the amount of refunds paid pursuant to subsection (10), which are in excess of the official estimate for medical hospital fees for such previous fiscal year adopted by the Revenue Estimating Conference on January 12, 2012, as reflected in the conference’s workpapers. By July 20 of each year, the Office of Economic and Demographic Research shall certify the amount to be transferred to the Chief Financial Officer. Such transfers must be made before July 31 of each year until the total transfers for all years equal $350 million. In the event that such transfers do not total $350 million by July 1, 2021, the Legislature shall provide for the transfer of amounts necessary to total $350 million. The Office of Economic and Demographic Research shall publish the official estimates reflected in the conference’s workpapers on its website.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The agency may adopt rules to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 46, ch. 91-282; s. 8, ch. 96-417; s. 190, ch. 99-8; s. 26, ch. 2000-171; s. 11, ch. 2001-104; s. 3, ch. 2002-35; s. 452, ch. 2003-261; s. 3, ch. 2007-82; s. 12, ch. 2012-33.</History>
+</Section>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.3141" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Perfection by control.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A security interest in investment property, deposit accounts, letter-of-credit rights, electronic chattel paper, or electronic documents may be perfected by control of the collateral under s. 677.106, s. 679.1041, s. 679.1051, s. 679.1061, or s. 679.1071.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A security interest in deposit accounts, electronic chattel paper, letter-of-credit rights, or electronic documents is perfected by control under s. 677.106, s. 679.1041, s. 679.1051, or s. 679.1071 when the secured party obtains control and remains perfected by control only while the secured party retains control.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A security interest in investment property is perfected by control under s. 679.1061 from the time the secured party obtains control and remains perfected by control until:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The secured party does not have control; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">One of the following occurs:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the collateral is a certificated security, the debtor has or acquires possession of the security certificate;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the collateral is an uncertificated security, the issuer has registered or registers the debtor as the registered owner; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the collateral is a security entitlement, the debtor is or becomes the entitlement holder.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2001-198; s. 66, ch. 2010-131.</History>
+</Section>

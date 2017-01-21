@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0445.003" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Implementation of the federal Workforce Investment Act of 1998.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">WORKFORCE INVESTMENT ACT PRINCIPLES.<EmDash />The state’s approach to implementing the federal Workforce Investment Act of 1998, Pub. L. No. 105-220, should have six elements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Streamlining Services.</Font><EmDash />Florida’s employment and training programs must be coordinated and consolidated at locally managed one-stop delivery system centers.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Empowering Individuals.</Font><EmDash />Eligible participants will make informed decisions, choosing the qualified training program that best meets their needs.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Universal Access.</Font><EmDash />Through a one-stop delivery system, every Floridian will have access to employment services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Increased Accountability.</Font><EmDash />The state, localities, and training providers will be held accountable for their performance.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Local Board and Private Sector Leadership.</Font><EmDash />Local boards will focus on strategic planning, policy development, and oversight of the local system, choosing local managers to direct the operational details of their one-stop delivery system centers.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Local Flexibility and Integration.</Font><EmDash />Localities will have exceptional flexibility to build on existing reforms. Unified planning will free local groups from conflicting micromanagement, while waivers and WorkFlex will allow local innovations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">FIVE-YEAR PLAN.<EmDash />Workforce Florida, Inc., shall prepare and submit a 5-year plan, which includes secondary career education, to fulfill the early implementation requirements of Pub. L. No. 105-220 and applicable state statutes. Mandatory federal partners and optional federal partners shall be fully involved in designing the plan’s one-stop delivery system strategy. The plan shall detail a process to clearly define each program’s statewide duties and role relating to the system. Any optional federal partner may immediately choose to fully integrate its program’s plan with this plan, which shall, notwithstanding any other state provisions, fulfill all their state planning and reporting requirements as they relate to the one-stop delivery system. The plan shall detail a process that would fully integrate all federally mandated and optional partners by the second year of the plan. All optional federal program partners in the planning process shall be mandatory participants in the second year of the plan.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FUNDING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Title I, Workforce Investment Act of 1998 funds; Wagner-Peyser funds; and NAFTA/Trade Act funds will be expended based on the 5-year plan of Workforce Florida, Inc. The plan shall outline and direct the method used to administer and coordinate various funds and programs that are operated by various agencies. The following provisions shall also apply to these funds:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">At least 50 percent of the Title I funds for Adults and Dislocated Workers that are passed through to regional workforce boards shall be allocated to and expended on Individual Training Accounts unless a regional workforce board obtains a waiver from Workforce Florida, Inc. Tuition, books, and fees of training providers and other training services prescribed and authorized by the Workforce Investment Act of 1998 qualify as Individual Training Account expenditures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Fifteen percent of Title I funding shall be retained at the state level and shall be dedicated to state administration and used to design, develop, induce, and fund innovative Individual Training Account pilots, demonstrations, and programs. Of such funds retained at the state level, $2 million shall be reserved for the Incumbent Worker Training Program, created under subparagraph 3. Eligible state administration costs include the costs of: funding for the board and staff of Workforce Florida, Inc.; operating fiscal, compliance, and management accountability systems through Workforce Florida, Inc.; conducting evaluation and research on workforce development activities; and providing technical and capacity building assistance to regions at the direction of Workforce Florida, Inc. Notwithstanding s. 445.004, such administrative costs shall not exceed 25 percent of these funds. An amount not to exceed 75 percent of these funds shall be allocated to Individual Training Accounts and other workforce development strategies for other training designed and tailored by Workforce Florida, Inc., including, but not limited to, programs for incumbent workers, displaced homemakers, nontraditional employment, and enterprise zones. Workforce Florida, Inc., shall design, adopt, and fund Individual Training Accounts for distressed urban and rural communities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The Incumbent Worker Training Program is created for the purpose of providing grant funding for continuing education and training of incumbent employees at existing Florida businesses. The program will provide reimbursement grants to businesses that pay for preapproved, direct, training-related costs.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The Incumbent Worker Training Program will be administered by Workforce Florida, Inc. Workforce Florida, Inc., at its discretion, may contract with a private business organization to serve as grant administrator.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">To be eligible for the program’s grant funding, a business must have been in operation in Florida for a minimum of 1 year prior to the application for grant funding; have at least one full-time employee; demonstrate financial viability; and be current on all state tax obligations. Priority for funding shall be given to businesses with 25 employees or fewer, businesses in rural areas, businesses in distressed inner-city areas, businesses in a qualified targeted industry, businesses whose grant proposals represent a significant upgrade in employee skills, or businesses whose grant proposals represent a significant layoff avoidance strategy.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">All costs reimbursed by the program must be preapproved by Workforce Florida, Inc., or the grant administrator. The program will not reimburse businesses for trainee wages, the purchase of capital equipment, or the purchase of any item or service that may possibly be used outside the training project. A business approved for a grant may be reimbursed for preapproved, direct, training-related costs including tuition; fees; books and training materials; and overhead or indirect costs not to exceed 5 percent of the grant amount.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A business that is selected to receive grant funding must provide a matching contribution to the training project, including, but not limited to, wages paid to trainees or the purchase of capital equipment used in the training project; must sign an agreement with Workforce Florida, Inc., or the grant administrator to complete the training project as proposed in the application; must keep accurate records of the project’s implementation process; and must submit monthly or quarterly reimbursement requests with required documentation.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">All Incumbent Worker Training Program grant projects shall be performance-based with specific measurable performance outcomes, including completion of the training project and job retention. Workforce Florida, Inc., or the grant administrator shall withhold the final payment to the grantee until a final grant report is submitted and all performance criteria specified in the grant contract have been achieved.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., may establish guidelines necessary to implement the Incumbent Worker Training Program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">No more than 10 percent of the Incumbent Worker Training Program’s total appropriation may be used for overhead or indirect purposes.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">At least 50 percent of Rapid Response funding shall be dedicated to Intensive Services Accounts and Individual Training Accounts for dislocated workers and incumbent workers who are at risk of dislocation. Workforce Florida, Inc., shall also maintain an Emergency Preparedness Fund from Rapid Response funds which will immediately issue Intensive Service Accounts and Individual Training Accounts as well as other federally authorized assistance to eligible victims of natural or other disasters. At the direction of the Governor, for events that qualify under federal law, these Rapid Response funds shall be released to regional workforce boards for immediate use. Funding shall also be dedicated to maintain a unit at the state level to respond to Rapid Response emergencies around the state, to work with state emergency management officials, and to work with regional workforce boards. All Rapid Response funds must be expended based on a plan developed by Workforce Florida, Inc., and approved by the Governor.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The administrative entity for Title I, Workforce Investment Act of 1998 funds, and Rapid Response activities, shall be the Department of Economic Opportunity, which shall provide direction to regional workforce boards regarding Title I programs and Rapid Response activities pursuant to the direction of Workforce Florida, Inc.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">FEDERAL REQUIREMENTS, EXCEPTIONS AND REQUIRED MODIFICATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., may provide indemnification from audit liabilities to regional workforce boards that act in full compliance with state law and the board’s policies.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., may negotiate and settle all outstanding issues with the United States Department of Labor relating to decisions made by Workforce Florida, Inc., any predecessor workforce organization, and the Legislature with regard to the Job Training Partnership Act, making settlements and closing out all JTPA program year grants.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Workforce Florida, Inc., may make modifications to the state’s plan, policies, and procedures to comply with federally mandated requirements that in its judgment must be complied with to maintain funding provided pursuant to Pub. L. No. 105-220. The board shall notify in writing the Governor, the President of the Senate, and the Speaker of the House of Representatives within 30 days after any such changes or modifications.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">LONG-TERM CONSOLIDATION OF WORKFORCE DEVELOPMENT.<EmDash />Workforce Florida, Inc., may recommend workforce-related divisions, bureaus, units, programs, duties, commissions, boards, and councils that can be eliminated, consolidated, or privatized.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 57, ch. 99-251; s. 46, ch. 2000-158; s. 3, ch. 2000-165; s. 69, ch. 2001-62; s. 41, ch. 2004-357; s. 78, ch. 2005-2; s. 2, ch. 2005-255; s. 381, ch. 2011-142; s. 1, ch. 2012-29.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 288.9956.</Text>
+	</Note>
+</Section>

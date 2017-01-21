@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVIII">
+	<ChapterNumber>1008</ChapterNumber>
+	<ChapterName xml:space="preserve">Assessment and accountability</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Assessment, K-20</PartTitle>
+		<Section Number="1008.22" />
+		<Section Number="1008.23" />
+		<Section Number="1008.24" />
+		<Section Number="1008.25" />
+		<Section Number="1008.30" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Accountability, K-20</PartTitle>
+		<Section Number="1008.31" />
+		<Section Number="1008.32" />
+		<Section Number="1008.33" />
+		<Section Number="1008.331" />
+		<Section Number="1008.332" />
+		<Section Number="1008.34" />
+		<Section Number="1008.341" />
+		<Section Number="1008.345" />
+		<Section Number="1008.35" />
+		<Section Number="1008.36" />
+		<Section Number="1008.37" />
+		<Section Number="1008.38" />
+		<Section Number="1008.385" />
+		<Section Number="1008.386" />
+		<Section Number="1008.39" />
+		<Section Number="1008.40" />
+		<Section Number="1008.405" />
+		<Section Number="1008.41" />
+		<Section Number="1008.42" />
+		<Section Number="1008.43" />
+		<Section Number="1008.45" />
+		<Section Number="1008.46" />
+	</Part>
+</Chapter>

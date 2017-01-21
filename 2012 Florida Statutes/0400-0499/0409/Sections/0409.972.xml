@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.972" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mandatory and voluntary enrollment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Persons eligible for the program known as “medically needy” pursuant to s. 409.904(2) shall enroll in managed care plans. Medically needy recipients shall meet the share of the cost by paying the plan premium, up to the share of the cost amount, contingent upon federal approval.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following Medicaid-eligible persons are exempt from mandatory managed care enrollment required by s. 409.965, and may voluntarily choose to participate in the managed medical assistance program:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Medicaid recipients who have other creditable health care coverage, excluding Medicare.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Medicaid recipients residing in residential commitment facilities operated through the Department of Juvenile Justice or mental health treatment facilities as defined by s. 394.455(32).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Persons eligible for refugee assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Medicaid recipients who are residents of a developmental disability center, including Sunland Center in Marianna and Tacachale in Gainesville.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Medicaid recipients enrolled in the home and community based services waiver pursuant to chapter 393, and Medicaid recipients waiting for waiver services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Persons eligible for Medicaid but exempt from mandatory participation who do not choose to enroll in managed care shall be served in the Medicaid fee-for-service program as provided in part III of this chapter.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The agency shall seek federal approval to require Medicaid recipients enrolled in managed care plans, as a condition of Medicaid eligibility, to pay the Medicaid program a share of the premium of $10 per month.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2011-134; s. 51, ch. 2012-5.</History>
+</Section>

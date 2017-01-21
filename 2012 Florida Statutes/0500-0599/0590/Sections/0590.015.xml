@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0590.015" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Broadcast burning” means the burning of agricultural or natural vegetation by allowing fire to move across a predetermined area of land. The term does not include the burning of vegetative debris that is piled or stacked.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Fire management services” means presuppression fireline plowing, prescribed burning assistance, contract prescribed burning, prescribed and wildfire management training, and other activities associated with prevention, detection, and suppression of wildfires.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Fuel reduction” means the application of techniques that reduce vegetative fuels, and may include prescribed burning, manual and mechanical clearing, and the use of herbicides.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Open burning” means any outdoor fire or open combustion of material that produces visible emissions.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Wildfire” means any vegetative fire that threatens to destroy life, property, or natural resources.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Wild land” means any public or private managed or unmanaged forest, urban/interface, pasture or range land, recreation lands, or any other land at risk of wildfire.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 99-292; s. 31, ch. 2000-308; ss. 54, 71, ch. 2011-206; s. 57, ch. 2012-7.</History>
+</Section>

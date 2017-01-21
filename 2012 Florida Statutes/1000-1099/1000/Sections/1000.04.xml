@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1000.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Components for the delivery of public education within the Florida K-20 education system.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Florida’s K-20 education system provides for the delivery of public education through publicly supported and controlled K-12 schools, Florida College System institutions, state universities and other postsecondary educational institutions, other educational institutions, and other educational services as provided or authorized by the Constitution and laws of the state.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PUBLIC K-12 SCHOOLS.<EmDash />The public K-12 schools include charter schools and consist of kindergarten classes; elementary, middle, and high school grades and special classes; virtual instruction programs; workforce education; career centers; adult, part-time, and evening schools, courses, or classes, as authorized by law to be operated under the control of district school boards; and lab schools operated under the control of state universities.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PUBLIC POSTSECONDARY EDUCATIONAL INSTITUTIONS.<EmDash />Public postsecondary educational institutions include workforce education; Florida College System institutions; state universities; and all other state-supported postsecondary educational institutions that are authorized and established by law.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FLORIDA SCHOOL FOR THE DEAF AND THE BLIND.<EmDash />The Florida School for the Deaf and the Blind is a component of the delivery of public education within Florida’s K-20 education system.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">THE FLORIDA VIRTUAL SCHOOL.<EmDash />The Florida Virtual School is a component of the delivery of public education within Florida’s K-20 education system.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2002-387; s. 23, ch. 2004-41; s. 69, ch. 2004-357; s. 1, ch. 2008-147; s. 3, ch. 2011-5; s. 11, ch. 2011-137.</History>
+</Section>

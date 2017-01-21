@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.095" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Determining eligibility for temporary cash assistance.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY.<EmDash />An applicant must meet eligibility requirements of this section before receiving services or temporary cash assistance under this chapter, except that an applicant shall be required to register for work and engage in work activities in accordance with s. 445.024, as designated by the regional workforce board, and may receive support services or child care assistance in conjunction with such requirement. The department shall make a determination of eligibility based on the criteria listed in this chapter. The department shall monitor continued eligibility for temporary cash assistance through periodic reviews consistent with the food assistance eligibility process. Benefits shall not be denied to an individual solely based on a felony drug conviction, unless the conviction is for trafficking pursuant to s. 893.135. To be eligible under this section, an individual convicted of a drug felony must be satisfactorily meeting the requirements of the temporary cash assistance program, including all substance abuse treatment requirements. Within the limits specified in this chapter, the state opts out of the provision of Pub. L. No. 104-193, s. 115, that eliminates eligibility for temporary cash assistance and food assistance for any individual convicted of a controlled substance felony.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ADDITIONAL ELIGIBILITY REQUIREMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To be eligible for services or temporary cash assistance and Medicaid:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An applicant must be a United States citizen, or a qualified noncitizen, as defined in this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An applicant must be a legal resident of the state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Each member of a family must provide to the department the member’s social security number or shall provide proof of application for a social security number. An individual who fails to provide a social security number, or proof of application for a social security number, is not eligible to participate in the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A minor child must reside with a parent or parents, with a relative caretaker who is within the specified degree of blood relationship as defined by 45 C.F.R. part 233, or, if the minor is a teen parent with a child, in a setting approved by the department as provided in subsection (14).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Each family must have a minor child and meet the income and resource requirements of the program. All minor children who live in the family, as well as the parents of the minor children, shall be included in the eligibility determination unless specifically excluded.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The following members of a family are eligible to participate in the program if all eligibility requirements are met:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A minor child who resides with a parent or other adult caretaker relative.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The parent of a minor child with whom the child resides.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The caretaker relative with whom the minor child resides who chooses to have her or his needs and income included in the family.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Unwed minor children and their children if the unwed minor child lives at home or in an adult-supervised setting and if temporary cash assistance is paid to an alternative payee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A pregnant woman.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY FOR NONCITIZENS.<EmDash />A “qualified noncitizen” is an individual who is admitted to the United States as a refugee under s. 207 of the Immigration and Nationality Act or who is granted asylum under s. 208 of the Immigration and Nationality Act; a noncitizen whose deportation is withheld under s. 243(h) or s. 241(b)(3) of the Immigration and Nationality Act; a noncitizen who is paroled into the United States under s. 212(d)(5) of the Immigration and Nationality Act, for at least 1 year; a noncitizen who is granted conditional entry pursuant to s. 203(a)(7) of the Immigration and Nationality Act as in effect prior to April 1, 1980; a Cuban or Haitian entrant; or a noncitizen who has been admitted as a permanent resident. In addition, a “qualified noncitizen” includes an individual who, or an individual whose child or parent, has been battered or subject to extreme cruelty in the United States by a spouse, a parent, or other household member under certain circumstances, and has applied for or received protection under the federal Violence Against Women Act of 1994, Pub. L. No. 103-322, if the need for benefits is related to the abuse and the batterer no longer lives in the household. A “nonqualified noncitizen” is a nonimmigrant noncitizen, including a tourist, business visitor, foreign student, exchange visitor, temporary worker, or diplomat. In addition, a “nonqualified noncitizen” includes an individual paroled into the United States for less than 1 year. A qualified noncitizen who is otherwise eligible may receive temporary cash assistance to the extent permitted by federal law. The income or resources of a sponsor and the sponsor’s spouse shall be included in determining eligibility to the maximum extent permitted by federal law.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A child who is a qualified noncitizen or who was born in the United States to an illegal or ineligible noncitizen is eligible for temporary cash assistance under this chapter if the family meets all eligibility requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the parent may legally work in this country, the parent must participate in the work activity requirements provided in s. 445.024, to the extent permitted under federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall participate in the Systematic Alien Verification for Entitlements Program (SAVE) established by the United States Bureau of Citizenship and Immigration Services in order to verify the validity of documents provided by noncitizens and to verify a noncitizen’s eligibility.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The income of an illegal noncitizen or ineligible noncitizen who is a mandatory member of a family, less a pro rata share for the illegal noncitizen or ineligible noncitizen, counts in determining a family’s eligibility to participate in the program.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The entire assets of an ineligible noncitizen or a disqualified individual who is a mandatory member of a family shall be included in determining the family’s eligibility.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CARETAKER RELATIVES.<EmDash />A family that contains a caretaker relative of a minor child has the option to include or exclude the caretaker relative in determining eligibility. If the caretaker relative chooses to be included in the family, the caretaker relative must meet all eligibility requirements, including resource and income requirements, and must comply with work activity requirements as provided in s. 445.024. If the caretaker relative chooses to be excluded from the family, eligibility shall be determined for the minor child based on the child’s income and resources. The level of temporary cash assistance for the minor child shall be based on the shelter obligation paid to the caretaker relative.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">PREGNANT WOMAN WITH NO OTHER CHILD.<EmDash />Temporary cash assistance for a pregnant woman is not available until the last month of pregnancy. However, if the department determines that a woman is restricted from work activities by orders of a physician, temporary cash assistance shall be available during the last trimester of pregnancy and the woman may be required to attend parenting classes or other activities to better prepare for the responsibilities of raising a child.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">CHILD SUPPORT ENFORCEMENT.<EmDash />As a condition of eligibility for public assistance, the family must cooperate with the state agency responsible for administering the child support enforcement program in establishing the paternity of the child, if the child is born out of wedlock, and in obtaining support for the child or for the parent or caretaker relative and the child. Cooperation is defined as:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assisting in identifying and locating a parent who does not live in the same home as the child and providing complete and accurate information on that parent;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Assisting in establishing paternity; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Assisting in establishing, modifying, or enforcing a support order with respect to a child of a family member.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection does not apply if the state agency that administers the child support enforcement program determines that the parent or caretaker relative has good cause for failing to cooperate.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">ASSIGNMENT OF RIGHTS TO SUPPORT.<EmDash />As a condition of receiving temporary cash assistance, the family must assign to the Department of Revenue any rights a member of a family may have to support from any other person. This applies to any family member; however, the assigned amounts must not exceed the total amount of temporary cash assistance provided to the family. The assignment of support does not apply if the family leaves the program.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">APPLICATIONS.<EmDash />The date of application is the date the department or authorized entity receives a signed and dated request to participate in the temporary cash assistance program. The request shall be denied 30 days after the initial application if the applicant fails to respond to scheduled appointments, including appointments with the state agency responsible for administering the child support enforcement program, and does not contact the department or authorized entity regarding the application.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The beginning date of eligibility for temporary cash assistance is the date on which the application is approved or 30 days after the date of application, whichever is earlier.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The add date for a newborn child is the date of the child’s birth.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The add date for all other individuals is the date on which the client contacts the department to request that the individual be included in the grant for temporary cash assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Medicaid coverage for a recipient of temporary cash assistance begins on the first day of the first month of eligibility for temporary cash assistance, and such coverage shall include any eligibility required by federal law which is prior to the month of application.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">OPPORTUNITIES AND OBLIGATIONS.<EmDash />An applicant for temporary cash assistance has the following opportunities and obligations:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To participate in establishing eligibility by providing facts with respect to circumstances that affect eligibility and by obtaining, or authorizing the department to obtain, documents or information from others in order to establish eligibility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To have eligibility determined without discrimination based on race, color, sex, age, marital status, handicap, religion, national origin, or political beliefs.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To be advised of any reduction or termination of temporary cash assistance or food assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To provide correct and complete information about the family’s circumstances that relate to eligibility, at the time of application and at subsequent intervals.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To keep the department informed of any changes that could affect eligibility.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To use temporary cash assistance and food assistance for the purpose for which the assistance is intended.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">To receive information regarding services available from certified domestic violence centers or organizations that provide counseling and supportive services to individuals who are past or present victims of domestic violence or who are at risk of domestic violence and, upon request, to be referred to such organizations in a manner which protects the individual’s confidentiality.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">DETERMINATION OF LEVEL OF TEMPORARY CASH ASSISTANCE.<EmDash />Temporary cash assistance shall be based on a standard determined by the Legislature, subject to availability of funds. There shall be three assistance levels for a family that contains a specified number of eligible members, based on the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A family that does not have a shelter obligation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A family that has a shelter obligation greater than zero but less than or equal to $50.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A family that has a shelter obligation greater than $50 or that is homeless.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The following chart depicts the levels of temporary cash assistance for implementation purposes:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">THREE-TIER SHELTER PAYMENT STANDARD</Text>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="16" />
+						<Column Width="24" />
+						<Column Width="30" />
+						<Column Width="30" />
+					</ColumnDefinitions>
+					<Header>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><Font xml:space="preserve" Size="8.0">Family<NewLine />Size</Font></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><Font xml:space="preserve" Size="8.0">Zero Shelter<NewLine />Obligation</Font></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><Font xml:space="preserve" Size="8.0">Greater than Zero<NewLine />Less than or<NewLine />Equal to $50</Font></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><Font xml:space="preserve" Size="8.0">Greater than $50<NewLine />Shelter<NewLine />Obligation</Font></Text>
+							</Cell>
+						</Row>
+						<Row><Cell ColSpan="1" VerticalAlign="Top" HorizontalAlign="Left"/>
+						</Row>
+					</Header>
+					<Body>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">1</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$95</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$153</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$180</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">2</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$158</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$205</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$241</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">3</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$198</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$258</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$303</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">4</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$254</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$309</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$364</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">5</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$289</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$362</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$426</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">6</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$346</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$414</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$487</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">7</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$392</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$467</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$549</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">8</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$438</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$519</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$610</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">9</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$485</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$570</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$671</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">10</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$534</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$623</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$733</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">11</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$582</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$676</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$795</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">12</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$630</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$728</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$857</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">13</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$678</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$781</Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve">$919</Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">DISREGARDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As an incentive to employment, the first $200 plus one-half of the remainder of earned income shall be disregarded. In order to be eligible for earned income to be disregarded, the individual must be:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A current participant in the program; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Eligible for participation in the program without the earnings disregard.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A child’s earned income shall be disregarded if the child is a family member, attends high school or the equivalent, and is 19 years of age or younger.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">CALCULATION OF LEVELS OF TEMPORARY CASH ASSISTANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Temporary cash assistance shall be calculated based on average monthly gross family income, earned and unearned, less any applicable disregards. The resulting monthly net income amount shall be subtracted from the applicable payment standard to determine the monthly amount of temporary cash assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A deduction may not be allowed for child care payments.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules governing the administration of this subsection and may establish criteria pertaining to types of budgeting, conversion factors, verification of income, treatment of self-employment income, treatment of child-support income, and treatment of other sources of income.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">METHODS OF PAYMENT OF TEMPORARY CASH ASSISTANCE.<EmDash />Temporary cash assistance may be paid as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Direct payment through state warrant, electronic transfer of temporary cash assistance, or voucher.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Payment to an alternative payee.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Payment for subsidized employment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Pay-after-performance arrangements with public or private not-for-profit agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">PROHIBITIONS AND RESTRICTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A family without a minor child living in the home is not eligible to receive temporary cash assistance or services under this chapter. However, a pregnant woman is eligible for temporary cash assistance in the ninth month of pregnancy if all eligibility requirements are otherwise satisfied.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Temporary cash assistance, without shelter expense, may be available for a teen parent who is a minor child and for the child. Temporary cash assistance may not be paid directly to the teen parent but must be paid, on behalf of the teen parent and child, to an alternative payee who is designated by the department. The alternative payee may not use the temporary cash assistance for any purpose other than paying for food, clothing, shelter, and medical care for the teen parent and child and for other necessities required to enable the teen parent to attend school or a training program. In order for the child of the teen parent and the teen parent to be eligible for temporary cash assistance, the teen parent must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Attend school or an approved alternative training program, unless the child is less than 12 weeks of age or the teen parent has completed high school; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Reside with a parent, legal guardian, or other adult caretaker relative. The income and resources of the parent shall be included in calculating the temporary cash assistance available to the teen parent since the parent is responsible for providing support and care for the child living in the home.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Attend parenting and family classes that provide a curriculum specified by the department or the Department of Health, as available.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The teen parent is not required to live with a parent, legal guardian, or other adult caretaker relative if the department determines that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The teen parent has suffered or might suffer harm in the home of the parent, legal guardian, or adult caretaker relative.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The requirement is not in the best interest of the teen parent or the child. If the department determines that it is not in the best interest of the teen parent or child to reside with a parent, legal guardian, or other adult caretaker relative, the department shall provide or assist the teen parent in finding a suitable home, a second-chance home, a maternity home, or other appropriate adult-supervised supportive living arrangement. Such living arrangement may include a shelter obligation in accordance with subsection (10).</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The department may not delay providing temporary cash assistance to the teen parent through the alternative payee designated by the department pending a determination as to where the teen parent should live and sufficient time for the move itself. A teen parent determined to need placement that is unavailable shall continue to be eligible for temporary cash assistance so long as the teen parent cooperates with the department and the Department of Health. The teen parent shall be provided with counseling to make the transition from independence to supervised living and with a choice of living arrangements.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any law to the contrary, if a parent or caretaker relative without good cause does not cooperate with the state agency responsible for administering the child support enforcement program in establishing, modifying, or enforcing a support order with respect to a child of a teen parent or other family member, or a child of a family member who is in the care of an adult relative, temporary cash assistance to the entire family shall be denied until the state agency indicates that cooperation by the parent or caretaker relative has been satisfactory. To the extent permissible under federal law, a parent or caretaker relative shall not be penalized for failure to cooperate with paternity establishment or with the establishment, modification, or enforcement of a support order when such cooperation could subject an individual to a risk of domestic violence. Such risk shall constitute good cause to the extent permitted by Title IV-D of the Social Security Act, as amended, or other federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If a parent or caretaker relative does not assign any rights a family member may have to support from any other person as required by subsection (7), temporary cash assistance to the entire family shall be denied until the parent or caretaker relative assigns the rights to the department.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An individual who is convicted in federal or state court of receiving benefits under this chapter, Title XIX, the Food and Nutrition Act of 2008, or Title XVI (Supplemental Security Income), in two or more states simultaneously may not receive temporary cash assistance or services under this chapter for 10 years following the date of conviction.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An individual is ineligible to receive temporary cash assistance or services under this chapter during any period when the individual is fleeing to avoid prosecution, custody, or confinement after committing a crime, attempting to commit a crime that is a felony under the laws of the place from which the individual flees or a high misdemeanor in the State of New Jersey, or violating a condition of probation or parole imposed under federal or state law.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The parent or other caretaker relative must report to the department by the end of the 5-day period that begins on the date it becomes clear to the parent or caretaker relative that a minor child will be absent from the home for 30 or more consecutive days. A parent or caretaker relative who fails to report this information to the department shall be disqualified from receiving temporary cash assistance for 30 days for the first occurrence, 60 days for the second occurrence, and 90 days for the third or subsequent occurrence.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">If the parents of a minor child live apart and equally share custody and control of the child, a parent is ineligible for temporary cash assistance unless the parent clearly demonstrates to the department that the parent provides primary day-to-day custody.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The payee of the temporary cash assistance payment is the caretaker relative with whom a minor child resides and who assumes primary responsibility for the child’s daily supervision, care, and control, except in cases where a protective payee is established.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">PREELIGIBILITY FRAUD SCREENING.<EmDash />An applicant who meets an error-prone profile, as determined by the department, is subject to preeligibility fraud screening as a means of reducing misspent funds and preventing fraud. The department shall create an error-prone or fraud-prone case profile within its public assistance information system and shall screen each application for temporary cash assistance against the profile to identify cases that have a potential for error or fraud. Each case so identified shall be subjected to preeligibility fraud screening.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">PROPORTIONAL REDUCTION.<EmDash />If the Social Services Estimating Conference forecasts an increase in the temporary cash assistance caseload and there is insufficient funding, a proportional reduction as determined by the department shall be applied to the levels of temporary cash assistance in subsection (10).</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">ADDITIONAL FUNDING.<EmDash />When warranted by economic circumstances, the department, in consultation with the Social Services Estimating Conference, shall apply for additional federal funding available from the Contingency Fund for State Welfare Programs.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The department may adopt rules governing the administration of this section and may establish criteria regarding verification requirements and limitations on eligibility.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 96-175; s. 209, ch. 97-101; s. 1031, ch. 97-103; s. 9, ch. 97-173; s. 7, ch. 98-57; s. 1, ch. 98-157; s. 33, ch. 98-397; s. 13, ch. 99-241; s. 40, ch. 2000-165; s. 4, ch. 2000-300; s. 13, ch. 2000-320; s. 46, ch. 2001-158; s. 57, ch. 2004-5; s. 2, ch. 2005-61; s. 8, ch. 2005-128; s. 31, ch. 2008-61; s. 14, ch. 2010-187; s. 19, ch. 2010-209.</History>
+</Section>

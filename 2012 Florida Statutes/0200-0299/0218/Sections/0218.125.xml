@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.125" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Offset for tax loss associated with certain constitutional amendments affecting fiscally constrained counties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Beginning in the 2010-2011 fiscal year, the Legislature shall appropriate moneys to offset the reductions in ad valorem tax revenue experienced by fiscally constrained counties, as defined in s. 218.67(1), which occur as a direct result of the implementation of revisions of ss. 3(f) and 4(b) of Art. VII of the State Constitution which were approved in the general election held in November 2008. The moneys appropriated for this purpose shall be distributed in January of each fiscal year among the fiscally constrained counties based on each county’s proportion of the total reduction in ad valorem tax revenue resulting from the implementation of the revisions.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">On or before November 15 of each year, each fiscally constrained county shall apply to the Department of Revenue to participate in the distribution of the appropriation and provide documentation supporting the county’s estimated reduction in ad valorem tax revenue in the form and manner prescribed by the Department of Revenue. The documentation must include an estimate of the reduction in taxable value directly attributable to revisions of Art. VII of the State Constitution for all county taxing jurisdictions within the county and shall be prepared by the property appraiser in each fiscally constrained county. The documentation must also include the county millage rates applicable in all such jurisdictions for the current year and the prior year, rolled-back rates determined as provided in s. 200.065 for each county taxing jurisdiction, and maximum millage rates that could have been levied by majority vote pursuant to s. 200.065(5). For purposes of this section, each fiscally constrained county’s reduction in ad valorem tax revenue shall be calculated as 95 percent of the estimated reduction in taxable value multiplied by the lesser of the 2010 applicable millage rate or the applicable millage rate for each county taxing jurisdiction in the current year. If a fiscally constrained county fails to apply for the distribution, its share shall revert to the fund from which the appropriation was made.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2009-157; s. 31, ch. 2012-193.</History>
+</Section>

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.20" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">K-12 student and parent rights.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Parents of public school students must receive accurate and timely information regarding their child’s academic progress and must be informed of ways they can help their child to succeed in school. K-12 students and their parents are afforded numerous statutory rights including, but not limited to, the following:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SYSTEM OF EDUCATION.<EmDash />In accordance with s. 1, Art. IX of the State Constitution, all K-12 public school students are entitled to a uniform, safe, secure, efficient, and high quality system of education, one that allows students the opportunity to obtain a high quality education. Parents are responsible to ready their children for school; however, the State of Florida cannot be the guarantor of each individual student’s success.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ATTENDANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Compulsory school attendance.</Font><EmDash />The compulsory school attendance laws apply to all children between the ages of 6 and 16 years, as provided in s. 1003.21(1) and (2)(a), and, in accordance with the provisions of s. 1003.21(1) and (2)(a):</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A student who attains the age of 16 years during the school year has the right to file a formal declaration of intent to terminate school enrollment if the declaration is signed by the parent. The parent has the right to be notified by the school district of the district’s receipt of the student’s declaration of intent to terminate school enrollment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Students who become or have become married or who are pregnant and parenting have the right to attend school and receive the same or equivalent educational instruction as other students.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Regular school attendance.</Font><EmDash />Parents of students who have attained the age of 6 years by February 1 of any school year but who have not attained the age of 16 years must comply with the compulsory school attendance laws. Parents have the option to comply with the school attendance laws by attendance of the student in a public school; a parochial, religious, or denominational school; a private school; a home education program; or a private tutoring program, in accordance with the provisions of s. 1003.01(13).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Absence for religious purposes.</Font><EmDash />A parent of a public school student may request and be granted permission for absence of the student from school for religious instruction or religious holidays, in accordance with the provisions of s. 1003.21(2)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Dropout prevention and academic intervention programs.</Font><EmDash />The parent of a public school student has the right to receive written notice by certified mail prior to placement of the student in a dropout prevention and academic intervention program and shall be notified in writing and entitled to an administrative review of any action by school personnel relating to the student’s placement, in accordance with the provisions of s. 1003.53(5).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">HEALTH ISSUES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">School-entry health examinations.</Font><EmDash />The parent of any child attending a public or private school shall be exempt from the requirement of a health examination upon written request stating objections on religious grounds in accordance with the provisions of s. 1003.22(1) and (2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Immunizations.</Font><EmDash />The parent of any child attending a public or private school shall be exempt from the school immunization requirements upon meeting any of the exemptions in accordance with the provisions of s. 1003.22(5).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Biological experiments.</Font><EmDash />Parents may request that their child be excused from performing surgery or dissection in biological science classes in accordance with the provisions of s. 1003.47.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Reproductive health and disease education.</Font><EmDash />A public school student whose parent makes written request to the school principal shall be exempted from the teaching of reproductive health or any disease, including HIV/AIDS, in accordance with the provisions of s. 1003.42(3).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Contraceptive services to public school students.</Font><EmDash />In accordance with the provisions of s. 1006.062(7), students may not be referred to or offered contraceptive services at school facilities without the parent’s consent.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Career education courses involving hazardous substances.</Font><EmDash />High school students must be given plano safety glasses or devices in career education courses involving the use of hazardous substances likely to cause eye injury, in accordance with the provisions of s. 1006.65.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Substance abuse reports.</Font><EmDash />The parent of a public school student must be timely notified of any verified report of a substance abuse violation by the student, in accordance with the provisions of s. 1006.09(8).</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Inhaler use.</Font><EmDash />Asthmatic students whose parent and physician provide their approval to the school principal may carry a metered dose inhaler on their person while in school. The school principal shall be provided a copy of the parent’s and physician’s approval.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Epinephrine use.</Font><EmDash />A student who has experienced or is at risk for life-threatening allergic reactions may carry an epinephrine auto-injector and self-administer epinephrine by auto-injector while in school, participating in school-sponsored activities, or in transit to or from school or school-sponsored activities if the school has been provided with parental and physician authorization. The State Board of Education, in cooperation with the Department of Health, shall adopt rules for such use of epinephrine auto-injectors that shall include provisions to protect the safety of all students from the misuse or abuse of auto-injectors. A school district, county health department, public-private partner, and their employees and volunteers shall be indemnified by the parent of a student authorized to carry an epinephrine auto-injector for any and all liability with respect to the student’s use of an epinephrine auto-injector pursuant to this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Diabetes management</Font>.<EmDash />A school district may not restrict the assignment of a student who has diabetes to a particular school on the basis that the student has diabetes, that the school does not have a full-time school nurse, or that the school does not have trained diabetes personnel. Diabetic students whose parent and physician provide their written authorization to the school principal may carry diabetic supplies and equipment on their person and attend to the management and care of their diabetes while in school, participating in school-sponsored activities, or in transit to or from school or school-sponsored activities to the extent authorized by the parent and physician and within the parameters set forth by State Board of Education rule. The written authorization shall identify the diabetic supplies and equipment that the student is authorized to carry and shall describe the activities the child is capable of performing without assistance, such as performing blood-glucose level checks and urine ketone testing, administering insulin through the insulin-delivery system used by the student, and treating hypoglycemia and hyperglycemia. The State Board of Education, in cooperation with the Department of Health, shall adopt rules to encourage every school in which a student with diabetes is enrolled to have personnel trained in routine and emergency diabetes care. The State Board of Education, in cooperation with the Department of Health, shall also adopt rules for the management and care of diabetes by students in schools that include provisions to protect the safety of all students from the misuse or abuse of diabetic supplies or equipment. A school district, county health department, and public-private partner, and the employees and volunteers of those entities, shall be indemnified by the parent of a student authorized to carry diabetic supplies or equipment for any and all liability with respect to the student’s use of such supplies and equipment pursuant to this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Use of prescribed pancreatic enzyme supplements</Font>.<EmDash />A student who has experienced or is at risk for pancreatic insufficiency or who has been diagnosed as having cystic fibrosis may carry and self-administer a prescribed pancreatic enzyme supplement while in school, participating in school-sponsored activities, or in transit to or from school or school-sponsored activities if the school has been provided with authorization from the student’s parent and prescribing practitioner. The State Board of Education, in cooperation with the Department of Health, shall adopt rules for the use of prescribed pancreatic enzyme supplements which shall include provisions to protect the safety of all students from the misuse or abuse of the supplements. A school district, county health department, public-private partner, and their employees and volunteers shall be indemnified by the parent of a student authorized to use prescribed pancreatic enzyme supplements for any and all liability with respect to the student’s use of the supplements under this paragraph.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">DISCIPLINE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Suspension of public school student.</Font><EmDash />In accordance with the provisions of s. 1006.09(1)-(4):</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A student may be suspended only as provided by rule of the district school board. A good faith effort must be made to immediately inform the parent by telephone of the student’s suspension and the reason. Each suspension and the reason must be reported in writing within 24 hours to the parent by United States mail. A good faith effort must be made to use parental assistance before suspension unless the situation requires immediate suspension.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A student with a disability may only be recommended for suspension or expulsion in accordance with State Board of Education rules.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Expulsion.</Font><EmDash />Public school students and their parents have the right to written notice of a recommendation of expulsion, including the charges against the student and a statement of the right of the student to due process, in accordance with the provisions of s. 1006.08(1).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Corporal punishment.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In accordance with the provisions of s. 1003.32, corporal punishment of a public school student may only be administered by a teacher or school principal within guidelines of the school principal and according to district school board policy. Another adult must be present and must be informed in the student’s presence of the reason for the punishment. Upon request, the teacher or school principal must provide the parent with a written explanation of the reason for the punishment and the name of the other adult who was present.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A district school board having a policy authorizing the use of corporal punishment as a form of discipline shall review its policy on corporal punishment once every 3 years during a district school board meeting held pursuant to s. 1001.372. The district school board shall take public testimony at the board meeting. If such board meeting is not held in accordance with this subparagraph, the portion of the district school board’s policy authorizing corporal punishment expires.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SAFETY.<EmDash />In accordance with the provisions of s. 1006.13(6), students who have been victims of certain felony offenses by other students, as well as the siblings of the student victims, have the right to be kept separated from the student offender both at school and during school transportation.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">EDUCATIONAL CHOICE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Public school choices.</Font><EmDash />Parents of public school students may seek whatever public school choice options that are applicable and available to students in their school districts. These options may include controlled open enrollment, single-gender programs, lab schools, virtual instruction programs, charter schools, charter technical career centers, magnet schools, alternative schools, special programs, auditory-oral education programs, advanced placement, dual enrollment, International Baccalaureate, International General Certificate of Secondary Education (pre-AICE), Advanced International Certificate of Education, early admissions, credit by examination or demonstration of competency, the New World School of the Arts, the Florida School for the Deaf and the Blind, and the Florida Virtual School. These options may also include the public school choice options of the Opportunity Scholarship Program and the McKay Scholarships for Students with Disabilities Program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Private school choices.</Font><EmDash />Parents of public school students may seek private school choice options under certain programs.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Under the McKay Scholarships for Students with Disabilities Program, the parent of a public school student with a disability may request and receive a McKay Scholarship for the student to attend a private school in accordance with s. 1002.39.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Under the Florida Tax Credit Scholarship Program, the parent of a student who qualifies for free or reduced-price school lunch or who is currently placed, or during the previous state fiscal year was placed, in foster care as defined in s. 39.01 may seek a scholarship from an eligible nonprofit scholarship-funding organization in accordance with s. 1002.395.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Home education.</Font><EmDash />The parent of a student may choose to place the student in a home education program in accordance with the provisions of s. 1002.41.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Private tutoring.</Font><EmDash />The parent of a student may choose to place the student in a private tutoring program in accordance with the provisions of s. 1002.43(1).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">NONDISCRIMINATION.<EmDash />All education programs, activities, and opportunities offered by public educational institutions must be made available without discrimination on the basis of race, ethnicity, national origin, gender, disability, or marital status, in accordance with the provisions of s. 1000.05.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">STUDENTS WITH DISABILITIES.<EmDash />Parents of public school students with disabilities and parents of public school students in residential care facilities are entitled to notice and due process in accordance with the provisions of ss. 1003.57 and 1003.58. Public school students with disabilities must be provided the opportunity to meet the graduation requirements for a standard high school diploma in accordance with the provisions of s. 1003.43(4). Certain public school students with disabilities may be awarded a special diploma upon high school graduation.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">BLIND STUDENTS.<EmDash />Blind students have the right to an individualized written education program and appropriate instructional materials to attain literacy, in accordance with provisions of s. 1003.55.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">LIMITED ENGLISH PROFICIENT STUDENTS.<EmDash />In accordance with the provisions of s. 1003.56, limited English proficient students have the right to receive ESOL (English for Speakers of Other Languages) instruction designed to develop the student’s mastery of listening, speaking, reading, and writing in English as rapidly as possible, and the students’ parents have the right of parental involvement in the ESOL program.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">STUDENTS WITH READING DEFICIENCIES.<EmDash />Each elementary school shall regularly assess the reading ability of each K-3 student. The parent of any K-3 student who exhibits a reading deficiency shall be immediately notified of the student’s deficiency with a description and explanation, in terms understandable to the parent, of the exact nature of the student’s difficulty in learning and lack of achievement in reading; shall be consulted in the development of a progress monitoring plan, as described in s. 1008.25(4)(b); and shall be informed that the student will be given intensive reading instruction until the deficiency is corrected. This subsection operates in addition to the remediation and notification provisions contained in s. 1008.25 and in no way reduces the rights of a parent or the responsibilities of a school district under that section.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">PLEDGE OF ALLEGIANCE.<EmDash />A public school student must be excused from reciting the pledge of allegiance upon written request by the student’s parent, in accordance with the provisions of s. 1003.44.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">STUDENT RECORDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Parent rights.</Font><EmDash />Parents have rights regarding the student records of their children, including right of access, right of waiver of access, right to challenge and hearing, and right of privacy, in accordance with the provisions of s. 1002.22.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Student rights.</Font><EmDash />In accordance with the provisions of s. 1008.386, a student is not required to provide his or her social security number as a condition for enrollment or graduation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">STUDENT REPORT CARDS.<EmDash />Students and their parents have the right to receive student report cards on a regular basis that clearly depict and grade the student’s academic performance in each class or course, the student’s conduct, and the student’s attendance, in accordance with the provisions of s. 1003.33.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">STUDENT PROGRESS REPORTS.<EmDash />Parents of public school students shall be apprised at regular intervals of the academic progress and other needed information regarding their child, in accordance with the provisions of s. 1003.02(1)(h)2.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">SCHOOL ACCOUNTABILITY AND SCHOOL IMPROVEMENT RATING REPORTS.<EmDash />Parents of public school students are entitled to an easy-to-read report card about the grade designation, school accountability including the school financial report, and school improvement rating of their child’s school in accordance with the provisions of ss. 1008.22, 1003.02(3), and 1010.215(5).</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">ATHLETICS; PUBLIC HIGH SCHOOL.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Eligibility.</Font><EmDash />Eligibility requirements for all students participating in high school athletic competition must allow a student to be eligible in the school in which he or she first enrolls each school year, the school in which the student makes himself or herself a candidate for an athletic team by engaging in practice before enrolling, or the school to which the student has transferred with approval of the district school board, in accordance with the provisions of s. 1006.20(2)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Medical evaluation.</Font><EmDash />Students must satisfactorily pass a medical evaluation each year before participating in athletics, unless the parent objects in writing based on religious tenets or practices, in accordance with the provisions of s. 1006.20(2)(d).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">EXTRACURRICULAR ACTIVITIES.<EmDash />In accordance with the provisions of s. 1006.15:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Eligibility.</Font><EmDash />Students who meet specified academic and conduct requirements are eligible to participate in extracurricular activities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Home education students.</Font><EmDash />Home education students who meet specified academic and conduct requirements are eligible to participate in extracurricular activities at the public school to which the student would be assigned or could choose to attend according to district school board policies, or may develop an agreement to participate at a private school.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Charter school students.</Font><EmDash />Charter school students who meet specified academic and conduct requirements are eligible to participate in extracurricular activities at the public school to which the student would be assigned or could choose to attend according to district school board policies, unless such activity is provided by the student’s charter school.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Florida Virtual School full-time students.</Font><EmDash/>Florida Virtual School full-time students who meet specified academic and conduct requirements are eligible to participate in extracurricular activities at the public school to which the student would be assigned or could choose to attend according to district school board policies.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Discrimination prohibited.</Font><EmDash />Organizations that regulate or govern extracurricular activities of public schools shall not discriminate against any eligible student based on an educational choice of public, private, or home education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">INSTRUCTIONAL MATERIALS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Core courses.</Font><EmDash />Each public school student is entitled to sufficient instructional materials in the core courses of mathematics, language arts, social studies, science, reading, and literature, in accordance with the provisions of ss. 1003.02(1)(d) and 1006.40(2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Curricular objectives.</Font><EmDash />The parent of each public school student has the right to receive effective communication from the school principal as to the manner in which instructional materials are used to implement the school’s curricular objectives, in accordance with the provisions of s. 1006.28(3)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Sale of instructional materials.</Font><EmDash />Upon request of the parent of a public school student, the school principal must sell to the parent any instructional materials used in the school, in accordance with the provisions of s. 1006.28(3)(c).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Dual enrollment students.</Font><EmDash />Instructional materials purchased by a district school board or Florida College System institution board of trustees on behalf of public school dual enrollment students shall be made available to the dual enrollment students free of charge, in accordance with s. 1007.271(17).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">JUVENILE JUSTICE PROGRAMS.<EmDash />Students who are in juvenile justice programs have the right to receive educational programs and services in accordance with the provisions of s. 1003.52.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">PARENTAL INPUT AND MEETINGS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Meetings with school district personnel.</Font><EmDash />Parents of public school students may be accompanied by another adult of their choice at any meeting with school district personnel.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">School district best financial management practice reviews.</Font><EmDash />Public school students and their parents may provide input regarding their concerns about the operations and management of the school district both during and after the conduct of a school district best financial management practices review, in accordance with the provisions of s. 1008.35.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">District school board educational facilities programs.</Font><EmDash />Parents of public school students and other members of the public have the right to receive proper public notice and opportunity for public comment regarding the district school board’s educational facilities work program, in accordance with the provisions of s. 1013.35.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">TRANSPORTATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Transportation to school.</Font><EmDash />Public school students shall be provided transportation to school, in accordance with the provisions of s. 1006.21(3)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Hazardous walking conditions.</Font><EmDash />K-6 public school students shall be provided transportation if they are subjected to hazardous walking conditions, in accordance with the provisions of ss. 1006.21(3)(b) and 1006.23.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Parental consent.</Font><EmDash />Each parent of a public school student must be notified in writing and give written consent before the student may be transported in a privately owned motor vehicle to a school function, in accordance with the provisions of s. 1006.22(2)(b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">ORDERLY, DISCIPLINED CLASSROOMS.<EmDash />Public school students shall be in orderly, disciplined classrooms conducive to learning without the distraction caused by disobedient, disrespectful, violent, abusive, uncontrollable, or disruptive students, in accordance with s. 1003.32.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">ECONOMIC SECURITY REPORT.<EmDash />Beginning in the 2014-2015 school year and annually thereafter, each middle school and high school student or the student’s parent prior to registration shall be provided a two-page summary of the Department of Economic Opportunity’s economic security report of employment and earning outcomes prepared pursuant to s. 445.07 and electronic access to the report.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 92, ch. 2002-387; s. 6, ch. 2003-118; s. 32, ch. 2003-391; s. 33, ch. 2004-41; s. 5, ch. 2004-42; s. 77, ch. 2004-357; s. 2, ch. 2005-75; s. 1, ch. 2005-196; s. 14, ch. 2006-74; s. 170, ch. 2007-5; s. 2, ch. 2008-26; s. 2, ch. 2008-147; s. 1, ch. 2009-53; s. 4, ch. 2009-108; s. 13, ch. 2010-24; s. 2, ch. 2010-57; s. 1, ch. 2010-184; s. 25, ch. 2011-5; s. 3, ch. 2011-128; s. 12, ch. 2011-137; s. 4, ch. 2011-175; s. 2, ch. 2012-22; s. 1, ch. 2012-188; s. 4, ch. 2012-191; s. 1, ch. 2012-192; s. 6, ch. 2012-195.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

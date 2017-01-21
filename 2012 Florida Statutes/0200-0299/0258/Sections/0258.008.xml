@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0258.008" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Prohibited activities; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in subsection (3), any person who violates or otherwise fails to comply with the rules adopted under this chapter commits a noncriminal infraction for which ejection from all property managed by the Division of Recreation and Parks and a fine of up to $500 may be imposed by the division. Fines paid under this subsection shall be paid to the Fish and Wildlife Conservation Commission and deposited in the State Game Trust Fund as provided in ss. 379.338, 379.339, and 379.3395.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In addition to penalties imposed under subsection (1), any person who fails to sign a citation given under subsection (1), fails to appear in court in response to such citation, or fails to comply with the court’s order commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person who engages in any of the following activities within the boundaries of a state park without first obtaining the express permission of the Division of Recreation and Parks commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083, and shall be ejected from all property managed by the division:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Cutting, carving, injuring, mutilating, moving, displacing, or breaking off any water-bottom formation or coral.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Capturing, trapping, or injuring a wild animal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Collecting plant or animal specimens.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Leaving the designated public roads in a vehicle.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Hunting.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2008-98; s. 8, ch. 2012-88.</History>
+</Section>

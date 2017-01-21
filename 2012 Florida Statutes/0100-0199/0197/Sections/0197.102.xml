@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.102" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this chapter, the following definitions apply, unless the context clearly requires otherwise:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Awarded” means the time when the tax collector or a designee determines and announces verbally or through the closing of the bid process in a live or an electronic auction that a buyer has placed the winning bid on a tax certificate at a tax certificate sale.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Department,” unless otherwise specified, means the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Omitted taxes” means those taxes which have not been extended on the tax roll against a parcel of property after the property has been placed upon the list of lands available for taxes pursuant to s. 197.502.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Proxy bidding” means a method of bidding by which a bidder authorizes an agent, whether an individual or an electronic agent, to place bids on his or her behalf.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Random number generator” means a computational device that generates a sequence of numbers that lack any pattern and is used to resolve a tie when multiple bidders have bid the same lowest amount by assigning a number to each of the tied bidders and randomly determining which one of those numbers is the winner.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Tax certificate” means a paper or electronic legal document, representing unpaid delinquent real property taxes, non-ad valorem assessments, including special assessments, interest, and related costs and charges, issued in accordance with this chapter against a specific parcel of real property and becoming a first lien thereon, superior to all other liens, except as provided by s. 197.573(2).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Tax notice” means the paper or electronic tax bill sent to taxpayers for payment of any taxes or special assessments collected pursuant to this chapter, or the bill sent to taxpayers for payment of the total of ad valorem taxes and non-ad valorem assessments collected pursuant to s. 197.3632.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Tax receipt” means the paid tax notice.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Tax rolls” and “assessment rolls” are synonymous and mean the rolls prepared by the property appraiser pursuant to chapter 193 and certified pursuant to s. 193.122.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a local government uses the method in s. 197.3632 to levy, collect, or enforce a non-ad valorem assessment, the following definitions apply:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Ad valorem tax roll” means the roll prepared by the property appraiser and certified to the tax collector for collection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Non-ad valorem assessment roll” means a roll prepared by a local government and certified to the tax collector for collection.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 127, ch. 85-342; s. 64, ch. 88-130; s. 3, ch. 88-216; s. 5, ch. 90-343; s. 2, ch. 2011-151.</History>
+</Section>

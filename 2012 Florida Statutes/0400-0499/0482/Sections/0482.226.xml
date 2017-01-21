@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0482.226" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Wood-destroying organism inspection report; notice of inspection or treatment; financial responsibility.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When an inspection for wood-destroying organisms is made by a licensee for purposes of a real estate transaction and either a fee is charged for the inspection or a written report is requested by the customer, a wood-destroying organism inspection report shall be provided by the licensee or its representative qualified under this chapter to perform such inspections. The inspection shall be made in accordance with good industry practice and standards as established by rule and must include inspection for all wood-destroying organisms. The inspection findings shall be reported to the person requesting the inspection. The report must be made on a form prescribed by the department and furnished by the licensee. A copy of the inspection report shall be retained by the licensee for a period of not less than 3 years.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The inspection report must include the following information and statements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The licensee’s name.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The date of the inspection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The address of the structure inspected.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any visible accessible areas not inspected and the reasons for not inspecting them.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The areas of the structure that were inaccessible.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any visible evidence of previous treatments for, or infestations of, wood-destroying organisms.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The identity of any wood-destroying organisms present and any visible damage caused.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A statement that a notice of the inspection has been affixed to the property in accordance with subsection (4) or subsection (5) and a statement of the location of the notice.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If any pest control treatment is provided at the time of the inspection, the inspection report must also provide the name of each of the wood-destroying organisms for which treatment was provided, the name of the pesticide used, and all conditions and terms associated with that treatment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An inspection report does not constitute a guarantee of the absence of wood-destroying organisms or damage therefrom or other evidence unless the report specifically states therein the extent of such guarantee.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The inspection report must also include a statement certifying that neither the inspector nor the licensee by whom the inspection is made has any financial interest in the property inspected or is associated in any way in the transaction with any party to the transaction other than for inspection purposes.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If periodic reinspections or retreatments are specified in wood-destroying organisms preventive or control contracts, the licensee shall furnish the property owner or the property owner’s authorized agent, after each such reinspection or retreatment, a signed report indicating the presence or absence of wood-destroying organisms covered by the contract, whether retreatment was made, and the common or brand name of the pesticide used. Such report need not be on a form prescribed by the department. A person may not perform periodic reinspections or retreatments unless she or he has an identification card issued under s. 482.091(9).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">When a wood-destroying organism inspection is provided in accordance with subsection (1), the licensee shall post notice of such inspection immediately adjacent to the access to the attic or crawl area or other readily accessible area of the property inspected. This notice must be at least 3 inches by 5 inches in size and must consist of a material that will last at least 3 years. It is a violation of this chapter for anyone other than the property owner to remove such notice at any time. The licensee’s name and address and the date of inspection must be stated on the notice.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In addition to the notice required by subsection (4), any licensee who performs control of any wood-destroying organism shall post notice of such treatment immediately adjacent to the access to the attic or crawl area or other readily accessible area of the property treated. This notice must be at least 3 inches by 5 inches in size and must consist of a material that will last at least 3 years. It is a violation of this chapter for anyone other than the property owner to remove such notice at any time. The licensee’s name and address, the date of treatment, the name of the pesticide used, and the wood-destroying organism for which treatment was performed must be stated on the notice. The contract for treatment between the licensee and the consumer must state the location of such notice.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any licensee that performs wood-destroying organism inspections in accordance with subsection (1) must meet minimum financial responsibility in the form of errors and omissions (professional liability) insurance coverage or bond in an amount no less than $500,000 in the aggregate and $250,000 per occurrence, or demonstrate that the licensee has equity or net worth of no less than $500,000 as determined by generally accepted accounting principles substantiated by a certified public accountant’s review or certified audit. The licensee must show proof of meeting this requirement at the time of license application or renewal thereof.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 78-292; s. 2, ch. 81-318; ss. 12, 14, 15, ch. 82-229; s. 98, ch. 83-218; s. 1, ch. 85-335; s. 16, ch. 89-180; ss. 51, 59, ch. 92-203; s. 436, ch. 97-103; s. 6, ch. 2011-192; s. 12, ch. 2011-206.</History>
+</Section>

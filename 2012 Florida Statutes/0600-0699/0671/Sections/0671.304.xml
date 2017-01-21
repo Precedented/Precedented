@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0671.304" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Laws not repealed; precedence where code provisions in conflict with other laws; certain statutory remedies retained.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The article on documents of title (Art. 7) does not repeal or modify any laws prescribing the form or contents of documents of title or the services or facilities to be afforded by bailees, or otherwise regulating bailees’ businesses in respects not specifically dealt with herein; but the fact that such laws are violated does not affect the status of a document of title which otherwise complies with the definition of a “document of title” (s. 671.201).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following laws and parts of laws are specifically not repealed and shall take precedence over any provisions of this code which may be inconsistent or in conflict therewith:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Chapter 517<EmDash />Sale of securities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Chapter 687<EmDash />Interest and usury; lending practices.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Chapter 516<EmDash />Florida Consumer Finance Act.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Chapter 520<EmDash />Retail installment sales (Part I, Motor Vehicle Sales Finance Act; Part II, Retail Installment Sales Act; Part III, Installment Sales Finance Act).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Chapter 665<EmDash />Florida Savings Association Act.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Chapter 657<EmDash />Credit unions.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Chapters 319 and 328<EmDash />Title certificates (motor vehicle; vessel).</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Chapter 538<EmDash />Secondhand Dealers and Secondary Metals Recyclers.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Chapters 658, 660, and 663.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The following laws or parts of laws, although not repealed, shall yield to and be superseded by any provisions of the code which may be inconsistent or in conflict therewith:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Chapter 697<EmDash />Instruments deemed mortgages and the nature of a mortgage.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Chapter 701<EmDash />Assignment and cancellation of mortgages.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Chapter 702<EmDash />Foreclosure of mortgages.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Chapter 727<EmDash />General assignments.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any provisions to the contrary in any of the following Florida Statutes, the remedies provided by such statutes shall not restrict the remedies otherwise available to a secured party under this code, but all such remedies shall be cumulatively available in accordance with their respective terms to a secured party under this code: Chapter 76<EmDash />Attachment.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The effectiveness of any financing statement or continuation statement filed prior to January 1, 1980, or any continuation statement filed on or after October 1, 1984, which states that the debtor is a transmitting utility as provided in s. 679.515(6) shall continue until a termination statement is filed, except that if this act requires a filing in an office where there was no previous financing statement, a new financing statement conforming to s. 680.109(4), Florida Statutes 1979, shall be filed in that office.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 174, ch. 79-164; s. 3, ch. 80-273; s. 5, ch. 81-276; s. 1, ch. 84-167; s. 3, ch. 89-533; s. 6, ch. 90-278; s. 205, ch. 92-303; s. 25, ch. 98-11; s. 6, ch. 2000-155; s. 4, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 680.104.</Text>
+	</Note>
+</Section>

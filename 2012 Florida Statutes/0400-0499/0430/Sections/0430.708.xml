@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.708" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Certificate of need.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">To ensure that Medicaid community diversion pilot projects result in a reduction in the projected average monthly nursing home caseload, the agency shall, in accordance with the provisions of s. 408.034(5):</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Reduce the projected nursing home bed need in each certificate-of-need batching cycle in the community diversion pilot project areas.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Reduce the conditions imposed on existing nursing homes or those to be constructed, in accordance with the number of projected community diversion slots.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Adopt rules to reduce the number of beds in Medicaid-participating nursing homes eligible for Medicaid, through a Medicaid-selective contracting process or some other appropriate method.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Determine the feasibility of increasing the nursing home occupancy threshold used in determining nursing home bed needs under the certificate-of-need process.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 97-87; s. 17, ch. 2002-223; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+</Section>

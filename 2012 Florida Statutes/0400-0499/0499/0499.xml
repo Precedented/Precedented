@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIII">
+	<ChapterNumber>499</ChapterNumber>
+	<ChapterName xml:space="preserve">Drug, cosmetic, and household products</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Drugs; devices; cosmetics;<NewLine />household products</PartTitle>
+		<Section Number="0499.001" />
+		<Section Number="0499.002" />
+		<Section Number="0499.003" />
+		<Section Number="0499.005" />
+		<Section Number="0499.0051" />
+		<Section Number="0499.0054" />
+		<Section Number="0499.006" />
+		<Section Number="0499.007" />
+		<Section Number="0499.008" />
+		<Section Number="0499.009" />
+		<Section Number="0499.01" />
+		<Section Number="0499.012" />
+		<Section Number="0499.01201" />
+		<Section Number="0499.0121" />
+		<Section Number="0499.01211" />
+		<Section Number="0499.01212" />
+		<Section Number="0499.015" />
+		<Section Number="0499.023" />
+		<Section Number="0499.024" />
+		<Section Number="0499.025" />
+		<Section Number="0499.028" />
+		<Section Number="0499.029" />
+		<Section Number="0499.03" />
+		<Section Number="0499.032" />
+		<Section Number="0499.033" />
+		<Section Number="0499.035" />
+		<Section Number="0499.039" />
+		<Section Number="0499.04" />
+		<Section Number="0499.041" />
+		<Section Number="0499.05" />
+		<Section Number="0499.051" />
+		<Section Number="0499.052" />
+		<Section Number="0499.055" />
+		<Section Number="0499.057" />
+		<Section Number="0499.06" />
+		<Section Number="0499.062" />
+		<Section Number="0499.065" />
+		<Section Number="0499.066" />
+		<Section Number="0499.0661" />
+		<Section Number="0499.067" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Ether</PartTitle>
+		<Section Number="0499.601" />
+		<Section Number="0499.61" />
+		<Section Number="0499.62" />
+		<Section Number="0499.63" />
+		<Section Number="0499.64" />
+		<Section Number="0499.65" />
+		<Section Number="0499.66" />
+		<Section Number="0499.67" />
+		<Section Number="0499.68" />
+		<Section Number="0499.69" />
+		<Section Number="0499.701" />
+		<Section Number="0499.71" />
+		<Section Number="0499.72" />
+		<Section Number="0499.73" />
+		<Section Number="0499.74" />
+		<Section Number="0499.75" />
+		<Section Number="0499.76" />
+		<Section Number="0499.77" />
+		<Section Number="0499.78" />
+		<Section Number="0499.79" />
+	</Part>
+</Chapter>

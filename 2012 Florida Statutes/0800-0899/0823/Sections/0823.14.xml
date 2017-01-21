@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0823.14" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Right to Farm Act.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section shall be known and may be cited as the “Florida Right to Farm Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE FINDINGS AND PURPOSE.<EmDash />The Legislature finds that agricultural production is a major contributor to the economy of the state; that agricultural lands constitute unique and irreplaceable resources of statewide importance; that the continuation of agricultural activities preserves the landscape and environmental resources of the state, contributes to the increase of tourism, and furthers the economic self-sufficiency of the people of the state; and that the encouragement, development, improvement, and preservation of agriculture will result in a general benefit to the health and welfare of the people of the state. The Legislature further finds that agricultural activities conducted on farm land in urbanizing areas are potentially subject to lawsuits based on the theory of nuisance and that these suits encourage and even force the premature removal of the farm land from agricultural use. It is the purpose of this act to protect reasonable agricultural activities conducted on farm land from nuisance suits.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Farm” means the land, buildings, support facilities, machinery, and other appurtenances used in the production of farm or aquaculture products.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Farm operation” means all conditions or activities by the owner, lessee, agent, independent contractor, and supplier which occur on a farm in connection with the production of farm, honeybee, or apiculture products and includes, but is not limited to, the marketing of produce at roadside stands or farm markets; the operation of machinery and irrigation pumps; the generation of noise, odors, dust, and fumes; ground or aerial seeding and spraying; the placement and operation of an apiary; the application of chemical fertilizers, conditioners, insecticides, pesticides, and herbicides; and the employment and use of labor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Farm product” means any plant, as defined in s. 581.011, or animal or insect useful to humans and includes, but is not limited to, any product derived therefrom.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Established date of operation” means the date the farm operation commenced. If the farm operation is subsequently expanded within the original boundaries of the farm land, the established date of operation of the expansion shall also be considered as the date the original farm operation commenced. If the land boundaries of the farm are subsequently expanded, the established date of operation for each expansion is deemed to be a separate and independent established date of operation. The expanded operation shall not divest the farm operation of a previous established date of operation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">FARM OPERATION NOT TO BE OR BECOME A NUISANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No farm operation which has been in operation for 1 year or more since its established date of operation and which was not a nuisance at the time of its established date of operation shall be a public or private nuisance if the farm operation conforms to generally accepted agricultural and management practices, except that the following conditions shall constitute evidence of a nuisance:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The presence of untreated or improperly treated human waste, garbage, offal, dead animals, dangerous waste materials, or gases which are harmful to human or animal life.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The presence of improperly built or improperly maintained septic tanks, water closets, or privies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The keeping of diseased animals which are dangerous to human health, unless such animals are kept in accordance with a current state or federal disease control program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The presence of unsanitary places where animals are slaughtered, which may give rise to diseases which are harmful to human or animal life.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No farm operation shall become a public or private nuisance as a result of a change in ownership, a change in the type of farm product being produced, a change in conditions in or around the locality of the farm, or a change brought about to comply with Best Management Practices adopted by local, state, or federal agencies if such farm has been in operation for 1 year or more since its established date of operation and if it was not a nuisance at the time of its established date of operation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">WHEN EXPANSION OF OPERATION NOT PERMITTED.<EmDash />This act shall not be construed to permit an existing farm operation to change to a more excessive farm operation with regard to noise, odor, dust, or fumes where the existing farm operation is adjacent to an established homestead or business on March 15, 1982.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">LIMITATION ON DUPLICATION OF GOVERNMENT REGULATION.<EmDash />It is the intent of the Legislature to eliminate duplication of regulatory authority over farm operations as expressed in this subsection. Except as otherwise provided for in this section and s. 487.051(2), and notwithstanding any other provision of law, a local government may not adopt any ordinance, regulation, rule, or policy to prohibit, restrict, regulate, or otherwise limit an activity of a bona fide farm operation on land classified as agricultural land pursuant to s. 193.461, where such activity is regulated through implemented best management practices or interim measures developed by the Department of Environmental Protection, the Department of Agriculture and Consumer Services, or water management districts and adopted under chapter 120 as part of a statewide or regional program. When an activity of a farm operation takes place within a wellfield protection area as defined in any wellfield protection ordinance adopted by a local government, and the adopted best management practice or interim measure does not specifically address wellfield protection, a local government may regulate that activity pursuant to such ordinance. This subsection does not limit the powers and duties provided for in s. 373.4592 or limit the powers and duties of any local government to address an emergency as provided for in chapter 252.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 79-61; ss. 1, 2, ch. 82-24; s. 9, ch. 87-367; s. 75, ch. 93-206; s. 1279, ch. 97-102; s. 25, ch. 99-391; s. 39, ch. 2000-308; s. 13, ch. 2012-83.</History>
+</Section>

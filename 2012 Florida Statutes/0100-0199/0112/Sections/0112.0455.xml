@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0112.0455" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Drug-Free Workplace Act.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section shall be known and may be cited as the “Drug-Free Workplace Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PURPOSE.<EmDash />This section is intended to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Promote the goal of drug-free workplaces within government through fair and reasonable drug-testing methods for the protection of public employees and employers.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Encourage employers to provide employees who have drug use problems with an opportunity to participate in an employee assistance program or an alcohol and drug rehabilitation program.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide for confidentiality of testing results.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FINDINGS.<EmDash />The Legislature finds that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Drug use has serious adverse effects upon a significant portion of the workforce, resulting in billions of dollars of lost productivity each year and posing a threat to the workplace and to public safety and security.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Maintaining a healthy and productive workforce, safe working conditions free from the effects of drugs, and quality products and services is important to employers, employees, and the general public in this state. The Legislature further finds that drug use creates a variety of workplace problems, including increased injury on the job, increased absenteeism, increased financial burden on health and benefit programs, increased workplace theft, decreased employee morale, decreased productivity, and a decline in the quality of products and services.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Certain drug-testing standards are necessary to protect persons participating in workplace drug-testing programs.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In balancing the interests of employers, employees, and the welfare of the general public, the establishment of standards to assure fair and accurate testing for drugs in the workplace is in the best interests of all.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">NO LEGAL DUTY TO TEST.<EmDash />All drug testing conducted by employers shall be in conformity with the standards established in this section and all applicable rules promulgated pursuant to this section. However, employers shall not have a legal duty under this section to request an employee or job applicant to undergo drug testing. No testing of employees shall take effect until local drug abuse assistance programs have been identified.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />Except where the context otherwise requires, as used in this act:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Drug” means alcohol, including distilled spirits, wine, malt beverages, and intoxicating liquors; amphetamines; cannabinoids; cocaine; phencyclidine (PCP); hallucinogens; methaqualone; opiates; barbiturates; benzodiazepines; synthetic narcotics; designer drugs; or a metabolite of any of the substances listed herein.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Drug test” or “test” means any chemical, biological, or physical instrumental analysis administered for the purpose of determining the presence or absence of a drug or its metabolites.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Initial drug test” means a sensitive, rapid, and reliable procedure to identify negative and presumptive positive specimens. All initial tests must use an immunoassay procedure or an equivalent, or must use a more accurate scientifically accepted method approved by the Agency for Health Care Administration as more accurate technology becomes available in a cost-effective form.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Confirmation test,” “confirmed test,” or “confirmed drug test” means a second analytical procedure used to identify the presence of a specific drug or metabolite in a specimen. The confirmation test must be different in scientific principle from that of the initial test procedure. This confirmation method must be capable of providing requisite specificity, sensitivity, and quantitative accuracy.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Chain of custody” refers to the methodology of tracking specified materials or substances for the purpose of maintaining control and accountability from initial collection to final disposition for all such materials or substances and providing for accountability at each stage in handling, testing, storing specimens, and reporting of test results.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Job applicant” means a person who has applied for a position with an employer and has been offered employment conditioned upon successfully passing a drug test.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Employee” means a person who works for salary, wages, or other remuneration for an employer.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Employer” means an agency within state government that employs individuals for salary, wages, or other remuneration.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Prescription or nonprescription medication” means a drug or medication obtained pursuant to a prescription as defined by s. 893.02 or a medication that is authorized pursuant to federal or state law for general distribution and use without a prescription in the treatment of human diseases, ailments, or injuries.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Random testing” means a drug test conducted on employees who are selected through the use of a computer-generated random sample of an employer’s employees.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Reasonable suspicion drug testing” means drug testing based on a belief that an employee is using or has used drugs in violation of the employer’s policy drawn from specific objective and articulable facts and reasonable inferences drawn from those facts in light of experience. Reasonable suspicion drug testing may not be required except upon the recommendation of a supervisor who is at least one level of supervision higher than the immediate supervisor of the employee in question. Among other things, such facts and inferences may be based upon:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Observable phenomena while at work, such as direct observation of drug use or of the physical symptoms or manifestations of being under the influence of a drug.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Abnormal conduct or erratic behavior while at work or a significant deterioration in work performance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A report of drug use, provided by a reliable and credible source, which has been independently corroborated.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Evidence that an individual has tampered with a drug test during employment with the current employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Information that an employee has caused, or contributed to, an accident while at work.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Evidence that an employee has used, possessed, sold, solicited, or transferred drugs while working or while on the employer’s premises or while operating the employer’s vehicle, machinery, or equipment.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Specimen” means a tissue, hair, or product of the human body capable of revealing the presence of drugs or their metabolites.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Employee assistance program” means an established program for employee assessment, counseling, and possible referral to an alcohol and drug rehabilitation program.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Special risk” means employees who are required as a condition of employment to be certified under chapter 633 or chapter 943.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">NOTICE TO EMPLOYEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Employers with no drug-testing program shall ensure that at least 60 days elapse between a general one-time notice to all employees that a drug-testing program is being implemented and the beginning of actual drug testing. Employers with drug-testing programs in place prior to the effective date of this section are not required to provide a 60-day notice period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Prior to testing, all employees and job applicants for employment shall be given a written policy statement from the employer which contains:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A general statement of the employer’s policy on employee drug use, which shall identify:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The types of testing an employee or job applicant may be required to submit to, including reasonable suspicion or other basis; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The actions the employer may take against an employee or job applicant on the basis of a positive confirmed drug test result.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A statement advising the employee or job applicant of the existence of this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A general statement concerning confidentiality.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Procedures for employees and job applicants to confidentially report the use of prescription or nonprescription medications both before and after being tested. Additionally, employees and job applicants shall receive notice of the most common medications by brand name or common name, as applicable, as well as by chemical name, which may alter or affect a drug test. A list of such medications shall be developed by the Agency for Health Care Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The consequences of refusing to submit to a drug test.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Names, addresses, and telephone numbers of employee assistance programs and local alcohol and drug rehabilitation programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">A statement that an employee or job applicant who receives a positive confirmed drug test result may contest or explain the result to the employer within 5 working days after written notification of the positive test result. If an employee or job applicant’s explanation or challenge is unsatisfactory to the employer, the person may contest the drug test result as provided by subsections (14) and (15).</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A statement informing the employee or job applicant of his or her responsibility to notify the laboratory of any administrative or civil actions brought pursuant to this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A list of all drugs for which the employer will test, described by brand names or common names, as applicable, as well as by chemical names.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">A statement regarding any applicable collective bargaining agreement or contract and the right to appeal to the Public Employees Relations Commission.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">A statement notifying employees and job applicants of their right to consult the testing laboratory for technical information regarding prescription and nonprescription medication.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An employer shall include notice of drug testing on vacancy announcements for those positions where drug testing is required. A notice of the employer’s drug-testing policy shall also be posted in an appropriate and conspicuous location on the employer’s premises, and copies of the policy shall be made available for inspection by the general public during regular business hours in the employer’s personnel office or other suitable locations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">TYPES OF TESTING.<EmDash />Drug testing must be conducted within each agency’s appropriation. An employer may conduct, but is not required to conduct, the following types of drug tests:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Job applicant testing.</Font><EmDash />An employer may require job applicants to submit to a drug test and may use a refusal to submit to a drug test or a positive confirmed drug test as a basis for refusal to hire the job applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Reasonable suspicion.</Font><EmDash />An employer may require an employee to submit to reasonable suspicion drug testing.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Random testing.</Font><EmDash />An employer may conduct random testing once every 3 months. The random sample of employees chosen for testing must be computer-generated by an independent third party. A random sample may not constitute more than 10 percent of the total employee population.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Routine fitness for duty.</Font><EmDash />An employer may require an employee to submit to a drug test if the test is conducted as part of a routinely scheduled employee fitness-for-duty medical examination that is part of the employer’s established policy or that is scheduled routinely for all members of an employment classification or group.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Followup testing.</Font><EmDash />If the employee in the course of employment enters an employee assistance program for drug-related problems, or an alcohol and drug rehabilitation program, the employer may require the employee to submit to a drug test as a followup to such program, and on a quarterly, semiannual, or annual basis for up to 2 years thereafter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">PROCEDURES AND EMPLOYEE PROTECTION.<EmDash />All specimen collection and testing for drugs under this section shall be performed in accordance with the following procedures:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A sample shall be collected with due regard to the privacy of the individual providing the sample, and in a manner reasonably calculated to prevent substitution or contamination of the sample.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Specimen collection shall be documented, and the documentation procedures shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Labeling of specimen containers so as to reasonably preclude the likelihood of erroneous identification of test results.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A form for the employee or job applicant to provide any information he or she considers relevant to the test, including identification of currently or recently used prescription or nonprescription medication, or other relevant medical information. Such form shall provide notice of the most common medications by brand name or common name, as applicable, as well as by chemical name, which may alter or affect a drug test. The providing of information does not preclude the administration of the drug test, but shall be taken into account in interpreting any positive confirmed results.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Specimen collection, storage, and transportation to the testing site shall be performed in a manner that will reasonably preclude specimen contamination or adulteration.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each initial and confirmation test conducted under this section, not including the taking or collecting of a specimen to be tested, shall be conducted by a licensed laboratory as described in subsection (12).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A specimen for a drug test may be taken or collected by any of the following persons:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A physician, a physician’s assistant, a registered professional nurse, a licensed practical nurse, a nurse practitioner, or a certified paramedic who is present at the scene of an accident for the purpose of rendering emergency medical service or treatment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A qualified person employed by a licensed laboratory.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A person who collects or takes a specimen for a drug test conducted pursuant to this section shall collect an amount sufficient for two drug tests as determined by the Agency for Health Care Administration.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Any drug test conducted or requested by an employer may occur before, during, or immediately after the regular work period of the employee, and shall be deemed to be performed during work time for the purposes of determining compensation and benefits for the employee.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Every specimen that produces a positive confirmed result shall be preserved by the licensed laboratory that conducts the confirmation test for a period of at least 210 days from the time the results of the positive confirmation test are mailed or otherwise delivered to the employer. However, if an employee or job applicant undertakes an administrative or legal challenge to the test result, the employee or job applicant shall notify the laboratory and the sample shall be retained by the laboratory until the case or administrative appeal is settled. During the 180-day period after written notification of a positive test result, the employee or job applicant who has provided the specimen shall be permitted by the employer to have a portion of the specimen retested, at the employee or job applicant’s expense, at another laboratory, licensed and approved by the Agency for Health Care Administration, chosen by the employee or job applicant. The second laboratory must test at equal or greater sensitivity for the drug in question as the first laboratory. The first laboratory that performed the test for the employer is responsible for the transfer of the portion of the specimen to be retested, and for the integrity of the chain of custody during such transfer.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Within 5 working days after receipt of a positive confirmed test result from the testing laboratory, an employer shall inform an employee or job applicant in writing of such positive test result, the consequences of such results, and the options available to the employee or job applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The employer shall provide to the employee or job applicant, upon request, a copy of the test results.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Within 5 working days after receiving notice of a positive confirmed test result, the employee or job applicant may submit information to an employer explaining or contesting the test results, and why the results do not constitute a violation of the employer’s policy.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">If an employee or job applicant’s explanation or challenge of the positive test results is unsatisfactory to the employer, a written explanation as to why the employee or job applicant’s explanation is unsatisfactory, along with the report of positive results, shall be provided by the employer to the employee or job applicant. All such documentation shall be kept confidential and exempt from the provisions of s. 119.07(1) by the employer pursuant to subsection (11) and shall be retained by the employer for at least 1 year.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">An employer may not discharge, discipline, refuse to hire, discriminate against, or request or require rehabilitation of an employee or job applicant on the sole basis of a positive test result that has not been verified by a confirmation test.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Upon successful completion of an employee assistance program or an alcohol and drug rehabilitation program, the employee shall be reinstated to the same or equivalent position that was held prior to such rehabilitation.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">An employer may not discharge, discipline, or discriminate against an employee, or refuse to hire a job applicant, on the basis of any prior medical history revealed to the employer pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">An employer who performs drug testing or specimen collection shall use chain-of-custody procedures as established by the Agency for Health Care Administration to ensure proper recordkeeping, handling, labeling, and identification of all specimens to be tested.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">An employer shall pay the cost of all drug tests, initial and confirmation, which the employer requires of employees.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">An employee or job applicant shall pay the costs of any additional drug tests not required by the employer.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">An employer may not discharge, discipline, or discriminate against an employee solely upon voluntarily seeking treatment, while under the employ of the employer, for a drug-related problem if the employee has not previously tested positive for drug use, entered an employee assistance program for drug-related problems, or entered an alcohol and drug rehabilitation program. However, special risk employees may be subject to discharge or disciplinary action when the presence of illicit drugs, pursuant to s. 893.13, is confirmed.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">If testing is conducted based on reasonable suspicion, each employer shall promptly detail in writing the circumstances which formed the basis of the determination that reasonable suspicion existed to warrant the testing. A copy of this documentation shall be given to the employee upon request and the original documentation shall be kept confidential and exempt from the provisions of s. 119.07(1) by the employer pursuant to subsection (11) and retained by the employer for at least 1 year.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">If an employee is unable to participate in outpatient rehabilitation, the employee may be placed on leave status while participating in an employee assistance program or an alcohol and drug rehabilitation program. If placed on leave-without-pay status, the employee shall be permitted to use any accumulated leave credits prior to being placed on leave without pay. Upon successful completion of an employee assistance program or an alcohol and drug rehabilitation program, the employee shall be reinstated to the same or equivalent position that was held prior to such rehabilitation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">CONFIRMATION TESTING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If an initial drug test is negative, the employer may in its sole discretion and at the employer’s expense seek a confirmation test.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Only licensed laboratories as described in subsection (12) shall conduct confirmation drug tests.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All positive initial tests shall be confirmed using gas chromatography/mass spectrometry (GC/MS) or an equivalent or more accurate scientifically accepted method approved by the Agency for Health Care Administration as such technology becomes available in a cost-effective form.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">EMPLOYER PROTECTION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No employee or job applicant whose drug test result is confirmed as positive in accordance with the provisions of this section shall, by virtue of the result alone, be defined as a person with a “handicap” as cited in the 1973 Rehabilitation Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An employer who discharges or disciplines an employee or refuses to hire a job applicant in compliance with this section shall be considered to have discharged, disciplined, or refused to hire for cause.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No physician-patient relationship is created between an employee or job applicant and an employer or any person performing or evaluating a drug test, solely by the establishment, implementation, or administration of a drug-testing program.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Nothing in this section shall be construed to prevent an employer from establishing reasonable work rules related to employee possession, use, sale, or solicitation of drugs, including convictions for drug-related offenses, and taking action based upon a violation of any of those rules.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Nothing in this section shall be construed to operate retroactively, and nothing in this section shall abrogate the right of an employer under state law to conduct drug tests prior to January 1, 1990. A drug test conducted by an employer prior to January 1, 1990, is not subject to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If an employee or job applicant refuses to submit to a drug test, the employer shall not be barred from discharging or disciplining the employee, or from refusing to hire the job applicant. However, nothing in this paragraph shall abrogate the rights and remedies of the employee or job applicant as otherwise provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An employer who refuses to hire a job applicant based on a positive confirmed drug test result shall not be required to hold the employment position vacant while the job applicant pursues administrative action. However, should the job applicant prevail in the actions, the employer shall provide him or her the opportunity of employment in the next available comparable position.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">An employer may discharge or discipline an employee following a first-time positive confirmed drug test result. If the employer does not discharge the employee, the employer may refer the employee to an employee assistance program or an alcohol and drug rehabilitation program in which the employee may participate at the expense of the employee or pursuant to a health insurance plan.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If an employer refers an employee to an employee assistance program or an alcohol and drug rehabilitation program, the employer must determine whether the employee is able to safely and effectively perform the job duties assigned to the employee while the employee participates in the employee assistance program or the alcohol and drug rehabilitation program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An employee whose assigned duties require the employee to carry a firearm, work closely with an employee who carries a firearm, perform life-threatening procedures, work with heavy or dangerous machinery, work as a safety inspector, work with children, work with detainees in the correctional system, work with confidential information or documents pertaining to criminal investigations, work with controlled substances, hold a position subject to s. 110.1127, or hold a position in which a momentary lapse in attention could result in injury or death to another person, is deemed unable to safely and effectively perform the job duties assigned to the employee while the employee participates in the employee assistance program or the alcohol and drug rehabilitation program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If an employer refers an employee to an employee assistance program or an alcohol and drug rehabilitation program and the employer determines that the employee is unable, or the employee is deemed unable, to safely and effectively perform the job duties assigned to the employee before he or she completes the employee assistance program or the alcohol and drug rehabilitation program, the employer shall place the employee in a job assignment that the employer determines the employee can safely and effectively perform while participating in the employee assistance program or the alcohol and drug rehabilitation program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If a job assignment in which the employee may safely and effectively perform is unavailable, the employer shall place the employee on leave status while the employee is participating in an employee assistance program or an alcohol and drug rehabilitation program. If placed on leave status without pay, the employee may use accumulated leave credits before being placed on leave without pay.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">This section does not prohibit an employer from conducting medical screening or other tests required by any statute, rule, or regulation for the purpose of monitoring exposure of employees to toxic or other unhealthy substances in the workplace or in the performance of job responsibilities. Such screening or tests shall be limited to the specific substances expressly identified in the applicable statute, rule, or regulation, unless prior written consent of the employee is obtained for other tests.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">CONFIDENTIALITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, all information, interviews, reports, statements, memoranda, and drug test results, written or otherwise, received or produced as a result of a drug-testing program are confidential and exempt from the provisions of s. 119.07(1) and s. 24(a), Art. I of the State Constitution, and may not be used or received in evidence, obtained in discovery, or disclosed in any public or private proceedings, except in accordance with this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Employers, laboratories, employee assistance programs, drug and alcohol rehabilitation programs, and their agents may not release any information concerning drug test results obtained pursuant to this section without a written consent form signed voluntarily by the person tested, except where such release is compelled by a hearing officer or a court of competent jurisdiction pursuant to an appeal taken under this section, or where deemed appropriate by a professional or occupational licensing board in a related disciplinary proceeding. The consent form must contain, at a minimum:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name of the person who is authorized to obtain the information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The purpose of the disclosure.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The precise information to be disclosed.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The duration of the consent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The signature of the person authorizing release of the information.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Information on drug test results shall not be released or used in any criminal proceeding against the employee or job applicant. Information released contrary to this section shall be inadmissible as evidence in any such criminal proceeding.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Nothing herein shall be construed to prohibit certifying bodies of special risk employees from receiving information on positive confirmed drug test results for the purpose of reviewing certification.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Nothing herein shall be construed to prohibit the employer, agent of the employer, or laboratory conducting a drug test from having access to employee drug test information when consulting with legal counsel in connection with actions brought under or related to this section or where the information is relevant to its defense in a civil or administrative matter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">DRUG-TESTING STANDARDS; LABORATORIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The requirements of part II of chapter 408 apply to the provision of services that require licensure pursuant to this section and part II of chapter 408 and to entities licensed by or applying for such licensure from the Agency for Health Care Administration pursuant to this section. A license issued by the agency is required in order to operate a laboratory.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A laboratory may analyze initial or confirmation drug specimens only if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The laboratory is licensed and approved by the Agency for Health Care Administration using criteria established by the United States Department of Health and Human Services as general guidelines for modeling the state drug testing program and in accordance with part II of chapter 408. Each applicant for licensure and licensee must comply with all requirements of part II of chapter 408.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The laboratory has written procedures to ensure chain of custody.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The laboratory follows proper quality control procedures, including, but not limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The use of internal quality controls including the use of samples of known concentrations which are used to check the performance and calibration of testing equipment, and periodic use of blind samples for overall accuracy.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">An internal review and certification process for drug test results, conducted by a person qualified to perform that function in the testing laboratory.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Security measures implemented by the testing laboratory to preclude adulteration of specimens and drug test results.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Other necessary and proper actions taken to ensure reliable and accurate drug test results.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A laboratory shall disclose to the employer a written test result report within 7 working days after receipt of the sample. All laboratory reports of a drug test result shall, at a minimum, state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name and address of the laboratory which performed the test and the positive identification of the person tested.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Positive results on confirmation tests only, or negative results, as applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A list of the drugs for which the drug analyses were conducted.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The type of tests conducted for both initial and confirmation tests and the minimum cutoff levels of the tests.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any correlation between medication reported by the employee or job applicant pursuant to subparagraph (8)(b)2. and a positive confirmed drug test result.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">No report shall disclose the presence or absence of any drug other than a specific drug and its metabolites listed pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The laboratory shall submit to the Agency for Health Care Administration a monthly report with statistical information regarding the testing of employees and job applicants. The reports shall include information on the methods of analyses conducted, the drugs tested for, the number of positive and negative results for both initial and confirmation tests, and any other information deemed appropriate by the Agency for Health Care Administration. No monthly report shall identify specific employees or job applicants.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Laboratories shall provide technical assistance to the employer, employee, or job applicant for the purpose of interpreting any positive confirmed test results which could have been caused by prescription or nonprescription medication taken by the employee or job applicant.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration may adopt additional rules to support this law and part II of chapter 408, using criteria established by the United States Department of Health and Human Services as general guidelines for modeling drug-free workplace laboratories, concerning, but not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Standards for drug-testing laboratory licensing and denial, suspension, and revocation of a license.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Urine, hair, blood, and other body specimens and minimum specimen amounts which are appropriate for drug testing, not inconsistent with other provisions established by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Methods of analysis and procedures to ensure reliable drug-testing results, including standards for initial tests and confirmation tests, not inconsistent with other provisions established by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Minimum cutoff detection levels for drugs or their metabolites for the purposes of determining a positive test result, not inconsistent with other provisions established by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Chain-of-custody procedures to ensure proper identification, labeling, and handling of specimens being tested, not inconsistent with other provisions established by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Retention, storage, and transportation procedures to ensure reliable results on confirmation tests and retests.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">A list of the most common medications by brand name or common name, as applicable, as well as by chemical name, which may alter or affect a drug test.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The following standards and procedures are established related to hair testing:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Hair cutoff levels for initial drug-screening tests.<EmDash />The following initial cutoff levels must be used when screening hair specimens to determine whether they are negative for these drugs or their metabolites:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Marijuana: 10 pg/10 mg of hair;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Cocaine: 5 ng/10 mg of hair; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Opiate/synthetic narcotics and metabolites: 5 ng/10 mg of hair. For the purpose of this section, opiate and metabolites include the following:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Codeine;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Heroin, monoacetylmorphine (heroin metabolites);</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">Morphine;</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Phencyclidine: 3 ng/10 mg of hair; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Amphetamines: 5 ng/10 mg of hair. For the purpose of this section, amphetamines include the following:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Amphetamines;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Methamphetamine;</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Hair cutoff levels for drug confirmation testing.<EmDash /></Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">All specimens identified as positive on the initial test must be confirmed using gas chromatography/mass spectrometry (GC/MS), mass spectrometry/mass spectrometry (MS/MS) at the following cutoff levels for these drugs on their metabolites. All confirmations must be by quantitative analysis.</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Marijuana metabolites: 1 pg/10 mg of hair (Delta-9-tetrahydrocannabinol-0-carboxylic acid).</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Cocaine: must be at or above 5 ng/10 mg of hair. Cocaine metabolites if present will be recorded at the following minimum levels:</Text>
+							<SubSubSubSubParagraph Id="A">
+								<Text xml:space="preserve" Style="Intro">Benzoylecgonine at 1 ng/10 mg of hair; and</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="B">
+								<Text xml:space="preserve" Style="Intro">Cocaethlyene at 1 ng/10 mg of hair.</Text>
+							</SubSubSubSubParagraph>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">Opiate/synthetic narcotics and metabolites: 5 ng/10 mg of hair; opiate and metabolites include the following:</Text>
+							<SubSubSubSubParagraph Id="A">
+								<Text xml:space="preserve" Style="Intro">Codeine;</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="B">
+								<Text xml:space="preserve" Style="Intro">6-Monoacetylmorphine (heroin metabolite); and</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="C">
+								<Text xml:space="preserve" Style="Intro">Morphine.</Text>
+							</SubSubSubSubParagraph>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">Phencyclidine: 3 ng/10 mg of hair.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">Amphetamines: 5 ng/10 mg of hair. For the purpose of this section, amphetamines include the following:</Text>
+							<SubSubSubSubParagraph Id="A">
+								<Text xml:space="preserve" Style="Intro">Amphetamines; and</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="B">
+								<Text xml:space="preserve" Style="Intro">Methamphetamines.</Text>
+							</SubSubSubSubParagraph>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">All hair specimens undergoing confirmation must be decontaminated using a wash procedure which has been published in the peer-reviewed literature which, as a minimum, has an initial 15-minute organic solvent wash followed by multiple (minimum of three) 30-minute aqueous washes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">After hair is washed, the drug entrapped in the hair is released either by digestion (chemical or enzymatic) or by multiple solvent extractions. The resulting digest or pooled solvent extracts are then screened and confirmed by approved methods.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">All confirmation analysis methods must eliminate the melanin fraction of the hair before analysis. If a nondigestion method is used, the laboratory must present published data in the peer-reviewed literature from a large population study which indicates that the method of extraction does not possess a statistically significant hair-color bias.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Additional hair samples may be collected to reconfirm the initial report. The recollected sample shall be retested as specified; however, the confirmation analysis must be performed even if the screening test is negative. A second positive report must be made if the drug concentration in the digest by confirmation methods exceeds the limit of quantitation of the testing laboratory’s method. A second test must be offered to anyone disputing a positive hair test result.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Hair specimen collection procedures.<EmDash /></Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Designation of collection site.<EmDash/>Each drug-testing program shall have one or more designated collection sites which have all necessary personnel, materials, equipment, facilities, and supervision to provide for the collection, security, temporary storage, and shipping or transportation of hair specimens to a licensed drug-testing facility.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Security.<EmDash/>While security is important with any collection, in the case of hair, only the temporary storage area in the designated collection site needs to be secure.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Chain of custody.<EmDash/>Chain-of-custody standardized forms shall be properly executed by authorized collection site personnel upon receipt of specimens. Handling and transportation of hair specimens from one authorized individual or place to another shall always be accomplished through chain-of-custody procedures. Every effort shall be made to minimize the number of persons handling specimens.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Access to authorized personnel only.<EmDash/>The hair collection site need be off limits to unauthorized personnel only during the actual collection of specimens.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Privacy.<EmDash/>Procedures for collecting hair should be performed on one individual at a time to prevent substitutions or interference with the collection of reliable samples. Procedures must ensure that the hair collection does not infringe on the individual’s privacy.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Integrity and identity of specimen.<EmDash/>Precautions must be taken to ensure that the root end of a hair specimen is indicated for the laboratory which performs the testing. The maximum length of hair that shall be tested is 3.9 cm distal from the head, which on average represents a 3-month time window. The following minimum precautions must be taken when collecting a hair specimen to ensure that specimens are obtained and correctly identified:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">When an individual arrives at the collection site, the collection site personnel shall request the individual to present photo identification. If the individual does not have proper photo identification, the collection site personnel shall contact the supervisor of the individual, the coordinator of the drug testing program, or any other employer official who can positively identify the individual. If the individual’s identity cannot be established, the collection site personnel shall not proceed with the collection.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">If the individual fails to arrive at the assigned time, the collection site personnel shall contact the appropriate authority to obtain guidance on the action to be taken.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">The collection site personnel shall note any unusual behavior or appearance on the chain-of-custody form.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">Hair shall be cut as close to the scalp or body, excluding the pubic area, as possible. Upon taking the specimen from the individual, the collection site personnel shall determine that it contains approximately <Fraction>1/2</Fraction>-inch of hair when fanned out on a ruler (about 40 mg of hair).</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">Both the individual being tested and the collection site personnel shall keep the specimen in view at all times prior to the specimen container being sealed with a tamper-resistant seal and labeled with the individual’s specimen number and other required information.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">The collection site personnel shall label the container which contains the hair with the date, the individual’s specimen number, and any other identifying information provided or required by the drug-testing program.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VII">
+							<Text xml:space="preserve" Style="Intro">The individual shall initial the container for the purpose of certifying that it is the specimen collected from the individual.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VIII">
+							<Text xml:space="preserve" Style="Intro">The collection site personnel shall indicate on the chain-of-custody form all information identifying the specimen. The collection site personnel shall sign the chain-of-custody form next to the identifying information or the chain of custody on the specimen container.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IX">
+							<Text xml:space="preserve" Style="Intro">The individual must be asked to read and sign a statement certifying that the specimen identified as having been collected from the individual is in fact that specimen the individual provided.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="X">
+							<Text xml:space="preserve" Style="Intro">The collection site personnel shall complete the chain-of-custody form.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Collection control.<EmDash/>To the maximum extent possible, collection site personnel shall keep the individual’s specimen container within sight both before and after collection. After the specimen is collected, it must be properly sealed and labeled. An approved chain-of-custody form must be used for maintaining control and accountability of each specimen from the point of collection to final disposition of the specimen. The date and purpose must be documented on an approved chain-of-custody form each time a specimen is handled or transferred, and every individual in the chain must be identified. Every effort must be made to minimize the number of persons handling specimens.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Transportation to the testing facility.<EmDash/>Collection site personnel shall arrange to transport the collected specimens to the drug-testing facility. The specimens shall be placed in containers which shall be securely sealed to eliminate the possibility of undetected tampering. The collection site personnel shall ensure that the chain-of-custody documentation is sealed separately from the specimen and placed inside the container sealed for transfer to the drug-testing facility.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Quality assurance and quality control.<EmDash /></Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Quality assurance.<EmDash/>Testing facilities shall have a quality assurance program which encompasses all aspects of the testing process, including, but not limited to, specimen acquisition, chain of custody, security and reporting of results, initial and confirmatory testing, and validation of analytical procedures. Quality assurance procedures shall be designed, implemented, and reviewed to monitor the conduct of each step of the process of testing for drugs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Quality control.<EmDash/></Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Each analytical run of specimens to be screened shall include:</Text>
+							<SubSubSubSubParagraph Id="A">
+								<Text xml:space="preserve" Style="Intro">Hair specimens certified to contain no drug;</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="B">
+								<Text xml:space="preserve" Style="Intro">Hair specimens fortified with known standards; and</Text>
+							</SubSubSubSubParagraph>
+							<SubSubSubSubParagraph Id="C">
+								<Text xml:space="preserve" Style="Intro">Positive controls with the drug or metabolite at or near the threshold (cutoff).</Text>
+							</SubSubSubSubParagraph>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">In addition, with each batch of samples, a sufficient number of standards shall be included to ensure and document the linearity of the assay method over time in the concentration area of the cutoff. After acceptable values are obtained for the known standards, those values must be used to calculate sample data. Implementation of procedures to ensure that carryover does not contaminate the testing of an individual’s specimen must be documented. A minimum of 5 percent of all test samples must be quality control specimens. The testing facility’s quality control samples, prepared from fortified hair samples of determined concentration, must be included in the run and must appear as normal samples to drug-screen testing facility analysis. One percent of each run, with a minimum of at least one sample, must be the testing facility’s own quality control samples.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Proficiency testing.<EmDash/></Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Each hair drug-testing facility shall enroll and demonstrate satisfactory performance in a proficiency-testing program established by an independent group.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The drug-testing facility shall maintain records which document the handling, processing, and examination of all proficiency-testing samples for a minimum of 2 years from the date of testing.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">The drug-testing facility shall ensure that proficiency-testing samples are analyzed at least three times each year using the same techniques as those employed for unknown specimens.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">The proficiency-testing samples must be included with the routine sample run and tested with the same frequency as unknown samples by the individuals responsible for testing unknown specimens.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">The drug-testing facility may not engage in discussions or communications concerning proficiency-testing results with other drug-testing facilities, nor may they send proficiency-testing samples or portions of the samples to another drug-testing facility for analysis.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Satisfactory performance.<EmDash/></Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The drug-testing facility shall maintain an overall testing-event score equivalent to passing proficiency scores for other drug-testing matrices.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Failure to participate in a proficiency-testing event shall result in a score of 0 percent for that testing event.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Unsuccessful performance.<EmDash/>Failure to achieve satisfactory performance in two consecutive testing events, or two out of three consecutive testing events, is determined to be unsuccessful performance.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Department of Management Services may adopt rules for all executive branch agencies implementing this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The State Courts Administrator may adopt rules for the state courts system implementing this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The Justice Administrative Commission may adopt rules on behalf of the state attorneys and public defenders of Florida, the capital collateral regional counsel, and the Judicial Qualifications Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The President of the Senate and the Speaker of the House of Representatives may adopt rules, policies, or procedures for the employees and members of the legislative branch implementing this section.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This section shall not be construed to eliminate the bargainable rights as provided in the collective bargaining process where applicable.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">DISCIPLINE REMEDIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An executive branch employee who is disciplined or who is a job applicant for another position and is not hired pursuant to this section, may file an appeal with the Public Employees Relations Commission. Any appeal must be filed within 30 calendar days of receipt by the employee or job applicant of notice of discipline or refusal to hire. The notice shall inform the employee or job applicant of the right to file an appeal, or if available, the right to file a collective bargaining grievance pursuant to s. 447.401. Such appeals shall be resolved pursuant to the procedures established in ss. 447.207(1)-(4), 447.208(2), and 447.503(4) and (5). A hearing on the appeal shall be conducted within 30 days of the filing of the appeal, unless an extension is requested by the employee or job applicant and granted by the commission or an arbitrator.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commission shall promulgate rules concerning the receipt, processing, and resolution of appeals filed pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Appeals to the commission shall be the exclusive administrative remedy for any employee who is disciplined or any job applicant who is not hired pursuant to this section, notwithstanding the provisions of chapter 120. However, nothing in this subsection shall affect the right of an employee or job applicant to file a collective bargaining grievance pursuant to s. 447.401 provided that an employee or job applicant may not file both an appeal and a grievance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An employee or a job applicant who has been disciplined or who has not been hired pursuant to this section must exhaust either the administrative appeal process or collective bargaining grievance-arbitration process.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Upon resolving an appeal filed pursuant to paragraph (c), and finding a violation of this section, the commission may order the following relief:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Rescind the disciplinary action, expunge related records from the personnel file of the employee or job applicant and reinstate the employee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Order compliance with paragraph (10)(g).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Award back pay and benefits.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Award the prevailing employee or job applicant the necessary costs of the appeal, reasonable attorney’s fees, and expert witness fees.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">NONDISCIPLINE REMEDIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person alleging a violation of the provisions of this section, that is not remediable by the commission or an arbitrator pursuant to subsection (14), must institute a civil action for injunctive relief or damages, or both, in a court of competent jurisdiction within 180 days of the alleged violation, or be barred from obtaining the following relief. Relief is limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An order restraining the continued violation of this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An award of the costs of litigation, expert witness fees, reasonable attorney’s fees, and noneconomic damages provided that damages shall be limited to the recovery of damages directly resulting from injury or loss caused by each violation of this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any employer who complies with the provisions of this section shall be without liability from all civil actions arising from any drug testing program or procedure performed in compliance with this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Pursuant to any claim alleging a violation of this section, including a claim under this section where it is alleged that an employer’s action with respect to a person was based on an incorrect test result, there shall be a rebuttable presumption that the test was valid if the employer complied with the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">No cause of action shall arise in favor of any person based upon the failure of an employer to establish a program or policy for drug testing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">FEDERAL COMPLIANCE.<EmDash />The drug-testing procedures provided in this section do not apply where the specific work performed requires employees or job applicants to be subject to drug testing pursuant to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Federal regulations that specifically preempt state and local regulation of drug testing with respect to such employees and job applicants;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Federal regulations or requirements enacted or implemented in connection with the operation of federally regulated facilities;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Federal contracts where the drug testing is conducted for safety, or protection of sensitive or proprietary data or national security; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">State agency rules that adopt federal regulations applicable to the interstate component of a federally regulated activity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">LICENSE FEE.<EmDash />Fees from licensure of drug-testing laboratories shall be sufficient to carry out the responsibilities of the Agency for Health Care Administration for the regulation of drug-testing laboratories. In accordance with s. 408.805, applicants and licensees shall pay a fee for each license application submitted under this part, part II of chapter 408, and applicable rules. The fee shall be not less than $16,000 or more than $20,000 per biennium and shall be established by rule.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 89-173; s. 1, ch. 90-238; s. 25, ch. 90-360; s. 1, ch. 91-201; s. 6, ch. 91-279; s. 4, ch. 91-429; s. 40, ch. 92-279; s. 55, ch. 92-326; s. 7, ch. 93-129; s. 2, ch. 95-119; s. 680, ch. 95-147; s. 1, ch. 96-289; s. 32, ch. 96-406; s. 7, ch. 98-136; ss. 5, 71, ch. 98-171; s. 53, ch. 2000-349; s. 25, ch. 2001-53; s. 2, ch. 2001-67; s. 148, ch. 2001-277; s. 37, ch. 2004-267; s. 11, ch. 2006-1; s. 7, ch. 2007-217; s. 1, ch. 2007-230; s. 1, ch. 2012-8.</History>
+</Section>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.4754" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Ethics requirements for investment advisers and managers and members of the Investment Advisory Council.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The intent of this section is to promote independence and the avoidance of conflicts and improper influence by certain investment advisers and managers without creating unnecessary barriers to the board performing its investment duties consistent with its fiduciary standards, investment performance, and business relationships.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A contract under which an investment adviser or manager has been retained to exercise investment authority on behalf of the board for direct holdings shall require that the investment adviser or manager abide by a standard of conduct pursuant to s. 215.4755. Any such contract may be terminated by the board if the investment adviser or manager violates such standard of conduct.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An Investment Advisory Council member or any business organization or any affiliate thereof that is owned by or employs such member may not directly or indirectly contract with or provide any services for the investment of trust funds invested by the board during the time of such member’s service on the council or for 2 years thereafter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 2010-180.</History>
+</Section>

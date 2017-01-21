@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0938.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Additional Court Cost Clearing Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All courts created by Art. V of the State Constitution shall, in addition to any fine or other penalty, require every person convicted for violation of a state penal or criminal statute or convicted for violation of a municipal or county ordinance to pay $3 as a court cost. Any person whose adjudication is withheld pursuant to the provisions of s. 318.14(9) or (10) shall also be liable for payment of such cost. In addition, $3 from every bond estreature or forfeited bail bond related to such penal statutes or penal ordinances shall be remitted to the Department of Revenue as described in this subsection. However, no such assessment may be made against any person convicted for violation of any state statute, municipal ordinance, or county ordinance relating to the parking of vehicles.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All costs collected by the courts pursuant to this subsection shall be remitted to the Department of Revenue in accordance with administrative rules adopted by the executive director of the Department of Revenue for deposit in the Additional Court Cost Clearing Trust Fund. These funds and the funds deposited in the Additional Court Cost Clearing Trust Fund pursuant to s. 318.21(2)(c) shall be distributed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Ninety-two percent to the Department of Law Enforcement Criminal Justice Standards and Training Trust Fund.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Six and three-tenths percent to the Department of Law Enforcement Operating Trust Fund for the Criminal Justice Grant Program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">One and seven-tenths percent to the Department of Children and Family Services Domestic Violence Trust Fund for the domestic violence program pursuant to s. 39.903(1).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All funds in the Department of Law Enforcement Criminal Justice Standards and Training Trust Fund shall be disbursed only in compliance with s. 943.25(8).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as provided by s. 938.15 and notwithstanding any other provision of law, no funds collected and deposited pursuant to this section or s. 943.25 shall be expended unless specifically appropriated by the Legislature.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 74-386; s. 1, ch. 77-119; s. 1, ch. 77-174; s. 2, ch. 78-347; s. 189, ch. 79-164; s. 144, ch. 79-190; s. 13, ch. 80-71; s. 17, ch. 81-24; s. 81, ch. 81-167; s. 85, ch. 83-55; s. 8, ch. 83-259; s. 20, ch. 84-258; s. 11, ch. 85-224; s. 6, ch. 85-250; s. 11, ch. 86-154; s. 16, ch. 86-187; s. 2, ch. 86-286; ss. 3, 5, 6, ch. 87-186; s. 5, ch. 91-429; s. 42, ch. 93-120; s. 17, ch. 93-252; s. 9, ch. 95-408; s. 12, ch. 97-225; s. 3, ch. 97-271; ss. 39, 40, ch. 2000-171; s. 19, ch. 2001-122; s. 1, ch. 2001-184; s. 3, ch. 2001-232; ss. 29, 30, 54, ch. 2001-254; s. 18, ch. 2002-55; ss. 76, 77, ch. 2002-402; s. 8, ch. 2003-400; s. 122, ch. 2003-402; s. 12, ch. 2011-52; s. 16, ch. 2012-147.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 943.25(3).</Text>
+	</Note>
+</Section>

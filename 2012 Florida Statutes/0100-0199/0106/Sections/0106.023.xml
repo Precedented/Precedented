@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.023" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Statement of candidate.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each candidate must file a statement with the qualifying officer within 10 days after filing the appointment of campaign treasurer and designation of campaign depository, stating that the candidate has read and understands the requirements of this chapter. Such statement shall be provided by the filing officer and shall be in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">STATEMENT OF CANDIDATE</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">I, <HorizontalRule Type="Fixed" />, candidate for the office of <HorizontalRule Type="Fixed" />, have been provided access to read and understand the requirements of Chapter 106, Florida Statutes.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Signature of candidate)</Directions><FlushRight /><Directions xml:space="preserve">(Date)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Willful failure to file this form is a violation of ss. 106.19(1)(c) and 106.25(3), F.S.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The execution and filing of the statement of candidate does not in and of itself create a presumption that any violation of this chapter or chapter 104 is a willful violation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 90-315; s. 638, ch. 95-147; s. 15, ch. 2004-252; s. 15, ch. 2008-4; s. 55, ch. 2011-40.</History>
+</Section>

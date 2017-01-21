@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.2041" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Simultaneous proceedings in another state.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state may exercise jurisdiction to establish a support order if the petition or comparable pleading is filed after a petition or comparable pleading is filed in another state only if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The petition or comparable pleading in this state is filed before the expiration of the time allowed in the other state for filing a responsive pleading challenging the exercise of jurisdiction by the other state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The contesting party timely challenges the exercise of jurisdiction in the other state; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If relevant, this state is the home state of the child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state may not exercise jurisdiction to establish a support order if the petition or comparable pleading is filed before a petition or comparable pleading is filed in another state if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The petition or comparable pleading in the other state is filed before the expiration of the time allowed in this state for filing a responsive pleading challenging the exercise of jurisdiction by this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The contesting party timely challenges the exercise of jurisdiction in this state; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If relevant, the other state is the home state of the child.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 96-189; s. 8, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 8, ch. 2011-92, amended s. 88.2041, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.2041 Simultaneous proceedings in another state.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) A tribunal of this state may exercise jurisdiction to establish a support order if the petition or comparable pleading is filed after a petition or comparable pleading is filed in another state or a foreign country only if:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The petition or comparable pleading in this state is filed before the expiration of the time allowed in the other state or the foreign country for filing a responsive pleading challenging the exercise of jurisdiction by the other state or the foreign country;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The contesting party timely challenges the exercise of jurisdiction in the other state or the foreign country; and</Text>
+		<Text xml:space="preserve" Style="Indent">(c) If relevant, this state is the home state of the child.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) A tribunal of this state may not exercise jurisdiction to establish a support order if the petition or comparable pleading is filed before a petition or comparable pleading is filed in another state or a foreign country if:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The petition or comparable pleading in the other state or the foreign country is filed before the expiration of the time allowed in this state for filing a responsive pleading challenging the exercise of jurisdiction by this state;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The contesting party timely challenges the exercise of jurisdiction in this state; and</Text>
+		<Text xml:space="preserve" Style="Indent">(c) If relevant, the other state or the foreign country is the home state of the child.</Text>
+	</Note>
+</Section>

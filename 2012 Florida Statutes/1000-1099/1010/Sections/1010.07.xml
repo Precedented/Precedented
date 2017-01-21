@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1010.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Bonds or insurance required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each district school board, Florida College System institution board of trustees, and university board of trustees shall ensure that each official and employee responsible for handling, expending, or authorizing the expenditure of funds shall be appropriately bonded or insured to protect the board and the funds involved.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Contractors paid from school district or Florida College System institution funds shall give bond for the faithful performance of their contracts in such amount and for such purposes as prescribed by s. 255.05 or by rules of the State Board of Education relating to the type of contract involved. It shall be the duty of the district school board or Florida College System institution board of trustees to require from construction contractors a bond adequate to protect the board and the board’s funds involved.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Contractors paid from university funds shall give bond for the faithful performance of their contracts in such amount and for such purposes as prescribed by s. 255.05 or by regulations of the Board of Governors relating to the type of contract involved. It shall be the duty of the university board of trustees to require from construction contractors a bond adequate to protect the board and the board’s funds involved.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 532, ch. 2002-387; s. 123, ch. 2003-1; s. 146, ch. 2007-217; s. 154, ch. 2011-5; s. 22, ch. 2011-177.</History>
+</Section>

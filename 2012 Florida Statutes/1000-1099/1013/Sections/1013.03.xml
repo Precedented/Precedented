@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1013.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Functions of the department and the Board of Governors.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The functions of the Department of Education as it pertains to educational facilities of school districts and Florida College System institutions and of the Board of Governors as it pertains to educational facilities of state universities shall include, but not be limited to, the following:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Establish recommended minimum and maximum square footage standards for different functions and areas and procedures for determining the gross square footage for each educational facility to be funded in whole or in part by the state, including public broadcasting stations but excluding postsecondary special purpose laboratory space. The gross square footage determination standards may be exceeded when the core facility space of an educational facility is constructed or renovated to accommodate the future addition of classrooms to meet projected increases in student enrollment. The department and the Board of Governors shall encourage multiple use of facilities and spaces in educational plants.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Establish, for the purpose of determining need, equitably uniform utilization standards for all types of like space, regardless of the level of education. These standards shall also establish, for postsecondary education classrooms, a minimum room utilization rate of 40 hours per week and a minimum station utilization rate of 60 percent. These rates shall be subject to increase based on national norms for utilization of postsecondary education classrooms.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Require boards to submit other educational plant inventories data and statistical data or information relevant to construction, capital improvements, and related costs.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Require each board and other appropriate agencies to submit complete and accurate financial data as to the amounts of funds from all sources that are available and spent for construction and capital improvements. The commissioner shall prescribe the format and the date for the submission of this data and any other educational facilities data. If any district does not submit the required educational facilities fiscal data by the prescribed date, the Commissioner of Education shall notify the district school board of this fact and, if appropriate action is not taken to immediately submit the required report, the district school board shall be directed to proceed pursuant to s. 1001.42(13)(b). If any Florida College System institution or university does not submit the required educational facilities fiscal data by the prescribed date, the same policy prescribed in this subsection for school districts shall be implemented.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Administer, under the supervision of the Commissioner of Education, the Public Education Capital Outlay and Debt Service Trust Fund and the School District and Community College District Capital Outlay and Debt Service Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Develop, review, update, revise, and recommend a mandatory portion of the Florida Building Code for educational facilities construction and capital improvement by Florida College System institution boards and district school boards.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Provide training, technical assistance, and building code interpretation for requirements of the mandatory Florida Building Code for the educational facilities construction and capital improvement programs of the Florida College System institution boards and district school boards and, upon request, approve phase III construction documents for remodeling, renovation, or new construction of educational plants or ancillary facilities, except that university boards of trustees shall approve specifications and construction documents for their respective institutions pursuant to guidelines of the Board of Governors. The Department of Management Services may, upon request, provide similar services for the Florida School for the Deaf and the Blind and shall use the Florida Building Code and the Florida Fire Prevention Code.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Provide minimum criteria, procedures, and training to boards to conduct educational plant surveys and document the determination of future needs.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Make available to boards technical assistance, awareness training, and research and technical publications relating to lifesafety, casualty, sanitation, environmental, maintenance, and custodial issues; and, as needed, technical assistance for survey, planning, design, construction, operation, and evaluation of educational and ancillary facilities and plants, facilities administrative procedures review, and training for new administrators.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Review and validate surveys proposed or amended by the boards and recommend to the Commissioner of Education, or the Chancellor of the State University System, as appropriate, for approval, surveys that meet the requirements of this chapter.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The term “validate” as applied to surveys by school districts means to review inventory data as submitted to the department by district school boards; provide for review and inspection, where required, of student stations and aggregate square feet of inventory changed from satisfactory to unsatisfactory or changed from unsatisfactory to satisfactory; compare new school inventory to allocation limits provided by this chapter; review cost projections for conformity with cost limits set by s. 1013.64(6); compare total capital outlay full-time equivalent enrollment projections in the survey with the department’s projections; review facilities lists to verify that student station and auxiliary facility space allocations do not exceed the limits provided by this chapter and related rules; review and confirm the application of uniform facility utilization factors, where provided by this chapter or related rules; utilize the documentation of programs offered per site, as submitted by the board, to analyze facility needs; confirm that need projections for career and adult educational programs comply with needs documented by the Department of Education; and confirm the assignment of full-time student stations to all space except auxiliary facilities, which, for purposes of exemption from student station assignment, include the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Cafeterias.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Multipurpose dining areas.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Media centers.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Auditoriums.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Administration.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Elementary, middle, and high school resource rooms, up to the number of such rooms recommended for the applicable occupant and space design capacity of the educational plant in the State Requirements for Educational Facilities, beyond which student stations must be assigned.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Elementary school skills labs, up to the number of such rooms recommended for the applicable occupant and space design capacity of the educational plant in the State Requirements for Educational Facilities, beyond which student stations must be assigned.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Elementary school art and music rooms.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The Commissioner of Education may grant a waiver from the requirements of this subparagraph if a district school board determines that such waiver will make possible a substantial savings of funds or will be advantageous to the welfare of the educational system. The district school board shall present a full statement to the commissioner which sets forth the facts that warrant the waiver. If the commissioner denies a request for a waiver, the district school board may appeal such decision to the State Board of Education.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The term “validate” as applied to surveys by Florida College System institutions and universities means to review and document the approval of each new site and official designation, where applicable; review the inventory database as submitted by each board to the department, including noncareer, and total capital outlay full-time equivalent enrollment projections per site and per college; provide for the review and inspection, where required, of student stations and aggregate square feet of space changed from satisfactory to unsatisfactory; utilize and review the documentation of programs offered per site submitted by the boards as accurate for analysis of space requirements and needs; confirm that needs projected for career and adult educational programs comply with needs documented by the Department of Education; compare new facility inventory to allocations limits as provided in this chapter; review cost projections for conformity with state averages or limits designated by this chapter; compare student enrollment projections in the survey to the department’s projections; review facilities lists to verify that area allocations and space factors for generating space needs do not exceed the limits as provided by this chapter and related rules; confirm the application of facility utilization factors as provided by this chapter and related rules; and review, as submitted, documentation of how survey recommendations will implement the detail of current campus master plans and integrate with local comprehensive plans and development regulations.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Recommend priority of projects to be funded.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Prepare the commissioner’s comprehensive fixed capital outlay legislative budget request and provide annually an estimate of the funds available for developing required 3-year priority lists. This amount shall be based upon the average percentage for the 5 prior years of funds appropriated by the Legislature for fixed capital outlay to each level of public education: public schools, Florida College System institutions, and universities.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Perform any other functions that may be involved in educational facilities construction and capital improvement which shall ensure that the intent of the Legislature is implemented.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 799, ch. 2002-387; s. 17, ch. 2003-391; s. 135, ch. 2004-357; s. 168, ch. 2007-217; s. 35, ch. 2008-108; s. 201, ch. 2011-5; s. 18, ch. 2012-133.</History>
+</Section>

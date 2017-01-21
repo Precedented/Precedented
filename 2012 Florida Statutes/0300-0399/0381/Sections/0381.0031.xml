@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0031" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Epidemiological research; report of diseases of public health significance to department.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may conduct studies concerning the epidemiology of diseases of public health significance affecting people in Florida.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any practitioner licensed in this state to practice medicine, osteopathic medicine, chiropractic medicine, naturopathy, or veterinary medicine; any hospital licensed under part I of chapter 395; or any laboratory licensed under chapter 483 that diagnoses or suspects the existence of a disease of public health significance shall immediately report the fact to the Department of Health.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An animal control officer operating under s. 828.27, a wildlife officer operating under s. 379.3311, or an animal disease laboratory operating under s. 585.61 shall report knowledge of any animal bite, diagnosis of disease in an animal, or suspicion of a grouping or clustering of animals having similar disease, symptoms, or syndromes that may indicate the presence of a threat to humans.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall periodically issue a list of infectious or noninfectious diseases determined by it to be a threat to public health and therefore of significance to public health and shall furnish a copy of the list to the practitioners listed in subsection (2). The list shall be based on the diseases recommended to be nationally notifiable by the Council of State and Territorial Epidemiologists and the Centers for Disease Control and Prevention. The department may expand upon the list if a disease emerges for which regular, frequent, and timely information regarding individual cases is considered necessary for the prevention and control of a disease specific to Florida.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Reports required by this section must be in accordance with methods specified by rule of the department.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Information submitted in reports required by this section is confidential, exempt from the provisions of s. 119.07(1), and is to be made public only when necessary to public health. A report so submitted is not a violation of the confidential relationship between practitioner and patient.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The department may obtain and inspect copies of medical records, records of laboratory tests, and other medical-related information for reported cases of diseases of public health significance described in subsection (4). The department shall examine the records of a person who has a disease of public health significance only for purposes of preventing and eliminating outbreaks of disease and making epidemiological investigations of reported cases of diseases of public health significance, notwithstanding any other law to the contrary. Health care practitioners, licensed health care facilities, and laboratories shall allow the department to inspect and obtain copies of such medical records and medical-related information, notwithstanding any other law to the contrary. Release of medical records and medical-related information to the department by a health care practitioner, licensed health care facility, or laboratory, or by an authorized employee or agent thereof, does not constitute a violation of the confidentiality of patient records. A health care practitioner, health care facility, or laboratory, or any employee or agent thereof, may not be held liable in any manner for damages and is not subject to criminal penalties for providing patient records to the department as authorized by this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules related to reporting diseases of significance to public health, which must specify the information to be included in the report, who is required to report, the method and time period for reporting, requirements for enforcement, and required followup activities by the department which are necessary to protect public health.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">This section does not affect s. 384.25.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 29834, 1955; ss. 19, 35, ch. 69-106; s. 67, ch. 77-147; s. 4, ch. 89-311; s. 2, ch. 90-347; s. 15, ch. 91-297; s. 2, ch. 95-188; s. 184, ch. 96-406; s. 175, ch. 97-101; s. 4, ch. 98-151; s. 252, ch. 98-166; s. 8, ch. 2000-367; s. 1, ch. 2012-173; s. 15, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.231.</Text>
+	</Note>
+</Section>

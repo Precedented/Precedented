@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXIX">
+	<ChapterNumber>400</ChapterNumber>
+	<ChapterName xml:space="preserve">Nursing homes and related health care facilities</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Long-term care facilities:<NewLine />ombudsman program</PartTitle>
+		<Section Number="0400.0060" />
+		<Section Number="0400.0061" />
+		<Section Number="0400.0063" />
+		<Section Number="0400.0065" />
+		<Section Number="0400.0067" />
+		<Section Number="0400.0069" />
+		<Section Number="0400.0070" />
+		<Section Number="0400.0071" />
+		<Section Number="0400.0073" />
+		<Section Number="0400.0074" />
+		<Section Number="0400.0075" />
+		<Section Number="0400.0077" />
+		<Section Number="0400.0078" />
+		<Section Number="0400.0079" />
+		<Section Number="0400.0081" />
+		<Section Number="0400.0083" />
+		<Section Number="0400.0087" />
+		<Section Number="0400.0089" />
+		<Section Number="0400.0091" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Nursing homes</PartTitle>
+		<Section Number="0400.011" />
+		<Section Number="0400.021" />
+		<Section Number="0400.022" />
+		<Section Number="0400.023" />
+		<Section Number="0400.0233" />
+		<Section Number="0400.0234" />
+		<Section Number="0400.0235" />
+		<Section Number="0400.0236" />
+		<Section Number="0400.0237" />
+		<Section Number="0400.0238" />
+		<Section Number="0400.0239" />
+		<Section Number="0400.0255" />
+		<Section Number="0400.051" />
+		<Section Number="0400.062" />
+		<Section Number="0400.0625" />
+		<Section Number="0400.063" />
+		<Section Number="0400.071" />
+		<Section Number="0400.0712" />
+		<Section Number="0400.102" />
+		<Section Number="0400.111" />
+		<Section Number="0400.118" />
+		<Section Number="0400.1183" />
+		<Section Number="0400.119" />
+		<Section Number="0400.121" />
+		<Section Number="0400.126" />
+		<Section Number="0400.141" />
+		<Section Number="0400.1413" />
+		<Section Number="0400.1415" />
+		<Section Number="0400.142" />
+		<Section Number="0400.145" />
+		<Section Number="0400.147" />
+		<Section Number="0400.148" />
+		<Section Number="0400.151" />
+		<Section Number="0400.162" />
+		<Section Number="0400.165" />
+		<Section Number="0400.17" />
+		<Section Number="0400.172" />
+		<Section Number="0400.175" />
+		<Section Number="0400.1755" />
+		<Section Number="0400.176" />
+		<Section Number="0400.179" />
+		<Section Number="0400.18" />
+		<Section Number="0400.19" />
+		<Section Number="0400.191" />
+		<Section Number="0400.20" />
+		<Section Number="0400.211" />
+		<Section Number="0400.215" />
+		<Section Number="0400.23" />
+		<Section Number="0400.232" />
+		<Section Number="0400.235" />
+		<Section Number="0400.241" />
+		<Section Number="0400.25" />
+		<Section Number="0400.275" />
+		<Section Number="0400.33" />
+		<Section Number="0400.332" />
+		<Section Number="0400.334" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Home health agencies</PartTitle>
+		<Section Number="0400.461" />
+		<Section Number="0400.462" />
+		<Section Number="0400.464" />
+		<Section Number="0400.471" />
+		<Section Number="0400.474" />
+		<Section Number="0400.476" />
+		<Section Number="0400.4785" />
+		<Section Number="0400.484" />
+		<Section Number="0400.487" />
+		<Section Number="0400.488" />
+		<Section Number="0400.491" />
+		<Section Number="0400.492" />
+		<Section Number="0400.494" />
+		<Section Number="0400.497" />
+		<Section Number="0400.506" />
+		<Section Number="0400.509" />
+		<Section Number="0400.512" />
+		<Section Number="0400.518" />
+		<Section Number="0400.5185" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Hospices</PartTitle>
+		<Section Number="0400.6005" />
+		<Section Number="0400.601" />
+		<Section Number="0400.602" />
+		<Section Number="0400.6045" />
+		<Section Number="0400.605" />
+		<Section Number="0400.60501" />
+		<Section Number="0400.6051" />
+		<Section Number="0400.606" />
+		<Section Number="0400.6065" />
+		<Section Number="0400.607" />
+		<Section Number="0400.6085" />
+		<Section Number="0400.609" />
+		<Section Number="0400.6095" />
+		<Section Number="0400.610" />
+		<Section Number="0400.6105" />
+		<Section Number="0400.611" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Intermediate, special services, and<NewLine />transitional living facilities</PartTitle>
+		<Section Number="0400.701" />
+		<Section Number="0400.801" />
+		<Section Number="0400.805" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Prescribed pediatric<NewLine />extended care centers</PartTitle>
+		<Section Number="0400.901" />
+		<Section Number="0400.902" />
+		<Section Number="0400.903" />
+		<Section Number="0400.905" />
+		<Section Number="0400.906" />
+		<Section Number="0400.9065" />
+		<Section Number="0400.907" />
+		<Section Number="0400.908" />
+		<Section Number="0400.912" />
+		<Section Number="0400.914" />
+		<Section Number="0400.915" />
+		<Section Number="0400.916" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Home medical equipment providers</PartTitle>
+		<Section Number="0400.92" />
+		<Section Number="0400.925" />
+		<Section Number="0400.93" />
+		<Section Number="0400.931" />
+		<Section Number="0400.932" />
+		<Section Number="0400.933" />
+		<Section Number="0400.934" />
+		<Section Number="0400.935" />
+		<Section Number="0400.94" />
+		<Section Number="0400.945" />
+		<Section Number="0400.953" />
+		<Section Number="0400.957" />
+	</Part>
+	<Part PartNumber="VIII">
+		<PartNumber>PART VIII</PartNumber>
+		<PartTitle xml:space="preserve">Intermediate care facilities for<NewLine />developmentally disabled persons</PartTitle>
+		<Section Number="0400.960" />
+		<Section Number="0400.962" />
+		<Section Number="0400.964" />
+		<Section Number="0400.966" />
+		<Section Number="0400.967" />
+		<Section Number="0400.968" />
+		<Section Number="0400.9685" />
+		<Section Number="0400.969" />
+	</Part>
+	<Part PartNumber="IX">
+		<PartNumber>PART IX</PartNumber>
+		<PartTitle xml:space="preserve">Health care services pools</PartTitle>
+		<Section Number="0400.980" />
+	</Part>
+	<Part PartNumber="X">
+		<PartNumber>PART X</PartNumber>
+		<PartTitle xml:space="preserve">Health Care Clinic Act</PartTitle>
+		<Section Number="0400.990" />
+		<Section Number="0400.9905" />
+		<Section Number="0400.991" />
+		<Section Number="0400.9915" />
+		<Section Number="0400.9925" />
+		<Section Number="0400.993" />
+		<Section Number="0400.9935" />
+		<Section Number="0400.995" />
+	</Part>
+</Chapter>

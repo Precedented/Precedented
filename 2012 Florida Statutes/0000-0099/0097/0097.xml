@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="IX">
+	<TitleNumber>TITLE IX</TitleNumber>
+	<TitleName xml:space="preserve">ELECTORS AND ELECTIONS</TitleName>
+	<ChapterNumber>97</ChapterNumber>
+	<ChapterName xml:space="preserve">Qualification and registration of electors</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0097.011" />
+		<Section Number="0097.0115" />
+		<Section Number="0097.012" />
+		<Section Number="0097.021" />
+		<Section Number="0097.023" />
+		<Section Number="0097.025" />
+		<Section Number="0097.026" />
+		<Section Number="0097.028" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Florida Voter Registration Act</PartTitle>
+		<Section Number="0097.032" />
+		<Section Number="0097.041" />
+		<Section Number="0097.051" />
+		<Section Number="0097.052" />
+		<Section Number="0097.053" />
+		<Section Number="0097.0535" />
+		<Section Number="0097.055" />
+		<Section Number="0097.0555" />
+		<Section Number="0097.057" />
+		<Section Number="0097.0575" />
+		<Section Number="0097.058" />
+		<Section Number="0097.0583" />
+		<Section Number="0097.05831" />
+		<Section Number="0097.0585" />
+		<Section Number="0097.061" />
+		<Section Number="0097.071" />
+		<Section Number="0097.073" />
+		<Section Number="0097.1031" />
+		<Section Number="0097.105" />
+	</Part>
+</Chapter>

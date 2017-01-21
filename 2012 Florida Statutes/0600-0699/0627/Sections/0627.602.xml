@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.602" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Scope, format of policy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each health insurance policy delivered or issued for delivery to any person in this state must comply with all applicable provisions of this code and all of the following requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The monetary and other considerations shall be expressed in the policy.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The time when the insurance takes effect and terminates shall be expressed in the policy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The policy may purport to insure only one person, except that upon the application of an adult member of a family, who is deemed to be the policyholder, a policy may insure, either originally or by subsequent amendment, any eligible members of that family, including husband, wife, any children or any person dependent upon the policyholder. If an insurer offers coverage for dependent children of the policyholder, such policy must comply with the provisions of s. 627.6562.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The style, arrangement, and overall appearance of the policy may not give any undue prominence to any portion of the text. Every printed portion of the text of the policy and of any endorsements or attached papers shall be plainly printed in lightfaced type of a style in general use, the size of which is uniform and is not less than 10 points with a lowercase, unspaced alphabet length of not less than 120 points. As used in this paragraph, “text” includes all printed matter except the name and address of the insurer, the name or title of the policy, the brief description of the coverage provided, if any, and captions and subcaptions.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The exceptions and reductions of indemnity shall be set forth in the policy and, other than those contained in ss. 627.606-627.629, shall be printed, at the insurer’s option, either included with the benefit provisions to which they apply, or under an appropriate caption such as “Exceptions,” or “Exceptions and Reductions.” However, if an exception or reduction specifically applies only to a particular benefit of the policy, a statement of such exception or reduction shall be included with the benefit provision to which it applies.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Each form, including outlines of coverage, applications, riders, and endorsements, shall be identified by a form identification number in the lower left-hand corner of the first page of the form.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The policy may not contain any provision purporting to make any portion of the charter, rules, constitution, or bylaws of the insurer a part of the policy unless the portion is set forth in full in the policy, except in the case of the incorporation of, or reference to, a statement of rates, statement of classification of risks, or short-rate table filed with the office.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Section 641.312 and the provisions of the Employee Retirement Income Security Act of 1974, as implemented by 29 C.F.R. s. 2560.503-1, relating to internal grievances. This paragraph does not apply to a health insurance policy that is subject to the subscriber assistance program under s. 408.7056 or to the types of benefits or coverages provided under s. 627.6561(5)(b)-(e) issued in any market.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The office may require any health insurance policy or certificate containing a provision commonly known as a “deductible provision” to have printed or stamped on such policy or certificate: “This policy or certificate contains a deductible provision.”; or appropriate words of similar import approved by the office. The statement shall appear on the first page of the policy or certificate in at least 18-point type and may be printed or stamped either as an overprint or by means of a rubber stamp impression.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 545, ch. 59-205; s. 1, ch. 61-423; ss. 13, 35, ch. 69-106; s. 3, ch. 76-168; s. 57, ch. 77-121; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 450, 497, 809(2nd), ch. 82-243; s. 79, ch. 82-386; s. 101, ch. 83-216; ss. 121, 149, ch. 92-33; s. 114, ch. 92-318; s. 1141, ch. 2003-261; s. 8, ch. 2008-32; s. 11, ch. 2012-44.</History>
+</Section>

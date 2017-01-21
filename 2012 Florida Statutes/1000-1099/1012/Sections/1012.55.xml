@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1012.55" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Positions for which certificates required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall classify school services, designate the certification subject areas, establish competencies, including the use of technology to enhance student learning, and certification requirements for all school-based personnel, and adopt rules in accordance with which the professional, temporary, and part-time certificates shall be issued by the Department of Education to applicants who meet the standards prescribed by such rules for their class of service. Each person employed or occupying a position as school supervisor, school principal, teacher, library media specialist, school counselor, athletic coach, or other position in which the employee serves in an instructional capacity, in any public school of any district of this state shall hold the certificate required by law and by rules of the State Board of Education in fulfilling the requirements of the law for the type of service rendered. Such positions include personnel providing direct instruction to students through a virtual environment or through a blended virtual and physical environment. The Department of Education shall identify appropriate educator certification for the instruction of specified courses in an annual publication of a directory of course code numbers for all programs and courses that are funded through the Florida Education Finance Program. However, the state board shall adopt rules authorizing district school boards to employ selected noncertificated personnel to provide instructional services in the individuals’ fields of specialty or to assist instructional staff members as education paraprofessionals.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each person who is employed and renders service as an athletic coach in any public school in any district of this state shall hold a valid temporary or professional certificate or an athletic coaching certificate. The athletic coaching certificate may be used for either part-time or full-time positions. The provisions of this subsection do not apply to any athletic coach who voluntarily renders service and who is not employed by any public school district of this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Completion of a sports safety course shall count for 6 hours of required school district inservice instruction for athletic coaching certification if the course is approved by the Florida High School Athletic Association Board of Directors and meets the following requirements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The course consists of at least eight modules.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The course immediately provides an individual with a “merit” certificate at the time of successful completion.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The course is delivered through hands-on and online teaching methods.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The course is a hands-on course taught by either a state-licensed athletic trainer who holds a current certificate from the Board of Certification or a member of the American Academy of Orthopaedic Surgeons.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Hands-on course material is less than 120 pages.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The course covers sports safety specifically, excluding coaching principles and procedures for cardiopulmonary resuscitation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The course is authored or approved by at least 10 health care professionals, including doctors of medicine, doctors of osteopathy, registered nurses, physical therapists, and certified athletic trainers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The course is revised and reviewed for updates at least once every 30 months.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The course is available to the general public for a retail price under $50.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Each course examination is automated and taken online with a score of 80 percent or better for successful completion.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each person employed as a school nurse shall hold a license to practice nursing in the state, and each person employed as a school physician shall hold a license to practice medicine in the state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A commissioned or noncommissioned military officer who is an instructor of junior reserve officer training shall be exempt from requirements for teacher certification, except for the background screening pursuant to s. 1012.32, if he or she meets the following qualifications:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is retired from active military duty, pursuant to chapter 102 of Title 10 U.S.C.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Satisfies criteria established by the appropriate military service for certification by the service as a junior reserve officer training instructor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has an exemplary military record.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If such instructor is assigned instructional duties other than junior reserve officer training, he or she shall hold the certificate required by law and rules of the state board for the type of service rendered.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 727, ch. 2002-387; s. 15, ch. 2004-295; s. 1, ch. 2009-88; s. 34, ch. 2010-154.</History>
+</Section>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.1011" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this act:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Child” means an individual, whether over or under the age of majority, who is or is alleged to be owed a duty of support by the individual’s parent or who is or is alleged to be the beneficiary of a support order directed to the parent.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Child support order” means a support order for a child, including a child who has attained the age of majority under the law of the issuing state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Duty of support” means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Home state” means the state in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the state in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month or other period.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Income” includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of this state.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Income-withholding order” means an order or other legal process directed to an obligor’s employer or other debtor, as defined by the income deduction law of this state, or payor as defined by s. 61.046, to withhold support from the income of the obligor.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Initiating state” means a state from which a proceeding is forwarded or in which a proceeding is filed for forwarding to a responding state under this act or a law or procedure substantially similar to this act, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Initiating tribunal” means the authorized tribunal in an initiating state.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Issuing state” means the state in which a tribunal issues a support order or renders a judgment determining parentage.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Issuing tribunal” means the tribunal that issues a support order or renders a judgment determining parentage.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Law” includes decisional and statutory law and rules and regulations having the force of law.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Obligee” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individual to whom a duty of support is or is alleged to be owed or in whose favor a support order has been issued or a judgment determining parentage has been rendered;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A state or political subdivision to which the rights under a duty of support or support order have been assigned or which has independent claims based on financial assistance provided to an individual obligee; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An individual seeking a judgment determining parentage of the individual’s child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Obligor” means an individual, or the estate of a decedent:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Who owes or is alleged to owe a duty of support;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Who is alleged but has not been adjudicated to be a parent of a child; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Who is liable under a support order.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Register” means to record or file a support order or judgment determining parentage in the Registry of Foreign Support Orders of the circuit court, or other appropriate location for the recording or filing of foreign judgments generally or foreign support orders specifically.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Registering tribunal” means a tribunal in which a support order is registered.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Responding state” means a state in which a proceeding is filed or to which a proceeding is forwarded for filing from an initiating state under this act or a law or procedure substantially similar to this act, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Responding tribunal” means the authorized tribunal in a responding state.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Spousal-support order” means a support order for a spouse or former spouse of the obligor.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An Indian tribe; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A foreign jurisdiction that has enacted a law or established procedures for issuance and enforcement of support orders which are substantially similar to the procedures under this act, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act, as determined by the Attorney General.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Support enforcement agency” means a public official or agency authorized to seek:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Enforcement of support orders or laws relating to the duty of support;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Establishment or modification of child support;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Determination of parentage; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To locate obligors or their assets.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney’s fees, and other relief.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Tribunal” means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 96-189; s. 13, ch. 97-170; s. 1, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 1, ch. 2011-92, amended s. 88.1011, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.1011 Definitions.</Font><EmDash/>As used in this act:</Text>
+		<Text xml:space="preserve" Style="Indent">(1) “Child” means an individual, whether over or under the age of majority, who is or is alleged to be owed a duty of support by the individual’s parent or who is or is alleged to be the beneficiary of a support order directed to the parent.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) “Child support order” means a support order for a child, including a child who has attained the age of majority under the law of the issuing state or foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) “Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, concluded at The Hague on November 23, 2007.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) “Duty of support” means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.</Text>
+		<Text xml:space="preserve" Style="Indent">(5) “Foreign country” means a country, including a political subdivision thereof, other than the United States, that authorizes the issuance of support orders and:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Which has been declared under the law of the United States to be a foreign reciprocating country;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Which has established a reciprocal arrangement for child support with this state as provided in s. 88.3081;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Which has enacted a law or established procedures for the issuance and enforcement of support orders which are substantially similar to the procedures under this act; or</Text>
+		<Text xml:space="preserve" Style="Indent">(d) In which the convention is in force with respect to the United States.</Text>
+		<Text xml:space="preserve" Style="Indent">(6) “Foreign support order” means a support order of a foreign tribunal.</Text>
+		<Text xml:space="preserve" Style="Indent">(7) “Foreign tribunal” means a court, administrative agency, or quasi-judicial entity of a foreign country which is authorized to establish, enforce, or modify support orders or to determine parentage of a child. The term includes a competent authority under the convention.</Text>
+		<Text xml:space="preserve" Style="Indent">(8) “Home state” means the state or foreign country in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the state or foreign country in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month or other period.</Text>
+		<Text xml:space="preserve" Style="Indent">(9) “Income” includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of this state.</Text>
+		<Text xml:space="preserve" Style="Indent">(10) “Income-withholding order” means an order or other legal process directed to an obligor’s employer or other debtor, as defined by the income deduction law of this state, or payor as defined by s. 61.046, to withhold support from the income of the obligor.</Text>
+		<Text xml:space="preserve" Style="Indent">(11) “Initiating tribunal” means the tribunal of a state or foreign country from which a petition or comparable pleading is forwarded or in which a petition or comparable pleading is filed for forwarding to another state or foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(12) “Issuing foreign country” means the foreign country in which a tribunal issues a support order or a judgment determining parentage of a child.</Text>
+		<Text xml:space="preserve" Style="Indent">(13) “Issuing state” means the state in which a tribunal issues a support order or renders a judgment determining parentage of a child.</Text>
+		<Text xml:space="preserve" Style="Indent">(14) “Issuing tribunal” means the tribunal of a state or foreign country that issues a support order or a judgment determining parentage of a child.</Text>
+		<Text xml:space="preserve" Style="Indent">(15) “Law” includes decisional and statutory law and rules and regulations having the force of law.</Text>
+		<Text xml:space="preserve" Style="Indent">(16) “Obligee” means:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) An individual to whom a duty of support is or is alleged to be owed or in whose favor a support order or a judgment determining parentage of a child has been issued;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) A foreign country, state, or political subdivision of a state to which the rights under a duty of support or support order have been assigned or which has independent claims based on financial assistance provided to an individual obligee in place of child support;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) An individual seeking a judgment determining parentage of the individual’s child; or</Text>
+		<Text xml:space="preserve" Style="Indent">(d) A person that is a creditor in a proceeding under part VII of this chapter.</Text>
+		<Text xml:space="preserve" Style="Indent">(17) “Obligor” means an individual, or the estate of a decedent that:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Owes or is alleged to owe a duty of support;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Is alleged but has not been adjudicated to be a parent of a child;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Is liable under a support order; or</Text>
+		<Text xml:space="preserve" Style="Indent">(d) Is a debtor in a proceeding under part VII.</Text>
+		<Text xml:space="preserve" Style="Indent">(18) “Outside this state” means a location in another state or a country other than the United States, whether or not the country is a foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(19) “Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency, or instrumentality or any other legal or commercial entity.</Text>
+		<Text xml:space="preserve" Style="Indent">(20) “Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium that is retrievable in perceivable form.</Text>
+		<Text xml:space="preserve" Style="Indent">(21) “Register” means to record or file in a tribunal of this state a support order or judgment determining parentage of a child issued in another state or a foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(22) “Registering tribunal” means a tribunal in which a support order or judgment determining parentage of a child is registered.</Text>
+		<Text xml:space="preserve" Style="Indent">(23) “Responding state” means a state in which a petition or comparable pleading for support or to determine parentage of a child is filed or to which a petition or comparable pleading is forwarded for filing from another state or a foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(24) “Responding tribunal” means the authorized tribunal in a responding state or a foreign country.</Text>
+		<Text xml:space="preserve" Style="Indent">(25) “Spousal-support order” means a support order for a spouse or former spouse of the obligor.</Text>
+		<Text xml:space="preserve" Style="Indent">(26) “State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession under the jurisdiction of the United States. The term includes an Indian nation or tribe.</Text>
+		<Text xml:space="preserve" Style="Indent">(27) “Support enforcement agency” means a public official, governmental entity, or private agency authorized to:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Seek enforcement of support orders or laws relating to the duty of support;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Seek establishment or modification of child support;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Request determination of parentage of a child;</Text>
+		<Text xml:space="preserve" Style="Indent">(d) Attempt to locate obligors or their assets; or</Text>
+		<Text xml:space="preserve" Style="Indent">(e) Request determination of the controlling child support order.</Text>
+		<Text xml:space="preserve" Style="Indent">(28) “Support order” means a judgment, decree, order, decision, or directive, whether temporary, final, or subject to modification, issued in a state or foreign country for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, retroactive support, or reimbursement for financial assistance provided to an individual obligee in place of child support. The term may include related costs and fees, interest, income withholding, automatic adjustment, reasonable attorney’s fees, and other relief.</Text>
+		<Text xml:space="preserve" Style="Indent">(29) “Tribunal” means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage of a child.</Text>
+	</Note>
+</Section>

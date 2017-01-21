@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.143" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Political advertisements circulated prior to election; requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any political advertisement that is paid for by a candidate, except a write-in candidate, and that is published, displayed, or circulated before, or on the day of, any election must prominently state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Political advertisement paid for and approved by <Directions xml:space="preserve">(name of candidate)</Directions>, <Directions xml:space="preserve">(party affiliation)</Directions>, for <Directions xml:space="preserve">(office sought)</Directions>”; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Paid by <Directions xml:space="preserve">(name of candidate)</Directions>, <Directions xml:space="preserve">(party affiliation)</Directions>, for <Directions xml:space="preserve">(office sought)</Directions>.”</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any political advertisement that is paid for by a write-in candidate and that is published, displayed, or circulated before, or on the day of, any election must prominently state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Political advertisement paid for and approved by <Directions xml:space="preserve">(name of candidate)</Directions>, write-in candidate, for <Directions xml:space="preserve">(office sought)</Directions>”; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Paid by <Directions xml:space="preserve">(name of candidate)</Directions>, write-in candidate, for <Directions xml:space="preserve">(office sought)</Directions>.”</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any other political advertisement published, displayed, or circulated before, or on the day of, any election must prominently:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Be marked “paid political advertisement” or with the abbreviation “pd. pol. adv.”</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">State the name and address of the persons paying for the advertisement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">State whether the advertisement and the cost of production is paid for or provided in kind by or at the expense of the entity publishing, displaying, broadcasting, or circulating the political advertisement.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any political advertisement made pursuant to s. 106.021(3)(d) must prominently state the name and address of the political committee or political party paying for the advertisement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Political advertisements made as in-kind contributions from a political party must prominently state: “Paid political advertisement paid for in-kind by <Directions xml:space="preserve">(name of political party)</Directions>. Approved by <Directions xml:space="preserve">(name of person, party affiliation, and office sought in the political advertisement)</Directions>.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any political advertisement of a candidate running for partisan office shall express the name of the political party of which the candidate is seeking nomination or is the nominee. If the candidate for partisan office is running as a candidate with no party affiliation, any political advertisement of the candidate must state that the candidate has no party affiliation. A political advertisement of a candidate running for nonpartisan office may not state the candidate’s political party affiliation. This section does not prohibit a political advertisement from stating the candidate’s partisan-related experience. A candidate for nonpartisan office is prohibited from campaigning based on party affiliation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any candidate or person on behalf of a candidate to represent that any person or organization supports such candidate, unless the person or organization so represented has given specific approval in writing to the candidate to make such representation. However, this subsection does not apply to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Editorial endorsement by any newspaper, radio or television station, or other recognized news medium.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Publication by a party committee advocating the candidacy of its nominees.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any political advertisement not paid for by a candidate, including those paid for by a political party or affiliated party committee, other than an independent expenditure, offered on behalf of a candidate must be approved in advance by the candidate. Such political advertisement must expressly state that the content of the advertisement was approved by the candidate, unless the political advertisement is published, displayed, or circulated in compliance with subparagraph (1)(a)2., and must state who paid for the advertisement. The candidate shall provide a written statement of authorization to the newspaper, radio station, television station, or other medium for each such advertisement submitted for publication, display, broadcast, or other distribution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who makes an independent expenditure for a political advertisement shall provide a written statement that no candidate has approved the advertisement to the newspaper, radio station, television station, or other medium for each such advertisement submitted for publication, display, broadcast, or other distribution. The advertisement must also contain a statement that no candidate has approved the advertisement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">No political advertisement of a candidate who is not an incumbent of the office for which the candidate is running shall use the word “re-elect.” Additionally, such advertisement must include the word “for” between the candidate’s name and the office for which the candidate is running, in order that incumbency is not implied. This subsection does not apply to bumper stickers or items designed to be worn by a person.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Political advertisements paid for by a political party or an affiliated party committee may use names and abbreviations as registered under s. 103.081 in the disclaimer.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to novelty items having a retail value of $10 or less which support, but do not oppose, a candidate or issue.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any political advertisement which is published, displayed, or produced in a language other than English may provide the information required by this section in the language used in the advertisement.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any campaign message or political advertisement used by a candidate and the candidate’s supporters or by a political committee if the message or advertisement is:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Designed to be worn by a person.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Placed as a paid link on an Internet website, provided the message or advertisement is no more than 200 characters in length and the link directs the user to another Internet website that complies with subsection (1).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Placed as a graphic or picture link where compliance with the requirements of this section is not reasonably practical due to the size of the graphic or picture link and the link directs the user to another Internet website that complies with subsection (1).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Placed at no cost on an Internet website for which there is no cost to post content for public users.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Placed or distributed on an unpaid profile or account which is available to the public without charge or on a social networking Internet website, as long as the source of the message or advertisement is patently clear from the content or format of the message or advertisement. A candidate or political committee may prominently display a statement indicating that the website or account is an official website or account of the candidate or political committee and is approved by the candidate or political committee. A website or account may not be marked as official without prior approval by the candidate or political committee.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Distributed as a text message or other message via Short Message Service, provided the message is no more than 200 characters in length or requires the recipient to sign up or opt in to receive it.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Connected with or included in any software application or accompanying function, provided that the user signs up, opts in, downloads, or otherwise accesses the application from or through a website that complies with subsection (1).</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Sent by a third-party user from or through a campaign or committee’s website, provided the website complies with subsection (1).</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Contained in or distributed through any other technology-related item, service, or device for which compliance with subsection (1) is not reasonably practical due to the size or nature of such item, service, or device as available, or the means of displaying the message or advertisement makes compliance with subsection (1) impracticable.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Any person who willfully violates any provision of this section is subject to the civil penalties prescribed in s. 106.265.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 26870, 1951; s. 1, ch. 61-145; s. 21, ch. 65-379; s. 57, ch. 71-136; s. 30, ch. 73-128; s. 52, ch. 77-175; s. 30, ch. 81-304; s. 16, ch. 89-256; s. 35, ch. 90-315; s. 16, ch. 91-107; s. 646, ch. 95-147; s. 17, ch. 97-13; s. 18, ch. 99-318; s. 5, ch. 2004-252; s. 46, ch. 2007-30; s. 18, ch. 2010-167; ss. 17, 30, ch. 2011-6; s. 66, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 9, ch. 2012-5.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 104.37.</Text>
+	</Note>
+</Section>

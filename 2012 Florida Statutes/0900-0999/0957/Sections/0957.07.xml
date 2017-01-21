@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0957.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Cost-saving requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Management Services may not enter into a contract or series of contracts unless the department determines that the contract or series of contracts in total for the facility will result in a cost savings to the state of at least 7 percent over the public provision of a similar facility. Such cost savings as determined by the Department of Management Services must be based upon the actual costs associated with the construction and operation of similar facilities or services as determined by the Department of Corrections and certified by the Auditor General. The Department of Corrections shall calculate all of the cost components that determine the inmate per diem in correctional facilities of a substantially similar size, type, and location that are operated by the Department of Corrections, including administrative costs associated with central administration. Services that are provided to the Department of Corrections by other governmental agencies at no direct cost to the department shall be assigned an equivalent cost and included in the per diem.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Reasonable projections of payments of any kind to the state or any political subdivision thereof for which the private entity would be liable because of its status as private rather than a public entity, including, but not limited to, corporate income and sales tax payments, shall be included as cost savings in all such determinations. In addition, the costs associated with the appointment and activities of each contract monitor shall be included in such determination.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In counties where the Department of Corrections pays its employees a competitive area differential, the cost for the public provision of a similar correctional facility may include the competitive area differential paid by the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Corrections shall provide a report detailing the state cost to design, finance, acquire, lease, construct, and operate a facility similar to the private correctional facility on a per diem basis. This report shall be provided to the Auditor General in sufficient time that it may be certified to the Department of Management Services to be included in the request for proposals.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">At the request of the Speaker of the House of Representatives or the President of the Senate, the Prison Per-Diem Workgroup shall develop consensus per diem rates for use by the Legislature. The Office of Program Policy Analysis and Government Accountability and the staffs of the appropriations committees of both the Senate and the House of Representatives are the principals of the workgroup. The workgroup may consult with other experts to assist in the development of the consensus per diem rates. All meetings of the workgroup shall be open to the public as provided in chapter 286.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When developing the consensus per diem rates, the workgroup must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Use data provided by the Department of Corrections from the most recent fiscal year to determine per diem costs for the following activities:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Custody and control;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Health services;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Substance abuse programs; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Educational programs;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Include the cost of departmental, regional, institutional, and program administration and any other fixed costs of the department;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Calculate average per diem rates for the following offender populations: adult male, youthful offender male, and female; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Make per diem adjustments, as appropriate, to account for variations in size and location of correctional facilities.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The consensus per diem rates determined by the workgroup may be used to assist the Legislature in determining the level of funding provided to privately operated prisons to meet the 7-percent savings required of private prisons by this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a private vendor chooses not to renew the contract at the appropriated level, the Department of Management Services shall terminate the contract as provided in s. 957.14.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 40, ch. 93-406; s. 5, ch. 94-148; s. 58, ch. 96-312; s. 135, ch. 2001-266; s. 2, ch. 2001-379; s. 15, ch. 2004-248; s. 152, ch. 2005-2; s. 4, ch. 2006-32; s. 49, ch. 2010-117.</History>
+</Section>

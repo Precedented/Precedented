@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0083.803" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 83.801-83.809:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Self-service storage facility” means any real property designed and used for the purpose of renting or leasing individual storage space to tenants who are to have access to such space for the purpose of storing and removing personal property. No individual storage space may be used for residential purposes. A self-service storage facility is not a “warehouse” as that term is used in chapter 677. If an owner issues any warehouse receipt, bill of lading, or other document of title for the personal property stored, the owner and the tenant shall be subject to the provisions of chapter 677, and the provisions of this act shall not apply.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Self-contained storage unit” means any unit not less than 200 cubic feet in size, including, but not limited to, a trailer, box, or other shipping container, which is leased by a tenant primarily for use as storage space whether the unit is located at a facility owned or operated by the owner or at another location designated by the tenant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Owner” means the owner, operator, lessor, or sublessor of a self-service storage facility or self-contained storage unit or his or her agent or any other person authorized by him or her to manage the facility or to receive rent from a tenant under a rental agreement.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Tenant” means a person or the person’s sublessee, successor, or assign entitled to the use of storage space at a self-service storage facility or in a self-contained unit, under a rental agreement, to the exclusion of others.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Rental agreement” means any agreement or lease which establishes or modifies terms, conditions, rules, or any other provisions concerning the use and occupancy of a self-service storage facility or use of a self-contained storage unit.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Last known address” means the street address or post office box address provided by the tenant in the latest rental agreement or in a subsequent written change-of-address notice provided by hand delivery, first-class mail, or e-mail.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 79-404; s. 2, ch. 82-151; s. 2, ch. 92-36; s. 1, ch. 93-238; s. 452, ch. 95-147; s. 1, ch. 2006-4; s. 1, ch. 2012-175.</History>
+</Section>

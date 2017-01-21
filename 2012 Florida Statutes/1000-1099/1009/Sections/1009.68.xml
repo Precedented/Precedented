@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.68" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Minority Medical Education Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created a Florida Minority Medical Education Program to be administered by the Department of Education in accordance with rules established by the State Board of Education. The program shall provide scholarships to enable minority students to pursue a medical education at the University of Florida, the University of South Florida, Florida State University, the University of Miami, or Southeastern University of the Health Sciences, for the purpose of addressing the primary health care needs of underserved groups.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In order to be eligible to receive a scholarship pursuant to this section, an applicant shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be a racial or ethnic minority student.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be a citizen of the United States and meet the general eligibility requirements as provided in s. 1009.40, except as otherwise provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Have maintained residency in this state for no less than 1 year preceding the award.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Be accepted by, and enroll as a full-time student in, a Florida medical school.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Have an undergraduate grade point average established by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Have received scores on selected examinations established by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Meet financial need requirements established by rule.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Agree to serve in a medical corps for a period of not less than 2 years for the purpose of providing health care to underserved individuals in the State of Florida.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In order to renew a scholarship awarded pursuant to this section, a student shall maintain full-time student status and a cumulative grade point average established by rule.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The number of scholarships annually awarded shall be three per school. Priority in the distribution of scholarships shall be given to students with the lowest total family resources.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Funds appropriated by the Legislature for the program shall be deposited in the State Student Financial Assistance Trust Fund. Interest income accruing to the program from funds of the program in the trust fund not allocated shall increase the funds available for scholarships. Any balance in the trust fund at the end of any fiscal year that has been allocated to the program shall remain in the trust fund and shall be available for carrying out the purposes of this section.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A scholarship recipient who, upon graduation, defaults on the commitment to serve in the medical corps for the full 2 years shall be required to repay all scholarship money plus interest.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules necessary to implement the provisions of this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Funding for the program shall be as provided in the General Appropriations Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 451, ch. 2002-387; s. 25, ch. 2011-63.</History>
+</Section>

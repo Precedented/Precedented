@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.31801" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Impact fees; short title; intent; definitions; ordinances levying impact fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “Florida Impact Fee Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that impact fees are an important source of revenue for a local government to use in funding the infrastructure necessitated by new growth. The Legislature further finds that impact fees are an outgrowth of the home rule power of a local government to provide certain services within its jurisdiction. Due to the growth of impact fee collections and local governments’ reliance on impact fees, it is the intent of the Legislature to ensure that, when a county or municipality adopts an impact fee by ordinance or a special district adopts an impact fee by resolution, the governing authority complies with this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An impact fee adopted by ordinance of a county or municipality or by resolution of a special district must, at minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Require that the calculation of the impact fee be based on the most recent and localized data.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide for accounting and reporting of impact fee collections and expenditures. If a local governmental entity imposes an impact fee to address its infrastructure needs, the entity shall account for the revenues and expenditures of such impact fee in a separate accounting fund.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Limit administrative charges for the collection of impact fees to actual costs.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Require that notice be provided no less than 90 days before the effective date of an ordinance or resolution imposing a new or increased impact fee. A county or municipality is not required to wait 90 days to decrease, suspend, or eliminate an impact fee.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Audits of financial statements of local governmental entities and district school boards which are performed by a certified public accountant pursuant to s. 218.39 and submitted to the Auditor General must include an affidavit signed by the chief financial officer of the local governmental entity or district school board stating that the local governmental entity or district school board has complied with this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In any action challenging an impact fee, the government has the burden of proving by a preponderance of the evidence that the imposition or amount of the fee meets the requirements of state legal precedent or this section. The court may not use a deferential standard.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2006-218; s. 1, ch. 2009-49; s. 5, ch. 2009-96; s. 5, ch. 2011-14; s. 1, ch. 2011-149.</History>
+</Section>

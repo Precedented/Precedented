@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.91211" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Medicaid managed care pilot program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency is authorized to seek and implement experimental, pilot, or demonstration project waivers, pursuant to s. 1115 of the Social Security Act, to create a statewide initiative to provide for a more efficient and effective service delivery system that enhances quality of care and client outcomes in the Florida Medicaid program pursuant to this section. Phase one of the demonstration shall be implemented in two geographic areas. One demonstration site shall include only Broward County. A second demonstration site shall initially include Duval County and shall be expanded to include Baker, Clay, and Nassau Counties within 1 year after the Duval County program becomes operational. The agency shall implement expansion of the program to include the remaining counties of the state and remaining eligibility groups in accordance with the process specified in the federally approved special terms and conditions numbered 11-W-00206/4, as approved by the federal Centers for Medicare and Medicaid Services on October 19, 2005, with a goal of full statewide implementation by June 30, 2011.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This waiver authority is contingent upon federal approval to preserve the upper-payment-limit funding mechanism for hospitals, including a guarantee of a reasonable growth factor, a methodology to allow the use of a portion of these funds to serve as a risk pool for demonstration sites, provisions to preserve the state’s ability to use intergovernmental transfers, and provisions to protect the disproportionate share program authorized pursuant to this chapter. Upon completion of the evaluation conducted under s. 3, ch. 2005-133, Laws of Florida, the agency may request statewide expansion of the demonstration projects. Statewide phase-in to additional counties shall be contingent upon review and approval by the Legislature. Under the upper-payment-limit program, or the low-income pool as implemented by the Agency for Health Care Administration pursuant to federal waiver, the state matching funds required for the program shall be provided by local governmental entities through intergovernmental transfers in accordance with published federal statutes and regulations. The Agency for Health Care Administration shall distribute upper-payment-limit, disproportionate share hospital, and low-income pool funds according to published federal statutes, regulations, and waivers and the low-income pool methodology approved by the federal Centers for Medicare and Medicaid Services.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that the low-income pool plan required by the terms and conditions of the Medicaid reform waiver and submitted to the federal Centers for Medicare and Medicaid Services propose the distribution of the above-mentioned program funds based on the following objectives:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Assure a broad and fair distribution of available funds based on the access provided by Medicaid participating hospitals, regardless of their ownership status, through their delivery of inpatient or outpatient care for Medicaid beneficiaries and uninsured and underinsured individuals;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Assure accessible emergency inpatient and outpatient care for Medicaid beneficiaries and uninsured and underinsured individuals;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Enhance primary, preventive, and other ambulatory care coverages for uninsured individuals;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Promote teaching and specialty hospital programs;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Promote the stability and viability of statutorily defined rural hospitals and hospitals that serve as sole community hospitals;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Recognize the extent of hospital uncompensated care costs;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Maintain and enhance essential community hospital care;</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Maintain incentives for local governmental entities to contribute to the cost of uncompensated care;</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Promote measures to avoid preventable hospitalizations;</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Account for hospital efficiency; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Contribute to a community’s overall health system.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Legislature intends for the capitated managed care pilot program to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide recipients in Medicaid fee-for-service or the MediPass program a comprehensive and coordinated capitated managed care system for all health care services specified in ss. 409.905 and 409.906.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Stabilize Medicaid expenditures under the pilot program compared to Medicaid expenditures in the pilot area for the 3 years before implementation of the pilot program, while ensuring:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Consumer education and choice.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Access to medically necessary services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Coordination of preventative, acute, and long-term care.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Reductions in unnecessary service utilization.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide an opportunity to evaluate the feasibility of statewide implementation of capitated managed care networks as a replacement for the current Medicaid fee-for-service and MediPass systems.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The agency shall have the following powers, duties, and responsibilities with respect to the pilot program:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To implement a system to deliver all mandatory services specified in s. 409.905 and optional services specified in s. 409.906, as approved by the Centers for Medicare and Medicaid Services and the Legislature in the waiver pursuant to this section. Services to recipients under plan benefits shall include emergency services provided under s. 409.9128.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To implement a pilot program, including Medicaid eligibility categories specified in ss. 409.903 and 409.904, as authorized in an approved federal waiver.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To implement the managed care pilot program that maximizes all available state and federal funds, including those obtained through intergovernmental transfers, the low-income pool, supplemental Medicaid payments, and the disproportionate share program. Within the parameters allowed by federal statute and rule, the agency may seek options for making direct payments to hospitals and physicians employed by or under contract with the state’s medical schools for the costs associated with graduate medical education under Medicaid reform.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To implement actuarially sound, risk-adjusted capitation rates for Medicaid recipients in the pilot program which cover comprehensive care, enhanced services, and catastrophic care.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To implement policies and guidelines for phasing in financial risk for approved provider service networks that, for purposes of this paragraph, include the Children’s Medical Services Network, over the period of the waiver and the extension thereof. These policies and guidelines must include an option for a provider service network to be paid fee-for-service rates. For any provider service network established in a managed care pilot area, the option to be paid fee-for-service rates must include a savings-settlement mechanism that is consistent with s. 409.912(42). This model must be converted to a risk-adjusted capitated rate by the beginning of the final year of operation under the waiver extension, and may be converted earlier at the option of the provider service network. Federally qualified health centers may be offered an opportunity to accept or decline a contract to participate in any provider network for prepaid primary care services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To implement stop-loss requirements and the transfer of excess cost to catastrophic coverage that accommodates the risks associated with the development of the pilot program.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">To recommend a process to be used by the Social Services Estimating Conference to determine and validate the rate of growth of the per-member costs of providing Medicaid services under the managed care pilot program.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">To implement program standards and credentialing requirements for capitated managed care networks to participate in the pilot program, including those related to fiscal solvency, quality of care, and adequacy of access to health care providers. It is the intent of the Legislature that, to the extent possible, any pilot program authorized by the state under this section include any federally qualified health center, federally qualified rural health clinic, county health department, the Children’s Medical Services Network within the Department of Health, or other federally, state, or locally funded entity that serves the geographic areas within the boundaries of the pilot program that requests to participate. This paragraph does not relieve an entity that qualifies as a capitated managed care network under this section from any other licensure or regulatory requirements contained in state or federal law which would otherwise apply to the entity. The standards and credentialing requirements shall be based upon, but are not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Compliance with the accreditation requirements as provided in s. 641.512.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Compliance with early and periodic screening, diagnosis, and treatment screening requirements under federal law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The percentage of voluntary disenrollments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Immunization rates.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Standards of the National Committee for Quality Assurance and other approved accrediting bodies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Recommendations of other authoritative bodies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Specific requirements of the Medicaid program, or standards designed to specifically meet the unique needs of Medicaid recipients.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Compliance with the health quality improvement system as established by the agency, which incorporates standards and guidelines developed by the Centers for Medicare and Medicaid Services as part of the quality assurance reform initiative.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The network’s infrastructure capacity to manage financial transactions, recordkeeping, data collection, and other administrative functions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The network’s ability to submit any financial, programmatic, or patient-encounter data or other information required by the agency to determine the actual services provided and the cost of administering the plan.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">To implement a mechanism for providing information to Medicaid recipients for the purpose of selecting a capitated managed care plan. For each plan available to a recipient, the agency, at a minimum, shall ensure that the recipient is provided with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A list and description of the benefits provided.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Information about cost sharing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Plan performance data, if available.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An explanation of benefit limitations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Contact information, including identification of providers participating in the network, geographic locations, and transportation limitations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any other information the agency determines would facilitate a recipient’s understanding of the plan or insurance that would best meet his or her needs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">To implement a system to ensure that there is a record of recipient acknowledgment that choice counseling has been provided.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">To implement a choice counseling system to ensure that the choice counseling process and related material are designed to provide counseling through face-to-face interaction, by telephone, and in writing and through other forms of relevant media. Materials shall be written at the fourth-grade reading level and available in a language other than English when 5 percent of the county speaks a language other than English. Choice counseling shall also use language lines and other services for impaired recipients, such as TTD/TTY.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">To implement a system that prohibits capitated managed care plans, their representatives, and providers employed by or contracted with the capitated managed care plans from recruiting persons eligible for or enrolled in Medicaid, from providing inducements to Medicaid recipients to select a particular capitated managed care plan, and from prejudicing Medicaid recipients against other capitated managed care plans. The system shall require the entity performing choice counseling to determine if the recipient has made a choice of a plan or has opted out because of duress, threats, payment to the recipient, or incentives promised to the recipient by a third party. If the choice counseling entity determines that the decision to choose a plan was unlawfully influenced or a plan violated any of the provisions of s. 409.912(20), the choice counseling entity shall immediately report the violation to the agency’s program integrity section for investigation. Verification of choice counseling by the recipient shall include a stipulation that the recipient acknowledges the provisions of this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">To implement a choice counseling system that promotes health literacy and provides information aimed to reduce minority health disparities through outreach activities for Medicaid recipients.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">To contract with entities to perform choice counseling. The agency may establish standards and performance contracts, including standards requiring the contractor to hire choice counselors who are representative of the state’s diverse population and to train choice counselors in working with culturally diverse populations.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">To implement eligibility assignment processes to facilitate client choice while ensuring pilot programs of adequate enrollment levels. These processes shall ensure that pilot sites have sufficient levels of enrollment to conduct a valid test of the managed care pilot program within a 2-year timeframe.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">To implement standards for plan compliance, including, but not limited to, standards for quality assurance and performance improvement, standards for peer or professional reviews, grievance policies, and policies for maintaining program integrity. The agency shall develop a data-reporting system, seek input from managed care plans in order to establish requirements for patient-encounter reporting, and ensure that the data reported is accurate and complete.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In performing the duties required under this section, the agency shall work with managed care plans to establish a uniform system to measure and monitor outcomes for a recipient of Medicaid services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The system shall use financial, clinical, and other criteria based on pharmacy, medical services, and other data that is related to the provision of Medicaid services, including, but not limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The Health Plan Employer Data and Information Set (HEDIS) or measures that are similar to HEDIS.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Member satisfaction.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Provider satisfaction.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Report cards on plan performance and best practices.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Compliance with the requirements for prompt payment of claims under ss. 627.613, 641.3155, and 641.513.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Utilization and quality data for the purpose of ensuring access to medically necessary services, including underutilization or inappropriate denial of services.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The agency shall require the managed care plans that have contracted with the agency to establish a quality assurance system that incorporates the provisions of s. 409.912(26) and any standards, rules, and guidelines developed by the agency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The agency shall establish an encounter database in order to compile data on health services rendered by health care practitioners who provide services to patients enrolled in managed care plans in the demonstration sites. The encounter database shall:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Collect the following for each type of patient encounter with a health care practitioner or facility, including:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">The demographic characteristics of the patient.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The principal, secondary, and tertiary diagnosis.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">The procedure performed.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">The date and location where the procedure was performed.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">The payment for the procedure, if any.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">If applicable, the health care practitioner’s universal identification number.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VII">
+							<Text xml:space="preserve" Style="Intro">If the health care practitioner rendering the service is a dependent practitioner, the modifiers appropriate to indicate that the service was delivered by the dependent practitioner.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Collect appropriate information relating to prescription drugs for each type of patient encounter.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Collect appropriate information related to health care costs and utilization from managed care plans participating in the demonstration sites.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">To the extent practicable, when collecting the data the agency shall use a standardized claim form or electronic transfer system that is used by health care practitioners, facilities, and payors.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Health care practitioners and facilities in the demonstration sites shall electronically submit, and managed care plans participating in the demonstration sites shall electronically receive, information concerning claims payments and any other information reasonably related to the encounter database using a standard format as required by the agency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The agency shall establish reasonable deadlines for phasing in the electronic transmittal of full encounter data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The system must ensure that the data reported is accurate and complete.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">To implement a grievance resolution process for Medicaid recipients enrolled in a capitated managed care network under the pilot program modeled after the subscriber assistance panel, as created in s. 408.7056. This process shall include a mechanism for an expedited review of no greater than 24 hours after notification of a grievance if the life of a Medicaid recipient is in imminent and emergent jeopardy.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">To implement a grievance resolution process for health care providers employed by or contracted with a capitated managed care network under the pilot program in order to settle disputes among the provider and the managed care network or the provider and the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">To implement criteria in an approved federal waiver to designate health care providers as eligible to participate in the pilot program. These criteria must include at a minimum those criteria specified in s. 409.907.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">To use health care provider agreements for participation in the pilot program.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">To require that all health care providers under contract with the pilot program be duly licensed in the state, if such licensure is available, and meet other criteria as may be established by the agency. These criteria shall include at a minimum those criteria specified in s. 409.907.</Text>
+			</Paragraph>
+			<Paragraph Id="v">
+				<Text xml:space="preserve" Style="Intro">To ensure that managed care organizations work collaboratively with other state or local governmental programs or institutions for the coordination of health care to eligible individuals receiving services from such programs or institutions.</Text>
+			</Paragraph>
+			<Paragraph Id="w">
+				<Text xml:space="preserve" Style="Intro">To implement procedures to minimize the risk of Medicaid fraud and abuse in all plans operating in the Medicaid managed care pilot program authorized in this section.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The agency shall ensure that applicable provisions of this chapter and chapters 414, 626, 641, and 932 which relate to Medicaid fraud and abuse are applied and enforced at the demonstration project sites.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Providers must have the certification, license, and credentials that are required by law and waiver requirements.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The agency shall ensure that the plan is in compliance with s. 409.912(20) and (21).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The agency shall require that each plan establish functions and activities governing program integrity in order to reduce the incidence of fraud and abuse. Plans must report instances of fraud and abuse pursuant to chapter 641.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The plan shall have written administrative and management arrangements or procedures, including a mandatory compliance plan, which are designed to guard against fraud and abuse. The plan shall designate a compliance officer who has sufficient experience in health care.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The agency shall require all managed care plan contractors in the pilot program to report all instances of suspected fraud and abuse. A failure to report instances of suspected fraud and abuse is a violation of law and subject to the penalties provided by law.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">An instance of fraud and abuse in the managed care plan, including, but not limited to, defrauding the state health care benefit program by misrepresentation of fact in reports, claims, certifications, enrollment claims, demographic statistics, or patient-encounter data; misrepresentation of the qualifications of persons rendering health care and ancillary services; bribery and false statements relating to the delivery of health care; unfair and deceptive marketing practices; and false claims actions in the provision of managed care, is a violation of law and subject to the penalties provided by law.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The agency shall require that all contractors make all files and relevant billing and claims data accessible to state regulators and investigators and that all such data is linked into a unified system to ensure consistent reviews and investigations.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="x">
+				<Text xml:space="preserve" Style="Intro">To develop and provide actuarial and benefit design analyses that indicate the effect on capitation rates and benefits offered in the pilot program over a prospective 5-year period based on the following assumptions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Growth in capitation rates which is limited to the estimated growth rate in general revenue.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Growth in capitation rates which is limited to the average growth rate over the last 3 years in per-recipient Medicaid expenditures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Growth in capitation rates which is limited to the growth rate of aggregate Medicaid expenditures between the 2003-2004 fiscal year and the 2004-2005 fiscal year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="y">
+				<Text xml:space="preserve" Style="Intro">To develop a mechanism to require capitated managed care plans to reimburse qualified emergency service providers, including, but not limited to, ambulance services, in accordance with ss. 409.908 and 409.9128. The pilot program must include a provision for continuing fee-for-service payments for emergency services, including, but not limited to, individuals who access ambulance services or emergency departments and who are subsequently determined to be eligible for Medicaid services.</Text>
+			</Paragraph>
+			<Paragraph Id="z">
+				<Text xml:space="preserve" Style="Intro">To ensure that school districts participating in the certified school match program pursuant to ss. 409.908(21) and 1011.70 shall be reimbursed by Medicaid, subject to the limitations of s. 1011.70(1), for a Medicaid-eligible child participating in the services as authorized in s. 1011.70, as provided for in s. 409.9071, regardless of whether the child is enrolled in a capitated managed care network. Capitated managed care networks must make a good faith effort to execute agreements with school districts regarding the coordinated provision of services authorized under s. 1011.70. County health departments and federally qualified health centers delivering school-based services pursuant to ss. 381.0056 and 381.0057 must be reimbursed by Medicaid for the federal share for a Medicaid-eligible child who receives Medicaid-covered services in a school setting, regardless of whether the child is enrolled in a capitated managed care network. Capitated managed care networks must make a good faith effort to execute agreements with county health departments and federally qualified health centers regarding the coordinated provision of services to a Medicaid-eligible child. To ensure continuity of care for Medicaid patients, the agency, the Department of Health, and the Department of Education shall develop procedures for ensuring that a student’s capitated managed care network provider receives information relating to services provided in accordance with ss. 381.0056, 381.0057, 409.9071, and 1011.70.</Text>
+			</Paragraph>
+			<Paragraph Id="aa">
+				<Text xml:space="preserve" Style="Intro">To implement a mechanism whereby Medicaid recipients who are already enrolled in a managed care plan or the MediPass program in the pilot areas shall be offered the opportunity to change to capitated managed care plans on a staggered basis, as defined by the agency. All Medicaid recipients shall have 30 days in which to make a choice of capitated managed care plans. Those Medicaid recipients who do not make a choice shall be assigned to a capitated managed care plan in accordance with paragraph (4)(a) and shall be exempt from s. 409.9122. To facilitate continuity of care for a Medicaid recipient who is also a recipient of Supplemental Security Income (SSI), prior to assigning the SSI recipient to a capitated managed care plan, the agency shall determine whether the SSI recipient has an ongoing relationship with a provider or capitated managed care plan, and, if so, the agency shall assign the SSI recipient to that provider or capitated managed care plan where feasible. Those SSI recipients who do not have such a provider relationship shall be assigned to a capitated managed care plan provider in accordance with paragraph (4)(a) and shall be exempt from s. 409.9122.</Text>
+			</Paragraph>
+			<Paragraph Id="bb">
+				<Text xml:space="preserve" Style="Intro">To develop and recommend a service delivery alternative for children having chronic medical conditions which establishes a medical home project to provide primary care services to this population. The project shall provide community-based primary care services that are integrated with other subspecialties to meet the medical, developmental, and emotional needs for children and their families. This project shall include an evaluation component to determine impacts on hospitalizations, length of stays, emergency room visits, costs, and access to care, including specialty care and patient and family satisfaction.</Text>
+			</Paragraph>
+			<Paragraph Id="cc">
+				<Text xml:space="preserve" Style="Intro">To develop and recommend service delivery mechanisms within capitated managed care plans to provide Medicaid services as specified in ss. 409.905 and 409.906 to persons with developmental disabilities sufficient to meet the medical, developmental, and emotional needs of these persons.</Text>
+			</Paragraph>
+			<Paragraph Id="dd">
+				<Text xml:space="preserve" Style="Intro">To implement service delivery mechanisms within a specialty plan in area 10 to provide behavioral health care services to Medicaid-eligible children whose cases are open for child welfare services in the HomeSafeNet system. These services must be coordinated with community-based care providers as specified in s. 409.1671, where available, and be sufficient to meet the developmental, behavioral, and emotional needs of these children. Children in area 10 who have an open case in the HomeSafeNet system shall be enrolled into the specialty plan. These service delivery mechanisms must be implemented no later than July 1, 2011, in AHCA area 10 in order for the children in AHCA area 10 to remain exempt from the statewide plan under s. 409.912(4)(b)5. An administrative fee may be paid to the specialty plan for the coordination of services based on the receipt of the state share of that fee being provided through intergovernmental transfers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A Medicaid recipient in the pilot area who is not currently enrolled in a capitated managed care plan upon implementation is not eligible for services as specified in ss. 409.905 and 409.906, for the amount of time that the recipient does not enroll in a capitated managed care network. If a Medicaid recipient has not enrolled in a capitated managed care plan within 30 days after eligibility, the agency shall assign the Medicaid recipient to a capitated managed care plan based on the assessed needs of the recipient as determined by the agency and the recipient shall be exempt from s. 409.9122. When making assignments, the agency shall take into account the following criteria:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A capitated managed care network has sufficient network capacity to meet the needs of members.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The capitated managed care network has previously enrolled the recipient as a member, or one of the capitated managed care network’s primary care providers has previously provided health care to the recipient.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The agency has knowledge that the member has previously expressed a preference for a particular capitated managed care network as indicated by Medicaid fee-for-service claims data, but has failed to make a choice.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The capitated managed care network’s primary care providers are geographically accessible to the recipient’s residence.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When more than one capitated managed care network provider meets the criteria specified in paragraph (3)(h), the agency shall make recipient assignments consecutively by family unit.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a recipient is currently enrolled with a Medicaid managed care organization that also operates an approved reform plan within a demonstration area and the recipient fails to choose a plan during the reform enrollment process or during redetermination of eligibility, the recipient shall be automatically assigned by the agency into the most appropriate reform plan operated by the recipient’s current Medicaid managed care plan. If the recipient’s current managed care plan does not operate a reform plan in the demonstration area which adequately meets the needs of the Medicaid recipient, the agency shall use the automatic assignment process as prescribed in the special terms and conditions numbered 11-W-00206/4. All enrollment and choice counseling materials provided by the agency must contain an explanation of the provisions of this paragraph for current managed care recipients.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The agency may not engage in practices that are designed to favor one capitated managed care plan over another or that are designed to influence Medicaid recipients to enroll in a particular capitated managed care network in order to strengthen its particular fiscal viability.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">After a recipient has made a selection or has been enrolled in a capitated managed care network, the recipient shall have 90 days in which to voluntarily disenroll and select another capitated managed care network. After 90 days, no further changes may be made except for cause. Cause shall include, but not be limited to, poor quality of care, lack of access to necessary specialty services, an unreasonable delay or denial of service, inordinate or inappropriate changes of primary care providers, service access impairments due to significant changes in the geographic location of services, or fraudulent enrollment. The agency may require a recipient to use the capitated managed care network’s grievance process as specified in paragraph (3)(q) prior to the agency’s determination of cause, except in cases in which immediate risk of permanent damage to the recipient’s health is alleged. The grievance process, when used, must be completed in time to permit the recipient to disenroll no later than the first day of the second month after the month the disenrollment request was made. If the capitated managed care network, as a result of the grievance process, approves an enrollee’s request to disenroll, the agency is not required to make a determination in the case. The agency must make a determination and take final action on a recipient’s request so that disenrollment occurs no later than the first day of the second month after the month the request was made. If the agency fails to act within the specified timeframe, the recipient’s request to disenroll is deemed to be approved as of the date agency action was required. Recipients who disagree with the agency’s finding that cause does not exist for disenrollment shall be advised of their right to pursue a Medicaid fair hearing to dispute the agency’s finding.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The agency shall apply for federal waivers from the Centers for Medicare and Medicaid Services to lock eligible Medicaid recipients into a capitated managed care network for 12 months after an open enrollment period. After 12 months of enrollment, a recipient may select another capitated managed care network. However, nothing shall prevent a Medicaid recipient from changing primary care providers within the capitated managed care network during the 12-month period.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The agency shall apply for federal waivers from the Centers for Medicare and Medicaid Services to allow recipients to purchase health care coverage through an employer-sponsored health insurance plan instead of through a Medicaid-certified plan. This provision shall be known as the opt-out option.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A recipient who chooses the Medicaid opt-out option shall have an opportunity for a specified period of time, as authorized under a waiver granted by the Centers for Medicare and Medicaid Services, to select and enroll in a Medicaid-certified plan. If the recipient remains in the employer-sponsored plan after the specified period, the recipient shall remain in the opt-out program for at least 1 year or until the recipient no longer has access to employer-sponsored coverage, until the employer’s open enrollment period for a person who opts out in order to participate in employer-sponsored coverage, or until the person is no longer eligible for Medicaid, whichever time period is shorter.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section, coverage, cost sharing, and any other component of employer-sponsored health insurance shall be governed by applicable state and federal laws.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">This section does not authorize the agency to implement any provision of s. 1115 of the Social Security Act experimental, pilot, or demonstration project waiver to reform the state Medicaid program in any part of the state other than the two geographic areas specified in this section unless approved by the Legislature.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The agency shall develop and submit for approval applications for waivers of applicable federal laws and regulations as necessary to implement the managed care pilot project as defined in this section. The agency shall post all waiver applications under this section on its Internet website 30 days before submitting the applications to the United States Centers for Medicare and Medicaid Services. All waiver applications shall be provided for review and comment to the appropriate committees of the Senate and House of Representatives for at least 10 working days prior to submission. All waivers submitted to and approved by the United States Centers for Medicare and Medicaid Services under this section must be approved by the Legislature. Federally approved waivers must be submitted to the President of the Senate and the Speaker of the House of Representatives for referral to the appropriate legislative committees. The appropriate committees shall recommend whether to approve the implementation of any waivers to the Legislature as a whole. The agency shall submit a plan containing a recommended timeline for implementation of any waivers and budgetary projections of the effect of the pilot program under this section on the total Medicaid budget for the 2006-2007 through 2009-2010 state fiscal years. This implementation plan shall be submitted to the President of the Senate and the Speaker of the House of Representatives at the same time any waivers are submitted for consideration by the Legislature. The agency may implement the waiver and special terms and conditions numbered 11-W-00206/4, as approved by the federal Centers for Medicare and Medicaid Services. If the agency seeks approval by the Federal Government of any modifications to these special terms and conditions, the agency must provide written notification of its intent to modify these terms and conditions to the President of the Senate and the Speaker of the House of Representatives at least 15 days before submitting the modifications to the Federal Government for consideration. The notification must identify all modifications being pursued and the reason the modifications are needed. Upon receiving federal approval of any modifications to the special terms and conditions, the agency shall provide a report to the Legislature describing the federally approved modifications to the special terms and conditions within 7 days after approval by the Federal Government.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Secretary of Health Care Administration shall convene a technical advisory panel to advise the agency in the areas of risk-adjusted-rate setting, benefit design, and choice counseling. The panel shall include representatives from the Florida Association of Health Plans, representatives from provider-sponsored networks, a Medicaid consumer representative, and a representative from the Office of Insurance Regulation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The technical advisory panel shall advise the agency concerning:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The risk-adjusted rate methodology to be used by the agency, including recommendations on mechanisms to recognize the risk of all Medicaid enrollees and for the transition to a risk-adjustment system, including recommendations for phasing in risk adjustment and the use of risk corridors.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Implementation of an encounter data system to be used for risk-adjusted rates.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Administrative and implementation issues regarding the use of risk-adjusted rates, including, but not limited to, cost, simplicity, client privacy, data accuracy, and data exchange.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Issues of benefit design, including the actuarial equivalence and sufficiency standards to be used.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The implementation plan for the proposed choice-counseling system, including the information and materials to be provided to recipients, the methodologies by which recipients will be counseled regarding choice, criteria to be used to assess plan quality, the methodology to be used to assign recipients into plans if they fail to choose a managed care plan, and the standards to be used for responsiveness to recipient inquiries.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The technical advisory panel shall continue in existence and advise the agency on matters outlined in this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The agency must ensure, in the first two state fiscal years in which a risk-adjusted methodology is a component of rate setting, that no managed care plan providing comprehensive benefits to TANF and SSI recipients has an aggregate risk score that varies by more than 10 percent from the aggregate weighted mean of all managed care plans providing comprehensive benefits to TANF and SSI recipients in a reform area. The agency’s payment to a managed care plan shall be based on such revised aggregate risk score.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">After any calculations of aggregate risk scores or revised aggregate risk scores in subsection (8), the capitation rates for plans participating under this section shall be phased in as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the first year, the capitation rates shall be weighted so that 75 percent of each capitation rate is based on the current methodology and 25 percent is based on a new risk-adjusted capitation rate methodology.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the second year, the capitation rates shall be weighted so that 50 percent of each capitation rate is based on the current methodology and 50 percent is based on a new risk-adjusted rate methodology.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In the following fiscal year, the risk-adjusted capitation methodology may be fully implemented.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Subsections (8) and (9) do not apply to managed care plans offering benefits exclusively to high-risk, specialty populations. The agency may set risk-adjusted rates immediately for such plans.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Before the implementation of risk-adjusted rates, the rates shall be certified by an actuary and approved by the federal Centers for Medicare and Medicaid Services.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “capitated managed care plan” includes health insurers authorized under chapter 624, exclusive provider organizations authorized under chapter 627, health maintenance organizations authorized under chapter 641, the Children’s Medical Services Network under chapter 391, and provider service networks that elect to be paid fee-for-service for up to 5 years as authorized under this section.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">Upon review and approval of the applications for waivers of applicable federal laws and regulations to implement the managed care pilot program by the Legislature, the agency may initiate adoption of rules pursuant to ss. 120.536(1) and 120.54 to implement and administer the managed care pilot program as provided in this section.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that if any conflict exists between the provisions contained in this section and other provisions of this chapter which relate to the implementation of the Medicaid managed care pilot program, the provisions contained in this section shall control. The agency shall provide a written report to the Legislature immediately upon identifying any provisions of this chapter which conflict with the implementation of the Medicaid managed care pilot program created in this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2005-133; s. 3, ch. 2005-358; s. 98, ch. 2007-5; s. 7, ch. 2007-331; s. 15, ch. 2009-55; s. 96, ch. 2010-5; s. 16, ch. 2010-144; ss. 19, 20, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2014, by s. 20, ch. 2011-135.</Text>
+	</Note>
+</Section>

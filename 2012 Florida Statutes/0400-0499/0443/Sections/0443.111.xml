@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Payment of benefits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">MANNER OF PAYMENT.<EmDash />Benefits are payable from the fund in accordance with rules adopted by the Department of Economic Opportunity, subject to the following requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Benefits are payable electronically, except that an individual being paid by paper warrant on July 1, 2011, may continue to be paid in that manner until the expiration of the claim. The department may develop a system for the payment of benefits by electronic funds transfer, including, but not limited to, debit cards, electronic payment cards, or any other means of electronic payment that the department deems to be commercially viable or cost-effective. Commodities or services related to the development of such a system shall be procured by competitive solicitation, unless they are purchased from a state term contract pursuant to s. 287.056. The department shall adopt rules necessary to administer this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As required under s. 443.091(1), each claimant must report at least biweekly to receive reemployment assistance benefits and to attest to the fact that she or he is able and available for work, has not refused suitable work, is seeking work and has met the requirements of <Reference Number="1" />s. 443.091(1)(d), and, if she or he has worked, to report earnings from that work. Each claimant must continue to report regardless of any appeal or pending appeal relating to her or his eligibility or disqualification for benefits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">QUALIFYING REQUIREMENTS.<EmDash />To establish a benefit year for reemployment assistance benefits, an individual must have:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Wage credits in two or more calendar quarters of the individual’s base period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Minimum total base period wage credits equal to the high quarter wages multiplied by 1.5, but at least $3,400 in the base period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">WEEKLY BENEFIT AMOUNT.<EmDash />An individual’s “weekly benefit amount” is an amount equal to one twenty-sixth of the total wages for insured work paid during that quarter of the base period in which the total wages paid were the highest, but not less than $32 or more than $275. The weekly benefit amount, if not a multiple of $1, is rounded downward to the nearest full dollar amount. The maximum weekly benefit amount in effect at the time the claimant establishes an individual weekly benefit amount is the maximum benefit amount applicable throughout the claimant’s benefit year.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">WEEKLY BENEFIT FOR UNEMPLOYMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Total.</Font><EmDash />Each eligible individual who is totally unemployed in any week is paid for the week a benefit equal to her or his weekly benefit amount.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Partial.</Font><EmDash />Each eligible individual who is partially unemployed in any week is paid for the week a benefit equal to her or his weekly benefit less that part of the earned income, if any, payable to her or him for the week which is in excess of 8 times the federal hourly minimum wage. These benefits, if not a multiple of $1, are rounded downward to the nearest full dollar amount.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">DURATION OF BENEFITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “Florida average unemployment rate” means the average of the 3 months for the most recent third calendar year quarter of the seasonally adjusted statewide unemployment rates as published by the Department of Economic Opportunity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each otherwise eligible individual is entitled during any benefit year to a total amount of benefits equal to 25 percent of the total wages in his or her base period, not to exceed $6,325 or the product arrived at by multiplying the weekly benefit amount with the number of weeks determined in paragraph (c), whichever is less. However, the total amount of benefits, if not a multiple of $1, is rounded downward to the nearest full dollar amount. These benefits are payable at a weekly rate no greater than the weekly benefit amount.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For claims submitted during a calendar year, the duration of benefits is limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Twelve weeks if this state’s average unemployment rate is at or below 5 percent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An additional week in addition to the 12 weeks for each 0.5 percent increment in this state’s average unemployment rate above 5 percent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Up to a maximum of 23 weeks if this state’s average unemployment rate equals or exceeds 10.5 percent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this subsection, wages are counted as “wages for insured work” for benefit purposes with respect to any benefit year only if the benefit year begins after the date the employing unit by whom the wages were paid has satisfied the conditions of this chapter for becoming an employer.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the remuneration of an individual is not based upon a fixed period or duration of time or if the individual’s wages are paid at irregular intervals or in a manner that does not extend regularly over the period of employment, the wages for any week or for any calendar quarter for the purpose of computing an individual’s right to employment benefits only are determined in the manner prescribed by rule. These rules, to the extent practicable, must secure results reasonably similar to those that would prevail if the individual were paid her or his wages at regular intervals.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 18402, 1937; s. 2, ch. 19637, 1939; CGL 1940 Supp. 4151(491); s. 4, ch. 20685, 1941; s. 2, ch. 21983, 1943; s. 1, ch. 23919, 1947; ss. 1, 2, 3, ch. 26801, 1951; s. 1, ch. 29695, 1955; s. 1, ch. 57-247; s. 1, ch. 57-795; ss. 1, 2, ch. 59-55; s. 1, ch. 61-173; s. 1, ch. 67-250; ss. 17, 35, ch. 69-106; ss. 1, 2, 3, ch. 70-166; s. 4, ch. 71-225; s. 1, ch. 71-247; s. 1, ch. 72-155; s. 2, ch. 74-198; s. 1, ch. 75-121; s. 2, ch. 77-262; s. 2, ch. 77-399; s. 1, ch. 79-293; s. 182, ch. 79-400; ss. 3, 8, 9, ch. 80-95; s. 1, ch. 80-233; s. 2, ch. 81-137; ss. 1, 2, ch. 82-23; s. 3, ch. 82-91; s. 3, ch. 83-10; s. 1, ch. 83-285; s. 1, ch. 83-313; s. 1, ch. 84-21; s. 2, ch. 84-279; s. 2, ch. 85-114; s. 1, ch. 85-126; ss. 1, 2, ch. 86-10; s. 2, ch. 87-383; ss. 1, 5, ch. 88-289; s. 1, ch. 89-346; s. 2, ch. 90-89; s. 1, ch. 90-191; ss. 1, 2, 3, ch. 91-9; s. 2, ch. 92-38; s. 1, ch. 92-313; ss. 5, 6, 8, ch. 94-347; s. 5, ch. 96-378; s. 21, ch. 96-423; s. 3, ch. 97-29; ss. 1061, 1062, ch. 97-103; s. 3, ch. 99-131; s. 102, ch. 2000-153; ss. 25, 50, ch. 2003-36; s. 1, ch. 2008-167; s. 26, ch. 2011-135; s. 358, ch. 2011-142; ss. 6, 7, ch. 2011-235; s. 8, ch. 2012-30; s. 70, ch. 2012-96.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Substituted by the editors for a reference to s. 443.091(d) to conform to the complete citation for the provision amended by s. 6, ch. 2012-30, relating to criteria for an applicant being “able to work and . . . available for work” for purposes of reemployment assistance.</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 443.04.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0098.075" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Registration records maintenance activities; ineligibility determinations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">MAINTENANCE OF RECORDS.<EmDash />The department shall protect the integrity of the electoral process by ensuring the maintenance of accurate and current voter registration records. List maintenance activities must be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965, the National Voter Registration Act of 1993, and the Help America Vote Act of 2002. The department may adopt by rule uniform standards and procedures to interpret and administer this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DUPLICATE REGISTRATION.<EmDash />The department shall identify those voters who are registered more than once or those applicants whose registration applications would result in duplicate registrations. The most recent application shall be deemed an update to the voter registration record.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DECEASED PERSONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The department shall identify those registered voters who are deceased by comparing information received from either:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The Department of Health as provided in s. 98.093; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The United States Social Security Administration, including, but not limited to, any master death file or index compiled by the United States Social Security Administration.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Within 7 days after receipt of such information through the statewide voter registration system, the supervisor shall remove the name of the registered voter.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The supervisor shall remove the name of a deceased registered voter from the statewide voter registration system upon receipt of a copy of a death certificate issued by a governmental agency authorized to issue death certificates.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADJUDICATION OF MENTAL INCAPACITY.<EmDash />The department shall identify those registered voters who have been adjudicated mentally incapacitated with respect to voting and who have not had their voting rights restored by comparing information received from the clerk of the circuit court as provided in s. 98.093. The department shall review such information and make an initial determination as to whether the information is credible and reliable. If the department determines that the information is credible and reliable, the department shall notify the supervisor and provide a copy of the supporting documentation indicating the potential ineligibility of the voter to be registered. Upon receipt of the notice that the department has made a determination of initial credibility and reliability, the supervisor shall adhere to the procedures set forth in subsection (7) prior to the removal of a registered voter from the statewide voter registration system.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">FELONY CONVICTION.<EmDash />The department shall identify those registered voters who have been convicted of a felony and whose rights have not been restored by comparing information received from, but not limited to, a clerk of the circuit court, the Board of Executive Clemency, the Department of Corrections, the Department of Law Enforcement, or a United States Attorney’s Office, as provided in s. 98.093. The department shall review such information and make an initial determination as to whether the information is credible and reliable. If the department determines that the information is credible and reliable, the department shall notify the supervisor and provide a copy of the supporting documentation indicating the potential ineligibility of the voter to be registered. Upon receipt of the notice that the department has made a determination of initial credibility and reliability, the supervisor shall adhere to the procedures set forth in subsection (7) prior to the removal of a registered voter’s name from the statewide voter registration system.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">OTHER BASES FOR INELIGIBILITY.<EmDash />If the department or supervisor receives information from sources other than those identified in subsections (2)-(5) that a registered voter is ineligible because he or she is deceased, adjudicated a convicted felon without having had his or her civil rights restored, adjudicated mentally incapacitated without having had his or her voting rights restored, does not meet the age requirement pursuant to s. 97.041, is not a United States citizen, is a fictitious person, or has listed a residence that is not his or her legal residence, the supervisor must adhere to the procedures set forth in subsection (7) prior to the removal of a registered voter’s name from the statewide voter registration system.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">PROCEDURES FOR REMOVAL.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the supervisor receives notice or information pursuant to subsections (4)-(6), the supervisor of the county in which the voter is registered shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Notify the registered voter of his or her potential ineligibility by mail within 7 days after receipt of notice or information. The notice shall include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A statement of the basis for the registered voter’s potential ineligibility and a copy of any documentation upon which the potential ineligibility is based.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A statement that failure to respond within 30 days after receipt of the notice may result in a determination of ineligibility and in removal of the registered voter’s name from the statewide voter registration system.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A return form that requires the registered voter to admit or deny the accuracy of the information underlying the potential ineligibility for purposes of a final determination by the supervisor.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A statement that, if the voter is denying the accuracy of the information underlying the potential ineligibility, the voter has a right to request a hearing for the purpose of determining eligibility.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Instructions for the registered voter to contact the supervisor of elections of the county in which the voter is registered if assistance is needed in resolving the matter.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Instructions for seeking restoration of civil rights following a felony conviction, if applicable.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the mailed notice is returned as undeliverable, the supervisor shall publish notice once in a newspaper of general circulation in the county in which the voter was last registered. The notice shall contain the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The voter’s name and address.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A statement that the voter is potentially ineligible to be registered to vote.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A statement that failure to respond within 30 days after the notice is published may result in a determination of ineligibility by the supervisor and removal of the registered voter’s name from the statewide voter registration system.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">An instruction for the voter to contact the supervisor no later than 30 days after the date of the published notice to receive information regarding the basis for the potential ineligibility and the procedure to resolve the matter.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">An instruction to the voter that, if further assistance is needed, the voter should contact the supervisor of elections of the county in which the voter is registered.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If a registered voter fails to respond to a notice pursuant to subparagraph 1. or subparagraph 2., the supervisor shall make a final determination of the voter’s eligibility. If the supervisor determines that the voter is ineligible, the supervisor shall remove the name of the registered voter from the statewide voter registration system. The supervisor shall notify the registered voter of the supervisor’s determination and action.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If a registered voter responds to the notice pursuant to subparagraph 1. or subparagraph 2. and admits the accuracy of the information underlying the potential ineligibility, the supervisor shall make a final determination of ineligibility and shall remove the voter’s name from the statewide voter registration system. The supervisor shall notify the registered voter of the supervisor’s determination and action.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If a registered voter responds to the notice issued pursuant to subparagraph 1. or subparagraph 2. and denies the accuracy of the information underlying the potential ineligibility but does not request a hearing, the supervisor shall review the evidence and make a final determination of eligibility. If such registered voter requests a hearing, the supervisor shall send notice to the registered voter to attend a hearing at a time and place specified in the notice. Upon hearing all evidence presented at the hearing, the supervisor shall make a determination of eligibility. If the supervisor determines that the registered voter is ineligible, the supervisor shall remove the voter’s name from the statewide voter registration system and notify the registered voter of the supervisor’s determination and action.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The following shall apply to this subsection:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All determinations of eligibility shall be based on a preponderance of the evidence.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All proceedings are exempt from the provisions of chapter 120.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any notice shall be sent to the registered voter by certified mail, return receipt requested, or other means that provides a verification of receipt or shall be published in a newspaper of general circulation where the voter was last registered, whichever is applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The supervisor shall remove the name of any registered voter from the statewide voter registration system only after the supervisor makes a final determination that the voter is ineligible to vote.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any voter whose name has been removed from the statewide voter registration system pursuant to a determination of ineligibility may appeal that determination under the provisions of s. 98.0755.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any voter whose name was removed from the statewide voter registration system on the basis of a determination of ineligibility who subsequently becomes eligible to vote must reregister in order to have his or her name restored to the statewide voter registration system.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">No later than July 31 and January 31 of each year, the supervisor shall certify to the department the activities conducted pursuant to this section during the first 6 months and the second 6 months of the year, respectively. The certification shall include the number of persons to whom notices were sent pursuant to subsection (7), the number of persons who responded to the notices, the number of notices returned as undeliverable, the number of notices published in the newspaper, the number of hearings conducted, and the number of persons removed from the statewide voter registration systems and the reasons for such removals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If, based on the certification provided pursuant to paragraph (a), the department determines that a supervisor has not satisfied the requirements of this section, the department shall satisfy the appropriate requirements for that county. Failure to satisfy the requirements of this section shall constitute a violation of s. 104.051.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 29, ch. 94-224; s. 1386, ch. 95-147; s. 20, ch. 2005-278; s. 9, ch. 2011-40.</History>
+</Section>

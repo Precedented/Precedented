@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.471" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Divestiture by the State Board of Administration; reporting requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Board of Administration shall divest any investment under s. 121.151 and ss. 215.44-215.53, and is prohibited from investment in stocks, securities, or other obligations of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any institution or company domiciled in the United States, or foreign subsidiary of a company domiciled in the United States, doing business in or with Cuba, or with agencies or instrumentalities thereof in violation of federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any institution or company domiciled outside of the United States if the President of the United States has applied sanctions against the foreign country in which the institution or company is domiciled pursuant to s. 4 of the Cuban Democracy Act of 1992.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The State Board of Administration may not be a fiduciary under this section with respect to voting on, and may not have the right to vote in favor of, any proxy resolution advocating expanded United States trade with Cuba or Syria. The board’s staff shall report on its activities in its annual proxy voting report.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 93-218; s. 4, ch. 2000-152; s. 1, ch. 2012-196.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 93-218, provides that “[t]he Governor may waive the requirements of this act in the event that there is a collapse of the existing regime in Cuba and there is a need for immediate aid to Cuba prior to the convening of the Legislature or for humanitarian reasons as a result of a national disaster on the Island of Cuba.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="1006.29">
+	<Catchline xml:space="preserve">State instructional materials reviewers .</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The commissioner shall determine annually the areas in which instructional materials shall be submitted for adoption, taking into consideration the desires of the district school boards. The commissioner shall also determine the number of titles to be adopted in each area.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By April 15 of each school year, the commissioner shall appoint three state or national experts in the content areas submitted for adoption to review the instructional materials and evaluate the content for alignment with the applicable Next Generation Sunshine State Standards. These reviewers shall be designated as state instructional materials reviewers and shall review the materials for the level of instructional support and the accuracy and appropriateness of progression of introduced content. Instructional materials shall be made electronically available to the reviewers. The initial review of the materials shall be made by only two of the three reviewers. If the two reviewers reach different results, the third reviewer shall break the tie. The reviewers shall independently make recommendations to the commissioner regarding materials that should be placed on the list of adopted materials through an electronic feedback review system.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The commissioner shall request each district school superintendent to nominate one classroom teacher or district-level content supervisor to review two or three of the submissions recommended by the state instructional materials reviewers. School districts shall ensure that these district reviewers are provided with the support and time necessary to accomplish a thorough review of the instructional materials. District reviewers shall independently rate the recommended submissions on the instructional usability of the resources.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For purposes of state adoption, the term “instructional materials” means items having intellectual content that by design serve as a major tool for assisting in the instruction of a subject or course. These items may be available in bound, unbound, kit, or package form and may consist of hardbacked or softbacked textbooks, electronic content, consumables, learning laboratories, manipulatives, electronic media, and computer courseware or software. A publisher or manufacturer providing instructional materials as a single bundle shall also make the instructional materials available as separate and unbundled items, each priced individually. A publisher may also offer sections of state-adopted instructional materials in digital or electronic versions at reduced rates to districts, schools, and teachers.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Beginning in the 2015-2016 academic year, all adopted instructional materials for students in kindergarten through grade 12 must be provided in an electronic or digital format. For purposes of this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Electronic format” means text-based or image-based content in a form that is produced on, published by, and readable on computers or other digital devices and is an electronic version of a printed book, whether or not any printed equivalent exists.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Digital format” means text-based or image-based content in a form that provides the student with various interactive functions; that can be searched, tagged, distributed, and used for individualized and group learning; that includes multimedia content such as video clips, animations, and virtual reality; and that has the ability to be accessed at any time and anywhere.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The terms do not include electronic or computer hardware even if such hardware is bundled with software or other electronic media, nor does it include equipment or supplies.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall develop a training program for persons selected as state instructional materials reviewers and school district reviewers. The program shall be structured to assist reviewers in developing the skills necessary to make valid, culturally sensitive, and objective decisions regarding the content and rigor of instructional materials. All persons serving as instructional materials reviewers must complete the training program prior to beginning the review and selection process.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 304, ch. 2002-387; s. 1950, ch. 2003-261; s. 19, ch. 2010-154; s. 21, ch. 2011-55.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 21, ch. 2012-133, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The Digital Instructional Materials Work Group is created to plan and monitor the implementation of the transition to digital instructional materials as required in ss. 1006.29(3) and 1006.40(3)(a), Florida Statutes.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) The Commissioner of Education, or his or her designee, shall serve as the ex officio, nonvoting executive director of the work group.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) The work group shall be comprised of the following: one school district instructional technology expert, one school district instructional content expert with experience in digital learning initiatives, one representative from an institution of postsecondary education, one high school principal with experience in digital learning initiatives, one middle school principal with experience in digital learning initiatives, one business representative, and one parent.</Text>
+		<Text xml:space="preserve" Style="Indent">“(4) A member may not represent a company that has a business interest in education content or technology.</Text>
+		<Text xml:space="preserve" Style="Indent">“(5) The chair shall schedule and conduct the first meeting of the work group by October 1, 2012. The work group shall conduct a majority of its meetings virtually.</Text>
+		<Text xml:space="preserve" Style="Indent">“(6) The work group shall submit a report to the Governor, the President of the Senate, the Speaker of the House of Representatives, and State Board of Education by March 1, 2013. The report shall include an implementation plan for meeting the deadline of transition to digital instructional materials as provided in ss. 1006.29(3) and 1006.40(3)(a), Florida Statutes. The plan must specify options for the provision of access devices for students, options for providing content by subject area, provisions for training and professional development for preservice and inservice teachers, and a detailed review of options for funding, including the reprioritization of existing resources and recommendations for new funding.”</Text>
+	</Note>
+</Section>

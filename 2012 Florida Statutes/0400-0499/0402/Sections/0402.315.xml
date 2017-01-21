@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0402.315" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Funding; license fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If the county designates a local agency to be responsible for the licensing of child care facilities, the county shall bear at least 75 percent of the costs involved.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall bear the costs of the licensing of child care facilities when contracted to do so by a county or when directly responsible for licensing in a county which fails to meet or exceed state minimum standards.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall collect a fee for any license it issues for a child care facility, family day care home, or large family child care home pursuant to ss. 402.305, 402.313, and 402.3131.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For a child care facility licensed pursuant to s. 402.305, such fee shall be $1 per child, based on the licensed capacity of the facility, except that the minimum fee shall be $25 per facility and the maximum fee shall be $100 per facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For a family day care home registered pursuant to s. 402.313, such fee shall be $25.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For a family day care home licensed pursuant to s. 402.313, such fee shall be $50.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For a large family child care home licensed pursuant to s. 402.3131, such fee shall be $60.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any county may collect a fee for any license it issues pursuant to s. 402.308.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All moneys collected by the department for child care licensing shall be held in a trust fund of the department to be reallocated to the department during the following fiscal year to fund child care licensing activities, including the Gold Seal Quality Care program created pursuant to s. 402.281.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 74-113; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 5, 6, 7, ch. 83-248; s. 13, ch. 84-551; s. 30, ch. 85-54; ss. 1, 2, ch. 93-115; s. 81, ch. 96-175; s. 14, ch. 2010-210.</History>
+</Section>

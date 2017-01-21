@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0430.709" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Reports and evaluations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Beginning January 1, 1998, and continuing each January 1 while the community diversion pilot projects are operating, the department shall report to the Legislature regarding the implementation and operation of community diversion pilot projects.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall contract for an independent evaluation of the community diversion pilot projects. Such evaluation must include a careful review and assessment of the actual cost for the provision of services to participants.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department, in consultation with the agency, shall assess the feasibility of implementing a managed long-term care system throughout the state to serve appropriate Medicaid-eligible long-term care recipients age 60 years and older.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 97-87; s. 24, ch. 2011-135.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed October 1, 2013, by s. 24, ch. 2011-135.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.714" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Residential condominium unit owner coverage; loss assessment coverage required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For policies issued or renewed on or after July 1, 2010, coverage under a unit owner’s residential property policy must include at least $2,000 in property loss assessment coverage for all assessments made as a result of the same direct loss to the property, regardless of the number of assessments, owned by all members of the association collectively if such loss is of the type of loss covered by the unit owner’s residential property insurance policy, to which a deductible of no more than $250 per direct property loss applies. If a deductible was or will be applied to other property loss sustained by the unit owner resulting from the same direct loss to the property, no deductible applies to the loss assessment coverage.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The maximum amount of any unit owner’s loss assessment coverage that can be assessed for any loss shall be an amount equal to that unit owner’s loss assessment coverage limit in effect 1 day before the date of the occurrence. Any changes to the limits of a unit owner’s coverage for loss assessments made on or after the day before the date of the occurrence are not applicable to such loss.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Regardless of the number of assessments, an insurer providing loss assessment coverage to a unit owner is not required to pay more than an amount equal to that unit owner’s loss assessment coverage limit as a result of the same direct loss to property.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Every individual unit owner’s residential property policy must contain a provision stating that the coverage afforded by such policy is excess coverage over the amount recoverable under any other policy covering the same property.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2010-174.</History>
+</Section>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1006.50" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Student handbooks.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution and state university shall compile and update annually a student handbook that includes, but is not limited to, a comprehensive calendar that emphasizes important dates and deadlines, student rights and responsibilities, appeals processes available to students, and a roster of contact persons within the administrative staff available to respond to student inquiries.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each student handbook shall list the legal and institution-specific sanctions that will be imposed upon students who violate the law or institutional policies regarding controlled substances and alcoholic beverages.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each student handbook shall provide information related to acquired immune deficiency syndrome (AIDS) education or identify sites from which AIDS education information may be obtained.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 320, ch. 2002-387; s. 77, ch. 2011-5.</History>
+</Section>

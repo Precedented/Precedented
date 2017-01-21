@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Oaths; records; confidential information.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in subsections (2), (3), (6), and (7) and s. 943.053, all information obtained under this chapter in the discharge of official duty by any judge, any employee of the court, any authorized agent of the department, the Parole Commission, the Department of Corrections, the juvenile justice circuit boards, any law enforcement agent, or any licensed professional or licensed community agency representative participating in the assessment or treatment of a juvenile is confidential and may be disclosed only to the authorized personnel of the court, the department and its designees, the Department of Corrections, the Parole Commission, law enforcement agents, school superintendents and their designees, any licensed professional or licensed community agency representative participating in the assessment or treatment of a juvenile, and others entitled under this chapter to receive that information, or upon order of the court. Within each county, the sheriff, the chiefs of police, the district school superintendent, and the department shall enter into an interagency agreement for the purpose of sharing information about juvenile offenders among all parties. The agreement must specify the conditions under which summary criminal history information is to be made available to appropriate school personnel, and the conditions under which school records are to be made available to appropriate department personnel. Such agreement shall require notification to any classroom teacher of assignment to the teacher’s classroom of a juvenile who has been placed in a probation or commitment program for a felony offense. The agencies entering into such agreement must comply with s. 943.0525, and must maintain the confidentiality of information that is otherwise exempt from s. 119.07(1), as provided by law.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter, the name, photograph, address, and crime or arrest report of a child:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Taken into custody if the child has been taken into custody by a law enforcement officer for a violation of law which, if committed by an adult, would be a felony;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Found by a court to have committed three or more violations of law which, if committed by an adult, would be misdemeanors;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Transferred to the adult system under s. 985.557, indicted under s. 985.56, or waived under s. 985.556;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Taken into custody by a law enforcement officer for a violation of law subject to s. 985.557(2)(b) or (d); or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Transferred to the adult system but sentenced to the juvenile system under s. 985.565</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">shall not be considered confidential and exempt from s. 119.07(1) solely because of the child’s age.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A law enforcement agency may release a copy of the juvenile offense report to the victim of the offense. However, information gained by the victim under this chapter, including the next of kin of a homicide victim, regarding any case handled in juvenile court, must not be revealed to any outside party, except as is reasonably necessary in pursuit of legal remedies.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section, when a child of any age is taken into custody by a law enforcement officer for an offense that would have been a felony if committed by an adult, or a crime of violence, the law enforcement agency must notify the superintendent of schools that the child is alleged to have committed the delinquent act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a) or any other provision of this section, when a child of any age is formally charged by a state attorney with a felony or a delinquent act that would be a felony if committed by an adult, the state attorney shall notify the superintendent of the child’s school that the child has been charged with such felony or delinquent act. The information obtained by the superintendent of schools under this section must be released within 48 hours after receipt to appropriate school personnel, including the principal of the school of the child and the director of transportation. The principal must immediately notify the child’s immediate classroom teachers, the child’s assigned bus driver, and any other school personnel whose duties include direct supervision of the child. Upon notification, the principal is authorized to begin disciplinary actions under s. 1006.09(1)-(4).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The superintendent must notify the other school personnel whose duties include direct supervision of the child of the disposition of the charges against the child.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The department shall disclose to the school superintendent the presence of any child in the care and custody or under the jurisdiction or supervision of the department who has a known history of criminal sexual behavior with other juveniles; is an alleged juvenile sexual offender, as defined in s. 39.01; or has pled guilty or nolo contendere to, or has been found to have committed, a violation of chapter 794, chapter 796, chapter 800, s. 827.071, or s. 847.0133, regardless of adjudication. Any employee of a district school board who knowingly and willfully discloses such information to an unauthorized person commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Authorized agents of the department may administer oaths and affirmations.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Records maintained by the department, including copies of records maintained by the court, which pertain to a child found to have committed a delinquent act which, if committed by an adult, would be a crime specified in s. 435.04 may not be destroyed under this section for 25 years after the youth’s final referral to the department, except in cases of the death of the child. Such records, however, shall be sealed by the court for use only in meeting the screening requirements for personnel in s. 402.3055 and the other sections cited above, or under departmental rule; however, current criminal history information must be obtained from the Department of Law Enforcement in accordance with s. 943.053. The information shall be released to those persons specified in the above cited sections for the purposes of complying with those sections. The court may punish by contempt any person who releases or uses the records for any unauthorized purpose.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Sexual offender and predator registration information as required in ss. 775.21, 943.0435, 944.606, 944.607, 985.481, and 985.4815 is a public record pursuant to s. 119.07(1) and as otherwise provided by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Records in the custody of the department regarding children are not open to inspection by the public. Such records may be inspected only upon order of the Secretary of Juvenile Justice or his or her authorized agent by persons who have sufficient reason and upon such conditions for their use and disposition as the secretary or his or her authorized agent deems proper. The information in such records may be disclosed only to other employees of the department who have a need therefor in order to perform their official duties; to other persons as authorized by rule of the department; and, upon request, to the Department of Corrections. The secretary or his or her authorized agent may permit properly qualified persons to inspect and make abstracts from records for statistical purposes under whatever conditions upon their use and disposition the secretary or his or her authorized agent deems proper, provided adequate assurances are given that children’s names and other identifying information will not be disclosed by the applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The destruction of records pertaining to children committed to or supervised by the department pursuant to a court order, which records are retained until a child reaches the age of 24 years or until a serious or habitual delinquent child reaches the age of 26 years, shall be subject to chapter 943.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Criminal history information made available to governmental agencies by the Department of Law Enforcement or other criminal justice agencies shall not be used for any purpose other than that specified in the provision authorizing the releases.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 90-208; s. 14, ch. 91-57; s. 14, ch. 93-39; s. 2, ch. 93-196; s. 6, ch. 93-200; s. 23, ch. 93-230; s. 33, ch. 94-209; s. 1344, ch. 95-147; s. 117, ch. 95-418; s. 17, ch. 96-369; s. 18, ch. 96-388; s. 26, ch. 97-234; s. 4, ch. 97-238; s. 8, ch. 98-158; s. 128, ch. 99-3; s. 11, ch. 99-284; s. 19, ch. 2000-135; s. 15, ch. 2001-125; s. 120, ch. 2002-1; s. 1051, ch. 2002-387; s. 23, ch. 2004-267; s. 12, ch. 2006-120; s. 10, ch. 2007-209; s. 55, ch. 2010-114; s. 1, ch. 2010-192.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.045.</Text>
+	</Note>
+</Section>

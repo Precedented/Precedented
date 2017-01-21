@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.303" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Diversion; reconsignment; change of instructions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Unless the bill of lading otherwise provides, a carrier may deliver the goods to a person or destination other than that stated in the bill or may otherwise dispose of the goods, without liability for misdelivery, on instructions from:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The holder of a negotiable bill;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The consignor on a nonnegotiable bill, even if the consignee has given contrary instructions;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The consignee on a nonnegotiable bill in the absence of contrary instructions from the consignor, if the goods have arrived at the billed destination or if the consignee is in possession of the tangible bill or in control of the electronic bill; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The consignee on a nonnegotiable bill, if the consignee is entitled as against the consignor to dispose of the goods.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless instructions described in subsection (1) are included in a negotiable bill of lading, a person to which the bill is duly negotiated may hold the bailee according to the original terms.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 629, ch. 97-102; s. 35, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-303, U.C.C.</Text>
+	</Note>
+</Section>

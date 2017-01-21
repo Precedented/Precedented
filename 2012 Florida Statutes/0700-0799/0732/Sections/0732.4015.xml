@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0732.4015" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Devise of homestead.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As provided by the Florida Constitution, the homestead shall not be subject to devise if the owner is survived by a spouse or a minor child or minor children, except that the homestead may be devised to the owner’s spouse if there is no minor child or minor children.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For the purposes of subsection (1), the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Owner” includes the grantor of a trust described in s. 733.707(3) that is evidenced by a written instrument which is in existence at the time of the grantor’s death as if the interest held in trust was owned by the grantor.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Devise” includes a disposition by trust of that portion of the trust estate which, if titled in the name of the grantor of the trust, would be the grantor’s homestead.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If an interest in homestead has been devised to the surviving spouse as authorized by law and the constitution, and the surviving spouse’s interest is disclaimed, the disclaimed interest shall pass in accordance with chapter 739.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-106; ss. 18, 30, ch. 75-220; s. 16, ch. 92-200; s. 959, ch. 97-102; s. 38, ch. 2001-226; s. 13, ch. 2007-74; s. 8, ch. 2010-132.</History>
+</Section>

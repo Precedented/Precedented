@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0896.101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Money Laundering Act; definitions; penalties; injunctions; seizure warrants; immunity.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “Florida Money Laundering Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity” means that the person knew the property involved in the transaction represented proceeds from some form, though not necessarily which form, of activity that constitutes a felony under state or federal law, regardless of whether or not such activity is specified in paragraph (g).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Conducts” includes initiating, concluding, or participating in initiating or concluding a transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Transaction” means a purchase, sale, loan, pledge, gift, transfer, delivery, or other disposition, and with respect to a financial institution includes a deposit, withdrawal, transfer between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, bond, certificate of deposit, or other monetary instrument, use of a safety deposit box, or any other payment, transfer, or delivery by, through, or to a financial institution, by whatever means effected.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Financial transaction” means a transaction involving the movement of funds by wire or other means or involving one or more monetary instruments, which in any way or degree affects commerce, or a transaction involving the transfer of title to any real property, vehicle, vessel, or aircraft, or a transaction involving the use of a financial institution which is engaged in, or the activities of which affect, commerce in any way or degree.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Monetary instruments” means coin or currency of the United States or of any other country, travelers’ checks, personal checks, bank checks, money orders, investment securities in bearer form or otherwise in such form that title thereto passes upon delivery, and negotiable instruments in bearer form or otherwise in such form that title thereto passes upon delivery.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Financial institution” means a financial institution as defined in 31 U.S.C. s. 5312 which institution is located in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Specified unlawful activity” means any “racketeering activity” as defined in s. 895.02.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Knowing” means that a person knew; or, with respect to any transaction or transportation involving more than $10,000 in U.S. currency or foreign equivalent, should have known after reasonable inquiry, unless the person has a duty to file a federal currency transaction report, IRS Form 8300, or a like report under state law and has complied with that reporting requirement in accordance with law.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Petitioner” means any local, county, state, or federal law enforcement agency; the Attorney General; any state attorney; or the statewide prosecutor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for a person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity, to conduct or attempt to conduct such a financial transaction which in fact involves the proceeds of specified unlawful activity:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">With the intent to promote the carrying on of specified unlawful activity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Knowing that the transaction is designed in whole or in part:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">To conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds of specified unlawful activity; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">To avoid a transaction reporting requirement or money transmitters’ registration requirement under state law.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To transport or attempt to transport a monetary instrument or funds:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">With the intent to promote the carrying on of specified unlawful activity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Knowing that the monetary instrument or funds involved in the transportation represent the proceeds of some form of unlawful activity and knowing that such transportation is designed in whole or in part:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">To conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds of specified unlawful activity; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">To avoid a transaction reporting requirement or money transmitters’ registration requirement under state law.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To conduct or attempt to conduct a financial transaction which involves property or proceeds which an investigative or law enforcement officer, or someone acting under such officer’s direction, represents as being derived from, or as being used to conduct or facilitate, specified unlawful activity, when the person’s conduct or attempted conduct is undertaken with the intent:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To promote the carrying on of specified unlawful activity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds or property believed to be the proceeds of specified unlawful activity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">To avoid a transaction reporting requirement under state law.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this subsection, “investigative or law enforcement officer” means any officer of the State of Florida or political subdivision thereof, of the United States, or of any other state or political subdivision thereof, who is empowered by law to conduct, on behalf of the government, investigations of, or to make arrests for, offenses enumerated in this subsection or similar federal offenses.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It does not constitute a defense to a prosecution for any violation of this chapter that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any stratagem or deception, including the use of an undercover operative or law enforcement officer, was employed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A facility or an opportunity to engage in conduct in violation of this act was provided.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A law enforcement officer, or person acting under direction of a law enforcement officer, solicited a person predisposed to engage in conduct in violation of any provision of this chapter to commit a violation of this chapter in order to gain evidence against that person, provided such solicitation would not induce an ordinary law-abiding person to violate this chapter.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection does not preclude the defense of entrapment.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A person who violates this section, if the violation involves:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Financial transactions exceeding $300 but less than $20,000 in any 12-month period, commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Financial transactions totaling or exceeding $20,000 but less than $100,000 in any 12-month period, commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Financial transactions totaling or exceeding $100,000 in any 12-month period, commits a felony of the first degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In addition to the penalties authorized by s. 775.082, s. 775.083, or s. 775.084, a person who has been found guilty of or who has pleaded guilty or nolo contendere to having violated this section may be sentenced to pay a fine not exceeding $250,000 or twice the value of the financial transactions, whichever is greater, except that for a second or subsequent violation of this section, the fine may be up to $500,000 or quintuple the value of the financial transactions, whichever is greater.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A person who violates this section is also liable for a civil penalty of not more than the value of the financial transactions involved or $25,000, whichever is greater.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a person is alienating or disposing of monetary instruments or funds, or appears likely to or demonstrates an intent to alienate or dispose of monetary instruments or funds, used in violation of this section, chapter 560, s. 655.50, or any crime listed as specified unlawful activity under this section, or monetary instruments or funds that are traceable to any such violation, the petitioner may commence a civil action in any circuit court having jurisdiction where such monetary instruments or funds are located or have been deposited for a temporary injunction to prohibit any person from withdrawing, transferring, removing, dissipating, or disposing of any such monetary instruments or funds of equivalent value. The temporary injunction will be obtained pursuant to Florida Civil Rule of Procedure 1.610. This section governs all temporary injunctions obtained pursuant to this section and supersedes all other provisions of the rule that may be inconsistent with this section. The court shall take into account any anticipated impact the temporary injunction will have on innocent third parties or businesses, balanced against the petitioner’s need to preserve the monetary instruments or funds.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A temporary injunction must be granted without bond to the petitioner. However, the court may authorize a respondent to post a bond equal to the amount to be enjoined and to have the injunction dissolved.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A temporary injunction is to be entered upon application of the petitioner, ex parte and without notice or opportunity for a hearing with respect to the monetary instruments or funds.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Such a temporary order expires not more than 10 days after the date on which the order is served, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If at any time the petitioner discovers that the funds sought to be enjoined total less than $10,000, the petitioner shall immediately inform the court and the court shall immediately dissolve the temporary injunction.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">At the termination of the temporary injunction or at any time before the termination of the temporary injunction, the petitioner may:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Obtain a warrant or other court order and seize the monetary instruments or funds and initiate a civil forfeiture action;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Obtain a warrant or other court order and seize the monetary instruments or funds for any subsequent criminal prosecution; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Petition the court to extend the order for a period not longer than 10 days from the original order’s termination date. At the end of the termination of the 10-day extension, the petitioner may take either of the steps outlined in subparagraph 1. or subparagraph 2. However, the petitioner may not be granted any additional extensions.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon service of the temporary order served pursuant to this section, the petitioner shall immediately notify by certified mail, return receipt requested, or by personal service, both the person or entity in possession of the monetary instruments or funds and the owner of the monetary instruments or funds if known, of the order entered pursuant to this section and that the lawful owner of the monetary instruments or funds being enjoined may request a hearing to contest and modify the order entered pursuant to this section by petitioning the court that issued the order, so that such notice is received within 72 hours.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The notice shall advise that the hearing shall be held within 3 days of the request, and the notice must state that the hearing will be set and noticed by the person against whom the order is served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The notice shall specifically state that the lawful owner has the right to produce evidence of legitimate business expenses, obligations, and liabilities, including but not limited to, employee payroll expenses verified by current reemployment assistance records, employee workers’ compensation insurance, employee health insurance, state and federal taxes, and regulatory or licensing fees only as may become due before the expiration of the temporary order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Upon determination by the court that the expenses are valid, payment of such expenses may be effected by the owner of the enjoined monetary instruments or funds only to the court-ordered payees through court-reviewed checks, issued by the owner of, and the person or entity in possession of, the enjoined monetary instruments or funds. Upon presentment, the person or entity in possession of the enjoined funds or monetary instruments shall only honor the payment of the check to the court-ordered payee.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Only the lawful owner or the account holder of the monetary instruments or funds being enjoined may request a hearing to contest the order entered pursuant to this section by petitioning the court that issued the order. A hearing must be held within 3 days after the request or as soon as practicable thereafter and before the expiration of the temporary order. The hearing must be set and noticed by the lawful owner of the monetary instruments or funds or his or her attorney. Notice of the hearing must be provided to the petitioner who procured the temporary injunction pursuant to the Florida Rules of Civil Procedure but not less than 24 hours before the scheduled hearing. The court may receive and consider at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Florida Rules of Evidence. A proceeding under this subsection is governed by the Florida Rules of Civil Procedure.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The petitioner may request issuance of a warrant authorizing the seizure of property, monetary instruments, or funds subject to civil forfeiture in the same manner as provided for search warrants in chapter 933.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any financial institution that receives a seizure warrant pursuant to paragraph (a), temporary injunction, or other court order, may deduct from the account the funds necessary to pay any electronic transaction or check presented for payment where the electronic transaction was initiated or the check deposited prior to the time the seizure order was served on the financial institution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Any financial institution, licensed money services business, or other person served with and complying with the terms of a warrant, temporary injunction, or other court order, including any subpoena issued under s. 16.56 or s. 27.04, obtained in furtherance of an investigation of any crime in this section, including any crime listed as specified unlawful activity under this section or any felony violation of chapter 560, has immunity from criminal liability and is not liable to any person for any lawful action taken in complying with the warrant, temporary injunction, or other court order, including any subpoena issued under s. 16.56 or s. 27.04. If any subpoena issued under s. 16.56 or s. 27.04 contains a nondisclosure provision, any financial institution, licensed money services business, employee or officer of a financial institution or licensed money services business, or any other person may not notify, directly or indirectly, any customer of that financial institution or money services business whose records are being sought by the subpoena, or any other person named in the subpoena, about the existence or the contents of that subpoena or about information that has been furnished to the state attorney or statewide prosecutor who issued the subpoena or other law enforcement officer named in the subpoena in response to the subpoena.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">In any prosecution brought pursuant to this chapter, the common law corpus delicti rule does not apply. The defendant’s confession or admission is admissible during trial without the state’s having to prove the corpus delicti if the court finds in a hearing conducted outside the presence of the jury that the defendant’s confession or admission is trustworthy. Before the court admits the defendant’s confession or admission, the state must prove by a preponderance of the evidence that there is sufficient corroborating evidence that tends to establish the trustworthiness of the statement by the defendant. Hearsay evidence is admissible during the presentation of evidence at the hearing. In making its determination, the court may consider all relevant corroborating evidence, including the defendant’s statements.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 34, 35, 36, ch. 87-243; s. 1, ch. 90-246; s. 74, ch. 91-282; s. 207, ch. 92-303; s. 81, ch. 94-209; s. 8, ch. 96-252; s. 9, ch. 96-260; s. 6, ch. 97-78; s. 18, ch. 2000-360; s. 49, ch. 2003-36; s. 9, ch. 2004-391; s. 11, ch. 2005-209; s. 6, ch. 2006-168; s. 52, ch. 2008-177; s. 82, ch. 2012-30.</History>
+</Section>

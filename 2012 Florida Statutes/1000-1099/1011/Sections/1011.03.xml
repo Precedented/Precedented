@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public hearings; budget to be submitted to Department of Education.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each district school board shall cause a summary of its tentative budget, including the proposed millage levies as provided for by law, to be posted on the district’s official website and advertised once in a newspaper of general circulation published in the district or to be posted at the courthouse if there be no such newspaper.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The advertisement of a district that has been required by the Legislature to increase classroom expenditures pursuant to s. 1011.64 must include the following statement:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">“This proposed budget reflects an increase in classroom expenditures as a percent of total current operating expenditures of XX percent over the (previous fiscal year) fiscal year. This increase in classroom expenditures is required by the Legislature because the district has performed below the required performance standard on XX of XX student performance standards for the (previous school year) school year. In order to achieve the legislatively required level of classroom expenditures as a percentage of total operating expenditures, the proposed budget includes an increase in overall classroom expenditures of $XX,XXX,XXX above the amount spent for this same purpose during the (previous fiscal year) fiscal year. In order to achieve improved student academic performance, this proposed increase is being budgeted for the following activities: <Directions xml:space="preserve">(list activities and amount budgeted)</Directions>.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The advertisement shall appear adjacent to the advertisement required pursuant to s. 200.065. The State Board of Education may adopt rules necessary to provide specific requirements for the format of the advertisement.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The board shall hold public hearings to adopt tentative and final budgets pursuant to s. 200.065. The hearings shall be primarily for the purpose of hearing requests and complaints from the public regarding the budgets and the proposed tax levies and for explaining the budget and proposed or adopted amendments thereto, if any. The tentative budget must be posted on the district’s official website at least 2 days before the budget hearing held pursuant to s. 200.065 or other law. The final adopted budget must be posted on the district’s official website within 30 days after adoption. The board shall require the superintendent to transmit two copies of the adopted budget to the Department of Education as prescribed by law and rules of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the governing body of a district amends the budget, the adopted amendment must be posted on the official website of the district within 5 days after adoption.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 606, ch. 2002-387; s. 24, ch. 2010-154; s. 23, ch. 2011-144; s. 31, ch. 2011-175.</History>
+</Section>

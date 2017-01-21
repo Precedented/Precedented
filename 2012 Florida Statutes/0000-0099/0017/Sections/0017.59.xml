@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0017.59" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Safekeeping services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer shall administer a collateral management service for all state agencies as defined in s. 216.011, or any county, city, or political subdivision thereof, or other public authority that requires by statute, rule, or contract the deposit or pledge of collateral.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Eligible collateral listed in s. 17.57 may be deposited or pledged using the following collateral arrangements as approved by the Chief Financial Officer:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Collateral deposited and held by a custodian of the Chief Financial Officer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Collateral pledged to the Chief Financial Officer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Securities and articles of value deposited and held by the Chief Financial Officer.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Cash deposited in the Treasury Cash Deposit Trust Fund and the Public Deposit Security Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Cash deposited with the Chief Financial Officer as escrow agent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer may, in his or her discretion, establish a fee for processing, servicing, and safekeeping deposits and other documents or articles of value maintained by the Chief Financial Officer as requested by the various entities according to a service-level agreement or as provided for by law. Such fee shall be equivalent to the fee charged by financial institutions for processing, servicing, and safekeeping the same types of deposits and other documents or articles of value.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Chief Financial Officer shall collect in advance, and persons so served shall pay to the Chief Financial Officer in advance, the miscellaneous charges as described in a service-level agreement.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All fees collected for the services described in this section shall be deposited in the Treasury Administrative and Investment Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 90-357; s. 2, ch. 92-87; s. 74, ch. 95-147; s. 58, ch. 2003-261; s. 4, ch. 2004-390; s. 15, ch. 2012-116.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 18.103.</Text>
+	</Note>
+</Section>

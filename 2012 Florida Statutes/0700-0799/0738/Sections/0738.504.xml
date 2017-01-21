@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.504" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Insurance policies and similar contracts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (2), a fiduciary shall allocate to principal the proceeds of a life insurance policy or other contract in which the trust, estate, or fiduciary is named as beneficiary, including a contract that insures the trust, estate, or fiduciary against loss for damage to, destruction of, or loss of title to a trust or estate asset. The fiduciary shall allocate dividends on an insurance policy to income if the premiums on the policy are paid from income and to principal if the premiums are paid from principal.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A fiduciary shall allocate to income the proceeds of a contract that insures the fiduciary against loss of occupancy or other use by an income beneficiary, loss of income, or, subject to s. 738.403, loss of profits from a business.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to a contract to which s. 738.602 applies.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 18, ch. 2012-49.</History>
+</Section>

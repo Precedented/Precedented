@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XIX">
+	<ChapterNumber>287</ChapterNumber>
+	<ChapterName xml:space="preserve">Procurement of personal property and services</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Commodities, insurance, and<NewLine />contractual services</PartTitle>
+		<Section Number="0287.001" />
+		<Section Number="0287.012" />
+		<Section Number="0287.017" />
+		<Section Number="0287.022" />
+		<Section Number="0287.025" />
+		<Section Number="0287.032" />
+		<Section Number="0287.042" />
+		<Section Number="0287.055" />
+		<Section Number="0287.056" />
+		<Section Number="0287.057" />
+		<Section Number="0287.0571" />
+		<Section Number="0287.0572" />
+		<Section Number="0287.0575" />
+		<Section Number="0287.058" />
+		<Section Number="0287.05805" />
+		<Section Number="0287.0582" />
+		<Section Number="0287.0585" />
+		<Section Number="0287.059" />
+		<Section Number="0287.0595" />
+		<Section Number="0287.063" />
+		<Section Number="0287.064" />
+		<Section Number="0287.0641" />
+		<Section Number="0287.0731" />
+		<Section Number="0287.074" />
+		<Section Number="0287.075" />
+		<Section Number="0287.076" />
+		<Section Number="0287.082" />
+		<Section Number="0287.0821" />
+		<Section Number="0287.0822" />
+		<Section Number="0287.083" />
+		<Section Number="0287.0831" />
+		<Section Number="0287.0834" />
+		<Section Number="0287.084" />
+		<Section Number="0287.087" />
+		<Section Number="0287.092" />
+		<Section Number="0287.093" />
+		<Section Number="0287.0931" />
+		<Section Number="0287.0935" />
+		<Section Number="0287.094" />
+		<Section Number="0287.0943" />
+		<Section Number="0287.09431" />
+		<Section Number="0287.09451" />
+		<Section Number="0287.0947" />
+		<Section Number="0287.095" />
+		<Section Number="0287.131" />
+		<Section Number="0287.132" />
+		<Section Number="0287.133" />
+		<Section Number="0287.134" />
+		<Section Number="0287.135" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Means of transport</PartTitle>
+		<Section Number="0287.14" />
+		<Section Number="0287.15" />
+		<Section Number="0287.151" />
+		<Section Number="0287.155" />
+		<Section Number="0287.16" />
+		<Section Number="0287.17" />
+		<Section Number="0287.175" />
+		<Section Number="0287.18" />
+		<Section Number="0287.19" />
+		<Section Number="0287.20" />
+	</Part>
+</Chapter>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.5071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Effect of certain events on effectiveness of financing statement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A filed financing statement remains effective with respect to collateral that is sold, exchanged, leased, licensed, or otherwise disposed of and in which a security interest or agricultural lien continues, even if the secured party knows of or consents to the disposition.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (3) and s. 679.508, a financing statement is not rendered ineffective if, after the financing statement is filed, the information provided in the financing statement becomes seriously misleading under the standard set forth in s. 679.5061.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">If a debtor so changes its name that a filed financing statement becomes seriously misleading under the standard set forth in s. 679.5061:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The financing statement is effective to perfect a security interest in collateral acquired by the debtor before, or within 4 months after, the change; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The financing statement is not effective to perfect a security interest in collateral acquired by the debtor more than 4 months after the change, unless an amendment to the financing statement which renders the financing statement not seriously misleading is filed within 4 months after the change.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2001-198; s. 12, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 12, ch. 2012-59, amended subsection (3), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(3) If the name that a filed financing statement provides for a debtor becomes insufficient as the name of the debtor under s. 679.5031(1) so that the financing statement becomes seriously misleading under the standard set forth in s. 679.5061:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The financing statement is effective to perfect a security interest in collateral acquired by the debtor before, or within 4 months after, the filed financing statement becomes seriously misleading; and</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The financing statement is not effective to perfect a security interest in collateral acquired by the debtor more than 4 months after the filed financing statement becomes seriously misleading, unless an amendment to the financing statement which renders the financing statement not seriously misleading is filed within 4 months after that event.</Text>
+	</Note>
+</Section>

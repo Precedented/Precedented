@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0914.24" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Civil action to restrain harassment of a victim or witness.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A circuit court, upon application of the state attorney, shall issue a temporary restraining order prohibiting the harassment of a victim or witness in a criminal case if the court finds, from specific facts shown by affidavit or by verified complaint, that there are reasonable grounds to believe that harassment of an identified victim or witness in a criminal case exists or that such order is necessary to prevent and restrain an offense under s. 914.22, other than an offense consisting of misleading conduct, or to prevent and restrain an offense under s. 914.23.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A temporary restraining order may be issued under this section without written or oral notice to the adverse party or such party’s attorney in a civil action under this section if the court finds, upon written certification of facts by the state attorney, that such notice should not be required and that there is a reasonable probability that the state will prevail on the merits. The temporary restraining order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail, and not by reference to the complaint or other document, the act or acts being restrained.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A temporary restraining order issued without notice under this section shall be endorsed with the date and hour of issuance and be filed forthwith in the office of the clerk of the court issuing the order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A temporary restraining order issued under this section shall expire at such time as the court directs, not to exceed 10 days from issuance. The court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 10 days or for a longer period agreed to by the adverse party.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character; and, if the state attorney does not proceed with the application for a protective order when such motion comes on for hearing, the court shall dissolve the temporary restraining order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If, on 2 days’ notice to the state attorney or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A circuit court, upon motion of the state attorney, shall issue a protective order prohibiting the harassment of a victim or witness in a criminal case if the court, after a hearing, finds by a preponderance of the evidence that harassment of an identified victim or witness in a criminal case exists or that such order is necessary to prevent and restrain an offense under s. 914.22, other than an offense consisting of misleading conduct, or to prevent and restrain an offense under s. 914.23.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At the hearing referred to in paragraph (a), any adverse party named in the complaint has the right to present evidence and cross-examine witnesses.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A protective order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail, and not by reference to the complaint or other document, the act or acts being restrained.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The court shall set the duration of the protective order for such period as it determines is necessary to prevent the harassment of the victim or witness but in no case shall the duration be set for a period in excess of 3 years from the date of the issuance of the order. The state attorney may, at any time within 90 days before the expiration of such order, apply for a new protective order under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Harassment” means a course of conduct directed at a specific person that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Causes substantial emotional distress in such person; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Serves no legitimate purpose.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Course of conduct” means a series of acts over a period of time, however short, indicating a continuity of purpose.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Nothing in this section precludes a court from entering any other order or remedy which may be appropriate in the circumstances.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 84-363; s. 2, ch. 92-281; s. 20, ch. 2010-117.</History>
+</Section>

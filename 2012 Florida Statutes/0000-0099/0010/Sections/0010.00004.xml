@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0010.00004" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Territory not specified for inclusion in any district.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Any portion of the state which is not stated in this joint resolution as being included in any district and which is entirely surrounded by a district shall be included within the surrounding district. Any portion of the state which is not stated in this joint resolution as being included in any district and which is contiguous to two or more districts shall be included within the contiguous district that contains the least population per legislator according to the United States Decennial Census of 2000; however, if the contiguous districts have equal populations, such portion shall be included within that contiguous district that has the lowest number designation.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, HJR 1987, 2002 Regular Session.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Superseded by s. 10.14, created by s. 4, Committee Substitute for Senate Joint Resolution 1176, 2012 Regular Session.</Text>
+	</Note>
+</Section>

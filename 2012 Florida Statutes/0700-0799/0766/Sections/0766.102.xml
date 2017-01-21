@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0766.102" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Medical negligence; standards of recovery; expert witness.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In any action for recovery of damages based on the death or personal injury of any person in which it is alleged that such death or injury resulted from the negligence of a health care provider as defined in s. 766.202(4), the claimant shall have the burden of proving by the greater weight of evidence that the alleged actions of the health care provider represented a breach of the prevailing professional standard of care for that health care provider. The prevailing professional standard of care for a given health care provider shall be that level of care, skill, and treatment which, in light of all relevant surrounding circumstances, is recognized as acceptable and appropriate by reasonably prudent similar health care providers.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the injury is claimed to have resulted from the negligent affirmative medical intervention of the health care provider, the claimant must, in order to prove a breach of the prevailing professional standard of care, show that the injury was not within the necessary or reasonably foreseeable results of the surgical, medicinal, or diagnostic procedure constituting the medical intervention, if the intervention from which the injury is alleged to have resulted was carried out in accordance with the prevailing professional standard of care by a reasonably prudent similar health care provider.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The provisions of this subsection shall apply only when the medical intervention was undertaken with the informed consent of the patient in compliance with the provisions of s. 766.103.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Insurer” means any public or private insurer, including the Centers for Medicare and Medicaid Services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Reimbursement determination” means an insurer’s determination of the amount that the insurer will reimburse a health care provider for health care services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Reimbursement policies” means an insurer’s policies and procedures governing its decisions regarding health insurance coverage and method of payment and the data upon which such policies and procedures are based, including, but not limited to, data from national research groups and other patient safety data as defined in s. 766.1016.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The existence of a medical injury does not create any inference or presumption of negligence against a health care provider, and the claimant must maintain the burden of proving that an injury was proximately caused by a breach of the prevailing professional standard of care by the health care provider. Any records, policies, or testimony of an insurer’s reimbursement policies or reimbursement determination regarding the care provided to the plaintiff is not admissible as evidence in any medical negligence action. However, the discovery of the presence of a foreign body, such as a sponge, clamp, forceps, surgical needle, or other paraphernalia commonly used in surgical, examination, or diagnostic procedures, shall be prima facie evidence of negligence on the part of the health care provider.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Legislature is cognizant of the changing trends and techniques for the delivery of health care in this state and the discretion that is inherent in the diagnosis, care, and treatment of patients by different health care providers. The failure of a health care provider to order, perform, or administer supplemental diagnostic tests shall not be actionable if the health care provider acted in good faith and with due regard for the prevailing professional standard of care.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A person may not give expert testimony concerning the prevailing professional standard of care unless the person is a health care provider who holds an active and valid license and conducts a complete review of the pertinent medical records and meets the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the health care provider against whom or on whose behalf the testimony is offered is a specialist, the expert witness must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Specialize in the same specialty as the health care provider against whom or on whose behalf the testimony is offered; or specialize in a similar specialty that includes the evaluation, diagnosis, or treatment of the medical condition that is the subject of the claim and have prior experience treating similar patients; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Have devoted professional time during the 3 years immediately preceding the date of the occurrence that is the basis for the action to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The active clinical practice of, or consulting with respect to, the same or similar specialty that includes the evaluation, diagnosis, or treatment of the medical condition that is the subject of the claim and have prior experience treating similar patients;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Instruction of students in an accredited health professional school or accredited residency or clinical research program in the same or similar specialty; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A clinical research program that is affiliated with an accredited health professional school or accredited residency or clinical research program in the same or similar specialty.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the health care provider against whom or on whose behalf the testimony is offered is a general practitioner, the expert witness must have devoted professional time during the 5 years immediately preceding the date of the occurrence that is the basis for the action to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The active clinical practice or consultation as a general practitioner;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The instruction of students in an accredited health professional school or accredited residency program in the general practice of medicine; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A clinical research program that is affiliated with an accredited medical school or teaching hospital and that is in the general practice of medicine.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the health care provider against whom or on whose behalf the testimony is offered is a health care provider other than a specialist or a general practitioner, the expert witness must have devoted professional time during the 3 years immediately preceding the date of the occurrence that is the basis for the action to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The active clinical practice of, or consulting with respect to, the same or similar health profession as the health care provider against whom or on whose behalf the testimony is offered;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The instruction of students in an accredited health professional school or accredited residency program in the same or similar health profession in which the health care provider against whom or on whose behalf the testimony is offered; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A clinical research program that is affiliated with an accredited medical school or teaching hospital and that is in the same or similar health profession as the health care provider against whom or on whose behalf the testimony is offered.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A physician licensed under chapter 458 or chapter 459 who qualifies as an expert witness under subsection (5) and who, by reason of active clinical practice or instruction of students, has knowledge of the applicable standard of care for nurses, nurse practitioners, certified registered nurse anesthetists, certified registered nurse midwives, physician assistants, or other medical support staff may give expert testimony in a medical negligence action with respect to the standard of care of such medical support staff.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (5), in a medical negligence action against a hospital, a health care facility, or medical facility, a person may give expert testimony on the appropriate standard of care as to administrative and other nonclinical issues if the person has substantial knowledge, by virtue of his or her training and experience, concerning the standard of care among hospitals, health care facilities, or medical facilities of the same type as the hospital, health care facility, or medical facility whose acts or omissions are the subject of the testimony and which are located in the same or similar communities at the time of the alleged act giving rise to the cause of action.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">If a health care provider described in subsection (5), subsection (6), or subsection (7) is providing evaluation, treatment, or diagnosis for a condition that is not within his or her specialty, a specialist trained in the evaluation, treatment, or diagnosis for that condition shall be considered a similar health care provider.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In any action for damages involving a claim of negligence against a physician licensed under chapter 458, osteopathic physician licensed under chapter 459, podiatric physician licensed under chapter 461, or chiropractic physician licensed under chapter 460 providing emergency medical services in a hospital emergency department, the court shall admit expert medical testimony only from physicians, osteopathic physicians, podiatric physicians, and chiropractic physicians who have had substantial professional experience within the preceding 5 years while assigned to provide emergency medical services in a hospital emergency department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this subsection:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The term “emergency medical services” means those medical services required for the immediate diagnosis and treatment of medical conditions which, if not immediately diagnosed and treated, could lead to serious physical or mental disability or death.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Substantial professional experience” shall be determined by the custom and practice of the manner in which emergency medical coverage is provided in hospital emergency departments in the same or similar localities where the alleged negligence occurred.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">In any action alleging medical negligence, an expert witness may not testify on a contingency fee basis.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Any attorney who proffers a person as an expert witness pursuant to this section must certify that such person has not been found guilty of fraud or perjury in any jurisdiction.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">If a physician licensed under chapter 458 or chapter 459 or a dentist licensed under chapter 466 is the party against whom, or on whose behalf, expert testimony about the prevailing professional standard of care is offered, the expert witness must be licensed under chapter 458, chapter 459, or chapter 466 or possess a valid expert witness certificate issued under s. 458.3175, s. 459.0066, or s. 466.005.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">A health care provider’s failure to comply with or breach of any federal requirement is not admissible as evidence in any medical negligence case in this state.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">This section does not limit the power of the trial court to disqualify or qualify an expert witness on grounds other than the qualifications in this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 76-260; s. 8, ch. 77-64; s. 1, ch. 77-174; s. 10, ch. 85-175; s. 78, ch. 88-1; s. 30, ch. 91-110; s. 1149, ch. 97-102; ss. 229, 296, ch. 98-166; s. 48, ch. 2003-416; s. 153, ch. 2004-5; s. 10, ch. 2011-233.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 768.45.</Text>
+	</Note>
+</Section>

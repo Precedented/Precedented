@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.326" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Priority of security interests created by new debtor.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Subject to subsection (2), a security interest created by a new debtor which is perfected by a filed financing statement that is effective solely under s. 679.508 in collateral in which a new debtor has or acquires rights is subordinate to a security interest in the same collateral which is perfected other than by a filed financing statement that is effective solely under s. 679.508.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements that are effective solely under s. 679.508. However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor’s having become bound.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2001-198; s. 7, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 7, ch. 2012-59, amended s. 679.326, effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">679.326 Priority of security interests created by new debtor.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) Subject to subsection (2), a security interest that is created by a new debtor in collateral in which the new debtor has or acquires rights and perfected by a filed financing statement that would be ineffective to perfect the security interest but for the application of s. 679.508 or ss. 679.508 and 679.3161(9)(a) is subordinate to a security interest in the same collateral which is perfected other than by such a filed financing statement.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements described in subsection (1). However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor’s having become bound.</Text>
+	</Note>
+</Section>

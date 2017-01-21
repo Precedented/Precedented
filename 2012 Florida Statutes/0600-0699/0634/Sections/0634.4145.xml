@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0634.4145" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Noncompliant forms.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The office may order a service warranty association to stop using any contract form that:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Violates this part;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Is misleading in any respect;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Is reproduced so that any material provision is substantially illegible; or</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Contains provisions which are unfair or inequitable or which encourage misrepresentation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 10, 38, ch. 83-322; s. 57, ch. 91-106; s. 20, ch. 93-195; s. 1499, ch. 2003-261; s. 33, ch. 2010-175.</History>
+</Section>

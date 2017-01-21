@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0402.81" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Pharmaceutical expense assistance.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PROGRAM ESTABLISHED.<EmDash />A program is established in the Agency for Health Care Administration to provide pharmaceutical expense assistance to individuals diagnosed with cancer or individuals who have received organ transplants who were medically needy recipients prior to January 1, 2006.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY.<EmDash />Eligibility for the program is limited to an individual who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is a resident of this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Was a Medicaid recipient under the Florida Medicaid medically needy program prior to January 1, 2006;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is eligible for Medicare;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Is a cancer patient or an organ transplant recipient; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Requests to be enrolled in the program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">BENEFITS.<EmDash />Subject to an appropriation in the General Appropriations Act and the availability of funds, the Agency for Health Care Administration shall pay, using Medicaid payment policies, the Medicare Part B prescription drug coinsurance and deductibles for Medicare Part B medications that treat eligible cancer and organ transplant patients.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADMINISTRATION.<EmDash />The pharmaceutical expense assistance program shall be administered by the agency, in collaboration with the Department of Elderly Affairs and the Department of Children and Family Services.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By January 1 of each year, the agency shall report to the Legislature on the operation of the program. The report shall include information on the number of individuals served, use rates, and expenditures under the program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">NONENTITLEMENT.<EmDash />The pharmaceutical expense assistance program established by this section is not an entitlement. The agency may develop a waiting list based on application dates to use in enrolling individuals when funds become available for unfilled enrollment slots.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 20, ch. 2006-28; s. 25, ch. 2011-135.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 409.9301.</Text>
+	</Note>
+</Section>

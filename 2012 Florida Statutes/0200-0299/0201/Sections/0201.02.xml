@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0201.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Tax on deeds and other instruments relating to real property or interests in real property.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Reference Number="1" />
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">On deeds, instruments, or writings whereby any lands, tenements, or other real property, or any interest therein, shall be granted, assigned, transferred, or otherwise conveyed to, or vested in, the purchaser or any other person by his or her direction, on each $100 of the consideration therefor the tax shall be 70 cents. When the full amount of the consideration for the execution, assignment, transfer, or conveyance is not shown in the face of such deed, instrument, document, or writing, the tax shall be at the rate of 70 cents for each $100 or fractional part thereof of the consideration therefor. For purposes of this section, consideration includes, but is not limited to, the money paid or agreed to be paid; the discharge of an obligation; and the amount of any mortgage, purchase money mortgage lien, or other encumbrance, whether or not the underlying indebtedness is assumed. If the consideration paid or given in exchange for real property or any interest therein includes property other than money, it is presumed that the consideration is equal to the fair market value of the real property or interest therein.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For purposes of this paragraph the term:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">“Conduit entity” means a legal entity to which real property is conveyed without full consideration by a grantor who owns a direct or indirect interest in the entity, or a successor entity.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">“Full consideration” means the consideration that would be paid in an arm’s length transaction between unrelated parties.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">When real property is conveyed to a conduit entity and all or a portion of the grantor’s direct or indirect ownership interest in the conduit entity is subsequently transferred for consideration within 3 years of such conveyance, tax is imposed on each such transfer of an interest in the conduit entity for consideration at the rate of 70 cents for each $100 or fraction thereof of the consideration paid or given in exchange for the ownership interest in the conduit entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">When an ownership interest is transferred in a conduit entity that owns assets other than the real property conveyed to the conduit entity, the tax shall be prorated based on the percentage the value of such real property represents of the total value of all assets owned by the conduit entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A gift of an ownership interest in a conduit entity is not subject to tax to the extent there is no consideration. The transfer of shares or similar equity interests in a conduit entity which are dealt in or traded on public, regulated security exchanges or markets is not subject to tax under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The transfer for purposes of estate planning by a natural person of an interest in a conduit entity to an irrevocable grantor trust as described in subpart E of part I of subchapter J of chapter 1 of subtitle A of the United States Internal Revenue Code is not subject to tax under this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The purpose of this paragraph is to impose the documentary stamp tax on the transfer for consideration of a beneficial interest in real property. The provisions of this paragraph are to be construed liberally to effectuate this purpose.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Conversion or merger of a trust that is not a legal entity that owns real property in this state into a legal entity shall be treated as a conveyance of the real property for the purposes of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Taxes imposed by this subsection shall be paid pursuant to s. 201.133 when no document is recorded. If a document is recorded, taxes imposed by the paragraph shall be paid as required for all other taxable documents that are recorded.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The tax imposed by subsection (1) shall also be payable upon documents by which the right is granted to a tenant-stockholder to occupy an apartment in a building owned by a cooperative apartment corporation or in a dwelling on real property owned by any other form of cooperative association as defined in s. 719.103.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The tax imposed by subsection (2) shall be paid by the purchaser, and the document recorded in the office of the clerk of the circuit court as evidence of ownership.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The tax imposed by subsection (1) shall also be payable upon documents which convey or transfer, pursuant to s. 689.071, any beneficial interest in lands, tenements, or other real property, or any interest therein, even though such interest may be designated as personal property, notwithstanding the provisions of s. 689.071(6). The tax shall be paid upon execution of any such document.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All conveyances of real property to a partner from a partnership which property was conveyed to the partnership after July 1, 1986, are taxable if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The partner receiving the real property from the partnership is a partner other than the partner who conveyed the real property to the partnership; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The partner receiving the real property from the partnership is the partner who conveyed the real property to the partnership and there is a mortgage debt or other debt secured by such real property for which the partner was not personally liable prior to conveying the real property to the partnership.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For purposes of this subsection, the value of the consideration paid for the conveyance of the real property to the partner from the partnership includes, but is not limited to, the amount of any outstanding mortgage debt or other debt which the partner pays or agrees to pay in exchange for the real property, regardless of whether the partner was personally liable for the debts of the partnership prior to the conveyance to the partner from the partnership.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Taxes imposed by this section shall not apply to any assignment, transfer, or other disposition, or any document, which arises out of a transfer of real property from a nonprofit organization to the Board of Trustees of the Internal Improvement Trust Fund, to any state agency, to any water management district, or to any local government. For purposes of this subsection, “nonprofit organization” means an organization whose purpose is the preservation of natural resources and which is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code. The Department of Revenue shall provide a form, or a place on an existing form, for the nonprofit organization to indicate its exempt status.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Taxes imposed by this section do not apply to a deed, transfer, or conveyance between spouses or former spouses pursuant to an action for dissolution of their marriage wherein the real property is or was their marital home or an interest therein. Taxes paid pursuant to this section shall be refunded in those cases in which a deed, transfer, or conveyance occurred 1 year before a dissolution of marriage. This subsection applies in spite of any consideration as defined in subsection (1). This subsection does not apply to a deed, transfer, or conveyance executed before July 1, 1997.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Taxes imposed by this section do not apply to a contract to sell the residence of an employee relocating at his or her employer’s direction or to documents related to the contract, which contract is between the employee and the employer or between the employee and a person in the business of providing employee relocation services. In the case of such transactions, taxes apply only to the transfer of the real property comprising the residence by deed that vests legal title in a named grantee.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A certificate of title issued by the clerk of court under s. 45.031(5) in a judicial sale of real property under an order or final judgment issued pursuant to a foreclosure proceeding is subject to the tax imposed by subsection (1). However, the amount of the tax shall be computed based solely on the amount of the highest and best bid received for the property at the foreclosure sale. This subsection is intended to clarify existing law and shall be applied retroactively.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In recognition of the special escrow requirements that apply to sales of timeshare interests in timeshare plans pursuant to s. 721.08, tax on deeds or other instruments conveying any interest in Florida real property which are executed in conjunction with the sale by a developer of a timeshare interest in a timeshare plan is due and payable on the earlier of the date on which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The deed or other instrument conveying the interest in Florida real property is recorded; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All of the conditions precedent to the release of the purchaser’s escrowed funds or other property pursuant to s. 721.08(2)(c) have been met, regardless of whether the developer has posted an alternative assurance. Tax due pursuant to this subparagraph is due and payable on or before the 20th day of the month following the month in which these conditions were met.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If tax has been paid to the department pursuant to subparagraph (a)2., and the deed or other instrument conveying the interest in Florida real property with respect to which the tax was paid is subsequently recorded, a notation reflecting the prior payment of the tax must be made upon the deed or other instrument conveying the interest in Florida real property.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a), if funds are designated on a closing statement as tax collected from the purchaser, but a default or cancellation occurs pursuant to s. 721.08(2)(a) or (b) and no deed or other instrument conveying interest in Florida real property has been recorded or delivered to the purchaser, the tax must be paid to the department on or before the 20th day of the month following the month in which the funds are available for release from escrow unless the funds have been refunded to the purchaser.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules to administer the method for reporting tax due under this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The taxable consideration for a short sale transfer does not include unpaid indebtedness that is forgiven or released by a mortgagee holding a mortgage on the grantor’s interest in the property. For purposes of this subsection, the term “short sale” means a purchase and sale of real property in which all of the following apply:</Text>
+			<Paragraph Id="a">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">The grantor’s interest is encumbered by a mortgage or mortgages securing indebtedness in an aggregate amount greater than the consideration paid or given by the grantee.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">A mortgagee releases the real property from its mortgage in exchange for a payment of less than the total of the outstanding mortgage indebtedness owed to the releasing mortgagee.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The releasing mortgagee does not receive, directly or indirectly, any interest in the property transferred.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The releasing mortgagee is not controlled by or related to the grantor or the grantee.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 15787, 1931; CGL 1936 Supp. 1279(111); s. 1, ch. 57-397; s. 1, ch. 63-533; s. 1, ch. 70-304; s. 1, ch. 71-362; ss. 2, 3, ch. 79-350; ss. 1, 4, ch. 81-33; s. 6, ch. 85-347; s. 10, ch. 86-152; s. 34, ch. 87-6; s. 7, ch. 90-132; s. 2, ch. 91-192; s. 9, ch. 92-32; s. 1, ch. 92-288; s. 2, ch. 92-317; s. 1049, ch. 95-147; s. 2, ch. 97-191; s. 1, ch. 2002-8; s. 8, ch. 2002-218; s. 4, ch. 2005-280; s. 8, ch. 2006-175; s. 2, ch. 2006-274; s. 4, ch. 2009-131; s. 1, ch. 2010-32; s. 3, ch. 2010-138.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 2009-131, provides that “[e]ffective [June 10, 2009], the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54(4), Florida Statutes, to implement s. 201.02, Florida Statutes, as amended by section 4 of this act. Notwithstanding any other provision of law, such emergency rules shall remain effective for 6 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">As created by s. 3, ch. 2010-138. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Paragraphs (a) and (b) were also created by s. 1, ch. 2010-32, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The grantor’s interest is encumbered by a mortgage or mortgages securing indebtedness in an aggregate amount greater than the purchase price paid by the grantee.</Text>
+		<Text xml:space="preserve" Style="Indent">(b) A mortgagee releases the real property from its mortgage in exchange for a partial payment of less than the total of the outstanding mortgage indebtedness owed to the releasing mortgagee.</Text>
+	</Note>
+</Section>

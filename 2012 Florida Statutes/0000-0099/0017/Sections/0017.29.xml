@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0017.29" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Authority to prescribe rules.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Chief Financial Officer may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement this chapter and the duties assigned by statute or the State Constitution. Such rules may include, but are not limited to, the following:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Procedures or policies relating to the processing of payments from salaries, other personal services, or any other applicable appropriation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Procedures for processing interagency and intraagency payments that do not require the issuance of a state warrant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Procedures or policies requiring that payments made by the state for goods, services, or anything of value be made by electronic means, including, but not limited to, debit cards, credit cards, or electronic funds transfers.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A method that reasonably accommodates persons who, because of technological, financial, or other hardship, may not be able to receive payments by electronic means. The Chief Financial Officer may make payments by state warrant if deemed administratively necessary.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 83-132; s. 65, ch. 95-147; s. 7, ch. 98-200; s. 41, ch. 2003-261; s. 3, ch. 2010-151.</History>
+</Section>

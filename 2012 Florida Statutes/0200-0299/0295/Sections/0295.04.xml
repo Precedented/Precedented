@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0295.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Appropriation; benefits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The sum necessary for the purposes of this chapter shall be appropriated in the General Appropriations Act for each fiscal year, provided that no student shall receive an amount in excess of tuition and registration fees.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “eligible postsecondary education institution” means an institution described in s. 1009.533.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A student who is enrolled in a public eligible postsecondary education institution is eligible for an award equal to the amount required to pay tuition and registration fees or the amount specified in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A student enrolled in a nonpublic eligible postsecondary education institution is eligible for an award equal to the amount that would be required to pay for the average tuition and registration fees of a public postsecondary education institution at the comparable level or the amount specified in the General Appropriations Act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Only students in good standing in their respective institutions shall receive the benefits under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 20966, 1941; s. 38, ch. 26869, 1951; s. 2, ch. 63-124; s. 17, ch. 65-130; s. 18, ch. 69-180; s. 1, ch. 73-305; s. 2, ch. 74-211; s. 3, ch. 82-93; s. 5, ch. 86-177; s. 2, ch. 2010-155.</History>
+</Section>

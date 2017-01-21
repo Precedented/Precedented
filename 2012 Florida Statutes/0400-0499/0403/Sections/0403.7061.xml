@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.7061" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Requirements for review of new waste-to-energy facility capacity by the Department of Environmental Protection.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature recognizes the need to use an integrated approach to municipal solid waste management. Accordingly, the solid waste management legislation adopted in 1988 was guided by policies intended to foster integrated solid waste management by using waste reduction, recycling, waste-to-energy facilities, and landfills. Progress is being made in the state using this integrated approach to municipal solid waste management, and this approach should be continued. Waste-to-energy facilities will continue to be an integral part of the state’s solid waste management practices. However, the state is committed to achieving its recycling and waste reduction goals and must ensure that waste-to-energy facilities are fully integrated with the state’s waste management goals. Therefore, the Legislature finds that the department should evaluate applications for waste-to-energy facilities in accordance with the new criteria in subsection (3) to confirm that the facilities are part of an integrated waste management plan.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of state law, the department shall not issue a construction permit or certification to build a waste-to-energy facility or expand an existing waste-to-energy facility unless the facility meets the requirements set forth in subsection (3). Any construction permit issued by the department between January 1, 1993, and May 12, 1993, which does not address these new requirements is invalid. These new requirements do not apply to the issuance of permits or permit modifications to retrofit existing facilities with new or improved pollution control equipment to comply with state or federal law. The department may initiate rulemaking to incorporate the criteria in subsection (3) into its permit review process.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An applicant must provide reasonable assurance that the construction of a new waste-to-energy facility or the expansion of an existing waste-to-energy facility will comply with the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The facility is a necessary part of the local government’s integrated solid waste management program in the jurisdiction where the facility is located and cannot be avoided through feasible and practical efforts to use recycling or waste reduction.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The use of capacity at existing waste-to-energy facilities within reasonable transportation distance of the proposed facility must have been evaluated and found not to be economically feasible when compared to the use of the proposed facility for the expected life of the proposed facility. This paragraph does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Applications to build or expand waste-to-energy facilities received by the department before March 1, 1993, or amendments to such applications that do not increase combustion capacity beyond that requested as of March 1, 1993; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any modification to waste-to-energy facility construction or operating permits or certifications or conditions thereto, including certifications under ss. 403.501-403.518, that do not increase combustion capacity above that amount applied for before March 1, 1993.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The local government in which the facility is located has implemented a mulching, composting, or other waste reduction program for yard trash.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The local governments served by the facility will have implemented or participated in a separation program designed to remove small-quantity generator and household hazardous waste, mercury containing devices, and mercuric-oxide batteries from the waste stream prior to incineration, by the time the facility begins operation.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The local government in which the facility is located has implemented a program to procure products or materials with recycled content, pursuant to s. 403.7065.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A program will exist in the local government in which the facility is located for collecting and recycling recovered material from the institutional, commercial, and industrial sectors by the time the facility begins operation.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The facility will be in compliance with applicable local ordinances and with the approved state and local comprehensive plans required by chapter 163.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The facility is in substantial compliance with its permit, conditions of certification, and any agreements or orders resulting from environmental enforcement actions by state agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For the purposes of this section, the term “waste-to-energy facility” means a facility that uses an enclosed device using controlled combustion to thermally break down solid, liquid, or gaseous combustible solid waste to an ash residue that contains little or no combustible material and that produces electricity, steam, or other energy as a result. The term does not include facilities that primarily burn fuels other than solid waste even if such facilities also burn some solid waste as a fuel supplement. The term also does not include facilities that burn vegetative, agricultural, or silvicultural wastes, bagasse, clean dry wood, methane or other landfill gas, wood fuel derived from construction or demolition debris, or waste tires, alone or in combination with fossil fuels.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 56, ch. 93-207; s. 396, ch. 94-356; s. 16, ch. 98-258; s. 39, ch. 99-5; s. 5, ch. 2002-291; s. 3, ch. 2005-259; s. 11, ch. 2007-184; s. 8, ch. 2010-143.</History>
+</Section>

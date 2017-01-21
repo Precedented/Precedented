@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.43" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department of Health.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is created a Department of Health.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The purpose of the Department of Health is to protect and promote the health of all residents and visitors in the state through organized state and community efforts, including cooperative agreements with counties. The department shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Identify, diagnose, and conduct surveillance of diseases and health conditions in the state and accumulate the health statistics necessary to establish trends.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Implement interventions that prevent or limit the impact or spread of diseases and health conditions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Collect, manage, and analyze vital statistics and other health data to inform the public and formulate public health policy and planning.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintain and coordinate preparedness for and responses to public health emergencies in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide or ensure the provision of quality health care and related services to identified populations in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Regulate environmental activities that have a direct impact on public health in the state.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Regulate health practitioners for the preservation of the health, safety, and welfare of the public.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The head of the Department of Health is the State Surgeon General and State Health Officer. The State Surgeon General must be a physician licensed under chapter 458 or chapter 459 who has advanced training or extensive experience in public health administration. The State Surgeon General is appointed by the Governor subject to confirmation by the Senate. The State Surgeon General serves at the pleasure of the Governor. </Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The following divisions of the Department of Health are established:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Division of Administration.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Division of Emergency Preparedness and Community Support.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Division of Disease Control and Health Protection.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Division of Community Health Promotion.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Division of Children’s Medical Services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Division of Public Health Statistics and Performance Management.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Division of Medical Quality Assurance, which is responsible for the following boards and professions established within the division:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Board of Acupuncture, created under chapter 457.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Board of Medicine, created under chapter 458.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The Board of Osteopathic Medicine, created under chapter 459.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Board of Chiropractic Medicine, created under chapter 460.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The Board of Podiatric Medicine, created under chapter 461.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Naturopathy, as provided under chapter 462.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The Board of Optometry, created under chapter 463.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The Board of Nursing, created under part I of chapter 464.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Nursing assistants, as provided under part II of chapter 464.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The Board of Pharmacy, created under chapter 465.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The Board of Dentistry, created under chapter 466.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Midwifery, as provided under chapter 467.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">The Board of Speech-Language Pathology and Audiology, created under part I of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">The Board of Nursing Home Administrators, created under part II of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">The Board of Occupational Therapy, created under part III of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Respiratory therapy, as provided under part V of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Dietetics and nutrition practice, as provided under part X of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">The Board of Athletic Training, created under part XIII of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">The Board of Orthotists and Prosthetists, created under part XIV of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Electrolysis, as provided under chapter 478.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">The Board of Massage Therapy, created under chapter 480.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">The Board of Clinical Laboratory Personnel, created under part III of chapter 483.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">Medical physicists, as provided under part IV of chapter 483.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">The Board of Opticianry, created under part I of chapter 484.</Text>
+				</SubParagraph>
+				<SubParagraph Id="25">
+					<Text xml:space="preserve" Style="Intro">The Board of Hearing Aid Specialists, created under part II of chapter 484.</Text>
+				</SubParagraph>
+				<SubParagraph Id="26">
+					<Text xml:space="preserve" Style="Intro">The Board of Physical Therapy Practice, created under chapter 486.</Text>
+				</SubParagraph>
+				<SubParagraph Id="27">
+					<Text xml:space="preserve" Style="Intro">The Board of Psychology, created under chapter 490.</Text>
+				</SubParagraph>
+				<SubParagraph Id="28">
+					<Text xml:space="preserve" Style="Intro">School psychologists, as provided under chapter 490.</Text>
+				</SubParagraph>
+				<SubParagraph Id="29">
+					<Text xml:space="preserve" Style="Intro">The Board of Clinical Social Work, Marriage and Family Therapy, and Mental Health Counseling, created under chapter 491.</Text>
+				</SubParagraph>
+				<SubParagraph Id="30">
+					<Text xml:space="preserve" Style="Intro">Emergency medical technicians and paramedics, as provided under part III of chapter 401.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Division of Disability Determinations.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The members of each board within the department shall be appointed by the Governor, subject to confirmation by the Senate. Consumer members on the board shall be appointed pursuant to paragraph (b). Members shall be appointed for 4-year terms, and such terms shall expire on October 31. However, a term of less than 4 years may be used to ensure that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">No more than two members’ terms expire during the same calendar year for boards consisting of seven or eight members.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">No more than 3 members’ terms expire during the same calendar year for boards consisting of 9 to 12 members.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">No more than 5 members’ terms expire during the same calendar year for boards consisting of 13 or more members.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A member whose term has expired shall continue to serve on the board until such time as a replacement is appointed. A vacancy on the board shall be filled for the unexpired portion of the term in the same manner as the original appointment. No member may serve for more than the remaining portion of a previous member’s unexpired term, plus two consecutive 4-year terms of the member’s own appointment thereafter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each board with five or more members shall have at least two consumer members who are not, and have never been, members or practitioners of the profession regulated by such board or of any closely related profession. Each board with fewer than five members shall have at least one consumer member who is not, and has never been, a member or practitioner of the profession regulated by such board or of any closely related profession.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of law, the department is authorized to establish uniform application forms and certificates of licensure for use by the boards within the department. Nothing in this paragraph authorizes the department to vary any substantive requirements, duties, or eligibilities for licensure or certification as provided by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall plan and administer its public health programs through its county health departments and may, for administrative purposes and efficient service delivery, establish up to 15 service areas to carry out such duties as may be prescribed by the State Surgeon General. The boundaries of the service areas shall take into consideration the boundaries of the jobs and education regional boards.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The State Surgeon General is authorized to appoint ad hoc advisory committees as necessary. The issue or problem that the ad hoc committee shall address, and the timeframe within which the committee is to complete its work, shall be specified at the time the committee is appointed. Ad hoc advisory committees shall include representatives of groups or entities affected by the issue or problem that the committee is asked to examine. Members of ad hoc advisory committees shall receive no compensation, but may, within existing departmental resources, receive reimbursement for travel expenses as provided in s. 112.061.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">To protect and improve the public health, the department may use state or federal funds to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide incentives, including, but not limited to, the promotional items listed in paragraph (b), food and including food coupons, and payment for travel expenses, for encouraging healthy lifestyle and disease prevention behaviors and patient compliance with medical treatment, such as tuberculosis therapy and smoking cessation programs. Such incentives shall be intended to cause individuals to take action to improve their health. Any incentive for food, food coupons, or travel expenses may not exceed the limitations in s. 112.061.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Plan and conduct health education campaigns for the purpose of protecting or improving public health. The department may purchase promotional items, such as, but not limited to, t-shirts, hats, sports items such as water bottles and sweat bands, calendars, nutritional charts, baby bibs, growth charts, and other items printed with health promotion messages, and advertising, such as space on billboards or in publications or radio or television time, for health information and promotional messages that recognize that the following behaviors, among others, are detrimental to public health: unprotected sexual intercourse, other than with one’s spouse; cigarette and cigar smoking, use of smokeless tobacco products, and exposure to environmental tobacco smoke; alcohol consumption or other substance abuse during pregnancy; alcohol abuse or other substance abuse; lack of exercise and poor diet and nutrition habits; and failure to recognize and address a genetic tendency to suffer from sickle-cell anemia, diabetes, high blood pressure, cardiovascular disease, or cancer. For purposes of activities under this paragraph, the Department of Health may establish requirements for local matching funds or in-kind contributions to create and distribute advertisements, in either print or electronic format, which are concerned with each of the targeted behaviors, establish an independent evaluation and feedback system for the public health communication campaign, and monitor and evaluate the efforts to determine which of the techniques and methodologies are most effective.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Plan and conduct promotional campaigns to recruit health professionals to be employed by the department or to recruit participants in departmental programs for health practitioners, such as scholarship, loan repayment, or volunteer programs. To this effect the department may purchase promotional items and advertising.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department may hold copyrights, trademarks, and service marks and enforce its rights with respect thereto, except such authority does not extend to any public records relating to the department’s responsibilities for health care practitioners regulated under part II of chapter 455.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">There is established within the Department of Health the Office of Minority Health.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning in fiscal year 2010-2011, the department shall initiate or commence new programs only when the Legislative Budget Commission or the Legislature expressly authorizes the department to do so.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning in fiscal year 2010-2011, before applying for any continuation of or new federal or private grants that are for an amount of $50,000 or greater, the department shall provide written notification to the Governor, the President of the Senate, and the Speaker of the House of Representatives. The notification must include detailed information about the purpose of the grant, the intended use of the funds, and the number of full-time permanent or temporary employees needed to administer the program funded by the grant.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 96-403; s. 7, ch. 97-237; s. 2, ch. 97-261; s. 160, ch. 97-264; s. 1, ch. 97-273; s. 3, ch. 98-137; ss. 12, 250, ch. 98-166; s. 121, ch. 98-403; s. 9, ch. 99-349; ss. 2, 139, ch. 99-397; s. 12, ch. 2000-139; s. 81, ch. 2000-318; s. 50, ch. 2000-349; s. 1, ch. 2000-367; s. 45, ch. 2002-400; s. 2, ch. 2004-350; s. 1, ch. 2007-40; s. 15, ch. 2010-161; s. 3, ch. 2012-84; s. 1, ch. 2012-184.</History>
+</Section>

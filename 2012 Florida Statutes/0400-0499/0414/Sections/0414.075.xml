@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.075" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Resource eligibility standards.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For purposes of program simplification and effective program management, certain resource definitions, as outlined in the food assistance regulations at 7 C.F.R. s. 273.8, shall be applied to the Temporary Cash Assistance Program as determined by the department to be consistent with federal law regarding temporary cash assistance and Medicaid for needy families, except that:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The maximum allowable resources, including liquid and nonliquid resources, of all members of the family may not exceed $2,000.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In determining the resources of a family, the following shall be excluded:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Licensed vehicles needed for individuals subject to the work participation requirement, not to exceed a combined value of $8,500, and needed for training, employment, or education purposes. For any family without an individual subject to the work participation requirement, one vehicle valued at not more than $8,500 shall be excluded. Any vehicle that is necessary to transport a physically disabled family member shall be excluded. A vehicle shall be considered necessary for the transportation of a physically disabled family member if the vehicle is specially equipped to meet the specific needs of the disabled person or if the vehicle is a special type of vehicle and makes it possible to transport the disabled person.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Funds paid to a homeless shelter which are being held for the family to enable the family to pay deposits or other costs associated with moving to a new shelter arrangement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A vacation home that annually produces income consistent with its fair market value, and that is excluded as a resource in determining eligibility for food assistance under federal regulations, may not be excluded as a resource in determining a family’s eligibility for temporary cash assistance.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An individual and the assistance group in which the individual is a current member will be ineligible for a period of 2 years from the original date of a transfer of an asset made for the purpose of qualifying for or maintaining eligibility for temporary cash assistance.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 96-175; s. 7, ch. 97-173; s. 17, ch. 2010-209.</History>
+</Section>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.33" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Objective standards for data center energy efficiency.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">By July 1, 2009, the Agency for Enterprise Information Technology shall define objective standards for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Measuring data center energy consumption and efficiency, including, but not limited to, airflow and cooling, power consumption and distribution, and environmental control systems in a data center facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Calculating total cost of ownership of energy-efficient information technology products, including initial purchase, installation, ongoing operation and maintenance, and disposal costs over the life cycle of the product.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">State shared resource data centers and other data centers that the Agency for Enterprise Information Technology has determined will be recipients for consolidating data centers, which are designated by the Agency for Enterprise Information Technology, shall evaluate their data center facilities for energy efficiency using the standards established in this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Results of these evaluations shall be reported to the Agency for Enterprise Information Technology, the President of the Senate, and the Speaker of the House of Representatives. Reports shall enable the tracking of energy performance over time and comparisons between facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning December 31, 2010, and every 3 years thereafter, the Agency for Enterprise Information Technology shall submit to the Legislature recommendations for reducing energy consumption and improving the energy efficiency of state primary data centers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the total cost of ownership of an energy-efficient product is less than or equal to the cost of the existing data center facility or infrastructure, technical specifications for energy-efficient products should be incorporated in the plans and processes for replacing, upgrading, or expanding data center facilities or infrastructure, including, but not limited to, network, storage, or computer equipment and software.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 111, ch. 2008-227; s. 13, ch. 2009-80; s. 10, ch. 2011-50.</History>
+</Section>

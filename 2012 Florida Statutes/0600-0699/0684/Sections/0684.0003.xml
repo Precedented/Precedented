@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0003" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions and rules of interpretation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Arbitral tribunal” means a sole arbitrator or panel of arbitrators.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Arbitration” means any arbitration, whether or not administered by a permanent arbitral institution.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Arbitration agreement” means an agreement by the parties to submit to arbitration all or certain disputes that have arisen or may arise between them in respect of a defined legal relationship, whether contractual or not.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Court” means a circuit court of this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A provision of this chapter, except s. 684.0038, which leaves the parties free to determine a certain issue, includes the right of the parties to authorize a third party, including an institution, to make that determination.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A provision of this chapter which refers to the fact that the parties have agreed or that they may agree to a procedure refers to an agreement of the parties. The agreement includes any arbitration rules referenced in that agreement.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A provision of this chapter, other than in s. 684.0036(1) or s. 684.0043(2)(a), which refers to a claim also applies to a counterclaim, and a provision that refers to a defense also applies to a defense to such counterclaim.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2010-60.</History>
+</Section>

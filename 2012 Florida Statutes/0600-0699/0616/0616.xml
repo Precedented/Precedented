@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXVI">
+	<ChapterNumber>616</ChapterNumber>
+	<ChapterName xml:space="preserve">Public fairs and expositions</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0616.001" />
+		<Section Number="0616.01" />
+		<Section Number="0616.02" />
+		<Section Number="0616.03" />
+		<Section Number="0616.04" />
+		<Section Number="0616.05" />
+		<Section Number="0616.051" />
+		<Section Number="0616.06" />
+		<Section Number="0616.07" />
+		<Section Number="0616.08" />
+		<Section Number="0616.09" />
+		<Section Number="0616.101" />
+		<Section Number="0616.11" />
+		<Section Number="0616.12" />
+		<Section Number="0616.121" />
+		<Section Number="0616.13" />
+		<Section Number="0616.14" />
+		<Section Number="0616.15" />
+		<Section Number="0616.165" />
+		<Section Number="0616.17" />
+		<Section Number="0616.185" />
+		<Section Number="0616.19" />
+		<Section Number="0616.21" />
+		<Section Number="0616.22" />
+		<Section Number="0616.23" />
+		<Section Number="0616.24" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Trade and safety standards</PartTitle>
+		<Section Number="0616.241" />
+		<Section Number="0616.242" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Florida State Fair Authority</PartTitle>
+		<Section Number="0616.251" />
+		<Section Number="0616.252" />
+		<Section Number="0616.253" />
+		<Section Number="0616.254" />
+		<Section Number="0616.255" />
+		<Section Number="0616.256" />
+		<Section Number="0616.257" />
+		<Section Number="0616.258" />
+		<Section Number="0616.259" />
+		<Section Number="0616.260" />
+		<Section Number="0616.261" />
+		<Section Number="0616.262" />
+		<Section Number="0616.263" />
+		<Section Number="0616.265" />
+	</Part>
+</Chapter>

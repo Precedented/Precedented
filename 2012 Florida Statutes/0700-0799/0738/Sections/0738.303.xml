@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.303" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Apportionment when income interest ends.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, “undistributed income” means net income received on or before the date on which an income interest ends. The term does not include an item of income or expense that is due or accrued or net income that has been added or is required to be added to principal under the terms of the trust. In the case of a trust being administered as a unitrust under s. 738.1041, the term “undistributed income” means the prorated unitrust amount computed on a daily basis through the date on which the income interest ends.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When a mandatory income interest ends, the fiduciary shall pay to a mandatory income beneficiary who survives that date, or the estate of a deceased mandatory income beneficiary whose death causes the interest to end, the beneficiary’s share of the undistributed income that is not disposed of under the terms of the trust unless the beneficiary has an unqualified power to revoke more than 5 percent of the trust immediately before the income interest ends. In the latter case, the undistributed income from the portion of the trust that may be revoked shall be added to principal.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">When a fiduciary’s obligation to pay a fixed annuity or a fixed fraction of the value of the trust’s assets ends, the fiduciary shall prorate the final payment if and to the extent required by applicable law to accomplish a purpose of the trust or its grantor relating to income, gift, estate, or other tax requirements.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 7, ch. 2005-85; s. 11, ch. 2012-49.</History>
+</Section>

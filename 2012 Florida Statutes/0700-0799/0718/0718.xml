@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XL">
+	<ChapterNumber>718</ChapterNumber>
+	<ChapterName xml:space="preserve">Condominiums</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0718.101" />
+		<Section Number="0718.102" />
+		<Section Number="0718.103" />
+		<Section Number="0718.1035" />
+		<Section Number="0718.104" />
+		<Section Number="0718.1045" />
+		<Section Number="0718.105" />
+		<Section Number="0718.106" />
+		<Section Number="0718.107" />
+		<Section Number="0718.108" />
+		<Section Number="0718.1085" />
+		<Section Number="0718.109" />
+		<Section Number="0718.110" />
+		<Section Number="0718.111" />
+		<Section Number="0718.112" />
+		<Section Number="0718.1124" />
+		<Section Number="0718.113" />
+		<Section Number="0718.114" />
+		<Section Number="0718.115" />
+		<Section Number="0718.116" />
+		<Section Number="0718.117" />
+		<Section Number="0718.118" />
+		<Section Number="0718.119" />
+		<Section Number="0718.120" />
+		<Section Number="0718.121" />
+		<Section Number="0718.122" />
+		<Section Number="0718.1224" />
+		<Section Number="0718.1225" />
+		<Section Number="0718.123" />
+		<Section Number="0718.1232" />
+		<Section Number="0718.124" />
+		<Section Number="0718.125" />
+		<Section Number="0718.1255" />
+		<Section Number="0718.1256" />
+		<Section Number="0718.1265" />
+		<Section Number="0718.127" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Rights and obligations of developers</PartTitle>
+		<Section Number="0718.202" />
+		<Section Number="0718.203" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Rights and obligations of association</PartTitle>
+		<Section Number="0718.301" />
+		<Section Number="0718.302" />
+		<Section Number="0718.3025" />
+		<Section Number="0718.3026" />
+		<Section Number="0718.303" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Special types of condominiums</PartTitle>
+		<Section Number="0718.401" />
+		<Section Number="0718.4015" />
+		<Section Number="0718.402" />
+		<Section Number="0718.403" />
+		<Section Number="0718.404" />
+		<Section Number="0718.405" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Regulation and disclosure prior to<NewLine />sale of residential condominiums</PartTitle>
+		<Section Number="0718.501" />
+		<Section Number="0718.5011" />
+		<Section Number="0718.5012" />
+		<Section Number="0718.5014" />
+		<Section Number="0718.50151" />
+		<Section Number="0718.50152" />
+		<Section Number="0718.50153" />
+		<Section Number="0718.50154" />
+		<Section Number="0718.50155" />
+		<Section Number="0718.502" />
+		<Section Number="0718.503" />
+		<Section Number="0718.504" />
+		<Section Number="0718.505" />
+		<Section Number="0718.506" />
+		<Section Number="0718.507" />
+		<Section Number="0718.508" />
+		<Section Number="0718.509" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Conversions to condominium</PartTitle>
+		<Section Number="0718.604" />
+		<Section Number="0718.606" />
+		<Section Number="0718.608" />
+		<Section Number="0718.61" />
+		<Section Number="0718.612" />
+		<Section Number="0718.614" />
+		<Section Number="0718.616" />
+		<Section Number="0718.618" />
+		<Section Number="0718.62" />
+		<Section Number="0718.621" />
+		<Section Number="0718.622" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Distressed condominium relief</PartTitle>
+		<Section Number="0718.701" />
+		<Section Number="0718.702" />
+		<Section Number="0718.703" />
+		<Section Number="0718.704" />
+		<Section Number="0718.705" />
+		<Section Number="0718.706" />
+		<Section Number="0718.707" />
+		<Section Number="0718.708" />
+	</Part>
+</Chapter>

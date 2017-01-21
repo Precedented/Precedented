@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0768.13" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Good Samaritan Act; immunity from civil liability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This act shall be known and cited as the “Good Samaritan Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person, including those licensed to practice medicine, who gratuitously and in good faith renders emergency care or treatment either in direct response to emergency situations related to and arising out of a public health emergency declared pursuant to s. 381.00315, a state of emergency which has been declared pursuant to s. 252.36 or at the scene of an emergency outside of a hospital, doctor’s office, or other place having proper medical equipment, without objection of the injured victim or victims thereof, shall not be held liable for any civil damages as a result of such care or treatment or as a result of any act or failure to act in providing or arranging further medical treatment where the person acts as an ordinary reasonably prudent person would have acted under the same or similar circumstances.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any health care provider, including a hospital licensed under chapter 395, providing emergency services pursuant to obligations imposed by 42 U.S.C. s. 1395dd, s. 395.1041, s. 395.401, or s. 401.45 shall not be held liable for any civil damages as a result of such medical care or treatment unless such damages result from providing, or failing to provide, medical care or treatment under circumstances demonstrating a reckless disregard for the consequences so as to affect the life or health of another.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The immunity provided by this paragraph applies to damages as a result of any act or omission of providing medical care or treatment, including diagnosis:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Which occurs prior to the time the patient is stabilized and is capable of receiving medical treatment as a nonemergency patient, unless surgery is required as a result of the emergency within a reasonable time after the patient is stabilized, in which case the immunity provided by this paragraph applies to any act or omission of providing medical care or treatment which occurs prior to the stabilization of the patient following the surgery.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Which is related to the original medical emergency.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For purposes of this paragraph, “reckless disregard” as it applies to a given health care provider rendering emergency medical services shall be such conduct that a health care provider knew or should have known, at the time such services were rendered, created an unreasonable risk of injury so as to affect the life or health of another, and such risk was substantially greater than that which is necessary to make the conduct negligent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Every emergency care facility granted immunity under this paragraph shall accept and treat all emergency care patients within the operational capacity of such facility without regard to ability to pay, including patients transferred from another emergency care facility or other health care provider pursuant to Pub. L. No. 99-272, s. 9121. The failure of an emergency care facility to comply with this subparagraph constitutes grounds for the department to initiate disciplinary action against the facility pursuant to chapter 395.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any health care practitioner as defined in s. 456.001(4) who is in a hospital attending to a patient of his or her practice or for business or personal reasons unrelated to direct patient care, and who voluntarily responds to provide care or treatment to a patient with whom at that time the practitioner does not have a then-existing health care patient-practitioner relationship, and when such care or treatment is necessitated by a sudden or unexpected situation or by an occurrence that demands immediate medical attention, shall not be held liable for any civil damages as a result of any act or omission relative to that care or treatment, unless that care or treatment is proven to amount to conduct that is willful and wanton and would likely result in injury so as to affect the life or health of another.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The immunity provided by this paragraph does not apply to damages as a result of any act or omission of providing medical care or treatment unrelated to the original situation that demanded immediate medical attention.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For purposes of this paragraph, the Legislature’s intent is to encourage health care practitioners to provide necessary emergency care to all persons without fear of litigation as described in this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person whose acts or omissions are not otherwise covered by this section and who participates in emergency response activities under the direction of or in connection with a community emergency response team, local emergency management agencies, the Division of Emergency Management, or the Federal Emergency Management Agency is not liable for any civil damages as a result of care, treatment, or services provided gratuitously in such capacity and resulting from any act or failure to act in such capacity in providing or arranging further care, treatment, or services, if such person acts as a reasonably prudent person would have acted under the same or similar circumstances.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person, including those licensed to practice veterinary medicine, who gratuitously and in good faith renders emergency care or treatment to an injured animal at the scene of an emergency on or adjacent to a roadway shall not be held liable for any civil damages as a result of such care or treatment or as a result of any act or failure to act in providing or arranging further medical treatment where the person acts as an ordinary reasonably prudent person would have acted under the same or similar circumstances.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 65-313; s. 1, ch. 78-334; s. 62, ch. 86-160; s. 46, ch. 88-1; s. 4, ch. 88-173; s. 42, ch. 88-277; s. 1, ch. 89-71; s. 37, ch. 91-110; s. 33, ch. 93-211; s. 3, ch. 97-34; s. 1164, ch. 97-102; s. 2, ch. 2001-76; s. 3, ch. 2002-269; s. 65, ch. 2003-416; s. 1, ch. 2004-45; s. 441, ch. 2011-142.</History>
+</Section>

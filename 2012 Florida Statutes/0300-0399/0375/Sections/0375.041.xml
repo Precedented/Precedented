@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0375.041" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Land Acquisition Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created a Land Acquisition Trust Fund to facilitate and expedite the acquisition of land, water areas, and related resources required to accomplish the purposes of this act. The Land Acquisition Trust Fund shall be held and administered by the department. All moneys and revenue from the operation, management, sale, lease, or other disposition of land, water areas, related resources, and the facilities thereon acquired or constructed under this act shall be deposited in or credited to the Land Acquisition Trust Fund. Moneys accruing to any agency for the purposes enumerated in this act may be deposited in this fund. There shall also be deposited into the Land Acquisition Trust Fund other moneys as authorized by appropriate act of the Legislature. All moneys so deposited into the Land Acquisition Trust Fund shall be trust funds for the uses and purposes herein set forth, within the meaning of s. 215.32(1)(b); and such moneys shall not become or be commingled with the General Revenue Fund of the state, as defined by s. 215.32(1)(a).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The moneys on deposit in the Land Acquisition Trust Fund shall be first applied to pay the rentals due under lease-purchase agreements or to meet debt service requirements of revenue bonds issued pursuant to s. 375.051; provided, however, that debt service on Save Our Coast bonds shall not be paid from moneys transferred to the Land Acquisition Trust Fund pursuant to s. 259.032(2)(b).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any moneys in the Land Acquisition Trust Fund which are not pledged for rentals or debt service as provided in subsection (2) may be expended from time to time to acquire land, water areas, and related resources and to construct, improve, enlarge, extend, operate, and maintain capital improvements and facilities in accordance with the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">In addition to the uses allowed under paragraph (a), for the 2012-2013 fiscal year, moneys in the Land Acquisition Trust Fund are authorized for transfer to support the Total Maximum Daily Loads Program, Drinking Water Revolving Loan Trust Fund, and Wastewater Treatment and Stormwater Management Revolving Loan Trust Fund as provided in the General Appropriations Act. This paragraph expires July 1, 2013.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department may disburse moneys in the Land Acquisition Trust Fund to pay all necessary expenses to carry out the purposes of this act. The department shall disburse moneys from the Land Acquisition Trust Fund to the Fish and Wildlife Conservation Commission for the purpose of funding law enforcement services on state lands.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">When the Legislature has authorized the Department of Environmental Protection to condemn a specific parcel of land and such parcel already has been approved for acquisition through the fund, the land may be acquired in accordance with the provisions of chapter 73 or chapter 74, and the fund may be used to pay the condemnation award and all costs, including a reasonable attorney’s fee, associated with condemnation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 63-36; s. 4, ch. 67-351; ss. 25, 35, ch. 69-106; s. 4, ch. 80-356; s. 3, ch. 83-80; s. 9, ch. 86-294; s. 2, ch. 87-96; s. 284, ch. 94-356; s. 18, ch. 96-420; s. 17, ch. 99-4; s. 176, ch. 99-13; ss. 27, 79, ch. 2002-402; s. 8, ch. 2004-6; s. 36, ch. 2004-269; s. 27, ch. 2005-71; s. 30, ch. 2006-26; s. 10, ch. 2007-6; s. 12, ch. 2008-5; s. 43, ch. 2008-153; s. 12, ch. 2010-4; s. 25, ch. 2010-153; s. 32, ch. 2011-47; s. 14, ch. 2012-88; s. 25, ch. 2012-119.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 25, ch. 2012-119, amended paragraph (3)(b) “[i]n order to implement Specific Appropriations 1662, 1685, and 1686 of the 2012-2013 General Appropriations Act.”</Text>
+	</Note>
+</Section>

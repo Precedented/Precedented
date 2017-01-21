@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.50" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Failure to comply; revocation of corporate charter or license to operate a public lodging establishment or public food service establishment; refusal to reinstate charter or license.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any corporation of this state which has an outstanding tax warrant that has existed for more than 3 consecutive months is subject to the revocation of its charter as provided in s. 607.1420.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A request for reinstatement of a corporate charter may not be granted by the Division of Corporations of the Department of State if an outstanding tax warrant has existed for that corporation for more than 3 consecutive months.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Division of Hotels and Restaurants of the Department of Business and Professional Regulation may suspend a license to operate a public lodging establishment or a public food service establishment if a tax warrant has been outstanding against the licenseholder for more than 3 months.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The division may deny an application to renew a license to operate a public lodging establishment or a public food service establishment if a tax warrant has been outstanding against the licenseholder for more than 3 months.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 23, ch. 92-320; s. 13, ch. 2010-138; s. 5, ch. 2010-166.</History>
+</Section>

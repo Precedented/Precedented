@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.971" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Agreements funded with federal and state assistance.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For an agency agreement that provides state financial assistance to a recipient or subrecipient, as those terms are defined in s. 215.97, or that provides federal financial assistance to a subrecipient, as defined by applicable United States Office of Management and Budget circulars, the agreement shall include:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A provision specifying a scope of work that clearly establishes the tasks that the recipient or subrecipient is required to perform; and</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A provision dividing the agreement into quantifiable units of deliverables that must be received and accepted in writing by the agency before payment. Each deliverable must be directly related to the scope of work and must specify the required minimum level of service to be performed and the criteria for evaluating the successful completion of each deliverable.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2010-151.</History>
+</Section>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.4625" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Corporation not for profit self-insurance funds.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of law, any two or more corporations not for profit located in and organized under the laws of this state may form a self-insurance fund for the purpose of pooling and spreading liabilities of its group members in any one or combination of property or casualty risk, provided the corporation not for profit self-insurance fund that is created:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has annual normal premiums in excess of $5 million.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Requires for qualification that each participating member receive at least 75 percent of its revenues from local, state, or federal governmental sources or a combination of such sources.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Uses a qualified actuary to determine rates using accepted actuarial principles and annually submits to the office a certification by the actuary that the rates are actuarially sound and are not inadequate, as defined in s. 627.062.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Uses a qualified actuary to establish reserves for loss and loss adjustment expenses and annually submits to the office a certification by the actuary that the loss and loss adjustment expense reserves are adequate. If the actuary determines that reserves are not adequate, the fund shall file with the office a remedial plan for increasing the reserves or otherwise addressing the financial condition of the fund, subject to a determination by the office that the fund will operate on an actuarially sound basis and the fund does not pose a significant risk of insolvency.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Maintains a continuing program of excess insurance coverage and reserve evaluation to protect the financial stability of the fund in an amount and manner determined by a qualified actuary. At a minimum, this program must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Purchase excess insurance from authorized insurance carriers or eligible surplus lines insurers or reinsurers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Retain a per-loss occurrence that does not exceed $350,000.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Submit to the office annually an audited fiscal year-end financial statement by an independent certified public accountant within 6 months after the end of the fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Have a governing body that is comprised entirely of officials from corporations not for profit that are members of the corporation not for profit self-insurance fund.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Use knowledgeable persons or business entities to administer or service the fund in the areas of claims administration, claims adjusting, underwriting, risk management, loss control, policy administration, financial audit, and legal areas. Such persons must meet all applicable requirements of law for state licensure and must have at least 5 years’ experience with commercial self-insurance funds formed under s. 624.462, self-insurance funds formed under s. 624.4622, or domestic insurers.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Submit to the office copies of contracts used for its members that clearly establish the liability of each member for the obligations of the fund.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Annually submit to the office a certification by the governing body of the fund that, to the best of its knowledge, the requirements of this section are met.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “qualified actuary” means an actuary that is a member of the Casualty Actuarial Society or the American Academy of Actuaries.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A corporation not for profit self-insurance fund that meets the requirements of this section is not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An insurer for purposes of participation in or coverage by any insurance guaranty association established by chapter 631; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Subject to s. 624.4621 and is not required to file any report with the department under s. 440.38(2)(b) that is uniquely required of group self-insurer funds qualified under s. 624.4621.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Premiums, contributions, and assessments received by a corporation not for profit self-insurance fund are subject to ss. 624.509(1) and (2) and 624.5092, except that the tax rate shall be 1.6 percent of the gross amount of such premiums, contributions, and assessments.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A corporation not for profit self-insurance fund formed under this section, which is hereby deemed to be an association in compliance with s. 627.654, may purchase for its members, on a group basis, any one or more policies of health, accident, or hospitalization coverage, provided:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Insurance policies purchased to provide coverage under this subsection are purchased only from authorized insurance companies that participate in the Florida Life and Health Insurance Guaranty Association and such policy forms have been filed with and approved by the office;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The corporation not for profit self-insurance fund retains no risk related to coverage provided under this subsection;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An insurance policy purchased to provide coverage under this subsection shall not be subject to the restrictions relating to the premium rates for small employer groups under chapter 627;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The premiums paid for insurance policies purchased pursuant to paragraph (a) shall not count toward the $5 million requirement in paragraph (1)(a); and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any individual not-for-profit entity participating as a member of the association for the purchase of a master health, accident, or hospitalization policy by the association under this subsection may retain its individual insurance agent, and such agent shall be deemed an additional agent of record for the master policy issued to the association.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If any of the requirements of subsection (1) are not met, a corporation not for profit self-insurance fund is subject to the requirements of s. 624.4621 if the fund provides only workers’ compensation coverage or is subject to the requirements of ss. 624.460-624.488 if the fund provides coverage for other property, casualty, or surety risks.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 14, ch. 2007-1; s. 2, ch. 2012-151.</History>
+</Section>

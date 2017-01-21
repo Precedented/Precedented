@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.7045" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application of act and integration with other acts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The following wastes or activities shall not be regulated pursuant to this act:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Byproduct material, source material, and special nuclear material, the generation, transportation, disposal, storage, or treatment of which is regulated under chapter 404 or the federal Atomic Energy Act of 1954, ch. 1073, 68 Stat. 923, as amended;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Suspended solids and dissolved materials in domestic sewage effluent or irrigation return flows or other discharges which are point sources subject to permits pursuant to this chapter or s. 402 of the Clean Water Act, Pub. L. No. 95-217;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Emissions to the air from a stationary installation or source regulated under this chapter or the Clean Air Act, Pub. L. No. 95-95;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Drilling fluids, produced waters, and other wastes associated with the exploration for, or development and production of, crude oil or natural gas which are regulated under chapter 377; or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Recovered materials or recovered materials processing facilities, except as provided in s. 403.7046, if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A majority of the recovered materials at the facility are demonstrated to be sold, used, or reused within 1 year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The recovered materials handled by the facility or the products or byproducts of operations that process recovered materials are not discharged, deposited, injected, dumped, spilled, leaked, or placed into or upon any land or water by the owner or operator of such facility so that such recovered materials, products or byproducts, or any constituent thereof may enter other lands or be emitted into the air or discharged into any waters, including groundwaters, or otherwise enter the environment such that a threat of contamination in excess of applicable department standards and criteria is caused.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The recovered materials handled by the facility are not hazardous wastes as defined under s. 403.703, and rules promulgated pursuant thereto.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The facility is registered as required in s. 403.7046.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Industrial byproducts, if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A majority of the industrial byproducts are demonstrated to be sold, used, or reused within 1 year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The industrial byproducts are not discharged, deposited, injected, dumped, spilled, leaked, or placed upon any land or water so that such industrial byproducts, or any constituent thereof, may enter other lands or be emitted into the air or discharged into any waters, including groundwaters, or otherwise enter the environment such that a threat of contamination in excess of applicable department standards and criteria or a significant threat to public health is caused.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The industrial byproducts are not hazardous wastes as defined under s. 403.703 and rules adopted under this section.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Sludge from an industrial waste treatment works that meets the exemption requirements of this paragraph is not solid waste as defined in s. 403.703(32).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as provided in s. 403.704(9), the following wastes shall not be regulated as a hazardous waste pursuant to this act, except when determined by the United States Environmental Protection Agency to be a hazardous waste:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ashes and scrubber sludges generated from the burning of boiler fuel for generation of electricity or steam.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Agricultural and silvicultural byproduct material and agricultural and silvicultural process waste from normal farming or processing.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Discarded material generated by the mining and beneficiation and chemical or thermal processing of phosphate rock, and precipitates resulting from neutralization of phosphate chemical plant process and nonprocess waters.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The following wastes or activities shall be regulated pursuant to this act in the following manner:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Dredged material that is generated as part of a project permitted under part IV of chapter 373 or chapter 161, or that is authorized to be removed from sovereign submerged lands under chapter 253, shall be managed in accordance with the conditions of that permit or authorization unless the dredged material is regulated as hazardous waste pursuant to this part. If the dredged material contains hazardous substances, the department may further limit or restrict the disposal, sale, or use of the dredged material and may specify such other conditions relative to this material as are reasonably necessary to protect the public from the potential hazards. However, this paragraph does not require the routine testing of dredge material for hazardous substances unless there is a reasonable expectation that such substances will be present.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Hazardous wastes that are contained in artificial recharge waters or other waters intentionally introduced into any underground formation and that are permitted pursuant to s. 373.106 shall also be handled in compliance with the requirements and standards for disposal, storage, and treatment of hazardous waste under this act.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Solid waste or hazardous waste facilities that are operated as a part of the normal operation of a power generating facility and which are licensed by certification pursuant to the Florida Electrical Power Plant Siting Act, ss. 403.501-403.518, shall undergo such certification subject to the substantive provisions of this act.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Biomedical waste and biological waste shall be disposed of only as authorized by the department. However, any person who unknowingly disposes into a sanitary landfill or waste-to-energy facility any such waste that has not been properly segregated or separated from other solid wastes by the generating facility is not guilty of a violation under this act. This paragraph does not prohibit the department from seeking injunctive relief pursuant to s. 403.131 to prohibit the unauthorized disposal of biomedical waste or biological waste.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Disposal of dead animals, including those which were diseased, shall be consistent with applicable federal and state laws and regulations.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Ash residue generated by a solid waste management facility from the burning of solid waste must be disposed of in a properly designed solid waste disposal area that complies with standards developed by the department for the disposal of such ash residue. The department shall work with solid waste management facilities that burn solid waste to identify and develop methods for recycling and reuse of ash residue or treated ash residue, and the department may allow such recycling or reuse by an applicant who demonstrates that no significant threat to public health will result and that applicable department standards and criteria will not be violated. The Division of Waste Management shall direct the district offices and bureaus on matters relating to the interpretation and applicability of this subsection. The department may adopt rules necessary for administering this subsection, but the department is not required to amend its existing rules.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 80-302; s. 3, ch. 82-125; s. 28, ch. 83-215; s. 62, ch. 83-218; s. 8, ch. 88-130; s. 55, ch. 90-331; s. 11, ch. 93-207; s. 125, ch. 97-237; s. 1, ch. 98-112; s. 9, ch. 2007-184; s. 15, ch. 2012-205.</History>
+</Section>

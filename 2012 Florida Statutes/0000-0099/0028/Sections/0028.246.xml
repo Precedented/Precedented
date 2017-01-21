@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0028.246" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Payment of court-related fines or other monetary penalties, fees, charges, and costs; partial payments; distribution of funds.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall report the following information to the Legislature and the Florida Clerks of Court Operations Corporation on a form, and using guidelines developed by the clerks of court, through their association and in consultation with the Office of the State Courts Administrator:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The total amount of mandatory fees, service charges, and costs assessed; the total amount underassessed, if any, which is the amount less than the minimum amount required by law to be assessed; and the total amount collected.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The total amount of discretionary fees, service charges, and costs assessed and the total amount collected.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The total amount of mandatory fines and other monetary penalties assessed; the total amount underassessed, if any, which is the amount less than the minimum amount required by law to be assessed; and the total amount collected.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The total amount of discretionary fines and other monetary penalties assessed and the total amount collected.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The clerk, in reporting to the Legislature and corporation, shall separately identify the monetary amount assessed and subsequently discharged or converted to community service, to a judgment or lien, or to time served. The form developed by the clerks shall include separate entries for recording the amount discharged and the amount converted. If a court waives, suspends, or reduces an assessment as authorized by law, the portion waived, suspended, or reduced may not be deemed assessed or underassessed for purposes of the reporting requirements of this section. The clerk also shall report a collection rate for mandatory and discretionary assessments. In calculating the rate, the clerk shall deduct amounts discharged or converted from the amount assessed. The clerk shall submit the report on an annual basis 90 days after the end of the county fiscal year. The clerks and the courts shall develop by October 1, 2012, the form and guidelines to govern the accurate and consistent reporting statewide of assessments as provided in this section. The clerk shall use the new reporting form and guidelines in submitting the report for the county fiscal year ending September 30, 2013, and for each year thereafter.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall establish and maintain a system of accounts receivable for court-related fees, charges, and costs.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Court costs, fines, and other dispositional assessments shall be enforced by order of the courts, collected by the clerks of the circuit and county courts, and disbursed in accordance with authorizations and procedures as established by general law.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall accept partial payments for court-related fees, service charges, costs, and fines in accordance with the terms of an established payment plan. An individual seeking to defer payment of fees, service charges, costs, or fines imposed by operation of law or order of the court under any provision of general law shall apply to the clerk for enrollment in a payment plan. The clerk shall enter into a payment plan with an individual who the court determines is indigent for costs. A monthly payment amount, calculated based upon all fees and all anticipated costs, is presumed to correspond to the person’s ability to pay if the amount does not exceed 2 percent of the person’s annual net income, as defined in s. 27.52(1), divided by 12. The court may review the reasonableness of the payment plan.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">When receiving partial payment of fees, service charges, court costs, and fines, clerks shall distribute funds according to the following order of priority:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That portion of fees, service charges, court costs, and fines to be remitted to the state for deposit into the General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That portion of fees, service charges, court costs, and fines required to be retained by the clerk of the court or deposited into the Clerks of the Court Trust Fund within the Justice Administrative Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That portion of fees, service charges, court costs, and fines payable to state trust funds, allocated on a pro rata basis among the various authorized funds if the total collection amount is insufficient to fully fund all such funds as provided by law.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">That portion of fees, service charges, court costs, and fines payable to counties, municipalities, or other local entities, allocated on a pro rata basis among the various authorized recipients if the total collection amount is insufficient to fully fund all such recipients as provided by law.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">To offset processing costs, clerks may impose either a per-month service charge pursuant to s. 28.24(26)(b) or a one-time administrative processing service charge at the inception of the payment plan pursuant to s. 28.24(26)(c).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A clerk of court shall pursue the collection of any fees, service charges, fines, court costs, and liens for the payment of attorney fees and costs pursuant to s. 938.29 which remain unpaid after 90 days by referring the account to a private attorney who is a member in good standing of The Florida Bar or collection agent who is registered and in good standing pursuant to chapter 559. In pursuing the collection of such unpaid financial obligations through a private attorney or collection agent, the clerk of the court must have attempted to collect the unpaid amount through a collection court, collections docket, or other collections process, if any, established by the court, find this to be cost-effective and follow any applicable procurement practices. The collection fee, including any reasonable attorney’s fee, paid to any attorney or collection agent retained by the clerk may be added to the balance owed in an amount not to exceed 40 percent of the amount owed at the time the account is referred to the attorney or agent for collection. The clerk shall give the private attorney or collection agent the application for the appointment of court-appointed counsel regardless of whether the court file is otherwise confidential from disclosure.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2003-402; s. 21, ch. 2004-265; s. 1, ch. 2005-2; s. 9, ch. 2005-236; s. 2, ch. 2009-204; s. 13, ch. 2010-162; s. 2, ch. 2012-124.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 4, ch. 2012-124, provides that “[n]otwithstanding the amendments made by this act to s. 28.246, Florida Statutes, the clerks of court shall use the reporting requirements, standards, and form prescribed in that section before July 1, 2012, for the report due for the county fiscal year ending September 30, 2012. The amendments made by this act to s. 28.246, Florida Statutes, apply beginning with the report for the county fiscal year ending September 30, 2013.”</Text>
+	</Note>
+</Section>

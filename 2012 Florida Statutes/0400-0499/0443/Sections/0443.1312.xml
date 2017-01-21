@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1312" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reimbursements; nonprofit organizations.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Benefits paid to employees of nonprofit organizations shall be financed in accordance with this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITION.<EmDash />As used in this section, the term “nonprofit organization” means an organization or group of organizations exempt from the federal income tax under s. 501(c)(3) of the United States Internal Revenue Code.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LIABILITY FOR CONTRIBUTIONS AND ELECTION OF REIMBURSEMENT.<EmDash />A nonprofit organization that is, or becomes, subject to this chapter under s. 443.1215(1)(c) or s. 443.121(3)(a) must pay contributions under s. 443.131 unless it elects, in accordance with this subsection, to reimburse the Unemployment Compensation Trust Fund for all of the regular benefits, short-time compensation benefits, and one-half of the extended benefits paid, which are attributable to service in the employ of the nonprofit organization, to individuals for weeks of unemployment which begin during the effective period of the election.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">When a nonprofit organization becomes subject to this chapter, the organization may elect to become a reimbursing employer. The effective date of this election must begin on the date the organization becomes subject to this chapter and may not terminate before the end of the next calendar year. The nonprofit organization must make this election by filing a written notice of election with the tax collection service provider within 30 days after the determination that the organization is subject to this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each nonprofit organization that makes the election under paragraph (a) remains liable for reimbursements in lieu of contributions until it files with the tax collection service provider a written notice terminating the organization’s election at least 30 days before the beginning of the first calendar year for which the termination shall be effective.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each nonprofit organization paying contributions under s. 443.131 may become a reimbursing employer by filing with the tax collection service provider, at least 30 days before the beginning of any calendar year, a written notice of election to become liable for reimbursements in lieu of contributions. This election may not be terminated by the organization before the end of 2 calendar years after the effective date of the election.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In accordance with rules adopted by the Department of Economic Opportunity or the state agency providing reemployment assistance tax collection services, the tax collection service provider shall notify each nonprofit organization of any determination of the organization’s status as an employer, the effective date of any election the organization makes, and the effective date of any termination of the election. Each determination is subject to reconsideration, appeal, and review under s. 443.141(2)(c).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PAYMENT OF REIMBURSEMENTS.<EmDash />Reimbursements in lieu of contributions must be paid in accordance with this subsection.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">At the end of each calendar quarter, or at the end of any other period prescribed by rule, the tax collection service provider shall bill each nonprofit organization or group of organizations that has elected to make reimbursements in lieu of contributions for an amount equal to the full amount of regular benefits, short-time compensation benefits, and one-half of the extended benefits paid during the quarter, or other prescribed period, which is attributable to service in the employ of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A nonprofit organization must pay each bill rendered under paragraph (a) within 30 days after the bill is mailed to the last known address of the organization or is otherwise delivered to the organization, unless the organization files an application for review and redetermination under paragraph (d).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A nonprofit organization may not deduct reimbursements, interest, penalties, fines, or fees required under this chapter from any part of the remuneration of individuals in the employ of the organization.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The amount due, as specified in any bill from the tax collection service provider, is conclusive, and the nonprofit organization is liable for payment of that amount unless, within 20 days after the bill is mailed to the organization’s last known address or otherwise delivered to the organization, the organization files an application for redetermination by the Department of Economic Opportunity, setting forth the grounds for the application. The department shall promptly review and reconsider the amount due, as specified in the bill, and shall issue a redetermination in each case in which an application for redetermination is filed. The redetermination is conclusive and the nonprofit organization is liable for payment of the amount due, as specified in the redetermination, unless, within 20 days after the redetermination is mailed to the organization’s last known address or otherwise delivered to the organization, the organization files a protest, setting forth the grounds for the appeal. Proceedings on the protest shall be conducted in accordance with s. 443.141(2).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Past due amounts of reimbursements in lieu of contributions are subject to the same interest and penalties that apply to past due contributions under s. 443.141(1).</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Each reimbursing employer shall be billed his or her proportionate share of benefits, and the Unemployment Compensation Trust Fund must be reimbursed in full.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">AUTHORITY TO TERMINATE ELECTIONS.<EmDash />If a nonprofit organization is delinquent in making reimbursements in lieu of contributions under subsection (3), the tax collection service provider may terminate the organization’s election to be a reimbursing employer, effective at the beginning of the next calendar year, and the termination must remain in effect for 2 calendar years after the effective date of the termination.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">ALLOCATION OF BENEFIT COSTS.<EmDash />Each reimbursing employer must pay to the tax collection service provider the amount of regular benefits, short-time compensation benefits, and one-half of the extended benefits paid which are attributable to service in the employ of the employer. If benefits paid to an individual are based on wages paid by more than one employer and one or more of those employers are reimbursing employers, the amount payable to the fund by each reimbursing employer is determined as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Proportionate allocation for combination of reimbursing and contributing employers.</Font><EmDash />If benefits paid to an individual are based on wages paid by one or more reimbursing employers and on wages paid by one or more contributing employers, the amount of benefits payable by each reimbursing employer is a proportionate share of the total benefits paid to the individual in the same ratio as the total wages paid to the individual during his or her base period by the employer during the base period, as compared to the total wages paid to the individual by all of his or her employers during the base period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Proportionate allocation among reimbursing employers.</Font><EmDash />If benefits paid to an individual are based on wages paid by two or more reimbursing employers, the amount of benefits payable by each employer is a proportionate share of the total benefits paid to the individual in the same ratio as the total wages paid to the individual during his or her base period by the employer during the base period, as compared to the total wages paid to the individual by all of his or her employers during the base period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">GROUP EMPLOYMENT RECORDS.<EmDash />Two or more employers that become reimbursing employers under subsection (2) and s. 443.121(3) may file a joint application with the tax collection service provider for the establishment of a group employment record for the purpose of sharing the cost of benefits paid that are attributable to service in the employ of the employers. Each application must identify and authorize a group representative to act as the group’s agent for the purposes of this subsection. Upon its approval of the application, the tax collection service provider shall establish a group employment record for the employers which is effective at the beginning of the calendar year in which the service provider receives the application and shall notify the group’s representative of the effective date of the employment record. Each group employment record remains in effect until terminated and must remain in effect at least 2 calendar years before it may be terminated. A group employment record may be terminated by the tax collection service provider on its own motion or upon application by the group. Upon establishment of a group employment record, the amount of benefits payable by each member of the group for a calendar quarter is a proportionate share of the total benefits paid during the quarter which are attributable to service performed in the employ of all members of the group in the same ratio as the total wages paid for service in employment by the member during the quarter, as compared to the total wages paid during the quarter for service performed in the employ of all members of the group. The state agency providing tax collection services may adopt rules prescribing applications and procedures for establishing, maintaining, and terminating group employment records authorized by this subsection; for adding of new members to, and withdrawal of active members from, group employment records; and for determining the amounts that are payable under this subsection by members of the group and the time and manner of those payments.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 33, ch. 2003-36; s. 366, ch. 2011-142; s. 16, ch. 2012-30.</History>
+</Section>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0319.14" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sale of motor vehicles registered or used as taxicabs, police vehicles, lease vehicles, rebuilt vehicles, nonconforming vehicles, custom vehicles, or street rod vehicles.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person may not knowingly offer for sale, sell, or exchange any vehicle that has been licensed, registered, or used as a taxicab, police vehicle, or short-term-lease vehicle, or a vehicle that has been repurchased by a manufacturer pursuant to a settlement, determination, or decision under chapter 681, until the department has stamped in a conspicuous place on the certificate of title of the vehicle, or its duplicate, words stating the nature of the previous use of the vehicle or the title has been stamped “Manufacturer’s Buy Back” to reflect that the vehicle is a nonconforming vehicle. If the certificate of title or duplicate was not so stamped upon initial issuance thereof or if, subsequent to initial issuance of the title, the use of the vehicle is changed to a use requiring the notation provided for in this section, the owner or lienholder of the vehicle shall surrender the certificate of title or duplicate to the department prior to offering the vehicle for sale, and the department shall stamp the certificate or duplicate as required herein. When a vehicle has been repurchased by a manufacturer pursuant to a settlement, determination, or decision under chapter 681, the title shall be stamped “Manufacturer’s Buy Back” to reflect that the vehicle is a nonconforming vehicle.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person may not knowingly offer for sale, sell, or exchange a rebuilt vehicle until the department has stamped in a conspicuous place on the certificate of title for the vehicle words stating that the vehicle has been rebuilt or assembled from parts, or is a kit car, glider kit, replica, flood vehicle, custom vehicle, or street rod vehicle unless proper application for a certificate of title for a vehicle that is rebuilt or assembled from parts, or is a kit car, glider kit, replica, flood vehicle, custom vehicle, or street rod vehicle has been made to the department in accordance with this chapter and the department has conducted the physical examination of the vehicle to assure the identity of the vehicle and all major component parts, as defined in s. 319.30(1), which have been repaired or replaced. Thereafter, the department shall affix a decal to the vehicle, in the manner prescribed by the department, showing the vehicle to be rebuilt.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Police vehicle” means a motor vehicle owned or leased by the state or a county or municipality and used in law enforcement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">“Short-term-lease vehicle” means a motor vehicle leased without a driver and under a written agreement to one or more persons from time to time for a period of less than 12 months.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">“Long-term-lease vehicle” means a motor vehicle leased without a driver and under a written agreement to one person for a period of 12 months or longer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">“Lease vehicle” includes both short-term-lease vehicles and long-term-lease vehicles.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Rebuilt vehicle” means a motor vehicle or mobile home built from salvage or junk, as defined in s. 319.30(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">“Assembled from parts” means a motor vehicle or mobile home assembled from parts or combined from parts of motor vehicles or mobile homes, new or used. “Assembled from parts” does not mean a motor vehicle defined as a “rebuilt vehicle” in subparagraph 3., which has been declared a total loss pursuant to s. 319.30.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">“Kit car” means a motor vehicle assembled with a kit supplied by a manufacturer to rebuild a wrecked or outdated motor vehicle with a new body kit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">“Glider kit” means a vehicle assembled with a kit supplied by a manufacturer to rebuild a wrecked or outdated truck or truck tractor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">“Replica” means a complete new motor vehicle manufactured to look like an old vehicle.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">“Flood vehicle” means a motor vehicle or mobile home that has been declared to be a total loss pursuant to s. 319.30(3)(a) resulting from damage caused by water.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">“Nonconforming vehicle” means a motor vehicle which has been purchased by a manufacturer pursuant to a settlement, determination, or decision under chapter 681.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">“Settlement” means an agreement entered into between a manufacturer and a consumer that occurs after a dispute is submitted to a program, or an informal dispute settlement procedure established by a manufacturer or is approved for arbitration before the New Motor Vehicle Arbitration Board as defined in s. 681.102.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">“Custom vehicle” means a motor vehicle that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Is 25 years of age or older and of a model year after 1948 or was manufactured to resemble a vehicle that is 25 years of age or older and of a model year after 1948; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Has been altered from the manufacturer’s original design or has a body constructed from nonoriginal materials.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The model year and year of manufacture that the body of a custom vehicle resembles is the model year and year of manufacture listed on the certificate of title, regardless of when the vehicle was actually manufactured.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">“Street rod” means a motor vehicle that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Is of a model year of 1948 or older or was manufactured after 1948 to resemble a vehicle of a model year of 1948 or older; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Has been altered from the manufacturer’s original design or has a body constructed from nonoriginal materials.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The model year and year of manufacture that the body of a street rod resembles is the model year and year of manufacture listed on the certificate of title, regardless of when the vehicle was actually manufactured.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person may not knowingly sell, exchange, or transfer a vehicle referred to in subsection (1) without, before consummating the sale, exchange, or transfer, disclosing in writing to the purchaser, customer, or transferee the fact that the vehicle has previously been titled, registered, or used as a taxicab, police vehicle, or short-term-lease vehicle, is a vehicle that is rebuilt or assembled from parts, is a kit car, glider kit, replica, or flood vehicle, or is a nonconforming vehicle, custom vehicle, or street rod vehicle, as the case may be.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person who, with intent to offer for sale or exchange any vehicle referred to in subsection (1), knowingly or intentionally advertises, publishes, disseminates, circulates, or places before the public in any communications medium, whether directly or indirectly, any offer to sell or exchange the vehicle shall clearly and precisely state in each such offer that the vehicle has previously been titled, registered, or used as a taxicab, police vehicle, or short-term-lease vehicle or that the vehicle or mobile home is a vehicle that is rebuilt or assembled from parts, is a kit car, glider kit, replica, or flood vehicle, or is a nonconforming vehicle, custom vehicle, or street rod vehicle, as the case may be. A person who violates this subsection commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If a certificate of title, including a foreign certificate, is branded to reflect a condition or prior use of the titled vehicle, the brand must be noted on the registration certificate of the vehicle and such brand shall be carried forward on all subsequent certificates of title and registration certificates issued for the life of the vehicle.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A person who knowingly sells, exchanges, or offers to sell or exchange a motor vehicle or mobile home contrary to this section or any officer, agent, or employee of a person who knowingly authorizes, directs, aids in, or consents to the sale, exchange, or offer to sell or exchange a motor vehicle or mobile home contrary to this section commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A person who removes a rebuilt decal from a rebuilt vehicle with the intent to conceal the rebuilt status of the vehicle commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">This section applies to a mobile home, travel trailer, camping trailer, truck camper, or fifth-wheel recreation trailer only when the mobile home or vehicle is a rebuilt vehicle or is assembled from parts.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A person is not liable or accountable in any civil action arising out of a violation of this section if the designation of the previous use or condition of the motor vehicle is not noted on the certificate of title and registration certificate of the vehicle which was received by, or delivered to, such person, unless the person has actively concealed the prior use or condition of the vehicle from the purchaser.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Subsections (1), (2), and (3) do not apply to the transfer of ownership of a motor vehicle after the motor vehicle has ceased to be used as a lease vehicle and the ownership has been transferred to an owner for private use or to the transfer of ownership of a nonconforming vehicle with 36,000 or more miles on its odometer, or 34 months whichever is later and the ownership has been transferred to an owner for private use. Such owner, as shown on the title certificate, may request the department to issue a corrected certificate of title that does not contain the statement of the previous use of the vehicle as a lease vehicle or condition as a nonconforming vehicle.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, ch. 20226, 1941; s. 1, ch. 28185, 1953; s. 1, ch. 29850, 1955; s. 1, ch. 57-390; s. 1, ch. 59-174; s. 1, ch. 59-452; s. 6, ch. 65-190; s. 1, ch. 69-379; ss. 24, 35, ch. 69-106; s. 187, ch. 71-136; s. 1, ch. 78-412; s. 2, ch. 82-134; s. 7, ch. 83-218; ss. 3, 15, ch. 89-333; s. 1, ch. 92-88; s. 1, ch. 96-227; s. 10, ch. 96-413; s. 11, ch. 97-245; s. 11, ch. 99-248; ss. 46, 47, ch. 2000-171; s. 8, ch. 2002-235; s. 2, ch. 2008-170; s. 20, ch. 2012-181.</History>
+</Section>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0161.055" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Concurrent processing of permits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When an activity for which a permit is required under this chapter also requires a permit, authorization, or approval described in paragraph (2)(b), including a port conceptual permit pursuant to s. 373.4133, the department may, by rule, provide that the activity may be undertaken only upon receipt of a single permit from the department called a “joint coastal permit,” as provided in this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules requiring concurrent application submittal and establishing a concurrent review and permitting procedure for any activity regulated under this chapter that also requires one or more of the permits, authorizations, or approvals described in paragraph (a) or paragraph (b). The rules must establish concurrent procedures for processing applications under this part with one or more of the permits, authorizations, or approvals described in paragraph (a) or paragraph (b). An applicant that proposes such an activity must submit, as part of the permit application under this chapter, all information necessary to satisfy the requirements for issuance of any required:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Proprietary authorization under chapters 253 and 258 to use submerged lands owned by the Board of Trustees of the Internal Improvement Trust Fund; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Environmental resource permit or dredge and fill permit under part IV of chapter 373.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The timeframes for license approval or denial set forth in s. 120.60(1) do not commence until all required information is received. The rules authorized under this section may also require submittal of such information as is necessary to determine whether the proposed activity will occur on submerged lands owned by the Board of Trustees of the Internal Improvement Trust Fund, and shall contain provisions for permit processing and issuance of orders which are consistent with s. 373.427 and provisions for providing notice of applications which are consistent with s. 373.413. Authorization under this subsection may not be issued unless the requirements for issuance of any additional required authorizations, permits, waivers, variances, and approvals described in paragraph (a) or paragraph (b) are also satisfied.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The review of agency action on an application for issuance of a joint coastal permit must be as provided in s. 373.4275.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 485, ch. 94-356; s. 22, ch. 96-410; s. 6, ch. 2010-201.</History>
+</Section>

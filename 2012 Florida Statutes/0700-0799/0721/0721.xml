@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XL">
+	<ChapterNumber>721</ChapterNumber>
+	<ChapterName xml:space="preserve">Vacation and timeshare plans</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Vacation plans and timesharing</PartTitle>
+		<Section Number="0721.01" />
+		<Section Number="0721.02" />
+		<Section Number="0721.03" />
+		<Section Number="0721.04" />
+		<Section Number="0721.05" />
+		<Section Number="0721.056" />
+		<Section Number="0721.06" />
+		<Section Number="0721.065" />
+		<Section Number="0721.07" />
+		<Section Number="0721.071" />
+		<Section Number="0721.075" />
+		<Section Number="0721.08" />
+		<Section Number="0721.09" />
+		<Section Number="0721.10" />
+		<Section Number="0721.11" />
+		<Section Number="0721.111" />
+		<Section Number="0721.12" />
+		<Section Number="0721.121" />
+		<Section Number="0721.13" />
+		<Section Number="0721.14" />
+		<Section Number="0721.15" />
+		<Section Number="0721.16" />
+		<Section Number="0721.165" />
+		<Section Number="0721.17" />
+		<Section Number="0721.18" />
+		<Section Number="0721.19" />
+		<Section Number="0721.20" />
+		<Section Number="0721.205" />
+		<Section Number="0721.21" />
+		<Section Number="0721.22" />
+		<Section Number="0721.23" />
+		<Section Number="0721.24" />
+		<Section Number="0721.25" />
+		<Section Number="0721.26" />
+		<Section Number="0721.265" />
+		<Section Number="0721.27" />
+		<Section Number="0721.28" />
+		<Section Number="0721.29" />
+		<Section Number="0721.301" />
+		<Section Number="0721.32" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Vacation clubs</PartTitle>
+		<Section Number="0721.50" />
+		<Section Number="0721.51" />
+		<Section Number="0721.52" />
+		<Section Number="0721.53" />
+		<Section Number="0721.54" />
+		<Section Number="0721.55" />
+		<Section Number="0721.551" />
+		<Section Number="0721.552" />
+		<Section Number="0721.56" />
+		<Section Number="0721.57" />
+		<Section Number="0721.58" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Foreclosure of liens on timeshare interests</PartTitle>
+		<Section Number="0721.80" />
+		<Section Number="0721.81" />
+		<Section Number="0721.82" />
+		<Section Number="0721.83" />
+		<Section Number="0721.84" />
+		<Section Number="0721.85" />
+		<Section Number="0721.855" />
+		<Section Number="0721.856" />
+		<Section Number="0721.8561" />
+		<Section Number="0721.86" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Commissioner of deeds</PartTitle>
+		<Section Number="0721.96" />
+		<Section Number="0721.97" />
+		<Section Number="0721.98" />
+	</Part>
+</Chapter>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0960.045" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department of Legal Affairs; powers and duties.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">It shall be the duty of the department to assist persons who are victims of crime.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establish and maintain an office in Tallahassee and prescribe the duties of the employees of the Crime Victims’ Services Office.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Prepare an annual written report of the activities of the Crime Victims’ Services Office, which shall be available on the department’s Internet website.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Authorize other units within the department to assist in carrying out the provisions of this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall provide the Crime Victims’ Services Office with legal representation relative to its duties and responsibilities under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall have a criminal history record check performed through the Florida Crime Information Center system on any victim or other claimant on whose behalf an award is sought under ss. 960.01-960.28.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall establish criteria governing awards for catastrophic injury as a direct result of a crime.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-452; s. 306, ch. 79-400; s. 6, ch. 80-146; s. 506, ch. 81-259; s. 4, ch. 85-326; s. 4, ch. 91-23; s. 5, ch. 92-107; s. 229, ch. 98-200; s. 10, ch. 99-373; s. 19, ch. 2000-155; s. 166, ch. 2010-102.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 960.06.</Text>
+	</Note>
+</Section>

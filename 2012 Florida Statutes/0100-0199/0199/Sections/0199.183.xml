@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0199.183" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Taxpayers exempt from nonrecurring taxes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Intangible personal property owned by this state or any of its political subdivisions or municipalities shall be exempt from taxation under this chapter. This exemption does not apply to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any leasehold or other interest that is described in s. 199.023(1)(d), Florida Statutes 2005; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Property related to the provision of two-way telecommunications services to the public for hire by the use of a telecommunications facility, as defined in s. 364.02(14), and for which a certificate is required under chapter 364, when the service is provided by any county, municipality, or other political subdivision of the state. Any immunity of any political subdivision of the state or other entity of local government from taxation of the property used to provide telecommunication services that is taxed as a result of this paragraph is hereby waived. However, intangible personal property related to the provision of telecommunications services provided by the operator of a public-use airport, as defined in s. 332.004, for the operator’s provision of telecommunications services for the airport or its tenants, concessionaires, or licensees, and intangible personal property related to the provision of telecommunications services provided by a public hospital, are exempt from taxation under this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Intangible personal property owned by nonprofit religious, nonprofit educational, or nonprofit charitable institutions shall be exempt from taxation under this chapter. This exemption shall be strictly defined, limited, and applied in each category as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Religious institutions” means churches and ecclesiastical or denominational organizations having established physical places for worship in this state at which nonprofit religious services and activities are regularly conducted, as well as church cemeteries.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Educational institutions” means only:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Public or nonprofit private schools, colleges, or universities conducting regular classes and courses of study required for accreditation by, or membership in, the Southern Association of Colleges and Schools, Department of Education, or the Florida Council of Independent Schools; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Nonprofit libraries, art galleries, and museums open to the public.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Charitable institutions” means only:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Nonprofit corporations operating physical facilities in this state at which are provided charitable services, a reasonable percentage of which shall be without cost to those unable to pay; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Those institutions qualified as charitable under s. 501(c)(3) of the United States Internal Revenue Code of 1954.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Intangible personal property shall not be deemed to be owned by such exempt institutions if it is held in a trust of any kind under which the institution has no present interest in the trust principal except the right to compel the performance of the trust agreement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 85-342; s. 48, ch. 91-45; s. 2, ch. 96-283; s. 4, ch. 97-197; s. 6, ch. 2000-173; s. 21, ch. 2003-32; s. 21, ch. 2005-132; s. 11, ch. 2006-312; s. 55, ch. 2011-36; s. 32, ch. 2011-64.</History>
+</Section>

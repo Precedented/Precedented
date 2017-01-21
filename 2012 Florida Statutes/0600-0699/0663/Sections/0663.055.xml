@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.055" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Capital requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To qualify for a license under the provisions of this part, an international banking corporation must have net capital accounts, calculated according to United States generally accepted accounting principles and practices, of at least:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Forty million dollars for the establishment of an international bank agency, an international branch, or an international administrative office; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Twenty million dollars for the establishment of an international representative office or international trust representative office.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of paragraph (1)(a), the office may approve an application for a license to establish an international bank agency, an international branch, or an international administrative office if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The international banking corporation is licensed to receive deposits from the general public in the country where it is organized and licensed and to engage in such other activities as are usual in connection with the business of banking in such country;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The office receives a certificate that is issued by the banking or supervisory authority of the country in which the international banking corporation is organized and licensed and states that the international banking corporation is duly organized and licensed and lawfully existing in good standing, and is empowered to conduct a banking business; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The international banking corporation has been in the business of banking for at least 10 years and is ranked by the banking or supervisory authority of the country in which it is organized and licensed as one of the five largest banks in that country in terms of domestic deposits, as of the date of its most recent statement of financial condition. However, in no event shall the office approve an application under this subsection for any international banking corporation with capital accounts of less than $20 million.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The office may specify such other conditions as it determines appropriate, considering the public interest, the need to maintain a safe, sound, and competitive banking system, and the preservation of an environment conducive to the conduct of an international banking business in this state. In translating the capital accounts of an international banking corporation, the office may consider monetary corrections accounts that reflect results consistent with the requirements of generally accepted accounting principles in the United States.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For the purpose of this part, the capital accounts of an international banking corporation shall be determined in accordance with rules adopted by the commission. In adopting such rules, the commission shall consider similar rules adopted by bank regulatory agencies in the United States and the need to provide reasonably consistent regulatory requirements for international banking corporations which will maintain the safe and sound condition of international banking corporations doing business in this state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 155, ch. 92-303; s. 1818, ch. 2003-261; s. 6, ch. 2010-9.</History>
+</Section>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.73" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">District millage elections.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">MILLAGE AUTHORIZED NOT TO EXCEED 2 YEARS.<EmDash />The district school board, pursuant to resolution adopted at a regular meeting, shall direct the county commissioners to call an election at which the electors within the school districts may approve an ad valorem tax millage as authorized in s. 9, Art. VII of the State Constitution. Such election may be held at any time, except that not more than one such election shall be held during any 12-month period. Any millage so authorized shall be levied for a period not in excess of 2 years or until changed by another millage election, whichever is the earlier. In the event any such election is invalidated by a court of competent jurisdiction, such invalidated election shall be considered not to have been held.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">MILLAGE AUTHORIZED NOT TO EXCEED 4 YEARS.<EmDash />The district school board, pursuant to resolution adopted at a regular meeting, shall direct the county commissioners to call an election at which the electors within the school district may approve an ad valorem tax millage as authorized under s. 1011.71(9). Such election may be held at any time, except that not more than one such election shall be held during any 12-month period. Any millage so authorized shall be levied for a period not in excess of 4 years or until changed by another millage election, whichever is earlier. If any such election is invalidated by a court of competent jurisdiction, such invalidated election shall be considered not to have been held.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">HOLDING ELECTIONS.<EmDash />All school district millage elections shall be held and conducted in the manner prescribed by law for holding general elections, except as provided in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">FORM OF BALLOT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The district school board may propose a single millage or two millages, with one for operating expenses and another for a local capital improvement reserve fund. When two millage figures are proposed, each millage must be voted on separately.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The district school board shall provide the wording of the substance of the measure and the ballot title in the resolution calling for the election. The wording of the ballot must conform to the provisions of s. 101.161.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">QUALIFICATION OF ELECTORS.<EmDash />All qualified electors of the school district are entitled to vote in the election to set the school tax district millage levy.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RESULTS OF ELECTION.<EmDash />When the district school board proposes one tax levy for operating expenses and another for the local capital improvement reserve fund, the results shall be considered separately. The tax levy shall be levied only in case a majority of the electors participating in the election vote in favor of the proposed special millage.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">EXPENSES OF ELECTION.<EmDash />The cost of the publication of the notice of the election and all expenses of the election in the school district shall be paid by the district school board.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 666, ch. 2002-387; s. 5, ch. 2007-194; s. 12, ch. 2008-142; s. 130, ch. 2010-5; s. 31, ch. 2010-154.</History>
+</Section>

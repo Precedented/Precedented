@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0040.225" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Jury selection plan.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 40.001, the chief judge of each circuit shall review and consent to the process for selecting juror candidates within his or her circuit. The clerk of court shall implement an automated electronic system in which the names of prospective jurors and other data pertinent thereto shall be maintained for the purpose of the drawing of juror candidates. This system shall be used as the exclusive method authorized by law for obtaining jury venires, if such drawing is by lot and at random and is approved by the Supreme Court as hereinafter provided. Subject to ss. 40.001 and 40.02, the clerk of the circuit court in each county shall have the administrative responsibility for developing the automated system of jury venire selection, obtaining approval for the juror candidate selection process, and operating and updating the system in accordance with this chapter and technical standards and procedures adopted by the Chief Justice.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The clerk of the court, or the chief judge of the circuit if performing the duties of juror candidate selection as provided in s. 40.02, shall submit for approval a plan for the selection of juror candidates as required in this section to the Chief Justice. The plan must be reapproved whenever required by a change in the law, a change in the technical standards and procedures, or a change in the approved clerk-maintained hardware or software used in the automated system of jury venire selection. The proposed plan, if submitted by the clerk, must be approved by the chief judge of the judicial circuit in which the county is located, and must include a description of the equipment, methods, and mode of operation to be used, in a manner consistent with the technical standards and procedures established by the Chief Justice.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Chief Justice shall examine the proposed plan for compliance with applicable statutory requirements and with established technical standards and procedures. If the Chief Justice finds that the proposed plan is in compliance with applicable statutory requirements and established technical standards and procedures, will produce venires selected by lot and at random, and is otherwise feasible and practicable, an administrative order of approval of same shall be made and filed. Thereafter, the approved system for automated selection of jury venires shall be used in the county so authorized.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not require uniform equipment or methods throughout the state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-52; s. 6, ch. 79-235; s. 11, ch. 2012-100.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 40.371.</Text>
+	</Note>
+</Section>

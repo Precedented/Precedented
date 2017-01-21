@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0721.856" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Procedure for the trustee foreclosure of mortgage liens.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The provisions of this section establish a trustee foreclosure procedure for mortgage liens.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">APPOINTMENT OF TRUSTEE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A trustee or a substitute trustee may be appointed by a lienholder at any time by recording a notice of appointment of trustee or notice of substitution of trustee in the official records of the county or counties in which the timeshare interest is located. A lienholder may appoint multiple trustees in a single appointment, and any appointed trustee may be used by the lienholder regarding the trustee foreclosure of any mortgage lien.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A trustee shall use good faith, skill, care, and diligence in discharging all of the trustee duties under this section and shall deal honestly and fairly with all parties.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The recorded notice of appointment of trustee or notice of substitution of trustee shall contain the name and address of the trustee or substitute trustee, the name and address of the lienholder, and the name and address of the timeshare plan.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">INITIATING THE TRUSTEE FORECLOSURE OF MORTGAGE LIENS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Before initiating the trustee foreclosure against a timeshare interest, the mortgage, or an amendment to a mortgage executed by the obligor before the effective date of this section, must contain a statement in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true"><Font xml:space="preserve" Style="Italic">If the mortgagor fails to make timely payments under the obligation secured by this mortgage, or is otherwise deemed in uncured default of this mortgage, the lien against the mortgagor’s timeshare interest created by this mortgage may be foreclosed in accordance with either a judicial foreclosure procedure or a trustee foreclosure procedure and may result in the loss of your timeshare interest. If the mortgagee initiates a trustee foreclosure procedure, the mortgagor shall have the option to object and the mortgagee may proceed only by filing a judicial foreclosure action.</Font></Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In order to initiate a trustee foreclosure procedure against a timeshare interest, the lienholder shall deliver an affidavit to the trustee that identifies the obligor, the notice address of the obligor, the timeshare interest, the official records book and page number where the mortgage is recorded, and the name and notice address of any junior interestholder. The affidavit shall be accompanied by a title search of the timeshare interest identifying any junior interestholders of record, and the effective date of the title search must be a date that is within 60 calendar days before the date of the affidavit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The affidavit shall also state the facts that establish that the obligor has defaulted in the obligation to make a payment under a specified provision of the mortgage or is otherwise deemed in uncured default under a specified provision of the mortgage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The affidavit shall also specify the amounts secured by the lien as of the date of the affidavit and a per diem amount to account for further accrual of the amounts secured by the lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The affidavit shall also state that the appropriate amount of documentary stamp tax and intangible taxes has been paid upon recording of the mortgage, or otherwise paid to the state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The affidavit shall also state that the lienholder is the holder of the note and has complied with all preconditions in the note and mortgage to determine the amounts secured by the lien and to initiate the use of the trustee foreclosure procedure.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">OBLIGOR’S RIGHTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The obligor may object to the lienholder’s use of the trustee foreclosure procedure for a specific default any time before the sale of the timeshare interest under subsection (7) by delivering a written objection to the trustee using the objection form provided for in subsection (5). If the trustee receives the written objection from the obligor, the trustee may not proceed with the trustee foreclosure procedure as to the default specified in the notice of default and intent to foreclose under subsection (5), and the lienholder may proceed thereafter only with a judicial foreclosure action as to that specified default.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At any time before the trustee issues the certificate of sale under paragraph (7)(f), the obligor may cure the default and redeem the timeshare interest by paying the amounts secured by the lien in cash or certified funds to the trustee. After the trustee issues the certificate of sale, there is no right of redemption.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CONDITIONS TO TRUSTEE’S EXERCISE OF POWER OF SALE.<EmDash />A trustee may sell an encumbered timeshare interest foreclosed under this section if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The trustee has received the affidavit from the lienholder under paragraph (2)(b);</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The trustee has not received a written objection to the use of the trustee foreclosure procedure under paragraph (3)(a) and the timeshare interest was not redeemed under paragraph (3)(b);</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">There is no lis pendens recorded and pending against the same timeshare interest, and the trustee has not been served notice of the filing of any action to enjoin the trustee foreclosure sale;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The trustee is in possession of the original promissory note executed by the mortgagor and secured by the mortgage lien;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The trustee has provided written notice of default and intent to foreclose as required under subsection (5) and a period of at least 30 calendar days has elapsed after such notice is deemed perfected under subsection (5); and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The notice of sale required under subsection (6) has been recorded in the official records of the county in which the mortgage was recorded.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">NOTICE OF DEFAULT AND INTENT TO FORECLOSE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In any foreclosure proceeding under this section, the trustee is required to notify the obligor of the proceeding by sending the obligor a written notice of default and intent to foreclose to the notice address of the obligor by certified mail, registered mail, or permitted delivery service, return receipt requested, and by first-class mail or permitted delivery service, postage prepaid, as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The notice of default and intent to foreclose shall identify the obligor, the notice address of the obligor, the legal description of the timeshare interest, the nature of the default, the amounts secured by the lien, and a per diem amount to account for further accrual of the amounts secured by the lien and shall state the method by which the obligor may cure the default, including the period of time after the date of the notice of default and intent to foreclose within which the obligor may cure the default.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The notice of default and intent to foreclose shall include an objection form with which the obligor can object to the use of the trustee foreclosure procedure by signing and returning the objection form to the trustee. The objection form shall identify the obligor, the notice address of the obligor, the timeshare interest, and the return address of the trustee and shall state: <Font xml:space="preserve" Style="Italic">“The undersigned obligor exercises the obligor’s right to object to the use of the trustee foreclosure procedure contained in section 721.856, Florida Statutes.”</Font></Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The notice of default and intent to foreclose shall also contain a statement in substantially the following form:</Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true"><Font xml:space="preserve" Style="Italic">If you fail to cure the default as set forth in this notice or take other appropriate action with regard to this foreclosure matter, you risk losing ownership of your timeshare interest through the trustee foreclosure procedure established in section 721.856, Florida Statutes. You may choose to sign and send to the trustee the enclosed objection form, exercising your right to object to the use of the trustee foreclosure procedure. Upon the trustee’s receipt of your signed objection form, the foreclosure of the lien with respect to the default specified in this notice shall be subject to the judicial foreclosure procedure only. You have the right to cure your default in the manner set forth in this notice at any time before the trustee’s sale of your timeshare interest. If you do not object to the use of the trustee foreclosure procedure, you will not be subject to a deficiency judgment even if the proceeds from the sale of your timeshare interest are insufficient to offset the amounts secured by the lien.</Font></Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The trustee shall also mail a copy of the notice of default and intent to foreclose, without the objection form, to the notice address of any junior interestholder by certified mail, registered mail, or permitted delivery service, return receipt requested, and by first-class mail or permitted delivery service, postage prepaid.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Notice under this paragraph is considered perfected upon the trustee receiving the return receipt bearing the signature of the obligor or junior interestholder, as applicable, within 30 calendar days after the trustee sent the notice under this paragraph. Notice under this paragraph is not perfected if the notice is returned as undeliverable within 30 calendar days after the trustee sent the notice, if the trustee cannot ascertain from the receipt that the obligor or junior interestholder, as applicable, is the person who signed the receipt, or if the receipt from the obligor or junior interestholder, as applicable, is returned or refused within 30 calendar days after the trustee sent the notice.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the notice required by paragraph (a) is returned as undeliverable within 30 calendar days after the trustee sent the notice, the trustee shall perform a diligent search and inquiry to obtain a different address for the obligor or junior interestholder. For purposes of this paragraph, any address known and used by the lienholder for sending regular mailings or other communications from the lienholder to the obligor or junior interestholder, as applicable, shall be included with other addresses produced from the diligent search and inquiry, if any.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the trustee’s diligent search and inquiry produces an address different from the notice address, the trustee shall mail a copy of the notice by certified mail, registered mail, or permitted delivery service, return receipt requested, and by first-class mail or permitted delivery service, postage prepaid, to the new address. Notice under this subparagraph is considered perfected upon the trustee receiving the return receipt bearing the signature of the obligor or junior interestholder, as applicable, within 30 calendar days after the trustee sent the notice under this subparagraph. Notice under this subparagraph is not perfected if the trustee cannot ascertain from the receipt that the obligor or junior interestholder, as applicable, is the person who signed the receipt or the receipt from the obligor or junior interestholder, as applicable, is returned refused. If the trustee does not perfect notice under this subparagraph, the trustee shall perfect service in the manner set forth in paragraph (c).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the trustee’s diligent search and inquiry does not locate a different address for the obligor or junior interestholder, as applicable, the trustee may perfect notice against that person under paragraph (c).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the notice is not perfected under subparagraph (a)5., and such notice was not returned as undeliverable, or if the notice was not perfected under subparagraph (b)1., the trustee may perfect notice by publication in a newspaper of general circulation in the county or counties in which the timeshare interest is located. The notice shall appear at least once a week for 2 consecutive weeks. The trustee may group an unlimited number of notices in the same publication, if all of the notices pertain to the same timeshare plan. Notice under this paragraph is considered perfected upon publication as required in this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If notice is perfected under subparagraph (a)5., the trustee shall execute an affidavit in recordable form setting forth the manner in which notice was perfected and attach the affidavit to the certificate of compliance set forth in subsection (9). The affidavit shall state the nature of the notice, the date on which the notice was mailed, the name and address on the envelope containing the notice, the manner in which the notice was mailed, and the basis for that knowledge.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If notice is perfected under subparagraph (b)1., the trustee shall execute an affidavit in recordable form setting forth the manner in which notice was perfected and attach the affidavit to the certificate of compliance set forth in subsection (9). The affidavit shall state the nature of the notice, the dates on which the notice was mailed, the name and addresses on the envelopes containing the notice, the manner in which the notice was mailed, the fact that a signed receipt from the certified mail, registered mail, or permitted delivery service was timely received, and the name and address on the envelopes containing the notice.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If notice is perfected under paragraph (c), the trustee shall execute an affidavit in recordable form setting forth the manner in which notice was perfected and attach the affidavit to the certificate of compliance set forth in subsection (9). The affidavit shall include all the information contained in either paragraph (d) or paragraph (e), as applicable, shall state that the notice was perfected by publication after diligent search and inquiry was made for the current address for the person, shall include a statement that notice was perfected by publication, and shall set forth the information required by s. 49.041 in the case of a natural person or s. 49.051 in the case of a corporation, whichever is applicable. No other action of the trustee is necessary to perfect notice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">NOTICE OF SALE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The notice of sale shall set forth:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name and notice addresses of the obligor and any junior interestholder.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The legal description of the timeshare interest.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The name and address of the trustee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A description of the default that is the basis for the foreclosure.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The official records book and page numbers where the mortgage is recorded.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The amounts secured by the lien and a per diem amount to account for further accrual of the amounts secured by the lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The date, location, and starting time of the trustee’s sale.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The right of and the method by which the obligor may cure the default or the right of any junior interestholder to redeem its interest up to the date the trustee issues the certificate of sale in accordance with paragraph (7)(f).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The trustee shall send a copy of the notice of sale within 3 business days after the date it is submitted for recording, by first-class mail or permitted delivery service, postage prepaid, to the notice addresses of the obligor and any junior interestholder.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">After the date of recording of the notice of sale, notice is not required to be given to any person claiming an interest in the timeshare interest except as provided in this section. The recording of the notice of sale has the same force and effect as the filing of a lis pendens in a judicial proceeding under s. 48.23.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The trustee shall publish the notice of sale in a newspaper of general circulation in the county or counties in which the timeshare interest is located at least once a week for 2 consecutive weeks before the date of the sale. The last publication shall occur at least 5 calendar days before the sale.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The trustee may group an unlimited number of notices of sale in the same publication, if all of the notices of sale pertain to the same timeshare plan.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">MANNER OF SALE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The sale of a timeshare interest by the trustee in a public auction shall be held in the county in which the timeshare interest is located, on the date, location, and starting time designated in the notice of sale, which shall be after 9:00 a.m. but before 4:00 p.m. on a business day not less than 30 calendar days after the recording of the notice of sale. The trustee’s sale may occur online at a specific website on the Internet or in any other manner used by the clerk of the court for a judicial foreclosure sales procedure in the county or counties in which the timeshare interest is located.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The trustee shall conduct the sale and act as the auctioneer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The lienholder and any person other than the trustee may bid at the sale. In lieu of participating in the sale, the lienholder may send the trustee written bidding instructions that the trustee shall announce as appropriate during the sale.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The trustee may postpone the sale from time to time. In such case, notice of postponement must be given by the trustee at the date, time, and location contained in the notice of sale. The notice of sale for the postponed sale shall be mailed under paragraph (6)(b), recorded under paragraph (4)(f), and published under paragraph (6)(d). The effective date of the initial notice of sale under paragraph (6)(b) is not affected by a postponed sale.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The highest bidder of the timeshare interest shall pay the price bid to the trustee in cash or certified funds on the day of the sale. If the lienholder is the highest bidder, the lienholder shall receive a credit up to the amount set forth in the notice of sale as required under subparagraph (6)(a)6.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">On the date of the sale and upon receipt of the cash or certified funds due from the highest bidder, the trustee shall issue to the highest bidder a certificate of sale stating that a foreclosure conforming to the requirements of this section has occurred, including the time, location, and date of the sale, that the timeshare interest was sold, the amounts secured by the lien, and the amount of the highest bid. A copy of the certificate of sale shall be mailed by certified mail, registered mail, or permitted delivery service, return receipt requested, to all persons entitled to receive a notice of sale under subsection (6).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Before a sale conducted pursuant to this subsection, a junior interestholder may pursue adjudication by court, by interpleader, or in any other authorized manner respecting any matter that is disputed by the junior interestholder.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">EFFECT OF TRUSTEE’S SALE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A sale conducted under subsection (7) forecloses and terminates all interests of any person with notice to whom notice is given under paragraph (4)(e) and paragraph (6)(b), and of any other person claiming interests by, through, or under any such person, in the affected timeshare interest. A failure to give notice to any person entitled to notice does not affect the validity of the sale as to the interests of any person properly notified. A person entitled to notice but not given notice has the rights of a person not made a defendant in a judicial foreclosure.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">On the issuance of a certificate of sale under paragraph (7)(f), all rights of redemption that have been foreclosed under this section shall terminate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A sale conducted under subsection (7) releases the obligor’s liability for all amounts secured by the lien. The lienholder has no right to any deficiency judgment against the obligor after a sale of the obligor’s timeshare interest under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The issuance and recording of the trustee’s deed is presumed valid and may be relied upon by third parties without actual knowledge of any irregularities in the foreclosure proceedings. If for any reason there is an irregularity in the foreclosure proceedings, a purchaser becomes subrogated to all the rights of the lienholder to the indebtedness that it secured to the extent necessary to reforeclose the mortgage lien in order to correct the irregularity and becomes entitled to an action de novo for the foreclosure of such mortgage lien. Any subsequent reforeclosure required to correct an irregularity may be conducted under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">TRUSTEE’S CERTIFICATE OF COMPLIANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 10 calendar days after the trustee conducts a sale, the trustee shall execute and acknowledge a certificate of compliance which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Confirms delivery of the notice of default and intent to foreclose and attaches the affidavit required under subsection (5).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">States that the default was not cured, that the trustee did not receive any written objection under paragraph (3)(a), and that the timeshare interest was not redeemed under paragraph (3)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">States that the trustee is in possession of the original promissory note executed by the mortgagor and secured by the mortgage lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Confirms that the notice of sale was published as required under paragraph (6)(d) and attaches an affidavit of publication for the notice of sale.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Confirms that the notice of sale was mailed under paragraph (6)(b), together with a list of the parties to whom the notice of sale was mailed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In furtherance of the execution of the certificate of compliance required under this subsection, the trustee is entitled to rely upon an affidavit or certification from the lienholder as to the facts and circumstances of default and failure to cure the default.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">TRUSTEE’S DEED.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The trustee’s deed shall include the name and address of the trustee, the name and address of the highest bidder, the name of the former owner, a legal description of the timeshare interest, and the name and address of the preparer of the trustee’s deed. The trustee’s deed shall contain no warranties of title from the trustee. The certificate of compliance shall be attached as an exhibit to the trustee’s deed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Ten calendar days after a sale, absent the prior filing and service on the trustee of a judicial action to enjoin issuance of the trustee’s deed to the timeshare interest, the trustee shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Cancel the original promissory note executed by the mortgagor and secured by the mortgage lien.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Issue a trustee’s deed to the highest bidder.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Record the trustee’s deed in the official records of the county or counties in which the timeshare interest is located.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The certificate of compliance and trustee’s deed together are presumptive evidence of the truth of the matters set forth in them, and an action to set aside the sale and void the trustee’s deed may not be filed or otherwise pursued against any person acquiring the timeshare interest for value.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The trustee’s deed conveys to the highest bidder all rights, title, and interest in the timeshare interest that the former owner had, or had the power to convey, together with all rights, title, and interest that the former owner or his or her successors in interest acquired after the execution of the mortgage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The issuance and recording of a trustee’s deed shall have the same force and effect as the issuance and recording of a certificate of title by the clerk of the court in a judicial foreclosure action.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">DISPOSITION OF PROCEEDS OF SALE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The trustee shall apply the proceeds of the sale as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To the expenses of the sale, including compensation of the trustee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To the amount owed and set forth in the notice as required under subparagraph (6)(a)6.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If there are junior interestholders, the trustee may file an action in interpleader, pay the surplus to a court of competent jurisdiction, name the competing junior interestholders, and ask the court to determine the proper distribution of the surplus. In any interpleader action, the trustee shall recover reasonable attorney’s fees and costs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If there are no junior interestholders, or if all junior interestholders have been paid, any surplus shall be paid to the former owner. If the trustee is unable to locate the former owner within 1 year after the sale, the surplus, if any, shall be deposited with the Chief Financial Officer under chapter 717.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In disposing of the proceeds of the sale, the trustee may rely on the information provided in the affidavit of the lienholder under paragraph (2)(b), and, in the event of a dispute or uncertainty over such claims, the trustee has the discretion to submit the matter to adjudication by court, by interpleader, or in any other authorized manner and shall recover reasonable attorney’s fees and costs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">JUDICIAL FORECLOSURE ACTIONS.<EmDash />The trustee foreclosure procedure established in this section does not impair or otherwise affect the lienholder’s continuing right to bring a judicial foreclosure action, in lieu of using the trustee foreclosure procedure, with respect to any mortgage lien.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">ACTIONS FOR FAILURE TO FOLLOW THE TRUSTEE FORECLOSURE PROCEDURE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An action for actual damages for a material violation of this section may be brought by an obligor against the lienholder for the failure to follow the trustee foreclosure procedure contained in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any trustee who intentionally violates the provisions of this section concerning the trustee foreclosure procedure commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 2010-134.</History>
+</Section>

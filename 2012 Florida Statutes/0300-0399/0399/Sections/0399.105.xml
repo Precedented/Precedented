@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.105" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Administrative fines.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person who fails to comply with the reporting requirements of this chapter or with the reasonable requests of the department to determine whether the provisions of a service maintenance contract and its implementation ensure safe elevator operation is subject to an administrative fine not greater than $1,000 in addition to any other penalty provided by law.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any person who commences the operation, installation, relocation, or alteration of any elevator for which a permit or certificate is required by this chapter without having obtained from the department the permit or certificate is subject to an administrative fine not greater than $1,000 in addition to any other penalty provided by law.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An elevator owner who continues to operate an elevator after notice to discontinue its use or after it has been sealed by the department is subject to an administrative fine not greater than $1,000 for each day the elevator has been operated after the service of the notice or sealing by the department, in addition to any other penalty provided by law.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An elevator owner who fails to comply with an order to correct issued under s. 399.061(4) within 90 days after its issuance is subject, in addition to any other penalty provided by law, to an administrative fine in an amount not to exceed $1,000.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All administrative fines collected shall be deposited into the Hotel and Restaurant Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 2, 7, 10, 16, 17, ch. 83-145; ss. 7, 8, ch. 93-16; s. 13, ch. 2001-186; s. 9, ch. 2002-293; s. 12, ch. 2002-299; s. 6, ch. 2010-110.</History>
+</Section>

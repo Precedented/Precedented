@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="1006.62">
+	<Catchline xml:space="preserve">Expulsion and discipline of students of Florida College System institutions and state universities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each student in a Florida College System institution or state university is subject to federal and state law, respective county and municipal ordinances, and all rules and regulations of the State Board of Education, the Board of Governors regarding the State University System, or the board of trustees of the institution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Violation of these published laws, ordinances, or rules and regulations may subject the violator to appropriate action by the institution’s authorities.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each president of a Florida College System institution or state university may, after notice to the student of the charges and after a hearing thereon, expel, suspend, or otherwise discipline any student who is found to have violated any law, ordinance, or rule or regulation of the State Board of Education, the Board of Governors regarding the State University System, or the board of trustees of the institution. A student may be entitled to waiver of expulsion:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the student provides substantial assistance in the identification, arrest, or conviction of any of his or her accomplices, accessories, coconspirators, or principals or of any other person engaged in violations of chapter 893 within a state university or Florida College System institution;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the student voluntarily discloses his or her violations of chapter 893 prior to his or her arrest; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the student commits himself or herself, or is referred by the court in lieu of sentence, to a state-licensed drug abuse program and successfully completes the program.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 332, ch. 2002-387; s. 108, ch. 2007-217; s. 81, ch. 2011-5.</History>
+</Section>

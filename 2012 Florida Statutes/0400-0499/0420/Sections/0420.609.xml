@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0420.609" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Affordable Housing Study Commission.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Because the Legislature firmly supports affordable housing in Florida for all economic classes:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created the Affordable Housing Study Commission, which shall be composed of 21 members to be appointed by the Governor:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">One citizen actively engaged in the residential home building industry.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">One citizen actively engaged in the home mortgage lending profession.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">One citizen actively engaged in the real estate sales profession.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">One citizen actively engaged in apartment development.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">One citizen actively engaged in the management and operation of a rental housing development.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Two citizens who represent very-low-income and low-income persons.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">One citizen representing a community-based organization with experience in housing development.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">One citizen representing a community-based organization with experience in housing development in a community with a population of less than 50,000 persons.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Two citizens who represent elderly persons’ housing interests.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">One representative of regional planning councils.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">One representative of the Florida League of Cities.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">One representative of the Florida Association of Counties.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Two citizens representing statewide growth management organizations.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">One citizen of the state to serve as chair of the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">One citizen representing a residential community developer.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">One member who is a resident of the state.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">One representative from a local housing authority.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">One citizen representing the housing interests of homeless persons.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Members shall be appointed for 4-year staggered terms, except that the citizen serving as chair shall be appointed to serve a 2-year term and except that a vacancy shall be filled for the unexpired portion of the term. The members of the commission shall serve without compensation, but shall be reimbursed for all necessary expenses in the performance of their duties, including travel expenses, in accordance with s. 112.061.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Governor may remove or suspend a member for cause, including, but not limited to, failure to attend at least 3 meetings of the commission during any 12-month period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The corporation shall supply such information, assistance, and facilities as are deemed necessary for the commission to carry out its duties under this section and shall provide such staff assistance as is necessary for the performance of required clerical and administrative functions of the commission.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The commission shall analyze those solutions and programs which could begin to address the state’s acute need for housing for the homeless; for very-low-income, low-income, and moderate-income persons; and for elderly persons, including programs or proposals which provide for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Offering low-interest and zero-interest loans for the development or rehabilitation of housing;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Use of publicly owned lands and buildings as affordable housing sites;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Coordination with federal initiatives, including development of an approved housing strategy;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Streamlining the various state, regional, and local regulations, and housing and building codes governing the housing industry;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Stimulation of public and private cooperative housing efforts;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Implementation or expansion of the programs authorized in this chapter;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Discovery and assessment of funding sources for low-cost housing construction and rehabilitation; and</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Development of such other solutions and programs as the commission deems appropriate.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">In performing its analysis, the commission shall consider both homeownership and rental housing as viable options for the provision of housing. The commission shall also give consideration to various types of residential construction, including but not limited to, manufactured housing.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The commission shall review, evaluate, and make recommendations regarding existing and proposed housing programs and initiatives. The commission shall provide these and any other housing recommendations to the director of the department and the executive director of the corporation.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The commission shall distribute its meeting notices, minutes, and recommendations to state agencies responsible for the delivery of services to or the analysis of issues concerning the elderly.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">By July 15 of each year beginning in 2001, the commission shall prepare and submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives a report detailing its findings and making specific program, legislative, and funding recommendations and any other recommendations it deems appropriate.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The commission shall recommend studies to be conducted for affordable housing.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 86-192; ss. 15, 30, ch. 88-376; s. 13, ch. 89-121; s. 15, ch. 90-275; ss. 1, 2, 3, ch. 91-27; s. 5, ch. 91-429; s. 31, ch. 92-317; s. 11, ch. 93-181; s. 8, ch. 95-396; s. 80, ch. 97-103; s. 80, ch. 2000-153; s. 13, ch. 2000-353; s. 8, ch. 2001-98; s. 22, ch. 2004-243; s. 335, ch. 2011-142.</History>
+</Section>

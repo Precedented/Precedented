@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.221" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">K-12 education records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Education records, as defined in the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. s. 1232g, and the federal regulations issued pursuant thereto, are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An agency, as defined in s. 1002.22(1)(a), or a public school, center, institution, or other entity that is part of Florida’s education system under s. 1000.04(1), (3), or (4), may not release a student’s education records without the written consent of the student or parent to any individual, agency, or organization, except in accordance with and as permitted by the FERPA. Education records released by an agency, as defined in s. 1002.22(1)(a), or by a public school, center, institution, or other entity that is part of Florida’s education system under s. 1000.04(1), (3), or (4), to the Auditor General or the Office of Program Policy Analysis and Government Accountability, which are necessary for such agencies to perform their official duties and responsibilities, shall be used and maintained by the Auditor General and the Office of Program Policy Analysis and Government Accountability in accordance with the FERPA.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In accordance with FERPA and the federal regulations issued pursuant to FERPA, an agency, as defined in s. 1002.22, or a public school, center, institution, or other entity that is part of Florida’s education system under s. 1000.04(1), (3), or (4) may release a student’s education records without written consent of the student or parent to parties to an interagency agreement among the Department of Juvenile Justice, the school, law enforcement authorities, and other signatory agencies. The purpose of such an agreement and information sharing is to reduce juvenile crime, especially motor vehicle theft, by promoting cooperation and collaboration and the sharing of appropriate information in a joint effort to improve school safety, to reduce truancy and in-school and out-of-school suspensions, and to support alternatives to in-school and out-of-school suspensions and expulsions, which provide structured and well-supervised educational programs supplemented by a coordinated overlay of other appropriate services designed to correct behaviors that lead to truancy, suspensions, and expulsions and that support students in successfully completing their education. Information provided in furtherance of an interagency agreement is intended solely for use in determining the appropriate programs and services for each juvenile or the juvenile’s family, or for coordinating the delivery of the programs and services, and as such is inadmissible in any court proceeding before a dispositional hearing unless written consent is provided by a parent or other responsible adult on behalf of the juvenile.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section is subject to the Open Government Sunset Review Act in accordance with s. 119.15 and shall stand repealed on October 2, 2014, unless reviewed and saved from repeal through reenactment by the Legislature.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2009-240; s. 2, ch. 2010-192.</History>
+</Section>

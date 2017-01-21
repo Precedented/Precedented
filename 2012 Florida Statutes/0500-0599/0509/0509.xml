@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIII">
+	<ChapterNumber>509</ChapterNumber>
+	<ChapterName xml:space="preserve">Lodging and food service establishments; membership campgrounds</ChapterName>
+	<RunningHead>LODGING AND FOOD ESTABLISHMENTS; MEMBERSHIP CAMPGROUNDS</RunningHead>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Public lodging and<NewLine />public food service establishments</PartTitle>
+		<Section Number="0509.013" />
+		<Section Number="0509.032" />
+		<Section Number="0509.034" />
+		<Section Number="0509.035" />
+		<Section Number="0509.036" />
+		<Section Number="0509.039" />
+		<Section Number="0509.049" />
+		<Section Number="0509.072" />
+		<Section Number="0509.091" />
+		<Section Number="0509.092" />
+		<Section Number="0509.101" />
+		<Section Number="0509.111" />
+		<Section Number="0509.141" />
+		<Section Number="0509.142" />
+		<Section Number="0509.143" />
+		<Section Number="0509.144" />
+		<Section Number="0509.151" />
+		<Section Number="0509.161" />
+		<Section Number="0509.162" />
+		<Section Number="0509.191" />
+		<Section Number="0509.2015" />
+		<Section Number="0509.211" />
+		<Section Number="0509.2112" />
+		<Section Number="0509.213" />
+		<Section Number="0509.214" />
+		<Section Number="0509.215" />
+		<Section Number="0509.221" />
+		<Section Number="0509.232" />
+		<Section Number="0509.233" />
+		<Section Number="0509.241" />
+		<Section Number="0509.242" />
+		<Section Number="0509.251" />
+		<Section Number="0509.261" />
+		<Section Number="0509.271" />
+		<Section Number="0509.281" />
+		<Section Number="0509.285" />
+		<Section Number="0509.291" />
+		<Section Number="0509.292" />
+		<Section Number="0509.302" />
+		<Section Number="0509.4005" />
+		<Section Number="0509.401" />
+		<Section Number="0509.402" />
+		<Section Number="0509.403" />
+		<Section Number="0509.404" />
+		<Section Number="0509.405" />
+		<Section Number="0509.406" />
+		<Section Number="0509.407" />
+		<Section Number="0509.408" />
+		<Section Number="0509.409" />
+		<Section Number="0509.411" />
+		<Section Number="0509.412" />
+		<Section Number="0509.413" />
+		<Section Number="0509.414" />
+		<Section Number="0509.415" />
+		<Section Number="0509.416" />
+		<Section Number="0509.417" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Membership campgrounds</PartTitle>
+		<Section Number="0509.501" />
+		<Section Number="0509.502" />
+		<Section Number="0509.503" />
+		<Section Number="0509.504" />
+		<Section Number="0509.505" />
+		<Section Number="0509.506" />
+		<Section Number="0509.507" />
+		<Section Number="0509.508" />
+		<Section Number="0509.509" />
+		<Section Number="0509.510" />
+		<Section Number="0509.511" />
+		<Section Number="0509.512" />
+	</Part>
+</Chapter>

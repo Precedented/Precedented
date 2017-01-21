@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0784.071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Assault or battery on a law enforcement officer; missing while in line of duty; blue alert.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">At the request of an authorized person employed at a law enforcement agency, the Department of Law Enforcement, in cooperation with the Department of Highway Safety and Motor Vehicles and the Department of Transportation, shall activate the emergency alert system and issue a blue alert if all of the following conditions are met:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A law enforcement officer has been killed, has suffered serious bodily injury, or has been assaulted with a deadly weapon; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A law enforcement officer is missing while in the line of duty under circumstances evidencing concern for the law enforcement officer’s safety;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The suspect has fled the scene of the offense;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The law enforcement agency investigating the offense determines that the suspect poses an imminent threat to the public or to other law enforcement officers;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A detailed description of the suspect’s vehicle, or other means of escape, or the license plate of the suspect’s vehicle is available for broadcasting;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Dissemination of available information to the public may help avert further harm or assist in the apprehension of the suspect; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If the law enforcement officer is missing, there is sufficient information available relating to the officer’s last known location and physical description, and the description of any vehicle involved, including the license plate number or other identifying information, to be broadcast to the public and other law enforcement agencies, which could assist in locating the missing law enforcement officer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The blue alert shall be immediately disseminated to the public through the emergency alert system by broadcasting the alert on television, radio, and the dynamic message signs that are located along the state’s highways.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a traffic emergency arises requiring that information pertaining to the traffic emergency be displayed on a highway message sign in lieu of the blue alert information, the agency responsible for displaying information on the highway message sign is not in violation of this section.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2011-72.</History>
+</Section>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXIX">
+	<ChapterNumber>406</ChapterNumber>
+	<ChapterName xml:space="preserve">Medical examiners; disposition of dead bodies</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Medical examiners</PartTitle>
+		<Section Number="0406.01" />
+		<Section Number="0406.02" />
+		<Section Number="0406.03" />
+		<Section Number="0406.04" />
+		<Section Number="0406.05" />
+		<Section Number="0406.06" />
+		<Section Number="0406.075" />
+		<Section Number="0406.08" />
+		<Section Number="0406.09" />
+		<Section Number="0406.11" />
+		<Section Number="0406.12" />
+		<Section Number="0406.13" />
+		<Section Number="0406.135" />
+		<Section Number="0406.136" />
+		<Section Number="0406.14" />
+		<Section Number="0406.145" />
+		<Section Number="0406.15" />
+		<Section Number="0406.16" />
+		<Section Number="0406.17" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Disposition of dead bodies</PartTitle>
+		<Section Number="0406.50" />
+		<Section Number="0406.51" />
+		<Section Number="0406.52" />
+		<Section Number="0406.53" />
+		<Section Number="0406.54" />
+		<Section Number="0406.55" />
+		<Section Number="0406.56" />
+		<Section Number="0406.57" />
+		<Section Number="0406.58" />
+		<Section Number="0406.59" />
+		<Section Number="0406.60" />
+		<Section Number="0406.61" />
+	</Part>
+</Chapter>

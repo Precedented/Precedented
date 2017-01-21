@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0366.94" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Electric vehicle charging stations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The provision of electric vehicle charging to the public by a nonutility is not the retail sale of electricity for the purposes of this chapter. The rates, terms, and conditions of electric vehicle charging services by a nonutility are not subject to regulation under this chapter. This section does not affect the ability of individuals, businesses, or governmental entities to acquire, install, or use an electric vehicle charger for their own vehicles.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Department of Agriculture and Consumer Services shall adopt rules to provide definitions, methods of sale, labeling requirements, and price-posting requirements for electric vehicle charging stations to allow for consistency for consumers and the industry.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for a person to stop, stand, or park a vehicle that is not capable of using an electrical recharging station within any parking space specifically designated for charging an electric vehicle.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a law enforcement officer finds a motor vehicle in violation of this subsection, the officer or specialist shall charge the operator or other person in charge of the vehicle in violation with a noncriminal traffic infraction, punishable as provided in s. 316.008(4) or s. 318.18.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Public Service Commission is directed to conduct a study of the potential effects of public charging stations and privately owned electric vehicle charging on both energy consumption and the impact on the electric grid in the state. The Public Service Commission shall also investigate the feasibility of using off-grid solar photovoltaic power as a source of electricity for the electric vehicle charging stations. The commission shall submit the results of the study to the President of the Senate, the Speaker of the House of Representatives, and the Executive Office of the Governor by December 31, 2012.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2012-117.</History>
+</Section>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0960.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions; ss. 960.01-960.28.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 960.01-960.28, unless the context otherwise requires, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Catastrophic injury” means a permanent impairment constituted by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Spinal cord injury involving severe paralysis of an arm, a leg, or the trunk;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Amputation of an arm, a hand, a foot, or a leg;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Severe brain or closed-head injury as evidenced by:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Severe sensory or motor disturbances;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Severe communication disturbances;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Severe complex integrated disturbances of cerebral function;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Severe episodic neurological disorders; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Other severe brain and closed-head injury conditions at least as severe in nature as any condition described in subparagraphs 1.-4.;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Second-degree or third-degree burns on 25 percent or more of the total body surface or third-degree burns on 5 percent or more of the face and hands;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Total or industrial blindness; or</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Any other injury that would otherwise qualify under this chapter and that is of a nature and severity that would qualify an employee to receive disability income benefits under Title II or supplemental security income benefits under Title XVI of the federal Social Security Act as the Social Security Act existed on July 1, 1992, without regard to any time limitations provided under that act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Claimant” means the person on whose behalf an award is sought.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Crime” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A felony or misdemeanor offense committed by an adult or a juvenile which results in physical injury or death, or a felony or misdemeanor offense of child abuse committed by an adult or a juvenile which results in a mental injury, as defined in s. 827.03, to a person younger than 18 years of age who was not physically injured by the criminal act. The mental injury to the minor must be verified by a psychologist licensed under chapter 490, by a physician licensed in this state under chapter 458 or chapter 459 who has completed an accredited residency in psychiatry, or by a physician who has obtained certification as an expert witness pursuant to s. 458.3175. The term also includes a criminal act that is committed within this state but that falls exclusively within federal jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A violation of s. 316.193, s. 316.027(1), s. 327.35(1), s. 782.071(1)(b), or s. 860.13(1)(a) which results in physical injury or death; however, an act involving the operation of a motor vehicle, boat, or aircraft which results in injury or death does not constitute a crime for the purpose of this chapter unless the injury or death was intentionally inflicted through the use of the vehicle, boat, or aircraft.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A criminal act committed outside this state against a resident of this state which would have been compensable if it had occurred in this state and which occurred in a jurisdiction that does not have an eligible crime victim compensation program as the term is defined in the federal Victims of Crime Act of 1984.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A violation of s. 827.071, s. 847.0135, s. 847.0137, or s. 847.0138, related to online sexual exploitation and child pornography.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Crime Victims’ Services Office” means the former Bureau of Crimes Compensation and Victim and Witness Services, now the Crime Victims’ Services Office of the Department of Legal Affairs.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Legal Affairs.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Disabled adult” means a person 18 years of age or older who suffers from a condition of physical or mental incapacitation due to a developmental disability or organic brain damage or mental limitations that restrict the person’s ability to perform the normal activities of daily living.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Elderly person” means a person 60 years of age or older who is suffering from the infirmities of aging as manifested by advanced age or organic brain damage, or other physical, mental, or emotional dysfunction, to the extent that the ability of the person to provide adequately for his or her own care or protection is impaired.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Hearing officer” means a hearing officer designated by the Attorney General.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Intervenor” means any person who goes to the aid of another and suffers bodily injury or death as a direct result of acting, not recklessly, to prevent the commission of a crime, to lawfully apprehend a person reasonably suspected of having committed a crime, or to aid the victim of a crime.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Identified victim of child pornography” means any person who, while under the age of 18, is depicted in any image or movie of child pornography and who is identified through a report generated by a law enforcement agency and provided to the National Center for Missing and Exploited Children’s Child Victim Identification Program.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Out-of-pocket loss” means unreimbursed and unreimbursable expenses or indebtedness incurred for medical care, nonmedical remedial care, psychological counseling, or other treatment rendered in accordance with a religious method of healing or for other services necessary as a result of the injury or death upon which such claim is based.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Property loss” means the loss of tangible personal property directly caused by a criminal or delinquent act of another.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Treatment” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Medical, dental, psychological, mental health, chiropractic, or physical rehabilitation services;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Nonmedical remedial care; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Other treatment rendered in accordance with a religious method of healing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Victim” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person who suffers personal physical injury or death as a direct result of a crime;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person younger than 18 years of age who was present at the scene of a crime, saw or heard the crime, and suffered a psychiatric or psychological injury because of the crime but who was not physically injured;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person younger than 18 years of age who was the victim of a felony or misdemeanor offense of child abuse that resulted in a mental injury as defined by s. 827.03 but who was not physically injured; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A person against whom a forcible felony was committed and who suffers a psychiatric or psychological injury as a direct result of that crime but who does not otherwise sustain a personal physical injury or death.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-452; s. 3, ch. 80-146; s. 507, ch. 81-259; s. 1, ch. 85-326; s. 25, ch. 86-296; s. 9, ch. 90-211; s. 2, ch. 91-23; s. 35, ch. 91-46; s. 4, ch. 92-107; s. 20, ch. 92-287; s. 2, ch. 96-315; s. 1, ch. 97-41; s. 11, ch. 98-417; s. 2, ch. 99-373; s. 4, ch. 2001-147; s. 8, ch. 2005-119; s. 3, ch. 2007-129; s. 7, ch. 2008-172; s. 15, ch. 2012-155.</History>
+</Section>

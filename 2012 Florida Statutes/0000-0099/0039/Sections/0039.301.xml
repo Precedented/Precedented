@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.301" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Initiation of protective investigations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Upon receiving a report of known or suspected child abuse, abandonment, or neglect, or that a child is in need of supervision and care and has no parent, legal custodian, or responsible adult relative immediately known and available to provide supervision and care, the central abuse hotline shall determine if the report requires an immediate onsite protective investigation. For reports requiring an immediate onsite protective investigation, the central abuse hotline shall immediately notify the department’s designated district staff responsible for protective investigations to ensure that an onsite investigation is promptly initiated. For reports not requiring an immediate onsite protective investigation, the central abuse hotline shall notify the department’s designated district staff responsible for protective investigations in sufficient time to allow for an investigation. At the time of notification, the central abuse hotline shall also provide information to district staff on any previous report concerning a subject of the present report or any pertinent information relative to the present report or any noted earlier reports.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall immediately forward allegations of criminal conduct to the municipal or county law enforcement agency of the municipality or county in which the alleged conduct has occurred.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “criminal conduct” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to be the victim of child abuse, as defined in s. 827.03, or of neglect of a child, as defined in s. 827.03.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to have died as a result of abuse or neglect.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to be the victim of aggravated child abuse, as defined in s. 827.03.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to be the victim of sexual battery, as defined in s. 827.071, or of sexual abuse, as defined in s. 39.01.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to be the victim of institutional child abuse or neglect, as defined in s. 39.01, and as provided for in s. 39.302(1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A child is known or suspected to be a victim of human trafficking, as provided in s. 787.06.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon receiving a written report of an allegation of criminal conduct from the department, the law enforcement agency shall review the information in the written report to determine whether a criminal investigation is warranted. If the law enforcement agency accepts the case for criminal investigation, it shall coordinate its investigative activities with the department, whenever feasible. If the law enforcement agency does not accept the case for criminal investigation, the agency shall notify the department in writing.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The local law enforcement agreement required in s. 39.306 shall describe the specific local protocols for implementing this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall maintain a single, standard electronic child welfare case file for each child whose report is accepted by the central abuse hotline for investigation. Such file must contain information concerning all reports received by the abuse hotline concerning that child and all services received by that child and family. The file must be made available to any department staff, agent of the department, or contract provider given responsibility for conducting a protective investigation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To the extent practical, all protective investigations involving a child shall be conducted or the work supervised by a single individual in order for there to be broad knowledge and understanding of the child’s history. When a new investigator is assigned to investigate a second and subsequent report involving a child, a multidisciplinary staffing shall be conducted which includes new and prior investigators, their supervisors, and appropriate private providers in order to ensure that, to the extent possible, there is coordination among all parties. The department shall establish an internal operating procedure that ensures that all required investigatory activities, including a review of the child’s complete investigative and protective services history, are completed by the investigator, reviewed by the supervisor in a timely manner, and signed and dated by both the investigator and the supervisor.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Upon commencing an investigation under this part, the child protective investigator shall inform any subject of the investigation of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The names of the investigators and identifying credentials from the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The purpose of the investigation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The right to obtain his or her own attorney and ways that the information provided by the subject may be used.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The possible outcomes and services of the department’s response.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The right of the parent or legal custodian to be engaged to the fullest extent possible in determining the nature of the allegation and the nature of any identified problem and the remedy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The duty of the parent or legal custodian to report any change in the residence or location of the child to the investigator and that the duty to report continues until the investigation is closed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The investigator shall fully inform parents or legal custodians of their rights and options, including opportunities for audio or video recording of investigators’ interviews with parents or legal custodians or children.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Upon commencing an investigation under this part, if a report was received from a reporter under s. 39.201(1)(b), the protective investigator must provide his or her contact information to the reporter within 24 hours after being assigned to the investigation. The investigator must also advise the reporter that he or she may provide a written summary of the report made to the central abuse hotline to the investigator which shall become a part of the electronic child welfare case file.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">An assessment of safety and the perceived needs for the child and family shall be conducted in a manner that is sensitive to the social, economic, and cultural environment of the family. This assessment must include a face-to-face interview with the child, other siblings, parents, and other adults in the household and an onsite assessment of the child’s residence.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Protective investigations shall be performed by the department or its agent.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For each report received from the central abuse hotline and accepted for investigation, the department or the sheriff providing child protective investigative services under s. 39.3065, shall perform the following child protective investigation activities to determine child safety:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Conduct a review of all relevant, available information specific to the child and family and alleged maltreatment; family child welfare history; local, state, and federal criminal records checks; and requests for law enforcement assistance provided by the abuse hotline. Based on a review of available information, including the allegations in the current report, a determination shall be made as to whether immediate consultation should occur with law enforcement, the child protection team, a domestic violence shelter or advocate, or a substance abuse or mental health professional. Such consultations should include discussion as to whether a joint response is necessary and feasible. A determination shall be made as to whether the person making the report should be contacted before the face-to-face interviews with the child and family members.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Conduct face-to-face interviews with the child; other siblings, if any; and the parents, legal custodians, or caregivers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Assess the child’s residence, including a determination of the composition of the family and household, including the name, address, date of birth, social security number, sex, and race of each child named in the report; any siblings or other children in the same household or in the care of the same adults; the parents, legal custodians, or caregivers; and any other adults in the same household.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Determine whether there is any indication that any child in the family or household has been abused, abandoned, or neglected; the nature and extent of present or prior injuries, abuse, or neglect, and any evidence thereof; and a determination as to the person or persons apparently responsible for the abuse, abandonment, or neglect, including the name, address, date of birth, social security number, sex, and race of each such person.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Complete assessment of immediate child safety for each child based on available records, interviews, and observations with all persons named in subparagraph 2. and appropriate collateral contacts, which may include other professionals. The department’s child protection investigators are hereby designated a criminal justice agency for the purpose of accessing criminal justice information to be used for enforcing this state’s laws concerning the crimes of child abuse, abandonment, and neglect. This information shall be used solely for purposes supporting the detection, apprehension, prosecution, pretrial release, posttrial release, or rehabilitation of criminal offenders or persons accused of the crimes of child abuse, abandonment, or neglect and may not be further disseminated or used for any other purpose.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Document the present and impending dangers to each child based on the identification of inadequate protective capacity through utilization of a standardized safety assessment instrument.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon completion of the immediate safety assessment, the department shall determine the additional activities necessary to assess impending dangers, if any, and close the investigation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For each report received from the central abuse hotline, the department or the sheriff providing child protective investigative services under s. 39.3065, shall determine the protective, treatment, and ameliorative services necessary to safeguard and ensure the child’s safety and well-being and development, and cause the delivery of those services through the early intervention of the department or its agent. As applicable, child protective investigators must inform parents and caregivers how and when to use the injunction process under s. 741.30 to remove a perpetrator of domestic violence from the home as an intervention to protect the child.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the department or the sheriff providing child protective investigative services determines that the interests of the child and the public will be best served by providing the child care or other treatment voluntarily accepted by the child and the parents or legal custodians, the parent or legal custodian and child may be referred for such care, case management, or other community resources.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the department or the sheriff providing child protective investigative services determines that the child is in need of protection and supervision, the department may file a petition for dependency.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If a petition for dependency is not being filed by the department, the person or agency originating the report shall be advised of the right to file a petition pursuant to this part.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">At the close of an investigation, the department or the sheriff providing child protective services shall provide to the person who is alleged to have caused the abuse, neglect, or abandonment and the parent or legal custodian a summary of findings from the investigation and provide information about their right to access confidential reports in accordance with s. 39.202.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department’s training program for staff responsible for responding to reports accepted by the central abuse hotline must also ensure that child protective responders:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Know how to fully inform parents or legal custodians of their rights and options, including opportunities for audio or video recording of child protective responder interviews with parents or legal custodians or children.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Know how and when to use the injunction process under s. 39.504 or s. 741.30 to remove a perpetrator of domestic violence from the home as an intervention to protect the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Know how to explain to the parent, legal custodian, or person who is alleged to have caused the abuse, neglect, or abandonment the results of the investigation and to provide information about his or her right to access confidential reports in accordance with s. 39.202, prior to closing the case.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To enhance the skills of individual staff members and to improve the region’s and district’s overall child protection system, the department’s training program at the regional and district levels must include results of qualitative reviews of child protective investigation cases handled within the region or district in order to identify weaknesses as well as examples of effective interventions which occurred at each point in the case.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For all reports received, detailed documentation is required for the investigative activities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The department shall incorporate into its quality assurance program the monitoring of reports that receive a child protective investigation to determine the quality and timeliness of safety assessments, engagements with families, teamwork with other experts and professionals, and appropriate investigative activities that are uniquely tailored to the safety factors associated with each child and family.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">If the department or its agent is denied reasonable access to a child by the parents, legal custodians, or caregivers and the department deems that the best interests of the child so require, it shall seek an appropriate court order or other legal authority before examining and interviewing the child.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">Onsite visits and face-to-face interviews with the child or family shall be unannounced unless it is determined by the department or its agent or contract provider that such unannounced visit would threaten the safety of the child.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the department or its agent determines that a child requires immediate or long-term protection through:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Medical or other health care; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Homemaker care, day care, protective supervision, or other services to stabilize the home environment, including intensive family preservation services through the Intensive Crisis Counseling Program,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">such services shall first be offered for voluntary acceptance unless there are high-risk factors that may impact the ability of the parents or legal custodians to exercise judgment. Such factors may include the parents’ or legal custodians’ young age or history of substance abuse or domestic violence.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parents or legal custodians shall be informed of the right to refuse services, as well as the responsibility of the department to protect the child regardless of the acceptance or refusal of services. If the services are refused, a collateral contact shall include a relative, if the protective investigator has knowledge of and the ability to contact a relative. If the services are refused and the department deems that the child’s need for protection so requires, the department shall take the child into protective custody or petition the court as provided in this chapter. At any time after the commencement of a protective investigation, a relative may submit in writing to the protective investigator or case manager a request to receive notification of all proceedings and hearings in accordance with s. 39.502. The request shall include the relative’s name, address, and phone number and the relative’s relationship to the child. The protective investigator or case manager shall forward such request to the attorney for the department. The failure to provide notice to either a relative who requests it pursuant to this subsection or to a relative who is providing out-of-home care for a child may not result in any previous action of the court at any stage or proceeding in dependency or termination of parental rights under any part of this chapter being set aside, reversed, modified, or in any way changed absent a finding by the court that a change is required in the child’s best interests.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department, in consultation with the judiciary, shall adopt by rule criteria that are factors requiring that the department take the child into custody, petition the court as provided in this chapter, or, if the child is not taken into custody or a petition is not filed with the court, conduct an administrative review. If after an administrative review the department determines not to take the child into custody or petition the court, the department shall document the reason for its decision in writing and include it in the investigative file. For all cases that were accepted by the local law enforcement agency for criminal investigation pursuant to subsection (2), the department must include in the file written documentation that the administrative review included input from law enforcement. In addition, for all cases that must be referred to child protection teams pursuant to s. 39.303(2) and (3), the file must include written documentation that the administrative review included the results of the team’s evaluation. Factors that must be included in the development of the rule include noncompliance with the case plan developed by the department, or its agent, and the family under this chapter and prior abuse reports with findings that involve the child or caregiver.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">When a child is taken into custody pursuant to this section, the authorized agent of the department shall request that the child’s parent, caregiver, or legal custodian disclose the names, relationships, and addresses of all parents and prospective parents and all next of kin, so far as are known.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">The department shall complete its protective investigation within 60 days after receiving the initial report, unless:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is also an active, concurrent criminal investigation that is continuing beyond the 60-day period and the closure of the protective investigation may compromise successful criminal prosecution of the child abuse or neglect case, in which case the closure date shall coincide with the closure date of the criminal investigation and any resulting legal action.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In child death cases, the final report of the medical examiner is necessary for the department to close its investigation and the report has not been received within the 60-day period, in which case the report closure date shall be extended to accommodate the report.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A child who is necessary to an investigation has been declared missing by the department, a law enforcement agency, or a court, in which case the 60-day period shall be extended until the child has been located or until sufficient information exists to close the investigation despite the unknown location of the child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">Immediately upon learning during the course of an investigation that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The immediate safety or well-being of a child is endangered;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The family is likely to flee;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A child died as a result of abuse, abandonment, or neglect;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A child is a victim of aggravated child abuse as defined in s. 827.03; or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A child is a victim of sexual battery or of sexual abuse,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">the department shall notify the jurisdictionally responsible state attorney, and county sheriff’s office or local police department, and, within 3 working days, transmit a full written report to those agencies. The law enforcement agency shall review the report and determine whether a criminal investigation needs to be conducted and shall assume lead responsibility for all criminal fact-finding activities. A criminal investigation shall be coordinated, whenever possible, with the child protective investigation of the department. Any interested person who has information regarding an offense described in this subsection may forward a statement to the state attorney as to whether prosecution is warranted and appropriate.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">In a child protective investigation or a criminal investigation, when the initial interview with the child is conducted at school, the department or the law enforcement agency may allow, notwithstanding s. 39.0132(4), a school staff member who is known by the child to be present during the initial interview if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department or law enforcement agency believes that the school staff member could enhance the success of the interview by his or her presence; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The child requests or consents to the presence of the school staff member at the interview.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">School staff may be present only when authorized by this subsection. Information received during the interview or from any other source regarding the alleged abuse or neglect of the child is confidential and exempt from s. 119.07(1), except as otherwise provided by court order. A separate record of the investigation of the abuse, abandonment, or neglect may not be maintained by the school or school staff member. Violation of this subsection is a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">When a law enforcement agency conducts a criminal investigation into allegations of child abuse, neglect, or abandonment, photographs documenting the abuse or neglect shall be taken when appropriate.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">Within 15 days after the case is reported to him or her pursuant to this chapter, the state attorney shall report his or her findings to the department and shall include in such report a determination of whether or not prosecution is justified and appropriate in view of the circumstances of the specific case.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">When an investigation is closed and a person is not identified as a caregiver responsible for the abuse, neglect, or abandonment alleged in the report, the fact that the person is named in some capacity in the report may not be used in any way to adversely affect the interests of that person. This prohibition applies to any use of the information in employment screening, licensing, child placement, adoption, or any other decisions by a private adoption agency or a state agency or its contracted providers, except that a previous report may be used to determine whether a child is safe and what the known risk is to the child at any stage of a child protection proceeding.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">If, after having been notified of the requirement to report a change in residence or location of the child to the protective investigator, a parent or legal custodian causes the child to move, or allows the child to be moved, to a different residence or location, or if the child leaves the residence on his or her own accord and the parent or legal custodian does not notify the protective investigator of the move within 2 business days, the child may be considered to be a missing child for the purposes of filing a report with a law enforcement agency under s. 937.021.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 38, ch. 98-403; s. 7, ch. 99-168; s. 14, ch. 99-193; s. 4, ch. 2000-217; s. 2, ch. 2001-50; s. 2, ch. 2003-127; s. 2, ch. 2005-173; s. 8, ch. 2006-86; s. 1, ch. 2006-306; s. 6, ch. 2008-245; s. 5, ch. 2009-43; s. 42, ch. 2011-213; s. 6, ch. 2012-178.</History>
+</Section>

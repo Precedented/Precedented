@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.065" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Rural Community Development Revolving Loan Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Rural Community Development Revolving Loan Fund Program is established within the department to facilitate the use of existing federal, state, and local financial resources by providing local governments with financial assistance to further promote the economic viability of rural communities. These funds may be used to finance initiatives directed toward maintaining or developing the economic base of rural communities, especially initiatives addressing employment opportunities for residents of these communities.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The program shall provide for long-term loans, loan guarantees, and loan loss reserves to units of local governments, or economic development organizations substantially underwritten by a unit of local government, within counties with populations of 75,000 or fewer, or within any county with a population of 125,000 or fewer which is contiguous to a county with a population of 75,000 or fewer, based on the most recent official population estimate as determined under s. 186.901, including those residing in incorporated areas and those residing in unincorporated areas of the county, or to units of local government, or economic development organizations substantially underwritten by a unit of local government, within a rural area of critical economic concern.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Requests for loans shall be made by application to the department. Loans shall be made pursuant to agreements specifying the terms and conditions agreed to between the applicant and the department. The loans shall be the legal obligations of the applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All repayments of principal and interest shall be returned to the loan fund and made available for loans to other applicants. However, in a rural area of critical economic concern designated by the Governor, and upon approval by the department, repayments of principal and interest may be retained by the applicant if such repayments are dedicated and matched to fund regionally based economic development organizations representing the rural area of critical economic concern.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall manage the fund, establishing loan practices that must include, but are not limited to, procedures for establishing loan interest rates, uses of funding, application procedures, and application review procedures. The department shall have final approval authority for any loan under this section.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of s. 216.301, funds appropriated for this purpose shall not be subject to reversion.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 42, ch. 96-320; s. 18, ch. 97-278; s. 95, ch. 99-251; s. 11, ch. 2001-201; s. 11, ch. 2009-51; s. 141, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 497, ch. 2011-142, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) For purposes of this section, the term ‘Disproportionally Affected County’ means Bay County, Escambia County, Franklin County, Gulf County, Okaloosa County, Santa Rosa County, Walton County, or Wakulla County.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 up to the cumulative amount of $5 million of all state incentives received per project. Prior to granting such waiver, the executive director of the department shall file with the Governor a written statement of the conditions and circumstances constituting the reason for the waiver.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) When the Department of Economic Opportunity determines it is in the best interest of the public for reasons of facilitating economic development, growth, or new employment opportunities within a Disproportionally Affected County, the department may between July 1, 2011, and June 30, 2014, waive any or all job or wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts in excess of $5 million but less than $10 million of all state incentives received per project. Prior to granting such waiver, the department shall file with the Governor, the President of the Senate, and the Speaker of the House of Representatives a written statement of the conditions and circumstances constituting the reason for the waiver, and requesting written concurrence within 5 business days to the Governor from the President of the Senate and the Speaker of the House of Representatives. Without such concurrence, the waiver shall not occur.</Text>
+		<Text xml:space="preserve" Style="Indent">“(4) The Department of Economic Opportunity is not authorized under this paragraph to waive job and wage eligibility requirements under <Reference Number="2"/>s. 288.063, s. 288.065, s. 288.0655, s. 288.0657, s. 288.0659, s. 288.107, s. 288.108, s. 288.1081, s. 288.1088, or s. 288.1089 for cumulative amounts $10 million or more in state incentives received per project.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 1, ch. 2012-128.</Text>
+	</Note>
+</Section>

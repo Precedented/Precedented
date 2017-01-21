@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.9082" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Quality assessment on nursing home facility providers; exemptions; purpose; federal approval required; remedies.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Net patient service revenue” means gross revenues from services provided to nursing home facility patients, less reductions from gross revenue resulting from an inability to collect payment of charges. Such reductions include bad debts; contractual adjustments; uncompensated care; administrative, courtesy, and policy discounts and adjustments; and other such revenue deductions.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Nursing home facility” means a facility licensed under part II of chapter 400.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Resident day” means a calendar day of care provided to a nursing home facility resident, including the day of admission and excluding the day of discharge, except that, when admission and discharge occur on the same day, 1 day of care is deemed to exist.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Medicare Part A resident days” means those patient days funded by the Medicare program or by a Medicare Advantage or special needs plan.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Skilled nursing facility units of acute care hospitals” means the Medicare-certified skilled nursing beds located in hospitals licensed under chapter 395.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Effective April 1, 2009, a quality assessment is imposed upon each nursing home facility. The aggregated amount of assessments for all nursing home facilities in a given year shall be an amount not exceeding the maximum percentage allowed under federal law of the total aggregate net patient service revenue of assessed facilities. The agency shall calculate the quality assessment rate annually on a per-resident-day basis, exclusive of those resident days funded by the Medicare program, as reported by the facilities. The per-resident-day assessment rate must be uniform except as prescribed in subsection (3). Each facility shall report monthly to the agency its total number of resident days, exclusive of Medicare Part A resident days, and remit an amount equal to the assessment rate times the reported number of days. The agency shall collect, and each facility shall pay, the quality assessment each month. The agency shall collect the assessment from nursing home facility providers by the 15th day of the next succeeding calendar month. The agency shall notify providers of the quality assessment and provide a standardized form to complete and submit with payments. The collection of the nursing home facility quality assessment shall commence no sooner than 5 days after the agency’s initial payment of the Medicaid rates containing the elements prescribed in subsection (4). Nursing home facilities may not create a separate line-item charge for the purpose of passing the assessment through to residents.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The following nursing home facility providers are exempt from the quality assessment:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Nursing home facilities that are licensed under part II of chapter 400 and located on the campus of continuing care retirement communities operating pursuant to a certificate of authority under chapter 651;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Nursing home facilities that have 45 or fewer beds; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The skilled nursing facility units of acute care hospitals licensed by the agency under chapter 395.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency may apply a lower quality assessment rate to high-volume Medicaid nursing facilities. The agency shall apply the lower rate to the fewest number of such facilities necessary to meet federal Medicaid waiver requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency may apply a lower quality assessment rate to high-patient-volume nursing facilities. The agency shall apply the lower rate to the fewest number of such facilities necessary to meet federal Medicaid waiver requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Effective July 1, 2011, the agency may exempt from the quality assessment or apply a lower quality assessment rate to a qualified public, nonstate-owned or operated nursing home facility whose total annual indigent census days are greater than 20 percent of the facility’s total annual census days.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The purpose of the nursing home facility quality assessment is to ensure continued quality of care. Collected assessment funds shall be used to obtain federal financial participation through the Medicaid program to make Medicaid payments for nursing home facility services up to the amount of nursing home facility Medicaid rates as calculated in accordance with the approved state Medicaid plan in effect on December 31, 2007. The quality assessment and federal matching funds shall be used exclusively for the following purposes and in the following order of priority:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To reimburse the Medicaid share of the quality assessment as a pass-through, Medicaid-allowable cost;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To increase to each nursing home facility’s Medicaid rate, as needed, an amount that restores rate reductions effective on or after January 1, 2008, as provided in the General Appropriations Act; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To increase each nursing home facility’s Medicaid rate that accounts for the portion of the total assessment not included in paragraphs (a) and (b) which begins a phase-in to a pricing model for the operating cost component.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The agency shall seek necessary federal approval in the form of waivers and state plan amendments in order to implement the provisions of this section.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The quality assessment shall terminate and the agency shall discontinue the imposition, assessment, and collection of the nursing facility quality assessment if the agency does not obtain necessary federal approval for the nursing home facility quality assessment or the payment rates required by subsection (4). Upon termination, all collected assessment revenues, less any amounts expended by the agency, shall be returned on a pro rata basis to the nursing facilities that paid them.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The agency may seek any of the following remedies for failure of any nursing home facility provider to pay its assessment timely:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Withholding any medical assistance reimbursement payments until such time as the assessment amount is recovered;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Suspension or revocation of the nursing home facility license; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Imposition of a fine of up to $1,000 per day for each delinquent payment, not to exceed the amount of the assessment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The agency shall adopt rules necessary to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2009-4; s. 7, ch. 2009-55; s. 8, ch. 2010-156; s. 6, ch. 2011-61.</History>
+</Section>

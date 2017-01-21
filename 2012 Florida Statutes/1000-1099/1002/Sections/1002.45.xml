@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.45" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Virtual instruction programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PROGRAM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For purposes of this section, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Approved provider” means a provider that is approved by the Department of Education under subsection (2), the Florida Virtual School, a franchise of the Florida Virtual School, or a Florida College System institution.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Virtual instruction program” means a program of instruction provided in an interactive learning environment created through technology in which students are separated from their teachers by time or space, or both.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each school district that is eligible for the sparsity supplement pursuant to s. 1011.62(7)(a) and (b) shall provide all enrolled public school students within its boundaries the option of participating in part-time and full-time virtual instruction programs. Each school district that is not eligible for the sparsity supplement pursuant to s. 1011.62(7)(a) and (b) shall provide at least three options for part-time and full-time virtual instruction. All school districts must provide parents with timely written notification of at least one open enrollment period for full-time students of 90 days or more which ends 30 days before the first day of the school year. The purpose of the program is to make quality virtual instruction available to students using online and distance learning technology in the nontraditional classroom. A school district virtual instruction program shall consist of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Full-time virtual instruction for students enrolled in kindergarten through grade 12.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Part-time virtual instruction for students enrolled in kindergarten through grade 12 courses that are measured pursuant to subparagraph (8)(a)2.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Full-time or part-time virtual instruction for students enrolled in dropout prevention and academic intervention programs under s. 1003.53, Department of Juvenile Justice education programs under s. 1003.52, core-curricula courses to meet class size requirements under s. 1003.03, or Florida College System institutions under this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To provide students with the option of participating in virtual instruction programs as required by paragraph (b), a school district may:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Contract with the Florida Virtual School or establish a franchise of the Florida Virtual School for the provision of a program under paragraph (b). Using this option is subject to the requirements of this section and s. 1011.61(1)(c)1.b.(III) and (IV).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Contract with an approved provider under subsection (2) for the provision of a full-time program under subparagraph (b)1. or subparagraph (b)3. or a part-time program under subparagraph (b)2. or subparagraph (b)3.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Enter into an agreement with other school districts to allow the participation of its students in an approved virtual instruction program provided by the other school district. The agreement must indicate a process for the transfer of funds required by paragraph (7)(f).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Establish school district operated part-time or full-time kindergarten through grade 12 virtual instruction programs under paragraph (b) for students enrolled in the school district. A full-time program shall operate under its own Master School Identification Number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Enter into an agreement with a virtual charter school authorized by the school district under s. 1002.33.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Contracts under subparagraph 1. or subparagraph 2. may include multidistrict contractual arrangements that may be executed by a regional consortium for its member districts. A multidistrict contractual arrangement or an agreement under subparagraph 3. is not subject to s. 1001.42(4)(d) and does not require the participating school districts to be contiguous. These arrangements may be used to fulfill the requirements of paragraph (b).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A virtual charter school may provide full-time virtual instruction for students in kindergarten through grade 12 if the virtual charter school has a charter approved pursuant to s. 1002.33 authorizing full-time virtual instruction. A virtual charter school may:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Contract with the Florida Virtual School.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Contract with an approved provider under subsection (2).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Enter into an agreement with a school district to allow the participation of the virtual charter school’s students in the school district’s virtual instruction program. The agreement must indicate a process for reporting of student enrollment and the transfer of funds required by paragraph (7)(f).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Reference Number="1"/>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each school district shall provide to the department by October 1, 2011, and by each October 1 thereafter, a copy of each contract and the amounts paid per unweighted full-time equivalent student for services procured pursuant to paragraph (c).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each school district shall expend the difference in funds provided for a student participating in the school district virtual instruction program pursuant to subsection (7) and the price paid for contracted services procured pursuant to paragraph (c) for the district’s local instructional improvement system pursuant to s. 1006.281 or other technological tools that are required to access electronic and digital instructional materials.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PROVIDER QUALIFICATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall annually publish online a list of providers approved to offer virtual instruction programs. To be approved by the department, a provider must document that it:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is nonsectarian in its programs, admission policies, employment practices, and operations;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Complies with the antidiscrimination provisions of s. 1000.05;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Locates an administrative office or offices in this state, requires its administrative staff to be state residents, requires all instructional staff to be Florida-certified teachers under chapter 1012, and conducts background screenings for all employees or contracted personnel, as required by s. 1012.32, using state and national criminal history records;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Possesses prior, successful experience offering online courses to elementary, middle, or high school students as demonstrated by quantified student learning gains in each subject area and grade level provided for consideration as an instructional program option;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Is accredited by a regional accrediting association as defined by State Board of Education rule;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Ensures instructional and curricular quality through a detailed curriculum and student performance accountability plan that addresses every subject and grade level it intends to provide through contract with the school district, including:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Courses and programs that meet the standards of the International Association for K-12 Online Learning and the Southern Regional Education Board.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Instructional content and services that align with, and measure student attainment of, student proficiency in the Next Generation Sunshine State Standards.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Mechanisms that determine and ensure that a student has satisfied requirements for grade level promotion and high school graduation with a standard diploma, as appropriate;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Publishes for the general public, in accordance with disclosure requirements adopted in rule by the State Board of Education, as part of its application as a provider and in all contracts negotiated pursuant to this section:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Information and data about the curriculum of each full-time and part-time program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">School policies and procedures.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Certification status and physical location of all administrative and instructional personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Hours and times of availability of instructional personnel.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Student-teacher ratios.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Student completion and promotion rates.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Student, educator, and school performance accountability outcomes; </Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">If the provider is a Florida College System institution, employs instructors who meet the certification requirements for instructional staff under chapter 1012; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Performs an annual financial audit of its accounts and records conducted by an independent certified public accountant which is in accordance with rules adopted by the Auditor General, is conducted in compliance with generally accepted auditing standards, and includes a report on financial statements presented in accordance with generally accepted accounting principles.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An approved provider shall retain its approved status during the 3 school years after the date of the department’s approval under paragraph (a) as long as the provider continues to comply with all requirements of this section. However, each provider approved by the department for the 2011-2012 school year must reapply for approval to provide a part-time program for students in grades 9 through 12.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro"> VIRTUAL INSTRUCTION PROGRAM REQUIREMENTS.<EmDash />Each virtual instruction program under this section must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Align virtual course curriculum and course content to the Sunshine State Standards under s. 1003.41.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Offer instruction that is designed to enable a student to gain proficiency in each virtually delivered course of study.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide each student enrolled in the program with all the necessary instructional materials.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide each full-time student enrolled in the program who qualifies for free or reduced-price school lunches under the National School Lunch Act, or who is on the direct certification list, and who does not have a computer or Internet access in his or her home with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All equipment necessary for participants in the virtual instruction program, including, but not limited to, a computer, computer monitor, and printer, if a printer is necessary to participate in the program; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Access to or reimbursement for all Internet services necessary for online delivery of instruction.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Not require tuition or student registration fees.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CONTRACT REQUIREMENTS.<EmDash />Each contract with an approved provider must at minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Set forth a detailed curriculum plan that illustrates how students will be provided services and be measured for attainment of proficiency in the Next Generation Sunshine State Standards for each grade level and subject.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide a method for determining that a student has satisfied the requirements for graduation in s. 1003.428, s. 1003.429, or s. 1003.43 if the contract is for the provision of a full-time virtual instruction program to students in grades 9 through 12.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Specify a method for resolving conflicts among the parties.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Specify authorized reasons for termination of the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Require the approved provider to be responsible for all debts of the virtual instruction program if the contract is not renewed or is terminated.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Require the approved provider to comply with all requirements of this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">STUDENT ELIGIBILITY.<EmDash />A student may enroll in a virtual instruction program provided by the school district or by a virtual charter school operated in the district in which he or she resides if the student meets eligibility requirements for virtual instruction pursuant to s. 1002.455.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">STUDENT PARTICIPATION REQUIREMENTS.<EmDash />Each student enrolled in a virtual instruction program or virtual charter school must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Comply with the compulsory attendance requirements of s. 1003.21. Student attendance must be verified by the school district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Take state assessment tests within the school district in which such student resides, which must provide the student with access to the district’s testing facilities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">VIRTUAL INSTRUCTION PROGRAM AND VIRTUAL CHARTER SCHOOL FUNDING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Students enrolled in a virtual instruction program or a virtual charter school shall be funded through the Florida Education Finance Program as provided in the General Appropriations Act. However, such funds may not be provided for the purpose of fulfilling the class size requirements in ss. 1003.03 and 1011.685.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of a virtual instruction program or a virtual charter school, “full-time equivalent student” has the same meaning as provided in s. 1011.61(1)(c)1.b.(III) or (IV).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For a student enrolled in a kindergarten through grade 12 virtual instruction program, a “full-time equivalent student” has the same meaning as provided in s. 1011.61(1)(c)1.b.(III) and (IV).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A student may not be reported as more than 1.0 full-time equivalent student in any given school year.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Beginning in the 2014-2015 fiscal year, when s. 1008.22(3)(g) is implemented, the reported full-time equivalent students and associated funding of students enrolled in courses requiring passage of an end-of-course assessment shall be adjusted after the student completes the end-of-course assessment.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The school district providing virtual instruction shall report full-time equivalent students for a virtual instruction program or a virtual charter school to the department in a manner prescribed by the department, and funding shall be provided through the Florida Education Finance Program.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A Florida College System institution provider may not report students who are served in a virtual instruction program for funding under the Florida College System Program Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">ASSESSMENT AND ACCOUNTABILITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each approved provider contracted under this section must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Participate in the statewide assessment program under s. 1008.22 and in the state’s education performance accountability system under s. 1008.31.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Receive a school grade under s. 1008.34 or a school improvement rating under s. 1008.341, as applicable. The school grade or school improvement rating received by each approved provider shall be based upon the aggregated assessment scores of all students served by the provider statewide. The department shall publish the school grade or school improvement rating received by each approved provider on its Internet website. The department shall develop an evaluation method for providers of part-time programs which includes the percentage of students making learning gains, the percentage of students successfully passing any required end-of-course assessment, the percentage of students taking Advanced Placement examinations, and the percentage of students scoring 3 or higher on an Advanced Placement examination.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The performance of part-time students in grades 9 through 12 shall not be included for purposes of school grades or school improvement ratings under subparagraph (a)2.; however, their performance shall be included for school grading or school improvement rating purposes by the nonvirtual school providing the student’s primary instruction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An approved provider that receives a school grade of “D” or “F” under s. 1008.34 or a school improvement rating of “Declining” under s. 1008.341 must file a school improvement plan with the department for consultation to determine the causes for low performance and to develop a plan for correction and improvement.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An approved provider’s contract must be terminated if the provider receives a school grade of “D” or “F” under s. 1008.34 or a school improvement rating of “Declining” under s. 1008.341 for 2 years during any consecutive 4-year period or has violated any qualification requirement pursuant to subsection (2). A provider that has a contract terminated under this paragraph may not be an approved provider for a period of at least 1 year after the date upon which the contract was terminated and until the department determines that the provider is in compliance with subsection (2) and has corrected each cause of the provider’s low performance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">EXCEPTIONS.<EmDash />A provider of digital or online content or curriculum that is used to supplement the instruction of students who are not enrolled in a virtual instruction program under this section is not required to meet the requirements of this section.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">MARKETING.<EmDash />Each school district shall provide information to parents and students about the parent’s and student’s right to participate in a virtual instruction program under this section and in courses offered by the Florida Virtual School under s. 1002.37.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education shall adopt rules necessary to administer this section, including rules that prescribe disclosure requirements under subsection (2) and school district reporting requirements under subsection (7).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2008-147; s. 11, ch. 2009-59; s. 9, ch. 2010-154; s. 30, ch. 2011-5; s. 10, ch. 2011-55; s. 4, ch. 2011-137; s. 9, ch. 2011-175; s. 4, ch. 2012-192.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As created by s. 10, ch. 2011-55. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Paragraph (1)(e) was also created by s. 4, ch. 2011-137, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(e) Each school district shall:</Text>
+		<Text xml:space="preserve" Style="Indent">1. Provide to the department by October 1, 2011, and by each October 1 thereafter, a copy of each contract and the amounts paid per unweighted full-time equivalent student for services procured pursuant to subparagraphs (c)1. and 2.</Text>
+		<Text xml:space="preserve" Style="Indent">2. Expend the difference in funds provided for a student participating in the school district virtual instruction program pursuant to subsection (7) and the price paid for contracted services procured pursuant to subparagraphs (c)1. and 2. for the district’s local instructional improvement system pursuant to s. 1006.281 or other technological tools that are required to access electronic and digital instructional materials.</Text>
+		<Text xml:space="preserve" Style="Indent">3. At the end of each fiscal year, but no later than September 1, report to the department an itemized list of the technological tools purchased with these funds.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0296.06" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State policy; eligibility requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the policy of the state to admit residents into the home without regard to race, age, sex, creed, religion, national origin, or any other reason that would thereby create a practice of discrimination. However, an applicant’s veteran status shall not constitute discrimination.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">To be eligible for residency in the home, a veteran must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Have wartime service as provided in s. 1.01(14) or peacetime service as defined in s. 296.02.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Have been a resident of the state for 1 year immediately preceding application and be a resident of the state at the time of application.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Not be mentally ill, habitually inebriated, or addicted to drugs.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Not owe money to the department for services rendered during any previous stay at a department facility.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Have applied for all financial assistance reasonably available through governmental sources.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Have been approved as eligible for care and treatment by the United States Department of Veterans Affairs.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 89-168; s. 8, ch. 92-80; s. 4, ch. 98-16; s. 1, ch. 2000-282; s. 3, ch. 2010-177.</History>
+</Section>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.976" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Managed care plan payment.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In addition to the payment provisions of s. 409.968, the agency shall provide payment to plans in the managed medical assistance program pursuant to this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Prepaid payment rates shall be negotiated between the agency and the eligible plans as part of the procurement process described in s. 409.966.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agency shall establish payment rates for statewide inpatient psychiatric programs. Payments to managed care plans shall be reconciled to reimburse actual payments to statewide inpatient psychiatric programs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2011-134.</History>
+</Section>

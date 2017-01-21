@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXVI">
+	<ChapterNumber>343</ChapterNumber>
+	<ChapterName xml:space="preserve">Regional transportation authorities</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">South Florida Regional<NewLine />Transportation Authority</PartTitle>
+		<Section Number="0343.51" />
+		<Section Number="0343.52" />
+		<Section Number="0343.53" />
+		<Section Number="0343.54" />
+		<Section Number="0343.55" />
+		<Section Number="0343.56" />
+		<Section Number="0343.57" />
+		<Section Number="0343.58" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Central Florida Regional<NewLine />Transportation Authority</PartTitle>
+		<Section Number="0343.61" />
+		<Section Number="0343.62" />
+		<Section Number="0343.63" />
+		<Section Number="0343.64" />
+		<Section Number="0343.65" />
+		<Section Number="0343.66" />
+		<Section Number="0343.67" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Northwest Florida Transportation<NewLine />Corridor Authority</PartTitle>
+		<Section Number="0343.80" />
+		<Section Number="0343.805" />
+		<Section Number="0343.81" />
+		<Section Number="0343.82" />
+		<Section Number="0343.83" />
+		<Section Number="0343.835" />
+		<Section Number="0343.836" />
+		<Section Number="0343.84" />
+		<Section Number="0343.85" />
+		<Section Number="0343.87" />
+		<Section Number="0343.875" />
+		<Section Number="0343.88" />
+		<Section Number="0343.881" />
+		<Section Number="0343.884" />
+		<Section Number="0343.89" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Tampa Bay Area Regional<NewLine />Transportation Authority</PartTitle>
+		<Section Number="0343.90" />
+		<Section Number="0343.91" />
+		<Section Number="0343.92" />
+		<Section Number="0343.922" />
+		<Section Number="0343.94" />
+		<Section Number="0343.941" />
+		<Section Number="0343.943" />
+		<Section Number="0343.944" />
+		<Section Number="0343.947" />
+		<Section Number="0343.95" />
+		<Section Number="0343.96" />
+		<Section Number="0343.962" />
+		<Section Number="0343.97" />
+		<Section Number="0343.973" />
+		<Section Number="0343.975" />
+		<Section Number="0343.976" />
+	</Part>
+</Chapter>

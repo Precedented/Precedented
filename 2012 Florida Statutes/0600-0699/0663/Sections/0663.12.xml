@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.12" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fees; assessments; fines.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each application for a license under the provisions of this part shall be accompanied by a nonrefundable filing fee payable to the office in the following amount:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ten thousand dollars for establishing a state-chartered investment company.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Ten thousand dollars for establishing an international bank agency or branch.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Five thousand dollars for establishing an international administrative office.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Five thousand dollars for establishing an international representative office.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Five thousand dollars for establishing an international trust company representative office.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An amount equal to the initial filing fee for an application to convert from one type of license to another. The commission may increase the filing fee for any type of license to an amount established by rule and calculated in a manner so as to cover the direct and indirect cost of processing such applications.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each international bank agency, international branch, and state-chartered investment company shall pay to the office a semiannual assessment, payable on or before January 31 and July 31 of each year, in an amount determined by rule by the commission and calculated in a manner so as to recover the costs of the office incurred in connection with the supervision of international banking activities licensed under this part. These rules shall provide for uniform rates of assessment for all licenses of the same type, shall provide for declining rates of assessment in relation to the total assets of the licensee held in the state, but shall not, in any event, provide for rates of assessment which exceed the rate applicable to state banks pursuant to s. 658.73, unless the rate of assessment would result in a semiannual assessment of less than $1,000. For the purposes of this subsection, the total assets of an international bank agency, international branch, or state-chartered investment company shall include amounts due the agency or branch or state investment company from other offices, branches, or subsidiaries of the international banking corporations or other corporations of which the agency, branch, or state-chartered investment company is a part or from entities related to that international banking corporation. Each international representative office, international administrative office, or international trust company representative office shall pay to the office an annual assessment in the amount of $2,000, payable on or before January 31 of each year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each international banking corporation which maintains an office licensed under the provisions of this part and each state-chartered investment company shall pay to the office examination fees which shall be determined by the commission by rule and calculated in a manner so as to be equal to the actual cost of each examiner’s participation in the examination, as measured by the examiner’s pay scale, plus any other expenses directly incurred in the examination, but in no event shall such fee be less than $200 per day for each examiner participating in the examination.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An international bank agency or international branch shall pay to the office a fine if the agency or branch fails to correct any asset maintenance or capital equivalency deficiency within 7 days following the end of the month in which the deficiency occurs. The fine shall be equal to the amount of the asset maintenance or capital equivalency deficiency at the end of the month in which the deficiency occurs, multiplied by 500 basis points above the Federal Reserve Board’s daily discount rate at the end of the month in which the deficiency occurred, for each day of the deficiency. The minimum fine shall be $1,000.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-157; ss. 93, 151, 152, ch. 80-260; ss. 2, 3, ch. 81-318; s. 3, ch. 87-191; s. 1, ch. 91-307; ss. 1, 169, ch. 92-303; s. 14, ch. 97-30; s. 1829, ch. 2003-261; s. 14, ch. 2010-9.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 659.67(11).</Text>
+	</Note>
+</Section>

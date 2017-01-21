@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.202" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Form of warehouse receipt; effect of omission.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A warehouse receipt need not be in any particular form.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless a warehouse receipt provides for each of the following, the warehouse is liable for damages caused to a person injured by its omission:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A statement of the location of the warehouse facility where the goods are stored;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The date of issue of the receipt;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The unique identification code of the receipt;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A statement whether the goods received will be delivered to the bearer, to a named person, or to a named person or its order;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The rate of storage and handling charges, unless goods are stored under a field warehousing arrangement, in which case a statement of that fact is sufficient on a nonnegotiable receipt;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A description of the goods or the packages containing them;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The signature of the warehouse or its agent;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">If the receipt is issued for goods that the warehouse owns, either solely, jointly, or in common with others, a statement of the fact of that ownership; and</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A statement of the amount of advances made and of liabilities incurred for which the warehouse claims a lien or security interest, unless the precise amount of advances made or liabilities incurred at the time of the issue of the receipt is unknown to the warehouse or to its agent that issued the receipt, in which case a statement of the fact that advances have been made or liabilities incurred and the purpose of the advances or liabilities is sufficient.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A warehouse may insert in its receipt any terms that are not contrary to the provisions of this code and do not impair its obligation of delivery under s. 677.403 or its duty of care under s. 677.204. Any contrary provision is ineffective.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 622, ch. 97-102; s. 24, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-202, U.C.C.; supersedes s. 678.02.</Text>
+	</Note>
+</Section>

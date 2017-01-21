@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.0138" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Criminal history and other records checks; limit on placement of a child</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall conduct a records check through the State Automated Child Welfare Information System (SACWIS) and a local and statewide criminal history records check on all persons, including parents, being considered by the department for placement of a child under this chapter, including all nonrelative placement decisions, and all members of the household, 12 years of age and older, of the person being considered. For purposes of this section, a criminal history records check may include, but is not limited to, submission of fingerprints to the Department of Law Enforcement for processing and forwarding to the Federal Bureau of Investigation for state and national criminal history information, and local criminal records checks through local law enforcement agencies of all household members 18 years of age and older and other visitors to the home. An out-of-state criminal history records check must be initiated for any person 18 years of age or older who resided in another state if that state allows the release of such records. The department shall establish by rule standards for evaluating any information contained in the automated system relating to a person who must be screened for purposes of making a placement decision.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may not place a child with a person other than a parent if the criminal history records check reveals that the person has been convicted of any felony that falls within any of the following categories:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Child abuse, abandonment, or neglect;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Domestic violence;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Child pornography or other felony in which a child was a victim of the offense; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Homicide, sexual battery, or other felony involving violence, other than felony assault or felony battery when an adult was the victim of the assault or battery.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may not place a child with a person other than a parent if the criminal history records check reveals that the person has, within the previous 5 years, been convicted of a felony that falls within any of the following categories:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assault;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Battery; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A drug-related offense.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department may place a child in a home that otherwise meets placement requirements if a name check of state and local criminal history records systems does not disqualify the applicant and if the department submits fingerprints to the Department of Law Enforcement for forwarding to the Federal Bureau of Investigation and is awaiting the results of the state and national criminal history records check.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Persons with whom placement of a child is being considered or approved must disclose to the department any prior or pending local, state, or national criminal proceedings in which they are or have been involved.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department may examine the results of any criminal history records check of any person, including a parent, with whom placement of a child is being considered under this section. The complete criminal history records check must be considered when determining whether placement with the person will jeopardize the safety of the child being placed.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The court may review a decision of the department to grant or deny the placement of a child based upon information from the criminal history records check. The review may be upon the motion of any party, the request of any person who has been denied a placement by the department, or on the court’s own motion. The court shall prepare written findings to support its decision in this matter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person who is seeking placement of a child but is denied the placement because of the results of a criminal history records check has the burden of setting forth sufficient evidence of rehabilitation to show that the person will not present a danger to the child if the placement of the child is allowed. Evidence of rehabilitation may include, but is not limited to, the circumstances surrounding the incident providing the basis for denying the application, the time period that has elapsed since the incident, the nature of the harm caused to the victim, whether the victim was a child, the history of the person since the incident, whether the person has complied with any requirement to pay restitution, and any other evidence or circumstances indicating that the person will not present a danger to the child if the placement of the child is allowed.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2006-86; s. 3, ch. 2008-245; s. 3, ch. 2012-178.</History>
+</Section>

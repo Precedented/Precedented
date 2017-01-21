@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.4755" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certification and disclosure requirements for investment advisers and managers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An investment adviser or manager who has discretionary investment authority for direct holdings and who is retained as provided in s. 215.44(2)(b) shall agree pursuant to contract to annually certify in writing to the board that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All investment decisions made on behalf of the trust funds and the board are made in the best interests of the trust funds and the board and not made in a manner to the advantage of such investment adviser or manager, other persons, or clients to the detriment of the trust funds and the board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Appropriate policies, procedures, or other safeguards have been adopted and implemented to ensure that relationships with any affiliated persons or entities do not adversely influence the investment decisions made on behalf of the trust funds and the board.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A written code of ethics, conduct, or other set of standards, which governs the professional behavior and expectations of owners, general partners, directors or managers, officers, and employees of the investment adviser or manager, has been adopted and implemented and is effectively monitored and enforced. The investment advisers’ and managers’ code of ethics shall require that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Officers and employees involved in the investment process refrain from personal business activity that could conflict with the proper execution and management of the investment program over which the investment adviser or manager has discretionary investment authority or that could impair their ability to make impartial decisions with respect to such investment program; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Officers and employees refrain from undertaking personal investment transactions with the same individual employee at a broker-dealer firm with whom business is conducted on behalf of the board.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The investment adviser or manager has proactively and promptly disclosed to the board, notwithstanding subsection (2), any known circumstances or situations that a prudent person could expect to create an actual or potential conflict of interest, including specifically:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any material interests in or with financial institutions with which officers and employees conduct business on behalf of the trust funds and the board; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any personal financial or investment positions of the investment adviser or manager that could be related to the performance of an investment program over which the investment adviser or manager has discretionary investment authority on behalf of the board.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At the board’s request, an investment adviser or manager who has discretionary investment authority over direct holdings and who is retained as provided in s. 215.44(2)(b) shall disclose in writing to the board:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any nonconfidential, nonproprietary information or reports to substantiate the certifications required under subsection (1).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All direct or indirect pecuniary interests that the investment adviser or manager has in or with any party to a transaction with the board, if the transaction is related to any discretionary investment authority that the investment adviser or manager exercises on behalf of the board.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An investment adviser or manager certification required under subsection (1) shall be provided annually, no later than January 31, for the reporting period of the previous calendar year on a form prescribed by the board.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2010-180; s. 2, ch. 2011-100.</History>
+</Section>

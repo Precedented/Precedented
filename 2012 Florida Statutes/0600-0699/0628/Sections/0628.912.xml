@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0628.912" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Discounting of loss and loss adjustment expense reserves.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A captive reinsurance company may discount its loss and loss adjustment expense reserves at treasury rates applied to the applicable payments projected through the use of the expected payment pattern associated with the reserves.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A captive reinsurance company must file annually an actuarial opinion on loss and loss adjustment expense reserves provided by an independent actuary. The actuary may not be an employee of the captive reinsurance company or its affiliates.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The office may disallow the discounting of reserves if a captive reinsurance company violates a provision of this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 27, ch. 2012-151.</History>
+</Section>

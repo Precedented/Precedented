@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0399.16" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Unlicensed activity; citations; prohibitions; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The division may issue a citation for unlicensed activity upon a finding of probable cause that activity requiring a permit, certificate, or license is being performed without a valid permit, certificate, or license. The citation constitutes a stop work order that may be enforced by the division.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The citation shall be in a form prescribed by rule. The division may adopt rules to administer this section, including a schedule of penalties.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The division shall issue a citation to the owner of an unlicensed elevator, to unlicensed elevator personnel, or to the owner of an unregistered elevator company.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The activity for which a citation is issued shall cease upon receipt of the citation, and the person who receives the citation must correct the violation and respond to the civil penalty, which may not exceed $1,000 per violation, or request an administrative hearing pursuant to chapter 120.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each day that a violation continues constitutes a separate violation.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The remedies in this section are not exclusive and may be imposed in addition to other remedies in this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2010-110.</History>
+</Section>

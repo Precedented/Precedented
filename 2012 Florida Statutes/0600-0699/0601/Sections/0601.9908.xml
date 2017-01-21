@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0601.9908" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Canned tangerine juice; standards; labeling.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">No canned tangerine juice shall be sold or offered for sale or shipped or offered for shipment which:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Is prepared from raw juice containing before the addition of any additive less than 9 percent total soluble solids;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When canned, contains less than 10 percent total soluble solids; or</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Has a ratio of total soluble solids to anhydrous citric acid of less than 9 to 1;</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Contains less than 0.55 percent or more than 1.60 percent anhydrous citric acid;</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Contains more than 0.050 percent recoverable oil; or</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Does not meet requirements to be established by the department regarding color, absence of defects, taste, and flavor; unless the immediate container thereof shall be labeled in accordance with regulations of the department and there shall appear on such label the word “substandard” in bold type not less than <Fraction>1/4</Fraction> inch high printed or stamped diagonally thereon.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 107, ch. 25149, 1949; s. 22, ch. 71-186; s. 71, ch. 2012-182.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 601.0107.</Text>
+	</Note>
+</Section>

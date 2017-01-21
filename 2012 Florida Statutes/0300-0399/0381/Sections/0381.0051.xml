@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0051" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Family planning.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section shall be known as the “Comprehensive Family Planning Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ACCESS TO SERVICES; PROHIBITIONS.<EmDash />Except as otherwise provided in this section, no medical agency or institution of this state or unit of local government shall interfere with the right of any patient or physician to use medically acceptable contraceptive procedures, supplies, or information or to restrict the physician-patient relationship.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">AUTHORITY AND POWERS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Health shall implement a comprehensive family planning program which shall be designed to include, but not be limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Comprehensive family planning education and counseling programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Prescription for and provision of all medically recognized methods of contraception.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Medical evaluation, including cytological examination and other appropriate laboratory studies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Treatment of physical complications other than pregnancy resulting from the use of contraceptive methods.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Provision of services at locations and times readily available to the population served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Emphasis and stress on service to postpartum mothers.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Services shall be available to all persons desirous of such services, subject to the provisions of this section, at a cost based on a fee schedule prepared and published by the Department of Health. Fees shall be based on the cost of service and ability to pay.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">MINORS; PROVISION OF MATERNAL HEALTH AND CONTRACEPTIVE INFORMATION AND SERVICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Maternal health and contraceptive information and services of a nonsurgical nature may be rendered to any minor by persons licensed to practice medicine under the provisions of chapter 458 or chapter 459, as well as by the Department of Health through its family planning program, provided the minor:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is married;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is a parent;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Is pregnant;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Has the consent of a parent or legal guardian; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">May, in the opinion of the physician, suffer probable health hazards if such services are not provided.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Application of nonpermanent internal contraceptive devices shall not be deemed a surgical procedure.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">REFUSAL FOR RELIGIOUS OR MEDICAL REASONS.<EmDash />The provisions of this section shall not be interpreted so as to prevent a physician or other person from refusing to furnish any contraceptive or family planning service, supplies, or information for medical or religious reasons; and the physician or other person shall not be held liable for such refusal.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The Department of Health may adopt rules to implement this section, including rules regarding definitions of terms and requirements for eligibility, informed-consent services, revisits, temporary contraceptive methods, voluntary sterilization, and infertility services.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, 4, 5, 6, ch. 72-132; s. 19, ch. 91-297; s. 37, ch. 97-101; s. 9, ch. 99-397; s. 5, ch. 2000-242; s. 23, ch. 2012-184.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.382.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.550" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Operations not in conformity with law; special permits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An oversize or overweight vehicle or load thereon may not enter onto or be operated on a public road in this state unless the owner or operator of such vehicle has first obtained the special permit for such movement from the appropriate governing jurisdiction.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Department of Transportation, with respect to highways under its jurisdiction, or a local authority, with respect to highways under its jurisdiction, may, in its discretion and upon application and good cause shown therefor that the same is not contrary to the public interest, issue a special permit in writing authorizing the applicant to operate or move a vehicle or combination of vehicles of a size or weight exceeding the maximum specified in this chapter, or otherwise not in conformity with the provisions of this chapter, upon any highway under the jurisdiction of the authority issuing such permit and for the maintenance of which the authority is responsible. The permit shall describe the vehicle or vehicles and load to be operated or moved and the highways for which the permit is requested. The Department of Transportation or local authority is authorized to issue or withhold such permit at its discretion or, if such permit is issued, to limit or prescribe the conditions of operation of such vehicle or vehicles; and the department or local authority may require such undertaking or other security as may be deemed necessary to compensate for any damage to any roadway or road structure.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A permit may authorize a self-propelled truck crane operating off the Interstate Highway System to tow a motor vehicle which does not weigh more than 5,000 pounds if the combined weight of the crane and such motor vehicle does not exceed 95,000 pounds. Notwithstanding s. 320.01(7) or (12), truck cranes that tow another motor vehicle under the provision of this subsection shall be taxed under the provisions of s. 320.08(5)(b).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Transportation or local authority may issue permits that authorize commercial vehicles having weights not exceeding the limits of s. 316.535(5), plus the scale tolerance provided in s. 316.545(2), to operate off the interstate highway system on a designated route specified in the permit. Such permits shall be issued within 14 days after receipt of the request.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The designated route shall avoid any bridge which the department determines cannot safely accommodate vehicles with a gross vehicle weight authorized in paragraph (a).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any vehicle or combination of vehicles which exceeds the weight limits authorized in paragraph (a) shall be unloaded, and all material so unloaded shall be cared for by the owner or operator.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Transportation may issue a wrecker special blanket permit to authorize a wrecker as defined in s. 320.01(40) to tow a disabled vehicle as defined in s. 320.01(38) where the combination of the wrecker and the disabled vehicle being towed exceeds the maximum weight limits as established by s. 316.535.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Department of Transportation must supply the permitted wrecker with a map showing the routes on which the wrecker may safely tow disabled vehicles for all special permit classifications for which the wrecker applies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Department of Transportation or such local authority is authorized to promulgate rules and regulations concerning the issuance of such permits and to charge a fee for the issuance thereof, which rules, regulations, and fees shall have the force and effect of law. The minimum fee for issuing any such permit shall be $5. The Department of Transportation may issue blanket permits for not more than 36 months. The department may charge an annualized fee for blanket permits not to exceed $500.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Every special permit shall be carried in the vehicle or combination of vehicles to which it refers and shall be open to inspection by any police officer or authorized agent of any authority granting such permit. No person shall violate any of the terms or conditions of such special permit.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Department of Transportation may impose fines for the operation of a vehicle in violation of this section, as provided in subsection (10).</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The Department of Transportation may not refuse to issue a permit under this section to any person solely on the basis that such person allegedly violated this chapter or the rules promulgated hereunder until a final order is entered with regard to such violation pursuant to chapter 120.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Whenever any motor vehicle, or the combination of a wrecker as defined in s. 320.01(40) and a towed motor vehicle, exceeds any weight or dimensional criteria or special operational or safety stipulation contained in a special permit issued under the provisions of this section, the penalty assessed to the owner or operator shall be as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For violation of weight criteria contained in a special permit, the penalty per pound or portion thereof exceeding the permitted weight shall be as provided in s. 316.545.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For each violation of dimensional criteria in a special permit, the penalty shall be as provided in s. 316.516 and penalties for multiple violations of dimensional criteria shall be cumulative except that the total penalty for the vehicle shall not exceed $1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For each violation of an operational or safety stipulation in a special permit, the penalty shall be an amount not to exceed $1,000 per violation and penalties for multiple violations of operational or safety stipulations shall be cumulative except that the total penalty for the vehicle shall not exceed $1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For violation of any special condition that has been prescribed in the rules of the Department of Transportation and declared on the permit, the vehicle shall be determined to be out of conformance with the permit and the permit shall be declared null and void for the vehicle, and weight and dimensional limits for the vehicle shall be as established in s. 316.515 or s. 316.535, whichever is applicable, and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For weight violations, a penalty as provided in s. 316.545 shall be assessed for those weights which exceed the limits thus established for the vehicle; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For dimensional, operational, or safety violations, a penalty as established in paragraph (c) or s. 316.516, whichever is applicable, shall be assessed for each nonconforming dimensional, operational, or safety violation and the penalties for multiple violations shall be cumulative for the vehicle.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">All penalties imposed by violations of this section shall be assessed, collected, and deposited in accordance with the provisions of s. 316.545(6).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-135; s. 1, ch. 76-31; s. 1, ch. 83-226; s. 3, ch. 90-200; s. 7, ch. 95-247; s. 2, ch. 97-58; s. 5, ch. 2000-325; s. 13, ch. 2010-225.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 316.009.</Text>
+	</Note>
+</Section>

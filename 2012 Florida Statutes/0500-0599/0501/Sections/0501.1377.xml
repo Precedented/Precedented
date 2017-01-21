@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0501.1377" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Violations involving homeowners during the course of residential foreclosure proceedings.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE FINDINGS AND INTENT.<EmDash />The Legislature finds that homeowners who are in default on their mortgages, in foreclosure, or at risk of losing their homes due to nonpayment of taxes may be vulnerable to fraud, deception, and unfair dealings with foreclosure-rescue consultants or equity purchasers. The intent of this section is to provide a homeowner with information necessary to make an informed decision regarding the sale or transfer of his or her home to an equity purchaser. It is the further intent of this section to require that foreclosure-related rescue services agreements be expressed in writing in order to safeguard homeowners against deceit and financial hardship; to ensure, foster, and encourage fair dealing in the sale and purchase of homes in foreclosure or default; to prohibit representations that tend to mislead; to prohibit or restrict unfair contract terms; to provide a cooling-off period for homeowners who enter into contracts for services related to saving their homes from foreclosure or preserving their rights to possession of their homes; to afford homeowners a reasonable and meaningful opportunity to rescind sales to equity purchasers; and to preserve and protect home equity for the homeowners of this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Equity purchaser” means a person who acquires a legal, equitable, or beneficial ownership interest in any residential real property as a result of a foreclosure-rescue transaction. The term does not apply to a person who acquires the legal, equitable, or beneficial interest in such property:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By a certificate of title from a foreclosure sale conducted under chapter 45;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">At a sale of property authorized by statute;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By order or judgment of any court;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">From a spouse, parent, grandparent, child, grandchild, or sibling of the person or the person’s spouse; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">As a deed in lieu of foreclosure, a workout agreement, a bankruptcy plan, or any other agreement between a foreclosing lender and a homeowner.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Foreclosure-rescue consultant” means a person who directly or indirectly makes a solicitation, representation, or offer to a homeowner to provide or perform, in return for payment of money or other valuable consideration, foreclosure-related rescue services. The term does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A person excluded under s. 501.212.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A person acting under the express authority or written approval of the United States Department of Housing and Urban Development or other department or agency of the United States or this state to provide foreclosure-related rescue services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A charitable, not-for-profit agency or organization, as determined by the United States Internal Revenue Service under s. 501(c)(3) of the Internal Revenue Code, which offers counseling or advice to an owner of residential real property in foreclosure or loan default if the agency or organization does not contract for foreclosure-related rescue services with a for-profit lender or person facilitating or engaging in foreclosure-rescue transactions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A person who holds or is owed an obligation secured by a lien on any residential real property in foreclosure if the person performs foreclosure-related rescue services in connection with this obligation or lien and the obligation or lien was not the result of or part of a proposed foreclosure reconveyance or foreclosure-rescue transaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A financial institution as defined in s. 655.005 and any parent or subsidiary of the financial institution or of the parent or subsidiary.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A licensed mortgage broker or mortgage lender that provides mortgage counseling or advice regarding residential real property in foreclosure, which counseling or advice is within the scope of services set forth in chapter 494 and is provided without payment of money or other consideration other than a loan origination fee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">An attorney licensed to practice law in this state who provides foreclosure rescue-related services as an ancillary matter to the attorney’s representation of a homeowner as a client.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Foreclosure-related rescue services” means any good or service related to, or promising assistance in connection with:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Stopping, avoiding, or delaying foreclosure proceedings concerning residential real property; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Curing or otherwise addressing a default or failure to timely pay with respect to a residential mortgage loan obligation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Foreclosure-rescue transaction” means a transaction:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By which residential real property in foreclosure is conveyed to an equity purchaser and the homeowner maintains a legal or equitable interest in the residential real property conveyed, including, without limitation, a lease option interest, an option to acquire the property, an interest as beneficiary or trustee to a land trust, or other interest in the property conveyed; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That is designed or intended by the parties to stop, avoid, or delay foreclosure proceedings against a homeowner’s residential real property.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Homeowner” means the record title owner of residential real property.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Residential real property” means real property consisting of one-family to four-family dwelling units.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Residential real property in foreclosure” means residential real property against which there is an outstanding notice of the pendency of foreclosure proceedings recorded pursuant to s. 48.23.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PROHIBITED ACTS.<EmDash />In the course of offering or providing foreclosure-related rescue services, a foreclosure-rescue consultant may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Engage in or initiate foreclosure-related rescue services without first executing a written agreement with the homeowner for foreclosure-related rescue services; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Solicit, charge, receive, or attempt to collect or secure payment, directly or indirectly, for foreclosure-related rescue services before completing or performing all services contained in the agreement for foreclosure-related rescue services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">FORECLOSURE-RELATED RESCUE SERVICES; WRITTEN AGREEMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The written agreement for foreclosure-related rescue services must be printed in at least 12-point uppercase type and signed by both parties. The agreement must include the name and address of the person providing foreclosure-related rescue services, the exact nature and specific detail of each service to be provided, the total amount and terms of charges to be paid by the homeowner for the services, and the date of the agreement. The date of the agreement may not be earlier than the date the homeowner signed the agreement. The foreclosure-rescue consultant must give the homeowner a copy of the agreement to review not less than 1 business day before the homeowner is to sign the agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The homeowner has the right to cancel the written agreement without any penalty or obligation if the homeowner cancels the agreement within 3 business days after signing the written agreement. The right to cancel may not be waived by the homeowner or limited in any manner by the foreclosure-rescue consultant. If the homeowner cancels the agreement, any payments that have been given to the foreclosure-rescue consultant must be returned to the homeowner within 10 business days after receipt of the notice of cancellation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An agreement for foreclosure-related rescue services must contain, immediately above the signature line, a statement in at least 12-point uppercase type that substantially complies with the following:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">HOMEOWNER’S RIGHT OF CANCELLATION</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">YOU MAY CANCEL THIS AGREEMENT FOR FORECLOSURE-RELATED RESCUE SERVICES WITHOUT ANY PENALTY OR OBLIGATION WITHIN 3 BUSINESS DAYS FOLLOWING THE DATE THIS AGREEMENT IS SIGNED BY YOU.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">THE FORECLOSURE-RESCUE CONSULTANT IS PROHIBITED BY LAW FROM ACCEPTING ANY MONEY, PROPERTY, OR OTHER FORM OF PAYMENT FROM YOU UNTIL ALL PROMISED SERVICES ARE COMPLETE. IF FOR ANY REASON YOU HAVE PAID THE CONSULTANT BEFORE CANCELLATION, YOUR PAYMENT MUST BE RETURNED TO YOU NO LATER THAN 10 BUSINESS DAYS AFTER THE CONSULTANT RECEIVES YOUR CANCELLATION NOTICE.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">TO CANCEL THIS AGREEMENT, A SIGNED AND DATED COPY OF A STATEMENT THAT YOU ARE CANCELING THE AGREEMENT SHOULD BE MAILED (POSTMARKED) OR DELIVERED TO <Directions xml:space="preserve">(NAME)</Directions> AT <Directions xml:space="preserve">(ADDRESS)</Directions> NO LATER THAN MIDNIGHT OF <Directions xml:space="preserve">(DATE)</Directions>.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">IMPORTANT: IT IS RECOMMENDED THAT YOU CONTACT YOUR LENDER OR MORTGAGE SERVICER BEFORE SIGNING THIS AGREEMENT. YOUR LENDER OR MORTGAGE SERVICER MAY BE WILLING TO NEGOTIATE A PAYMENT PLAN OR A RESTRUCTURING WITH YOU FREE OF CHARGE.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The inclusion of the statement does not prohibit the foreclosure-rescue consultant from giving the homeowner more time in which to cancel the agreement than is set forth in the statement, provided all other requirements of this subsection are met.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The foreclosure-rescue consultant must give the homeowner a copy of the signed agreement within 3 hours after the homeowner signs the agreement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">FORECLOSURE-RESCUE TRANSACTIONS; WRITTEN AGREEMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A foreclosure-rescue transaction must include a written agreement prepared in at least 12-point uppercase type that is completed, signed, and dated by the homeowner and the equity purchaser before executing any instrument from the homeowner to the equity purchaser quitclaiming, assigning, transferring, conveying, or encumbering an interest in the residential real property in foreclosure. The equity purchaser must give the homeowner a copy of the completed agreement within 3 hours after the homeowner signs the agreement. The agreement must contain the entire understanding of the parties and must include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The name, business address, and telephone number of the equity purchaser.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The street address and full legal description of the property.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Clear and conspicuous disclosure of any financial or legal obligations of the homeowner that will be assumed by the equity purchaser.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The total consideration to be paid by the equity purchaser in connection with or incident to the acquisition of the property by the equity purchaser.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The terms of payment or other consideration, including, but not limited to, any services that the equity purchaser represents will be performed for the homeowner before or after the sale.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The date and time when possession of the property is to be transferred to the equity purchaser.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro" SpaceBelow="true">A foreclosure-rescue transaction agreement must contain, above the signature line, a statement in at least 12-point uppercase type that substantially complies with the following:</Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">I UNDERSTAND THAT UNDER THIS AGREEMENT I AM SELLING MY HOME TO THE OTHER UNDERSIGNED PARTY.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A foreclosure-rescue transaction agreement must state the specifications of any option or right to repurchase the residential real property in foreclosure, including the specific amounts of any escrow payments or deposit, down payment, purchase price, closing costs, commissions, or other fees or costs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A foreclosure-rescue transaction agreement must comply with all applicable provisions of 15 U.S.C. ss. 1601 et seq. and related regulations.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The homeowner may cancel the foreclosure-rescue transaction agreement without penalty if the homeowner notifies the equity purchaser of such cancellation no later than 5 p.m. on the 3rd business day after signing the written agreement. Any moneys paid by the equity purchaser to the homeowner or by the homeowner to the equity purchaser must be returned at cancellation. The right to cancel does not limit or otherwise affect the homeowner’s right to cancel the transaction under any other law. The right to cancel may not be waived by the homeowner or limited in any way by the equity purchaser. The equity purchaser must give the homeowner, at the time the written agreement is signed, a notice of the homeowner’s right to cancel the foreclosure-rescue transaction as set forth in this subsection. The notice, which must be set forth on a separate cover sheet to the written agreement that contains no other written or pictorial material, must be in at least 12-point uppercase type, double-spaced, and read as follows:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE TO THE HOMEOWNER/SELLER</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">PLEASE READ THIS FORM COMPLETELY AND CAREFULLY. IT CONTAINS VALUABLE INFORMATION REGARDING CANCELLATION RIGHTS.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">BY THIS CONTRACT, YOU ARE AGREEING TO SELL YOUR HOME. YOU MAY CANCEL THIS TRANSACTION AT ANY TIME BEFORE 5:00 P.M. OF THE THIRD BUSINESS DAY FOLLOWING RECEIPT OF THIS NOTICE.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">THIS CANCELLATION RIGHT MAY NOT BE WAIVED IN ANY MANNER BY YOU OR BY THE PURCHASER.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">ANY MONEY PAID DIRECTLY TO YOU BY THE PURCHASER MUST BE RETURNED TO THE PURCHASER AT CANCELLATION. ANY MONEY PAID BY YOU TO THE PURCHASER MUST BE RETURNED TO YOU AT CANCELLATION.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">TO CANCEL, SIGN THIS FORM AND RETURN IT TO THE PURCHASER BY 5:00 P.M. ON <Directions xml:space="preserve">(DATE)</Directions> AT <Directions xml:space="preserve">(ADDRESS)</Directions>. IT IS BEST TO MAIL IT BY CERTIFIED MAIL OR OVERNIGHT DELIVERY, RETURN RECEIPT REQUESTED, AND TO KEEP A PHOTOCOPY OF THE SIGNED FORM AND YOUR POST OFFICE RECEIPT.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">I (we) hereby cancel this transaction.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">Seller’s Signature</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">Printed Name of Seller</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">Seller’s Signature</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">Printed Name of Seller</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceBelow="true"><Directions xml:space="preserve">Date</Directions></Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In any foreclosure-rescue transaction in which the homeowner is provided the right to repurchase the residential real property, the homeowner has a 30-day right to cure any default of the terms of the contract with the equity purchaser, and this right to cure may be exercised on up to three separate occasions. The homeowner’s right to cure must be included in any written agreement required by this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In any foreclosure-rescue transaction, before or at the time of conveyance, the equity purchaser must fully assume or discharge any lien in foreclosure as well as any prior liens that will not be extinguished by the foreclosure.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the homeowner has the right to repurchase the residential real property, the equity purchaser must verify and be able to demonstrate that the homeowner has or will have a reasonable ability to make the required payments to exercise the option to repurchase under the written agreement. For purposes of this subsection, there is a rebuttable presumption that the homeowner has a reasonable ability to make the payments required to repurchase the property if the homeowner’s monthly payments for primary housing expenses and regular monthly principal and interest payments on other personal debt do not exceed 60 percent of the homeowner’s monthly gross income.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If the homeowner has the right to repurchase the residential real property, the price the homeowner pays may not be unconscionable, unfair, or commercially unreasonable. A rebuttable presumption, solely between the equity purchaser and the homeowner, arises that the foreclosure-rescue transaction was unconscionable if the homeowner’s repurchase price is greater than 17 percent per annum more than the total amount paid by the equity purchaser to acquire, improve, maintain, and hold the property. Unless the repurchase agreement or a memorandum of the repurchase agreement is recorded in accordance with s. 695.01, the presumption arising under this subsection shall not apply against creditors or subsequent purchasers for a valuable consideration and without notice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">REBUTTABLE PRESUMPTION.<EmDash />Any foreclosure-rescue transaction involving a lease option or other repurchase agreement creates a rebuttable presumption, solely between the equity purchaser and the homeowner, that the transaction is a loan transaction and the conveyance from the homeowner to the equity purchaser is a mortgage under s. 697.01. Unless the lease option or other repurchase agreement, or a memorandum of the lease option or other repurchase agreement, is recorded in accordance with s. 695.01, the presumption created under this subsection shall not apply against creditors or subsequent purchasers for a valuable consideration and without notice.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">VIOLATIONS.<EmDash />A person who violates any provision of this section commits an unfair and deceptive trade practice as defined in part II of this chapter. Violators are subject to the penalties and remedies provided in part II of this chapter, including a monetary penalty not to exceed $15,000 per violation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2008-79; ss. 62, 63, ch. 2009-241; s. 112, ch. 2010-5.</History>
+</Section>

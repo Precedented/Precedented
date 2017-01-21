@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.1875" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Credit for contributions to eligible nonprofit scholarship-funding organizations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is allowed a credit of 100 percent of an eligible contribution made to an eligible nonprofit scholarship-funding organization under s. 1002.395 against any tax due for a taxable year under this chapter after the application of any other allowable credits by the taxpayer. The credit granted by this section shall be reduced by the difference between the amount of federal corporate income tax taking into account the credit granted by this section and the amount of federal corporate income tax without application of the credit granted by this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A taxpayer who files a Florida consolidated return as a member of an affiliated group pursuant to s. 220.131(1) may be allowed the credit on a consolidated return basis; however, the total credit taken by the affiliated group is subject to the limitation established under subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The provisions of s. 1002.395 apply to the credit authorized by this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 2010-24; s. 1, ch. 2011-123.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

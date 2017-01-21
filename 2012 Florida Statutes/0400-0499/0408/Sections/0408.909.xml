@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.909" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Health flex plans.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INTENT.<EmDash />The Legislature finds that a significant proportion of the residents of this state are unable to obtain affordable health insurance coverage. Therefore, it is the intent of the Legislature to expand the availability of health care options for low-income uninsured state residents by encouraging health insurers, health maintenance organizations, health-care-provider-sponsored organizations, local governments, health care districts, or other public or private community-based organizations to develop alternative approaches to traditional health insurance which emphasize coverage for basic and preventive health care services. To the maximum extent possible, these options should be coordinated with existing governmental or community-based health services programs in a manner that is consistent with the objectives and requirements of such programs.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Agency” means the Agency for Health Care Administration.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Office” means the Office of Insurance Regulation of the Financial Services Commission.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Enrollee” means an individual who has been determined to be eligible for and is receiving health care coverage under a health flex plan approved under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Health care coverage” or “health flex plan coverage” means health care services that are covered as benefits under an approved health flex plan or that are otherwise provided, either directly or through arrangements with other persons, via a health flex plan on a prepaid per capita basis or on a prepaid aggregate fixed-sum basis.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Health flex plan” means a health plan approved under subsection (3) which guarantees payment for specified health care coverage provided to the enrollee who purchases coverage directly from the plan or through a small business purchasing arrangement sponsored by a local government.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Health flex plan entity” means a health insurer, health maintenance organization, health-care-provider-sponsored organization, local government, health care district, other public or private community-based organization, or public-private partnership that develops and implements an approved health flex plan and is responsible for administering the health flex plan and paying all claims for health flex plan coverage by enrollees of the health flex plan.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PROGRAM.<EmDash />The agency and the office shall each approve or disapprove health flex plans that provide health care coverage for eligible participants. A health flex plan may limit or exclude benefits otherwise required by law for insurers offering coverage in this state, may cap the total amount of claims paid per year per enrollee, may limit the number of enrollees, or may take any combination of those actions. A health flex plan offering may include the option of a catastrophic plan supplementing the health flex plan.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency shall develop guidelines for the review of applications for health flex plans and shall disapprove or withdraw approval of plans that do not meet or no longer meet minimum standards for quality of care and access to care. The agency shall ensure that the health flex plans follow standardized grievance procedures similar to those required of health maintenance organizations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The office shall develop guidelines for the review of health flex plan applications and provide regulatory oversight of health flex plan advertisement and marketing procedures. The office shall disapprove or shall withdraw approval of plans that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Contain any ambiguous, inconsistent, or misleading provisions or any exceptions or conditions that deceptively affect or limit the benefits purported to be assumed in the general coverage provided by the health flex plan;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Provide benefits that are unreasonable in relation to the premium charged or contain provisions that are unfair or inequitable or contrary to the public policy of this state, that encourage misrepresentation, or that result in unfair discrimination in sales practices;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Cannot demonstrate that the health flex plan is financially sound and that the applicant is able to underwrite or finance the health care coverage provided; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Cannot demonstrate that the applicant and its management are in compliance with the standards required under s. 624.404(3).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency and the Financial Services Commission may adopt rules as needed to administer this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">LICENSE NOT REQUIRED.<EmDash />Neither the licensing requirements of the Florida Insurance Code nor chapter 641, relating to health maintenance organizations, is applicable to a health flex plan approved under this section, unless expressly made applicable. However, for the purpose of prohibiting unfair trade practices, health flex plans are considered to be insurance subject to the applicable provisions of part IX of chapter 626, except as otherwise provided in this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY.<EmDash />Eligibility to enroll in an approved health flex plan is limited to residents of this state who:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Have a family income equal to or less than 300 percent of the federal poverty level;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Are not covered by a private insurance policy and are not eligible for coverage through a public health insurance program, such as Medicare or Medicaid, or another public health care program, such as Kidcare, and have not been covered at any time during the past 6 months, except that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A person who was covered under an individual health maintenance contract issued by a health maintenance organization licensed under part I of chapter 641 which was also an approved health flex plan on October 1, 2008, may apply for coverage in the same health maintenance organization’s health flex plan without a lapse in coverage if all other eligibility requirements are met; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A person who was covered under Medicaid or Kidcare and lost eligibility for the Medicaid or Kidcare subsidy due to income restrictions within 90 days prior to applying for health care coverage through an approved health flex plan may apply for coverage in a health flex plan without a lapse in coverage if all other eligibility requirements are met; and</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Have applied for health care coverage as an individual through an approved health flex plan and have agreed to make any payments required for participation, including periodic payments or payments due at the time health care services are provided; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Are part of an employer group of which at least 75 percent of the employees have a family income equal to or less than 300 percent of the federal poverty level and the employer group is not covered by a private health insurance policy and has not been covered at any time during the past 6 months. If the health flex plan entity is a health insurer, health plan, or health maintenance organization licensed under Florida law, only 50 percent of the employees must meet the income requirements for the purpose of this paragraph.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RECORDS.<EmDash />Each health flex plan shall maintain enrollment data and reasonable records of its losses, expenses, and claims experience and shall make those records reasonably available to enable the office to monitor and determine the financial viability of the health flex plan, as necessary. Provider networks and total enrollment by area shall be reported to the agency biannually to enable the agency to monitor access to care.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">NOTICE.<EmDash />The denial of coverage by a health flex plan, or the nonrenewal or cancellation of coverage, must be accompanied by the specific reasons for denial, nonrenewal, or cancellation. Notice of nonrenewal or cancellation must be provided at least 45 days in advance of the nonrenewal or cancellation, except that 10 days’ written notice must be given for cancellation due to nonpayment of premiums. If the health flex plan fails to give the required notice, the health flex plan coverage must remain in effect until notice is appropriately given.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">NONENTITLEMENT.<EmDash />Coverage under an approved health flex plan is not an entitlement, and a cause of action does not arise against the state, a local government entity, or any other political subdivision of this state, or against the agency, for failure to make coverage available to eligible persons under this section.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">PROGRAM EVALUATION.<EmDash />The agency and the office shall evaluate the pilot program and its effect on the entities that seek approval as health flex plans, on the number of enrollees, and on the scope of the health care coverage offered under a health flex plan; shall provide an assessment of the health flex plans and their potential applicability in other settings; shall use health flex plans to gather more information to evaluate low-income consumer driven benefit packages; and shall, by January 1, 2005, and annually thereafter, jointly submit a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">EXPIRATION.<EmDash />This section expires July 1, 2013.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-389; s. 441, ch. 2003-261; s. 5, ch. 2003-405; s. 2, ch. 2004-270; s. 17, ch. 2004-297; s. 2, ch. 2005-231; s. 2, ch. 2008-32; s. 1, ch. 2008-118; s. 2, ch. 2011-195.</History>
+</Section>

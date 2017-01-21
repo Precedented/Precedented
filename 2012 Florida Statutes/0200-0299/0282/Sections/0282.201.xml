@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.201" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State data center system; agency duties and limitations.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A state data center system that includes all primary data centers, other nonprimary data centers, and computing facilities, and that provides an enterprise information technology service as defined in s. 282.0041, is established.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">INTENT.<EmDash />The Legislature finds that the most efficient and effective means of providing quality utility data processing services to state agencies requires that computing resources be concentrated in quality facilities that provide the proper security, infrastructure, and staff resources to ensure that the state’s data is maintained reliably and safely, and is recoverable in the event of a disaster. Efficiencies resulting from such consolidation include the increased ability to leverage technological expertise and hardware and software capabilities; increased savings through consolidated purchasing decisions; and the enhanced ability to deploy technology improvements and implement new policies consistently throughout the consolidated organization. Unless otherwise exempt by law, it is the intent of the Legislature that all agency data centers and computing facilities be consolidated into a primary data center by 2019.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">AGENCY FOR ENTERPRISE INFORMATION TECHNOLOGY DUTIES.<EmDash />The Agency for Enterprise Information Technology shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Collect and maintain information necessary for developing policies relating to the data center system, including, but not limited to, an inventory of facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Annually approve cost-recovery mechanisms and rate structures for primary data centers which recover costs through charges to customer entities.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">By September 30 of each year, submit to the Legislature, the Executive Office of the Governor, and the primary data centers recommendations to improve the efficiency and cost-effectiveness of computing services provided by state data center system facilities. Such recommendations must include, but need not be limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Policies for improving the cost-effectiveness and efficiency of the state data center system, which includes the primary data centers being transferred to a shared, virtualized server environment, and the associated cost savings resulting from the implementation of such policies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Infrastructure improvements supporting the consolidation of facilities or preempting the need to create additional data centers or computing facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Uniform disaster recovery standards.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Standards for primary data centers which provide cost-effective services and transparent financial data to user agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Consolidation of contract practices or coordination of software, hardware, or other technology-related procurements and the associated cost savings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Improvements to data center governance structures.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">By October 1 of each year, provide recommendations to the Governor and Legislature relating to changes to the schedule for the consolidations of state agency data centers as provided in subsection (4).</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The recommendations must be based on the goal of maximizing current and future cost savings by:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Consolidating purchase decisions.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Leveraging expertise and other resources to gain economies of scale.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Implementing state information technology policies more effectively.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Maintaining or improving the level of service provision to customer entities.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency shall establish workgroups as necessary to ensure participation by affected agencies in the development of recommendations related to consolidations.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Develop and establish rules relating to the operation of the state data center system which comply with applicable federal regulations, including 2 C.F.R. part 225 and 45 C.F.R. The rules must address:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Ensuring that financial information is captured and reported consistently and accurately.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Identifying standards for hardware, including standards for a shared, virtualized server environment, and operations system software and other operational software, including security and network infrastructure, for the primary data centers; requiring compliance with such standards in order to enable the efficient consolidation of the agency data centers or computing facilities; and providing an exemption process from compliance with such standards, which must be consistent with paragraph (5)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Requiring annual full cost recovery on an equitable rational basis. The cost-recovery methodology must ensure that no service is subsidizing another service and may include adjusting the subsequent year’s rates as a means to recover deficits or refund surpluses from a prior year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Requiring that any special assessment imposed to fund expansion is based on a methodology that apportions the assessment according to the proportional benefit to each customer entity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Requiring that rebates be given when revenues have exceeded costs, that rebates be applied to offset charges to those customer entities that have subsidized the costs of other customer entities, and that such rebates may be in the form of credits against future billings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Requiring that all service-level agreements have a contract term of up to 3 years, but may include an option to renew for up to 3 additional years contingent on approval by the board, and require at least a 180-day notice of termination.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">STATE AGENCY DUTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the purpose of completing the work activities described in subsections (1) and (2), each state agency shall provide to the Agency for Enterprise Information Technology all requested information relating to its data centers and computing facilities and any other information relevant to the agency’s ability to effectively transition its computer services into a primary data center. The agency shall also participate as required in workgroups relating to specific consolidation planning and implementation tasks as assigned by the Agency for Enterprise Information Technology and determined necessary to accomplish consolidation goals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each state agency customer of a primary data center shall notify the data center, by May 31 and November 30 of each year, of any significant changes in anticipated utilization of data center services pursuant to requirements established by the boards of trustees of each primary data center.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">SCHEDULE FOR CONSOLIDATIONS OF AGENCY DATA CENTERS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Consolidations of agency data centers shall be made by the date and to the specified primary data center as provided in this section and in accordance with budget adjustments contained in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By December 31, 2011, the following shall be consolidated into the Northwest Regional Data Center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Department of Education’s Knott Data Center in the Turlington Building.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Department of Education’s Division of Vocational Rehabilitation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The Department of Education’s Division of Blind Services, except for the division’s disaster recovery site in Daytona Beach.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The FCAT Explorer.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">During the 2011-2012 fiscal year, the following shall be consolidated into the Southwood Shared Resource Center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By September 30, 2011, the Department of Corrections.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By March 31, 2012, the Department of Transportation’s Burns Building.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By March 31, 2012, the Department of Transportation’s Survey &amp; Mapping Office.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">By July 1, 2012, the Department of Highway Safety and Motor Vehicles’ Office of Motor Carrier Compliance shall be consolidated into the Northwood Shared Resource Center.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">By September 30, 2012, the Department of Revenue’s Carlton Building and Imaging Center locations shall be consolidated into the Northwest Regional Data Center.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">During the 2012-2013 fiscal year, the following shall be consolidated into the Northwood Shared Resource Center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By July 1, 2012, the Agency for Health Care Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By August 31, 2012, the Department of Highway Safety and Motor Vehicles.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2012, the Department of Environmental Protection’s Palmetto Commons.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2012, the Department of Health’s Test and Development Lab and all remaining data center resources located at the Capital Circle Office Complex.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">During the 2013-2014 fiscal year, the following shall be consolidated into the Southwood Shared Resource Center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By July 1, 2013, the Fish and Wildlife Conservation Commission, except for the commission’s Fish and Wildlife Research Institute in St. Petersburg.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By October 31, 2013, the Department of Economic Opportunity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2013, the Executive Office of the Governor, to include the Division of Emergency Management except for the Emergency Operation Center’s management system in Tallahassee and the Camp Blanding Emergency Operations Center in Starke.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">By March 31, 2014, the Department of Elderly Affairs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">During the 2013-2014 fiscal year, the following shall be consolidated into the Northwood Shared Resource Center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By July 1, 2013, the Department of Veterans’ Affairs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2013, the Department of Legal Affairs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By March 31, 2014, the Department of Agriculture and Consumer Services’ Agriculture Management Information Center in the Mayo Building and the Division of Licensing.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">During the 2014-2015 fiscal year, the following agencies shall work with the Agency for Enterprise Information Technology to begin preliminary planning for consolidation into a primary data center:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Department of Health’s Jacksonville Lab Data Center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Department of Transportation’s district offices, toll offices, and the District Materials Office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The Department of Military Affairs’ Camp Blanding Joint Training Center in Starke.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Camp Blanding Emergency Operations Center in Starke.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The Department of Education’s Division of Blind Services disaster recovery site in Daytona Beach.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The Department of Education’s disaster recovery site at Santa Fe College.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The Fish and Wildlife Conservation Commission’s Fish and Wildlife Research Institute in St. Petersburg.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The Department of Children and Family Services’ Suncoast Data Center in Tampa.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The Department of Children and Family Services’ Florida State Hospital in Chattahoochee.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">During the 2015-2016 fiscal year, all computing resources remaining within an agency data center or computing facility, to include the Department of Financial Services’ Hartman, Larson, and Fletcher Buildings data centers, shall be transferred to a primary data center for consolidation unless otherwise required to remain in the agency for specified financial, technical, or business reasons that must be justified in writing and approved by the Agency for Enterprise Information Technology. Such data centers, computing facilities, and resources must be identified by the Agency for Enterprise Information Technology by October 1, 2014.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The Department of Law Enforcement, the Department of the Lottery’s Gaming System, Systems Design and Development in the Office of Policy and Budget, and the State Board of Administration, state attorneys, public defenders, criminal conflict and civil regional counsel, capital collateral regional counsel, the Florida Clerks of Court Operations Corporation, and the Florida Housing Finance Corporation are exempt from data center consolidation under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Any agency that is consolidating agency data centers into a primary data center must execute a new or update an existing service-level agreement within 60 days after the specified consolidation date, as required by s. 282.203, in order to specify the services and levels of service it is to receive from the primary data center as a result of the consolidation. If an agency and primary data center are unable to execute a service-level agreement by that date, the agency and the primary data center shall submit a report to the Executive Office of the Governor and to the chairs of the legislative appropriations committees within 5 working days after that date which explains the specific issues preventing execution and describing the plan and schedule for resolving those issues.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Beginning September 1, 2011, and every 6 months thereafter until data center consolidations are complete, the Agency for Enterprise Information Technology shall provide a status report on the implementation of the consolidations that must be completed during the fiscal year. The report shall be submitted to the Executive Office of the Governor and the chairs of the legislative appropriations committees. The report must, at a minimum, describe:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Whether the consolidation is on schedule, including progress on achieving the milestones necessary for successful and timely consolidation of scheduled agency data centers and computing facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The risks that may affect the progress or outcome of the consolidation and how these risks are being addressed, mitigated, or managed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Each agency identified in this subsection for consolidation into a primary data center shall submit a transition plan to the appropriate primary data center by July 1 of the fiscal year before the fiscal year in which the scheduled consolidation will occur. Transition plans shall be developed in consultation with the appropriate primary data centers and the Agency for Enterprise Information Technology, and must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An inventory of the agency data center’s resources being consolidated, including all hardware and its associated life cycle replacement schedule, software, staff, contracted services, and facility resources performing data center management and operations, security, backup and recovery, disaster recovery, system administration, database administration, system programming, job control, production control, print, storage, technical support, help desk, and managed services, but excluding application development, and the agency’s costs supporting these resources.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A list of contracts in effect, including, but not limited to, contracts for hardware, software, and maintenance, which identifies the expiration date, the contract parties, and the cost of each contract.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A detailed description of the level of services needed to meet the technical and operational requirements of the platforms being consolidated.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A description of resources for computing services proposed to remain in the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A timetable with significant milestones for the completion of the consolidation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Each primary data center shall develop a transition plan for absorbing the transfer of agency data center resources based upon the timetables for transition as provided in this subsection. The plan shall be submitted to the Agency for Enterprise Information Technology, the Executive Office of the Governor, and the chairs of the legislative appropriations committees by September 1 of the fiscal year before the fiscal year in which the scheduled consolidations will occur. Each plan must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The projected cost to provide data center services for each agency scheduled for consolidation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A staffing plan that identifies the projected staffing needs and requirements based on the estimated workload identified in the agency transition plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The fiscal year adjustments to budget categories in order to absorb the transfer of agency data center resources pursuant to the legislative budget request instructions provided in s. 216.023.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An analysis of the cost effects resulting from the planned consolidations on existing agency customers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A description of any issues that must be resolved in order to accomplish as efficiently and effectively as possible all consolidations required during the fiscal year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Each agency identified in this subsection for consolidation into a primary data center shall submit with its respective legislative budget request the specific recurring and nonrecurring budget adjustments of resources by appropriation category into the appropriate data processing category pursuant to the legislative budget request instructions in s. 216.023.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">AGENCY LIMITATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless authorized by the Legislature or as provided in paragraphs (b) and (c), a state agency may not:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Create a new computing facility or data center, or expand the capability to support additional computer equipment in an existing computing facility or nonprimary data center;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Spend funds before the agency’s scheduled consolidation into a primary data center to purchase or modify hardware or operations software that does not comply with hardware and software standards established by the Agency for Enterprise Information Technology pursuant to paragraph (2)(e) for the efficient consolidation of the agency data centers or computing facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Transfer existing computer services to any data center other than a primary data center;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Terminate services with a primary data center or transfer services between primary data centers without giving written notice of intent to terminate or transfer services 180 days before such termination or transfer; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Initiate a new computer service except with a primary data center.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Exceptions to the limitations in subparagraphs (a)1., 2., 3., and 5. may be granted by the Agency for Enterprise Information Technology if there is insufficient capacity in a primary data center to absorb the workload associated with agency computing services, if expenditures are compatible with the scheduled consolidation and the standards established pursuant to paragraph (2)(e), or if the equipment or resources are needed to meet a critical agency business need that cannot be satisfied from surplus equipment or resources of the primary data center until the agency data center is consolidated.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A request for an exception must be submitted in writing to the Agency for Enterprise Information Technology. The agency must accept, accept with conditions, or deny the request within 60 days after receipt of the written request. The agency’s decision is not subject to chapter 120.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">At a minimum, the agency may not approve a request unless it includes:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Documentation approved by the primary data center’s board of trustees which confirms that the center cannot meet the capacity requirements of the agency requesting the exception within the current fiscal year.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A description of the capacity requirements of the agency requesting the exception.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Documentation from the agency demonstrating why it is critical to the agency’s mission that the expansion or transfer must be completed within the fiscal year rather than when capacity is established at a primary data center.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Exceptions to subparagraph (a)4. may be granted by the board of trustees of the primary data center if the termination or transfer of services can be absorbed within the current cost-allocation plan.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Upon the termination of or transfer of agency computing services from the primary data center, the primary data center shall require information sufficient to determine compliance with this section. If a primary data center determines that an agency is in violation of this section, it shall report the violation to the Agency for Enterprise Information Technology.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The Agency for Enterprise Information Technology may adopt rules to administer this part relating to the state data center system including the primary data centers.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2008-116; s. 24, ch. 2009-21; s. 8, ch. 2009-80; s. 44, ch. 2010-5; s. 2, ch. 2010-148; s. 5, ch. 2011-50; s. 33, ch. 2012-96; s. 2, ch. 2012-134; s. 1, ch. 2012-142.</History>
+</Section>

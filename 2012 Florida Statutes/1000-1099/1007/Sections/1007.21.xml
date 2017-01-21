@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1007.21" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Readiness for postsecondary education and the workplace.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that students and parents develop academic achievement and career goals for the student’s post-high-school experience during the middle grades. Parents and students are to become partners with school personnel in career exploration and educational decisionmaking. Clear academic course expectations that emphasize rigorous and relevant coursework shall be made available to all students by allowing both student and parent choice.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Students entering the 9th grade and their parents shall have developed during the middle grades a 4- to 5-year academic and career plan based on postsecondary and career goals. Alternate career and academic destinations should be considered with bridges between destinations to enable students to shift academic and career priorities if they choose to change goals. The destinations shall accommodate the needs of students served in exceptional education programs to the extent appropriate for individual students. Exceptional education students may continue to follow the courses outlined in the district school board student progression plan. Students and their parents shall choose among destinations, which must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Four-year college or university, Florida College System institution plus university, or military academy degree.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Two-year postsecondary degree.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Postsecondary career certificate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Immediate employment or entry-level military.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A combination of the above.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The student progression model toward a chosen destination shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A “path” of core courses leading to each of the destinations provided in paragraph (a).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A recommended group of electives which shall help define each path.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Provisions for a teacher, school administrator, other school staff member, or community volunteer to be assigned to a student as an “academic advocate” if parental involvement is lacking.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The common placement test authorized in ss. 1001.03(10) and 1008.30 or a similar test may be administered to high school students who have chosen one of the four destinations. The results of the placement test shall be used to target additional instructional needs in reading, writing, and mathematics prior to graduation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Ample opportunity shall be provided for students to move from one destination to another, and some latitude shall exist within each destination, to meet the individual needs of students.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Destinations specified in subparagraphs (a)1., 2., and 3. shall support the goals of the Tech Prep program. Students participating in Tech Prep shall be enrolled in articulated, sequential programs of study that include a technical component and at least a minimum of a postsecondary certificate or 2-year degree.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In order for these destinations to be attainable, the business community shall be encouraged to support real-world internships and apprenticeships.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">All students shall be encouraged to take part in service learning opportunities.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">High school equivalency diploma preparation programs shall not be a choice for high school students leading to any of the four destinations provided in paragraph (a) since the appropriate coursework, counseling component, and career preparation cannot be ensured.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Schools shall ensure that students and parents are made aware of the destinations available and provide the necessary coursework to assist the student in reaching the chosen destination. Students and parents shall be made aware of the student’s progress toward the chosen destination.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The Department of Education shall offer technical assistance to school districts to ensure that the destinations offered also meet the academic standards adopted by the state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Access to Level I courses for graduation credit and for pursuit of a declared destination shall be limited to only those students for whom assessment indicates a more rigorous course of study would be inappropriate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The school principal shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Designate a member of the existing instructional or administrative staff to serve as a specialist to help coordinate the use of student achievement strategies to help students succeed in their coursework. The specialist shall also assist teachers in integrating the academic and career curricula, utilizing technology, providing feedback regarding student achievement, and implementing the Blueprint for Career Preparation and Tech Prep programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Institute strategies to eliminate reading, writing, and mathematics deficiencies of secondary students.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 346, ch. 2002-387; s. 48, ch. 2004-41; s. 104, ch. 2004-357; s. 37, ch. 2006-74; s. 16, ch. 2008-235; s. 88, ch. 2011-5.</History>
+</Section>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.7125" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Financial assurance.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Every owner or operator of a landfill is jointly and severally liable for the improper operation and closure of the landfill, as provided by law. As used in this section, the term “owner or operator” means any owner of record of any interest in land wherein a landfill is or has been located and any person or corporation that owns a majority interest in any other corporation that is the owner or operator of a landfill.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The owner or operator of a landfill owned or operated by a local or state government or the Federal Government shall establish a fee, or a surcharge on existing fees or other appropriate revenue-producing mechanism, to ensure the availability of financial resources for the proper closure of the landfill. However, the disposal of solid waste by persons on their own property, as described in s. 403.707(2), is exempt from this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The revenue-producing mechanism must produce revenue at a rate sufficient to generate funds to meet state and federal landfill closure requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The revenue shall be deposited in an interest-bearing escrow account to be held and administered by the owner or operator. The owner or operator shall file with the department an annual audit of the account. The audit shall be conducted by an independent certified public accountant. Failure to collect or report such revenue, except as allowed in subsection (3), is a noncriminal violation punishable by a fine of not more than $5,000 for each offense. The owner or operator may make expenditures from the account and its accumulated interest only for the purpose of landfill closure and, if such expenditures do not deplete the fund to the detriment of eventual closure, for planning and construction of resource recovery or landfill facilities. Any moneys remaining in the account after paying for proper and complete closure, as determined by the department, shall, if the owner or operator does not operate a landfill, be deposited by the owner or operator into the general fund or the appropriate solid waste fund of the local government of jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The revenue generated under this subsection and any accumulated interest thereon may be applied to the payment of, or pledged as security for, the payment of revenue bonds issued in whole or in part for the purpose of complying with state and federal landfill closure requirements. Such application or pledge may be made directly in the proceedings authorizing such bonds or in an agreement with an insurer of bonds to assure such insurer of additional security therefor.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The provisions of s. 212.055 which relate to raising of revenues for landfill closure or long-term maintenance do not relieve a landfill owner or operator from the obligations of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The owner or operator of any landfill that had established an escrow account in accordance with this section and the conditions of its permit prior to January 1, 2007, may continue to use that escrow account to provide financial assurance for closure of that landfill, even if that landfill is not owned or operated by a local or state government or the Federal Government.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An owner or operator of a landfill owned or operated by a local or state government or by the Federal Government may provide financial assurance to the department in lieu of the requirements of subsection (2). An owner or operator of any other landfill, or any other solid waste management facility designated by department rule, shall provide financial assurance to the department for the closure of the facility. Such financial assurance may include surety bonds, certificates of deposit, securities, letters of credit, or other documents showing that the owner or operator has sufficient financial resources to cover, at a minimum, the costs of complying with applicable closure requirements. The owner or operator shall estimate such costs to the satisfaction of the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not repeal, limit, or abrogate any other law authorizing local governments to fix, levy, or charge rates, fees, or charges for the purpose of complying with state and federal landfill closure requirements.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall by rule require that the owner or operator of a solid waste management facility that receives waste after October 9, 1993, and that is required by department rule to undertake corrective actions for violations of water quality standards provide financial assurance for the cost of completing such corrective actions. The same financial assurance mechanisms that are available for closure costs shall be available for costs associated with undertaking corrective actions.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules to implement this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 40, ch. 88-130; s. 70, ch. 91-221; s. 22, ch. 93-207; s. 17, ch. 2007-184; s. 18, ch. 2012-205.</History>
+</Section>

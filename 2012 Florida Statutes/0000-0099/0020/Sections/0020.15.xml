@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.15" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department of Education.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is created a Department of Education.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">STATE BOARD OF EDUCATION.<EmDash />In accordance with s. 2, Art. IX of the State Constitution, the State Board of Education is a body corporate and must supervise the system of free public education as is provided by law. The State Board of Education is the head of the Department of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">COMMISSIONER OF EDUCATION.<EmDash />The Commissioner of Education is appointed by the State Board of Education and serves as the Executive Director of the Department of Education.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DIVISIONS.<EmDash />The following divisions of the Department of Education are established:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Division of Florida Colleges.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Division of Public Schools.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Division of Career and Adult Education.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Division of Vocational Rehabilitation.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Division of Blind Services.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Division of Accountability, Research, and Measurement.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Division of Finance and Operations.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The Office of Early Learning, which shall administer the school readiness system in accordance with s. 411.01 and the operational requirements of the Voluntary Prekindergarten Education Program in accordance with part V of chapter 1002. The office is a separate budget entity and is not subject to control, supervision, or direction by the Department of Education or the State Board of Education in any manner including, but not limited to, personnel, purchasing, transactions involving personal property, and budgetary matters. The office director shall be appointed by the Governor and confirmed by the Senate, shall serve at the pleasure of the Governor, and shall be the agency head of the office for all purposes. The office shall enter into a service agreement with the department for professional, technological, and administrative support services. The office shall be subject to review and oversight by the Chief Inspector General or his or her designee.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">DIRECTORS.<EmDash />The directors of all divisions shall be appointed by the commissioner subject to approval by the state board. The director of each division may be designated as “Deputy Commissioner” or “Chancellor.”</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">POWERS AND DUTIES.<EmDash />The State Board of Education and the Commissioner of Education shall assign to the divisions such powers, duties, responsibilities, and functions as are necessary to ensure the greatest possible coordination, efficiency, and effectiveness of education for students in K-20 education under the jurisdiction of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">COUNCILS AND COMMITTEES.<EmDash />Notwithstanding anything contained in law to the contrary, the commissioner shall appoint all members of all councils and committees of the Department of Education, except the Commission for Independent Education and the Education Practices Commission.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">BOARDS.<EmDash />Notwithstanding anything contained in law to the contrary, all members of the community college boards of trustees must be appointed according to chapter 1001.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">SUPPORT SERVICES.<EmDash />The Department of Education shall continue to provide support to the Board of Governors of the State University System. At a minimum, support services provided to the Board of Governors shall include accounting, printing, computer and Internet support, personnel and human resources support, support for accountability initiatives, and administrative support as needed for trust funds under the jurisdiction of the Board of Governors.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 69-106; s. 33, ch. 75-48; s. 1, ch. 75-302; ss. 2, 3, ch. 77-123; s. 1, ch. 77-259; s. 104, ch. 79-222; s. 1, ch. 81-56; s. 10, ch. 81-259; s. 9, ch. 83-326; s. 106, ch. 84-336; s. 25, ch. 86-225; s. 1, ch. 87-76; s. 4, ch. 91-45; s. 1, ch. 91-182; s. 13, ch. 94-232; s. 1316, ch. 95-147; s. 51, ch. 95-280; ss. 2, 3, ch. 95-327; s. 72, ch. 97-190; s. 7, ch. 97-307; s. 14, ch. 98-281; s. 26, ch. 98-421; ss. 2, 42, ch. 99-240; s. 21, ch. 99-398; s. 52, ch. 2000-165; s. 2, ch. 2000-301; s. 3(7), ch. 2000-321; s. 4, ch. 2001-60; s. 1, ch. 2002-22; s. 881, ch. 2002-387; s. 1, ch. 2006-74; s. 2, ch. 2007-217; s. 1, ch. 2007-234; s. 1, ch. 2009-40; s. 1, ch. 2009-228; s. 12, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Paragraph (3)(e) former s. 20.171(5)(c).</Text>
+	</Note>
+</Section>

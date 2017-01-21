@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.703" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Board of Athletic Training.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Board of Athletic Training is created within the department and shall consist of nine members appointed by the Governor and confirmed by the Senate.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Five members of the board must be licensed athletic trainers, certified by the Board of Certification. One member of the board must be a physician licensed under chapter 458 or chapter 459. One member of the board must be a physician licensed under chapter 460. Two members of the board shall be consumer members, each of whom must be a resident of this state who has never worked as an athletic trainer, who has no financial interest in the practice of athletic training, and who has never been a licensed health care practitioner as defined in s. 456.001(4).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For the purpose of staggering terms, the Governor shall appoint the initial members of the board as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Three members for terms of 2 years each.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Three members for terms of 3 years each.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Three members for terms of 4 years each.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">As the terms of the members expire, the Governor shall appoint successors for terms of 4 years and such members shall serve until their successors are appointed.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All provisions of chapter 456 relating to activities of the board shall apply.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The board shall maintain its official headquarters in Tallahassee.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 95-388; ss. 100, 245, ch. 98-166; s. 2, ch. 99-349; s. 132, ch. 99-397; s. 157, ch. 2000-160; s. 17, ch. 2011-95.</History>
+</Section>

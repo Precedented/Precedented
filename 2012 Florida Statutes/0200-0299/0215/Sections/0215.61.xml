@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.61" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State system of public education capital outlay bonds.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The issuance of school bonds, payable primarily from revenues as provided in s. 18, Art. XII of the State Constitution of 1885, as amended, and additionally secured by pledging the full faith and credit of the state, is hereby authorized pursuant to the provisions of s. 9(d), Art. XII of the State Constitution and the provisions of ss. 215.57-215.83, “The State Bond Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The issuance of bonds to finance or refinance capital outlay projects authorized by the Legislature for the state system of public education, primarily payable from revenues as provided in s. 19, Art. XII of the State Constitution of 1885, as amended, and additionally secured by pledging the full faith and credit of the state, is hereby authorized pursuant to the provisions of s. 9(a)(2), Art. XII of the State Constitution and the provisions of ss. 215.57-215.83, “The State Bond Act.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">No bonds authorized by s. 9(a)(2), Art. XII of the State Constitution shall be issued in an amount exceeding 90 percent of the amount which the State Board of Education determines can be serviced by the revenues derived from the gross receipts tax levied and collected pursuant to chapter 203. In determining the amount which can be serviced by the gross receipts tax, the State Board of Education shall use the average annual amount of revenue collected for the tax periods during the 24 months immediately preceding the most recent collection date before the date of issuance of any such bonds, adjusted to reflect revenues that would have been collected had legislation enacted into law before the date of determination been in effect during the 24-month period. Such adjustment shall be based on the assumption that the provisions of the enacted legislation had become effective 24 months before the dates contemplated in the legislation. For purpose of the approval required by s. 215.73, official estimates of future collections furnished by the State Board of Education prior to the estimated date of issuance shall be used to determine fiscal sufficiency.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">With respect to the bonds authorized by s. 9, Art. XII of the State Constitution, the Division of Bond Finance shall act as the agent of the State Board of Education pursuant to ss. 215.57-215.83, “The State Bond Act.”</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall have the power to make and enforce all rules and regulations necessary to the full exercise of the powers herein granted.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In making the determination as required by subsection (3) of the amount that can be serviced by the gross receipts tax, the State Board of Education shall disregard the effects on the reported gross receipts tax revenues collected during a tax period of any refund paid by the Department of Revenue as a direct result of a refund request made pursuant to the settlement reached in <Font xml:space="preserve" Style="Italic">In re: AT&amp;T Mobility Wireless Data Services Sales Litigation,</Font> 270 F.R.D. 330, (Aug. 11, 2010). The Department of Revenue shall provide to the State Board of Education, the Division of Bond Finance, and the Office of Economic and Demographic Research the amount of any such refund and the tax period in which the refund is included.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 69-230; s. 13, ch. 75-292; s. 6, ch. 76-280; s. 36, ch. 81-223; s. 4, ch. 2010-149; s. 2, ch. 2011-55; s. 2, ch. 2011-63.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 2010-149, provides that “[t]he Department of Revenue may, and all conditions are deemed met to, adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, for the purpose of promulgating such forms and instructions as are required to effectuate this act.”</Text>
+	</Note>
+</Section>

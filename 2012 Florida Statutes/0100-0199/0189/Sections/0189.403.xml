@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0189.403" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Special district” means a local unit of special purpose, as opposed to general-purpose, government within a limited boundary, created by general law, special act, local ordinance, or by rule of the Governor and Cabinet. The special purpose or purposes of special districts are implemented by specialized functions and related prescribed powers. For the purpose of s. 196.199(1), special districts shall be treated as municipalities. The term does not include a school district, a community college district, a special improvement district created pursuant to s. 285.17, a municipal service taxing or benefit unit as specified in s. 125.01, or a board which provides electrical service and which is a political subdivision of a municipality or is part of a municipality.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Dependent special district” means a special district that meets at least one of the following criteria:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The membership of its governing body is identical to that of the governing body of a single county or a single municipality.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All members of its governing body are appointed by the governing body of a single county or a single municipality.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">During their unexpired terms, members of the special district’s governing body are subject to removal at will by the governing body of a single county or a single municipality.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The district has a budget that requires approval through an affirmative vote or can be vetoed by the governing body of a single county or a single municipality.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection is for purposes of definition only. Nothing in this subsection confers additional authority upon local governments not otherwise authorized by the provisions of the special acts or general acts of local application creating each special district, as amended.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Independent special district” means a special district that is not a dependent special district as defined in subsection (2). A district that includes more than one county is an independent special district unless the district lies wholly within the boundaries of a single municipality.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Local governing authority” means the governing body of a unit of local general-purpose government. However, if the special district is a political subdivision of a municipality, “local governing authority” means the municipality.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Water management district” for purposes of this chapter means a special taxing district which is a regional water management district created and operated pursuant to chapter 373 or chapter 61-691, Laws of Florida, or a flood control district created and operated pursuant to chapter 25270, Laws of Florida, 1949, as modified by s. 373.149.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Public facilities” means major capital improvements, including, but not limited to, transportation facilities, sanitary sewer facilities, solid waste facilities, water management and control facilities, potable water facilities, alternative water systems, educational facilities, parks and recreational facilities, health systems and facilities, and, except for spoil disposal by those ports listed in s. 311.09(1), spoil disposal sites for maintenance dredging in waters of the state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 89-169; s. 1, ch. 92-314; s. 4, ch. 97-255; s. 64, ch. 2011-142.</History>
+</Section>

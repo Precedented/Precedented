@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0048.196" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Service of process in connection with actions under the Florida International Commercial Arbitration Act.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any process in connection with the commencement of an action before the courts of this state under chapter 684, the Florida International Commercial Arbitration Act, shall be served:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the case of a natural person, by service upon:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That person;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any agent for service of process appointed in, or pursuant to, any applicable agreement or by operation of any law of this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any person authorized by the law of the jurisdiction where process is being served to accept service for that person.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of any person other than a natural person, by service upon:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any agent for service of process appointed in, or pursuant to, any applicable agreement or by operation of any law of this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any person authorized by the law of the jurisdiction where process is being served to accept service for that person; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any person, whether natural or otherwise and wherever located, who by operation of law or internal action is an officer, business agent, director, general partner, or managing agent or director of the person being served; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any partner, joint venturer, member or controlling shareholder, wherever located, of the person being served, if the person being served does not by law or internal action have any officer, business agent, director, general partner, or managing agent or director.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The process served under subsection (1) shall include a copy of the application to the court together with all attachments thereto and shall be served in the following manner:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In any manner agreed upon, whether service occurs within or without this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If service is within this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In the manner provided in ss. 48.021 and 48.031, or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If applicable under their terms, in the manner provided in ss. 48.161, 48.183, 48.23, or chapter 49; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If service is outside this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By personal service by any person authorized to serve process in the jurisdiction where service is being made or by any person appointed to do so by any competent court in that jurisdiction;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In any other manner prescribed by the laws of the jurisdiction where service is being made for service in an action before a local court of competent jurisdiction;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In the manner provided in any applicable treaty to which the United States is a party;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">In the manner prescribed by order of the court;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">By any form of mail requiring a signed receipt, to be addressed and dispatched by the clerk of the court to the person being served; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">If applicable, in the manner provided in chapter 49.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">No order of the court is required for service of process outside this state. The person serving process shall make proof of service to the court by affidavit or as prescribed by the law of the jurisdiction where process is being served or as prescribed in an order of the court. Such proof shall be made prior to expiration of the time within which the person served must respond. If service is by mail, the proof of service shall state the date and place of mailing and shall include a receipt signed by the addressee or other evidence of delivery satisfactory to the court.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 86-266; s. 1, ch. 2010-60.</History>
+</Section>

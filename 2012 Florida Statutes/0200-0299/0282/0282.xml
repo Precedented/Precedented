@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XIX">
+	<ChapterNumber>282</ChapterNumber>
+	<ChapterName xml:space="preserve">Communications and data processing</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Enterprise information technology<NewLine />services management</PartTitle>
+		<Section Number="0282.003" />
+		<Section Number="0282.0041" />
+		<Section Number="0282.0055" />
+		<Section Number="0282.0056" />
+		<Section Number="0282.201" />
+		<Section Number="0282.203" />
+		<Section Number="0282.204" />
+		<Section Number="0282.205" />
+		<Section Number="0282.318" />
+		<Section Number="0282.33" />
+		<Section Number="0282.34" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Accessibility of information<NewLine />and technology</PartTitle>
+		<Section Number="0282.601" />
+		<Section Number="0282.602" />
+		<Section Number="0282.603" />
+		<Section Number="0282.604" />
+		<Section Number="0282.605" />
+		<Section Number="0282.606" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Communication information<NewLine />technology services</PartTitle>
+		<Section Number="0282.701" />
+		<Section Number="0282.702" />
+		<Section Number="0282.703" />
+		<Section Number="0282.704" />
+		<Section Number="0282.705" />
+		<Section Number="0282.706" />
+		<Section Number="0282.707" />
+		<Section Number="0282.708" />
+		<Section Number="0282.709" />
+		<Section Number="0282.7101" />
+		<Section Number="0282.711" />
+	</Part>
+</Chapter>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVII">
+	<ChapterNumber>946</ChapterNumber>
+	<ChapterName xml:space="preserve">Inmate labor and correctional work programs</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Correctional work programs,<NewLine />generally</PartTitle>
+		<Section Number="0946.002" />
+		<Section Number="0946.205" />
+		<Section Number="0946.25" />
+		<Section Number="0946.31" />
+		<Section Number="0946.32" />
+		<Section Number="0946.33" />
+		<Section Number="0946.40" />
+		<Section Number="0946.41" />
+		<Section Number="0946.42" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Leased or managed work programs</PartTitle>
+		<Section Number="0946.501" />
+		<Section Number="0946.502" />
+		<Section Number="0946.5025" />
+		<Section Number="0946.5026" />
+		<Section Number="0946.503" />
+		<Section Number="0946.504" />
+		<Section Number="0946.505" />
+		<Section Number="0946.506" />
+		<Section Number="0946.509" />
+		<Section Number="0946.5095" />
+		<Section Number="0946.510" />
+		<Section Number="0946.511" />
+		<Section Number="0946.512" />
+		<Section Number="0946.513" />
+		<Section Number="0946.514" />
+		<Section Number="0946.515" />
+		<Section Number="0946.516" />
+		<Section Number="0946.517" />
+		<Section Number="0946.518" />
+		<Section Number="0946.520" />
+		<Section Number="0946.522" />
+		<Section Number="0946.523" />
+		<Section Number="0946.524" />
+		<Section Number="0946.525" />
+	</Part>
+</Chapter>

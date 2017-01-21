@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0601.56" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application for dealers’ licenses; requirements.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Any person desiring to engage in the business of a citrus fruit dealer in the state must apply to the department for a license. The department shall adopt rules prescribing the information to be contained in such application.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All such applications, in addition to other information that may be prescribed by the department, must contain the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Name and address of the individual, firm, partnership, association, corporation, or other business unit applying for a license.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Names and addresses of the principal stockholders, officers, partners, or other individuals belonging to or connected with the applicant if the applicant for a license is a firm, partnership, association, corporation, or other business unit, whether it be for profit or otherwise.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The length of time the applicant has been engaged in the citrus fruit business in the state in any manner whatsoever.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A statement of delinquent accounts, if any, growing out of the ordinary course of business with producers.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A financial statement of the applicant, if required by the department, showing such information as the department may prescribe regarding the financial conditions of the applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Whether or not the applicant or any of its officers, directors, or stockholders have previously been licensed as a citrus fruit dealer or connected with a licensed citrus fruit dealer in the state and, if so, the date all such licenses were obtained.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The number of boxes of citrus fruit, measured in terms of standard-packed boxes, that the applicant intends to deal with during the current or ensuing shipping season.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the applicant is an individual and is shown to be a nonresident of the state or is a copartnership and each member is shown to be a nonresident of the state, the applicant shall designate some bona fide resident of the state as such applicant’s resident agent upon whom process may be served. The service of process of any of the courts of this state upon such resident agent shall be as effectual and binding upon such applicant as if personally served upon such applicant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the applicant is a corporation, such corporation must be one organized and existing under the laws of this state or having an unrevoked permit authorizing it to transact business in this state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">When a license application is submitted for a person or business entity that has an unpaid balance due and owing the department for any citrus assessments or delinquency fees levied and imposed under the authority of this chapter, the applicant shall be notified immediately by the department, and such application may not be further processed or presented to the commission for action until such assessments and fees are paid in full. However, any applicant whose assessments are under review by the department or are contested in the appropriate administrative agency or court shall not have its application denied solely on the basis of owed assessments or fees until the matter is determined by the department, agency, or court.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 56, ch. 25149, 1949; s. 22, ch. 71-186; s. 2, ch. 81-318; ss. 3, 7, ch. 82-29; ss. 1, 3, ch. 85-129; s. 4, ch. 91-429; s. 43, ch. 2012-182.</History>
+</Section>

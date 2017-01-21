@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Water resource development; water supply development.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The proper role of the water management districts in water supply is primarily planning and water resource development, but this does not preclude them from providing assistance with water supply development.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The proper role of local government, regional water supply authorities, and government-owned and privately owned water utilities in water supply is primarily water supply development, but this does not preclude them from providing assistance with water resource development.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Water resource development and water supply development must receive priority attention, where needed, to increase the availability of sufficient water for all existing and future reasonable-beneficial uses and natural systems.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Sufficient water be available for all existing and future reasonable-beneficial uses and the natural systems, and that the adverse effects of competition for water supplies be avoided.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Water management districts take the lead in identifying and implementing water resource development projects, and be responsible for securing necessary funding for regionally significant water resource development projects.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Local governments, regional water supply authorities, and government-owned and privately owned water utilities take the lead in securing funds for and implementing water supply development projects. Generally, direct beneficiaries of water supply development projects should pay the costs of the projects from which they benefit, and water supply development projects should continue to be paid for through local funding sources.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Water supply development be conducted in coordination with water management district regional water supply planning and water resource development.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The water management districts shall fund and implement water resource development as defined in s. 373.019. The water management districts are encouraged to implement water resource development as expeditiously as possible in areas subject to regional water supply plans. Each governing board shall include in its annual budget the amount needed for the fiscal year to implement water resource development projects, as prioritized in its regional water supply plans.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Water supply development projects that are consistent with the relevant regional water supply plans and that meet one or more of the following criteria shall receive priority consideration for state or water management district funding assistance:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The project supports establishment of a dependable, sustainable supply of water which is not otherwise financially feasible;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The project provides substantial environmental benefits by preventing or limiting adverse water resource impacts, but requires funding assistance to be economically competitive with other options; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The project significantly implements reuse, storage, recharge, or conservation of water in a manner that contributes to the sustainability of regional water sources.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Water supply development projects that meet the criteria in paragraph (a) and that meet one or more of the following additional criteria shall be given first consideration for state or water management district funding assistance:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The project brings about replacement of existing sources in order to help implement a minimum flow or level; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The project implements reuse that assists in the elimination of domestic wastewater ocean outfalls as provided in s. 403.086(9).</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2010-205.</History>
+</Section>

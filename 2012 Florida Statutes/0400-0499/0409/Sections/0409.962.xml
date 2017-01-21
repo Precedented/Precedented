@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.962" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, except as otherwise specifically provided, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Accountable care organization” means an entity qualified as an accountable care organization in accordance with federal regulations, and which meets the requirements of a provider service network as described in s. 409.912(4)(d).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Agency” means the Agency for Health Care Administration.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Aging network service provider” means a provider that participated in a home and community-based waiver administered by the Department of Elderly Affairs or the community care service system pursuant to s. 430.205 as of October 1, 2013.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Comprehensive long-term care plan” means a managed care plan, including a Medicare Advantage Special Needs Plan organized as a preferred provider organization, provider-sponsored organization, health maintenance organization, or coordinated care plan, that provides services described in s. 409.973 and also provides the services described in s. 409.98.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Children and Family Services.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Eligible plan” means a health insurer authorized under chapter 624, an exclusive provider organization authorized under chapter 627, a health maintenance organization authorized under chapter 641, or a provider service network authorized under s. 409.912(4)(d) or an accountable care organization authorized under federal law. For purposes of the managed medical assistance program, the term also includes the Children’s Medical Services Network authorized under chapter 391 and entities qualified under 42 C.F.R. part 422 as Medicare Advantage Preferred Provider Organizations, Medicare Advantage Provider-sponsored Organizations, Medicare Advantage Health Maintenance Organizations, Medicare Advantage Coordinated Care Plans, and Medicare Advantage Special Needs Plans, and the Program of All-inclusive Care for the Elderly.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Long-term care plan” means a managed care plan that provides the services described in s. 409.98 for the long-term care managed care program.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Long-term care provider service network” means a provider service network a controlling interest of which is owned by one or more licensed nursing homes, assisted living facilities with 17 or more beds, home health agencies, community care for the elderly lead agencies, or hospices.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Managed care plan” means an eligible plan under contract with the agency to provide services in the Medicaid program.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Medicaid” means the medical assistance program authorized by Title XIX of the Social Security Act, 42 U.S.C. ss. 1396 et seq., and regulations thereunder, as administered in this state by the agency.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Medicaid recipient” or “recipient” means an individual who the department or, for Supplemental Security Income, the Social Security Administration determines is eligible pursuant to federal and state law to receive medical assistance and related services for which the agency may make payments under the Medicaid program. For the purposes of determining third-party liability, the term includes an individual formerly determined to be eligible for Medicaid, an individual who has received medical assistance under the Medicaid program, or an individual on whose behalf Medicaid has become obligated.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Prepaid plan” means a managed care plan that is licensed or certified as a risk-bearing entity, or qualified pursuant to s. 409.912(4)(d), in the state and is paid a prospective per-member, per-month payment by the agency.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Provider service network” means an entity qualified pursuant to s. 409.912(4)(d) of which a controlling interest is owned by a health care provider, or group of affiliated providers, or a public agency or entity that delivers health services. Health care providers include Florida-licensed health care professionals or licensed health care facilities, federally qualified health care centers, and home health care agencies.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Specialty plan” means a managed care plan that serves Medicaid recipients who meet specified criteria based on age, medical condition, or diagnosis.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2011-134; s. 5, ch. 2012-44.</History>
+</Section>

@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0539.001" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">The Florida Pawnbroking Act.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section may be cited as the “Florida Pawnbroking Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Agency” means the Department of Agriculture and Consumer Services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Appropriate law enforcement official” means the sheriff of the county in which a pawnshop is located or, in case of a pawnshop located within a municipality, the police chief of the municipality in which the pawnshop is located; however, any sheriff or police chief may designate as the appropriate law enforcement official for the county or municipality, as applicable, any law enforcement officer working within the county or municipality headed by that sheriff or police chief. Nothing in this subsection limits the power and responsibilities of the sheriff.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Claimant” means a person who claims that his or her property was misappropriated.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Conveying customer” means a person who delivers property into the custody of a pawnbroker, either by pawn, sale, consignment, or trade.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Identification” means a government-issued photographic identification or an electronic image taken from a government-issued photographic identification.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Misappropriated” means stolen, embezzled, converted, or otherwise wrongfully appropriated against the will of the rightful owner.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Net worth” means total assets less total liabilities.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Pawn” means any advancement of funds on the security of pledged goods on condition that the pledged goods are left in the possession of the pawnbroker for the duration of the pawn and may be redeemed by the pledgor on the terms and conditions contained in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Pawnbroker” means any person who is engaged in the business of making pawns; who makes a public display containing the term “pawn,” “pawnbroker,” or “pawnshop” or any derivative thereof; or who publicly displays a sign or symbol historically identified with pawns. A pawnbroker may also engage in the business of purchasing goods which includes consignment and trade.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Pawnbroker transaction form” means the instrument on which a pawnbroker records pawns and purchases as provided in subsection (8).</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Pawn service charge” means a charge for investigating the title, storage, and insuring of the security; closing the transaction; making daily reports to appropriate law enforcement officials; expenses and losses; and all other services.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Pawnshop” means the location at which a pawnbroker conducts business.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Permitted vendor” means a vendor who furnishes a pawnbroker with an invoice specifying the vendor’s name and address, the date of the sale, a description of the items sold, and the sales price, and who has an established place of business, or, in the case of a secondhand dealer as defined in s. 538.03, has represented in writing that such dealer has complied with all applicable recordkeeping, reporting, and retention requirements pertaining to goods sold or otherwise delivered to a pawnbroker.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Person” means an individual, partnership, corporation, joint venture, trust, association, or other legal entity.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Pledged goods” means tangible personal property that is deposited with, or otherwise delivered into the possession of a pawnbroker in connection with a pawn. “Pledged goods” does not include titles or any other form of written security in tangible property in lieu of actual physical possession, including, but not limited to, choses in action, securities, printed evidence of indebtedness, or certificates of title and other instruments evidencing title to separate items of property, including motor vehicles. For purposes of federal and state bankruptcy laws, a pledgor’s interest in his or her pledged goods during the pendency of a pawn is a right of redemption only.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Pledgor” means an individual who delivers pledged goods into the possession of a pawnbroker in connection with a pawn.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">“Purchase” means the transfer and delivery of goods, by a person other than a permitted vendor, to a pawnbroker by acquisition for value, consignment, or trade for other goods.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">“Amount financed” is used interchangeably to mean the same as “amount of money advanced” or “principal amount”.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">“Default date” means that date upon which the pledgor’s right of redemption expires and absolute right, title, and interest in and to the pledged goods shall vest in and shall be deemed conveyed to the pawnbroker by operation of law.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">“Beneficial owner” means a person who does not have title to property but has rights in the property which are the normal incident of owning the property.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">“Operator” means a person who has charge of a corporation or company and has control of its business, or of its branch establishments, divisions, or departments, and who is vested with a certain amount of discretion and independent judgment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">LICENSE REQUIRED.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person may not engage in business as a pawnbroker unless the person has a valid license issued by the agency. A separate license is required for each pawnshop. The agency must issue more than one license to a person if that person complies with the requirements for each license.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A licensee who seeks to move a pawnshop to another location must give written notice to the agency at least 30 days before the move, and the agency must amend the license to indicate the new location. The licensee must also give such written notice to the appropriate law enforcement official.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each license is valid for a period of 1 year unless it is earlier relinquished, suspended, or revoked. Each license shall be renewed annually, and each licensee shall, initially and annually thereafter, pay to the agency a license fee of $300 for each license held.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The agency may issue a temporary pawnbroker’s license for the operation of a pawnshop either upon receipt of an application to transfer an existing license from one person to another or upon receipt of an application for a license involving principals and owners that are substantially identical to those of the existing licensee. The temporary license is effective until the permanent license is issued or denied by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A person must apply to the agency for a new license or for a temporary license upon any change, directly or beneficially, in the ownership of any pawnshop. An application for a license or an application to transfer an existing license is not required upon any change, directly or beneficially, in the ownership of a pawnshop if one or more holders of at least 90 percent of the outstanding equity interest of the pawnshop before the change in ownership continue to hold at least 90 percent of the outstanding equity interest after the change in ownership.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Any person applying for or renewing a local occupational license to engage in business as a pawnbroker must exhibit a current license from the agency before the local business tax receipt may be issued or reissued.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY FOR LICENSE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To be eligible for a pawnbroker’s license, an applicant must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Be of good moral character;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Have a net worth of at least $50,000 or file with the agency a bond issued by a surety company qualified to do business in this state in the amount of $10,000 for each license. In lieu of the bond required in this section, the applicant may establish a certificate of deposit or an irrevocable letter of credit in a Florida banking institution in the amount of the bond. The original bond, certificate of deposit, or letter of credit shall be filed with the agency, and the agency shall be the beneficiary to said document. The bond, certificate of deposit, or letter of credit shall be in favor of the agency for the use and benefit of any consumer who is injured by the fraud, misrepresentation, breach of contract, financial failure, or violation of any provision of this section by the pawnbroker. Such liability may be enforced either by proceeding in an administrative action or by filing a judicial suit at law in a court of competent jurisdiction. However, in such court suit, the bond, certificate of deposit, or letter of credit posted with the agency shall not be amenable or subject to any judgment or other legal process issuing out of or from such court in connection with such lawsuit, but such bond, certificate of deposit, or letter of credit shall be amenable to and enforceable only by and through administrative proceedings before the agency. It is the intent of the Legislature that such bond, certificate of deposit, or letter of credit shall be applicable and liable only for the payment of claims duly adjudicated by order of the agency. The bond, certificate of deposit, or letter of credit shall be payable on a pro rata basis as determined by the agency, but the aggregate amount may not exceed the amount of the bond, certificate of deposit, or letter of credit;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Not have been convicted of, or found guilty of, or pled guilty or nolo contendere to, or not have been incarcerated within the last 10 years as a result of having previously been convicted of, or found guilty of, or pled guilty or nolo contendere to, regardless of adjudication, a felony within the last 10 years and not be acting as a beneficial owner for someone who has been convicted of, or found guilty of, or pled guilty or nolo contendere to, regardless of adjudication, a felony within the last 10 years; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Not have been convicted of, or found guilty of, or pled guilty or nolo contendere to, or not have been incarcerated within the last 10 years as a result of having previously been convicted of, or found guilty of, or pled guilty or nolo contendere to, regardless of adjudication, a crime that involves theft, larceny, dealing in stolen property, receiving stolen property, burglary, embezzlement, obtaining property by false pretenses, possession of altered property, or any other fraudulent or dishonest dealing within the last 10 years, and not be acting as a beneficial owner for someone who has been convicted, of, or found guilty of, or pled guilty or nolo contendere to, or has been incarcerated within the last 10 years as a result of having previously been convicted of, or found guilty of, or pled guilty or nolo contendere to, regardless of adjudication, a crime that involves theft, larceny, dealing in stolen property, receiving stolen property, burglary, embezzlement, obtaining property by false pretenses, possession of altered property, or any other fraudulent or dishonest dealing within the last 10 years.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any applicant claiming to have a net worth of $50,000 or more shall file with the agency, at the time of applying for a license, the following documentation:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A current financial statement prepared by a Florida certified public accountant; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An affidavit stating the applicant’s net worth is at least $50,000, accompanied by supporting documentation; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the applicant is a corporation, a copy of the applicant’s most recently filed federal tax return.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">If the agency cannot verify that the applicant meets the net worth requirement for a license, the agency may require a finding, including the presentation of a current balance sheet, by an accounting firm or individual holding a permit to practice public accounting in this state, that the accountant has reviewed the books and records of the applicant and that the applicant meets the net worth requirement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If an applicant for a pawnbroker’s license is not an individual, the eligibility requirements of this subsection, other than the requirements of subparagraph (a)2., apply to each operator of the pawnshop and to each direct or beneficial owner of at least 10 percent of the outstanding equity interest of the pawnshop and, if the applicant is a corporation, to each officer and director of the corporation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">APPLICATION FOR LICENSE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An application for a pawnbroker’s license, for the transfer of an existing pawnbroker’s license, or for the approval of a change in the ownership of a licensee’s pawnshop must be under oath and must state the full name and place of residence of the applicant, the place where the business is to be conducted, and other relevant information required by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the applicant is not an individual, the applicant must state the full name and address of each direct or beneficial owner of at least a 10-percent equity interest in such person. If the applicant is a corporation, the application must also state the full name and address of each officer and director.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of subparagraph 1., the application need not state the full name and address of each officer, director, and shareholder if the applicant is owned directly or beneficially by a person that as an issuer has a class of securities registered under s. 12 of the Securities Exchange Act of 1934, or under s. 15(d) thereof, and is an issuer of registered securities required to file reports with the Securities and Exchange Commission and if the person files with the agency the information, documents, and reports required to be filed with the Securities and Exchange Commission.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each initial application for a license must be accompanied by a complete set of fingerprints taken by an authorized law enforcement officer, $300 for the first year’s license fee, and the actual cost to the agency for fingerprint analysis for each person subject to the eligibility requirements. The agency shall submit the fingerprints to the Department of Law Enforcement for state processing, and the Department of Law Enforcement shall forward the fingerprints to the Federal Bureau of Investigation for a national criminal history check. These fees and costs are not refundable.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">When the application and the required fees are received, the agency shall investigate the facts, approve the application, and issue a license to the applicant if the agency finds that the eligibility requirements for the license are satisfied. The license must be prominently displayed at the front desk or counter at each pawnshop.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Fees and fines collected under this section by the agency shall be deposited into the General Inspection Trust Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">SUSPENSION, REVOCATION, AND SURRENDER OF LICENSE; NET WORTH REQUIREMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may, after notice and a hearing, suspend or revoke any license upon a finding that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The licensee, either knowingly or without the exercise of due care, has violated this section or has aided or conspired with another person to violate this section;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A condition exists that, had it existed when the license was issued, would have justified the agency’s refusal to issue a license;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The licensee or its applicable agents or employees who are subject to the eligibility requirements no longer meet the eligibility requirements to hold a pawnbroker’s license; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The licensee has through gross negligence or willful noncompliance failed to comply with a written hold order.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency may conditionally license or place on probation a person whose license has been suspended or may reprimand a licensee for a violation of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The manner of giving notice and conducting a hearing, as required by paragraph (a), must conform to chapter 120.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any licensee may surrender a license by delivering it, by certified or registered mail, return receipt requested, to the agency with written notice of its surrender. The surrender of a license does not affect the civil or criminal liability of the licensee for acts committed before the surrender of the license.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The revocation, suspension, or surrender of a license does not impair or affect the obligation of any preexisting lawful contract between the licensee and any pledgor. Any pawn transaction made by a person without benefit of a license is voidable, in which case the person forfeits the right to collect any moneys, including principal and any charges, from the pledgor in connection with such transaction and is obligated to return to the pledgor the pledged goods in connection with such transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The agency may reinstate a suspended license or issue a new license to a person whose license has been revoked, if after a hearing it determines that no fact or condition then exists that would have justified the agency in originally refusing to issue a license.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Each licensee must maintain a net worth of $50,000 or the bond specified in subsection (4).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">ORDERS IMPOSING PENALTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may enter an order imposing one or more of the penalties set forth in paragraph (b) if the agency finds that a pawnbroker:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Violated or is operating in violation of any of the provisions of this section or of the rules adopted or orders issued thereunder;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Made a material false statement in any application, document, or record required to be submitted or retained under this section;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Refused or failed, or any of its principal officers has refused or failed, after notice, to produce any document or records or disclose any information required to be produced or disclosed under this section or the rules of the agency;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Made a material false statement in response to any request or investigation by the agency, the Department of Legal Affairs, or the state attorney; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Has intentionally defrauded the public through dishonest or deceptive means.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon a finding as set forth in paragraph (a), the agency may enter an order doing one or more of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Issuing a notice of noncompliance pursuant to s. 120.695.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Imposing an administrative fine not to exceed $5,000 for each act which constitutes a violation of this section or a rule or an order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Directing that the pawnbroker cease and desist specified activities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Refusing to license or revoking or suspending a license.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Placing the licensee on probation for a period of time, subject to such conditions as the agency may specify.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The administrative proceedings which could result in the entry of an order imposing any of the penalties specified in paragraph (b) are governed by chapter 120.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When the agency, if a violation of this section occurs, has reasonable cause to believe that a person is operating in violation of this section, the agency may bring a civil action in the appropriate court for temporary or permanent injunctive relief and may seek other appropriate civil relief, including a civil penalty not to exceed $5,000 for each violation, restitution and damages for injured customers, court costs, and reasonable attorney’s fees.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency may terminate any investigation or action upon agreement by the offender to pay a stipulated civil penalty, to make restitution or pay damages to customers, or to satisfy any other relief authorized herein and requested by the agency.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The remedies provided for in this subsection shall be in addition to any other remedy provided by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">PAWNBROKER TRANSACTION FORM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">At the time the pawnbroker enters into any pawn or purchase transaction, the pawnbroker shall complete a pawnbroker transaction form for such transaction, including an indication of whether the transaction is a pawn or a purchase, and the pledgor or seller shall sign such completed form. The agency must approve the design and format of the pawnbroker transaction form, which must be 8<Fraction>1/2</Fraction> inches x 11 inches in size and elicit the information required under this section. In completing the pawnbroker transaction form, the pawnbroker shall record the following information, which must be typed or written indelibly and legibly in English.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The front of the pawnbroker transaction form must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name and address of the pawnshop.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A complete and accurate description of the pledged goods or purchased goods, including the following information, if applicable:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Brand name.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Model number.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Manufacturer’s serial number.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Size.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Color, as apparent to the untrained eye.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Precious metal type, weight, and content, if known.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Gemstone description, including the number of stones.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">In the case of firearms, the type of action, caliber or gauge, number of barrels, barrel length, and finish.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Any other unique identifying marks, numbers, names, or letters.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">Notwithstanding sub-subparagraphs a.-i., in the case of multiple items of a similar nature delivered together in one transaction which do not bear serial or model numbers and which do not include precious metal or gemstones, such as musical or video recordings, books, and hand tools, the description of the items is adequate if it contains the quantity of items and a description of the type of items delivered.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The name, address, home telephone number, place of employment, date of birth, physical description, and right thumbprint of the pledgor or seller.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The date and time of the transaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The type of identification accepted from the pledgor or seller, including the issuing agency and the identification number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">In the case of a pawn:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The amount of money advanced, which must be designated as the amount financed;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The maturity date of the pawn, which must be 30 days after the date of the pawn;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The default date of the pawn and the amount due on the default date;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The total pawn service charge payable on the maturity date, which must be designated as the finance charge;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The amount financed plus the finance charge that must be paid to redeem the pledged goods on the maturity date, which must be designated as the total of payments;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The annual percentage rate, computed according to the regulations adopted by the Federal Reserve Board under the federal Truth in Lending Act; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">The front or back of the pawnbroker transaction form must include a statement that:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Any personal property pledged to a pawnbroker within this state which is not redeemed within 30 days following the maturity date of the pawn, if the 30th day is not a business day, then the following business day, is automatically forfeited to the pawnbroker, and absolute right, title, and interest in and to the property vests in and is deemed conveyed to the pawnbroker by operation of law, and no further notice is necessary;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">The pledgor is not obligated to redeem the pledged goods; and</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">If the pawnbroker transaction form is lost, destroyed, or stolen, the pledgor must immediately advise the issuing pawnbroker in writing by certified or registered mail, return receipt requested, or in person evidenced by a signed receipt.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">A pawn may be extended upon mutual agreement of the parties.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">In the case of a purchase, the amount of money paid for the goods or the monetary value assigned to the goods in connection with the transaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A statement that the pledgor or seller of the item represents and warrants that it is not stolen, that it has no liens or encumbrances against it, and that the pledgor or seller is the rightful owner of the goods and has the right to enter into the transaction.</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Any person who knowingly gives false verification of ownership or gives a false or altered identification and who receives money from a pawnbroker for goods sold or pledged commits:</Text>
+					<Text xml:space="preserve" Style="Indent">a. If the value of the money received is less than $300, a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+					<Text xml:space="preserve" Style="Indent">b. If the value of the money received is $300 or more, a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A pawnbroker transaction form must provide a space for the imprint of the right thumbprint of the pledgor or seller and a blank line for the signature of the pledgor or seller.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">At the time of the pawn or purchase transaction, the pawnbroker shall deliver to the pledgor or seller an exact copy of the completed pawnbroker transaction form.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">RECORDKEEPING; REPORTING; HOLD PERIOD.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A pawnbroker must maintain a copy of each completed pawnbroker transaction form on the pawnshop premises for at least 1 year after the date of the transaction. On or before the end of each business day, the pawnbroker must deliver to the appropriate law enforcement official the original pawnbroker transaction forms for each of the transactions occurring during the previous business day, unless other arrangements have been agreed upon between the pawnbroker and the appropriate law enforcement official. If the original transaction form is lost or destroyed by the appropriate law enforcement official, a copy may be used by the pawnbroker as evidence in court. When an electronic image of a pledgor or seller identification is accepted for a transaction, the pawnbroker must maintain the electronic image in order to meet the same recordkeeping requirements as for the original transaction form. If a criminal investigation occurs, the pawnbroker shall, upon request, provide a clear and legible copy of the image to the appropriate law enforcement official.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the appropriate law enforcement agency supplies the appropriate software and the pawnbroker presently has the computer ability, pawn transactions shall be electronically transferred. If a pawnbroker does not presently have the computer ability, the appropriate law enforcement agency may provide the pawnbroker with a computer and all necessary equipment for the purpose of electronically transferring pawn transactions. The appropriate law enforcement agency shall retain ownership of the computer, unless otherwise agreed upon. The pawnbroker shall maintain the computer in good working order, ordinary wear and tear excepted. In the event the pawnbroker transfers pawn transactions electronically, the pawnbroker is not required to also deliver to the appropriate law enforcement official the original or copies of the pawnbroker transaction forms. The appropriate law enforcement official may, for the purposes of a criminal investigation, request that the pawnbroker produce an original of a transaction form that has been electronically transferred. The pawnbroker shall deliver this form to the appropriate law enforcement official within 24 hours of the request.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All goods delivered to a pawnbroker in a pawn or purchase transaction must be securely stored and maintained in an unaltered condition within the jurisdiction of the appropriate law enforcement official for a period of 30 calendar days after the transaction. Those goods delivered to a pawnbroker in a purchase transaction may not be sold or otherwise disposed of before the expiration of such period. The pawnbroker shall make all pledged and purchased goods and all records relating to such goods available for inspection by the appropriate law enforcement official during normal business hours throughout such period. The pawnbroker must store and maintain pledged goods for the period prescribed in subsection (10) unless the pledged goods are redeemed earlier; provided, however, that within the first 30 days after the original pawn, the pledged goods may be redeemed only by the pledgor or the pledgor’s attorney in fact.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">PLEDGED GOODS NOT REDEEMED.<EmDash />Pledged goods not redeemed by the pledgor on or before the maturity date of a pawn must be held by the pawnbroker for at least 30 days following such date or until the next business day, if the 30th day is not a business day. Pledged goods not redeemed within the 30-day period following the maturity date of a pawn are automatically forfeited to the pawnbroker; absolute right, title, and interest in and to the goods shall vest in and shall be deemed conveyed to the pawnbroker by operation of law; and no further notice is necessary. A pledgor has no obligation to redeem pledged goods or make any payment on a pawn.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">PAWN SERVICE CHARGES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In a pawn transaction, a pawnbroker may contract for and receive a pawn service charge. The interest component of the pawn service charge shall be deemed to be 2 percent of the amount financed for each 30-day period in a pawn transaction. The pawnbroker may charge any amount of pawn service charge, so long as the total amount, inclusive of the interest component, does not exceed 25 percent of the amount financed for each 30-day period in a pawn transaction, except that the pawnbroker is entitled to receive a minimum pawn service charge of $5 for each such 30-day period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The default date of any pawn may be extended to a subsequent date by mutual agreement, between the pledgor and the pawnbroker except the pawnbroker may not impose a minimum duration of more than 30 days, evidenced by a written memorandum, a copy of which must be supplied to the pledgor, which must clearly specify the new default date, and the pawn service charges owed on the new default date. In this event, the daily pawn service charge for the extension shall be equal to the pawn service charge for the original 30-day period divided by 30 days (i.e., one-thirtieth of the original total pawn service charge). There is no limit on the number of extensions that the parties may agree to.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The total amount of pawn service charges that a pawnbroker may collect in the case of pledged goods redeemed at any time within 30 days after the date of the pawn is the amount provided in paragraph (a). The total amount of pawn service charges that a pawnbroker may collect in the case of redemptions occurring at any time more than 30 days after the date of the pawn is twice the amount provided in paragraph (a), except that, for redemptions occurring more than 60 days after the date of the pawn, pawn service charges continue to accrue from and after the 60th day at the daily rate determined as provided in paragraph (b). Any unused pawn service charge paid in advance by the pledgor shall be refunded by the pawnbroker.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Pledged goods may be redeemed by mail by agreement between the pledgor and the pawnbroker. The pledgor must pay in advance all moneys due and a reasonable charge assessed by the pawnbroker to recover its cost and expenses involved in the packaging, insuring, and shipping of the pledged goods. The pawnbroker shall insure the pledged goods in an amount acceptable to the pledgor. The pawnbroker’s liability for loss or damage in connection with the shipment of such pledged goods is limited to the amount of the insurance coverage obtained.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any interest, charge, or fees contracted for or received, directly or indirectly, in excess of the amounts authorized under this section are prohibited, may not be collected, and render the pawn transaction voidable, in which case the pawnbroker shall forfeit the right to collect twice the amount of the pawn service charge contracted for in the pawn and, upon the pledgor’s written request received by the pawnbroker within 30 days after the maturity date, shall be obligated to return to the pledgor the pledged goods delivered to the pawnbroker in connection with the pawn upon payment of the balance remaining due, provided that there shall be no penalty for a violation resulting from an accidental and bona fide error that is corrected upon discovery. Any action to circumvent the limitation on pawn service charges collectible under this section is voidable. In the event a pledgor makes a partial payment on a pawn that reduces the amount financed, any additional pawn service charges shall be calculated on the remaining balance of the original amount financed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">PROHIBITED ACTS.<EmDash />A pawnbroker, or an employee or agent of a pawnbroker, may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Falsify or intentionally fail to make an entry of any material matter in a pawnbroker transaction form.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Refuse to allow the agency, the appropriate law enforcement official, or the state attorney, or any of their designated representatives having jurisdiction, to inspect completed pawnbroker transaction forms or pledged or purchased goods during the ordinary hours of the pawnbroker’s business or other time acceptable to both parties. The appropriate law enforcement official shall disclose to a claimant the name and address of the pawnbroker, the name and address of the conveying customer, and a description of pawned, purchased, or consigned goods that the claimant claims to be misappropriated.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Obliterate, discard, or destroy a completed pawnbroker transaction form sooner than 3 years after the date of the transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Accept a pledge or purchase property from a person under the age of 18 years.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Make any agreement requiring or allowing the personal liability of a pledgor or the waiver of any of the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Knowingly enter into a pawn or purchase transaction with any person who is under the influence of alcohol or controlled substances when such condition is apparent, or with any person using the name of another or the registered name of another’s business.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Conduct any pawn or purchase transaction at a drive-through window or similar device in which the customer remains in a vehicle while conducting the transaction.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Fail to return or replace pledged goods to a pledgor upon payment of the full amount due the pawnbroker, unless the pledged goods have been placed under a hold order under subsection (16), or taken into custody by a court or otherwise disposed of by court order.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Sell or otherwise charge for insurance in connection with a pawn transaction, except in connection with the shipment of pledged goods redeemed by mail as provided in subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Engage in title loan transactions at, within, or adjoining a licensed pawnshop location.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Lease pledged goods to the pledgor or any other party.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Operate a pawnshop between the hours of 10 p.m. and 7 a.m.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Knowingly hire anyone to work in a pawnshop who has been convicted of, or entered a plea of guilty or nolo contendere to, or had adjudication withheld for a felony within the last 5 years, or been convicted of, or entered a plea of guilty or nolo contendere to, or had adjudication withheld for a crime within the last 5 years which involves theft, larceny, dealing in stolen property, receiving stolen property, burglary, embezzlement, obtaining property by false pretenses, possession of altered property, or any fraudulent, or dishonest dealing.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Knowingly accept or receive misappropriated property from a conveying customer in a pawn or purchase transaction.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">RIGHT TO REDEEM; LOST PAWNBROKER TRANSACTION FORM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Only a pledgor or a pledgor’s authorized representative is entitled to redeem the pledged goods described in the pawnbroker transaction form; however, if the pawnbroker determines that the person is not the original pledgor, or the pledgor’s authorized representative, the pawnbroker is not required to allow the redemption of the pledged goods by such person. The person redeeming the pledged goods must sign the pledgor’s copy of the pawnbroker transaction form, which the pawnbroker may retain as evidence of the person’s receipt of the pledged goods. If the person redeeming the pledged goods is the pledgor’s authorized representative, that person must present notarized authorization from the original pledgor and show identification to the pawnbroker and the pawnbroker shall record that person’s name and address on the pawnbroker transaction form retained by the pawnshop. It is the pawnbroker’s responsibility to verify that the person redeeming the pledged goods is either the pledgor or the pledgor’s authorized representative.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a pledgor’s copy of the pawnbroker transaction form is lost, destroyed, or stolen, the pledgor must notify the pawnbroker in writing by certified or registered mail, return receipt requested, or in person evidenced by a signed receipt, and receipt of this notice invalidates the pawnbroker transaction form if the pledged goods have not previously been redeemed. Before delivering the pledged goods or issuing a new pawnbroker transaction form, the pawnbroker must require the pledgor to make a written statement of the loss, destruction, or theft of the pledgor’s copy of the pawnbroker transaction form. The pawnbroker must record on the written statement the type of identification and the identification number accepted from the pledgor, the date the statement is given, and the number of the pawnbroker transaction form that was lost, destroyed, or stolen. The statement must be signed by the pawnbroker or the pawnshop employee who accepts the statement from the pledgor. A pawnbroker is entitled to a fee not to exceed $2 in connection with each lost, destroyed, or stolen pawnbroker transaction form and the taking of a properly prepared written statement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Sales tax is not due or collectible in connection with the redemption of pledged goods.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If pledged goods are lost or damaged while in the possession of the pawnbroker, the pawnbroker may satisfy the pledgor’s claim by replacing the lost or damaged goods with like kinds of merchandise of equal value, with which the pledgor can reasonably replace the goods. Such replacement is a defense to any civil action based upon the loss or damage of the goods.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">PAWNBROKER’S LIEN.<EmDash />A pawnbroker has a possessory lien on the pledged goods pawned as security for the funds advanced, the pawn service charge owed, and the other charges authorized under this section, but not for other debts due to the pawnbroker. A pawnbroker has no recourse against a pledgor for payment on a pawn transaction except for the pledged goods themselves. Except as otherwise provided in this section, the pawnbroker must retain possession of the pledged goods until the lien is satisfied or until the default date. The pawnbroker may be compelled to relinquish possession of the pledged goods only after receipt of the applicable funds advanced plus the accrued service charge and other authorized charges, upon court order, or as otherwise provided by law.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">CLAIMS AGAINST PURCHASED GOODS OR PLEDGED GOODS HELD BY PAWNBROKERS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To obtain possession of purchased or pledged goods held by a pawnbroker which a claimant claims to be misappropriated, the claimant must notify the pawnbroker by certified mail, return receipt requested, or in person evidenced by signed receipt, of the claimant’s claim to the purchased or pledged goods. The notice must contain a complete and accurate description of the purchased or pledged goods and must be accompanied by a legible copy of the applicable law enforcement agency’s report on the misappropriation of such property. If the claimant and the pawnbroker do not resolve the matter within 10 days after the pawnbroker’s receipt of the notice, the claimant may petition the court to order the return of the property, naming the pawnbroker as a defendant, and must serve the pawnbroker with a copy of the petition. The pawnbroker shall hold the property described in the petition until the right to possession is resolved by the parties or by a court of competent jurisdiction. The court shall waive any filing fee for the petition to recover the property, and the sheriff shall waive the service fees.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If, after notice and a hearing, the court finds that the property was misappropriated and orders the return of the property to the claimant:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The claimant may recover from the pawnbroker the cost of the action, including the claimant’s reasonable attorney’s fees; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the conveying customer is convicted of theft, a violation of this section, or dealing in stolen property, the court shall order the conveying customer to repay the pawnbroker the full amount the conveying customer received from the pawnbroker for the property, plus all applicable pawn service charges. As used in this paragraph, the term “convicted of” includes a plea of nolo contendere to the charges or any agreement in which adjudication is withheld; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The conveying customer shall be responsible to pay all attorney’s fees and taxable costs incurred by the pawnbroker in defending a replevin action or any other civil matter wherein it is found that the conveying customer was in violation of this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the court finds that the claimant failed to comply with the requirements in paragraph (a) or otherwise finds against the claimant, the claimant is liable for the defendants’ costs, including reasonable attorney’s fees.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The sale, pledge, or delivery of tangible personal property to a pawnbroker by any person in this state is considered to be:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An agreement by the person who sells, pledges, or delivers the tangible personal property that the person is subject to the jurisdiction of the court in all civil actions and proceedings arising out of the pledge or sale transaction filed by either a resident or nonresident plaintiff;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An appointment of the Secretary of State by any nonresident of this state as that person’s lawful attorney and agent upon whom may be served all process in suits pertaining to the actions and proceedings arising out of the sale, pledge, or delivery; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An agreement by any nonresident that any process in any suit so served has the same legal force and validity as if personally served in this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">HOLD ORDERS; ISSUANCE; REQUIRED INFORMATION; PROCEDURES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">When an appropriate law enforcement official has probable cause to believe that property in the possession of a pawnbroker is misappropriated, the official may place a written hold order on the property. The written hold order shall impose a holding period not to exceed 90 days unless extended by court order. The appropriate law enforcement official may rescind, in writing, any hold order. An appropriate law enforcement official may place only one hold order on property.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon the expiration of the holding period, the pawnbroker shall notify, in writing, the appropriate law enforcement official by certified mail, return receipt requested, that the holding period has expired. If, on the 10th day after the written notice has been received by the appropriate law enforcement official, the pawnbroker has not received from a court an extension of the hold order on the property and the property is not the subject of a proceeding under subsection (15), title to the property shall vest in and be deemed conveyed by operation of law to the pawnbroker, free of any liability for claims but subject to any restrictions contained in the pawn transaction contract and subject to the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A hold order must specify:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name and address of the pawnbroker.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name, title, and identification number of the representative of the appropriate law enforcement official or the court placing the hold order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If applicable, the name and address of the appropriate law enforcement official or court to which such representative is attached and the number, if any, assigned to the claim regarding the property.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A complete description of the property to be held, including model number and serial number if applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The name of the person reporting the property to be misappropriated unless otherwise prohibited by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The mailing address of the pawnbroker where the property is held.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The expiration date of the holding period.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The pawnbroker or the pawnbroker’s representative must sign and date a copy of the hold order as evidence of receipt of the hold order and the beginning of the 90-day holding period.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except as provided in subparagraph 2., a pawnbroker may not release or dispose of property subject to a hold order except pursuant to a court order, a written release from the appropriate law enforcement official, or the expiration of the holding period of the hold order.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">While a hold order is in effect, the pawnbroker must upon request release the property subject to the hold order to the custody of the appropriate law enforcement official for use in a criminal investigation. The release of the property to the custody of the appropriate law enforcement official is not considered a waiver or release of the pawnbroker’s property rights or interest in the property. Upon completion of the criminal proceeding, the property must be returned to the pawnbroker unless the court orders other disposition. When such other disposition is ordered, the court shall additionally order the conveying customer to pay restitution to the pawnbroker in the amount received by the conveying customer for the property together with reasonable attorney’s fees and costs.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">CRIMINAL PENALTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who engages in business as a pawnbroker without first securing a license commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to any other penalty, any person, who willfully violates this section or who willfully makes a false entry in any record specifically required by this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083. Clerical or recordkeeping errors, such as typographical errors or scrivener’s errors, regarding any document or record required by this section do not constitute a willful violation of this section, and are not subject to criminal penalties. Clerical or recordkeeping errors are subject to the administrative remedies, as provided in this act.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">INJUNCTIONS.<EmDash />When the agency has reasonable cause to believe that a person is violating this section, the agency may enter an order requiring the person to stop the violation. The agency may petition the court to enjoin the person from engaging in the violation, continuing the violation, or doing any act in furtherance of the violation. The court may order a preliminary or permanent injunction.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">RECORDS OF THE FLORIDA DEPARTMENT OF LAW ENFORCEMENT.<EmDash />The Department of Law Enforcement, on request, must supply to the agency any arrest and conviction records in its possession of an individual applying for or holding a license under this section.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">CONFLICTING ORDINANCES.<EmDash />Any county or municipality may enact ordinances that are in compliance with, but not more restrictive than this section, except that local ordinances shall not require the payment of any fee or tax related to a pawn transaction or purchase unless authorized under this chapter or restrict hours of operations other than between midnight and 6 a.m. Any ordinance that conflicts with this subsection is void. This section does not affect the authority of a county or municipality to establish land use controls or require a pawnbroker to obtain a local occupational license.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">RULEMAKING AUTHORITY.<EmDash />The agency has authority to adopt rules pursuant to chapter 120 to implement the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 96-242; s. 19, ch. 97-250; s. 1, ch. 97-304; s. 9, ch. 99-307; s. 52, ch. 2000-154; s. 72, ch. 2000-158; s. 10, ch. 2001-214; s. 1, ch. 2006-143; s. 26, ch. 2011-205; s. 33, ch. 2012-67.</History>
+</Section>

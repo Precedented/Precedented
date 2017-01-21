@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.701" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Athlete” means a person who participates in an athletic activity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Athletic activity” means the participation in an activity, conducted by an educational institution, a professional athletic organization, or an amateur athletic organization, involving exercises, sports, games, or recreation requiring any of the physical attributes of strength, agility, flexibility, range of motion, speed, and stamina.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Athletic injury” means an injury sustained which affects the athlete’s ability to participate or perform in athletic activity.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Athletic trainer” means a person licensed under this part.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Athletic training” means the recognition, prevention, and treatment of athletic injuries.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Board” means the Board of Athletic Training.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Board of Certification” means the nationally accredited certifying body for athletic trainers or its successor agency.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Direct supervision” means the physical presence of the supervisor on the premises so that the supervisor is immediately available to the trainee when needed.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Supervision” means the easy availability of the supervisor to the athletic trainer, which includes the ability to communicate by telecommunications.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 321, ch. 94-119; s. 2, ch. 95-388; s. 99, ch. 98-166; s. 1, ch. 99-349; s. 131, ch. 99-397; s. 16, ch. 2011-95.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 468.71.</Text>
+	</Note>
+</Section>

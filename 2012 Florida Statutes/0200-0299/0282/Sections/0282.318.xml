@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.318" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Enterprise security of data and information technology.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “Enterprise Security of Data and Information Technology Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Information technology security is established as an enterprise information technology service as defined in s. 282.0041.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Agency for Enterprise Information Technology is responsible for establishing rules and publishing guidelines for ensuring an appropriate level of security for all data and information technology resources for executive branch agencies. The agency shall also perform the following duties and responsibilities:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Develop, and annually update by February 1, an enterprise information security strategic plan that includes security goals and objectives for the strategic issues of information security policy, risk management, training, incident management, and survivability planning.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Develop enterprise security rules and published guidelines for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Comprehensive risk analyses and information security audits conducted by state agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Responding to suspected or confirmed information security incidents, including suspected or confirmed breaches of personal information or exempt data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Agency security plans, including strategic security plans and security program plans.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The recovery of information technology and data following a disaster.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The managerial, operational, and technical safeguards for protecting state government data and information technology resources.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Assist agencies in complying with the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Pursue appropriate funding for the purpose of enhancing domestic security.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide training for agency information security managers.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Annually review the strategic and operational information security plans of executive branch agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To assist the Agency for Enterprise Information Technology in carrying out its responsibilities, each agency head shall, at a minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Designate an information security manager to administer the security program of the agency for its data and information technology resources. This designation must be provided annually in writing to the Agency for Enterprise Information Technology by January 1.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Submit to the Agency for Enterprise Information Technology annually by July 31, the agency’s strategic and operational information security plans developed pursuant to the rules and guidelines established by the Agency for Enterprise Information Technology.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The agency strategic information security plan must cover a 3-year period and define security goals, intermediate objectives, and projected agency costs for the strategic issues of agency information security policy, risk management, security training, security incident response, and survivability. The plan must be based on the enterprise strategic information security plan created by the Agency for Enterprise Information Technology. Additional issues may be included.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency operational information security plan must include a progress report for the prior operational information security plan and a project plan that includes activities, timelines, and deliverables for security objectives that, subject to current resources, the agency will implement during the current fiscal year. The cost of implementing the portions of the plan which cannot be funded from current resources must be identified in the plan.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Conduct, and update every 3 years, a comprehensive risk analysis to determine the security threats to the data, information, and information technology resources of the agency. The risk analysis information is confidential and exempt from the provisions of s. 119.07(1), except that such information shall be available to the Auditor General and the Agency for Enterprise Information Technology for performing postauditing duties.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Develop, and periodically update, written internal policies and procedures, which include procedures for notifying the Agency for Enterprise Information Technology when a suspected or confirmed breach, or an information security incident, occurs. Such policies and procedures must be consistent with the rules and guidelines established by the Agency for Enterprise Information Technology to ensure the security of the data, information, and information technology resources of the agency. The internal policies and procedures that, if disclosed, could facilitate the unauthorized modification, disclosure, or destruction of data or information technology resources are confidential information and exempt from s. 119.07(1), except that such information shall be available to the Auditor General and the Agency for Enterprise Information Technology for performing postauditing duties.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Implement appropriate cost-effective safeguards to address identified risks to the data, information, and information technology resources of the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Ensure that periodic internal audits and evaluations of the agency’s security program for the data, information, and information technology resources of the agency are conducted. The results of such audits and evaluations are confidential information and exempt from s. 119.07(1), except that such information shall be available to the Auditor General and the Agency for Enterprise Information Technology for performing postauditing duties.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Include appropriate security requirements in the written specifications for the solicitation of information technology and information technology resources and services, which are consistent with the rules and guidelines established by the Agency for Enterprise Information Technology.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Provide security awareness training to employees and users of the agency’s communication and information resources concerning information security risks and the responsibility of employees and users to comply with policies, standards, guidelines, and operating procedures adopted by the agency to reduce those risks.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Develop a process for detecting, reporting, and responding to suspected or confirmed security incidents, including suspected or confirmed breaches consistent with the security rules and guidelines established by the Agency for Enterprise Information Technology.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Suspected or confirmed information security incidents and breaches must be immediately reported to the Agency for Enterprise Information Technology.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For incidents involving breaches, agencies shall provide notice in accordance with s. 817.5681 and to the Agency for Enterprise Information Technology in accordance with this subsection.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each state agency shall include appropriate security requirements in the specifications for the solicitation of contracts for procuring information technology or information technology resources or services which are consistent with the rules and guidelines established by the Agency for Enterprise Information Technology.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Agency for Enterprise Information Technology may adopt rules relating to information security and to administer the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, 3, ch. 84-236; s. 28, ch. 87-137; s. 1, ch. 89-14; s. 7, ch. 90-160; s. 13, ch. 91-171; s. 234, ch. 92-279; s. 55, ch. 92-326; s. 22, ch. 94-340; s. 863, ch. 95-148; s. 131, ch. 96-406; s. 15, ch. 97-286; s. 25, ch. 2000-164; s. 26, ch. 2001-261; s. 18, ch. 2006-26; s. 10, ch. 2007-105; s. 12, ch. 2009-80; s. 46, ch. 2010-5; s. 9, ch. 2011-50.</History>
+</Section>

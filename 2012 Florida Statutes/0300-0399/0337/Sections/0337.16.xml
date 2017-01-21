@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0337.16" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disqualification of delinquent contractors from bidding; determination of contractor nonresponsibility; denial, suspension, and revocation of certificates of qualification; grounds; hearing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A contractor shall not be qualified to bid when an investigation by the department discloses that such contractor is delinquent on a previously awarded contract, and in such case the contractor’s certificate of qualification shall be suspended or revoked. Any contractor whose certificate of qualification is suspended or revoked for delinquency shall also be disapproved as a subcontractor during the period of suspension or revocation, except when a prime contractor’s bid has used prices of a subcontractor who becomes disqualified after the bid and before the request for authorization to sublet is presented.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A contractor is delinquent when the allowed contract time has expired and the contract work is not complete.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall inform the contractor in writing of its intent to deny, suspend, or revoke his or her certificate of qualification to bid on work let by the department for delinquency and inform the contractor of his or her right to a hearing, the procedure which must be followed, and the applicable time limits. If a hearing is requested within 10 days after the receipt of the notice of intent, the hearing shall be held within 30 days after receipt by the administrative law judge of the request for the hearing. The recommended order shall be issued within 15 days after the hearing. The contractor’s application for a certificate of qualification shall be denied or the contractor’s current certificate of qualification shall be suspended for the number of days that it is administratively determined that the contractor was delinquent even if the delinquency is cured during the pendency of the hearing proceedings.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In addition to the period of suspension required in paragraph (b), the department shall deny or suspend the certificate of qualification of such contractor in accordance with the following schedule: If a contractor has been suspended twice within an 18-month period, the period of suspension shall be 3 months; if such contractor has been suspended twice within a 24-month period, the period of suspension shall be 2 months; and, if such contractor has been suspended 3 times within a 30-month period, the period of suspension shall be 4 months. The department shall inform the contractor in writing of its intent to deny or suspend his or her certificate of qualification to bid on work let by the department and inform the contractor of his or her right to a hearing, the procedure which must be followed, and the applicable time limits. If a hearing is requested within 10 days after the receipt of the notice of intent, the hearing shall be held within 30 days after receipt of the request for the hearing. Upon a determination that the contractor’s certificate of qualification had been suspended for delinquency, it shall deny or suspend the certificate of the contractor as provided in this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Such suspension or revocation shall not affect the contractor’s obligations under any preexisting contract.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For reasons other than delinquency in progress, the department, for good cause, may determine any contractor not having a certificate of qualification nonresponsible for a specified period of time or may deny, suspend, or revoke any certificate of qualification. Good cause includes, but is not limited to, circumstances in which a contractor or the contractor’s official representative:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Makes or submits to the department false, deceptive, or fraudulent statements or materials in any bid proposal to the department, any application for a certificate of qualification, any certification of payment pursuant to s. 337.11(11), or any administrative or judicial proceeding;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Becomes insolvent or is the subject of a bankruptcy petition;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Fails to comply with contract requirements, in terms of payment or performance record, or to timely furnish contract documents as required by the contract or by any state or federal statute or regulation;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Wrongfully employs or otherwise provides compensation to any employee or officer of the department, or willfully offers an employee or officer of the department any pecuniary or other benefit with the intent to influence the employee or officer’s official action or judgment;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Is an affiliate of a contractor who has been determined nonresponsible or whose certificate of qualification has been suspended or revoked and the affiliate is dependent upon such contractor for personnel, equipment, bonding capacity, or finances; or</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Fails to register, pursuant to chapter 320, motor vehicles that he or she operates in this state.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 95, ch. 29965, 1955; ss. 23, 35, ch. 69-106; s. 56, ch. 78-95; s. 150, ch. 84-309; s. 27, ch. 85-180; s. 5, ch. 87-93; s. 8, ch. 87-100; s. 3, ch. 87-104; s. 47, ch. 90-136; s. 15, ch. 94-237; s. 965, ch. 95-148; s. 71, ch. 96-410; s. 19, ch. 99-385; s. 66, ch. 2010-5.</History>
+</Section>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.73" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department of Education; powers and duties; accountability requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall administer the accountability requirements of the Voluntary Prekindergarten Education Program at the state level.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt procedures for its:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Approval of prekindergarten director credentials under ss. 1002.55 and 1002.57.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Approval of emergent literacy training courses under ss. 1002.55 and 1002.59.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Administration of the statewide kindergarten screening and calculation of kindergarten readiness rates under s. 1002.69.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Implementation of, and determination of costs associated with, the state-approved prekindergarten enrollment screening and the standardized postassessment approved by the department, and determination of the learning gains of students who complete the state-approved prekindergarten enrollment screening and the standardized postassessment approved by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Approval of specialized instructional services providers under s. 1002.66.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Annual reporting of the percentage of kindergarten students who meet all state readiness measures.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Granting of a private prekindergarten provider’s or public school’s request for a good cause exemption under s. 1002.69(7).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Except as provided by law, the department may not impose requirements on a private prekindergarten provider that does not deliver the Voluntary Prekindergarten Education Program or receive state funds under this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-484; s. 8, ch. 2009-3; s. 31, ch. 2010-210; s. 6, ch. 2010-227; s. 14, ch. 2011-175.</History>
+</Section>

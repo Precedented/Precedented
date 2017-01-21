@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0083.806" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Enforcement of lien.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">An owner’s lien as provided in s. 83.805 may be satisfied as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The tenant shall be notified by written notice delivered in person, by e-mail, or by first-class mail with a certificate of mailing to the tenant’s last known address and conspicuously posted at the self-service storage facility or on the self-contained storage unit. If the owner sends notice of a pending sale of property to the tenant’s last known e-mail address and does not receive a response, return receipt, or delivery confirmation from the same e-mail address, the owner must send notice of the sale to the tenant by first-class mail with a certificate of mailing to the tenant’s last known address before proceeding with the sale.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The notice shall include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An itemized statement of the owner’s claim, showing the sum due at the time of the notice and the date when the sum became due.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The same description, or a reasonably similar description, of the personal property as provided in the rental agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A demand for payment within a specified time not less than 14 days after delivery of the notice.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A conspicuous statement that, unless the claim is paid within the time stated in the notice, the personal property will be advertised for sale or other disposition and will be sold or otherwise disposed of at a specified time and place.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The name, street address, and telephone number of the owner whom the tenant may contact to respond to the notice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any notice given pursuant to this section shall be presumed delivered when it is deposited with the United States Postal Service and properly addressed with postage prepaid.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">After the expiration of the time given in the notice, an advertisement of the sale or other disposition shall be published once a week for 2 consecutive weeks in a newspaper of general circulation in the area where the self-service storage facility or self-contained storage unit is located. Inasmuch as any sale may involve property of more than one tenant, a single advertisement may be used to dispose of property at any one sale.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The advertisement shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A brief and general description of what is believed to constitute the personal property contained in the storage unit, as provided in paragraph (2)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The address of the self-service storage facility or the address where the self-contained storage unit is located and the name of the tenant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The time, place, and manner of the sale or other disposition. The sale or other disposition shall take place not sooner than 15 days after the first publication.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If there is no newspaper of general circulation in the area where the self-service storage facility or self-contained storage unit is located, the advertisement shall be posted at least 10 days before the date of the sale or other disposition in not fewer than three conspicuous places in the neighborhood where the self-service storage facility or self-contained storage unit is located.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any sale or other disposition of the personal property shall conform to the terms of the notification as provided for in this section and shall be conducted in a commercially reasonable manner, as that term is used in s. 679.610.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Before any sale or other disposition of personal property pursuant to this section, the tenant may pay the amount necessary to satisfy the lien and the reasonable expenses incurred under this section and thereby redeem the personal property. Upon receipt of such payment, the owner shall return the property to the tenant and thereafter shall have no liability to any person with respect to such personal property. If the tenant fails to redeem the personal property or satisfy the lien, including reasonable expenses, he or she will be deemed to have unjustifiably abandoned the self-service storage facility or self-contained storage unit, and the owner may resume possession of the premises for himself or herself.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A purchaser in good faith of the personal property sold to satisfy a lien provided for in s. 83.805 takes the property free of any claims, except those interests provided for in s. 83.808, despite noncompliance by the owner with the requirements of this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">In the event of a sale under this section, the owner may satisfy his or her lien from the proceeds of the sale, provided the owner’s lien has priority over all other liens in the personal property. The lien rights of secured lienholders are automatically transferred to the remaining proceeds of the sale. The balance, if any, shall be held by the owner for delivery on demand to the tenant. A notice of any balance shall be delivered by the owner to the tenant in person or by first-class mail with a certificate of mailing to the last known address of the tenant. If the tenant does not claim the balance of the proceeds within 2 years after the date of sale, the proceeds shall be deemed abandoned, and the owner shall have no further obligation with regard to the payment of the balance. In the event that the owner’s lien does not have priority over all other liens, the sale proceeds shall be held for the benefit of the holders of those liens having priority. A notice of the amount of the sale proceeds shall be delivered by the owner to the tenant or secured lienholders in person or by first-class mail with a certificate of mailing to their last known addresses. If the tenant or the secured lienholders do not claim the sale proceeds within 2 years after the date of sale, the proceeds shall be deemed abandoned, and the owner shall have no further obligation with regard to the payment of the proceeds.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 79-404; s. 5, ch. 82-151; s. 3, ch. 92-36; s. 4, ch. 93-238; s. 454, ch. 95-147; s. 15, ch. 2002-1; s. 2, ch. 2012-175.</History>
+</Section>

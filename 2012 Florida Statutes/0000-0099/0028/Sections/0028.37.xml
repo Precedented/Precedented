@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0028.37" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fines, fees, service charges, and costs remitted to the state.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 14(b), Art. V of the State Constitution, selected salaries, costs, and expenses of the state courts system and court-related functions shall be funded from a portion of the revenues derived from statutory fines, fees, service charges, and costs collected by the clerks of the court.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in ss. 28.241 and 34.041, all court-related fines, fees, service charges, and costs are considered state funds and shall be remitted by the clerk to the Department of Revenue for deposit into the Clerks of the Court Trust Fund within the Justice Administrative Commission. However, 10 percent of all court-related fines collected by the clerk, except for penalties or fines distributed to counties or municipalities under s. 316.0083(1)(b)3. or s. 318.18(15)(a), shall be deposited into the clerk’s Public Records Modernization Trust Fund to be used exclusively for additional clerk court-related operational needs and program enhancements.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 38, ch. 2003-402; s. 25, ch. 2004-265; s. 12, ch. 2005-236; s. 5, ch. 2009-204; s. 5, ch. 2012-100.</History>
+</Section>

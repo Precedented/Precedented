@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.385" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Local government bonds; sale.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All general obligation bonds and revenue bonds sold by a unit of local government, as defined in s. 218.369, shall be sold at public sale by competitive bids at such place or places as the governing body shall determine to receive proposals for the purchase of such bonds. Notice of such sale shall be published one or more times at least 10 days prior to the date of sale in one or more newspapers or financial journals published within or without the state and shall contain such terms as the governing body shall deem advisable and proper under the circumstances. However, if the governing body shall by resolution adopted at a public meeting determine that a negotiated sale of such bonds is in the best interest of the issuer, the governing body may negotiate for sale of such bonds.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the resolution authorizing the negotiated sale, the local governing body shall provide specific findings as to the reasons requiring the negotiated sale.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A resolution authorizing a negotiated bond sale may be the same resolution as that authorizing the issuance of such bonds.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Prior to the award of bonds, all proposals for the purchase of any bonds offered by a unit of local government as defined in s. 218.369 shall include a truth-in-bonding statement in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">The <Directions xml:space="preserve">(insert unit of local government)</Directions> is proposing to issue $<Directions xml:space="preserve">(insert principal)</Directions> of debt or obligation for the purpose of <Directions xml:space="preserve">(insert purpose)</Directions>. This debt or obligation is expected to be repaid over a period of <Directions xml:space="preserve">(insert term of issue)</Directions> years. At a forecasted interest rate of <Directions xml:space="preserve">(insert rate of interest)</Directions>, total interest paid over the life of the debt or obligation will be $<Directions xml:space="preserve">(insert sum of interest payments)</Directions>.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Truth-in-bonding statements shall also include language in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">The source of repayment or security for this proposal is the <Directions xml:space="preserve">(insert the unit of local government)</Directions> existing <Directions xml:space="preserve">(insert fund)</Directions>. Authorizing this debt or obligation will result in $<Directions xml:space="preserve">(insert the annual amount)</Directions> of <Directions xml:space="preserve">(insert unit of local government)</Directions><Directions xml:space="preserve">(insert fund)</Directions> moneys not being available to finance the other services of the <Directions xml:space="preserve">(insert unit of local government)</Directions> each year for <Directions xml:space="preserve">(insert the length of the debt or obligation)</Directions>.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All proposals for the purchase of any bonds offered by a unit of local government shall be opened in public. Such bonds when competitively bid shall be awarded by resolution to the lowest bid consistent with the notice of sale.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">No bid conforming to the notice of sale may be rejected unless all bids are rejected. If all bids are rejected, such bonds may be sold thereafter at public sale by competitive bids or by negotiated sale pursuant to this section.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In the event the local governing body decides to negotiate for a sale of bonds, the managing underwriter, or financial consultant or adviser if applicable, shall provide to the unit of local government, prior to the award of bonds to the managing underwriter, a disclosure statement containing the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An itemized list setting forth the nature and estimated amounts of expenses to be incurred by the managing underwriter in connection with the issuance of such bonds. Notwithstanding the foregoing, any such list may include an item for miscellaneous expenses, provided it includes only minor items of expense which cannot be easily categorized elsewhere in the statement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The names, addresses, and estimated amounts of compensation of any finders, as defined in s. 218.386, connected with the issuance of the bonds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The amount of underwriting spread expected to be realized.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any management fee charged by the managing underwriter.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any other fee, bonus, and other compensation estimated to be paid by the managing underwriter in connection with the bond issue to any person not regularly employed or retained by it.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The name and address of the managing underwriter or underwriters, if any, connected with the bond issue.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Any other disclosure which the local governing body may require.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection is not intended to restrict or prohibit the employment of professional services relating to local government bond issues.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The failure of a unit of local government to comply with one or more provisions of this section or s. 218.38 shall not affect the validity of the bond issue; however, upon such failure to comply, the unit of local government shall be subject to the sanctions provided in s. 218.38(3).</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The truth-in-bonding statements prepared pursuant to this section are for informational purposes only and shall not affect or control the actual terms and conditions of the debt or obligations.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 80-98; s. 125, ch. 81-259; s. 3, ch. 82-195; s. 84, ch. 92-142.</History>
+</Section>

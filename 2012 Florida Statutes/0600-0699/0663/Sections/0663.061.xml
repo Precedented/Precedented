@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.061" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">International bank agencies; permissible activities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An international bank agency licensed under this part may make any loan, extension of credit, or investment which it could make if incorporated and operating as a bank organized under the laws of this state. An international bank agency may act as custodian and may furnish investment management, and investment advisory services authorized under rules adopted by the commission, to nonresident entities or persons whose principal places of business or domicile are outside the United States and to resident entities or persons with respect to international or foreign investments. An international banking corporation which has an international bank agency licensed under the terms of this part shall be exempt from the registration requirements of s. 517.12.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An international bank agency may not receive deposits in this state except:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Deposits from nonresident entities or persons whose principal places of business or domicile are outside the United States.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Interbank deposits; interbank borrowing, or similar interbank obligations.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">International banking facility deposits as defined pursuant to s. 655.071. An international bank agency may maintain in this state, for the account of others, credit balances necessarily incidental to, or arising out of, the exercise of its lawful powers. Such credit balances may be disbursed by check or other draft; however, the commission shall, by rule, provide appropriate limitations upon third-party disbursements to ensure that credit balances are not functionally equivalent to demand deposits. In establishing the limitations, the commission may provide that such disbursement may not exceed an average of 20 checks or drafts per day.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of this chapter or chapter 658 to the contrary, an international banking corporation licensed under this part to operate an international bank agency may, if authorized by rule of the commission or office order, make any loan or investment or exercise any power which it could make or exercise if it were operating in this state as a federal agency under federal law. The commission and office shall, when adopting such rules or issuing such orders, consider the public interest and convenience and the need to maintain a safe, sound, and competitive state banking system. Unless otherwise provided by statute, an international bank agency may not exercise any powers that a federal agency is not authorized to exercise.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of subsection (1), any international banking corporation organized and existing under the laws of any other state and licensed to operate an international bank agency may engage only in those activities permissible for an Edge Act corporation organized under s. 25(a) of the Federal Reserve Act, as amended, 12 U.S.C. ss. 611-632.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">With the prior authorization of the office pursuant to s. 660.26, an international bank agency may accept appointments as trustee by nonresident persons or entities and may exercise trust powers with respect to such fiduciary accounts. Except for the foregoing limitation, the trust activities of an international bank agency shall be subject to the same requirements and may be conducted in the same manner as the trust business of a state trust company or state bank with trust powers.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 157, ch. 92-303; s. 1820, ch. 2003-261; s. 8, ch. 2010-9.</History>
+</Section>

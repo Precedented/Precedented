@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0287.084" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Preference to Florida businesses.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">When an agency, university, college, school district, or other political subdivision of the state is required to make purchases of personal property through competitive solicitation and the lowest responsible and responsive bid, proposal, or reply is by a vendor whose principal place of business is in a state or political subdivision thereof which grants a preference for the purchase of such personal property to a person whose principal place of business is in such state, then the agency, university, college, school district, or other political subdivision of this state shall award a preference to the lowest responsible and responsive vendor having a principal place of business within this state, which preference is equal to the preference granted by the state or political subdivision thereof in which the lowest responsible and responsive vendor has its principal place of business. In a competitive solicitation in which the lowest bid is submitted by a vendor whose principal place of business is located outside the state and that state does not grant a preference in competitive solicitation to vendors having a principal place of business in that state, the preference to the lowest responsible and responsive vendor having a principal place of business in this state shall be 5 percent.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Paragraph (a) does not apply to transportation projects for which federal aid funds are available.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “other political subdivision of this state” does not include counties or municipalities.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A vendor whose principal place of business is outside this state must accompany any written bid, proposal, or reply documents with a written opinion of an attorney at law licensed to practice law in that foreign state, as to the preferences, if any or none, granted by the law of that state to its own business entities whose principal places of business are in that foreign state in the letting of any or all public contracts.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A vendor whose principal place of business is in this state may not be precluded from being an authorized reseller of information technology commodities of a state contractor as long as the vendor demonstrates that it employs an internationally recognized quality management system, such as ISO 9001 or its equivalent, and provides a warranty on the information technology commodities which is, at a minimum, of equal scope and length as that of the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This subsection applies to any renewal of any state contract executed on or after July 1, 2012.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-460; s. 117, ch. 79-400; s. 215, ch. 95-148; s. 3, ch. 95-420; ss. 16, 53, ch. 99-228; s. 6, ch. 2000-340; s. 23, ch. 2002-207; s. 14, ch. 2012-32.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 25, ch. 2012-32, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0559.951" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Internet sales; prohibited practices.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Initial merchant” means a person who obtains a consumer’s billing information directly from the consumer through an Internet transaction initiated by the consumer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Posttransaction third-party seller” means a person who:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Sells or offers for sale any good or service over the Internet; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Solicits the purchase of such good or service over the Internet through an initial merchant after the consumer has initiated a transaction with the initial merchant.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The term does not include the initial merchant, a subsidiary or corporate affiliate of the initial merchant, or a successor of the initial merchant.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A posttransaction third-party seller may not charge or attempt to charge a consumer’s credit card, debit card, bank account, or other account for any good or service sold in a transaction conducted over the Internet, unless:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Before obtaining the consumer’s billing information, the posttransaction third-party seller clearly and conspicuously discloses to the consumer all material terms of the transaction, including:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A description of the goods or services being offered.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A statement that the posttransaction third-party seller is not affiliated with the initial merchant. Such statement must include the disclosure of the posttransaction third-party seller’s name in a manner that clearly differentiates the posttransaction third-party seller from the initial merchant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The cost of such goods or services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">How and when the charges will be processed by the posttransaction third-party seller.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The posttransaction third-party seller receives the express informed consent for the charge from the consumer whose credit card, debit card, bank account, or other account will be charged by:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Obtaining from the consumer:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The full account number of the account to be charged or other account information necessary to complete the transaction.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The consumer’s name and address.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A means to contact the consumer.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Requiring the consumer to perform an additional affirmative action, such as selecting a confirmation button or checking a box, which clearly and conspicuously indicates the consumer’s consent to be charged the amount disclosed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Before processing the consumer’s credit card or otherwise charging the consumer or soon thereafter, the posttransaction third-party seller sends written notice confirming the transaction to the consumer by first-class United States mail or e-mail. Such notice must clearly and conspicuously disclose the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The good or service purchased.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The amount that the consumer will be charged.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The timing and frequency of charges.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A short and plain statement disclosing the posttransaction third-party seller’s cancellation and refund policy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A telephone number, mailing address, Internet website address, and e-mail address where the posttransaction third-party seller may be contacted.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The name of the initial merchant or fictitious name under which the initial merchant is doing business, if known.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The name of the posttransaction third-party seller or fictitious name under which the posttransaction third-party seller is doing business.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A statement that the posttransaction third-party seller is an unaffiliated and separate entity from the initial merchant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A statement that the consumer is being charged by the posttransaction third-party seller for a transaction that is separate from the consumer’s transaction with the initial merchant.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">If the posttransaction third-party seller sends the notice required under this paragraph by e-mail, the only words appearing in the e-mail’s subject line shall be “Notice that (<Directions xml:space="preserve">name or fictitious name of the posttransaction third-party seller</Directions>) is charging your (<Directions xml:space="preserve">type of account</Directions>) account.”</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An initial merchant may not disclose a consumer’s credit card number, debit card number, bank account number, or other account number, or disclose other consumer billing information, to a posttransaction third-party seller.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A posttransaction third-party seller may not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Charge a consumer without providing a simple mechanism for the consumer to cancel the good or service and stop charges within a reasonable time after delivery of the written notice confirming the transaction; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Change its vendor code, or otherwise materially change the way the posttransaction third-party seller is identified on the consumer’s account, more than once per year, unless the posttransaction third-party seller provides the consumer with written notice of the change.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A violation of this section is deemed an unfair or deceptive trade practice within the meaning of part II of chapter 501. A person who violates this section is subject to the penalties and remedies provided therein.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2011-156.</History>
+</Section>

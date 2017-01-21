@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0945.355" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">HIV testing of inmates prior to release.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “HIV test” means a test ordered to determine the presence of the antibody or antigen to human immunodeficiency virus or the presence of human immunodeficiency virus infection.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If an inmate’s HIV status is unknown to the department, the department shall, pursuant to <Reference Number="1"/>s. 381.004(3), perform an HIV test on the inmate not less than 60 days prior to the inmate’s presumptive release date from prison by reason of parole, accumulation of gain-time credits, or expiration of sentence. An inmate who is known to the department to be HIV positive or who has been tested within the previous year and does not request retesting need not be tested under this section but is subject to subsections (4) and (5). However, an inmate who is released due to an emergency is exempt from the provisions of this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall record the results of the HIV test in the inmate’s medical record.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Pursuant to ss. <Reference Number="1"/>381.004(3) and 945.10, the department shall notify the Department of Health and the county health department where the inmate plans to reside regarding an inmate who is known to be HIV positive or has received an HIV positive test result under this section prior to the release of that inmate.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Prior to the release of an inmate who is known to be HIV positive or who has received a positive HIV test result under this section, the department shall provide special transitional assistance to the inmate, which must include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Education on preventing the transmission of HIV to others and on the importance of receiving followup care and treatment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A written, individualized discharge plan that includes referrals to and contacts with the county health department and local HIV primary care services in the area where the inmate plans to reside.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A 30-day supply of all HIV/AIDS-related medications that the inmate is taking prior to release under the protocols of the Department of Corrections and the treatment guidelines of the United States Department of Health and Human Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any provision of the Florida Statutes providing for a waiver of sovereign immunity, neither the state, its agencies, subdivisions nor employees of the state, its agencies, or subdivisions shall be liable to any person for negligently causing death or personal injury arising out of complying with this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 6, ch. 2002-292; s. 112, ch. 2003-1.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Redesignated as s. 381.004(2) by s. 21, ch. 2012-184.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0010.17" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Severability.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">If any provision of this joint resolution or the application thereof to any person or circumstance is held invalid, or if any representative or senatorial district established in this joint resolution is held invalid, the invalidity does not affect other provisions or applications of this joint resolution, or any other districts established in this joint resolution, which can be given effect without the invalid provision or application, and to this end the provisions of this joint resolution are severable.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, CS for SJR 1176, 2012 Regular Session.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro"> Reapportionment of senatorial districts by Committee Substitute for Senate Joint Resolution 1176, 2012 Regular Session, was invalidated by the Florida Supreme Court in <Font xml:space="preserve" Style="Italic">In re: Senate Joint Resolution of Legislative Apportionment 1176, No. SC12-1</Font> (Fla. March 9, 2012). Section 1, Committee Substitute for Senate Joint Resolution 2-B, 2012 Special Session B, readopted and amended s. 3, Committee Substitute for Joint Resolution 1176, to address the invalidity issues.</Text>
+	</Note>
+</Section>

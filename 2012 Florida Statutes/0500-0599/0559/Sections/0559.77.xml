@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0559.77" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Civil remedies.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A debtor may bring a civil action against a person violating the provisions of s. 559.72 in the county in which the alleged violator resides or has his or her principal place of business or in the county where the alleged violation occurred.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any person who fails to comply with any provision of s. 559.72 is liable for actual damages and for additional statutory damages as the court may allow, but not exceeding $1,000, together with court costs and reasonable attorney’s fees incurred by the plaintiff. In determining the defendant’s liability for any additional statutory damages, the court shall consider the nature of the defendant’s noncompliance with s. 559.72, the frequency and persistence of the noncompliance, and the extent to which the noncompliance was intentional. In a class action lawsuit brought under this section, the court may award additional statutory damages of up to $1,000 for each named plaintiff and an aggregate award of additional statutory damages up to the lesser of $500,000 or 1 percent of the defendant’s net worth for all remaining class members; however, the aggregate award may not provide an individual class member with additional statutory damages in excess of $1,000. The court may award punitive damages and may provide such equitable relief as it deems necessary or proper, including enjoining the defendant from further violations of this part. If the court finds that the suit fails to raise a justiciable issue of law or fact, the plaintiff is liable for court costs and reasonable attorney’s fees incurred by the defendant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A person may not be held liable in any action brought under this section if the person shows by a preponderance of the evidence that the violation was not intentional and resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid such error.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An action brought under this section must be commenced within 2 years after the date the alleged violation occurred.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In applying and construing this section, due consideration and great weight shall be given to the interpretations of the Federal Trade Commission and the federal courts relating to the federal Fair Debt Collection Practices Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 23, ch. 72-81; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 9, ch. 78-95; ss. 3, 6, ch. 81-314; ss. 2, 3, ch. 81-318; ss. 1, 3, ch. 83-265; ss. 10, 13, ch. 93-275; s. 820, ch. 97-103; s. 2, ch. 2001-206; s. 9, ch. 2010-127.</History>
+</Section>

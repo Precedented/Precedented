@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0411.01014" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School readiness transportation services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Office of Early Learning, pursuant to chapter 427, may authorize an early learning coalition to establish school readiness transportation services for children at risk of abuse or neglect participating in the school readiness program. The early learning coalitions may contract for the provision of transportation services as required by this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The transportation servicers may only provide transportation to each child participating in the school readiness program to the extent that such transportation is necessary to provide child care opportunities that otherwise would not be available to a child whose home is more than a reasonable walking distance from the nearest child care facility or family day care home.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 40, ch. 90-306; s. 13, ch. 2010-210; s. 308, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 402.3145.</Text>
+	</Note>
+</Section>

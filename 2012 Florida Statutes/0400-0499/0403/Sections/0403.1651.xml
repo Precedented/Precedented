@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.1651" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Ecosystem Management and Restoration Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created the Ecosystem Management and Restoration Trust Fund to be administered by the Department of Environmental Protection for the purposes of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Funding the detailed planning for and implementation of programs for the management and restoration of ecosystems.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Funding the development and implementation of surface water improvement and management plans and programs under ss. 373.451-373.4595.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Funding activities to restore polluted areas of the state, as defined by the department, to their condition before pollution occurred or to otherwise enhance pollution control activities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Funding activities to restore or rehabilitate injured or destroyed coral reefs.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Funding activities by the department to recover moneys as a result of actions against any person for a violation of chapter 373.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Funding activities authorized for the implementation of the Leah Schad Memorial Ocean Outfall Program implemented in s. 403.086(9).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">Funding activities to preserve and repair the state’s beaches as provided in ss. 161.091-161.212. This paragraph expires July 1, 2013.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The trust fund shall be used for the deposit of all moneys recovered by the state:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As a result of actions against any person for a violation of chapter 373 or this chapter initiated by the department. No settlement entered into by the department shall limit the Legislature’s authority to appropriate moneys from the trust fund; provided, however, that the department may enter into a settlement in which the department agrees to request that moneys received pursuant to the settlement will be included in its legislative budget request for purposes set out in the settlement; and provided further, that the department may enter into a settlement in cases involving joint enforcement with the Hillsborough County pollution control program, as a program approved by the department pursuant to s. 403.182, in which the department agrees that moneys are to be deposited into that local program’s pollution recovery fund and used for projects directed toward addressing the environmental damage that was the cause of action for which funds were received and that are consistent with the purposes of the Ecosystem Management and Restoration Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For injury to or destruction of coral reefs, which moneys would otherwise be deposited into the General Revenue Fund or the Internal Improvement Trust Fund. The department may enter into settlement agreements that require responsible parties to pay a third party to fund projects related to the restoration of a coral reef, to accomplish mitigation for injury to a coral reef, or to support the activities of law enforcement agencies related to coral reef injury response, investigation, and assessment. Participation of a law enforcement agency in the receipt of funds through this mechanism shall be at the law enforcement agency’s discretion.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">From other sources otherwise specified by law.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 96-176; s. 2, ch. 98-117; s. 8, ch. 2008-232; ss. 32, 33, ch. 2009-82; s. 58, ch. 2009-86; ss. 27, 28, 29, ch. 2010-153; ss. 34, 35, ch. 2011-47; s. 8, ch. 2012-6; s. 27, ch. 2012-119.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 27, ch. 2012-119, amended paragraph (1)(g) “[i]n order to implement Specific Appropriations 1664 through 1666 and 1668 and section 60 of the 2012-2013 General Appropriations Act.”</Text>
+	</Note>
+</Section>

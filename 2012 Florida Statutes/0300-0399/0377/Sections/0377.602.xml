@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0377.602" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 377.601-377.608:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Agriculture and Consumer Services.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Energy resources” includes, but shall not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Energy converted from solar radiation, wind, hydraulic potential, tidal movements, biomass, geothermal sources, and other energy resources the department determines to be important to the production or supply of energy.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Propane, butane, motor gasoline, kerosene, home heating oil, diesel fuel, other middle distillates, aviation gasoline, kerosene-type jet fuel, naphtha-type jet fuel, residual fuels, crude oil, and other petroleum products and hydrocarbons as may be determined by the department to be of importance.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All natural gas, including casinghead gas, all other hydrocarbons not defined as petroleum products in paragraph (b), and liquefied petroleum gas as defined in s. 527.01.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">All types of coal and products derived from its conversion and used as fuel.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">All types of nuclear energy, special nuclear material, and source material, as defined in former s. 290.07.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">All electrical energy.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Person” means producer, refiner, wholesaler, marketer, consignee, jobber, distributor, storage operator, importer, exporter, firm, corporation, broker, cooperative, public utility as defined in s. 366.02, rural electrification cooperative, municipality engaged in the business of providing electricity or other energy resources to the public, pipeline company, person transporting any energy resources as defined in subsection (2), and person holding energy reserves for further production; however, “person” does not include persons exclusively engaged in the retail sale of petroleum products.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 74-186; s. 122, ch. 77-104; s. 2, ch. 78-25; s. 123, ch. 79-190; s. 5, ch. 91-113; s. 12, ch. 2004-243; s. 47, ch. 2008-227; s. 506, ch. 2011-142.</History>
+</Section>

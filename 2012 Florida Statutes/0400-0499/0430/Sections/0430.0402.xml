@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0430.0402">
+	<Catchline xml:space="preserve">Screening of direct service providers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in subsection (2), level 2 background screening pursuant to chapter 435 is required for direct service providers. Background screening includes employment history checks as provided in s. 435.03(1) and local criminal records checks through local law enforcement agencies.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “direct service provider” means a person 18 years of age or older who, pursuant to a program to provide services to the elderly, has direct, face-to-face contact with a client while providing services to the client and has access to the client’s living areas, funds, personal property, or personal identification information as defined in s. 817.568. The term includes coordinators, managers, and supervisors of residential facilities and volunteers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Level 2 background screening pursuant to chapter 435 and this section is not required for the following direct service providers:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Licensed physicians, nurses, or other professionals licensed by the Department of Health who have been fingerprinted and undergone background screening as part of their licensure; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Attorneys in good standing with The Florida Bar;</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">if they are providing a service that is within the scope of their licensed practice.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Relatives. For purposes of this section, the term “relative” means an individual who is the father, mother, stepfather, stepmother, son, daughter, brother, sister, grandmother, grandfather, great-grandmother, great-grandfather, grandson, granddaughter, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepson, stepdaughter, stepbrother, stepsister, half-brother, or half-sister of the client.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Volunteers who assist on an intermittent basis for less than 20 hours per month and who are not listed on the Department of Law Enforcement Career Offender Search or the Dru Sjodin National Sex Offender Public Website.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The program that provides services to the elderly is responsible for verifying that the volunteer is not listed on either database.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Once the department is participating as a specified agency in the clearinghouse created under s. 435.12, the provider shall forward the volunteer information to the Department of Elderly Affairs if the volunteer is not listed in either database specified in subparagraph 1. The department must then perform a check of the clearinghouse. If a disqualification is identified in the clearinghouse, the volunteer must undergo level 2 background screening pursuant to chapter 435 and this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Until the department is participating as a specified agency in the clearinghouse created under s. 435.12, the department may not require additional level 2 screening if the individual is qualified for licensure or employment by the Agency for Health Care Administration pursuant to the agency’s background screening standards under s. 408.809 and the individual is providing a service that is within the scope of his or her licensed practice or employment.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Refusal on the part of an employer to dismiss a manager, supervisor, or direct service provider who has been found to be in noncompliance with standards of this section shall result in the automatic denial, termination, or revocation of the license or certification, rate agreement, purchase order, or contract, in addition to any other remedies authorized by law.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Individuals serving as direct service providers on July 31, 2011, must be screened by July 1, 2013. The department may adopt rules to establish a schedule to stagger the implementation of the required screening over a 1-year period, beginning July 1, 2012, through July 1, 2013.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An employer of a direct service provider who previously qualified for employment or volunteer work under Level 1 screening standards or an individual who is required to be screened according to the level 2 screening standards contained in chapter 435, pursuant to this section, shall be rescreened every 5 years following the date of his or her last background screening or exemption, unless such individual’s fingerprints are continuously retained and monitored by the Department of Law Enforcement in the federal fingerprint retention program according to the procedures specified in s. 943.05.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The background screening conducted pursuant to this section must ensure that, in addition to the disqualifying offenses listed in s. 435.04, no person subject to the provisions of this section has an arrest awaiting final disposition for, has been found guilty of, regardless of adjudication, or entered a plea of nolo contendere or guilty to, or has been adjudicated delinquent and the record has not been sealed or expunged for, any offense prohibited under any of the following provisions of state law or similar law of another jurisdiction:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Section 409.920, relating to Medicaid provider fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Section 409.9201, relating to Medicaid fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Section 817.034, relating to fraudulent acts through mail, wire, radio, electromagnetic, photoelectronic, or photooptical systems.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Section 817.234, relating to false and fraudulent insurance claims.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Section 817.505, relating to patient brokering.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Section 817.568, relating to criminal use of personal identification information.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Section 817.60, relating to obtaining a credit card through fraudulent means.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Section 817.61, relating to fraudulent use of credit cards, if the offense was a felony.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Section 831.01, relating to forgery.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Section 831.02, relating to uttering forged instruments.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Section 831.07, relating to forging bank bills, checks, drafts, or promissory notes.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Section 831.09, relating to uttering forged bank bills, checks, drafts, or promissory notes.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2010-114; s. 8, ch. 2012-73.</History>
+</Section>

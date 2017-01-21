@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0628.909" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Applicability of other laws.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Insurance Code does not apply to captive insurers or industrial insured captive insurers except as provided in this part and subsections (2) and (3).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following provisions of the Florida Insurance Code apply to captive insurers who are not industrial insured captive insurers to the extent that such provisions are not inconsistent with this part:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Chapter 624, except for ss. 624.407, 624.408, 624.4085, 624.40851, 624.4095, 624.425, and 624.426.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Chapter 625, part II.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Chapter 626, part IX.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Sections 627.730-627.7405, when no-fault coverage is provided.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Chapter 628.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The following provisions of the Florida Insurance Code apply to industrial insured captive insurers to the extent that such provisions are not inconsistent with this part:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Chapter 624, except for ss. 624.407, 624.408, 624.4085, 624.40851, 624.4095, 624.425, 624.426, and 624.609(1).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Chapter 625, part II, if the industrial insured captive insurer is incorporated in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Chapter 626, part IX.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Sections 627.730-627.7405 when no-fault coverage is provided.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Chapter 628, except for ss. 628.341, 628.351, and 628.6018.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 664, 809(1st), ch. 82-243; s. 46, ch. 83-215; ss. 5, 11, ch. 87-127; s. 34, ch. 87-226; ss. 187, 188, ch. 91-108; s. 4, ch. 91-429; s. 33, ch. 95-211; s. 67, ch. 2001-63; s. 122, ch. 2005-2; s. 24, ch. 2012-151.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 628.607.</Text>
+	</Note>
+</Section>

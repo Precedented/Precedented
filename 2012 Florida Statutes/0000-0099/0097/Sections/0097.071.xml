@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0097.071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Voter information card.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A voter information card shall be furnished by the supervisor to all registered voters residing in the supervisor’s county. The card must contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Voter’s registration number.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Date of registration.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Full name.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Party affiliation.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Date of birth.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Address of legal residence.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Precinct number.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Polling place address.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Name of supervisor and contact information of supervisor.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Other information deemed necessary by the supervisor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A voter may receive a replacement voter information card by providing a signed, written request for a replacement card to a voter registration official. Upon verification of registration, the supervisor shall issue the voter a duplicate card without charge.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In the case of a change of name, address of legal residence, polling place address, or party affiliation, the supervisor shall issue the voter a new voter information card.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 3879, 1889; RS 167; s. 15, ch. 4328, 1895; GS 191, 192; RGS 235, 236; CGL 288, 289; s. 4, ch. 24203, 1947; s. 11, ch. 25035, 1949; s. 1, ch. 26870, 1951; s. 10, ch. 27991, 1953; s. 6, ch. 65-60; s. 8, ch. 69-377; ss. 10, 35, ch. 69-106; s. 18, ch. 94-224; s. 28, ch. 97-13; s. 7, ch. 98-129; s. 2, ch. 2000-250; s. 4, ch. 2002-189; s. 8, ch. 2005-277; s. 12, ch. 2005-278; s. 4, ch. 2005-286; s. 5, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former ss. 98.31 and 98.32.</Text>
+	</Note>
+</Section>

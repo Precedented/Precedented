@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.2011" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Bases for jurisdiction over nonresident.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In a proceeding to establish, enforce, or modify a support order or to determine parentage, a tribunal of this state may exercise personal jurisdiction over a nonresident individual or the individual’s guardian or conservator if:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The individual is personally served with citation, summons, or notice within this state;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The individual submits to the jurisdiction of this state by consent, by entering a general appearance, or by filing a responsive document having the effect of waiving any contest to personal jurisdiction;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The individual resided with the child in this state;</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The individual resided in this state and provided prenatal expenses or support for the child;</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The child resides in this state as a result of the acts or directives of the individual;</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The individual engaged in sexual intercourse in this state and the child may have been conceived by that act of intercourse;</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The individual asserted parentage in a tribunal or in a putative father registry maintained in this state by the appropriate agency; or</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">There is any other basis consistent with the constitutions of this state and the United States for the exercise of personal jurisdiction.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 96-189; s. 5, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 5, ch. 2011-92, amended s. 88.2011, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.2011 Bases for jurisdiction over nonresident.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) In a proceeding to establish or enforce a support order or to determine parentage of a child, a tribunal of this state may exercise personal jurisdiction over a nonresident individual or the individual’s guardian or conservator if:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The individual is personally served with citation, summons, or notice within this state;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The individual submits to the jurisdiction of this state by consent in a record, by entering a general appearance, or by filing a responsive document having the effect of waiving any contest to personal jurisdiction;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) The individual resided with the child in this state;</Text>
+		<Text xml:space="preserve" Style="Indent">(d) The individual resided in this state and provided prenatal expenses or support for the child;</Text>
+		<Text xml:space="preserve" Style="Indent">(e) The child resides in this state as a result of the acts or directives of the individual;</Text>
+		<Text xml:space="preserve" Style="Indent">(f) The individual engaged in sexual intercourse in this state and the child may have been conceived by that act of intercourse;</Text>
+		<Text xml:space="preserve" Style="Indent">(g) The individual asserted parentage of a child in a tribunal or in a putative father registry maintained in this state by the appropriate agency; or</Text>
+		<Text xml:space="preserve" Style="Indent">(h) There is any other basis consistent with the constitutions of this state and the United States for the exercise of personal jurisdiction.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) The bases of personal jurisdiction set forth in subsection (1) or in any other law of this state may not be used to acquire personal jurisdiction for a tribunal of this state to modify a child support order of another state unless the requirements of s. 88.6111 are met, or, in the case of a foreign support order, unless the requirements of s. 88.6151 are met.</Text>
+	</Note>
+</Section>

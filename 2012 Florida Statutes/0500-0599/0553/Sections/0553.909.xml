@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0553.909" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Setting requirements for appliances; exceptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Energy Efficiency Code for Building Construction shall set the minimum requirements for commercial or residential swimming pool pumps, swimming pool water heaters, and water heaters used to heat potable water. The code shall further establish the minimum acceptable standby loss for electric water heaters and the minimum recovery efficiency and standby loss for water heaters fueled by natural gas or liquefied petroleum gas.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Dishwashers sold after March 1, 1981, shall be equipped so that the normal operating cycle does not include automatic switching on of the heating element for the drying portion of the operating cycle. Dishwashers the controls of which permit the user to elect to have the heating element on during the drying portion of the operating cycle meet this requirement.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Commercial or residential swimming pool heaters manufactured and sold on or after December 31, 2011, for installation in this state must comply with the requirements of the Florida Energy Efficiency Code for Building Construction.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Residential swimming pool filtration pumps and pump motors manufactured and sold on or after December 31, 2011, for installation in this state must comply with the requirements of the Florida Energy Efficiency Code for Building Construction.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Portable electric spas manufactured and sold on or after December 31, 2011, for installation in this state must comply with the requirements of the Florida Energy Efficiency Code for Building Construction protocol.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Florida Energy Efficiency Code for Building Construction may include standards for other appliances and energy-using systems if they are determined by the department to have a significant impact on the energy use of the building and if they are cost-effective to the consumer.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">If the provisions of this section are preempted in part by federal standards, those provisions not preempted shall apply.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 80-163; s. 7, ch. 84-273; s. 10, ch. 93-249; s. 98, ch. 2000-141; s. 110, ch. 2008-227; s. 43, ch. 2010-176; s. 34, ch. 2011-222.</History>
+</Section>

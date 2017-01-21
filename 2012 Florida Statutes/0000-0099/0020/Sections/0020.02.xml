@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.02" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Declaration of policy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Constitution contemplates the separation of powers within state government among the legislative, executive, and judicial branches of the government. The legislative branch has the broad purpose of determining policies and programs and reviewing program performance. The executive branch has the purpose of executing the programs and policies adopted by the Legislature and of making policy recommendations to the Legislature. The judicial branch has the purpose of determining the constitutional propriety of the policies and programs and of adjudicating any conflicts arising from the interpretation or application of the laws.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Within constitutional limitations, the agencies that compose the executive branch must be consolidated into no more than 25 departments, exclusive of those specifically provided for or authorized in the State Constitution, consistent with executive capacity to administer effectively at all levels. The agencies in the executive branch should be integrated into one of the departments of the executive branch to achieve maximum efficiency and effectiveness as intended by s. 6, Art. IV of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The administration of any executive branch department or entity placed under the direct supervision of an officer or board appointed by and serving at the pleasure of the Governor shall remain at all times under the constitutional executive authority of the Governor, in accordance with ss. 1(a) and 6, Art. IV of the State Constitution, and such officer or board generally remains subject to oversight, direction, and supervision by the Governor.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Structural reorganization must be a continuing process through careful executive and legislative appraisal of the placement of proposed new programs and the coordination of existing programs in response to public needs.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The responsibility within the executive branch of government for the implementation of programs and policies must be clearly fixed and ascertainable.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Departments must be organized along functional or program lines.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The management and coordination of state services must be improved and overlapping activities eliminated.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">When a reorganization of state government abolishes positions, the individuals affected, when otherwise qualified, must be given priority consideration for any new positions created by reorganization or for other vacant positions in state government.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 69-106; s. 1, ch. 94-235; s. 4, ch. 2012-116.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 3, ch. 2012-116, provides that “[t]he Legislature intends that the amendments made by this act to ss. 20.02, 20.03, and 20.05, Florida Statutes, which apply to the organizational structure of the executive branch, and the creation of s. 120.515, Florida Statutes, which applies to administrative procedure, are to clarify that the placement of an executive department under the direct administration of an officer or board appointed by and serving at the pleasure of the Governor does not implicitly limit or restrict the Governor’s prerogative, legal authority, and constitutional responsibility to direct and supervise the execution of the law and the exercise of lawful discretion.”</Text>
+	</Note>
+</Section>

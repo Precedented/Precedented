@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0531.415" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall charge and collect the following fees for actual metrology laboratory calibration and testing services rendered:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For each mass standard that is tested or certified to meet tolerances less stringent than American National Standards Institute/American Society for Testing and Materials (ANSI/ASTM) Standard E617 Class 4, the department shall charge a fee of not more than:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Weight<FlushRight />Fee/Unit</Text>
+				<Text xml:space="preserve" Style="BlockFlush">0 - 2 lb.<FlushRight />$6</Text>
+				<Text xml:space="preserve" Style="BlockFlush">3 - 10 lb.<FlushRight />$8</Text>
+				<Text xml:space="preserve" Style="BlockFlush">11 - 50 lb.<FlushRight />$12</Text>
+				<Text xml:space="preserve" Style="BlockFlush">51 - 500 lb.<FlushRight />$20</Text>
+				<Text xml:space="preserve" Style="BlockFlush">501 - 1000 lb.<FlushRight />$30</Text>
+				<Text xml:space="preserve" Style="BlockFlush">1001 - 2500 lb.<FlushRight />$40</Text>
+				<Text xml:space="preserve" Style="BlockFlush">2501 - 5000 lb.<FlushRight />$50</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For each mass standard that is tested or certified to meet ANSI/ASTM Standard Class 4 or National Institute of Standards and Technology Class P tolerances, the department shall charge a fee of not more than:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Weight<FlushRight />Fee/Unit</Text>
+				<Text xml:space="preserve" Style="BlockFlush">0 - 10 lb.<FlushRight />$20</Text>
+				<Text xml:space="preserve" Style="BlockFlush">11 - 50 lb.<FlushRight />$30</Text>
+				<Text xml:space="preserve" Style="BlockFlush">51 - 500 lb.<FlushRight />$40</Text>
+				<Text xml:space="preserve" Style="BlockFlush">501 - 1000 lb.<FlushRight />$50</Text>
+				<Text xml:space="preserve" Style="BlockFlush">1001 - 2500 lb.<FlushRight />$60</Text>
+				<Text xml:space="preserve" Style="BlockFlush">2501 - 5000 lb.<FlushRight />$75</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For each mass standard that is calibrated to determine actual mass or apparent mass values, the department shall charge a fee of not more than:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Weight<FlushRight />Fee/Unit</Text>
+				<Text xml:space="preserve" Style="BlockFlush">0 - 20 lb.<FlushRight />$40</Text>
+				<Text xml:space="preserve" Style="BlockFlush">21 - 50 lb.<FlushRight />$50</Text>
+				<Text xml:space="preserve" Style="BlockFlush">51 - 1000 lb.<FlushRight />$70</Text>
+				<Text xml:space="preserve" Style="BlockFlush">1001 - 2500 lb.<FlushRight />$150</Text>
+				<Text xml:space="preserve" Style="BlockFlush">2501 - 5000 lb.<FlushRight />$250</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For each volumetric flask, graduate, or test measure, the department shall charge a fee of not more than:</Text>
+				<Text xml:space="preserve" Style="BlockFlush">Vessel<FlushRight />Fee/Test Point</Text>
+				<Text xml:space="preserve" Style="BlockFlush">0 - 5 gal.<FlushRight />$35</Text>
+				<Text xml:space="preserve" Style="Indent">Over 5 gal.<FlushRight />Plus $0.75 for each additional gallon</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">For each linear measure that is tested or certified, the department shall charge a fee of not more than $75.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">For each linear measure that is calibrated to determine actual values, the department shall charge a fee of not more than $100.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">For each liquid-in-glass or electronic thermometer that is tested or certified, the department shall charge a fee of not more than $50.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">For each liquid-in-glass or electronic thermometer that is calibrated to determine actual values, the department shall charge a fee of not more than $100.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">For each special test or special preparation, the department shall charge a fee of not more than $50 per hour.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each fee is payable to the department at the time the testing is done, regardless of whether the item tested is certified. The department may refuse to accept for testing any item deemed by the department to be unsuitable for its intended use. The department shall deposit all fees collected under this section into the General Inspection Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any petroleum product taxed under s. 525.09 and any petroleum equipment owned by a person licensed pursuant to chapter 206 is exempt from the fees established in this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 93-142; s. 152, ch. 2010-102.</History>
+</Section>

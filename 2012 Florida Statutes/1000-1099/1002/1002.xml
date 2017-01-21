@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVIII">
+	<ChapterNumber>1002</ChapterNumber>
+	<ChapterName xml:space="preserve">Student and parental rights and educational choices</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="1002.01" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Student and parental rights</PartTitle>
+		<Section Number="1002.20" />
+		<Section Number="1002.205" />
+		<Section Number="1002.21" />
+		<Section Number="1002.22" />
+		<Section Number="1002.221" />
+		<Section Number="1002.225" />
+		<Section Number="1002.23" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Educational choice</PartTitle>
+		<Section Number="1002.31" />
+		<Section Number="1002.3105" />
+		<Section Number="1002.311" />
+		<Section Number="1002.32" />
+		<Section Number="1002.321" />
+		<Section Number="1002.33" />
+		<Section Number="1002.3305" />
+		<Section Number="1002.331" />
+		<Section Number="1002.332" />
+		<Section Number="1002.34" />
+		<Section Number="1002.345" />
+		<Section Number="1002.35" />
+		<Section Number="1002.36" />
+		<Section Number="1002.361" />
+		<Section Number="1002.37" />
+		<Section Number="1002.375" />
+		<Section Number="1002.38" />
+		<Section Number="1002.39" />
+		<Section Number="1002.391" />
+		<Section Number="1002.395" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Home education, private schools,<NewLine />other education options</PartTitle>
+		<Section Number="1002.41" />
+		<Section Number="1002.415" />
+		<Section Number="1002.42" />
+		<Section Number="1002.421" />
+		<Section Number="1002.43" />
+		<Section Number="1002.45" />
+		<Section Number="1002.455" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Voluntary prekindergarten<NewLine />education program</PartTitle>
+		<Section Number="1002.51" />
+		<Section Number="1002.53" />
+		<Section Number="1002.55" />
+		<Section Number="1002.57" />
+		<Section Number="1002.59" />
+		<Section Number="1002.61" />
+		<Section Number="1002.63" />
+		<Section Number="1002.65" />
+		<Section Number="1002.66" />
+		<Section Number="1002.67" />
+		<Section Number="1002.69" />
+		<Section Number="1002.71" />
+		<Section Number="1002.72" />
+		<Section Number="1002.73" />
+		<Section Number="1002.75" />
+		<Section Number="1002.77" />
+		<Section Number="1002.79" />
+	</Part>
+</Chapter>

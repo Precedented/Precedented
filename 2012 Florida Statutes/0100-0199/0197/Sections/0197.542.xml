@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.542" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sale at public auction.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Real property advertised for sale to the highest bidder as a result of an application filed under s. 197.502 shall be sold at public auction by the clerk of the circuit court, or his or her deputy, of the county where the property is located on the date, at the time, and at the location as set forth in the published notice, which must be during the regular hours the clerk’s office is open. The amount required to redeem the tax certificate, plus the amounts paid by the holder to the clerk in charges for costs of sale, redemption of other tax certificates on the same property, and all other costs to the applicant for tax deed, plus interest at the rate of 1.5 percent per month for the period running from the month after the date of application for the deed through the month of sale and costs incurred for the service of notice provided for in s. 197.522(2), shall be the bid of the certificateholder for the property. If tax certificates exist or if delinquent taxes accrued subsequent to the filing of the tax deed application, the amount required to redeem such tax certificates or pay such delinquent taxes must be included in the minimum bid. However, if the land to be sold is assessed on the latest tax roll as homestead property, the bid of the certificateholder must be increased to include an amount equal to one-half of the assessed value of the homestead property as required by s. 197.502. If there are no higher bids, the property shall be struck off and sold to the certificateholder, who shall pay to the clerk any amounts included in the minimum bid, the documentary stamp tax, and recording fees due. Upon payment, a tax deed shall be issued and recorded by the clerk.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro"> The certificateholder has the right to bid as others present may bid, and the property shall be struck off and sold to the highest bidder. The high bidder shall post with the clerk a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater, at the time of the sale, to be applied to the sale price at the time of full payment. Notice of the deposit requirement must be posted at the auction site, and the clerk may require bidders to show their willingness and ability to post the deposit. If full payment of the final bid and of documentary stamp tax and recording fees is not made within 24 hours, excluding weekends and legal holidays, the clerk shall cancel all bids, readvertise the sale as provided in this section, and pay all costs of the sale from the deposit. Any remaining funds must be applied toward the opening bid. The clerk may refuse to recognize the bid of any person who has previously bid and refused, for any reason, to honor such bid.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the sale is canceled for any reason, or the buyer fails to make full payment within the time required, the clerk shall immediately readvertise the sale to be held within 30 days after the date the sale was canceled. Only one advertisement is necessary. The amount of the opening bid shall be increased by the cost of advertising, additional clerk’s fees as provided for in s. 28.24(21), and interest as provided for in subsection (1). This process must be repeated until the property is sold and the clerk receives full payment or the clerk does not receive any bids other than the bid of the certificateholder. The clerk must receive full payment before the issuance of the tax deed.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A clerk may conduct electronic tax deed sales in lieu of public outcry. The clerk must comply with the procedures provided in this chapter, except that electronic proxy bidding shall be allowed and the clerk may require bidders to advance sufficient funds to pay the deposit required by subsection (2). The clerk shall provide access to the electronic sale by computer terminals open to the public at a designated location. A clerk who conducts such electronic sales may receive electronic deposits and payments related to the sale. The portion of an advance deposit from a winning bidder required by subsection (2) shall, upon acceptance of the winning bid, be subject to the fee under s. 28.24(10).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"> This subsection does not restrict or limit the authority of a charter county to conduct electronic tax deed sales. In a charter county where the clerk of the circuit court does not conduct all electronic sales, the charter county shall be permitted to receive electronic deposits and payments related to sales it conducts, as well as to subject the winning bidder to a fee, consistent with the schedule in s. 28.24(10).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The costs of electronic tax deed sales shall be added to the charges for the costs of sale under subsection (1) and paid by the certificateholder when filing an application for a tax deed.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 17457, 1935; CGL 1936 Supp. 999(142); s. 30, ch. 20722, 1941; ss. 1, 2, ch. 69-55; s. 1, ch. 72-268; s. 19, ch. 73-332; s. 9, ch. 79-584; s. 7, ch. 81-284; s. 191, ch. 85-342; s. 9, ch. 87-145; s. 1028, ch. 95-147; s. 12, ch. 98-139; s. 11, ch. 2001-252; s. 89, ch. 2003-402; s. 3, ch. 2008-194; s. 13, ch. 2009-204; s. 50, ch. 2011-151.</History>
+	<Note>
+		<Text xml:space="preserve">Former ss. 194.21, 197.520, 197.266.</Text>
+	</Note>
+</Section>

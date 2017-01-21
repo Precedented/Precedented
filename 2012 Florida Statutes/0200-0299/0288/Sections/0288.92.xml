@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.92" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Divisions of Enterprise Florida, Inc.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Enterprise Florida, Inc., may create and dissolve divisions as necessary to carry out its mission. Each division shall have distinct responsibilities and complementary missions. At a minimum, Enterprise Florida, Inc., shall have divisions related to the following areas:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">International Trade and Business Development;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Business Retention and Recruitment;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Tourism Marketing;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Minority Business Development; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Sports Industry Development.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The officers and agents of the divisions shall be hired and their annual compensation established by the president of Enterprise Florida, Inc., as deemed appropriate by the board of directors, and may be eligible for performance bonuses pursuant to s. 288.905. This paragraph does not apply to any employees of the corporation established pursuant to s. 288.1226.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The board of directors of Enterprise Florida, Inc., may organize the divisions and, to the greatest extent possible, minimize costs by requiring that the divisions share administrative staff.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">By October 15 each year, each division shall draft and submit an annual report which details the division’s activities during the prior fiscal year and includes any recommendations for improving current statutes related to the division’s related area.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 30, ch. 2011-142.</History>
+</Section>

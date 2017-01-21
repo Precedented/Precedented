@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.84" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Procedure for determining state financial support and annual apportionment of state funds to each Florida College System institution district.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The procedure for determining state financial support and the annual apportionment to each Florida College System institution district authorized to operate a Florida College System institution under the provisions of s. 1001.61 shall be as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DETERMINING THE AMOUNT TO BE INCLUDED IN THE FLORIDA COLLEGE SYSTEM PROGRAM FUND FOR THE CURRENT OPERATING PROGRAM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Education shall determine annually from an analysis of operating costs, prepared in the manner prescribed by rules of the State Board of Education, the costs per full-time equivalent student served in courses and fields of study offered in Florida College System institutions. This information and current college operating budgets shall be submitted to the Executive Office of the Governor with the legislative budget request prior to each regular session of the Legislature.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The allocation of funds for Florida College System institutions shall be based on advanced and professional disciplines, college-preparatory programs, and other programs for adults funded pursuant to s. 1011.80.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The category of lifelong learning is for students enrolled pursuant to s. 1004.93. A student shall also be reported as a lifelong learning student for his or her enrollment in any course that he or she has previously taken, unless it is a credit course in which the student earned a grade of D or F.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If an adult student has been determined to be a disabled student eligible for an approved educational program for disabled adults provided pursuant to s. 1004.93 and rules of the State Board of Education and is enrolled in a class with curriculum frameworks developed for the program, state funding for that student shall be provided at a level double that of a student enrolled in a special adult general education program provided by a Florida College System institution.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">All state inmate education provided by Florida College System institutions shall be reported by program, FTE expenditure, and revenue source. These enrollments, expenditures, and revenues shall be reported and projected separately. Instruction of state inmates shall not be included in the full-time equivalent student enrollment for funding through the Florida College System Program Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">When a public educational institution has been fully funded by an external agency for direct instructional costs of any course or program, the FTE generated shall not be reported for state funding.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules to implement s. 9(d)(8)f., Art. XII of the State Constitution. These rules shall provide for the use of the funds available under s. 9(d)(8)f., Art. XII by an individual Florida College System institution for operating expense in any fiscal year during which the State Board of Education has determined that all major capital outlay needs have been met. Highest priority for the use of these funds for purposes other than financing approved capital outlay projects shall be for the proper maintenance and repair of existing facilities for projects approved by the State Board of Education. However, in any fiscal year in which funds from this source are authorized for operating expense other than approved maintenance and repair projects, the allocation of Florida College System institution program funds shall be reduced by an amount equal to the sum used for such operating expense for that Florida College System institution that year, and that amount shall not be released or allocated among the other Florida College System institutions that year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DETERMINING THE AMOUNT TO BE INCLUDED FOR CAPITAL OUTLAY AND DEBT SERVICE.<EmDash />The amount included for capital outlay and debt service shall be as determined and provided in s. 18, Art. XII of the State Constitution of 1885, as adopted by s. 9(d), Art. XII of the 1968 revised State Constitution and State Board of Education rules.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DETERMINING THE APPORTIONMENT FROM STATE FUNDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By December 15 of each year, the Department of Education shall estimate the annual enrollment of each Florida College System institution for the current fiscal year and for the 3 subsequent fiscal years. These estimates shall be based upon prior years’ enrollments, upon the initial fall term enrollments for the current fiscal year for each college, and upon each college’s estimated current enrollment and demographic changes in the respective Florida College System institution districts. Upper-division enrollment shall be estimated separately from lower-division enrollment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The apportionment to each Florida College System institution from the Florida College System Program Fund shall be determined annually in the General Appropriations Act. In determining each college’s apportionment, the Legislature shall consider the following components:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Base budget, which includes the state appropriation to the Florida College System Program Fund in the current year plus the related student tuition and out-of-state fees assigned in the current General Appropriations Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The cost-to-continue allocation, which consists of incremental changes to the base budget, including salaries, price levels, and other related costs allocated through a funding model approved by the Legislature which may recognize differing economic factors arising from the individual educational approaches of the various Florida College System institutions, including, but not limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Direct Instructional Funding, including class size, faculty productivity factors, average faculty salary, ratio of full-time to part-time faculty, costs of programs, and enrollment factors.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Academic Support, including small colleges factor, multicampus factor, and enrollment factor.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Student Services Support, including headcount of students as well as FTE count and enrollment factors.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Library Support, including volume and other materials/audiovisual requirements.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Special Projects.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Operations and Maintenance of Plant, including square footage and utilization factors.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">District Cost Differential.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Students enrolled in a recreation and leisure program and students enrolled in a lifelong learning program who may not be counted as full-time equivalent enrollments for purposes of enrollment workload adjustments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Operating costs of new facilities adjustments, which shall be provided, from funds available, for each new facility that is owned by the college and is recommended in accordance with s. 1013.31.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">New and improved program enhancements, which shall be determined by the Legislature.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Student fees in the base budget plus student fee revenues generated by increases in fee rates shall be deducted from the sum of the components determined in subparagraphs 1.-5. The amount remaining shall be the net annual state apportionment to each college.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No Florida College System institution shall commit funds for the employment of personnel or resources in excess of those required to continue the same level of support for either the previously approved enrollment or the revised enrollment, whichever is lower.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The apportionment to each Florida College System institution district for capital outlay and debt service shall be the amount determined in accordance with subsection (2). This amount, less any amount determined as necessary for administrative expense by the State Board of Education and any amount necessary for debt service on bonds issued by the State Board of Education, shall be transmitted to the Florida College System institution board of trustees to be expended in a manner prescribed by rules of the State Board of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If at any time the unencumbered balance in the general fund of the Florida College System institution board of trustees approved operating budget goes below 5 percent, the president shall provide written notification to the State Board of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Expenditures for apprenticeship programs shall be reported separately.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Expenditures for upper-division enrollment in a Florida College System institution that grants baccalaureate degrees shall be reported separately from expenditures for lower-division enrollment, in accordance with law and State Board of Education rule.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">EXPENDITURE OF ALLOCATED FUNDS.<EmDash />Any funds allocated herein to any Florida College System institution shall be expended only for the purpose of supporting that Florida College System institution.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">REPORT OF REMEDIAL EDUCATION.<EmDash />Each Florida College System institution board of trustees shall report the volume and cost of remedial education activities as a separate item in its annual cost accounting system.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 679, ch. 2002-387; s. 13, ch. 2004-271; s. 27, ch. 2010-155; s. 179, ch. 2011-5.</History>
+</Section>

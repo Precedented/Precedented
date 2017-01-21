@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0633.081">
+	<Catchline xml:space="preserve">Inspection of buildings and equipment; orders; firesafety inspection training requirements; certification; disciplinary action.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The State Fire Marshal and her or his agents shall, at any reasonable hour, when the State Fire Marshal has reasonable cause to believe that a violation of this chapter or s. 509.215, or a rule promulgated thereunder, or a minimum firesafety code adopted by the State Fire Marshal or a local authority, may exist, inspect any and all buildings and structures which are subject to the requirements of this chapter or s. 509.215 and rules promulgated thereunder. The authority to inspect shall extend to all equipment, vehicles, and chemicals which are located on or within the premises of any such building or structure.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each county, municipality, and special district that has firesafety enforcement responsibilities shall employ or contract with a firesafety inspector. Except as provided in s. 633.082(2), the firesafety inspector must conduct all firesafety inspections that are required by law. The governing body of a county, municipality, or special district that has firesafety enforcement responsibilities may provide a schedule of fees to pay only the costs of inspections conducted pursuant to this subsection and related administrative expenses. Two or more counties, municipalities, or special districts that have firesafety enforcement responsibilities may jointly employ or contract with a firesafety inspector.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as provided in s. 633.082(2), every firesafety inspection conducted pursuant to state or local firesafety requirements shall be by a person certified as having met the inspection training requirements set by the State Fire Marshal. Such person shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Be a high school graduate or the equivalent as determined by the department;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Not have been found guilty of, or having pleaded guilty or nolo contendere to, a felony or a crime punishable by imprisonment of 1 year or more under the law of the United States, or of any state thereof, which involves moral turpitude, without regard to whether a judgment of conviction has been entered by the court having jurisdiction of such cases;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Have her or his fingerprints on file with the department or with an agency designated by the department;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Have good moral character as determined by the department;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Be at least 18 years of age;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Have satisfactorily completed the firesafety inspector certification examination as prescribed by the department; and</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Have satisfactorily completed, as determined by the department, a firesafety inspector training program of not less than 200 hours established by the department and administered by agencies and institutions approved by the department for the purpose of providing basic certification training for firesafety inspectors; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Have received in another state training which is determined by the department to be at least equivalent to that required by the department for approved firesafety inspector education and training programs in this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Effective July 1, 2013, the classification of special state firesafety inspector is abolished, and all special state firesafety inspector certifications shall expire at midnight June 30, 2013.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any person who is a special state firesafety inspector on June 30, 2013, and who has failed to comply with paragraph (b) or paragraph (c) may not perform any firesafety inspection required by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A special state firesafety inspector certificate may not be issued after June 30, 2011.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any person who is a special state firesafety inspector on July 1, 2011, and who has at least 5 years of experience as a special state firesafety inspector as of July 1, 2011, may take the firesafety inspection examination as provided in paragraph (2)(f) for firesafety inspectors before July 1, 2013, to be certified as a firesafety inspector under this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Upon passing the examination, the person shall be certified as a firesafety inspector as provided in this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A person who fails to become certified must comply with paragraph (c) to be certified as a firesafety inspector under this section.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To be certified as a firesafety inspector under this section, any person who:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Is a special state firesafety inspector on July 1, 2011, and who does not have 5 years of experience as a special state firesafety inspector as of July 1, 2011; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Has 5 years of experience as a special state firesafety inspector but has failed the examination taken as provided in paragraph (2)(f),</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">must take an additional 80 hours of the courses described in paragraph (2)(g).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">After successfully completing the courses described in this paragraph, such person may take the firesafety inspection examination as provided in paragraph (2)(f), if such examination is taken before July 1, 2013.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Upon passing the examination, the person shall be certified as a firesafety inspector as provided in this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A person who fails the course of study or the examination described in this paragraph may not perform any firesafety inspection required by law on or after July 1, 2013. </Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A firefighter certified pursuant to s. 633.35 may conduct firesafety inspections, under the supervision of a certified firesafety inspector, while on duty as a member of a fire department company conducting inservice firesafety inspections without being certified as a firesafety inspector, if such firefighter has satisfactorily completed an inservice fire department company inspector training program of at least 24 hours’ duration as provided by rule of the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Every firesafety inspector certificate is valid for a period of 3 years from the date of issuance. Renewal of certification is subject to the affected person’s completing proper application for renewal and meeting all of the requirements for renewal as established under this chapter or by rule adopted under this chapter, which shall include completion of at least 40 hours during the preceding 3-year period of continuing education as required by the rule of the department or, in lieu thereof, successful passage of an examination as established by the department.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The State Fire Marshal may deny, refuse to renew, suspend, or revoke the certificate of a firesafety inspector if the State Fire Marshal finds that any of the following grounds exist:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any cause for which issuance of a certificate could have been refused had it then existed and been known to the State Fire Marshal.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Violation of this chapter or any rule or order of the State Fire Marshal.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Falsification of records relating to the certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Having been found guilty of or having pleaded guilty or nolo contendere to a felony, whether or not a judgment of conviction has been entered.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Failure to meet any of the renewal requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Having been convicted of a crime in any jurisdiction which directly relates to the practice of fire code inspection, plan review, or administration.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Making or filing a report or record that the certificateholder knows to be false, or knowingly inducing another to file a false report or record, or knowingly failing to file a report or record required by state or local law, or knowingly impeding or obstructing such filing, or knowingly inducing another person to impede or obstruct such filing.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Failing to properly enforce applicable fire codes or permit requirements within this state which the certificateholder knows are applicable by committing willful misconduct, gross negligence, gross misconduct, repeated negligence, or negligence resulting in a significant danger to life or property.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Accepting labor, services, or materials at no charge or at a noncompetitive rate from any person who performs work that is under the enforcement authority of the certificateholder and who is not an immediate family member of the certificateholder. For the purpose of this paragraph, the term “immediate family member” means a spouse, child, parent, sibling, grandparent, aunt, uncle, or first cousin of the person or the person’s spouse or any person who resides in the primary residence of the certificateholder.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Division of State Fire Marshal and the Florida Building Code Administrators and Inspectors Board, established pursuant to s. 468.605, shall enter into a reciprocity agreement to facilitate joint recognition of continuing education recertification hours for certificateholders licensed under s. 468.609 and firesafety inspectors certified under subsection (2).</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The State Fire Marshal shall develop by rule an advanced training and certification program for firesafety inspectors having fire code management responsibilities. The program must be consistent with the appropriate provisions of NFPA 1037, or similar standards adopted by the division, and establish minimum training, education, and experience levels for firesafety inspectors having fire code management responsibilities.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department shall provide by rule for the certification of firesafety inspectors.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 20671, 1941; s. 8, ch. 65-216; s. 4, ch. 67-78; ss. 13, 35, ch. 69-106; s. 3, ch. 70-299; s. 14, ch. 75-151; s. 1, ch. 77-174; s. 2, ch. 79-352; s. 1, ch. 81-205; s. 1, ch. 82-189; s. 4, ch. 84-243; s. 9, ch. 87-287; s. 2, ch. 88-222; s. 3, ch. 88-362; s. 4, ch. 93-276; s. 11, ch. 95-379; s. 424, ch. 97-102; s. 1396, ch. 2003-261; s. 9, ch. 2007-187; s. 1, ch. 2010-173; s. 52, ch. 2010-176; s. 47, ch. 2011-4; s. 3, ch. 2011-79.</History>
+	<Note>
+		<Text xml:space="preserve">Former s. 633.06.</Text>
+	</Note>
+</Section>

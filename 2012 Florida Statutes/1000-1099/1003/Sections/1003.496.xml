@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1003.496" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">High School to Business Career Enhancement Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section may be cited as the “High School to Business Career Enhancement Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each district school board may adopt policies and procedures for a High School to Business Career Enhancement Program through which high school student internships may be offered in each school district through partnerships developed with employers within the communities served by the district school board. Each internship shall include a student evaluation by the employer at the end of the internship to monitor the academic value of the internship using criteria established by each district school board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A student participant may be in the ninth, tenth, eleventh, or twelfth grade and must have a minimum weighted grade point average of 2.0.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A student participant may not be required to work more than 20 hours per week during the internship.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An internship shall be consistent with the career goals of each student participant.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An internship shall be at least 8 weeks long and may not last more than 20 consecutive weeks during any school year.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Each student may participate in only one internship per school year.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">No more than 100 internships may be offered each school year by a district school board.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The number of internships that an employer may provide under this program is limited by the number of employees that the employer employs in the school district in which the internship is offered.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An employer with 10 or fewer employees may provide one internship per school year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An employer with 11 to 20 employees may provide up to two internships per school year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An employer with 21 to 50 employees may provide up to three internships per school year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An employer with more than 50 employees may provide up to four internships per school year.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Employers may partner with more than one district school board; however, the number of internships that may be provided within each school district is subject to the limitations of this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Any employees or contracted personnel of an employer under this section who have direct unsupervised access to student interns shall be subject to the level 2 background screening requirements as described in s. 1012.32. The cost of the state and national criminal history check required by level 2 background screening must be borne by the employer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Employment under this section of a student intern who meets the criteria of s. 443.1216(13)(q) is not employment for purposes of reemployment assistance under chapter 443.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education may adopt rules necessary to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2007-122; s. 87, ch. 2012-30.</History>
+</Section>

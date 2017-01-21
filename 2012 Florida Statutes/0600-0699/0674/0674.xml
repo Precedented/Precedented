@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXIX">
+	<ChapterNumber>674</ChapterNumber>
+	<ChapterName xml:space="preserve">Uniform Commercial Code: bank deposits and collections</ChapterName>
+	<TitleNote>
+		<Text xml:space="preserve" Style="AlignCenter"><Font xml:space="preserve" Style="Bold">ARTICLE 4</Font></Text>
+	</TitleNote>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions and<NewLine />definitions</PartTitle>
+		<Section Number="0674.101" />
+		<Section Number="0674.102" />
+		<Section Number="0674.103" />
+		<Section Number="0674.104" />
+		<Section Number="0674.105" />
+		<Section Number="0674.1061" />
+		<Section Number="0674.1071" />
+		<Section Number="0674.1081" />
+		<Section Number="0674.1091" />
+		<Section Number="0674.1101" />
+		<Section Number="0674.111" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Collection of items: depositary<NewLine />and collecting banks</PartTitle>
+		<Section Number="0674.201" />
+		<Section Number="0674.202" />
+		<Section Number="0674.203" />
+		<Section Number="0674.204" />
+		<Section Number="0674.205" />
+		<Section Number="0674.206" />
+		<Section Number="0674.207" />
+		<Section Number="0674.2081" />
+		<Section Number="0674.2091" />
+		<Section Number="0674.2101" />
+		<Section Number="0674.2111" />
+		<Section Number="0674.2121" />
+		<Section Number="0674.2131" />
+		<Section Number="0674.2141" />
+		<Section Number="0674.215" />
+		<Section Number="0674.216" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Collection of items: payor banks</PartTitle>
+		<Section Number="0674.301" />
+		<Section Number="0674.302" />
+		<Section Number="0674.303" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Relationship between payor bank<NewLine />and its customer</PartTitle>
+		<Section Number="0674.401" />
+		<Section Number="0674.402" />
+		<Section Number="0674.403" />
+		<Section Number="0674.404" />
+		<Section Number="0674.405" />
+		<Section Number="0674.406" />
+		<Section Number="0674.407" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Collection of documentary drafts</PartTitle>
+		<Section Number="0674.501" />
+		<Section Number="0674.502" />
+		<Section Number="0674.503" />
+		<Section Number="0674.504" />
+	</Part>
+</Chapter>

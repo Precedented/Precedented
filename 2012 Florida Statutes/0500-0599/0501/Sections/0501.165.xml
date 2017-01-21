@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0501.165" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Automatic renewal of service contracts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash/>As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Automatic renewal provision” means a provision under which a service contract is renewed for a specified period of more than 1 month if the renewal causes the service contract to be in effect more than 6 months after the day of the initiation of the service contract. Such renewal is effective unless the consumer gives notice to the seller of the consumer’s intention to terminate the service contract.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Consumer” means an individual, as defined in s. 501.603, receiving service, maintenance, or repair under a service contract. The term does not include an individual engaged in business or employed by or otherwise acting on behalf of a governmental entity if the individual enters into the service contract as part of or ancillary to the individual’s business activities or on behalf of the business or governmental entity.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Seller” means any person, firm, partnership, association, or corporation engaged in commerce that sells, leases, or offers to sell or lease any service to a consumer pursuant to a service contract.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Service contract” means a written contract for the performance of services over a fixed period of time or for a specified duration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SERVICE CONTRACTS WITH AUTOMATIC RENEWAL PROVISIONS.<EmDash/></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any seller that sells, leases, or offers to sell or lease any service to a consumer pursuant to a service contract that has an automatic renewal provision, unless the consumer cancels that contract, shall disclose the automatic renewal provision clearly and conspicuously in the contract or contract offer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any seller that sells or offers to sell any service to a consumer pursuant to a service contract the term of which is a specified period of 12 months or more and that automatically renews for a specified period of more than 1 month, unless the consumer cancels the contract, shall provide the consumer with written or electronic notification of the automatic renewal provision. Notification shall be provided to the consumer no less than 30 days or no more than 60 days before the cancellation deadline pursuant to the automatic renewal provision. Such notification shall disclose clearly and conspicuously:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That unless the consumer cancels the contract the contract will automatically renew.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Methods by which the consumer may obtain details of the automatic renewal provision and cancellation procedure, whether by contacting the seller at a specified telephone number or address, by referring to the contract, or by any other method.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A seller that fails to comply with the requirements of this subsection is in violation of this subsection unless the seller demonstrates that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">As part of the seller’s routine business practice, the seller has established and implemented written procedures to comply with this section and enforces compliance with the procedures;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any failure to comply with this subsection is the result of error; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">As part of the seller’s routine business practice, where an error has caused the failure to comply with this subsection, the unearned portion of the contract subject to the automatic renewal provision is refunded as of the date on which the seller is notified of the error.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">This subsection does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A financial institution as defined in s. 655.005 or any depository institution as defined in 12 U.S.C. s. 1813(c)(2).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A foreign bank maintaining a branch or agency licensed under the laws of any state of the United States.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any subsidiary or affiliate of an entity described in subparagraph 1. or subparagraph 2.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A health studio as defined in s. 501.0125.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any entity licensed under chapter 624, chapter 627, chapter 634, chapter 636, or chapter 641.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any electric utility as defined in s. 366.02.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Any private company as defined in s. 180.05 providing services described in chapter 180 which is competing against a governmental entity or has a governmental entity providing billing services on its behalf.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A violation of this subsection renders the automatic renewal provision void and unenforceable.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2010-58; s. 39, ch. 2011-194.</History>
+</Section>

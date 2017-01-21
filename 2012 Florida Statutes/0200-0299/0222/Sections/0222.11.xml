@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0222.11" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemption of wages from garnishment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Earnings” includes compensation paid or payable, in money of a sum certain, for personal services or labor whether denominated as wages, salary, commission, or bonus.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Disposable earnings” means that part of the earnings of any head of family remaining after the deduction from those earnings of any amounts required by law to be withheld.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Head of family” includes any natural person who is providing more than one-half of the support for a child or other dependent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All of the disposable earnings of a head of family whose disposable earnings are less than or equal to $750 a week are exempt from attachment or garnishment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Disposable earnings of a head of a family, which are greater than $750 a week, may not be attached or garnished unless such person has agreed otherwise in writing. The agreement to waive the protection provided by this paragraph must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Be written in the same language as the contract or agreement to which the waiver relates;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Be contained in a separate document attached to the contract or agreement; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Be in substantially the following form in at least 14-point type:</Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">IF YOU PROVIDE MORE THAN ONE-HALF OF THE SUPPORT FOR A CHILD OR OTHER DEPENDENT, ALL OR PART OF YOUR INCOME IS EXEMPT FROM GARNISHMENT UNDER FLORIDA LAW. YOU CAN WAIVE THIS PROTECTION ONLY BY SIGNING THIS DOCUMENT. BY SIGNING BELOW, YOU AGREE TO WAIVE THE PROTECTION FROM GARNISHMENT.</Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true"><Directions xml:space="preserve">(Consumer’s Signature)</Directions><Directions xml:space="preserve">(Date Signed)</Directions></Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">I have fully explained this document to the consumer.</Text>
+					<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true"><Directions xml:space="preserve">(Creditor’s Signature)</Directions><Directions xml:space="preserve">(Date Signed)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true"> The amount attached or garnished may not exceed the amount allowed under the Consumer Credit Protection Act, 15 U.S.C. s. 1673.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Disposable earnings of a person other than a head of family may not be attached or garnished in excess of the amount allowed under the Consumer Credit Protection Act, 15 U.S.C. s. 1673.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Earnings that are exempt under subsection (2) and are credited or deposited in any financial institution are exempt from attachment or garnishment for 6 months after the earnings are received by the financial institution if the funds can be traced and properly identified as earnings. Commingling of earnings with other funds does not by itself defeat the ability of a head of family to trace earnings.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2065, 1875; RS 2008; GS 2530; RGS 3885; CGL 5792; s. 1, ch. 81-301; s. 6, ch. 85-272; s. 2, ch. 93-256; s. 1, ch. 2010-97.</History>
+</Section>

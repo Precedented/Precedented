@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.15" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Apportionment of adjusted federal income.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Except as provided in ss. 220.151, 220.152, and 220.153, adjusted federal income as defined in s. 220.13 shall be apportioned to this state by taxpayers doing business within and without this state by multiplying it by an apportionment fraction composed of a sales factor representing 50 percent of the fraction, a property factor representing 25 percent of the fraction, and a payroll factor representing 25 percent of the fraction. If any factor described in subsection (2), subsection (4), or subsection (5) has a denominator that is zero or is determined by the department to be insignificant, the relative weights of the other factors in the denominator of the apportionment fraction shall be as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the denominators for any two factors are zero or are insignificant, the weighted percentage for the remaining factor shall be 100 percent.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the denominator for the sales factor is zero or is insignificant, the weighted percentage for the property and payroll factors shall change from 25 percent to 50 percent, respectively.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the denominator for either the property or payroll factor is zero or is insignificant, the weighted percentage for the other shall be 33<Fraction>1/3</Fraction> percent, and the weighted percentage for the sales factor shall be 66<Fraction>2/3</Fraction> percent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The property factor is a fraction the numerator of which is the average value of the taxpayer’s real and tangible personal property owned or rented and used in this state during the taxable year or period and the denominator of which is the average value of such property owned or rented and used everywhere.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Real and tangible personal property owned by the taxpayer shall be valued at original cost. Real and tangible personal property rented by the taxpayer shall be valued at 8 times the net annual rental rate paid by the taxpayer less any annual rental rate received from subrentals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The average value of real and tangible personal property shall be determined by averaging the value at the beginning and the end of the taxable year or period, unless the department determines that an averaging of monthly values during the taxable year or period is reasonably required to reflect properly the average value of the taxpayer’s real and tangible personal property.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The property factor fraction shall not include any real or tangible personal property located in this state with respect to which it is certified to the Department of Revenue that such property is dedicated exclusively to research and development activities performed pursuant to sponsored research contracts conducted in conjunction with and through a university that is a member of the State University System or a nonpublic university that is chartered in Florida and conducts graduate programs at the professional or doctoral level. The Board of Governors of the State University System must certify the contracts for members of the State University System, and the president of the university must certify the contracts for a nonpublic university. As used in this paragraph, “sponsored research contract” means an agreement executed by parties that include at least the university and the taxpayer. Funding for sponsored research contracts may be provided from public or private sources.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The property factor used by a financial organization shall also include intangible personal property, except goodwill, which is owned and used in the business, valued at its tax basis for federal income tax purposes. Intangible personal property shall be in this state if it consists of any of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Coin or currency located in this state;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Assets in the nature of loans, including balances due from depository institutions, repurchase agreements, federal funds sold, and bankers acceptances, which assets are located in this state; installment obligations on loans for which the customer initially applied at an office located in this state; or loans secured by mortgages, deeds of trust, or other liens upon real or tangible personal property located in this state;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A portion of a participation loan if the office that enters into the participation is located in this state;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Credit card receivables from customers who reside or who are commercially domiciled in this state;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Investments in securities that generate business income if the taxpayer’s commercial domicile is in the state, unless such securities have acquired a discrete business situs elsewhere;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Securities used to maintain reserves against deposits to meet federal or state deposit requirements, based on the ratio that total deposits in this state bear to total deposits everywhere;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Securities held by a state treasurer or other public official or pledged to secure public funds or trust funds deposited with the taxpayer if the office at which the secured deposits are maintained is in this state;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Leases of tangible personal property to another if the taxpayer’s commercial domicile is in the state, unless the taxpayer establishes that the location of the leased tangible personal property is in another state or states for the entire taxable year and the taxpayer is taxable in such other state or states;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Installment sale agreements originally executed by a taxpayer or its agent to sell real or tangible personal property located in this state; or</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Any other intangible personal property located in this state which is used to generate business income.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The payroll factor is a fraction the numerator of which is the total amount paid in this state during the taxable year or period by the taxpayer for compensation and the denominator of which is the total compensation paid everywhere during the taxable year or period.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “compensation” means wages, salaries, commissions, and any other form of remuneration paid to employees for personal services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Compensation is paid in this state if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The employee’s service is performed entirely within the state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The employee’s service is performed both within and without the state, but the service performed without the state is incidental to the employee’s service within the state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Some of the employee’s service is performed in the state, and</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The base of operations or, if there is no base of operations, the place from which the service is directed or controlled is in the state, or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The base of operations or the place from which the service is directed or controlled is not in any state in which some part of the service is performed and the employee’s residence is in this state.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The payroll factor fraction shall not include any compensation paid to any employee located in this state when it is certified to the Department of Revenue that such compensation was paid to employees dedicated exclusively to research and development activities performed pursuant to sponsored research contracts conducted in conjunction with and through a university that is a member of the State University System or a nonpublic university that is chartered in Florida and conducts graduate programs at the professional or doctoral level. The Board of Governors of the State University System must certify the contracts for members of the State University System, and the president of the university must certify the contracts for a nonpublic university. As used in this paragraph, “sponsored research contract” means an agreement executed by parties that include at least the university and the taxpayer. Funding for sponsored research contracts may be provided from public or private sources.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The sales factor is a fraction the numerator of which is the total sales of the taxpayer in this state during the taxable year or period and the denominator of which is the total sales of the taxpayer everywhere during the taxable year or period.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “sales” means all gross receipts of the taxpayer except interest, dividends, rents, royalties, and gross receipts from the sale, exchange, maturity, redemption, or other disposition of securities. However:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Rental income is included in the term if a significant portion of the taxpayer’s business consists of leasing or renting real or tangible personal property; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Royalty income is included in the term if a significant portion of the taxpayer’s business consists of dealing in or with the production, exploration, or development of minerals.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Sales of tangible personal property occur in this state if the property is delivered or shipped to a purchaser within this state, regardless of the f.o.b. point, other conditions of the sale, or ultimate destination of the property, unless shipment is made via a common or contract carrier. However, for industries in NAICS National Number 311411, if the ultimate destination of the product is to a location outside this state, regardless of the method of shipment or f.o.b. point, the sale shall not be deemed to occur in this state. As used in this paragraph, “NAICS” means those classifications contained in the North American Industry Classification System, as published in 2007 by the Office of Management and Budget, Executive Office of the President.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">When citrus fruit is delivered by a cooperative for a grower-member, by a grower-member to a cooperative, or by a grower-participant to a Florida processor, the sales factor for the growers for such citrus fruit delivered to such processor shall be the same as the sales factor for the most recent taxable year of that processor. That sales factor, expressed only as a percentage and not in terms of the dollar volume of sales, so as to protect the confidentiality of the sales of the processor, shall be furnished on the request of such a grower promptly after it has been determined for that taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Reimbursement of expenses under an agency contract between a cooperative, a grower-member of a cooperative, or a grower and a processor is not a sale within this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Sales of a financial organization, including, but not limited to, banking and savings institutions, investment companies, real estate investment trusts, and brokerage companies, occur in this state if derived from:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Fees, commissions, or other compensation for financial services rendered within this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Gross profits from trading in stocks, bonds, or other securities managed within this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Interest received within this state, other than interest from loans secured by mortgages, deeds of trust, or other liens upon real or tangible personal property located without this state, and dividends received within this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Interest charged to customers at places of business maintained within this state for carrying debit balances of margin accounts, without deduction of any costs incurred in carrying such accounts;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Interest, fees, commissions, or other charges or gains from loans secured by mortgages, deeds of trust, or other liens upon real or tangible personal property located in this state or from installment sale agreements originally executed by a taxpayer or the taxpayer’s agent to sell real or tangible personal property located in this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Rents from real or tangible personal property located in this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Any other gross income, including other interest, resulting from the operation as a financial organization within this state.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">In computing the amounts under this paragraph, any amount received by a member of an affiliated group (determined under s. 1504(a) of the Internal Revenue Code, but without reference to whether any such corporation is an “includable corporation” under s. 1504(b) of the Internal Revenue Code) from another member of such group shall be included only to the extent such amount exceeds expenses of the recipient directly related thereto.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The term “financial organization,” as used in this section, includes any bank, trust company, savings bank, industrial bank, land bank, safe-deposit company, private banker, savings and loan association, credit union, cooperative bank, small loan company, sales finance company, or investment company.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The term “everywhere,” as used in the computation of apportionment factor denominators under this section, means “in all states of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country, or any political subdivision of the foregoing.”</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">No research and development activities certified as being conducted within this state in conjunction with and through a university that is a member of the State University System or a nonpublic university that is chartered in Florida and conducts graduate programs at the professional or doctoral level shall cause any corporation to become subject to the taxes imposed by this chapter if the corporation would otherwise not be subject to the tax levied under this chapter. The property and payroll eliminated from the apportionment formula pursuant to the provisions of paragraphs (2)(c) and (4)(c) shall be eliminated only for the duration of the contractual period specified in the contracts for the conduct of the sponsored research. The reduction in tax due as a result of the property and payroll eliminated from the apportionment formula pursuant to the provisions of paragraphs (2)(c) and (4)(c) shall not exceed the amount paid to the university for the conduct of the sponsored research. No sponsored research contracts in existence prior to July 1, 1998, shall be eligible to participate in the provisions of paragraphs (2)(c) and (4)(c).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-984; s. 5, ch. 72-278; s. 3, ch. 75-293; s. 7, ch. 83-349; s. 13, ch. 86-121; s. 57, ch. 89-356; s. 91, ch. 91-112; s. 1186, ch. 95-147; s. 1, ch. 98-325; s. 40, ch. 2002-218; s. 27, ch. 2007-217; s. 7, ch. 2009-51; s. 10, ch. 2011-76.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

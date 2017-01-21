@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0494.0068" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Loan application process.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In addition to the requirements set forth in s. 494.0067(8), before accepting an application fee in whole or in part, a credit report fee, an appraisal fee, or a fee charged as reimbursement for third-party charges, a mortgage lender shall make a written disclosure to the borrower, which disclosure may be contained in the application, setting forth:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Whether all or any part of such fees or charges is refundable.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The terms and conditions for the refund, if all or any part of the fees or charges is refundable.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A realistic estimate of the number of days required to issue a commitment following receipt of the application by the lender.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The name or title of a person within the lender’s organization to whom the borrower may address written questions, comments, or complaints and who is required to promptly respond to such inquiries.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The disclosures required in subsection (1) must be acknowledged in writing by the borrower and maintained by the mortgage lender, and a copy of such acknowledgment shall be given to the borrower.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The borrower may, without penalty or responsibility for paying additional fees and charges, withdraw an application at any time prior to acceptance of commitment. Upon such withdrawal, the mortgage lender is responsible for refunding to the borrower only those fees and charges to which the borrower may be entitled pursuant to the terms set forth in the written disclosure required by subsection (1), except that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the lender failed to provide the borrower with the written disclosure required by subsection (1), the lender shall promptly refund to the borrower all funds paid to the lender; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the lender failed to make a good faith effort to approve the loan, the lender shall promptly refund to the borrower all funds paid to the lender.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The application fee must be reasonably related to the services to be performed and may not be based upon a percentage of the principal amount of the loan or the amount financed.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">For the purposes of this section, the term “application fee” means any moneys advanced by the borrower upon filing an application with a mortgage lender to offset the lender’s expenses for determining whether the borrower is qualified for the mortgage loan or whether the mortgage loan should be funded.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 39, 50, ch. 91-245; s. 4, ch. 91-429; s. 52, ch. 2009-241.</History>
+</Section>

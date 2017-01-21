@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXV">
+	<ChapterNumber>603</ChapterNumber>
+	<ChapterName xml:space="preserve">Fruits and vegetables</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Inspection</PartTitle>
+		<Section Number="0603.11" />
+		<Section Number="0603.12" />
+		<Section Number="0603.13" />
+		<Section Number="0603.14" />
+		<Section Number="0603.15" />
+		<Section Number="0603.151" />
+		<Section Number="0603.152" />
+		<Section Number="0603.161" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Florida Tropical Fruit Policy Act</PartTitle>
+		<Section Number="0603.201" />
+		<Section Number="0603.202" />
+		<Section Number="0603.203" />
+		<Section Number="0603.204" />
+	</Part>
+</Chapter>

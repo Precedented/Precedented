@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0072.041" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Tax liabilities arising under the laws of other states.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Actions to enforce lawfully imposed sales, use, and corporate income taxes and motor and other fuel taxes of another state may be brought in a court of this state under the following conditions:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The state seeking to institute an action for the collection, assessment, or enforcement of a lawfully imposed tax must have extended a like courtesy to this state;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Venue for any action under this section shall be the circuit court of the county in which the defendant resides;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to the enforcement of tax warrants of another state unless the warrant has been obtained as a result of a judgment entered by a court of competent jurisdiction in the taxing state or unless the courts of the state seeking to enforce its warrant allow the enforcement of the warrants issued by the Department of Revenue pursuant to chapters 206, 212, 213, and 220; and</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All tax liabilities owing to this state or any of its subdivisions shall be paid first and shall be prior in right to any tax liability arising under the laws of other states.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 45, ch. 85-342; s. 35, ch. 86-152; s. 101, ch. 90-136; s. 12, ch. 90-351; s. 86, ch. 91-112; s. 127, ch. 95-417; s. 3, ch. 2011-76.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

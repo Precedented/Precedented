@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0193.1556" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Notice of change of ownership or control required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person or entity that owns property assessed under s. 193.1554 or s. 193.1555 must notify the property appraiser promptly of any change of ownership or control as defined in ss. 193.1554(5) and 193.1555(5). If the change of ownership is recorded by a deed or other instrument in the public records of the county where the property is located, the recorded deed or other instrument shall serve as notice to the property appraiser. If any property owner fails to so notify the property appraiser and the property appraiser determines that for any year within the prior 10 years the owner’s property was not entitled to assessment under s. 193.1554 or s. 193.1555, the owner of the property is subject to the taxes avoided as a result of such failure plus 15 percent interest per annum and a penalty of 50 percent of the taxes avoided. It is the duty of the property appraiser making such determination to record in the public records of the county a notice of tax lien against any property owned by that person or entity in the county, and such property must be identified in the notice of tax lien. Such property is subject to the payment of all taxes and penalties. Such lien when filed shall attach to any property, identified in the notice of tax lien, owned by the person or entity that illegally or improperly was assessed under s. 193.1554 or s. 193.1555. If such person or entity no longer owns property in that county, but owns property in some other county or counties in the state, it shall be the duty of the property appraiser to record a notice of tax lien in such other county or counties, identifying the property owned by such person or entity in such county or counties, and it becomes a lien against such property in such county or counties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Department of Revenue shall provide a form by which a property owner may provide notice to all property appraisers of a change of ownership or control. The form must allow the property owner to list all property that it owns or controls in this state for which a change of ownership or control as defined in s. 193.1554(5) or s. 193.1555(5) has occurred, but has not been noticed previously to property appraisers. Providing notice on this form constitutes compliance with the notification requirements in this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 14, ch. 2007-339; s. 6, ch. 2008-173; s. 4, ch. 2010-109.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 1, ch. 2007-339, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) In anticipation of implementing this act, the executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of making necessary changes and preparations so that forms, methods, and data records, electronic or otherwise, are ready and in place if sections 3 through 9 and sections 10, 12, and 14 . . . of this act become law.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 18 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 13, ch. 2008-173, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 18 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

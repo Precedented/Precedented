@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.14" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Intake and case management system.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall develop an intake and a case management system whereby a child brought into intake is assigned a juvenile probation officer if the child was not released, referred to a diversionary program, referred for community arbitration, or referred to some other program or agency for the purpose of nonofficial or nonjudicial handling, and shall make every reasonable effort to provide case management services for the child; provided, however, that case management for children committed to residential programs may be transferred as provided in s. 985.46.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The intake process shall be performed by the department through a case management system. The purpose of the intake process is to assess the child’s needs and risks and to determine the most appropriate treatment plan and setting for the child’s programmatic needs and risks. The intake process shall result in choosing the most appropriate services through a balancing of the interests and needs of the child with those of the family and the public. The juvenile probation officer shall be responsible for making informed decisions and recommendations to other agencies, the state attorney, and the courts so that the child and family may receive the least intrusive service alternative throughout the judicial process. The department shall establish uniform procedures for the juvenile probation officer to provide a preliminary screening of the child and family for substance abuse and mental health services prior to the filing of a petition or as soon as possible thereafter and prior to a disposition hearing.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The intake and case management system shall facilitate consistency in the recommended placement of each child, and in the assessment, classification, and placement process, with the following purposes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individualized, multidisciplinary assessment process that identifies the priority needs of each individual child for rehabilitation and treatment and identifies any needs of the child’s parents or guardians for services that would enhance their ability to provide adequate support, guidance, and supervision for the child. This process shall begin with the detention risk assessment instrument and decision, shall include the intake preliminary screening and comprehensive assessment for substance abuse treatment services, mental health services, retardation services, literacy services, and other educational and treatment services as components, additional assessment of the child’s treatment needs, and classification regarding the child’s risks to the community. The completed multidisciplinary assessment process shall result in the predisposition report.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A classification system that assigns a relative risk to the child and the community based upon assessments including the detention risk assessment results when available to classify the child’s risk as it relates to placement and supervision alternatives.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An admissions process that facilitates for each child the utilization of the treatment plan and setting most appropriate to meet the child’s programmatic needs and provide the minimum program security needed to ensure public safety.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall annually advise the Legislature and the Executive Office of the Governor of the resources needed in order for the intake and case management system to maintain a staff-to-client ratio that is consistent with accepted standards and allows the necessary supervision and services for each child. The intake process and case management system shall provide a comprehensive approach to assessing the child’s needs, relative risks, and most appropriate handling, and shall be based on an individualized treatment plan.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 90-208; s. 8, ch. 92-287; s. 7, ch. 93-230; s. 35, ch. 94-209; s. 1346, ch. 95-147; s. 163, ch. 97-101; s. 18, ch. 97-238; s. 11, ch. 98-207; s. 23, ch. 2000-135; s. 23, ch. 2006-120; s. 91, ch. 2012-5; s. 3, ch. 2012-56.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.047(1), (2); s. 985.21(1), (2).</Text>
+	</Note>
+</Section>

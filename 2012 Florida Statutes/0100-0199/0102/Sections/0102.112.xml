@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0102.112" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Deadline for submission of county returns to the Department of State.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The county canvassing board or a majority thereof shall file the county returns for the election of a federal or state officer with the Department of State immediately after certification of the election results. The returns must contain a certification by the canvassing board that the board has compared the number of persons who voted with the number of ballots counted and that the certification includes all valid votes cast in the election.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Returns must be filed by 5 p.m. on the 7th day following a primary election and by noon on the 12th day following the general election. However, the Department of State may correct typographical errors, including the transposition of numbers, in any returns submitted to the Department of State pursuant to s. 102.111(2).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the returns are not received by the department by the time specified, such returns shall be ignored and the results on file at that time shall be certified by the department.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the returns are not received by the department due to an emergency, as defined in s. 101.732, the Elections Canvassing Commission shall determine the deadline by which the returns must be received.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 30, ch. 89-338; s. 7, ch. 99-140; s. 40, ch. 2001-40; s. 57, ch. 2005-277; s. 32, ch. 2007-30; s. 26, ch. 2008-95; s. 13, ch. 2010-167.</History>
+</Section>

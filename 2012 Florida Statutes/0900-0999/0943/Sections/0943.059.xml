@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0943.059" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Court-ordered sealing of criminal history records.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The courts of this state shall continue to have jurisdiction over their own procedures, including the maintenance, sealing, and correction of judicial records containing criminal history information to the extent such procedures are not inconsistent with the conditions, responsibilities, and duties established by this section. Any court of competent jurisdiction may order a criminal justice agency to seal the criminal history record of a minor or an adult who complies with the requirements of this section. The court shall not order a criminal justice agency to seal a criminal history record until the person seeking to seal a criminal history record has applied for and received a certificate of eligibility for sealing pursuant to subsection (2). A criminal history record that relates to a violation of s. 393.135, s. 394.4593, s. 787.025, chapter 794, s. 796.03, s. 800.04, s. 810.14, s. 817.034, s. 825.1025, s. 827.071, chapter 839, s. 847.0133, s. 847.0135, s. 847.0145, s. 893.135, s. 916.1075, a violation enumerated in s. 907.041, or any violation specified as a predicate offense for registration as a sexual predator pursuant to s. 775.21, without regard to whether that offense alone is sufficient to require such registration, or for registration as a sexual offender pursuant to s. 943.0435, may not be sealed, without regard to whether adjudication was withheld, if the defendant was found guilty of or pled guilty or nolo contendere to the offense, or if the defendant, as a minor, was found to have committed or pled guilty or nolo contendere to committing the offense as a delinquent act. The court may only order sealing of a criminal history record pertaining to one arrest or one incident of alleged criminal activity, except as provided in this section. The court may, at its sole discretion, order the sealing of a criminal history record pertaining to more than one arrest if the additional arrests directly relate to the original arrest. If the court intends to order the sealing of records pertaining to such additional arrests, such intent must be specified in the order. A criminal justice agency may not seal any record pertaining to such additional arrests if the order to seal does not articulate the intention of the court to seal records pertaining to more than one arrest. This section does not prevent the court from ordering the sealing of only a portion of a criminal history record pertaining to one arrest or one incident of alleged criminal activity. Notwithstanding any law to the contrary, a criminal justice agency may comply with laws, court orders, and official requests of other jurisdictions relating to sealing, correction, or confidential handling of criminal history records or information derived therefrom. This section does not confer any right to the sealing of any criminal history record, and any request for sealing a criminal history record may be denied at the sole discretion of the court.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PETITION TO SEAL A CRIMINAL HISTORY RECORD.<EmDash />Each petition to a court to seal a criminal history record is complete only when accompanied by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A valid certificate of eligibility for sealing issued by the department pursuant to subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The petitioner’s sworn statement attesting that the petitioner:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has never, prior to the date on which the petition is filed, been adjudicated guilty of a criminal offense or comparable ordinance violation, or been adjudicated delinquent for committing any felony or a misdemeanor specified in s. 943.051(3)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has not been adjudicated guilty of or adjudicated delinquent for committing any of the acts stemming from the arrest or alleged criminal activity to which the petition to seal pertains.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Has never secured a prior sealing or expunction of a criminal history record under this section, former s. 893.14, former s. 901.33, former s. 943.058, or from any jurisdiction outside the state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Is eligible for such a sealing to the best of his or her knowledge or belief and does not have any other petition to seal or any petition to expunge pending before any court.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Any person who knowingly provides false information on such sworn statement to the court commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATE OF ELIGIBILITY FOR SEALING.<EmDash />Prior to petitioning the court to seal a criminal history record, a person seeking to seal a criminal history record shall apply to the department for a certificate of eligibility for sealing. The department shall, by rule adopted pursuant to chapter 120, establish procedures pertaining to the application for and issuance of certificates of eligibility for sealing. A certificate of eligibility for sealing is valid for 12 months after the date stamped on the certificate when issued by the department. After that time, the petitioner must reapply to the department for a new certificate of eligibility. Eligibility for a renewed certification of eligibility must be based on the status of the applicant and the law in effect at the time of the renewal application. The department shall issue a certificate of eligibility for sealing to a person who is the subject of a criminal history record provided that such person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has submitted to the department a certified copy of the disposition of the charge to which the petition to seal pertains.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Remits a $75 processing fee to the department for placement in the Department of Law Enforcement Operating Trust Fund, unless such fee is waived by the executive director.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has never, prior to the date on which the application for a certificate of eligibility is filed, been adjudicated guilty of a criminal offense or comparable ordinance violation, or been adjudicated delinquent for committing any felony or a misdemeanor specified in s. 943.051(3)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has not been adjudicated guilty of or adjudicated delinquent for committing any of the acts stemming from the arrest or alleged criminal activity to which the petition to seal pertains.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Has never secured a prior sealing or expunction of a criminal history record under this section, former s. 893.14, former s. 901.33, or former s. 943.058.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Is no longer under court supervision applicable to the disposition of the arrest or alleged criminal activity to which the petition to seal pertains.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">PROCESSING OF A PETITION OR ORDER TO SEAL.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In judicial proceedings under this section, a copy of the completed petition to seal shall be served upon the appropriate state attorney or the statewide prosecutor and upon the arresting agency; however, it is not necessary to make any agency other than the state a party. The appropriate state attorney or the statewide prosecutor and the arresting agency may respond to the court regarding the completed petition to seal.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If relief is granted by the court, the clerk of the court shall certify copies of the order to the appropriate state attorney or the statewide prosecutor and to the arresting agency. The arresting agency is responsible for forwarding the order to any other agency to which the arresting agency disseminated the criminal history record information to which the order pertains. The department shall forward the order to seal to the Federal Bureau of Investigation. The clerk of the court shall certify a copy of the order to any other agency which the records of the court reflect has received the criminal history record from the court.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For an order to seal entered by a court prior to July 1, 1992, the department shall notify the appropriate state attorney or statewide prosecutor of any order to seal which is contrary to law because the person who is the subject of the record has previously been convicted of a crime or comparable ordinance violation or has had a prior criminal history record sealed or expunged. Upon receipt of such notice, the appropriate state attorney or statewide prosecutor shall take action, within 60 days, to correct the record and petition the court to void the order to seal. The department shall seal the record until such time as the order is voided by the court.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">On or after July 1, 1992, the department or any other criminal justice agency is not required to act on an order to seal entered by a court when such order does not comply with the requirements of this section. Upon receipt of such an order, the department must notify the issuing court, the appropriate state attorney or statewide prosecutor, the petitioner or the petitioner’s attorney, and the arresting agency of the reason for noncompliance. The appropriate state attorney or statewide prosecutor shall take action within 60 days to correct the record and petition the court to void the order. No cause of action, including contempt of court, shall arise against any criminal justice agency for failure to comply with an order to seal when the petitioner for such order failed to obtain the certificate of eligibility as required by this section or when such order does not comply with the requirements of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An order sealing a criminal history record pursuant to this section does not require that such record be surrendered to the court, and such record shall continue to be maintained by the department and other criminal justice agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">EFFECT OF CRIMINAL HISTORY RECORD SEALING.<EmDash />A criminal history record of a minor or an adult which is ordered sealed by a court of competent jurisdiction pursuant to this section is confidential and exempt from the provisions of s. 119.07(1) and s. 24(a), Art. I of the State Constitution and is available only to the person who is the subject of the record, to the subject’s attorney, to criminal justice agencies for their respective criminal justice purposes, which include conducting a criminal history background check for approval of firearms purchases or transfers as authorized by state or federal law, to judges in the state courts system for the purpose of assisting them in their case-related decisionmaking responsibilities, as set forth in s. 943.053(5), or to those entities set forth in subparagraphs (a)1., 4., 5., 6., and 8. for their respective licensing, access authorization, and employment purposes.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The subject of a criminal history record sealed under this section or under other provisions of law, including former s. 893.14, former s. 901.33, and former s. 943.058, may lawfully deny or fail to acknowledge the arrests covered by the sealed record, except when the subject of the record:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is a candidate for employment with a criminal justice agency;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Is a defendant in a criminal prosecution;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Concurrently or subsequently petitions for relief under this section or s. 943.0585;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Is a candidate for admission to The Florida Bar;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Is seeking to be employed or licensed by or to contract with the Department of Children and Family Services, the Division of Vocational Rehabilitation within the Department of Education, the Agency for Health Care Administration, the Agency for Persons with Disabilities, the Department of Health, the Department of Elderly Affairs, or the Department of Juvenile Justice or to be employed or used by such contractor or licensee in a sensitive position having direct contact with children, the disabled, or the elderly;</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Is seeking to be employed or licensed by the Department of Education, any district school board, any university laboratory school, any charter school, any private or parochial school, or any local governmental entity that licenses child care facilities;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Is attempting to purchase a firearm from a licensed importer, licensed manufacturer, or licensed dealer and is subject to a criminal history check under state or federal law; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Is seeking authorization from a Florida seaport identified in s. 311.09 for employment within or access to one or more of such seaports pursuant to s. 311.12.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Subject to the exceptions in paragraph (a), a person who has been granted a sealing under this section, former s. 893.14, former s. 901.33, or former s. 943.058 may not be held under any provision of law of this state to commit perjury or to be otherwise liable for giving a false statement by reason of such person’s failure to recite or acknowledge a sealed criminal history record.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Information relating to the existence of a sealed criminal record provided in accordance with the provisions of paragraph (a) is confidential and exempt from the provisions of s. 119.07(1) and s. 24(a), Art. I of the State Constitution, except that the department shall disclose the sealed criminal history record to the entities set forth in subparagraphs (a)1., 4., 5., 6., and 8. for their respective licensing, access authorization, and employment purposes. It is unlawful for any employee of an entity set forth in subparagraph (a)1., subparagraph (a)4., subparagraph (a)5., subparagraph (a)6., or subparagraph (a)8. to disclose information relating to the existence of a sealed criminal history record of a person seeking employment, access authorization, or licensure with such entity or contractor, except to the person to whom the criminal history record relates or to persons having direct responsibility for employment, access authorization, or licensure decisions. Any person who violates the provisions of this paragraph commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">STATUTORY REFERENCES.<EmDash />Any reference to any other chapter, section, or subdivision of the Florida Statutes in this section constitutes a general reference under the doctrine of incorporation by reference.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 92-73; s. 44, ch. 93-39; s. 3, ch. 94-127; s. 20, ch. 94-154; s. 96, ch. 94-209; s. 4, ch. 95-427; s. 53, ch. 96-169; s. 8, ch. 96-402; s. 444, ch. 96-406; s. 1848, ch. 97-102; s. 58, ch. 98-280; s. 116, ch. 99-3; s. 10, ch. 99-188; s. 5, ch. 99-300; s. 17, ch. 99-304; s. 3, ch. 2000-246; s. 28, ch. 2000-320; s. 5, ch. 2001-127; s. 1, ch. 2002-212; ss. 9, 98, ch. 2004-267; s. 2, ch. 2004-295; s. 23, ch. 2005-128; s. 119, ch. 2006-120; s. 11, ch. 2006-176; s. 28, ch. 2006-195; s. 110, ch. 2006-197; s. 6, ch. 2008-249; s. 9, ch. 2009-171; s. 8, ch. 2010-31; s. 18, ch. 2012-73; s. 19, ch. 2012-215.</History>
+</Section>

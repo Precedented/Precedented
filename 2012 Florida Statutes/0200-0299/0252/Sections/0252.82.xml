@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0252.82" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Commission” means the State Hazardous Materials Emergency Response Commission created pursuant to s. 301 of EPCRA.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Committee” means any local emergency planning committee established in the state pursuant to s. 301 of EPCRA.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Emergency Management within the Executive Office of the Governor.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Facility” means facility as defined in s. 329 of EPCRA. Vehicles placarded according to title 49 Code of Federal Regulations are not considered a facility except for purposes of s. 304 of EPCRA.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Hazardous material” means any hazardous chemical, toxic chemical, or extremely hazardous substance, as defined in s. 329 of EPCRA.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“EPCRA” means the Emergency Planning and Community Right-to-Know Act of 1986, title III of the Superfund Amendments and Reauthorization Act of 1986, ss. 300-329, 42 U.S.C. ss. 11001 et seq.; and federal regulations adopted thereunder.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Trust fund” means the Operating Trust Fund of the division.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 88-200; s. 2, ch. 92-150; s. 36, ch. 93-120; s. 4, ch. 2000-118; s. 23, ch. 2000-152; s. 106, ch. 2011-142.</History>
+</Section>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0945.602" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">State of Florida Correctional Medical Authority; creation; members.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created the State of Florida Correctional Medical Authority, which for administrative purposes shall be assigned to the Executive Office of the Governor. The governing board of the authority shall be composed of seven persons appointed by the Governor subject to confirmation by the Senate. One member must be a member of the Florida Hospital Association, and one member must be a member of the Florida Medical Association. The authority shall contract with the Executive Office of the Governor for the provision of administrative support services, including purchasing, personnel, general services, and budgetary matters. The authority is not subject to control, supervision, or direction by the Executive Office of the Governor or the Department of Corrections. The authority shall annually elect one member to serve as chair. Members shall be appointed for terms of 4 years each. Each member may continue to serve upon the expiration of his or her term until a successor is duly appointed as provided in this section. Before entering upon his or her duties, each member of the authority shall take and subscribe to the oath or affirmation required by the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A member of the authority may not be a current employee of the Department of Corrections. Not more than one member of the authority may be a former employee of the Department of Corrections, and such member, if appointed, may not be appointed to a term of office which begins within 5 years after the date of his or her last employment with the Department of Corrections.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">At least one member of the authority must be a physician licensed under chapter 458, and one member of the authority may be a physician licensed under chapter 458 or chapter 459. At least two other members of the authority must have had at least 5 years’ experience in health care administration.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">At least one member of the authority must have at least 5 years’ experience in the identification and treatment of mental disorders.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">At least one member of the authority must be a dentist licensed under chapter 466 and have at least 5 years’ experience in the practice of dentistry.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">At least one member of the authority must be a nurse licensed under part I of chapter 464 and have at least 5 years’ experience in the practice of nursing.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Five members of the authority shall constitute a quorum, and the affirmative vote of a majority of the members present at a meeting of the authority shall be necessary for any action taken by the authority. No vacancy in the membership of the authority shall impair the right of a quorum to exercise all the rights and perform all the duties of the authority. Any action taken by the authority under this act may be authorized by resolution at any regular or special meeting, and each such resolution shall take effect immediately and need not be published or posted. All meetings of the authority shall be open to the public in accordance with s. 286.011.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Neither the provisions of this section nor those of chapter 119, or of s. 154.207(7), shall apply to any health care provider under contract with the Department of Corrections except to the extent such provisions would apply to any similar provider not under contract with the Department of Corrections.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any general or special law, rule, regulation, or ordinance of any local agency to the contrary, service as a member of an authority by a trustee, director, officer, or employee of a health facility shall not in and of itself constitute a conflict of interest. However, any member of the authority who is employed by, or has received income from, a health facility under consideration by the authority or the Department of Corrections shall not vote on any matter related to such facility.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Members of the authority shall receive no compensation for the performance of their duties under this act, but each member shall be paid expenses incurred while engaged in the performance of such duties pursuant to s. 112.061.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 86-183; s. 1, ch. 87-50; s. 8, ch. 89-531; s. 1, ch. 90-83; s. 5, ch. 91-429; s. 1, ch. 92-47; s. 16, ch. 96-312; s. 1865, ch. 97-102; s. 116, ch. 97-237; s. 1, ch. 97-260; s. 147, ch. 2000-318; s. 1, ch. 2012-122.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 2, ch. 2012-122, provides that “[a]ll powers, duties, functions, records, offices, personnel, associated administrative support positions, property, pending issues, existing contracts, administrative authority, and administrative rules relating to the State of Florida Correctional Medical Authority in the Department of Health are transferred to the Executive Office of the Governor.”</Text>
+	</Note>
+</Section>

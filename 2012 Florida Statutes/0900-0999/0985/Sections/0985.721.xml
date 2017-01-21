@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.721" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Escapes from secure detention or residential commitment facility.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">An escape from:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any secure detention facility maintained for the temporary detention of children, pending adjudication, disposition, or placement;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any residential commitment facility described in s. 985.03(46), maintained for the custody, treatment, punishment, or rehabilitation of children found to have committed delinquent acts or violations of law; or</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Lawful transportation to or from any such secure detention facility or residential commitment facility,</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">constitutes escape within the intent and meaning of s. 944.40 and is a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 90-208; s. 13, ch. 92-287; s. 52, ch. 94-209; s. 12, ch. 95-152; s. 3, ch. 96-398; s. 113, ch. 97-238; s. 4, ch. 98-207; s. 59, ch. 98-280; s. 163, ch. 98-403; s. 136, ch. 99-3; s. 30, ch. 99-284; s. 41, ch. 2000-135; s. 41, ch. 2001-64; s. 18, ch. 2005-263; s. 99, ch. 2006-120; s. 3, ch. 2010-123; s. 9, ch. 2012-56.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 39.061; s. 944.401; s. 985.3141.</Text>
+	</Note>
+</Section>

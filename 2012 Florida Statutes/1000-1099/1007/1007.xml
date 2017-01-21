@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVIII">
+	<ChapterNumber>1007</ChapterNumber>
+	<ChapterName xml:space="preserve">Articulation and access</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="1007.01" />
+		<Section Number="1007.02" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Articulation</PartTitle>
+		<Section Number="1007.21" />
+		<Section Number="1007.22" />
+		<Section Number="1007.23" />
+		<Section Number="1007.24" />
+		<Section Number="1007.25" />
+		<Section Number="1007.2615" />
+		<Section Number="1007.262" />
+		<Section Number="1007.263" />
+		<Section Number="1007.264" />
+		<Section Number="1007.265" />
+		<Section Number="1007.27" />
+		<Section Number="1007.271" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Access to postsecondary education</PartTitle>
+		<Section Number="1007.33" />
+		<Section Number="1007.34" />
+		<Section Number="1007.35" />
+	</Part>
+</Chapter>

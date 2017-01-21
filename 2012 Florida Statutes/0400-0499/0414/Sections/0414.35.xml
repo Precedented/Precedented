@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.35" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Emergency relief.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules for the administration of emergency assistance programs delegated to the department either by executive order in accordance with the Disaster Relief Act of 1974 or pursuant to the Food and Nutrition Act of 2008.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In promulgating the rules required in this section, the department shall give particular consideration to the prevention of fraud in emergency assistance programs. Such rules shall, at a minimum, provide for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Verification of an applicant’s identity and address.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Determination of an applicant’s need for assistance and verification of an applicant’s need in accordance with appropriate federal law and regulations.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The timely and adequate dissemination of accurate certification information to local emergency management agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In administering emergency food assistance and other emergency assistance programs, the department shall cooperate fully with the United States Government and with other departments, instrumentalities, and agencies of this state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 78-433; s. 43, ch. 83-334; s. 37, ch. 96-175; s. 27, ch. 97-173; s. 44, ch. 2000-165; s. 28, ch. 2010-209.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 409.60.</Text>
+	</Note>
+</Section>

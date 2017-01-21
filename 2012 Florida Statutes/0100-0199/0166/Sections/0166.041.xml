@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0166.041" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Procedures for adoption of ordinances and resolutions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the following words and terms shall have the following meanings unless some other meaning is plainly indicated:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Ordinance” means an official legislative action of a governing body, which action is a regulation of a general and permanent nature and enforceable as a local law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Resolution” means an expression of a governing body concerning matters of administration, an expression of a temporary character, or a provision for the disposition of a particular item of the administrative business of the governing body.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each ordinance or resolution shall be introduced in writing and shall embrace but one subject and matters properly connected therewith. The subject shall be clearly stated in the title. No ordinance shall be revised or amended by reference to its title only. Ordinances to revise or amend shall set out in full the revised or amended act or section or subsection or paragraph of a section or subsection.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (c), a proposed ordinance may be read by title, or in full, on at least 2 separate days and shall, at least 10 days prior to adoption, be noticed once in a newspaper of general circulation in the municipality. The notice of proposed enactment shall state the date, time, and place of the meeting; the title or titles of proposed ordinances; and the place or places within the municipality where such proposed ordinances may be inspected by the public. The notice shall also advise that interested parties may appear at the meeting and be heard with respect to the proposed ordinance.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The governing body of a municipality may, by a two-thirds vote, enact an emergency ordinance without complying with the requirements of paragraph (a) of this subsection. However, no emergency ordinance or resolution shall be enacted which establishes or amends the actual zoning map designation of a parcel or parcels of land or that changes the actual list of permitted, conditional, or prohibited uses within a zoning category. Emergency enactment procedures for land use plans adopted pursuant to part II of chapter 163 shall be pursuant to that part.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">Ordinances initiated by other than the municipality that change the actual zoning map designation of a parcel or parcels of land shall be enacted pursuant to paragraph (a). Ordinances that change the actual list of permitted, conditional, or prohibited uses within a zoning category, or ordinances initiated by the municipality that change the actual zoning map designation of a parcel or parcels of land shall be enacted pursuant to the following procedure:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In cases in which the proposed ordinance changes the actual zoning map designation for a parcel or parcels of land involving less than 10 contiguous acres, the governing body shall direct the clerk of the governing body to notify by mail each real property owner whose land the municipality will redesignate by enactment of the ordinance and whose address is known by reference to the latest ad valorem tax records. The notice shall state the substance of the proposed ordinance as it affects that property owner and shall set a time and place for one or more public hearings on such ordinance. Such notice shall be given at least 30 days prior to the date set for the public hearing, and a copy of the notice shall be kept available for public inspection during the regular business hours of the office of the clerk of the governing body. The governing body shall hold a public hearing on the proposed ordinance and may, upon the conclusion of the hearing, immediately adopt the ordinance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In cases in which the proposed ordinance changes the actual list of permitted, conditional, or prohibited uses within a zoning category, or changes the actual zoning map designation of a parcel or parcels of land involving 10 contiguous acres or more, the governing body shall provide for public notice and hearings as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The local governing body shall hold two advertised public hearings on the proposed ordinance. At least one hearing shall be held after 5 p.m. on a weekday, unless the local governing body, by a majority plus one vote, elects to conduct that hearing at another time of day. The first public hearing shall be held at least 7 days after the day that the first advertisement is published. The second hearing shall be held at least 10 days after the first hearing and shall be advertised at least 5 days prior to the public hearing.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The required advertisements shall be no less than 2 columns wide by 10 inches long in a standard size or a tabloid size newspaper, and the headline in the advertisement shall be in a type no smaller than 18 point. The advertisement shall not be placed in that portion of the newspaper where legal notices and classified advertisements appear. The advertisement shall be placed in a newspaper of general paid circulation in the municipality and of general interest and readership in the municipality, not one of limited subject matter, pursuant to chapter 50. It is the legislative intent that, whenever possible, the advertisement appear in a newspaper that is published at least 5 days a week unless the only newspaper in the municipality is published less than 5 days a week. The advertisement shall be in substantially the following form:</Text>
+						<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF (TYPE OF) CHANGE</Text>
+						<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The <Directions xml:space="preserve">(name of local governmental unit)</Directions> proposes to adopt the following ordinance:<Directions xml:space="preserve">(title of the ordinance)</Directions>.</Text>
+						<Text xml:space="preserve" Style="Indent">A public hearing on the ordinance will be held on <Directions xml:space="preserve">(date and time)</Directions> at <Directions xml:space="preserve">(meeting place)</Directions>.</Text>
+						<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Except for amendments which change the actual list of permitted, conditional, or prohibited uses within a zoning category, the advertisement shall contain a geographic location map which clearly indicates the area covered by the proposed ordinance. The map shall include major street names as a means of identification of the general area. In addition to being published in the newspaper, the map must be part of the online notice required pursuant to s. 50.0211.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">In lieu of publishing the advertisement set out in this paragraph, the municipality may mail a notice to each person owning real property within the area covered by the ordinance. Such notice shall clearly explain the proposed ordinance and shall notify the person of the time, place, and location of any public hearing on the proposed ordinance.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A majority of the members of the governing body shall constitute a quorum. An affirmative vote of a majority of a quorum present is necessary to enact any ordinance or adopt any resolution; except that two-thirds of the membership of the board is required to enact an emergency ordinance. On final passage, the vote of each member of the governing body voting shall be entered on the official record of the meeting. All ordinances or resolutions passed by the governing body shall become effective 10 days after passage or as otherwise provided therein.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Every ordinance or resolution shall, upon its final passage, be recorded in a book kept for that purpose and shall be signed by the presiding officer and the clerk of the governing body.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The procedure as set forth herein shall constitute a uniform method for the adoption and enactment of municipal ordinances and resolutions and shall be taken as cumulative to other methods now provided by law for adoption and enactment of municipal ordinances and resolutions. By future ordinance or charter amendment, a municipality may specify additional requirements for the adoption or enactment of ordinances or resolutions or prescribe procedures in greater detail than contained herein. However, a municipality shall not have the power or authority to lessen or reduce the requirements of this section or other requirements as provided by general law.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Five years after the adoption of any ordinance or resolution adopted after the effective date of this act, no cause of action shall be commenced as to the validity of an ordinance or resolution based on the failure to strictly adhere to the provisions contained in this section. After 5 years, substantial compliance with the provisions contained in this section shall be a defense to an action to invalidate an ordinance or resolution for failure to comply with the provisions contained in this section. Without limitation, the common law doctrines of laches and waiver are valid defenses to any action challenging the validity of an ordinance or resolution based on failure to strictly adhere to the provisions contained in this section. Standing to initiate a challenge to the adoption of an ordinance or resolution based on a failure to strictly adhere to the provisions contained in this section shall be limited to a person who was entitled to actual or constructive notice at the time the ordinance or resolution was adopted. Nothing herein shall be construed to affect the standing requirements under part II of chapter 163.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The notice procedures required by this section are established as minimum notice procedures.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 73-129; s. 2, ch. 76-155; s. 2, ch. 77-331; s. 1, ch. 83-240; s. 1, ch. 83-301; s. 2, ch. 95-198; s. 5, ch. 95-310; s. 5, ch. 2012-212.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 21, ch. 2012-212, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect July 1, 2012, and shall apply to legal notices that must be published on or after that date.”</Text>
+	</Note>
+</Section>

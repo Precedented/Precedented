@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0489.118" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certification of registered contractors; grandfathering provisions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The board shall, upon receipt of a completed application and appropriate fee, issue a certificate in the appropriate category to any contractor registered under this part who makes application to the board and can show that he or she meets each of the following requirements:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Currently holds a valid registered local license in one of the contractor categories defined in <Reference Number="1"/>s. 489.105(3)(a)-(p).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Has, for that category, passed a written examination that the board finds to be substantially similar to the examination required to be licensed as a certified contractor under this part. For purposes of this subsection, a written, proctored examination such as that produced by the National Assessment Institute, Block and Associates, NAI/Block, Experior Assessments, Professional Testing, Inc., or Assessment Systems, Inc., shall be considered to be substantially similar to the examination required to be licensed as a certified contractor. The board may not impose or make any requirements regarding the nature or content of these cited examinations.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Has at least 5 years of experience as a contractor in that contracting category, or as an inspector or building administrator with oversight over that category, at the time of application. For contractors, only time periods in which the contractor license is active and the contractor is not on probation shall count toward the 5 years required by this subsection.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Has not had his or her contractor’s license revoked at any time, had his or her contractor’s license suspended within the last 5 years, or been assessed a fine in excess of $500 within the last 5 years.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Is in compliance with the insurance and financial responsibility requirements in s. 489.115(5).</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">Applicants wishing to obtain a certificate pursuant to this section must make application by <Reference Number="2"/>November 1, 2015.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 99-254; s. 34, ch. 2000-372; s. 48, ch. 2002-402; s. 15, ch. 2004-6; s. 2, ch. 2005-227; s. 18, ch. 2012-72; s. 6, ch. 2012-211.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Substituted by the editors for a reference to s. 489.105(3)(a)-(q), which was substituted for the original reference to s. 489.105(3)(a)-(p) by s. 6, ch. 2012-211, to add paragraph (q) relating to glass and glazing contractors to the list; paragraph (q) was repealed by s. 9, ch. 2012-13, and s. 15, ch. 2012-72.</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">As reenacted and amended by s. 6, ch. 2012-211. Section 18, ch. 2012-72, also reenacted and amended s. 489.118, and that version used the date “November 1, 2014,” instead of the date “November 1, 2015.”</Text>
+	</Note>
+</Section>

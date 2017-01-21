@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0320.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Registration required; application for registration; forms.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this chapter, every owner or person in charge of a motor vehicle that is operated or driven on the roads of this state shall register the vehicle in this state. The owner or person in charge shall apply to the department or to its authorized agent for registration of each such vehicle on a form prescribed by the department. A registration is not required for any motor vehicle that is not operated on the roads of this state during the registration period.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The application for registration shall include the street address of the owner’s permanent residence or the address of his or her permanent place of business and shall be accompanied by personal or business identification information which may include, but need not be limited to, a driver license number, Florida identification card number, or federal employer identification number. If the owner does not have a permanent residence or permanent place of business or if the owner’s permanent residence or permanent place of business cannot be identified by a street address, the application shall include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the vehicle is registered to a business, the name and street address of the permanent residence of an owner of the business, an officer of the corporation, or an employee who is in a supervisory position.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the vehicle is registered to an individual, the name and street address of the permanent residence of a close relative or friend who is a resident of this state.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">If the vehicle is registered to an active duty member of the Armed Forces of the United States who is a Florida resident, the active duty member is exempt from the requirement to provide the street address of a permanent residence.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall prescribe a form upon which motor vehicle owners may record odometer readings when registering their motor vehicles.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Prior to the registration in this state of any vehicle registered outside the state, the application must be accompanied by either a sworn affidavit from the seller and purchaser verifying that the vehicle identification number shown on the affidavit is identical to the vehicle identification number shown on the motor vehicle or a copy of the appropriate departmental form evidencing that a physical examination has been made of the motor vehicle by the owner and by a duly constituted police officer of any state, a licensed motor vehicle dealer, a license inspector as provided by s. 320.58, or a notary public commissioned by any state and that the vehicle identification number shown on the applicable form and the application is identical to the vehicle identification number shown on the motor vehicle. Vehicle identification number verification is not required for any new vehicle sold in this state by a licensed motor vehicle dealer, any mobile home, any trailer or semitrailer with a net weight of less than 2,000 pounds, or any travel trailer or camping trailer.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The owner of any motor vehicle registered in the state shall notify the department in writing of any change of address within 20 days of such change. The notification shall include the registration license plate number, the vehicle identification number (VIN) or title certificate number, year of vehicle make, and the owner’s full name.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Proof that personal injury protection benefits have been purchased when required under s. 627.733, that property damage liability coverage has been purchased as required under s. 324.022, that bodily injury or death coverage has been purchased if required under s. 324.023, and that combined bodily liability insurance and property damage liability insurance have been purchased when required under s. 627.7415 shall be provided in the manner prescribed by law by the applicant at the time of application for registration of any motor vehicle that is subject to such requirements. The issuing agent shall refuse to issue registration if such proof of purchase is not provided. Insurers shall furnish uniform proof-of-purchase cards in a form prescribed by the department and shall include the name of the insured’s insurance company, the coverage identification number, and the make, year, and vehicle identification number of the vehicle insured. The card shall contain a statement notifying the applicant of the penalty specified in s. 316.646(4). The card or insurance policy, insurance policy binder, or certificate of insurance or a photocopy of any of these; an affidavit containing the name of the insured’s insurance company, the insured’s policy number, and the make and year of the vehicle insured; or such other proof as may be prescribed by the department shall constitute sufficient proof of purchase. If an affidavit is provided as proof, it shall be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Under penalty of perjury, I <Directions xml:space="preserve">(Name of insured)</Directions> do hereby certify that I have <Directions xml:space="preserve">(Personal Injury Protection, Property Damage Liability, and, when required, Bodily Injury Liability)</Directions> Insurance currently in effect with <Directions xml:space="preserve">(Name of insurance company)</Directions> under <Directions xml:space="preserve">(policy number)</Directions> covering <Directions xml:space="preserve">(make, year, and vehicle identification number of vehicle)</Directions>. <Directions xml:space="preserve">(Signature of Insured)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Such affidavit shall include the following warning:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">WARNING: GIVING FALSE INFORMATION IN ORDER TO OBTAIN A VEHICLE REGISTRATION CERTIFICATE IS A CRIMINAL OFFENSE UNDER FLORIDA LAW. ANYONE GIVING FALSE INFORMATION ON THIS AFFIDAVIT IS SUBJECT TO PROSECUTION.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">When an application is made through a licensed motor vehicle dealer as required in s. 319.23, the original or a photostatic copy of such card, insurance policy, insurance policy binder, or certificate of insurance or the original affidavit from the insured shall be forwarded by the dealer to the tax collector of the county or the Department of Highway Safety and Motor Vehicles for processing. By executing the aforesaid affidavit, no licensed motor vehicle dealer will be liable in damages for any inadequacy, insufficiency, or falsification of any statement contained therein. A card shall also indicate the existence of any bodily injury liability insurance voluntarily purchased.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When an operator who owns a motor vehicle is subject to the financial responsibility requirements of chapter 324, including ss. 324.022 and 324.023, such operator shall provide proof of compliance with such financial responsibility requirements at the time of registration of any such motor vehicle by one of the methods constituting sufficient proof of purchase under paragraph (a). The issuing agent shall refuse to register a motor vehicle if such proof of purchase is not provided or if one of the other methods of proving financial responsibility as set forth in s. 324.031 is not met.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For purposes of providing proof of purchase of required insurance coverage under this subsection, the Office of Insurance Regulation of the Financial Services Commission shall require that uniform proof-of-purchase cards specified by the Department of Highway Safety and Motor Vehicles be furnished by insurers writing motor vehicle liability insurance in this state. Any person altering or counterfeiting such a card or making a false affidavit in order to furnish false proof or to knowingly permit another person to furnish false proof is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The verifying of proof of personal injury protection insurance, proof of property damage liability insurance, proof of combined bodily liability insurance and property damage liability insurance, or proof of financial responsibility insurance and the issuance or failure to issue the motor vehicle registration under the provisions of this chapter may not be construed in any court as a warranty of the reliability or accuracy of the evidence of such proof. Neither the department nor any tax collector is liable in damages for any inadequacy, insufficiency, falsification, or unauthorized modification of any item of the proof of personal injury protection insurance, proof of property damage liability insurance, proof of combined bodily liability insurance and property damage liability insurance, or proof of financial responsibility insurance prior to, during, or subsequent to the verification of the proof. The issuance of a motor vehicle registration does not constitute prima facie evidence or a presumption of insurance coverage.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Upon the expiration date noted in the cancellation notice that the department receives from the insurer, the department shall suspend the registration, issued under this chapter or s. 207.004(1), of a motor carrier who operates a commercial motor vehicle or who permits it to be operated in this state during the registration period without having in full force liability insurance, a surety bond, or a valid self-insurance certificate that complies with this section. The insurer shall provide notice to the department at the same time the cancellation notice is provided to the insured pursuant to s. 627.7281. The department may adopt rules regarding the electronic submission of the cancellation notice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any person who registers his or her motor vehicle by means of false or fraudulent representations made in any application for registration is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083. The department may demand the return of, and may cancel, any license plate issued based on false or fraudulent representations.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Every owner or person in charge of a motor vehicle with a gross vehicle weight of 55,000 pounds or more shall present proof of filing or proof of payment, in such form as may be prescribed by the United States Secretary of the Treasury, of the use tax imposed by s. 4481 of the United States Internal Revenue Code of 1954, as amended, upon application for registration. Proof of payment or proof of filing will be made in accordance with the gross vehicle weight tax schedule established by s. 4481 of the Internal Revenue Code, as amended. An owner or person in charge of such a motor vehicle who has been exempted from the use tax by the Secretary of the Treasury shall present proof of such exemption in lieu of proof of payment. When an application is made through a licensed motor vehicle dealer as required in s. 319.23, the original or photostatic copy of such prescribed proof shall be forwarded by the dealer to the tax collector or the department for processing. The issuing agent shall refuse to issue a registration if such prescribed proof is not presented. Any person making a false affidavit in order to furnish false proof or to knowingly permit another person to furnish such false proof is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration shall include language permitting a voluntary contribution of $1 per applicant, which contribution shall be paid into the Nongame Wildlife Trust Fund. The application form shall also include language providing for a voluntary contribution of $2, which shall be paid into the Highway Safety Operating Trust Fund and used to purchase child safety seats.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Before a motor vehicle which has not been manufactured in accordance with the federal Clean Air Act and the federal Motor Vehicle Safety Act can be sold to a consumer and titled and registered in this state, the motor vehicle must be certified by the United States Bureau of Customs and Border Protection or the United States Department of Transportation and the United States Environmental Protection Agency to be in compliance with these federal standards. A vehicle which is registered pursuant to this subsection shall not be titled as a new motor vehicle.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">An owner or person in charge of a motor vehicle subject to inspection pursuant to the Clean Outdoor Air Law shall provide proof of inspection or waiver at the time of registration of any such motor vehicle. The issuing agent shall refuse to register a motor vehicle if such proof of inspection or waiver is not provided.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The department shall audit affidavits utilized as proof of insurance under subsection (5) to verify that the affidavits are not false. The department shall take action as appropriate with respect to false affidavits.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The department is authorized to withhold registration or reregistration of any motor vehicle if the owner, or one of the coowners of the vehicle, has a driver’s license which is under suspension for the failure to remit payment of any fines levied in this state pursuant to chapter 318 or chapter 322.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The license inspectors appointed by the department pursuant to s. 320.58 are empowered to issue a notice of violation on a form prescribed by the department to unattended motor vehicles that reasonably appear to such examiners to be required to be registered under this chapter and that are not so registered. The notice of violation shall include a summary of the provisions of this section and shall contain such other information as the department in its discretion shall determine.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The owner or person in charge of any vehicle that is issued a notice of violation pursuant to this section shall, within 30 days of the date of issuance shown on the notice, register the vehicle as required by this chapter or provide proof satisfactory to the department that the vehicle is exempt from such registration. If the vehicle is not registered or the proof is not provided on or after the 31st day following the date of issuance shown on the notice, the department is authorized to immobilize the vehicle by use of an immobilization device. Upon proof of registration of the vehicle or proof satisfactory to the department that the vehicle is exempt from such registration, the department shall remove the immobilization device. The department shall immediately remove, at no charge, any immobilization device that has been placed on any vehicle in error.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The license inspectors appointed by the department pursuant to s. 320.58 are empowered to enter upon both publicly owned and privately owned property in order to carry out the provisions of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person who, without the authorization of the department, disables, removes, tampers with, damages, or unlocks an immobilization device placed on a vehicle pursuant to this section, or who attempts to do so, is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration must include language permitting a voluntary contribution of $1 per applicant, which contribution must be transferred into the Transportation Disadvantaged Trust Fund created in s. 427.0159 and must be expended as provided in that section.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration shall include language permitting the voluntary contribution of $1 per applicant, to be quarterly distributed by the department to Prevent Blindness Florida, a not-for-profit organization, to prevent blindness and preserve the sight of the residents of this state. A statement providing an explanation of the purpose of the funds shall be included with the application form. Prior to the department distributing the funds collected pursuant to this paragraph, Prevent Blindness Florida must submit a report to the department that identifies how such funds were used during the preceding year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution to the Florida Mothers Against Drunk Driving, Inc., which contribution must be transferred by the department to the Florida Mothers Against Drunk Driving, Inc., on a monthly basis.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration shall include language permitting the voluntary contribution of $1 per applicant, to be distributed quarterly by the department to Southeastern Guide Dogs, Inc., a corporation not for profit under s. 501(c)(3) of the Internal Revenue Code, to be used by that organization for the purpose of breeding, raising, and training guide dogs for the blind. Such funds may also be used toward the costs of the required in-residence training for the individual receiving a guide dog.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration shall include language permitting the voluntary contribution of $1 per applicant to Stop Heart Disease. The proceeds shall be distributed quarterly by the department to the Miami Heart Research Institute, Inc., doing business as the Florida Heart Research Institute, a corporation not for profit under s. 501(c)(3) of the Internal Revenue Code, to be used by that organization for the purpose of heart disease research, education, and prevention programs.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal registration must include language permitting a voluntary contribution of $1 per applicant, which contribution must be distributed to the Children’s Hearing Help Fund to be used for purposes provided for the fund.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 320.023, the application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 per applicant to the state homes for veterans, to be distributed on a quarterly basis by the department to the State Homes for Veterans Trust Fund, which is administered by the Department of Veterans’ Affairs.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to Family First. Such contributions must be transferred by the department each month to Family First, a nonprofit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to Florida Sheriffs Youth Ranches, Inc. Such contributions must be transferred by the department each month to Florida Sheriffs Youth Ranches, Inc., a not-for-profit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to Blind Babies and Blind Youth Services. Such contributions shall be transferred by the department each month to the Florida Association of Agencies Serving the Blind, Inc., a not-for-profit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 for services for persons with developmental disabilities. Such contributions shall be transferred by the department to The Arc of Florida to be used by that organization for programs and services in this state for persons with developmental disabilities.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to the Ronald McDonald House. Such contributions shall be transferred by the department each month to Ronald McDonald House Charities of Tampa Bay, Inc.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 320.023, the application forms for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 per applicant, which shall be distributed to the League Against Cancer/La Liga Contra el Cancer. Such contributions shall be distributed by the department to the League Against Cancer/La Liga Contra el Cancer, a not-for-profit organization that provides free medical care to needy cancer patients. The department shall retain all contributions necessary, up to a maximum of $10,000, to defray the cost of including the voluntary contribution language on the registration forms.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">The application forms for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to Prevent Child Sexual Abuse. Such contributions shall be distributed by the department to Lauren’s Kids, Inc., a corporation not for profit under s. 501(c)(3) of the Internal Revenue Code. The funds shall be used by the organization for the prevention of childhood sexual abuse.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal registration must include language permitting the voluntary contribution of $1 per applicant, to be distributed quarterly by the department to Florida Network of Children’s Advocacy Centers, Inc. The network may retain a maximum of 50 percent of the revenues to support the activities of the network and shall distribute the remainder equitably among the network members, as determined by the board of directors of the network.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal registration must include language permitting a voluntary contribution of $1 to the Florida Association of Food Banks, Inc. The proceeds shall be distributed by the department each month to the Florida Association of Food Banks, Inc., to be used by that organization for the purpose of ending hunger in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 per applicant for Autism Services and Supports. Such contributions must be transferred by the department each month to the Achievement and Rehabilitation Centers, Inc., Autism Services Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 per applicant to Support Our Troops, which shall be distributed monthly to Support Our Troops, Inc., a Florida not-for-profit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">The application form for motor vehicle registration and renewal of registration must include language permitting a voluntary contribution of $1 to Take Stock In Children. Such contributions shall be transferred by the department to Take Stock In Children, Inc.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For the purpose of applying the service charge provided in s. 215.20, contributions received under this subsection are not income of a revenue nature.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">The department is authorized to withhold registration or re-registration of a motor vehicle if the name of the owner or of a coowner appears on a list submitted to the department by a licensed motor vehicle dealer for a previous registration of that vehicle. The department shall place the name of the registered owner of that vehicle on the list of those persons who may not be issued a license plate, revalidation sticker, or replacement plate for the vehicle purchased from the licensed motor vehicle dealer. The motor vehicle dealer must maintain signed evidence that the owner or coowner acknowledged the dealer’s authority to submit the list to the department if he or she failed to pay and must note the amount for which the owner or coowner would be responsible for the vehicle registration. The dealer must maintain the necessary documentation required in this subsection or face penalties as provided in s. 320.27. This subsection does not affect the issuance of a title to a motor vehicle.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The motor vehicle owner or coowner may dispute the claim that money is owed to a dealer for registration fees by submitting a form to the department if the motor vehicle owner or coowner has documentary proof that the registration fees have been paid to the dealer for the disputed amount. Without clear evidence of the amounts owed for the vehicle registration and repayment, the department will assume initial payments are applied to government-assessed fees first.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the registered owner’s dispute complies with paragraph (a), the department shall immediately remove the motor vehicle owner or coowner’s name from the list, thereby allowing the issuance of a license plate or revalidation sticker.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">If any applicant’s name appears on a list of persons who may not be issued a license plate, revalidation sticker, or replacement license plate after a written notice to surrender a vehicle was submitted to the department by a lienor as provided in s. 320.1316, the department may withhold renewal of registration or replacement registration of any motor vehicle owned by the applicant at the time the notice was submitted by the lienor. The lienor must maintain proof that written notice to surrender the vehicle was sent to each registered owner pursuant to s. 320.1316(1). A revalidation sticker or replacement license plate may not be issued until that person’s name no longer appears on the list or until the person presents documentation from the lienor that the vehicle has been surrendered to the lienor. The department shall not withhold an initial registration in connection with an applicant’s purchase or lease of a motor vehicle solely because the applicant’s name is on the list created by s. 320.1316.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">The department shall retain all electronic registration records for at least 10 years.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 7275, 1917; RGS 1007; s. 3, ch. 8410, 1921; s. 2, ch. 10182, 1925; CGL 1281; s. 1, ch. 15625, 1931; s. 1, ch. 16085, 1933; s. 1, ch. 26909, 1951; s. 1, ch. 28186, 1953; s. 6, ch. 65-190; ss. 24, 35, ch. 69-106; s. 1, ch. 71-42; s. 2, ch. 73-284; s. 1, ch. 75-57; s. 4, ch. 75-66; s. 4, ch. 77-357; s. 4, ch. 77-468; s. 1, ch. 78-186; s. 3, ch. 78-225; s. 2, ch. 78-353; s. 4, ch. 78-363; s. 4, ch. 78-412; s. 3, ch. 79-32; s. 2, ch. 80-388; s. 1, ch. 83-200; s. 6, ch. 83-298; s. 4, ch. 83-318; s. 1, ch. 83-320; ss. 2, 3, ch. 84-155; s. 3, ch. 84-194; s. 45, ch. 85-180; s. 3, ch. 86-182; s. 12, ch. 86-243; s. 21, ch. 87-198; s. 19, ch. 88-129; s. 4, ch. 88-253; ss. 4, 5, ch. 88-370; s. 1, ch. 89-212; s. 26, ch. 90-119; s. 1, ch. 90-329; s. 27, ch. 91-107; s. 43, ch. 94-306; s. 911, ch. 95-148; s. 14, ch. 95-333; s. 19, ch. 97-300; s. 1, ch. 99-233; ss. 16, 259, ch. 99-248; ss. 48, 49, ch. 2000-171; s. 358, ch. 2003-261; s. 26, ch. 2004-5; s. 8, ch. 2004-235; s. 14, ch. 2005-164; s. 1, ch. 2005-254; s. 1, ch. 2006-44; s. 28, ch. 2006-290; s. 1, ch. 2007-50; s. 3, ch. 2007-150; s. 2, ch. 2007-324; s. 2, ch. 2008-87; s. 1, ch. 2008-102; ss. 17, 18, ch. 2008-176; s. 1, ch. 2009-110; s. 2, ch. 2009-206; s. 1, ch. 2010-82; s. 1, ch. 2010-86; s. 1, ch. 2010-186; s. 10, ch. 2010-198; s. 16, ch. 2010-223; s. 1, ch. 2012-86; s. 28, ch. 2012-181.</History>
+</Section>

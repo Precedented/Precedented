@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Persons exempt from obtaining driver license.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The following persons are exempt from obtaining a driver license:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any employee of the United States Government, while operating a noncommercial motor vehicle owned by or leased to the United States Government and being operated on official business.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person while driving or operating any road machine, farm tractor, or implement of husbandry temporarily operated or moved on a highway.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A nonresident who is at least 16 years of age operating a motor vehicle of the type for which a Class E driver license is required in this state if the nonresident has in his or her immediate possession:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A valid noncommercial driver license issued in his or her name from another state or territory of the United States; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An International Driving Permit issued in his or her name in his or her country of residence and a valid license issued in that country.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person operating a golf cart, as defined in s. 320.01, which is operated in accordance with the provisions of s. 316.212.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any person to whom s. 322.031 applies.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person working for a firm under contract to the United States Government whose residence is outside this state and whose main point of employment is outside this state may drive a noncommercial vehicle on the public roads of this state for periods up to 60 days while in this state on temporary duty, if the person has a valid driver license from the state of the person’s residence.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 19551, 1939; CGL 1940 Supp. 4151(630); s. 16, ch. 20451, 1941; s. 1, ch. 21949, 1943; s. 3, ch. 29721, 1955; s. 1, ch. 59-315; s. 1, ch. 61-124; s. 1, ch. 69-186; s. 5, ch. 78-394; s. 2, ch. 84-111; s. 45, ch. 87-198; s. 34, ch. 89-282; s. 5, ch. 91-243; s. 395, ch. 95-148; s. 32, ch. 95-333; s. 45, ch. 2012-181.</History>
+</Section>

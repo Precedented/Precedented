@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.6699" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Employee Health Care Access Act.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section may be cited as the “Employee Health Care Access Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">PURPOSE AND INTENT.<EmDash />The purpose and intent of this section is to promote the availability of health insurance coverage to small employers regardless of their claims experience or their employees’ health status, to establish rules regarding renewability of that coverage, to establish limitations on the use of exclusions for preexisting conditions, to provide for development of a standard health benefit plan and a basic health benefit plan to be offered to all small employers, to provide for establishment of a reinsurance program for coverage of small employers, and to improve the overall fairness and efficiency of the small group health insurance market.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Actuarial certification” means a written statement, by a member of the American Academy of Actuaries or another person acceptable to the office, that a small employer carrier is in compliance with subsection (6), based upon the person’s examination, including a review of the appropriate records and of the actuarial assumptions and methods used by the carrier in establishing premium rates for applicable health benefit plans.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Basic health benefit plan” and “standard health benefit plan” mean low-cost health care plans developed pursuant to subsection (12).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Board” means the board of directors of the program.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Carrier” means a person who provides health benefit plans in this state, including an authorized insurer, a health maintenance organization, a multiple-employer welfare arrangement, or any other person providing a health benefit plan that is subject to insurance regulation in this state. However, the term does not include a multiple-employer welfare arrangement or voluntary employees’ beneficiary association, as defined under 26 U.S.C. s. 501(c)(9), which multiple-employer welfare arrangement or voluntary employees’ beneficiary association operates solely for the benefit of the members or the members and the employees of such members, is located in this state, and was in existence on January 1, 1992. The term also does not include any authorized insurer or health maintenance organization to the extent that it insures the members or the members and the employees of such members of such multiple-employer welfare arrangement or voluntary employees’ beneficiary association in existence on January 1, 1992.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Case management program” means the specific supervision and management of the medical care provided or prescribed for a specific individual, which may include the use of health care providers designated by the carrier.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Creditable coverage” has the same meaning ascribed in s. 627.6561.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Dependent” means the spouse or child of an eligible employee, subject to the applicable terms of the health benefit plan covering that employee.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Eligible employee” means an employee who works full time, having a normal workweek of 25 or more hours, and who has met any applicable waiting-period requirements or other requirements of this act. The term includes a self-employed individual, a sole proprietor, a partner of a partnership, or an independent contractor, if the sole proprietor, partner, or independent contractor is included as an employee under a health benefit plan of a small employer, but does not include a part-time, temporary, or substitute employee.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Established geographic area” means the county or counties, or any portion of a county or counties, within which the carrier provides or arranges for health care services to be available to its insureds, members, or subscribers.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Guaranteed-issue basis” means an insurance policy that must be offered to an employer, employee, or dependent of the employee, regardless of health status, preexisting conditions, or claims history.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Health benefit plan” means any hospital or medical policy or certificate, hospital or medical service plan contract, or health maintenance organization subscriber contract. The term does not include accident-only, specified disease, individual hospital indemnity, credit, dental-only, vision-only, Medicare supplement, long-term care, or disability income insurance; similar supplemental plans provided under a separate policy, certificate, or contract of insurance, which cannot duplicate coverage under an underlying health plan and are specifically designed to fill gaps in the underlying health plan, coinsurance, or deductibles; coverage issued as a supplement to liability insurance; workers’ compensation or similar insurance; or automobile medical-payment insurance.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Late enrollee” means an eligible employee or dependent as defined under s. 627.6561(1)(b).</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Limited benefit policy or contract” means a policy or contract that provides coverage for each person insured under the policy for a specifically named disease or diseases, a specifically named accident, or a specifically named limited market that fulfills an experimental or reasonable need, such as the small group market.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Modified community rating” means a method used to develop carrier premiums which spreads financial risk across a large population; allows the use of separate rating factors for age, gender, family composition, tobacco usage, and geographic area as determined under paragraph (5)(j); and allows adjustments for: claims experience, health status, or duration of coverage as <Reference Number="2" />permitted under subparagraph (6)(b)5.; and administrative and acquisition expenses as <Reference Number="2" />permitted under subparagraph (6)(b)5.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Participating carrier” means any carrier that issues health benefit plans in this state except a small employer carrier that elects to be a risk-assuming carrier.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Plan of operation” means the plan of operation of the program, including articles, bylaws, and operating rules, adopted by the board under subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">“Program” means the Florida Small Employer Carrier Reinsurance Program created under subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">“Rating period” means the calendar period for which premium rates established by a small employer carrier are assumed to be in effect.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">“Reinsuring carrier” means a small employer carrier that elects to comply with the requirements set forth in subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">“Risk-assuming carrier” means a small employer carrier that elects to comply with the requirements set forth in subsection (10).</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">“Self-employed individual” means an individual or sole proprietor who derives his or her income from a trade or business carried on by the individual or sole proprietor which results in taxable income as indicated on IRS Form 1040, schedule C or F, and which generated taxable income in one of the 2 previous years.</Text>
+			</Paragraph>
+			<Paragraph Id="v">
+				<Text xml:space="preserve" Style="Intro">“Small employer” means, in connection with a health benefit plan with respect to a calendar year and a plan year, any person, sole proprietor, self-employed individual, independent contractor, firm, corporation, partnership, or association that is actively engaged in business, has its principal place of business in this state, employed an average of at least 1 but not more than 50 eligible employees on business days during the preceding calendar year the majority of whom were employed in this state, employs at least 1 employee on the first day of the plan year, and is not formed primarily for purposes of purchasing insurance. In determining the number of eligible employees, companies that are an affiliated group as defined in s. 1504(a) of the Internal Revenue Code of 1986, as amended, are considered a single employer. For purposes of this section, a sole proprietor, an independent contractor, or a self-employed individual is considered a small employer only if all of the conditions and criteria established in this section are met.</Text>
+			</Paragraph>
+			<Paragraph Id="w">
+				<Text xml:space="preserve" Style="Intro">“Small employer carrier” means a carrier that offers health benefit plans covering eligible employees of one or more small employers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY AND SCOPE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">This section applies to a health benefit plan that provides coverage to employees of a small employer in this state, unless the coverage is marketed directly to the individual employee, and the employer does not contribute directly or indirectly to the premiums or facilitate the administration of the coverage in any manner. For the purposes of this subparagraph, an employer is not deemed to be contributing to the premiums or facilitating the administration of coverage if the employer does not contribute to the premium and merely collects the premiums for coverage from an employee’s wages or salary through payroll deduction and submits payment for the premiums of one or more employees in a lump sum to a carrier.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A carrier authorized to issue group or individual health benefit plans under this chapter or chapter 641 may offer coverage as described in this paragraph to individual employees without being subject to this section if the employer has not had a group health benefit plan in place in the prior 6 months. A carrier authorized to issue group or individual health benefit plans under this chapter or chapter 641 may offer coverage as described in this subparagraph to employees that are not eligible employees as defined in this section, whether or not the small employer has a group health benefit plan in place. A carrier that offers coverage as described in this subparagraph must provide a cancellation notice to the primary insured at least 10 days prior to canceling the coverage for nonpayment of premium.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">With respect to a group of affiliated carriers or a group of carriers that is eligible to file a consolidated tax return, any restrictions, limitations, or requirements of this section that apply to one of the carriers applies to all of the carriers as if they were one carrier. However, with respect to affiliated companies, all of which are in existence and affiliated on January 1, 1992, the group of affiliated companies is considered one carrier only after one member of the group transfers any small employer business to another member of the group.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An affiliated carrier that is a health maintenance organization having a certificate of authority under part I of chapter 641 may be considered a separate carrier for the purposes of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">This section shall not apply to a carrier that does not issue new health benefit plans to small employers on or after January 1, 1994, except that it shall apply to any such carrier that renews a health benefit plan on or after January 1, 1995.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">AVAILABILITY OF COVERAGE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning January 1, 1993, every small employer carrier issuing new health benefit plans to small employers in this state must, as a condition of transacting business in this state, offer to eligible small employers a standard health benefit plan and a basic health benefit plan. Such a small employer carrier shall issue a standard health benefit plan or a basic health benefit plan to every eligible small employer that elects to be covered under such plan, agrees to make the required premium payments under such plan, and to satisfy the other provisions of the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of a small employer carrier which does not, on or after January 1, 1993, offer coverage but which does, on or after January 1, 1993, renew or continue coverage in force, such carrier shall be required to provide coverage to newly eligible employees and dependents on the same basis as small employer carriers which are offering coverage on or after January 1, 1993.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Every small employer carrier must, as a condition of transacting business in this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Offer and issue all small employer health benefit plans on a guaranteed-issue basis to every eligible small employer, with 2 to 50 eligible employees, that elects to be covered under such plan, agrees to make the required premium payments, and satisfies the other provisions of the plan. A rider for additional or increased benefits may be medically underwritten and may only be added to the standard health benefit plan. The increased rate charged for the additional or increased benefit must be rated in accordance with this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In the absence of enrollment availability in the Florida Health Insurance Plan, offer and issue basic and standard small employer health benefit plans and a high-deductible plan that meets the requirements of a health savings account plan or health reimbursement account as defined by federal law, on a guaranteed-issue basis, during a 31-day open enrollment period of August 1 through August 31 of each year, to every eligible small employer, with fewer than two eligible employees, which small employer is not formed primarily for the purpose of buying health insurance and which elects to be covered under such plan, agrees to make the required premium payments, and satisfies the other provisions of the plan. Coverage provided under this subparagraph shall begin on October 1 of the same year as the date of enrollment, unless the small employer carrier and the small employer agree to a different date. A rider for additional or increased benefits may be medically underwritten and may only be added to the standard health benefit plan. The increased rate charged for the additional or increased benefit must be rated in accordance with this section. For purposes of this subparagraph, a person, his or her spouse, and his or her dependent children constitute a single eligible employee if that person and spouse are employed by the same small employer and either that person or his or her spouse has a normal work week of less than 25 hours. Any right to an open enrollment of health benefit coverage for groups of fewer than two employees, pursuant to this section, shall remain in full force and effect in the absence of the availability of new enrollment into the Florida Health Insurance Plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">This paragraph does not limit a carrier’s ability to offer other health benefit plans to small employers if the standard and basic health benefit plans are offered and rejected.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier must file with the office, in a format and manner prescribed by the committee, a standard health care plan, a high deductible plan that meets the federal requirements of a health savings account plan or a health reimbursement arrangement, and a basic health care plan to be used by the carrier. The provisions of this section requiring the filing of a high deductible plan are effective September 1, 2004.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The office at any time may, after providing notice and an opportunity for a hearing, disapprove the continued use by the small employer carrier of the standard or basic health benefit plan on the grounds that such plan does not meet the requirements of this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (g), a health benefit plan covering small employers must comply with preexisting condition provisions specified in s. 627.6561 or, for health maintenance contracts, in s. 641.31071.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A health benefit plan covering small employers, issued or renewed on or after January 1, 1994, must comply with the following conditions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All health benefit plans must be offered and issued on a guaranteed-issue basis, except that benefits purchased through riders as provided in paragraph (c) may be medically underwritten for the group, but may not be individually underwritten as to the employees or the dependents of such employees. Additional or increased benefits may only be offered by riders.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The provisions of paragraph (f) apply to health benefit plans issued to a small employer who has two or more eligible employees, and to health benefit plans that are issued to a small employer who has fewer than two eligible employees and that cover an employee who has had creditable coverage continually to a date not more than 63 days before the effective date of the new coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For health benefit plans that are issued to a small employer who has fewer than two employees and that cover an employee who has not been continually covered by creditable coverage within 63 days before the effective date of the new coverage, preexisting condition provisions must not exclude coverage for a period beyond 24 months following the employee’s effective date of coverage and may relate only to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Conditions that, during the 24-month period immediately preceding the effective date of coverage, had manifested themselves in such a manner as would cause an ordinarily prudent person to seek medical advice, diagnosis, care, or treatment or for which medical advice, diagnosis, care, or treatment was recommended or received; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A pregnancy existing on the effective date of coverage.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">All health benefit plans issued under this section must comply with the following conditions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For employers who have fewer than two employees, a late enrollee may be excluded from coverage for no longer than 24 months if he or she was not covered by creditable coverage continually to a date not more than 63 days before the effective date of his or her new coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any requirement used by a small employer carrier in determining whether to provide coverage to a small employer group, including requirements for minimum participation of eligible employees and minimum employer contributions, must be applied uniformly among all small employer groups having the same number of eligible employees applying for coverage or receiving coverage from the small employer carrier, except that a small employer carrier that participates in, administers, or issues health benefits pursuant to s. 381.0406 which do not include a preexisting condition exclusion may require as a condition of offering such benefits that the employer has had no health insurance coverage for its employees for a period of at least 6 months. A small employer carrier may vary application of minimum participation requirements and minimum employer contribution requirements only by the size of the small employer group.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In applying minimum participation requirements with respect to a small employer, a small employer carrier shall not consider as an eligible employee employees or dependents who have qualifying existing coverage in an employer-based group insurance plan or an ERISA qualified self-insurance plan in determining whether the applicable percentage of participation is met. However, a small employer carrier may count eligible employees and dependents who have coverage under another health plan that is sponsored by that employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier shall not increase any requirement for minimum employee participation or any requirement for minimum employer contribution applicable to a small employer at any time after the small employer has been accepted for coverage, unless the employer size has changed, in which case the small employer carrier may apply the requirements that are applicable to the new group size.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If a small employer carrier offers coverage to a small employer, it must offer coverage to all the small employer’s eligible employees and their dependents. A small employer carrier may not offer coverage limited to certain persons in a group or to part of a group, except with respect to late enrollees.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier may not modify any health benefit plan issued to a small employer with respect to a small employer or any eligible employee or dependent through riders, endorsements, or otherwise to restrict or exclude coverage for certain diseases or medical conditions otherwise covered by the health benefit plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">An initial enrollment period of at least 30 days must be provided. An annual 30-day open enrollment period must be offered to each small employer’s eligible employees and their dependents. A small employer carrier must provide special enrollment periods as required by s. 627.65615.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier need not offer coverage or accept applications pursuant to paragraph (a):</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">To a small employer if the small employer is not physically located in an established geographic service area of the small employer carrier, provided such geographic service area shall not be less than a county;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">To an employee if the employee does not work or reside within an established geographic service area of the small employer carrier; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">To a small employer group within an area in which the small employer carrier reasonably anticipates, and demonstrates to the satisfaction of the office, that it cannot, within its network of providers, deliver service adequately to the members of such groups because of obligations to existing group contract holders and enrollees.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier that cannot offer coverage pursuant to sub-subparagraph 1.c. may not offer coverage in the applicable area to new cases of employer groups having more than 50 eligible employees or small employer groups until the later of 180 days following each such refusal or the date on which the carrier notifies the office that it has regained its ability to deliver services to small employer groups.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A small employer carrier may deny health insurance coverage in the small-group market if the carrier has demonstrated to the office that:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">It does not have the financial reserves necessary to underwrite additional coverage; and</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">It is applying this sub-subparagraph uniformly to all employers in the small-group market in this state consistent with this section and without regard to the claims experience of those employers and their employees and their dependents or any health-status-related factor that relates to such employees and dependents.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A small employer carrier, upon denying health insurance coverage in connection with health benefit plans in accordance with sub-subparagraph a., may not offer coverage in connection with group health benefit plans in the small-group market in this state for a period of 180 days after the date such coverage is denied or until the insurer has demonstrated to the office that the insurer has sufficient financial reserves to underwrite additional coverage, whichever is later. The office may provide for the application of this sub-subparagraph on a service-area-specific basis.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The commission shall, by rule, require each small employer carrier to report, on or before March 1 of each year, its gross annual premiums for all health benefit plans issued to small employers during the previous calendar year, and also to report its gross annual premiums for new, but not renewal, standard and basic health benefit plans subject to this section issued during the previous calendar year. No later than May 1 of each year, the office shall calculate each carrier’s percentage of all small employer group health premiums for the previous calendar year and shall calculate the aggregate gross annual premiums for new, but not renewal, standard and basic health benefit plans for the previous calendar year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The boundaries of geographic areas used by a small employer carrier must coincide with county lines. A carrier may not apply different geographic rating factors to the rates of small employers located within the same county.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RESTRICTIONS RELATING TO PREMIUM RATES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The commission may, by rule, establish regulations to administer this section and to assure that rating practices used by small employer carriers are consistent with the purpose of this section, including assuring that differences in rates charged for health benefit plans by small employer carriers are reasonable and reflect objective differences in plan design, not including differences due to the nature of the groups assumed to select particular health benefit plans.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For all small employer health benefit plans that are subject to this section and are issued by small employer carriers on or after January 1, 1994, premium rates for health benefit plans subject to this section are subject to the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Small employer carriers must use a modified community rating methodology in which the premium for each small employer must be determined solely on the basis of the eligible employee’s and eligible dependent’s gender, age, family composition, tobacco use, or geographic area as determined under paragraph (5)(j) and in which the premium may be adjusted as permitted by this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Rating factors related to age, gender, family composition, tobacco use, or geographic location may be developed by each carrier to reflect the carrier’s experience. The factors used by carriers are subject to office review and approval.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Small employer carriers may not modify the rate for a small employer for 12 months from the initial issue date or renewal date, unless the composition of the group changes or benefits are changed. However, a small employer carrier may modify the rate one time prior to 12 months after the initial issue date for a small employer who enrolls under a previously issued group policy that has a common anniversary date for all employers covered under the policy if:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The carrier discloses to the employer in a clear and conspicuous manner the date of the first renewal and the fact that the premium may increase on or after that date.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The insurer demonstrates to the office that efficiencies in administration are achieved and reflected in the rates charged to small employers covered under the policy.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A carrier may issue a group health insurance policy to a small employer health alliance or other group association with rates that reflect a premium credit for expense savings attributable to administrative activities being performed by the alliance or group association if such expense savings are specifically documented in the insurer’s rate filing and are approved by the office. Any such credit may not be based on different morbidity assumptions or on any other factor related to the health status or claims experience of any person covered under the policy. Nothing in this subparagraph exempts an alliance or group association from licensure for any activities that require licensure under the insurance code. A carrier issuing a group health insurance policy to a small employer health alliance or other group association shall allow any properly licensed and appointed agent of that carrier to market and sell the small employer health alliance or other group association policy. Such agent shall be paid the usual and customary commission paid to any agent selling the policy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any adjustments in rates for claims experience, health status, or duration of coverage may not be charged to individual employees or dependents. For a small employer’s policy, such adjustments may not result in a rate for the small employer which deviates more than 15 percent from the carrier’s approved rate. Any such adjustment must be applied uniformly to the rates charged for all employees and dependents of the small employer. A small employer carrier may make an adjustment to a small employer’s renewal premium, not to exceed 10 percent annually, due to the claims experience, health status, or duration of coverage of the employees or dependents of the small employer. Semiannually, small group carriers shall report information on forms adopted by rule by the commission, to enable the office to monitor the relationship of aggregate adjusted premiums actually charged policyholders by each carrier to the premiums that would have been charged by application of the carrier’s approved modified community rates. If the aggregate resulting from the application of such adjustment exceeds the premium that would have been charged by application of the approved modified community rate by 4 percent for the current reporting period, the carrier shall limit the application of such adjustments only to minus adjustments beginning not more than 60 days after the report is sent to the office. For any subsequent reporting period, if the total aggregate adjusted premium actually charged does not exceed the premium that would have been charged by application of the approved modified community rate by 4 percent, the carrier may apply both plus and minus adjustments. A small employer carrier may provide a credit to a small employer’s premium based on administrative and acquisition expense differences resulting from the size of the group. Group size administrative and acquisition expense factors may be developed by each carrier to reflect the carrier’s experience and are subject to office review and approval.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier rating methodology may include separate rating categories for one dependent child, for two dependent children, and for three or more dependent children for family coverage of employees having a spouse and dependent children or employees having dependent children only. A small employer carrier may have fewer, but not greater, numbers of categories for dependent children than those specified in this subparagraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Small employer carriers may not use a composite rating methodology to rate a small employer with fewer than 10 employees. For the purposes of this subparagraph, a “composite rating methodology” means a rating methodology that averages the impact of the rating factors for age and gender in the premiums charged to all of the employees of a small employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A carrier may separate the experience of small employer groups with less than 2 eligible employees from the experience of small employer groups with 2-50 eligible employees for purposes of determining an alternative modified community rating.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If a carrier separates the experience of small employer groups as provided in sub-subparagraph a., the rate to be charged to small employer groups of less than 2 eligible employees may not exceed 150 percent of the rate determined for small employer groups of 2-50 eligible employees. However, the carrier may charge excess losses of the experience pool consisting of small employer groups with less than 2 eligible employees to the experience pool consisting of small employer groups with 2-50 eligible employees so that all losses are allocated and the 150-percent rate limit on the experience pool consisting of small employer groups with less than 2 eligible employees is maintained. Notwithstanding s. 627.411(1), the rate to be charged to a small employer group of fewer than 2 eligible employees, insured as of July 1, 2002, may be up to 125 percent of the rate determined for small employer groups of 2-50 eligible employees for the first annual renewal and 150 percent for subsequent annual renewals.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For all small employer health benefit plans that are subject to this section, that are issued by small employer carriers before January 1, 1994, and that are renewed on or after January 1, 1995, renewal rates must be based on the same modified community rating standard applied to new business.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 627.401(2), this section and ss. 627.410 and 627.411 apply to any health benefit plan provided by a small employer carrier that is an insurer, and this section and s. 641.31 apply to any health benefit provided by a small employer carrier that is a health maintenance <Reference Number="3" />organization, that provides coverage to one or more employees of a small employer regardless of where the policy, certificate, or contract is issued or delivered, if the health benefit plan covers employees or their covered dependents who are residents of this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">RENEWABILITY OF COVERAGE.<EmDash />A health benefit plan that is subject to this section is renewable for all eligible employees and dependents pursuant to s. 627.6571.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">MAINTENANCE OF RECORDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each small employer carrier must maintain at its principal place of business a complete and detailed description of its rating practices and renewal practices, including information and documentation that demonstrate that its rating methods and practices are based upon commonly accepted actuarial assumptions and are in accordance with sound actuarial principles.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each small employer carrier must file with the office on or before March 15 of each year an actuarial certification that the carrier is in compliance with this section and that the rating methods of the carrier are actuarially sound. The certification must be in a form and manner and contain the information prescribed by the commission. The carrier must retain a copy of the certification at its principal place of business.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier must make the information and documentation described in paragraph (a) available to the office upon request. The information constitutes proprietary and trade secret information and may not be disclosed by the office to persons outside the office, except as agreed to by the carrier or as ordered by a court of competent jurisdiction.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each small employer carrier must file with the office quarterly an enrollment report as directed by the office. Such report shall not constitute proprietary or trade secret information.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">SMALL EMPLOYER CARRIER’S ELECTION TO BECOME A RISK-ASSUMING CARRIER OR A REINSURING CARRIER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier must elect to become either a risk-assuming carrier or a reinsuring carrier. By October 31, 1993, all small employer carriers must file a final election, which is binding for 2 years, from January 1, 1994, through December 31, 1995, after which an election shall be binding for a period of 5 years. Any carrier that is not a small employer carrier and intends to become a small employer carrier must file its designation when it files the forms and rates it intends to use for small employer group health insurance; such designation shall be binding for 2 years after the date of approval of the forms and rates, and any subsequent designation is binding for 5 years. The office may permit a carrier to modify its election at any time for good cause shown, after a hearing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commission shall establish an application process for small employer carriers seeking to change their status under this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An election to become a risk-assuming carrier is subject to approval under subsection (10).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier that elects to cease participating as a reinsuring carrier and to become a risk-assuming carrier is prohibited from reinsuring or continuing to reinsure any small employer health benefits plan under subsection (11) as soon as the carrier becomes a risk-assuming carrier and must pay a prorated assessment based upon business issued as a reinsuring carrier for any portion of the year that the business was reinsured. A small employer carrier that elects to cease participating as a risk-assuming carrier and to become a reinsuring carrier is permitted to reinsure small employer health benefit plans under the terms set forth in subsection (11) and must pay a prorated assessment based upon business issued as a reinsuring carrier for any portion of the year that the business was reinsured.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">ELECTION PROCESS TO BECOME A RISK-ASSUMING CARRIER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier may become a risk-assuming carrier by filing with the office a designation of election under subsection (9) in a format and manner prescribed by the commission. The office shall approve the election of a small employer carrier to become a risk-assuming carrier if the office finds that the carrier is capable of assuming that status pursuant to the criteria set forth in paragraph (b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The office must approve or disapprove any designation as a risk-assuming carrier within 60 days after filing.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In determining whether to approve an application by a small employer carrier to become a risk-assuming carrier, the office shall consider:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The carrier’s financial ability to support the assumption of the risk of small employer groups.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The carrier’s history of rating and underwriting small employer groups.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The carrier’s commitment to market fairly to all small employers in the state or its service area, as applicable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The carrier’s ability to assume and manage the risk of enrolling small employer groups without the protection of the reinsurance program provided in subsection (11).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier that becomes a risk-assuming carrier pursuant to this subsection is not subject to the assessment provisions of subsection (11).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The office shall provide public notice of a small employer carrier’s designation of election under subsection (9) to become a risk-assuming carrier and shall provide at least a 21-day period for public comment prior to making a decision on the election. The office shall hold a hearing on the election at the request of the carrier.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The office may rescind the approval granted to a risk-assuming carrier under this subsection if the office finds that the carrier no longer meets the criteria of paragraph (b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">SMALL EMPLOYER HEALTH REINSURANCE PROGRAM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is created a nonprofit entity to be known as the “Florida Small Employer Health Reinsurance Program.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The program shall operate subject to the supervision and control of the board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Effective upon this act becoming a law, the board shall consist of the director of the office or his or her designee, who shall serve as the chairperson, and 13 additional members who are representatives of carriers and insurance agents and are appointed by the director of the office and serve as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Five members shall be representatives of health insurers licensed under chapter 624 or chapter 641. Two members shall be agents who are actively engaged in the sale of health insurance. Four members shall be employers or representatives of employers. One member shall be a person covered under an individual health insurance policy issued by a licensed insurer in this state. One member shall represent the Agency for Health Care Administration and shall be recommended by the Secretary of Health Care Administration.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A member appointed under this subparagraph shall serve a term of 4 years and shall continue in office until the member’s successor takes office, except that, in order to provide for staggered terms, the director of the office shall designate two of the initial appointees under this subparagraph to serve terms of 2 years and shall designate three of the initial appointees under this subparagraph to serve terms of 3 years.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The director of the office may remove a member for cause.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Vacancies on the board shall be filled in the same manner as the original appointment for the unexpired portion of the term.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The board shall submit to the office a plan of operation to assure the fair, reasonable, and equitable administration of the program. The board may at any time submit to the office any amendments to the plan that the board finds to be necessary or suitable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The office shall, after notice and hearing, approve the plan of operation if it determines that the plan submitted by the board is suitable to assure the fair, reasonable, and equitable administration of the program and provides for the sharing of program gains and losses equitably and proportionately in accordance with paragraph (j).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The plan of operation, or any amendment thereto, becomes effective upon written approval of the office.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The plan of operation must, among other things:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Establish procedures for handling and accounting for program assets and moneys and for an annual fiscal reporting to the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Establish procedures for selecting an administering carrier and set forth the powers and duties of the administering carrier.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Establish procedures for reinsuring risks.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Establish procedures for collecting assessments from participating carriers to provide for claims reinsured by the program and for administrative expenses, other than amounts payable to the administrative carrier, incurred or estimated to be incurred during the period for which the assessment is made.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Provide for any additional matters at the discretion of the board.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The board shall recommend to the office market conduct requirements and other requirements for carriers and agents, including requirements relating to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Registration by each carrier with the office of its intention to be a small employer carrier under this section;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Publication by the office of a list of all small employer carriers, including a requirement applicable to agents and carriers that a health benefit plan may not be sold by a carrier that is not identified as a small employer carrier;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The availability of a broadly publicized, toll-free telephone number for access by small employers to information concerning this section;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Periodic reports by carriers and agents concerning health benefit plans issued; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Methods concerning periodic demonstration by small employer carriers and agents that they are marketing or issuing health benefit plans to small employers.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The program has the general powers and authority granted under the laws of this state to insurance companies and health maintenance organizations licensed to transact business, except the power to issue health benefit plans directly to groups or individuals. In addition thereto, the program has specific authority to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Enter into contracts as necessary or proper to carry out the provisions and purposes of this act, including the authority to enter into contracts with similar programs of other states for the joint performance of common functions or with persons or other organizations for the performance of administrative functions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Sue or be sued, including taking any legal action necessary or proper for recovering any assessments and penalties for, on behalf of, or against the program or any carrier.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Take any legal action necessary to avoid the payment of improper claims against the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Issue reinsurance policies, in accordance with the requirements of this act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Establish rules, conditions, and procedures for reinsurance risks under the program participation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Establish actuarial functions as appropriate for the operation of the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Assess participating carriers in accordance with paragraph (j), and make advance interim assessments as may be reasonable and necessary for organizational and interim operating expenses. Interim assessments shall be credited as offsets against any regular assessments due following the close of the calendar year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Appoint appropriate legal, actuarial, and other committees as necessary to provide technical assistance in the operation of the program, and in any other function within the authority of the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Borrow money to effect the purposes of the program. Any notes or other evidences of indebtedness of the program which are not in default constitute legal investments for carriers and may be carried as admitted assets.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">To the extent necessary, increase the $5,000 deductible reinsurance requirement to adjust for the effects of inflation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A reinsuring carrier may reinsure with the program coverage of an eligible employee of a small employer, or any dependent of such an employee, subject to each of the following provisions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">With respect to a standard and basic health care plan, the program must reinsure the level of coverage provided; and, with respect to any other plan, the program must reinsure the coverage up to, but not exceeding, the level of coverage provided under the standard and basic health care plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Except in the case of a late enrollee, a reinsuring carrier may reinsure an eligible employee or dependent within 60 days after the commencement of the coverage of the small employer. A newly employed eligible employee or dependent of a small employer may be reinsured within 60 days after the commencement of his or her coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier may reinsure an entire employer group within 60 days after the commencement of the group’s coverage under the plan. The carrier may choose to reinsure newly eligible employees and dependents of the reinsured group pursuant to subparagraph 1.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The program may not reimburse a participating carrier with respect to the claims of a reinsured employee or dependent until the carrier has paid incurred claims of at least $5,000 in a calendar year for benefits covered by the program. In addition, the reinsuring carrier shall be responsible for 10 percent of the next $50,000 and 5 percent of the next $100,000 of incurred claims during a calendar year and the program shall reinsure the remainder.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The board annually shall adjust the initial level of claims and the maximum limit to be retained by the carrier to reflect increases in costs and utilization within the standard market for health benefit plans within the state. The adjustment shall not be less than the annual change in the medical component of the “Consumer Price Index for All Urban Consumers” of the Bureau of Labor Statistics of the Department of Labor, unless the board proposes and the office approves a lower adjustment factor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier may terminate reinsurance for all reinsured employees or dependents on any plan anniversary.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The premium rate charged for reinsurance by the program to a health maintenance organization that is approved by the Secretary of Health and Human Services as a federally qualified health maintenance organization pursuant to 42 U.S.C. s. 300e(c)(2)(A) and that, as such, is subject to requirements that limit the amount of risk that may be ceded to the program, which requirements are more restrictive than subparagraph 4., shall be reduced by an amount equal to that portion of the risk, if any, which exceeds the amount set forth in subparagraph 4. which may not be ceded to the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The board may consider adjustments to the premium rates charged for reinsurance by the program for carriers that use effective cost containment measures, including high-cost case management, as defined by the board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A reinsuring carrier shall apply its case-management and claims-handling techniques, including, but not limited to, utilization review, individual case management, preferred provider provisions, other managed care provisions or methods of operation, consistently with both reinsured business and nonreinsured business.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The board, as part of the plan of operation, shall establish a methodology for determining premium rates to be charged by the program for reinsuring small employers and individuals pursuant to this section. The methodology shall include a system for classification of small employers that reflects the types of case characteristics commonly used by small employer carriers in the state. The methodology shall provide for the development of basic reinsurance premium rates, which shall be multiplied by the factors set for them in this paragraph to determine the premium rates for the program. The basic reinsurance premium rates shall be established by the board, subject to the approval of the office, and shall be set at levels which reasonably approximate gross premiums charged to small employers by small employer carriers for health benefit plans with benefits similar to the standard and basic health benefit plan. The premium rates set by the board may vary by geographical area, as determined under this section, to reflect differences in cost. The multiplying factors must be established as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The entire group may be reinsured for a rate that is 1.5 times the rate established by the board.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">An eligible employee or dependent may be reinsured for a rate that is 5 times the rate established by the board.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The board periodically shall review the methodology established, including the system of classification and any rating factors, to assure that it reasonably reflects the claims experience of the program. The board may propose changes to the rates which shall be subject to the approval of the office.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">If a health benefit plan for a small employer issued in accordance with this subsection is entirely or partially reinsured with the program, the premium charged to the small employer for any rating period for the coverage issued must be consistent with the requirements relating to premium rates set forth in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Before July 1 of each calendar year, the board shall determine and report to the office the program net loss for the previous year, including administrative expenses for that year, and the incurred losses for the year, taking into account investment income and other appropriate gains and losses.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any net loss for the year shall be recouped by assessment of the carriers, as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The operating losses of the program shall be assessed in the following order subject to the specified limitations. The first tier of assessments shall be made against reinsuring carriers in an amount which shall not exceed 5 percent of each reinsuring carrier’s premiums from health benefit plans covering small employers. If such assessments have been collected and additional moneys are needed, the board shall make a second tier of assessments in an amount which shall not exceed 0.5 percent of each carrier’s health benefit plan premiums. Except as provided in paragraph (n), risk-assuming carriers are exempt from all assessments authorized pursuant to this section. The amount paid by a reinsuring carrier for the first tier of assessments shall be credited against any additional assessments made.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The board shall equitably assess carriers for operating losses of the plan based on market share. The board shall annually assess each carrier a portion of the operating losses of the plan. The first tier of assessments shall be determined by multiplying the operating losses by a fraction, the numerator of which equals the reinsuring carrier’s earned premium pertaining to direct writings of small employer health benefit plans in the state during the calendar year for which the assessment is levied, and the denominator of which equals the total of all such premiums earned by reinsuring carriers in the state during that calendar year. The second tier of assessments shall be based on the premiums that all carriers, except risk-assuming carriers, earned on all health benefit plans written in this state. The board may levy interim assessments against carriers to ensure the financial ability of the plan to cover claims expenses and administrative expenses paid or estimated to be paid in the operation of the plan for the calendar year prior to the association’s anticipated receipt of annual assessments for that calendar year. Any interim assessment is due and payable within 30 days after receipt by a carrier of the interim assessment notice. Interim assessment payments shall be credited against the carrier’s annual assessment. Health benefit plan premiums and benefits paid by a carrier that are less than an amount determined by the board to justify the cost of collection may not be considered for purposes of determining assessments.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Subject to the approval of the office, the board shall make an adjustment to the assessment formula for reinsuring carriers that are approved as federally qualified health maintenance organizations by the Secretary of Health and Human Services pursuant to 42 U.S.C. s. 300e(c)(2)(A) to the extent, if any, that restrictions are placed on them that are not imposed on other small employer carriers.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Before July 1 of each year, the board shall determine and file with the office an estimate of the assessments needed to fund the losses incurred by the program in the previous calendar year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If the board determines that the assessments needed to fund the losses incurred by the program in the previous calendar year will exceed the amount specified in subparagraph 2., the board shall evaluate the operation of the program and report its findings, including any recommendations for changes to the plan of operation, to the office within 180 days following the end of the calendar year in which the losses were incurred. The evaluation shall include an estimate of future assessments, the administrative costs of the program, the appropriateness of the premiums charged and the level of carrier retention under the program, and the costs of coverage for small employers. If the board fails to file a report with the office within 180 days following the end of the applicable calendar year, the office may evaluate the operations of the program and implement such amendments to the plan of operation the office deems necessary to reduce future losses and assessments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If assessments exceed the amount of the actual losses and administrative expenses of the program, the excess shall be held as interest and used by the board to offset future losses or to reduce program premiums. As used in this paragraph, the term “future losses” includes reserves for incurred but not reported claims.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Each carrier’s proportion of the assessment shall be determined annually by the board, based on annual statements and other reports considered necessary by the board and filed by the carriers with the board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Provision shall be made in the plan of operation for the imposition of an interest penalty for late payment of an assessment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A carrier may seek, from the office, a deferment, in whole or in part, from any assessment made by the board. The office may defer, in whole or in part, the assessment of a carrier if, in the opinion of the office, the payment of the assessment would place the carrier in a financially impaired condition. If an assessment against a carrier is deferred, in whole or in part, the amount by which the assessment is deferred may be assessed against the other carriers in a manner consistent with the basis for assessment set forth in this section. The carrier receiving such deferment remains liable to the program for the amount deferred and is prohibited from reinsuring any individuals or groups in the program if it fails to pay assessments.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Neither the participation in the program as reinsuring carriers, the establishment of rates, forms, or procedures, nor any other joint or collective action required by this act, may be the basis of any legal action, criminal or civil liability, or penalty against the program or any of its carriers either jointly or separately.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">The board, as part of the plan of operation, shall develop standards setting forth the manner and levels of compensation to be paid to agents for the sale of basic and standard health benefit plans. In establishing such standards, the board shall take into consideration the need to assure the broad availability of coverages, the objectives of the program, the time and effort expended in placing the coverage, the need to provide ongoing service to the small employer, the levels of compensation currently used in the industry, and the overall costs of coverage to small employers selecting these plans.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">The board shall monitor compliance with this section, including the market conduct of small employer carriers, and shall report to the office any unfair trade practices and misleading or unfair conduct by a small employer carrier that has been reported to the board by agents, consumers, or any other person. The office shall investigate all reports and, upon a finding of noncompliance with this section or of unfair or misleading practices, shall take action against the small employer carrier as permitted under the insurance code or chapter 641. The board is not given investigatory or regulatory powers, but must forward all reports of cases or abuse or misrepresentation to the office.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (j), the administrative expenses of the program shall be recouped by assessment of risk-assuming carriers and reinsuring carriers and such amounts shall not be considered part of the operating losses of the plan for the purposes of this paragraph. Each carrier’s portion of such administrative expenses shall be determined by multiplying the total of such administrative expenses by a fraction, the numerator of which equals the carrier’s earned premium pertaining to direct writing of small employer health benefit plans in the state during the calendar year for which the assessment is levied, and the denominator of which equals the total of such premiums earned by all carriers in the state during such calendar year.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">The board shall advise the office, the Agency for Health Care Administration, the department, other executive departments, and the Legislature on health insurance issues. Specifically, the board shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Provide a forum for stakeholders, consisting of insurers, employers, agents, consumers, and regulators, in the private health insurance market in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Review and recommend strategies to improve the functioning of the health insurance markets in this state with a specific focus on market stability, access, and pricing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Make recommendations to the office for legislation addressing health insurance market issues and provide comments on health insurance legislation proposed by the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Meet at least three times each year. One meeting shall be held to hear reports and to secure public comment on the health insurance market, to develop any legislation needed to address health insurance market issues, and to provide comments on health insurance legislation proposed by the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Issue a report to the office on the state of the health insurance market by September 1 each year. The report shall include recommendations for changes in the health insurance market, results from implementation of previous recommendations, and information on health insurance markets.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">STANDARD, BASIC, HIGH DEDUCTIBLE, AND LIMITED HEALTH BENEFIT PLANS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Chief Financial Officer shall appoint a health benefit plan committee composed of four representatives of carriers which shall include at least two representatives of HMOs, at least one of which is a staff model HMO, two representatives of agents, four representatives of small employers, and one employee of a small employer. The carrier members shall be selected from a list of individuals recommended by the board. The Chief Financial Officer may require the board to submit additional recommendations of individuals for appointment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The plans shall comply with all of the requirements of this subsection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The plans must be filed with and approved by the office prior to issuance or delivery by any small employer carrier.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">After approval of the revised health benefit plans, if the office determines that modifications to a plan might be appropriate, the Chief Financial Officer shall appoint a new health benefit plan committee in the manner provided in subparagraph 1. to submit recommended modifications to the office for approval.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each small employer carrier issuing new health benefit plans shall offer to any small employer, upon request, a standard health benefit plan, a basic health benefit plan, and a high deductible plan that meets the requirements of a health savings account plan as defined by federal law or a health reimbursement arrangement as authorized by the Internal Revenue Service, that meet the criteria set forth in this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For purposes of this subsection, the terms “standard health benefit plan,” “basic health benefit plan,” and “high deductible plan” mean policies or contracts that a small employer carrier offers to eligible small employers that contain:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An exclusion for services that are not medically necessary or that are not covered preventive health services; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A procedure for preauthorization by the small employer carrier, or its designees.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A small employer carrier may include the following managed care provisions in the policy or contract to control costs:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A preferred provider arrangement or exclusive provider organization or any combination thereof, in which a small employer carrier enters into a written agreement with the provider to provide services at specified levels of reimbursement or to provide reimbursement to specified providers. Any such written agreement between a provider and a small employer carrier must contain a provision under which the parties agree that the insured individual or covered member has no obligation to make payment for any medical service rendered by the provider which is determined not to be medically necessary. A carrier may use preferred provider arrangements or exclusive provider arrangements to the same extent as allowed in group products that are not issued to small employers.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A procedure for utilization review by the small employer carrier or its designees.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">This subparagraph does not prohibit a small employer carrier from including in its policy or contract additional managed care and cost containment provisions, subject to the approval of the office, which have potential for controlling costs in a manner that does not result in inequitable treatment of insureds or subscribers. The carrier may use such provisions to the same extent as authorized for group products that are not issued to small employers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The standard health benefit plan shall include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Coverage for inpatient hospitalization;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Coverage for outpatient services;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Coverage for newborn children pursuant to s. 627.6575;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Coverage for child care supervision services pursuant to s. 627.6579;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Coverage for adopted children upon placement in the residence pursuant to s. 627.6578;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Coverage for mammograms pursuant to s. 627.6613;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Coverage for handicapped children pursuant to s. 627.6615;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Emergency or urgent care out of the geographic service area; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Coverage for services provided by a hospice licensed under s. 400.602 in cases where such coverage would be the most appropriate and the most cost-effective method for treating a covered illness.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The standard health benefit plan and the basic health benefit plan may include a schedule of benefit limitations for specified services and procedures. If the committee develops such a schedule of benefits limitation for the standard health benefit plan or the basic health benefit plan, a small employer carrier offering the plan must offer the employer an option for increasing the benefit schedule amounts by 4 percent annually.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The basic health benefit plan shall include all of the benefits specified in subparagraph 4.; however, the basic health benefit plan shall place additional restrictions on the benefits and utilization and may also impose additional cost containment measures.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Sections 627.419(2), (3), and (4), 627.6574, 627.6612, 627.66121, 627.66122, 627.6616, 627.6618, 627.668, and 627.66911 apply to the standard health benefit plan and to the basic health benefit plan. However, notwithstanding said provisions, the plans may specify limits on the number of authorized treatments, if such limits are reasonable and do not discriminate against any type of provider.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The high deductible plan associated with a health savings account or a health reimbursement arrangement shall include all the benefits specified in subparagraph 4.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Each small employer carrier that provides for inpatient and outpatient services by allopathic hospitals may provide as an option of the insured similar inpatient and outpatient services by hospitals accredited by the American Osteopathic Association when such services are available and the osteopathic hospital agrees to provide the service.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a small employer rejects, in writing, the standard health benefit plan, the basic health benefit plan, and the high deductible health savings account plan or a health reimbursement arrangement, the small employer carrier may offer the small employer a limited benefit policy or contract.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon offering coverage under a standard health benefit plan, a basic health benefit plan, or a limited benefit policy or contract for any small employer, the small employer carrier shall provide such employer group with a written statement that contains, at a minimum:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An explanation of those mandated benefits and providers that are not covered by the policy or contract;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">An explanation of the managed care and cost control features of the policy or contract, along with all appropriate mailing addresses and telephone numbers to be used by insureds in seeking information or authorization; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">An explanation of the primary and preventive care features of the policy or contract.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">Such disclosure statement must be presented in a clear and understandable form and format and must be separate from the policy or certificate or evidence of coverage provided to the employer group.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Before a small employer carrier issues a standard health benefit plan, a basic health benefit plan, or a limited benefit policy or contract, it must obtain from the prospective policyholder a signed written statement in which the prospective policyholder:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Certifies as to eligibility for coverage under the standard health benefit plan, basic health benefit plan, or limited benefit policy or contract;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Acknowledges the limited nature of the coverage and an understanding of the managed care and cost control features of the policy or contract;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Acknowledges that if misrepresentations are made regarding eligibility for coverage under a standard health benefit plan, a basic health benefit plan, or a limited benefit policy or contract, the person making such misrepresentations forfeits coverage provided by the policy or contract; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">If a limited plan is requested, acknowledges that the prospective policyholder had been offered, at the time of application for the insurance policy or contract, the opportunity to purchase any health benefit plan offered by the carrier and that the prospective policyholder had rejected that coverage.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">A copy of such written statement shall be provided to the prospective policyholder no later than at the time of delivery of the policy or contract, and the original of such written statement shall be retained in the files of the small employer carrier for the period of time that the policy or contract remains in effect or for 5 years, whichever period is longer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any material statement made by an applicant for coverage under a health benefit plan which falsely certifies as to the applicant’s eligibility for coverage serves as the basis for terminating coverage under the policy or contract.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Each marketing communication that is intended to be used in the marketing of a health benefit plan in this state must be submitted for review by the office prior to use and must contain the disclosures stated in this subsection.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier may not use any policy, contract, form, or rate under this section, including applications, enrollment forms, policies, contracts, certificates, evidences of coverage, riders, amendments, endorsements, and disclosure forms, until the insurer has filed it with the office and the office has approved it under ss. 627.410 and 627.411 and this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">STANDARDS TO ASSURE FAIR MARKETING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each small employer carrier shall actively market health benefit plan coverage, including the basic and standard health benefit plans, including any subsequent modifications or additions to those plans, to eligible small employers in the state. Before January 1, 1994, if a small employer carrier denies coverage to a small employer on the basis of the health status or claims experience of the small employer or its employees or dependents, the small employer carrier shall offer the small employer the opportunity to purchase a basic health benefit plan and a standard health benefit plan. Beginning January 1, 1994, small employer carriers must offer and issue all plans on a guaranteed-issue basis.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No small employer carrier or agent shall, directly or indirectly, engage in the following activities:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Encouraging or directing small employers to refrain from filing an application for coverage with the small employer carrier because of the health status, claims experience, industry, occupation, or geographic location of the small employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Encouraging or directing small employers to seek coverage from another carrier because of the health status, claims experience, industry, occupation, or geographic location of the small employer.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The provisions of paragraph (a) shall not apply with respect to information provided by a small employer carrier or agent to a small employer regarding the established geographic service area or a restricted network provision of a small employer carrier.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">No small employer carrier shall, directly or indirectly, enter into any contract, agreement, or arrangement with an agent that provides for or results in the compensation paid to an agent for the sale of a health benefit plan to be varied because of the health status, claims experience, industry, occupation, or geographic location of the small employer except if the compensation arrangement provides compensation to an agent on the basis of percentage of premium, provided that the percentage shall not vary because of the health status, claims experience, industry, occupation, or geographic area of the small employer.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A small employer carrier shall provide reasonable compensation, as provided under the plan of operation of the program, to an agent, if any, for the sale of a basic or standard health benefit plan.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">No small employer carrier shall terminate, fail to renew, or limit its contract or agreement of representation with an agent for any reason related to the health status, claims experience, occupation, or geographic location of the small employers placed by the agent with the small employer carrier unless the agent consistently engages in practices that violate this section or s. 626.9541.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">No small employer carrier or agent shall induce or otherwise encourage a small employer to separate or otherwise exclude an employee from health coverage or benefits provided in connection with the employee’s employment.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Denial by a small employer carrier of an application for coverage from a small employer shall be in writing and shall state the reason or reasons for the denial.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The commission may establish regulations setting forth additional standards to provide for the fair marketing and broad availability of health benefit plans to small employers in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">A violation of this section by a small employer carrier or an agent shall be an unfair trade practice under s. 626.9541 or ss. 641.3903 and 641.3907.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">If a small employer carrier enters into a contract, agreement, or other arrangement with a third-party administrator to provide administrative, marketing, or other services relating to the offering of health benefit plans to small employers in this state, the third-party administrator shall be subject to this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">DISCLOSURE OF INFORMATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In connection with the offering of a health benefit plan to a small employer, a small employer carrier:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Shall make a reasonable disclosure to such employer, as part of its solicitation and sales materials, of the availability of information described in paragraph (b); and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Upon request of the small employer, provide such information.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Subject to subparagraph 3., with respect to a small employer carrier that offers a health benefit plan to a small employer, information described in this paragraph is information that concerns:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The provisions of such coverage concerning an insurer’s right to change premium rates and the factors that may affect changes in premium rates;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The provisions of such coverage that relate to renewability of coverage;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The provisions of such coverage that relate to any preexisting condition exclusions; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The benefits and premiums available under all health insurance coverage for which the employer is qualified.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Information required under this subsection shall be provided to small employers in a manner determined to be understandable by the average small employer, and shall be sufficient to reasonably inform small employers of their rights and obligations under the health insurance coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An insurer is not required under this subsection to disclose any information that is proprietary or a trade secret under state law.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">SMALL EMPLOYERS ACCESS PROGRAM.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Popular name.</Font><EmDash />This subsection may be referred to by the popular name “The Small Employers Access Program.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Intent.</Font><EmDash />The Legislature finds that increased access to health care coverage for small employers with up to 25 employees could improve employees’ health and reduce the incidence and costs of illness and disabilities among residents in this state. Many employers do not offer health care benefits to their employees citing the increased cost of this benefit. It is the intent of the Legislature to create the Small Business Health Plan to provide small employers the option and ability to provide health care benefits to their employees at an affordable cost through the creation of purchasing pools for employers with up to 25 employees, and rural hospital employers and nursing home employers regardless of the number of employees.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Definitions.</Font><EmDash />For purposes of this subsection:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Fair commission” means a commission structure determined by the insurers and reflected in the insurers’ rate filings made pursuant to this subsection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Insurer” means any entity that provides health insurance in this state. For purposes of this subsection, insurer includes an insurance company holding a certificate of authority pursuant to chapter 624 or a health maintenance organization holding a certificate of authority pursuant to chapter 641, which qualifies to provide coverage to small employer groups pursuant to this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Mutually supported benefit plan” means an optional alternative coverage plan developed within a defined geographic region which may include, but is not limited to, a minimum level of primary care coverage in which the percentage of the premium is distributed among the employer, the employee, and community-generated revenue either alone or in conjunction with federal matching funds.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">“Office” means the Office of Insurance Regulation of the Department of Financial Services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">“Participating insurer” means any insurer providing health insurance to small employers that has been selected by the office in accordance with this subsection for its designated region.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">“Program” means the Small Employer Access Program as created by this subsection.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Eligibility.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any small employer that is actively engaged in business, has its principal place of business in this state, employs up to 25 eligible employees on business days during the preceding calendar year, employs at least 2 employees on the first day of the plan year, and has had no prior coverage for the last 6 months may participate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any municipality, county, school district, or hospital employer located in a rural community as defined in s. 288.0656(2) may participate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Nursing home employers may participate.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Each dependent of a person eligible for coverage is also eligible to participate.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Any employer participating in the program must do so until the end of the term for which the carrier providing the coverage is obligated to provide such coverage to the program. Coverage for a small employer group that ceases to meet the eligibility requirements of this section may be terminated at the end of the policy period for which the necessary premiums have been paid.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Administration.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The office shall by competitive bid, in accordance with current state law, select an insurer to provide coverage through the program to eligible small employers within an established geographical area of this state. The office may develop exclusive regions for the program similar to those used by the Healthy Kids Corporation. However, the office is not precluded from developing, in conjunction with insurers, regions different from those used by the Healthy Kids Corporation if the office deems that such a region will carry out the intentions of this subsection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The office shall evaluate bids submitted based upon criteria established by the office, which shall include, but not be limited to:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The insurer’s proven ability to handle health insurance coverage to small employer groups.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The efficiency and timeliness of the insurer’s claim processing procedures.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The insurer’s ability to apply effective cost-containment programs and procedures and to administer the program in a cost-efficient manner.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The financial condition and stability of the insurer.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The insurer’s ability to develop an optional mutually supported benefit plan.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The office may use any financial information available to it through its regulatory duties to make this evaluation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Insurer qualifications.</Font><EmDash />The insurer shall be a duly authorized insurer or health maintenance organization.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Duties of the insurer.</Font><EmDash />The insurer shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Develop and implement a program to publicize the existence of the program, program eligibility requirements, and procedures for enrollment and maintain public awareness of the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Maintain employer awareness of the program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Demonstrate the ability to use delivery of cost-effective health care services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Encourage, educate, advise, and administer the effective use of health savings accounts by covered employees and dependents.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Serve for a period specified in the contract between the office and the insurer, subject to removal for cause and subject to any terms, conditions, and limitations of the contract between the office and the insurer as may be specified in the request for proposal.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Contract term.</Font><EmDash />The contract term shall not exceed 3 years. At least 6 months prior to the expiration of each contract period, the office shall invite eligible entities, including the current insurer, to submit bids to serve as the insurer for a designated geographic area. Selection of the insurer for the succeeding period shall be made at least 3 months prior to the end of the current period. If a protest is filed and not resolved by the end of the contract period, the contract with the existing administrator may be extended for a period not to exceed 6 months. During the contract extension period, the administrator shall be paid at a rate to be negotiated by the office.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Insurer reporting requirements.</Font><EmDash />On March 1 following the close of each calendar year, the insurer shall determine net written and earned premiums, the expense of administration, and the paid and incurred losses for the year and report this information to the office on a form prescribed by the office.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Application requirements.</Font><EmDash />The insurer shall permit or allow any licensed and duly appointed health insurance agent residing in the designated region to submit applications for coverage, and such agent shall be paid a fair commission if coverage is written. The agent must be appointed to at least one insurer.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Benefits.</Font><EmDash />The benefits provided by the plan shall be the same as the coverage required for small employers under subsection (12). Upon the approval of the office, the insurer may also establish an optional mutually supported benefit plan which is an alternative plan developed within a defined geographic region of this state or any other such alternative plan which will carry out the intent of this subsection. Any small employer carrier issuing new health benefit plans may offer a benefit plan with coverages similar to, but not less than, any alternative coverage plan developed pursuant to this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY OF OTHER STATE LAWS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as expressly provided in this section, a law requiring coverage for a specific health care service or benefit, or a law requiring reimbursement, utilization, or consideration of a specific category of licensed health care practitioner, does not apply to a standard or basic health benefit plan policy or contract or a limited benefit policy or contract offered or delivered to a small employer unless that law is made expressly applicable to such policies or contracts. A law restricting or limiting deductibles, coinsurance, copayments, or annual or lifetime maximum payments does not apply to any health plan policy, including a standard or basic health benefit plan policy or contract, offered or delivered to a small employer unless such law is made expressly applicable to such policy or contract. However, every small employer carrier must offer to eligible small employers the standard benefit plan and the basic benefit plan, as required by subsection (5), as such plans have been approved by the office pursuant to subsection (12).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided in this section, a standard or basic health benefit plan policy or contract or limited benefit policy or contract offered to a small employer is not subject to any provision of this code which:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Inhibits a small employer carrier from contracting with providers or groups of providers with respect to health care services or benefits;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Imposes any restriction on a small employer carrier’s ability to negotiate with providers regarding the level or method of reimbursing care or services provided under a health benefit plan; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Requires a small employer carrier to either include a specific provider or class of providers when contracting for health care services or benefits or to exclude any class of providers that is generally authorized by statute to provide such care.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any second tier assessment paid by a carrier pursuant to paragraph (11)(j) may be credited against assessments levied against the carrier pursuant to s. 627.6494.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding chapter 641, a health maintenance organization is authorized to issue contracts providing benefits equal to the standard health benefit plan, the basic health benefit plan, and the limited benefit policy authorized by this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">RESTRICTIONS ON COVERAGE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A plan under which coverage is purchased in whole or in part with any state or federal funds through an exchange created pursuant to the federal Patient Protection and Affordable Care Act, Pub. L. No. 111-148, may not provide coverage for an abortion, as defined in s. 390.011(1), except if the pregnancy is the result of an act of rape or incest, or in the case where a woman suffers from a physical disorder, physical injury, or physical illness, including a life-endangering physical condition caused by or arising from the pregnancy itself, which would, as certified by a physician, place the woman in danger of death unless an abortion is performed. Coverage is deemed to be purchased with state or federal funds if any tax credit or cost-sharing credit is applied toward the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This subsection does not prohibit a plan from providing any person or entity with separate coverage for an abortion if such coverage is not purchased in whole or in part with state or federal funds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “state” means this state or any political subdivision of the state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">RULEMAKING AUTHORITY.<EmDash />The commission may adopt rules to administer this section, including rules governing compliance by small employer carriers and small employers.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 117, ch. 92-33; s. 71, ch. 92-318; s. 65, ch. 93-129; s. 1, ch. 95-123; s. 2, ch. 96-319; s. 380, ch. 96-406; s. 10, ch. 97-48; s. 1735, ch. 97-102; s. 3, ch. 97-166; s. 15, ch. 97-179; s. 4, ch. 98-66; s. 13, ch. 98-159; s. 32, ch. 99-3; s. 79, ch. 2000-158; ss. 37, 46, ch. 2000-256; s. 1, ch. 2000-268; s. 4, ch. 2000-296; s. 70, ch. 2000-318; s. 60, ch. 2001-63; s. 15, ch. 2002-389; s. 1170, ch. 2003-261; s. 24, ch. 2004-297; s. 80, ch. 2004-390; s. 120, ch. 2005-2; s. 8, ch. 2005-231; s. 6, ch. 2008-212; s. 23, ch. 2009-51; s. 5, ch. 2011-111; s. 2, ch. 2012-93; s. 13, ch. 2012-151.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 34(2), ch. 97-179, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Except as provided in section 627.6561(9), (10), and (11), and section 641.31071(10), (11), and (12), Florida Statutes, in the case of a group health plan or group health insurance contract maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers which is ratified before this act becomes a law, sections 627.6561, 627.65615, 627.65625, 627.6571, 627.6699, 641.31071, 641.31072, 641.31073, and 641.31074, Florida Statutes, except for section 627.6561(8)(b), Florida Statutes, as amended or created by this act, apply to policies or contracts with plan years that begin on or after the later of:</Text>
+		<Text xml:space="preserve" Style="Indent">“(a) The date on which the last of any collective bargaining agreement that relates to the plan terminates, determined without regard to any extension thereof, which is agreed to after the date this act becomes a law; or</Text>
+		<Text xml:space="preserve" Style="Indent">“(b) July 1, 1997.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 1, ch. 2000-268, and s. 70, ch. 2000-318. Section 46, ch. 2000-256, used the words “provided in” instead of the words “permitted under.”</Text>
+	</Note>
+	<Note Reference="3">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 46, ch. 2000-256. The comma following the word “organization” does not appear in the version of the amendment by s. 1, ch. 2000-268, and s. 70, ch. 2000-318.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.5021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Contents of financing statement; record of mortgage as financing statement; time of filing financing statement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Subject to subsection (2), a financing statement is sufficient only if it:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provides the name of the debtor;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provides the name of the secured party or a representative of the secured party; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Indicates the collateral covered by the financing statement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in s. 679.5011(2), to be sufficient, a financing statement that covers as-extracted collateral or timber to be cut, or that is filed as a fixture filing and covers goods that are or are to become fixtures, must comply with the requirements of subsection (1) and also:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Indicate that it covers this type of collateral;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Indicate that it is to be filed in the real property records;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide a description of the real property to which the collateral is related; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the debtor does not have an interest of record in the real property, provide the name of a record owner.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">A record of a mortgage satisfying the requirements of chapter 697 is effective, from the date of recording, as a financing statement filed as a fixture filing or as a financing statement covering as-extracted collateral or timber to be cut only if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The record of a mortgage indicates the goods or accounts that it covers;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The goods are or are to become fixtures related to the real property described in the record of a mortgage or the collateral is related to the real property described in the mortgage and is as-extracted collateral or timber to be cut;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The record of a mortgage complies with the requirements for a financing statement in this section other than an indication that it is to be filed in the real property records; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The record of a mortgage is recorded as required by chapter 697.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A financing statement may be filed before a security agreement is made or a security interest otherwise attaches.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2001-198; s. 10, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 10, ch. 2012-59, amended subsection (3), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(3) A record of a mortgage satisfying the requirements of chapter 697 is effective, from the date of recording, as a financing statement filed as a fixture filing or as a financing statement covering as-extracted collateral or timber to be cut only if:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The record of a mortgage indicates the goods or accounts that it covers;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The goods are or are to become fixtures related to the real property described in the record of a mortgage or the collateral is related to the real property described in the mortgage and is as-extracted collateral or timber to be cut;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) The record of a mortgage satisfies the requirements for a financing statement in this section, although:</Text>
+		<Text xml:space="preserve" Style="Indent">1. The record of a mortgage need not indicate that it is to be filed in the real property records; and</Text>
+		<Text xml:space="preserve" Style="Indent">2. The record of a mortgage sufficiently provides the name of a debtor who is an individual if it provides the individual name of the debtor or the surname and first personal name of the debtor, even if the debtor is an individual to whom s. 679.5031(1)(d) or (e) applies; and</Text>
+		<Text xml:space="preserve" Style="Indent">(d) The record of a mortgage is recorded as required by chapter 697.</Text>
+	</Note>
+</Section>

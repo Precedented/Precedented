@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.645" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Center for Reading Research.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is created at the Florida State University, the Florida Center for Reading Research (FCRR). The center shall include two outreach centers, one at a Florida College System institution in central Florida and one at a south Florida state university. The center and the outreach centers, under the center’s leadership, shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Provide technical assistance and support to all school districts and schools in this state in the implementation of evidence-based literacy instruction, assessments, programs, and professional development.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Conduct applied research that will have an immediate impact on policy and practices related to literacy instruction and assessment in this state with an emphasis on struggling readers and reading in the content area strategies and methods for secondary teachers.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Conduct basic research on reading, reading growth, reading assessment, and reading instruction which will contribute to scientific knowledge about reading.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Collaborate with the Just Read! Florida Office and school districts in the development of frameworks for comprehensive reading intervention courses for possible use in middle schools and secondary schools.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Collaborate with the Just Read! Florida Office and school districts in the development of frameworks for professional development activities, using multiple delivery methods for teaching reading in the content area.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Disseminate information about research-based practices related to literacy instruction, assessment, and programs for students in preschool through grade 12.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Collect, manage, and report on assessment information from screening, progress monitoring, and outcome assessments through the Florida Progress Monitoring and Reporting Network. The network is a statewide resource that is operated to provide valid and timely reading assessment data for parents, teachers, principals, and district-level and state-level staff in the management of instruction at the individual, classroom, and school levels.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2006-74; s. 48, ch. 2011-5.</History>
+</Section>

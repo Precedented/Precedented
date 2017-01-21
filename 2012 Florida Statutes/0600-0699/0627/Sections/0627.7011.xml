@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.7011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Homeowners’ policies; offer of replacement cost coverage and law and ordinance coverage.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Prior to issuing a homeowner’s insurance policy, the insurer must offer each of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A policy or endorsement providing that any loss that is repaired or replaced will be adjusted on the basis of replacement costs to the dwelling not exceeding policy limits, rather than actual cash value, but not including costs necessary to meet applicable laws and ordinances regulating the construction, use, or repair of any property or requiring the tearing down of any property, including the costs of removing debris.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A policy or endorsement providing that, subject to other policy provisions, any loss that is repaired or replaced at any location will be adjusted on the basis of replacement costs to the dwelling not exceeding policy limits, rather than actual cash value, and also including costs necessary to meet applicable laws and ordinances regulating the construction, use, or repair of any property or requiring the tearing down of any property, including the costs of removing debris. However, additional costs necessary to meet applicable laws and ordinances may be limited to 25 percent or 50 percent of the dwelling limit, as selected by the policyholder, and such coverage applies only to repairs of the damaged portion of the structure unless the total damage to the structure exceeds 50 percent of the replacement cost of the structure.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">An insurer is not required to make the offers required by this subsection with respect to the issuance or renewal of a homeowner’s policy that contains the provisions specified in paragraph (b) for law and ordinance coverage limited to 25 percent of the dwelling limit, except that the insurer must offer the law and ordinance coverage limited to 50 percent of the dwelling limit. This subsection does not prohibit the offer of a guaranteed replacement cost policy.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless the insurer obtains the policyholder’s written refusal of the policies or endorsements specified in subsection (1), any policy covering the dwelling is deemed to include the law and ordinance coverage limited to 25 percent of the dwelling limit. The rejection or selection of alternative coverage shall be made on a form approved by the office. The form must fully advise the applicant of the nature of the coverage being rejected. If this form is signed by a named insured, it is conclusively presumed that there was an informed, knowing rejection of the coverage or election of the alternative coverage on behalf of all insureds. Unless the policyholder requests in writing the coverage specified in this section, it need not be provided in or supplemental to any other policy that renews, insures, extends, changes, supersedes, or replaces an existing policy if the policyholder has rejected the coverage specified in this section or has selected alternative coverage. The insurer must provide the policyholder with notice of the availability of such coverage in a form approved by the office at least once every 3 years. The failure to provide such notice constitutes a violation of this code, but does not affect the coverage provided under the policy.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In the event of a loss for which a dwelling or personal property is insured on the basis of replacement costs:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For a dwelling, the insurer must initially pay at least the actual cash value of the insured loss, less any applicable deductible. The insurer shall pay any remaining amounts necessary to perform such repairs as work is performed and expenses are incurred. If a total loss of a dwelling occurs, the insurer shall pay the replacement cost coverage without reservation or holdback of any depreciation in value, pursuant to s. 627.702.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For personal property:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The insurer must offer coverage under which the insurer is obligated to pay the replacement cost without reservation or holdback for any depreciation in value, whether or not the insured replaces the property.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The insurer may also offer coverage under which the insurer may limit the initial payment to the actual cash value of the personal property to be replaced, require the insured to provide receipts for the purchase of the property financed by the initial payment, use such receipts to make the next payment requested by the insured for the replacement of insured property, and continue this process until the insured remits all receipts up to the policy limits for replacement costs. The insurer must provide clear notice of this process before the policy is bound. A policyholder must be provided an actuarially reasonable premium credit or discount for this coverage. The insurer may not require the policyholder to advance payment for the replaced property.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A homeowner’s insurance policy must include in bold type no smaller than 18 points the following statement:</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">“LAW AND ORDINANCE COVERAGE IS AN IMPORTANT COVERAGE THAT YOU MAY WISH TO PURCHASE. YOU MAY ALSO NEED TO CONSIDER THE PURCHASE OF FLOOD INSURANCE FROM THE NATIONAL FLOOD INSURANCE PROGRAM. WITHOUT THIS COVERAGE, YOU MAY HAVE UNCOVERED LOSSES. PLEASE DISCUSS THESE COVERAGES WITH YOUR INSURANCE AGENT.”</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The intent of this subsection is to encourage policyholders to purchase sufficient coverage to protect them in case events excluded from the standard homeowners policy, such as law and ordinance enforcement and flood, combine with covered events to produce damage or loss to the insured property. The intent is also to encourage policyholders to discuss these issues with their insurance agent.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro"> This section does not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Apply to policies not considered to be “homeowners’ policies,” as that term is commonly understood in the insurance industry. </Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Apply to mobile home policies. </Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Limit the ability of an insurer to reject or nonrenew any insured or applicant on the grounds that the structure does not meet underwriting criteria applicable to replacement cost or law and ordinance policies or for other lawful reasons.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"> Prohibit an insurer from limiting its liability under a policy or endorsement providing that loss will be adjusted on the basis of replacement costs to the lesser of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The limit of liability shown on the policy declarations page;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The reasonable and necessary cost to repair the damaged, destroyed, or stolen covered property; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The reasonable and necessary cost to replace the damaged, destroyed, or stolen covered property.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"> Prohibit an insurer from exercising its right to repair damaged property in compliance with its policy and s. 627.702(7).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 93-410; s. 1184, ch. 2003-261; s. 14, ch. 2005-111; s. 23, ch. 2006-12; s. 4, ch. 2009-87; s. 19, ch. 2011-39.</History>
+</Section>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Powers of commission, legislative intent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Public Service Commission shall exercise over and in relation to telecommunications companies the powers conferred by this chapter.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is the legislative intent to give exclusive jurisdiction in all matters set forth in this chapter to the Florida Public Service Commission in regulating telecommunications companies, and such preemption shall supersede any local or special act or municipal charter where any conflict of authority may exist. However, this chapter does not affect the authority and powers granted in <Reference Number="1"/>s. 166.231(9) or s. 337.401.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Communications activities that are not regulated by the Florida Public Service Commission are subject to this state’s generally applicable business regulation and deceptive trade practices and consumer protection laws, as enforced by the appropriate state authority or through actions in the judicial system. This chapter does not limit the availability to any party of any remedy or defense under state or federal antitrust laws. The Legislature finds that the competitive provision of telecommunications services, including local exchange telecommunications service, is in the public interest and has provided customers with freedom of choice, encouraged the introduction of new telecommunications service, encouraged technological innovation, and encouraged investment in telecommunications infrastructure. </Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1-4, ch. 6186, 1911; ss. 1-6, ch. 6187, 1911; s. 1, ch. 6525, 1913; RGS 4393; CGL 6357; s. 1, ch. 63-279; s. 1, ch. 65-52; s. 1, ch. 67-541; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 1, 32, ch. 80-36; s. 2, ch. 81-318; s. 25, ch. 83-218; ss. 6, 7, ch. 89-163; ss. 1, 48, 49, ch. 90-244; s. 4, ch. 91-429; s. 5, ch. 95-403; s. 2, ch. 2003-32; s. 10, ch. 2005-132; s. 2, ch. 2011-36.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 38, ch. 2000-260.</Text>
+	</Note>
+</Section>

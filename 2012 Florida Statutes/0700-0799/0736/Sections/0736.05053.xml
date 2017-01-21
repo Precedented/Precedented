@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0736.05053" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Trustee’s duty to pay expenses and obligations of settlor’s estate.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A trustee of a trust described in s. 733.707(3) shall pay to the personal representative of a settlor’s estate any amounts that the personal representative certifies in writing to the trustee are required to pay the expenses of the administration and obligations of the settlor’s estate. Payments made by a trustee, unless otherwise provided in the trust instrument, must be charged as expenses of the trust without a contribution from anyone. The interests of all beneficiaries of such a trust are subject to the provisions of this subsection; however, the payments must be made from assets, property, or the proceeds of the assets or property, other than assets proscribed in s. 733.707(3), that are included in the settlor’s gross estate for federal estate tax purposes.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless a settlor provides by will, or designates in a trust described in s. 733.707(3) funds or property passing under the trust to be used as designated, the expenses of the administration and obligations of the settlor’s estate must be paid from the trust in the following order:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Property of the residue of the trust remaining after all distributions that are to be satisfied by reference to a specific property or type of property, fund, or sum.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Property that is not to be distributed from specified or identified property or a specified or identified item of property.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Property that is to be distributed from specified or identified property or a specified or identified item of property.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Trust distributions that are to be satisfied from specified or identified property must be classed as distributions to be satisfied from the general assets of the trust and not otherwise disposed of in the trust instrument on the failure or insufficiency of funds or property from which payment should be made, to the extent of the insufficiency. Trust distributions given for valuable consideration abate with other distributions of the same class only to the extent of the excess over the value of the consideration until all others of the same class are exhausted. Except as provided in this section, trust distributions abate equally and ratably and without preference or priority between real and personal property. When a specified or identified item of property that has been designated for distribution in the trust instrument or that is charged with a distribution is sold or taken by the trustee, other beneficiaries shall contribute according to their respective interests to the beneficiary whose property has been sold or taken. Before distribution, the trustee shall determine the amounts of the respective contributions and such amounts must be paid or withheld before distribution is made.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The trustee shall pay the expenses of trust administration, including compensation of trustees and attorneys of the trustees, before and in preference to the expenses of the administration and obligations of the settlor’s estate.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Nonresiduary trust dispositions shall abate pro rata with nonresiduary devises pursuant to the priorities specified in this section and s. 733.805, determined as if the beneficiaries of the will and trust, other than the estate or trust itself, were taking under a common instrument.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2006-217; s. 6, ch. 2010-122.</History>
+</Section>

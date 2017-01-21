@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1012.468" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exceptions to certain fingerprinting and criminal history checks.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “noninstructional contractor” means any vendor, individual, or entity under contract with a school or with the school board who receives remuneration for services performed for the school district or a school, but who is not otherwise considered an employee of the school district. The term also includes any employee of a contractor who performs services for the school district or school under the contract and any subcontractor and its employees.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A district school board shall exempt from the screening requirements set forth in ss. 1012.465 and 1012.467 the following noninstructional contractors:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Noninstructional contractors who are under the direct supervision of a school district employee or contractor who has had a criminal history check and meets the screening requirements under s. 1012.32, s. 1012.465, s. 1012.467, or s. 1012.56. For purposes of this paragraph, the term “direct supervision” means that a school district employee or contractor is physically present with a noninstructional contractor when the contractor has access to a student and the access remains in the school district employee’s or the contractor’s line of sight.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If a noninstructional contractor who is exempt under this subsection is no longer under direct supervision as specified in subparagraph 1., the contractor may not be permitted on school grounds when students are present until the contractor meets the screening requirements in s. 1012.465 or s. 1012.467.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Noninstructional contractors who are required by law to undergo a level 2 background screening pursuant to s. 435.04 for licensure, certification, employment, or other purposes and who submit evidence of meeting the following criteria:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The contractor meets the screening standards in s. 435.04;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The contractor’s license or certificate is active and in good standing, if the contractor is a licensee or certificateholder; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The contractor completed the criminal history check within 5 years prior to seeking access to school grounds when students are present.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A law enforcement officer, as defined in s. 943.10, who is assigned or dispatched to school grounds by his or her employer.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An employee or medical director of an ambulance provider, licensed pursuant to chapter 401, who is providing services within the scope of part III of chapter 401 on behalf of such ambulance provider.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Noninstructional contractors who remain at a site where students are not permitted if the site is separated from the remainder of the school grounds by a single chain-link fence of 6 feet in height.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A noninstructional contractor who provides pickup or delivery services and those services involve brief visits on school grounds when students are present.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An investigator for the Florida High School Athletic Association (FHSAA) who meets the requirements under s. 1006.20(2)(e).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A noninstructional contractor who is exempt under this section from the screening requirements set forth in s. 1012.465 or s. 1012.467 is subject to a search of his or her name or other identifying information against the registration information regarding sexual predators and sexual offenders maintained by the Department of Law Enforcement under s. 943.043 and the National Sex Offender Public Registry maintained by the United States Department of Justice. The school district shall conduct the search required under this subsection without charge or fee to the contractor.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A noninstructional contractor who is identified as a sexual predator or sexual offender in the registry search required in paragraph (a) may not be permitted on school grounds when students are present. Upon determining that a noninstructional contractor may not be permitted on school grounds pursuant to this subsection, the school district shall notify the vendor, individual, or entity under contract within 3 business days.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A school district may not subject a contractor who meets the requirements in subsection (2) to an additional criminal history check. Upon submission of evidence and verification by the school district, the school district must accept the results of the criminal history check for the contractor.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">This section and ss. 1012.465 and 1012.467 do not create or imply any private cause of action for a violation of these sections and do not create any new duty of care or basis of liability.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2007-207; s. 3, ch. 2012-188.</History>
+</Section>

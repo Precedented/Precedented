@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.00787" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Tattooing prohibited; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person may not tattoo the body of a minor child younger than 16 years of age unless the tattooing is performed for medical or dental purposes by a person licensed to practice medicine or dentistry under chapter 458, chapter 459, or chapter 466.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A person may not tattoo the body of a minor child who is at least 16 years of age, but younger than 18 years of age, unless:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The minor child is accompanied by his or her parent or legal guardian;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The minor child and his or her parent or legal guardian each submit proof of his or her identity by producing a government-issued photo identification;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The parent or legal guardian submits his or her written notarized consent in the format prescribed by the department;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The parent or legal guardian submits proof that he or she is the parent or legal guardian of the minor child; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The tattooing is performed by a tattoo artist or guest tattoo artist licensed under ss. 381.00771-381.00791 or a person licensed to practice medicine or dentistry under chapter 458, chapter 459, or chapter 466.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A person who violates this section commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083. However, a person who tattoos the body of a minor child younger than 18 years of age does not violate this section, if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The person carefully inspects what appears to be a government-issued photo identification that represents that the minor child is 18 years of age or older.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The minor child falsely represents himself or herself as being 18 years of age or older and presents a fraudulent identification.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A reasonable person of average intelligence would believe that the minor child is 18 years of age or older and that the photo identification is genuine, was issued to the minor child, and truthfully represents the minor child’s age.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 59-439; s. 1, ch. 69-118; s. 1148, ch. 71-136; s. 1, ch. 77-174; s. 124, ch. 92-149; s. 23, ch. 93-260; s. 1426, ch. 97-102; s. 9, ch. 2010-220.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 877.04.</Text>
+	</Note>
+</Section>

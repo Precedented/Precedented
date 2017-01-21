@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.77" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Work Experience Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is established the Florida Work Experience Program to be administered by the Department of Education. The purpose of the program is to introduce eligible students to work experience that will complement and reinforce their educational program and career goals and provide a self-help student aid program that reduces student loan indebtedness. Additionally, the program’s opportunities for employment at a student’s school will serve as a retention tool because students employed on campus are more likely to complete their postsecondary education. The program shall be available to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any student attending a state university or Florida College System institution authorized by Florida law;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any student attending a nonprofit Florida postsecondary education institution that is eligible to participate in either of the student assistance grant programs established in ss. 1009.51 and 1009.52;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any postsecondary student attending a career center operated by a district school board under s. 1001.44; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any student attending an educator preparation institute established under s. 1004.85. Such student may participate in this program despite having previously earned a baccalaureate degree.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A participating institution may use up to 100 percent of its program allocation for student employment within the institution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A participating institution may use up to 10 percent of its program allocation for program administration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each participating institution is authorized to enter into contractual agreements with private or public employers for the purpose of establishing a Florida work experience program.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The participating postsecondary educational institution shall be responsible for reimbursing employers for student wages from its program allocation. Public elementary or secondary school employers or postsecondary institution employers shall be reimbursed for 100 percent of the student’s wages by the participating institution. All other employers may be reimbursed for up to 70 percent of the student’s wages. When a college or university employs a student on campus through this program, other student financial aid funds may not be used to fund the institution’s portion of the student’s wages.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The employer is responsible for furnishing the full cost of any mandatory benefits. Such benefits may not be considered part of the wage requirement total for matching purposes.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Each participating postsecondary educational institution is responsible for furnishing the full cost of all preemployment requirements, including, but not limited to, background screenings and tuberculosis testing, that are necessary for a student to be employed by a public elementary or secondary school employer. Expenditures under this subsection shall be paid from the funds received by the participating postsecondary educational institution.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The employer is responsible for paying no less than the federal minimum wage established under the Fair Labor Standards Act or the state minimum wage established under s. 24, Art. X of the State Constitution and s. 448.110, whichever is greater. Employers are encouraged to pay students a competitive wage to increase student participation in this program.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A student is eligible to participate in the Florida Work Experience Program if the student:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is enrolled:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">At an eligible college or university as no less than a half-time undergraduate student in good standing;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In an eligible postsecondary career certificate program as no less than a half-time student in good standing. Eligible programs must be approved by the Department of Education and must consist of no less than 450 clock hours of instruction. Such programs must be offered by a career center operated by a district school board under s. 1001.44 or by a Florida College System institution; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">At an educator preparation institute established under s. 1004.85 as no less than a half-time student in good standing.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">However, a student may be employed during the break between two consecutive terms or employed, although not enrolled, during a term if the student was enrolled at least half time during the preceding term and preregisters as no less than a half-time student for the subsequent academic term. A student who attends an institution that does not provide preregistration shall provide documentation of intent to enroll as no less than a half-time student for the subsequent academic term.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Meets the general requirements for student eligibility as provided in s. 1009.40, except as otherwise provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Submits a Free Application for Federal Student Aid which is complete and error free prior to disbursement and demonstrates financial need, with the first priority of funding given to students who demonstrate need by qualifying and receiving federal Pell Grant funds up to the full cost of tuition and fees per term.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintains the equivalent of a cumulative grade point average of a 2.0 on a 4.0 scale.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules for the program as are necessary for its administration, for the determination of eligibility and selection of institutions to receive funds for students, to ensure the proper expenditure of funds, and to provide an equitable distribution of funds between students at public and independent colleges and universities and career centers operated by district school boards under s. 1001.44.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">A participating institution that receives funds from the program shall certify to the department the amount of funds disbursed to each student within 30 days after the end of each term.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Funding for the program shall be as provided in the General Appropriations Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 459, ch. 2002-387; s. 1963, ch. 2003-261; s. 62, ch. 2004-41; s. 3, ch. 2007-113; s. 142, ch. 2011-5; s. 30, ch. 2011-63.</History>
+</Section>

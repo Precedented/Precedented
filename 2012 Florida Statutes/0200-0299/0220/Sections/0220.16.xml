@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.16" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Allocation of nonbusiness income.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Nonbusiness income shall be allocated as follows:</Text>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Net rents and royalties from real property located in this state are allocable to this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Net rents and royalties from tangible personal property are allocable to this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If, and to the extent that, the property is utilized in this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In their entirety, if the taxpayer’s commercial domicile is in this state and the taxpayer is not organized under the laws of, or taxable in, the state in which the property is utilized.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The extent of utilization of tangible personal property in a state is determined by multiplying the rents and royalties by a fraction, the numerator of which is the number of days of the physical location of the property in the state during the rental or royalty period in the income year and the denominator of which is the number of days of the physical location of the property everywhere during all rental or royalty periods in the income year. If the physical location of the property during the rental or royalty period is unknown or unascertainable by the taxpayer, the tangible personal property is deemed to be utilized in the state in which the property was located at the time the rental or royalty payor obtained possession of the property.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Capital gains and losses from sales of real property located in this state are allocable to this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Capital gains and losses from sales of tangible personal property are allocable to this state if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The property had a situs in this state at the time of the sale; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The taxpayer’s commercial domicile is in this state, and the taxpayer is not taxable in the state in which the property had a situs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Capital gains and losses from sales of intangible personal property are allocable to this state if the taxpayer’s commercial domicile is in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Interest and dividends are allocable to this state if the taxpayer’s commercial domicile is in this state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Patent and copyright royalties are allocable to this state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If, and to the extent that, the patent or copyright is utilized by the payor in this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If, and to the extent that, the patent or copyright is utilized by the payor in a state in which the taxpayer is not taxable and the taxpayer’s commercial domicile is in this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A patent is utilized in a state to the extent that it is employed in production, fabrication, manufacturing, or other processing in the state or to the extent that a patented product is produced in the state. If the basis of receipts from patent royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the patent is utilized in the state in which the taxpayer’s commercial domicile is located.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A copyright is utilized in a state to the extent that printing or other publication originates in the state. If the basis of receipts from copyright royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the copyright is utilized in the state in which the taxpayer’s commercial domicile is located.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">The amount of payments received in exchange for transferring a net operating loss authorized by s. 220.194 is allocable to the state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 83-349; s. 14, ch. 2011-76.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

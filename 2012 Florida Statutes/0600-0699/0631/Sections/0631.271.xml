@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0631.271" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Priority of claims.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The priority of distribution of claims from the insurer’s estate shall be in accordance with the order in which each class of claims is set forth in this subsection. Every claim in each class shall be paid in full or adequate funds shall be retained for such payment before the members of the next class may receive any payment. No subclasses may be established within any class. The order of distribution of claims shall be:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 1.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">All of the receiver’s costs and expenses of administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All of the expenses of a guaranty association or foreign guaranty association in handling claims.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 2.</Font><EmDash />All claims under policies for losses incurred, including third-party claims, all claims against the insurer for liability for bodily injury or for injury to or destruction of tangible property which claims are not under policies, and all claims of a guaranty association or foreign guaranty association. All claims under life insurance and annuity policies, whether for death proceeds, annuity proceeds, or investment values, shall be treated as loss claims. That portion of any loss, indemnification for which is provided by other benefits or advantages recovered by the claimant, may not be included in this class, other than benefits or advantages recovered or recoverable in discharge of familial obligations of support or by way of succession at death or as proceeds of life insurance, or as gratuities. No payment by an employer to her or his employee may be treated as a gratuity.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 3.</Font><EmDash />Claims under nonassessable policies for unearned premiums or premium refunds.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 4.</Font><EmDash />Claims of the Federal Government.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 5.</Font><EmDash />Debts due to employees for services performed, to the extent that the debts do not exceed $2,000 for each employee and represent payment for services performed within 6 months before the filing of the petition for liquidation. Officers and directors are not entitled to the benefit of this priority. This priority is in lieu of any other similar priority that is authorized by law as to wages or compensation of employees.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 6.</Font><EmDash />Claims of general creditors.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 7.</Font><EmDash />Claims of any state or local government. Claims, including those of any state or local government for a penalty or forfeiture, shall be allowed in this class, but only to the extent of the pecuniary loss sustained from the act, transaction, or proceeding out of which the penalty or forfeiture arose, with reasonable and actual costs occasioned thereby. The remainder of such claims shall be postponed to the class of claims under paragraph (k).</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 8.</Font><EmDash />Claims filed after the time specified in s. 631.181(3), except when ordered otherwise by the court to prevent manifest injustice, or any claims other than claims under paragraph (i) or under paragraph (k).</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 9.</Font><EmDash />Surplus or contribution notes, or similar obligations, and premium refunds on assessable policies. Payments to members of domestic mutual insurance companies shall be limited in accordance with law.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 10.</Font><EmDash />Interest on allowed claims of Classes 1 through 9, according to the terms of a plan to pay interest on allowed claims proposed by the liquidator and approved by the receivership court.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 11.</Font><EmDash />The claims of shareholders or other owners.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In a liquidation proceeding involving one or more reciprocal states, the order of distribution of the domiciliary state shall control as to all claims of residents of this and reciprocal states. All claims of residents of reciprocal states shall be given equal priority of payment from general assets regardless of where such assets are located.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 743, ch. 59-205; ss. 13, 35, ch. 69-106; s. 13, ch. 70-27; s. 1, ch. 70-439; s. 809(1st), ch. 82-243; s. 21, ch. 83-38; s. 7, ch. 85-63; s. 40, ch. 88-166; ss. 94, 187, 188, ch. 91-108; s. 4, ch. 91-429; s. 1, ch. 95-213; s. 405, ch. 97-102; s. 37, ch. 2012-151.</History>
+</Section>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1003.4203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Digital curriculum.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each district school board, in consultation with the district school superintendent, may develop and implement a digital curriculum for students in grades 6 through 12 in order to enable students to attain competencies in web communications and web design. A digital curriculum may include web-based skills, web-based core technologies, web design, use of digital technologies and markup language to show competency in computer skills, and use of web-based core technologies to design creative, informational, and content standards for web-based digital products that demonstrate proficiency in creating, publishing, testing, monitoring, and maintaining a website.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The digital curriculum instruction may be integrated into middle school and high school subject area curricula or offered as a separate course, subject to available funding.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall develop a model digital curriculum to serve as a guide for district school boards in the development of a digital curriculum.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A district school board may seek partnerships with private businesses and consultants to offer classes and instruction to teachers and students to assist the school district in providing digital curriculum instruction.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2011-175.</History>
+</Section>

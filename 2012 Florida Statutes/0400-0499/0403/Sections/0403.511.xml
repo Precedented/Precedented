@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.511" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Effect of certification.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Subject to the conditions set forth therein, any certification shall constitute the sole license of the state and any agency as to the approval of the location of the site and any associated facility and the construction and operation of the proposed electrical power plant, except for the issuance of department licenses required under any federally delegated or approved permit program and except as otherwise provided in subsection (4).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The certification shall authorize the licensee named therein to construct and operate the proposed electrical power plant, subject only to the conditions of certification set forth in such certification, and except for the issuance of department licenses or permits required under any federally delegated or approved permit program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except as provided in subsection (4), the certification may include conditions which constitute variances, exemptions, or exceptions from nonprocedural requirements of the department or any agency which were expressly considered during the proceeding, including, but not limited to, any site specific criteria, standards, or limitations under local land use and zoning approvals which affect the proposed electrical power plant or its site, unless waived by the agency and which otherwise would be applicable to the construction and operation of the proposed electrical power plant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">No variance, exemption, exception, or other relief shall be granted from a state statute or rule for the protection of endangered or threatened species, aquatic preserves, Outstanding National Resource Waters, or Outstanding Florida Waters or for the disposal of hazardous waste, except to the extent authorized by the applicable statute or rule or except upon a finding in the certification order that the public interests set forth in s. 403.509(3) in certifying the electrical power plant at the site proposed by the applicant overrides the public interest protected by the statute or rule from which relief is sought.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The certification and any order on land use and zoning issued under this act shall be in lieu of any license, permit, certificate, or similar document required by any state, regional, or local agency pursuant to, but not limited to, chapter 125, chapter 161, chapter 163, chapter 166, chapter 186, chapter 253, chapter 298, chapter 373, chapter 376, chapter 379, chapter 380, chapter 381, <Reference Number="1"/>chapter 387, chapter 403, except for permits issued pursuant to any federally delegated or approved permit program and except as provided in chapter 404 or the Florida Transportation Code, or 33 U.S.C. s. 1341.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This act shall not affect in any way the ratemaking powers of the Public Service Commission under chapter 366; nor shall this act in any way affect the right of any local government to charge appropriate fees or require that construction be in compliance with applicable building construction codes.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An electrical power plant certified pursuant to this act shall comply with rules adopted by the department subsequent to the issuance of the certification which prescribe new or stricter criteria, to the extent that the rules are applicable to electrical power plants. Except when express variances, exceptions, exemptions, or other relief have been granted, subsequently adopted rules which prescribe new or stricter criteria shall operate as automatic modifications to certifications.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon written notification to the department, any holder of a certification issued pursuant to this act may choose to operate the certified electrical power plant in compliance with any rule subsequently adopted by the department which prescribes criteria more lenient than the criteria required by the terms and conditions in the certification which are not site-specific.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No term or condition of certification shall be interpreted to preclude the postcertification exercise by any party of whatever procedural rights it may have under chapter 120, including those related to rulemaking proceedings. This subsection shall apply to previously issued certifications.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">No term or condition of an electrical power plant certification shall be interpreted to supersede or control the provisions of a final operation permit for a major source of air pollution issued by the department pursuant to s. 403.0872 to a facility certified under this part.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 380.23, electrical power plants are subject to the federal coastal consistency review program. Issuance of certification shall constitute the state’s certification of coastal zone consistency.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 73-33; s. 2, ch. 74-170; s. 10, ch. 76-76; s. 1, ch. 77-174; s. 83, ch. 79-65; s. 28, ch. 86-186; s. 15, ch. 90-331; s. 11, ch. 93-94; s. 81, ch. 93-213; s. 33, ch. 2006-230; s. 77, ch. 2008-227; s. 48, ch. 2009-21.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 125, ch. 97-237.</Text>
+	</Note>
+</Section>

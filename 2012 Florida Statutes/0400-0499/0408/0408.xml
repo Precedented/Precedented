@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXIX">
+	<ChapterNumber>408</ChapterNumber>
+	<ChapterName xml:space="preserve">Health care administration</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Health facility and services planning</PartTitle>
+		<Section Number="0408.031" />
+		<Section Number="0408.032" />
+		<Section Number="0408.033" />
+		<Section Number="0408.034" />
+		<Section Number="0408.035" />
+		<Section Number="0408.036" />
+		<Section Number="0408.0361" />
+		<Section Number="0408.037" />
+		<Section Number="0408.038" />
+		<Section Number="0408.039" />
+		<Section Number="0408.040" />
+		<Section Number="0408.041" />
+		<Section Number="0408.042" />
+		<Section Number="0408.043" />
+		<Section Number="0408.0435" />
+		<Section Number="0408.044" />
+		<Section Number="0408.045" />
+		<Section Number="0408.0455" />
+		<Section Number="0408.05" />
+		<Section Number="0408.051" />
+		<Section Number="0408.0512" />
+		<Section Number="0408.061" />
+		<Section Number="0408.0611" />
+		<Section Number="0408.062" />
+		<Section Number="0408.063" />
+		<Section Number="0408.07" />
+		<Section Number="0408.08" />
+		<Section Number="0408.09" />
+		<Section Number="0408.10" />
+		<Section Number="0408.15" />
+		<Section Number="0408.16" />
+		<Section Number="0408.18" />
+		<Section Number="0408.185" />
+		<Section Number="0408.20" />
+		<Section Number="0408.301" />
+		<Section Number="0408.302" />
+		<Section Number="0408.40" />
+		<Section Number="0408.50" />
+		<Section Number="0408.70" />
+		<Section Number="0408.7056" />
+		<Section Number="0408.7057" />
+		<Section Number="0408.7071" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Health care licensing:<NewLine />general provisions</PartTitle>
+		<Section Number="0408.801" />
+		<Section Number="0408.802" />
+		<Section Number="0408.803" />
+		<Section Number="0408.804" />
+		<Section Number="0408.805" />
+		<Section Number="0408.806" />
+		<Section Number="0408.8065" />
+		<Section Number="0408.807" />
+		<Section Number="0408.808" />
+		<Section Number="0408.809" />
+		<Section Number="0408.810" />
+		<Section Number="0408.811" />
+		<Section Number="0408.812" />
+		<Section Number="0408.813" />
+		<Section Number="0408.814" />
+		<Section Number="0408.815" />
+		<Section Number="0408.816" />
+		<Section Number="0408.817" />
+		<Section Number="0408.818" />
+		<Section Number="0408.819" />
+		<Section Number="0408.820" />
+		<Section Number="0408.821" />
+		<Section Number="0408.831" />
+		<Section Number="0408.832" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Health insurance access</PartTitle>
+		<Section Number="0408.909" />
+		<Section Number="0408.9091" />
+		<Section Number="0408.910" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Health and human services<NewLine />eligibility access system</PartTitle>
+		<Section Number="0408.911" />
+		<Section Number="0408.913" />
+		<Section Number="0408.914" />
+		<Section Number="0408.915" />
+		<Section Number="0408.916" />
+		<Section Number="0408.918" />
+	</Part>
+</Chapter>

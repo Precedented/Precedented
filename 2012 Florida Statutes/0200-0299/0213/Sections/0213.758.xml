@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.758" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Transfer of tax liabilities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Business” means any activity regularly engaged in by any person, or caused to be engaged in by any person, for the purpose of private or public gain, benefit, or advantage. The term does not include occasional or isolated sales or transactions involving property or services by a person who does not hold himself or herself out as engaged in business. A discrete division or portion of a business is not a separate business and must be aggregated with all other divisions or portions that constitute a business if the division or portion is not a separate legal entity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Financial institution” means a financial institution as defined in s. 655.005 and any person who controls, is controlled by, or is under common control with a financial institution as defined in s. 655.005.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Insider” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any person included within the meaning of insider as used in s. 726.102(7); or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A manager of, a managing member of, or a person who controls a transferor that is a limited liability company, or a relative as defined in s. 726.102(11) of any such persons.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Involuntary transfer” means a transfer of a business, assets of a business, or stock of goods of a business made without the consent of the transferor, including, but not limited to, a transfer:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That occurs due to the foreclosure of a security interest issued to a person who is not an insider;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That results from an eminent domain or condemnation action;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Pursuant to chapter 61, chapter 702, or the United States Bankruptcy Code;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">To a financial institution if the transfer is made to satisfy the transferor’s debt to the financial institution; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">To a third party to the extent that the proceeds are used to satisfy the transferor’s indebtedness to a financial institution. If the third party receives assets worth more than the indebtedness, the transfer of the excess may not be deemed an involuntary transfer.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Stock of goods” means the inventory of a business held for sale to customers in the ordinary course of business.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Tax” means any tax, interest, penalty, surcharge, or fee administered by the department pursuant to chapter 443 or any of the chapters specified in s. 213.05, excluding chapter 220, the corporate income tax code.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Transfer” means every mode, direct or indirect, with or without consideration, of disposing of or parting with a business, assets of the business, or stock of goods of the business, and includes, but is not limited to, assigning, conveying, demising, gifting, granting, or selling, other than to customers in the ordinary course of business, to a transferee or to a group of transferees who are acting in concert. A business is considered transferred when there is a transfer of more than 50 percent of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The business;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The assets of the business; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The stock of goods of the business.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A taxpayer engaged in a business who is liable for any tax arising from the operation of that business and who quits the business without the benefit of a purchaser, successor, or assignee, or without transferring the business, assets of the business, or stock of goods of a business to a transferee, must file a final return for the business and make full payment of all taxes arising from the operation of that business within 15 days after quitting the business. The Department of Legal Affairs may seek an injunction at the request of the department to prevent further business activity of a taxpayer who fails to file a final return and make payment of the taxes associated with the operation of the business until such taxes are paid. A temporary injunction enjoining further business activity shall be granted by a circuit court if the department has provided at least 20 days’ prior written notice to the taxpayer.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A taxpayer who is liable for taxes with respect to a business who transfers the taxpayer’s business, assets of the business, or stock of goods of the business must file a final return and make full payment within 15 days after the date of transfer.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A transferee, or a group of transferees acting in concert, of more than 50 percent of a business, assets of a business, or stock of goods of a business is liable for any unpaid tax owed by the transferor arising from the operation of that business unless:</Text>
+				<SubParagraph Id="1">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The transferor provides a receipt or certificate of compliance from the department to the transferee showing that the transferor has not received a notice of audit and the transferor has filed all required tax returns and has paid all tax arising from the operation of the business identified on the returns filed; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">There were no insiders in common between the transferor and the transferee at the time of the transfer; or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The department finds that the transferor is not liable for taxes, interest, or penalties after an audit of the transferor’s books and records. The audit may be requested by the transferee or the transferor and, if not done pursuant to the certified audit program under s. 213.285, must be completed by the department within 90 days after the records are made available to the department. The department may charge a fee for the cost of the audit if it has not issued a notice of intent to audit by the time the request for the audit is received.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A transferee may withhold a portion of the consideration for a business, assets of the business, or stock of goods of the business to pay the tax owed to the state by the transferor taxpayer arising from the operation of the business. The transferee shall pay the withheld consideration to the state within 30 days after the date of the transfer. If the consideration withheld is less than the transferor’s liability, the transferor remains liable for the deficiency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"> The Department of Legal Affairs may seek an injunction at the request of the department to prevent further business activity of a transferee who is liable for unpaid tax of a transferor and who fails to pay or cause to be paid the transferee’s maximum liability for such tax due until such maximum liability for the tax is paid. A temporary injunction enjoining further business activity shall be granted by a circuit court if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The assessment against the transferee is final and either:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The time for filing a contest under s. 72.011 has expired; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Any contest filed pursuant to s. 72.011 resulted in a final and nonappealable judgment sustaining any part of the assessment; and</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The department has provided at least 20 days’ prior written notice to the transferee of its intention to seek an injunction.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The transferee, or transferees acting in concert, of more than 50 percent of a business, assets of the business, or stock of goods of a business who are liable for any tax pursuant to this section shall be jointly and severally liable with the transferor for the payment of the tax owed to the state from the operation of the business by the transferor up to the transferee’s or transferees’ maximum liability for such tax due.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The maximum liability of a transferee pursuant to this section is equal to the fair market value of the business, assets of the business, or stock of goods of the business transferred to the transferee or the total purchase price paid by the transferee for the business, assets of the business, or stock of goods of the business, whichever is greater.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The fair market value must be determined net of any liens or liabilities, with the exception of liens or liabilities owed to insiders.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The total purchase price must be determined net of liens and liabilities against the assets, with the exception of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Liens or liabilities owed to insiders.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Liens or liabilities assumed by the transferee that are not liens or liabilities owed to insiders.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">After notice by the department of transferee liability under this section, the transferee has 60 days within which to file an action as provided in chapter 72.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">This section does not impose liability on a transferee of a business, assets of a business, or stock of goods of a business when:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The transfer is pursuant to an involuntary transfer; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The transferee is not an insider, and the asset transferred consists solely of a one- to four-family residential real property and furnishings and fixtures therein; real property that has not been improved with any building; or owner-occupied commercial real property; and, in each case, is not accompanied by a transfer of other assets of the business.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules necessary to administer and enforce this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 8, ch. 2010-166; s. 1, ch. 2012-55.</History>
+</Section>

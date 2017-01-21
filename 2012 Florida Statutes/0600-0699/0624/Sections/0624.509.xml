@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.509" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Premium tax; rate and computation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In addition to the license taxes provided for in this chapter, each insurer shall also annually, and on or before March 1 in each year, except as to wet marine and transportation insurance taxed under s. 624.510, pay to the Department of Revenue a tax on insurance premiums, premiums for title insurance, or assessments, including membership fees and policy fees and gross deposits received from subscribers to reciprocal or interinsurance agreements, and on annuity premiums or considerations, received during the preceding calendar year, the amounts thereof to be determined as set forth in this section, to wit:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An amount equal to 1.75 percent of the gross amount of such receipts on account of life and health insurance policies covering persons resident in this state and on account of all other types of policies and contracts (except annuity policies or contracts taxable under paragraph (b)) covering property, subjects, or risks located, resident, or to be performed in this state, omitting premiums on reinsurance accepted, and less return premiums or assessments, but without deductions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For reinsurance ceded to other insurers;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For moneys paid upon surrender of policies or certificates for cash surrender value;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For discounts or refunds for direct or prompt payment of premiums or assessments; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">On account of dividends of any nature or amount paid and credited or allowed to holders of insurance policies; certificates; or surety, indemnity, reciprocal, or interinsurance contracts or agreements; and</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An amount equal to 1 percent of the gross receipts on annuity policies or contracts paid by holders thereof in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Payment by the insurer of the license taxes and premium receipts taxes provided for in this part of this chapter is a condition precedent to doing business within this state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding other provisions of law, the distribution of the premium tax and any penalties or interest collected thereunder shall be made to the General Revenue Fund in accordance with rules adopted by the Department of Revenue and approved by the Administration Commission.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">The income tax imposed under chapter 220 which is paid by any insurer shall be credited against, and to the extent thereof shall discharge, the liability for tax imposed by this section for the annual period in which such tax payments are made. As to any insurer issuing policies insuring against loss or damage from the risks of fire, tornado, and certain casualty lines, the tax imposed by this section, as intended and contemplated by this subsection, shall be construed to mean the net amount of such tax remaining after there has been credited thereon such gross premium receipts tax as may be payable by such insurer in pursuance of the imposition of such tax by any incorporated cities or towns in the state for firefighters’ relief and pension funds and police officers’ retirement funds maintained in such cities or towns, as provided in and by relevant provisions of the Florida Statutes. For purposes of this subsection, payments of estimated income tax under chapter 220 shall be deemed paid either at the time the insurer actually files its annual returns under chapter 220 or at the time such returns are required to be filed, whichever first occurs, and not at such earlier time as such payments of estimated tax are actually made.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">There shall be allowed a credit against the net tax imposed by this section equal to 15 percent of the amount paid by an insurer in salaries to employees located or based within this state and who are covered by the provisions of chapter 443.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">As an alternative to the credit allowed in subparagraph 1., an affiliated group of corporations which includes at least one insurance company writing premiums in Florida may elect to take a credit against the net tax imposed by this section in an amount that may not exceed 15 percent of the salary of the employees of the affiliated group of corporations who perform insurance-related activities, are located or based within this state, and are covered by chapter 443. For purposes of this subparagraph, the term “affiliated group of corporations” means two or more corporations that are entirely owned directly or indirectly by a single corporation and that constitute an affiliated group as defined in s. 1504(a) of the Internal Revenue Code. The amount of credit allowed under this subparagraph is limited to the combined Florida salary tax credits allowed for all insurance companies that were members of the affiliated group of corporations for the tax year ending December 31, 2002, divided by the combined Florida taxable premiums written by all insurance companies that were members of the affiliated group of corporations for the tax year ending December 31, 2002, multiplied by the combined Florida taxable premiums of the affiliated group of corporations for the current year. An affiliated group of corporations electing this alternative calculation method must make such election on or before August 1, 2005. The election of this alternative calculation method is irrevocable and binding upon successors and assigns of the affiliated group of corporations electing this alternative. However, if a member of an affiliated group of corporations acquires or merges with another insurance company after the date of the irrevocable election, the acquired or merged company is not entitled to the affiliated group election and shall only be entitled to calculate the tax credit under subparagraph 1.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">In no event shall the salary paid to an employee by an affiliated group of corporations be claimed as a credit by more than one insurer or be counted more than once in an insurer’s calculation of the credit as described in subparagraph 1. or subparagraph 2. Only the portion of an employee’s salary paid for the performance of insurance-related activities may be included in the calculation of the premium tax credit in this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The term “salaries” does not include amounts paid as commissions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The term “employees” does not include independent contractors or any person whose duties require that the person hold a valid license under the Florida Insurance Code, except adjusters, managing general agents, and service representatives, as defined in s. 626.015.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The term “net tax” means the tax imposed by this section after applying the calculations and credits set forth in subsection (4).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An affiliated group of corporations that created a service company within its affiliated group on July 30, 2002, shall allocate the salary of each service company employee covered by contracts with affiliated group members to the companies for which the employees perform services. The salary allocation is based on the amount of time during the tax year that the individual employee spends performing services or otherwise working for each company over the total amount of time the employee spends performing services or otherwise working for all companies. The total amount of salary allocated to an insurance company within the affiliated group shall be included as that insurer’s employee salaries for purposes of this section.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Except as provided in subparagraph (a)2., the term “affiliated group of corporations” means two or more corporations that are entirely owned by a single corporation and that constitute an affiliated group of corporations as defined in s. 1504(a) of the Internal Revenue Code.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The term “service company” means a separate corporation within the affiliated group of corporations whose employees provide services to affiliated group members and which are treated as service company employees for reemployment assistance or unemployment compensation and common law purposes. The holding company of an affiliated group may not qualify as a service company. An insurance company may not qualify as a service company.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">If an insurance company fails to substantiate, whether by means of adequate records or otherwise, its eligibility to claim the service company exception under this section, or its salary allocation under this section, no credit shall be allowed.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A service company that is a subsidiary of a mutual insurance holding company, which mutual insurance holding company was in existence on or before January 1, 2000, shall allocate the salary of each service company employee covered by contracts with members of the mutual insurance holding company system to the companies for which the employees perform services. The salary allocation is based on the ratio of the amount of time during the tax year which the individual employee spends performing services or otherwise working for each company to the total amount of time the employee spends performing services or otherwise working for all companies. The total amount of salary allocated to an insurance company within the mutual insurance holding company system shall be included as that insurer’s employee salaries for purposes of this section. However, this subparagraph does not apply for any tax year unless funds sufficient to offset the anticipated salary credits have been appropriated to the General Revenue Fund prior to the due date of the final return for that year.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The term “mutual insurance holding company system” means two or more corporations that are subsidiaries of a mutual insurance holding company and in compliance with part IV of chapter 628.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The term “service company” means a separate corporation within the mutual insurance holding company system whose employees provide services to other members of the mutual insurance holding company system and are treated as service company employees for reemployment assistance or unemployment compensation and common-law purposes. The mutual insurance holding company may not qualify as a service company.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">If an insurance company fails to substantiate, whether by means of adequate records or otherwise, its eligibility to claim the service company exception under this section, or its salary allocation under this section, no credit shall be allowed.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">The total of the credit granted for the taxes paid by the insurer under chapter 220 and the credit granted by subsection (5) may not exceed 65 percent of the tax due under subsection (1) after deducting therefrom the taxes paid by the insurer under ss. 175.101 and 185.08 and any assessments pursuant to s. 440.51.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To the extent that any credits granted by subsection (5) remain as a result of the limitation set forth in paragraph (a), such excess credits related to salaries and wages of employees whose place of employment is located within an enterprise zone created pursuant to chapter 290 may be transferred, in an aggregate amount not to exceed 25 percent of such excess salary credits, to any insurer that is a member of an affiliated group of corporations, as defined in sub-subparagraph (5)(b)4.a., that includes the original insurer qualifying for the credits under subsection (5). The amount of such excess credits to be transferred shall be calculated by multiplying the amount of such excess credits by a fraction, the numerator of which is the sum of the salaries qualifying for the credit allowed by subsection (5) of employees whose place of employment is located in an enterprise zone and the denominator of which is the sum of the salaries qualifying for the credit allowed by subsection (5). Any such transferred credits shall be subject to the same provisions and limitations set forth within part IV of this chapter. The provisions of this paragraph do not apply to an affiliated group of corporations that participate in a common paymaster arrangement as defined in s. 443.1216.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Credits and deductions against the tax imposed by this section shall be taken in the following order: deductions for assessments made pursuant to s. 440.51; credits for taxes paid under ss. 175.101 and 185.08; credits for income taxes paid under chapter 220 and the credit allowed under subsection (5), as these credits are limited by subsection (6); all other available credits and deductions.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">From and after July 1, 1980, the premium tax authorized by this section shall not be imposed upon receipts of annuity premiums or considerations paid by holders in this state if the tax savings derived are credited to the annuity holders. Upon request by the Department of Revenue, any insurer availing itself of this provision shall submit to the department evidence which establishes that the tax savings derived have been credited to annuity holders. As used in this subsection, the term “holders” shall be deemed to include employers contributing to an employee’s pension, annuity, or profit-sharing plan.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">As used in this section “insurer” includes any entity subject to the tax imposed by this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 81, ch. 59-205; ss. 21, 35, ch. 69-106; ss. 1, 3, ch. 71-9(B); s. 3, ch. 71-984; s. 3, ch. 76-168; s. 1, ch. 77-237; s. 1, ch. 77-457; s. 1, ch. 79-247; s. 1, ch. 80-18; s. 17, ch. 81-178; s. 69, ch. 82-243; ss. 6, 7, ch. 82-385; s. 8, ch. 84-170; s. 26, ch. 87-99; s. 13, ch. 87-226; s. 1, ch. 88-206; ss. 1, 22, ch. 89-167; s. 96, ch. 90-132; s. 11, ch. 90-249; s. 10, ch. 90-366; s. 39, ch. 92-173; s. 195, ch. 97-102; s. 12, ch. 98-132; s. 1, ch. 99-286; s. 3, ch. 2002-206; s. 60, ch. 2002-218; s. 36, ch. 2003-254; s. 843, ch. 2003-261; s. 105, ch. 2004-5; s. 26, ch. 2005-280; s. 83, ch. 2006-1; s. 7, ch. 2006-55; s. 33, ch. 2011-76; s. 78, ch. 2012-30.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.221" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Consumer-directed care program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SHORT TITLE.<EmDash />This section may be cited as the “Florida Consumer-Directed Care Act.”</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE FINDINGS.<EmDash />The Legislature finds that alternatives to institutional care, such as in-home and community-based care, should be encouraged. The Legislature finds that giving recipients of in-home and community-based services the opportunity to select the services they need and the providers they want, including family and friends, enhances their sense of dignity and autonomy. The Legislature also finds that providing consumers choice and control, as tested in current research and demonstration projects, has been beneficial and should be developed further and implemented statewide.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE INTENT.<EmDash />It is the intent of the Legislature to nurture the autonomy of those citizens of the state, of all ages, who have disabilities by providing the long-term care services they need in the least restrictive, appropriate setting. It is the intent of the Legislature to give such individuals more choices in and greater control over the purchased long-term care services they receive.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">CONSUMER-DIRECTED CARE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Program established.</Font><EmDash />The Agency for Health Care Administration shall establish the consumer-directed care program which shall be based on the principles of consumer choice and control. The agency shall implement the program upon federal approval. The agency shall establish interagency cooperative agreements with and shall work with the Departments of Elderly Affairs, Health, and Children and Family Services and the Agency for Persons with Disabilities to implement and administer the program. The program shall allow enrolled persons to choose the providers of services and to direct the delivery of services, to best meet their long-term care needs. The program must operate within the funds appropriated by the Legislature.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Eligibility and enrollment.</Font><EmDash />Persons who are enrolled in one of the Medicaid home and community-based waiver programs and are able to direct their own care, or to designate an eligible representative, may choose to participate in the consumer-directed care program.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Definitions.</Font><EmDash />For purposes of this section, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Budget allowance” means the amount of money made available each month to a consumer to purchase needed long-term care services, based on the results of a functional needs assessment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Consultant” means an individual who provides technical assistance to consumers in meeting their responsibilities under this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Consumer” means a person who has chosen to participate in the program, has met the enrollment requirements, and has received an approved budget allowance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">“Fiscal intermediary” means an entity approved by the agency that helps the consumer manage the consumer’s budget allowance, retains the funds, processes employment information, if any, and tax information, reviews records to ensure correctness, writes paychecks to providers, and delivers paychecks to the consumer for distribution to providers and caregivers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">“Provider” means:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A person licensed or otherwise permitted to render services eligible for reimbursement under this program for whom the consumer is not the employer of record; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A consumer-employed caregiver for whom the consumer is the employer of record.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">“Representative” means an uncompensated individual designated by the consumer to assist in managing the consumer’s budget allowance and needed services.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Budget allowances.</Font><EmDash />Consumers enrolled in the program shall be given a monthly budget allowance based on the results of their assessed functional needs and the financial resources of the program. Consumers shall receive the budget allowance directly from an agency-approved fiscal intermediary. Each department shall develop purchasing guidelines, approved by the agency, to assist consumers in using the budget allowance to purchase needed, cost-effective services.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Services.</Font><EmDash />Consumers shall use the budget allowance only to pay for home and community-based services that meet the consumer’s long-term care needs and are a cost-efficient use of funds. Such services may include, but are not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Personal care.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Homemaking and chores, including housework, meals, shopping, and transportation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Home modifications and assistive devices which may increase the consumer’s independence or make it possible to avoid institutional placement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Assistance in taking self-administered medication.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Day care and respite care services, including those provided by nursing home facilities pursuant to s. 400.141(1)(f) or by adult day care facilities licensed pursuant to s. 429.907.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Personal care and support services provided in an assisted living facility.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Consumer roles and responsibilities.</Font><EmDash />Consumers shall be allowed to choose the providers of services, as well as when and how the services are provided. Providers may include a consumer’s neighbor, friend, spouse, or relative.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In cases where a consumer is the employer of record, the consumer’s roles and responsibilities include, but are not limited to, the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Developing a job description.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Selecting caregivers and submitting information for the background screening as required in s. 435.05.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Communicating needs, preferences, and expectations about services being purchased.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Providing the fiscal intermediary with all information necessary for provider payments and tax requirements.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Ending the employment of an unsatisfactory caregiver.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In cases where a consumer is not the employer of record, the consumer’s roles and responsibilities include, but are not limited to, the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Communicating needs, preferences, and expectations about services being purchased.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Ending the services of an unsatisfactory provider.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Providing the fiscal agent with all information necessary for provider payments and tax requirements.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Agency’s and departments’ roles and responsibilities.</Font><EmDash />The agency’s and the departments’ roles and responsibilities include, but are not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Assessing each consumer’s functional needs, helping with the service plan, and providing ongoing assistance with the service plan.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Offering the services of consultants who shall provide training, technical assistance, and support to the consumer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Completing the background screening for providers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Approving fiscal intermediaries.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Establishing the minimum qualifications for all caregivers and providers and being the final arbiter of the fitness of any individual to be a caregiver or provider.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Fiscal intermediary roles and responsibilities.</Font><EmDash />The fiscal intermediary’s roles and responsibilities include, but are not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Providing recordkeeping services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Retaining the consumer-directed care funds, processing employment and tax information, if any, reviewing records to ensure correctness, writing paychecks to providers, and delivering paychecks to the consumer for distribution.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Background screening requirements.</Font><EmDash />All persons who render care under this section must undergo level 2 background screening pursuant to chapter 435 and s. 408.809. The agency shall, as allowable, reimburse consumer-employed caregivers for the cost of conducting background screening as required by this section. For purposes of this section, a person who has undergone screening, who is qualified for employment under this section and applicable rule, and who has not been unemployed for more than 90 days following such screening is not required to be rescreened. Such person must attest under penalty of perjury to not having been convicted of a disqualifying offense since completing such screening.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Rules; federal waivers.</Font><EmDash />In order to implement this section:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The agency and the Departments of Elderly Affairs, Health, and Children and Family Services and the Agency for Persons with Disabilities are authorized to adopt and enforce rules.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency shall take all necessary action to ensure state compliance with federal regulations. The agency shall apply for any necessary federal waivers or waiver amendments needed to implement the program.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2002-223; s. 3, ch. 2006-15; s. 52, ch. 2006-227; s. 95, ch. 2007-5; s. 134, ch. 2007-230; s. 57, ch. 2009-223; s. 122, ch. 2010-102; s. 24, ch. 2010-114; s. 4, ch. 2012-73.</History>
+</Section>

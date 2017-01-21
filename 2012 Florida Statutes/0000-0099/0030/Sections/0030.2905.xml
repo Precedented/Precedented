@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0030.2905" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Program to contract for employment of off-duty deputies for security services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A sheriff may operate or administer a program to contract for the employment of sheriff’s deputies, during off-duty hours, for public or private security services.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any such public or private employer of a deputy sheriff shall be responsible for the acts or omissions of the deputy sheriff while performing services for that employer while off duty, including workers’ compensation benefits.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">However, for the workers’ compensation purposes of this section:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A deputy sheriff so employed who sustains an injury while enforcing the criminal, traffic, or penal laws of this state shall be regarded as working on duty.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The term “enforcing the criminal, traffic, or penal laws of this state” shall be interpreted to include, but is not limited to, providing security, patrol, or traffic direction for a private or public employer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A sheriff may include the sheriff’s proportionate costs of workers’ compensation premiums for the off-duty deputy sheriffs providing such services.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Deputy sheriffs employed during off-duty hours pursuant to the provisions of this section are exempt from the licensure requirements of chapter 493 for persons who watch or guard, patrol services, or private investigators.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 91-174; s. 184, ch. 95-147; s. 1, ch. 2010-175.</History>
+</Section>

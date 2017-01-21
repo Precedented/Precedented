@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.6561" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Preexisting conditions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Enrollment date” means, with respect to an individual covered under a group health policy, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period of such enrollment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Late enrollee” means, with respect to coverage under a group health policy, a participant or beneficiary who enrolls under the policy other than during:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The first period in which the individual is eligible to enroll under the policy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A special enrollment period, as provided under s. 627.65615.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Waiting period” means, with respect to a group health policy and an individual who is a potential participant or beneficiary of the policy, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the policy.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Subject to the exceptions specified in subsection (4), an insurer that offers group health insurance coverage may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Such exclusion relates to a physical or mental condition, regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Such exclusion extends for a period of not more than 12 months, or 18 months in the case of a late enrollee, after the enrollment date; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage, as defined in subsection (5), applicable to the participant or beneficiary as of the enrollment date.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Genetic information may not be treated as a condition described in paragraph (2)(a) in the absence of a diagnosis of the condition related to such information.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Subject to paragraph (b), an insurer that offers group health insurance coverage may not impose any preexisting condition exclusion in the case of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. This provision does not apply to coverage before the date of such adoption or placement for adoption.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Pregnancy.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Reference Number="2" />Subparagraphs 1. and 2. do not apply to an individual after the end of the first 63-day period during all of which the individual was not covered under any creditable coverage.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The term, “creditable coverage,” means, with respect to an individual, coverage of the individual under any of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A group health plan, as defined in s. 2791 of the Public Health Service Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Health insurance coverage consisting of medical care, provided directly, through insurance or reimbursement, or otherwise and including terms and services paid for as medical care, under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance contract offered by a health insurance issuer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Part A or part B of Title XVIII of the Social Security Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Title XIX of the Social Security Act, other than coverage consisting solely of benefits under s. 1928.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Chapter 55 of Title 10, United States Code.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A medical care program of the Indian Health Service or of a tribal organization.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The Florida Comprehensive Health Association or another state health benefit risk pool.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A health plan offered under chapter 89 of Title 5, United States Code.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A public health plan as defined by rules adopted by the commission. To the greatest extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">A health benefit plan under s. 5(e) of the Peace Corps Act (22 U.S.C. s. 2504(e)).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Creditable coverage does not include coverage that consists solely of one or more or any combination thereof of the following excepted benefits:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Coverage only for accident, or disability income insurance, or any combination thereof.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Coverage issued as a supplement to liability insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Liability insurance, including general liability insurance and automobile liability insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Workers’ compensation or similar insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Automobile medical payment insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Credit-only insurance.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Coverage for onsite medical clinics, including prepaid health clinics under part II of chapter 641.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Other similar insurance coverage, specified in rules adopted by the commission, under which benefits for medical care are secondary or incidental to other insurance benefits. To the extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The following benefits are not subject to the creditable coverage requirements, if offered separately:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Limited scope dental or vision benefits.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Such other similar, limited benefits as are specified in rules adopted by the commission.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The following benefits are not subject to creditable coverage requirements if offered as independent, noncoordinated benefits:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Coverage only for a specified disease or illness.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Hospital indemnity or other fixed indemnity insurance.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Benefits provided through a Medicare supplemental health insurance, as defined under s. 1882(g)(1) of the Social Security Act, coverage supplemental to the coverage provided under chapter 55 of Title 10, United States Code, and similar supplemental coverage provided to coverage under a group health plan are not considered creditable coverage if offered as a separate insurance policy.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A period of creditable coverage may not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any period during which an individual is in a waiting period for any coverage under a group health plan or for group health insurance coverage may not be taken into account in determining the 63-day period under paragraph (a) or paragraph (4)(b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as otherwise provided under paragraph (b), an insurer shall count a period of creditable coverage without regard to the specific benefits covered under the period.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An insurer may elect to count, as creditable coverage, coverage of benefits within each of several classes or categories of benefits specified in rules adopted by the commission rather than as provided under paragraph (a). To the extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services. Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election, an insurer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In the case of an election with respect to an insurer under paragraph (b), the insurer shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Prominently state in 10-point type or larger in any disclosure statements concerning the policy, and state to each certificateholder at the time of enrollment under the policy, that the insurer has made such election; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Include in such statements a description of the effect of this election.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in this subsection or in such other manner as is specified in rules adopted by the commission. To the extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An insurer that offers group health insurance coverage shall provide the certification described in paragraph (a):</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">At the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision or continuation pursuant to s. 627.6692.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In the case of an individual becoming covered under a COBRA continuation provision or pursuant to s. 627.6692, at the time the individual ceases to be covered under such a provision.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Upon the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in this paragraph.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The certification under subparagraph 1. may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision or continuation pursuant to s. 627.6692.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The certification described in this section is a written certification that must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The period of creditable coverage of the individual under the policy and the coverage, if any, under such COBRA continuation provision or continuation pursuant to s. 627.6692; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The waiting period, if any, imposed with respect to the individual for any coverage under such policy.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In the case of an election described in subsection (7) by an insurer, if the insurer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual, as provided in this subsection:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon request of such insurer, the insurer that issued the certification provided by the individual shall promptly disclose to such requesting plan or insurer information on coverage of classes and categories of health benefits available under such insurer’s plan or coverage.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Such insurer may charge the requesting insurer for the reasonable cost of disclosing such information.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The commission shall adopt rules to prevent an insurer’s failure to provide information under this subsection with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage. To the greatest extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), no period before July 1, 1996, shall be taken into account in determining creditable coverage.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commission shall adopt rules that provide a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for paragraph (a), may be given credit for creditable coverage for such periods through the presentation of documents or other means. To the greatest extent possible, such rules must be consistent with regulations adopted by the United States Department of Health and Human Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this subsection, paragraph (8)(b) applies to events that occur on or after July 1, 1996.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In no case is a certification required to be provided under paragraph (8)(b) prior to June 1, 1997.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of an event that occurred on or after July 1, 1996, and before October 1, 1996, a certification is not required to be provided under paragraph (8)(b), unless an individual, with respect to whom the certification is required to be made, requests such certification in writing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event that occurred before July 1, 1996:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The individual may present other creditable coverage in order to establish the period of creditable coverage.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An insurer is not subject to any penalty or enforcement action with respect to the insurer’s crediting, or not crediting, such coverage if the insurer has sought to comply in good faith with applicable provisions of this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">For purposes of subsection (9), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement of this section may not be treated as a termination of such collective bargaining agreement.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any health insurance coverage in relation to its provision of excepted benefits described in paragraph (5)(b).</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any health insurance coverage in relation to its provision of excepted benefits described in paragraphs (5)(c), (d), or (e), if the benefits are provided under a separate policy, certificate, or contract of insurance.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">This section applies to health insurance coverage offered, sold, issued, renewed, or in effect on or after July 1, 1997.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 130, ch. 92-33; s. 2, ch. 95-364; s. 8, ch. 97-179; s. 1165, ch. 2003-261.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 34(2), ch. 97-179, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Except as provided in section 627.6561(9), (10), and (11), and section 641.31071(10), (11), and (12), Florida Statutes, in the case of a group health plan or group health insurance contract maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers which is ratified before this act becomes a law, sections 627.6561, 627.65615, 627.65625, 627.6571, 627.6699, 641.31071, 641.31072, 641.31073, and 641.31074, Florida Statutes, except for section 627.6561(8)(b), Florida Statutes, as amended or created by this act, apply to policies or contracts with plan years that begin on or after the later of:</Text>
+		<Text xml:space="preserve" Style="Indent">“(a) The date on which the last of any collective bargaining agreement that relates to the plan terminates, determined without regard to any extension thereof, which is agreed to after the date this act becomes a law; or</Text>
+		<Text xml:space="preserve" Style="Indent">“(b) July 1, 1997.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Paragraph (b) is not divided into subparagraphs. The reference may be to subparagraphs (a)1. and (a)2.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0259.037" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Land Management Uniform Accounting Council.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Land Management Uniform Accounting Council is created within the Department of Environmental Protection and shall consist of the director of the Division of State Lands, the director of the Division of Recreation and Parks, the director of the Office of Coastal and Aquatic Managed Areas, and the director of the Office of Greenways and Trails of the Department of Environmental Protection; the director of the Florida Forest Service of the Department of Agriculture and Consumer Services; the executive director of the Fish and Wildlife Conservation Commission; and the director of the Division of Historical Resources of the Department of State, or their respective designees. Each state agency represented on the council shall have one vote. The chair of the council shall rotate annually in the foregoing order of state agencies. The agency of the representative serving as chair of the council shall provide staff support for the council. The Division of State Lands shall serve as the recipient of and repository for the council’s documents. The council shall meet at the request of the chair.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Auditor General and the director of the Office of Program Policy Analysis and Government Accountability, or their designees, shall advise the council to ensure that appropriate accounting procedures are utilized and that a uniform method of collecting and reporting accurate costs of land management activities are created and can be used by all agencies.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All land management activities and costs must be assigned to a specific category, and any single activity or cost may not be assigned to more than one category. Administrative costs, such as planning or training, shall be segregated from other management activities. Specific management activities and costs must initially be grouped, at a minimum, within the following categories:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Resource management.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Support.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Capital improvements.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Recreation visitor services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Law enforcement activities.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Upon adoption of the initial list of land management categories by the council, agencies assigned to manage conservation or recreation lands shall, on July 1, 2000, begin to account for land management costs in accordance with the category to which an expenditure is assigned.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each reporting agency shall also:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Include a report of the available public use opportunities for each management unit of state land, the total management cost for public access and public use, and the cost associated with each use option.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">List the acres of land requiring minimal management effort, moderate management effort, and significant management effort pursuant to s. 259.032(11)(c). For each category created in paragraph (a), the reporting agency shall include the amount of funds requested, the amount of funds received, and the amount of funds expended for land management.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">List acres managed and cost of management for each park, preserve, forest, reserve, or management area.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">List acres managed, cost of management, and lead manager for each state lands management unit for which secondary management activities were provided.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Include a report of the estimated calculable financial benefits to the public for the ecosystem services provided by conservation lands, based on the best readily available information or science that provides a standard measurement methodology to be consistently applied by the land managing agencies. Such information may include, but need not be limited to, the value of natural lands for protecting the quality and quantity of drinking water through natural water filtration and recharge, contributions to protecting and improving air quality, benefits to agriculture through increased soil productivity and preservation of biodiversity, and savings to property and lives through flood control.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The council shall provide a report of the agencies’ expenditures pursuant to the adopted categories to the Acquisition and Restoration Council and the division for inclusion in its annual report required pursuant to s. 259.036.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Should the council determine that the list of land management categories needs to be revised, it shall meet upon the call of the chair.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Biennially, each reporting agency shall also submit an operational report for each management area along with an approved management plan. The report should assess the progress toward achieving short-term and long-term management goals of the approved management plan, including all land management activities, and identify any deficiencies in management and corrective actions to address identified deficiencies as appropriate. This report shall be submitted to the Acquisition and Restoration Council and the division for inclusion in its annual report required pursuant to s. 259.036.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 25, ch. 2000-170; s. 46, ch. 2001-61; s. 11, ch. 2008-229; s. 61, ch. 2010-102; s. 7, ch. 2012-7.</History>
+</Section>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6051" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Notice of registration of order.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When a support order or income-withholding order issued in another state is registered, the registering tribunal shall notify the nonregistering party. The notice must be accompanied by a copy of the registered order and the documents and relevant information accompanying the order.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The notice must inform the nonregistering party:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That a registered order is enforceable as of the date of registration in the same manner as an order issued by a tribunal of this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That a hearing to contest the validity or enforcement of the registered order must be requested within 20 days after the date of mailing or personal service of the notice.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That failure to contest the validity or enforcement of the registered order in a timely manner will result in confirmation of the order and enforcement of the order and the alleged arrearages and precludes further contest of that order with respect to any matter that could have been asserted.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Of the amount of any alleged arrearages.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon registration of an income-withholding order for enforcement, the registering tribunal shall notify the obligor’s employer pursuant to chapter 61 or other income deduction law of this state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 96-189; s. 31, ch. 97-170; s. 48, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 48, ch. 2011-92, amended s. 88.6051, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.6051 Notice of registration of order.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) When a support order or income-withholding order issued in another state or a foreign support order is registered, the registering tribunal of this state shall notify the nonregistering party. The notice must be accompanied by a copy of the registered order and the documents and relevant information accompanying the order.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) A notice must inform the nonregistering party:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) That a registered order is enforceable as of the date of registration in the same manner as an order issued by a tribunal of this state.</Text>
+		<Text xml:space="preserve" Style="Indent">(b) That a hearing to contest the validity or enforcement of the registered order must be requested within 20 days after the date of mailing or personal service of the notice, unless the registered order is under s. 88.7071.</Text>
+		<Text xml:space="preserve" Style="Indent">(c) That failure to contest the validity or enforcement of the registered order in a timely manner will result in confirmation of the order and enforcement of the order and the alleged arrearages and precludes further contest of that order with respect to any matter that could have been asserted.</Text>
+		<Text xml:space="preserve" Style="Indent">(d) Of the amount of any alleged arrearages.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) If the registering party asserts that two or more orders are in effect, a notice must also:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Identify the two or more orders and the order alleged by the registering party to be the controlling order and the consolidated arrears, if any;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Notify the nonregistering party of the right to a determination of which is the controlling order;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) State that the procedures provided in subsection (2) apply to the determination of which is the controlling order; and</Text>
+		<Text xml:space="preserve" Style="Indent">(d) State that failure to contest the validity or enforcement of the order alleged to be the controlling order in a timely manner may result in confirmation that the order is the controlling order.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) Upon registration of an income-withholding order for enforcement, the support enforcement agency or the registering tribunal shall notify the obligor’s employer pursuant to chapter 61 or other income deduction law of this state.</Text>
+	</Note>
+</Section>

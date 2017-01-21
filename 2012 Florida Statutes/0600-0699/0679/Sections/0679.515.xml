@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.515" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Duration and effectiveness of financing statement; effect of lapsed financing statement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsections (2), (5), (6), and (7), a filed financing statement is effective for a period of 5 years after the date of filing.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsections (5), (6), and (7), an initial financing statement filed in connection with a manufactured-home transaction is effective for a period of 30 years after the date of filing if it indicates that it is filed in connection with a manufactured-home transaction.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The effectiveness of a filed financing statement lapses on the expiration of the period of its effectiveness unless, before the lapse, a continuation statement is filed pursuant to subsection (4). Upon lapse, a financing statement ceases to be effective and any security interest or agricultural lien that was perfected by the financing statement becomes unperfected, unless the security interest is perfected without filing. If the security interest or agricultural lien becomes unperfected upon lapse, it is deemed never to have been perfected as against a purchaser of the collateral for value.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A continuation statement may be filed only within 6 months before the expiration of the 5-year period specified in subsection (1) or the 30-year period specified in subsection (2), whichever is applicable.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in s. 679.510, upon timely filing of a continuation statement, the effectiveness of the initial financing statement continues for a period of 5 years commencing on the day on which the financing statement would have become ineffective in the absence of the filing. Upon the expiration of the 5-year period, the financing statement lapses in the same manner as provided in subsection (3), unless, before the lapse, another continuation statement is filed pursuant to subsection (4). Succeeding continuation statements may be filed in the same manner to continue the effectiveness of the initial financing statement.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">If a debtor is a transmitting utility and a filed financing statement so indicates, the financing statement is effective until a termination statement is filed.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A record of a mortgage satisfying the requirements of chapter 697 that is effective as a fixture filing under s. 679.5021(3) remains effective as a financing statement filed as a fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise terminates as to the real property.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2001-198; s. 13, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 13, ch. 2012-59, amended subsection (6), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(6) If a debtor is a transmitting utility and a filed initial financing statement so indicates, the financing statement is effective until a termination statement is filed.</Text>
+	</Note>
+</Section>

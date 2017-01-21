@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.08" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application for license; requirements for license and identification card forms.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each application for a driver’s license shall be made in a format designated by the department and sworn to or affirmed by the applicant as to the truth of the statements made in the application.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each such application shall include the following information regarding the applicant:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Full name (first, middle or maiden, and last), gender, proof of social security card number satisfactory to the department, county of residence, mailing address, proof of residential address satisfactory to the department, country of birth, and a brief description.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Proof of birth date satisfactory to the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Proof of identity satisfactory to the department. Such proof must include one of the following documents issued to the applicant:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A driver license record or identification card record from another jurisdiction that required the applicant to submit a document for identification which is substantially similar to a document required under subparagraph 2., subparagraph 3., subparagraph 4., subparagraph 5., subparagraph 6., subparagraph 7., or subparagraph 8.;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A certified copy of a United States birth certificate;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A valid, unexpired United States passport;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A naturalization certificate issued by the United States Department of Homeland Security;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A valid, unexpired alien registration receipt card (green card);</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A Consular Report of Birth Abroad provided by the United States Department of State;</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">An unexpired employment authorization card issued by the United States Department of Homeland Security; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Proof of nonimmigrant classification provided by the United States Department of Homeland Security, for an original driver license. In order to prove nonimmigrant classification, an applicant must provide at least one of the following documents. In addition, the department may require applicants to produce United States Department of Homeland Security documents for the sole purpose of establishing the maintenance of, or efforts to maintain, continuous lawful presence:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A notice of hearing from an immigration court scheduling a hearing on any proceeding.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A notice from the Board of Immigration Appeals acknowledging pendency of an appeal.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A notice of the approval of an application for adjustment of status issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">An official documentation confirming the filing of a petition for asylum or refugee status or any other relief issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A notice of action transferring any pending matter from another jurisdiction to this state issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">An order of an immigration judge or immigration officer granting relief that authorizes the alien to live and work in the United States, including, but not limited to, asylum.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Evidence that an application is pending for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States, if a visa number is available having a current priority date for processing by the United States Bureau of Citizenship and Immigration Services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">On or after January 1, 2010, an unexpired foreign passport with an unexpired United States Visa affixed, accompanied by an approved I-94, documenting the most recent admittance into the United States.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">A driver license or temporary permit issued based on documents required in subparagraph 7. or subparagraph 8. is valid for a period not to exceed the expiration date of the document presented or 1 year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Whether the applicant has previously been licensed to drive, and, if so, when and by what state, and whether any such license or driving privilege has ever been disqualified, revoked, or suspended, or whether an application has ever been refused, and, if so, the date of and reason for such disqualification, suspension, revocation, or refusal.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Each such application may include fingerprints and other unique biometric means of identity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each such application shall include a consent to release driving record information, entitling the department to request, receive, and exchange such information with other jurisdictions.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In addition to the requirements of subsections (1), (2), and (3), each application for a commercial driver’s license shall include a certification as to whether the applicant is required by federal or state law to undergo biennial physical examinations and other certifications required by the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department may not issue a driver’s license to a person who has never been issued a driver’s license in any jurisdiction until he or she successfully completes the traffic law and substance abuse education course prescribed in s. 322.095.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department may not issue a driver’s license or identification card, as described in s. 322.051, to an applicant if the applicant holds a valid driver’s license or identification card issued by any state.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The application form for an original, renewal, or replacement driver license or identification card shall include language permitting the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which contribution shall be deposited into the Health Care Trust Fund for organ and tissue donor education and for maintaining the organ and tissue donor registry.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which contribution shall be distributed to the Florida Council of the Blind.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $2 per applicant, which shall be distributed to the Hearing Research Institute, Incorporated.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which shall be distributed to the Juvenile Diabetes Foundation International.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which shall be distributed to the Children’s Hearing Help Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which shall be distributed to Family First, a nonprofit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant to Stop Heart Disease, which shall be distributed to the Florida Heart Research Institute, a nonprofit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant to Senior Vision Services, which shall be distributed to the Florida Association of Agencies Serving the Blind, Inc., a not-for-profit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant for services for persons with developmental disabilities, which shall be distributed to The Arc of Florida.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 to the Ronald McDonald House, which shall be distributed each month to Ronald McDonald House Charities of Tampa Bay, Inc.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 322.081, a voluntary contribution of $1 per applicant, which shall be distributed to the League Against Cancer/La Liga Contra el Cancer, a not-for-profit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant to Prevent Child Sexual Abuse, which shall be distributed to Lauren’s Kids, Inc., a nonprofit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant, which shall be distributed to Prevent Blindness Florida, a not-for-profit organization, to prevent blindness and preserve the sight of the residents of this state.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding s. 322.081, a voluntary contribution of $1 per applicant to the state homes for veterans, to be distributed on a quarterly basis by the department to the State Homes for Veterans Trust Fund, which is administered by the Department of Veterans’ Affairs.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant to the Disabled American Veterans, Department of Florida, which shall be distributed quarterly to Disabled American Veterans, Department of Florida, a nonprofit organization.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant for Autism Services and Supports, which shall be distributed to Achievement and Rehabilitation Centers, Inc., Autism Services Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">A voluntary contribution of $1 per applicant to Support Our Troops, which shall be distributed to Support Our Troops, Inc., a Florida not-for-profit organization.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">A statement providing an explanation of the purpose of the trust funds shall also be included. For the purpose of applying the service charge provided in s. 215.20, contributions received under paragraphs (b)-(q) are not income of a revenue nature.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department may collect electronic mail addresses and use electronic mail in lieu of the United States Postal Service for the purpose of providing renewal notices.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 20, ch. 19551, 1939; CGL 1940 Supp. 4151(634); s. 20, ch. 20451, 1941; s. 1, ch. 71-74; s. 8, ch. 78-394; s. 1, ch. 85-98; s. 2, ch. 89-134; s. 14, ch. 89-282; s. 12, ch. 91-82; s. 28, ch. 91-107; s. 6, ch. 91-243; s. 403, ch. 95-148; s. 2, ch. 95-423; s. 24, ch. 96-413; s. 31, ch. 96-418; s. 2, ch. 98-68; ss. 40, 74, 282, ch. 99-248; s. 36, ch. 2000-313; s. 4, ch. 2002-76; s. 2, ch. 2002-259; s. 28, ch. 2004-5; s. 7, ch. 2004-235; s. 1, ch. 2005-68; ss. 19, 71, ch. 2005-164; s. 42, ch. 2006-290; s. 6, ch. 2008-9; s. 2, ch. 2008-102; s. 28, ch. 2008-176; s. 1, ch. 2009-100; s. 11, ch. 2009-183; s. 2, ch. 2010-82; s. 2, ch. 2010-86; s. 32, ch. 2010-223; s. 1, ch. 2011-166; s. 2, ch. 2012-86; s. 50, ch. 2012-181.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As created by s. 2, ch. 2012-86. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Paragraph (7)(p) was also created by s. 50, ch. 2012-181, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(p) A voluntary contribution of $1 per applicant for Autism Services and Supports. Such contributions must be transferred by the department to the Achievement and Rehabilitation Centers, Inc., Autism Services Fund.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.13" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">“Adjusted federal income” defined.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The term “adjusted federal income” means an amount equal to the taxpayer’s taxable income as defined in subsection (2), or such taxable income of more than one taxpayer as provided in s. 220.131, for the taxable year, adjusted as follows:</Text>
+			<Paragraph Id="a">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Additions</Font>.<EmDash />There shall be added to such taxable income:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The amount of any tax upon or measured by income, excluding taxes based on gross receipts or revenues, paid or accrued as a liability to the District of Columbia or any state of the United States which is deductible from gross income in the computation of taxable income for the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The amount of interest which is excluded from taxable income under s. 103(a) of the Internal Revenue Code or any other federal law, less the associated expenses disallowed in the computation of taxable income under s. 265 of the Internal Revenue Code or any other law, excluding 60 percent of any amounts included in alternative minimum taxable income, as defined in s. 55(b)(2) of the Internal Revenue Code, if the taxpayer pays tax under s. 220.11(3).</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In the case of a regulated investment company or real estate investment trust, an amount equal to the excess of the net long-term capital gain for the taxable year over the amount of the capital gain dividends attributable to the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">That portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under s. 220.181. This subparagraph shall expire on the date specified in s. 290.016 for the expiration of the Florida Enterprise Zone Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">That portion of the ad valorem school taxes paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under s. 220.182. This subparagraph shall expire on the date specified in s. 290.016 for the expiration of the Florida Enterprise Zone Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit under s. 220.195 which is deductible from gross income in the computation of taxable income for the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">That portion of assessments to fund a guaranty association incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">In the case of a nonprofit corporation which holds a pari-mutuel permit and which is exempt from federal income tax as a farmers’ cooperative, an amount equal to the excess of the gross income attributable to the pari-mutuel operations over the attributable expenses for the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year under s. 220.1895.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Up to nine percent of the eligible basis of any designated project which is equal to the credit allowable for the taxable year under s. 220.185.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year under s. 220.1875. The addition in this subparagraph is intended to ensure that the same amount is not allowed for the tax purposes of this state as both a deduction from income and a credit against the tax. This addition is not intended to result in adding the same expense back to income more than once.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year under s. 220.192.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year under s. 220.193.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Any portion of a qualified investment, as defined in s. 288.9913, which is claimed as a deduction by the taxpayer and taken as a credit against income tax pursuant to s. 288.9916.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">The costs to acquire a tax credit pursuant to s. 288.1254(5) that are deducted from or otherwise reduce federal taxable income for the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year pursuant to s. 220.194.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">The amount taken as a credit for the taxable year under s. 220.196. The addition in this subparagraph is intended to ensure that the same amount is not allowed for the tax purposes of this state as both a deduction from income and a credit against the tax. The addition is not intended to result in adding the same expense back to income more than once.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="3"/>
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Subtractions</Font>.<EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">There shall be subtracted from such taxable income:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The net operating loss deduction allowable for federal income tax purposes under s. 172 of the Internal Revenue Code for the taxable year, except that any net operating loss that is transferred pursuant to s. 220.194(6) may not be deducted by the seller,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The net capital loss allowable for federal income tax purposes under s. 1212 of the Internal Revenue Code for the taxable year,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The excess charitable contribution deduction allowable for federal income tax purposes under s. 170(d)(2) of the Internal Revenue Code for the taxable year, and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The excess contributions deductions allowable for federal income tax purposes under s. 404 of the Internal Revenue Code for the taxable year.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">However, a net operating loss and a capital loss shall never be carried back as a deduction to a prior taxable year, but all deductions attributable to such losses shall be deemed net operating loss carryovers and capital loss carryovers, respectively, and treated in the same manner, to the same extent, and for the same time periods as are prescribed for such carryovers in ss. 172 and 1212, respectively, of the Internal Revenue Code.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">There shall be subtracted from such taxable income any amount to the extent included therein the following:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Dividends treated as received from sources without the United States, as determined under s. 862 of the Internal Revenue Code.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">All amounts included in taxable income under s. 78 or s. 951 of the Internal Revenue Code.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">However, as to any amount subtracted under this subparagraph, there shall be added to such taxable income all expenses deducted on the taxpayer’s return for the taxable year which are attributable, directly or indirectly, to such subtracted amount. Further, no amount shall be subtracted with respect to dividends paid or deemed paid by a Domestic International Sales Corporation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In computing “adjusted federal income” for taxable years beginning after December 31, 1976, there shall be allowed as a deduction the amount of wages and salaries paid or incurred within this state for the taxable year for which no deduction is allowed pursuant to s. 280C(a) of the Internal Revenue Code (relating to credit for employment of certain new employees).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">There shall be subtracted from such taxable income any amount of nonbusiness income included therein.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">There shall be subtracted any amount of taxes of foreign countries allowable as credits for taxable years beginning on or after September 1, 1985, under s. 901 of the Internal Revenue Code to any corporation which derived less than 20 percent of its gross income or loss for its taxable year ended in 1984 from sources within the United States, as described in s. 861(a)(2)(A) of the Internal Revenue Code, not including credits allowed under ss. 902 and 960 of the Internal Revenue Code, withholding taxes on dividends within the meaning of sub-subparagraph 2.a., and withholding taxes on royalties, interest, technical service fees, and capital gains.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this code, except with respect to amounts subtracted pursuant to subparagraphs 1. and 3., any increment of any apportionment factor which is directly related to an increment of gross receipts or income which is deducted, subtracted, or otherwise excluded in determining adjusted federal income shall be excluded from both the numerator and denominator of such apportionment factor. Further, all valuations made for apportionment factor purposes shall be made on a basis consistent with the taxpayer’s method of accounting for federal income tax purposes.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Installment sales occurring after October 19, 1980.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In the case of any disposition made after October 19, 1980, the income from an installment sale shall be taken into account for the purposes of this code in the same manner that such income is taken into account for federal income tax purposes.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any taxpayer who regularly sells or otherwise disposes of personal property on the installment plan and reports the income therefrom on the installment method for federal income tax purposes under s. 453(a) of the Internal Revenue Code shall report such income in the same manner under this code.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Nonallowable deductions.</Font><EmDash />A deduction for net operating losses, net capital losses, or excess contributions deductions under ss. 170(d)(2), 172, 1212, and 404 of the Internal Revenue Code which has been allowed in a prior taxable year for Florida tax purposes shall not be allowed for Florida tax purposes, notwithstanding the fact that such deduction has not been fully utilized for federal tax purposes.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Reference Number="4"/>
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Adjustments related to the Federal Economic Stimulus Act of 2008, the American Recovery and Reinvestment Act of 2009, the Small Business Jobs Act of 2010, and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010</Font>.<EmDash />Taxpayers shall be required to make the adjustments prescribed in this paragraph for Florida tax purposes in relation to certain tax benefits received pursuant to the Economic Stimulus Act of 2008, the American Recovery and Reinvestment Act of 2009, the Small Business Jobs Act of 2010, and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">There shall be added to such taxable income an amount equal to 100 percent of any amount deducted for federal income tax purposes as bonus depreciation for the taxable year pursuant to ss. 167 and 168(k) of the Internal Revenue Code of 1986, as amended by s. 103 of Pub. L. No. 110-185, s. 1201 of Pub. L. No. 111-5, s. 2022 of Pub. L. No. 111-240, and s. 401 of Pub. L. No. 111-312, for property placed in service after December 31, 2007, and before January 1, 2013. For the taxable year and for each of the 6 subsequent taxable years, there shall be subtracted from such taxable income an amount equal to one-seventh of the amount by which taxable income was increased pursuant to this subparagraph, notwithstanding any sale or other disposition of the property that is the subject of the adjustments and regardless of whether such property remains in service in the hands of the taxpayer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">There shall be added to such taxable income an amount equal to 100 percent of any amount in excess of $128,000 deducted for federal income tax purposes for the taxable year pursuant to s. 179 of the Internal Revenue Code of 1986, as amended by s. 102 of Pub. L. No. 110-185, s. 1202 of Pub. L. No. 111-5, s. 2021 of Pub. L. No. 111-240, and s. 402 of Pub. L. No. 111-312, for taxable years beginning after December 31, 2007, and before January 1, 2013. For the taxable year and for each of the 6 subsequent taxable years, there shall be subtracted from such taxable income one-seventh of the amount by which taxable income was increased pursuant to this subparagraph, notwithstanding any sale or other disposition of the property that is the subject of the adjustments and regardless of whether such property remains in service in the hands of the taxpayer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">There shall be added to such taxable income an amount equal to the amount of deferred income not included in such taxable income pursuant to s. 108(i)(1) of the Internal Revenue Code of 1986, as amended by s. 1231 of Pub. L. No. 111-5. There shall be subtracted from such taxable income an amount equal to the amount of deferred income included in such taxable income pursuant to s. 108(i)(1) of the Internal Revenue Code of 1986, as amended by s. 1231 of Pub. L. No. 111-5.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Subtractions available under this paragraph may be transferred to the surviving or acquiring entity following a merger or acquisition and used in the same manner and with the same limitations as specified by this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The additions and subtractions specified in this paragraph are intended to adjust taxable income for Florida tax purposes, and, notwithstanding any other provision of this code, such additions and subtractions shall be permitted to change a taxpayer’s net operating loss for Florida tax purposes.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, a taxpayer’s taxable income for the taxable year means taxable income as defined in s. 63 of the Internal Revenue Code and properly reportable for federal income tax purposes for the taxable year, but subject to the limitations set forth in paragraph (1)(b) with respect to the deductions provided by ss. 172 (relating to net operating losses), 170(d)(2) (relating to excess charitable contributions), 404(a)(1)(D) (relating to excess pension trust contributions), 404(a)(3)(A) and (B) (to the extent relating to excess stock bonus and profit-sharing trust contributions), and 1212 (relating to capital losses) of the Internal Revenue Code, except that, subject to the same limitations, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a life insurance company subject to the tax imposed by s. 801 of the Internal Revenue Code, means life insurance company taxable income; however, for purposes of this code, the total of any amounts subject to tax under s. 815(a)(2) of the Internal Revenue Code pursuant to s. 801(c) of the Internal Revenue Code shall not exceed, cumulatively, the total of any amounts determined under s. 815(c)(2) of the Internal Revenue Code of 1954, as amended, from January 1, 1972, to December 31, 1983;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of an insurance company subject to the tax imposed by s. 831(b) of the Internal Revenue Code, means taxable investment income;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of an insurance company subject to the tax imposed by s. 831(a) of the Internal Revenue Code, means insurance company taxable income;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a regulated investment company subject to the tax imposed by s. 852 of the Internal Revenue Code, means investment company taxable income;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a real estate investment trust subject to the tax imposed by s. 857 of the Internal Revenue Code, means the income subject to tax, computed as provided in s. 857 of the Internal Revenue Code;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a corporation which is a member of an affiliated group of corporations filing a consolidated income tax return for the taxable year for federal income tax purposes, means taxable income of such corporation for federal income tax purposes as if such corporation had filed a separate federal income tax return for the taxable year and each preceding taxable year for which it was a member of an affiliated group, unless a consolidated return for the taxpayer and others is required or elected under s. 220.131;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a cooperative corporation or association, means the taxable income of such organization determined in accordance with the provisions of ss. 1381-1388 of the Internal Revenue Code;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of an organization which is exempt from the federal income tax by reason of s. 501(a) of the Internal Revenue Code, means its unrelated business taxable income as determined under s. 512 of the Internal Revenue Code;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a corporation for which there is in effect for the taxable year an election under s. 1362(a) of the Internal Revenue Code, means the amounts subject to tax under s. 1374 or s. 1375 of the Internal Revenue Code for each taxable year;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a limited liability company, other than a limited liability company classified as a partnership for federal income tax purposes, as defined in and organized pursuant to chapter 608 or qualified to do business in this state as a foreign limited liability company or other than a similar limited liability company classified as a partnership for federal income tax purposes and created as an artificial entity pursuant to the statutes of the United States or any other state, territory, possession, or jurisdiction, if such limited liability company or similar entity is taxable as a corporation for federal income tax purposes, means taxable income determined as if such limited liability company were required to file or had filed a federal corporate income tax return under the Internal Revenue Code;</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a taxpayer liable for the alternative minimum tax as defined in s. 55 of the Internal Revenue Code, means the alternative minimum taxable income as defined in s. 55(b)(2) of the Internal Revenue Code, less the exemption amount computed under s. 55(d) of the Internal Revenue Code. A taxpayer is not liable for the alternative minimum tax unless the taxpayer’s federal tax return, or related federal consolidated tax return, if included in a consolidated return for federal tax purposes, reflect a liability on the return filed for the alternative minimum tax as defined in s. 55(b)(2) of the Internal Revenue Code;</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Taxable income,” in the case of a taxpayer whose taxable income is not otherwise defined in this subsection, means the sum of amounts to which a tax rate specified in s. 11 of the Internal Revenue Code plus the amount to which a tax rate specified in s. 1201(a)(2) of the Internal Revenue Code are applied for federal income tax purposes.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-984; ss. 4, 7, ch. 72-278; s. 1, ch. 73-321; s. 6, ch. 74-324; s. 1, ch. 78-230; ss. 4, 6, ch. 80-247; ss. 8, 10, ch. 80-248; s. 5, ch. 82-177; s. 2, ch. 82-232; s. 2, ch. 82-385; s. 5, ch. 82-399; s. 2, ch. 82-410; s. 60, ch. 83-3; s. 13, ch. 83-297; s. 3, ch. 83-349; s. 17, ch. 84-282; s. 38, ch. 84-356; ss. 5, 7, 24, ch. 84-549; s. 17, ch. 86-121; s. 14, ch. 87-99; s. 15, ch. 90-203; s. 18, ch. 93-233; s. 50, ch. 94-136; s. 70, ch. 94-353; s. 4, ch. 97-50; s. 10, ch. 98-101; s. 18, ch. 99-378; s. 7, ch. 2001-225; s. 5, ch. 2006-113; s. 14, ch. 2006-230; s. 2, ch. 2008-206; s, 2, ch. 2009-18; s. 3, ch. 2009-50; s. 2, ch. 2009-192; s. 6, ch. 2010-24; s. 12, ch. 2010-147; ss. 7, 8, ch. 2011-76; s. 2, ch. 2011-229.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 5, ch. 2008-206, provides that “[t]he Department of Revenue may adopt rules necessary to administer the provisions of this act, including rules, forms, and guidelines for computing, claiming, and adding back bonus depreciation under s. 168(k) and deductions under s. 179 of the Internal Revenue Code of 1986, as amended.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 3, ch. 2009-192, provides that “[t]he Department of Revenue may adopt rules necessary to administer the provisions of this act.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Indent">A. Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="3">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="4">
+		<Text xml:space="preserve" Style="Intro">Section 3, ch. 2011-229, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, the emergency rules shall remain in effect for 6 months after adoption and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

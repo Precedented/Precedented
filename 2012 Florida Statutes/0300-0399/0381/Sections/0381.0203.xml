@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Pharmacy services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may contract on a statewide basis for the purchase of drugs, as defined in s. 499.003, to be used by state agencies and political subdivisions, and may adopt rules to administer this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall establish and maintain a pharmacy services program, including, but not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A central pharmacy to support pharmaceutical services provided by the county health departments, including pharmaceutical repackaging, dispensing, and the purchase and distribution of immunizations and other pharmaceuticals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Consultation to county health departments as required by s. 154.04(1)(c).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 46, ch. 91-297; s. 6, ch. 94-309; s. 45, ch. 97-101; s. 23, ch. 97-237; s. 194, ch. 99-13; s. 15, ch. 2000-242; s. 11, ch. 2000-326; s. 4, ch. 2009-57; s. 42, ch. 2012-184.</History>
+</Section>

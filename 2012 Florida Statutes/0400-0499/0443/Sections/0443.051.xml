@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.051" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Benefits not alienable; exception, child support intercept.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Reemployment assistance” or “unemployment compensation” means any compensation payable under state law, including amounts payable pursuant to an agreement under any federal law providing for compensation, assistance, or allowances for unemployment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Support obligations” includes only those obligations that are being enforced under a plan described in s. 454 of the Social Security Act which has been approved by the Secretary of Health and Human Services under Part D of Title IV of the Social Security Act. Support obligations include any legally required payments to reduce delinquencies, arrearages, or retroactive support.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Support order” means a judgment, decree, or order, whether temporary or final, issued by a court of competent jurisdiction or administrative agency for the support and maintenance of a child that provides for monetary support, health care, arrearages, or past support. When the child support obligation is being enforced by the Department of Revenue, the term “support order” also means a judgment, decree, or order, whether temporary or final, issued by a court of competent jurisdiction for the support and maintenance of a child and the spouse or former spouse of the obligor with whom the child is living that provides for monetary support, health care, arrearages, or past support.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">BENEFITS NOT ALIENABLE.<EmDash />Except as provided in subsection (3), benefits due under this chapter may not be assigned, pledged, encumbered, released, or commuted and, except as otherwise provided in this chapter, are exempt from all claims of creditors and from levy, execution, or attachment, or other remedy for recovery or collection of a debt, which exemption may not be waived.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">EXCEPTION, SUPPORT INTERCEPT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Department of Revenue shall, at least biweekly, provide the Department of Economic Opportunity with a magnetic tape or other electronic data file disclosing the individuals who owe support obligations and the amount of any legally required deductions.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For support obligations established on or after July 1, 2006, and for support obligations established before July 1, 2006, when the support order does not address the withholding of reemployment assistance or unemployment compensation, the department shall deduct and withhold 40 percent of the reemployment assistance or unemployment compensation otherwise payable to an individual disclosed under paragraph (a). If delinquencies, arrearages, or retroactive support are owed and repayment has not been ordered, the unpaid amounts are included in the support obligation and are subject to withholding. If the amount deducted exceeds the support obligation, the Department of Revenue shall promptly refund the amount of the excess deduction to the obligor. For support obligations in effect before July 1, 2006, if the support order addresses the withholding of reemployment assistance or unemployment compensation, the department shall deduct and withhold the amount ordered by the court or administrative agency that issued the support order as disclosed by the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall pay any amount deducted and withheld under paragraph (b) to the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any amount deducted and withheld under this subsection shall for all purposes be treated as if it were paid to the individual as reemployment assistance or unemployment compensation and paid by the individual to the Department of Revenue for support obligations.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The Department of Revenue shall reimburse the department for the administrative costs incurred by the department under this subsection which are attributable to support obligations being enforced by the department.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 18402, 1937; CGL 1940 Supp. 4151(504); ss. 1, 8, 9, ch. 80-95; s. 1, ch. 82-91; s. 75, ch. 83-218; s. 141, ch. 97-103; s. 35, ch. 98-397; s. 50, ch. 2001-158; s. 20, ch. 2003-36; s. 37, ch. 2005-39; s. 354, ch. 2011-142; s. 4, ch. 2012-30.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 443.17.</Text>
+	</Note>
+</Section>

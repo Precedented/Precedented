@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0119.0714" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Court files; court records; official records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">COURT FILES.<EmDash />Nothing in this chapter shall be construed to exempt from s. 119.07(1) a public record that was made a part of a court file and that is not specifically closed by order of court, except:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A public record that was prepared by an agency attorney or prepared at the attorney’s express direction as provided in s. 119.071(1)(d).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Data processing software as provided in s. 119.071(1)(f).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any information revealing surveillance techniques or procedures or personnel as provided in s. 119.071(2)(d).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any comprehensive inventory of state and local law enforcement resources, and any comprehensive policies or plans compiled by a criminal justice agency, as provided in s. 119.071(2)(d).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any information revealing the substance of a confession of a person arrested as provided in s. 119.071(2)(e).</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Any information revealing the identity of a confidential informant or confidential source as provided in s. 119.071(2)(f).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Any information revealing undercover personnel of any criminal justice agency as provided in s. 119.071(4)(c).</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Criminal intelligence information or criminal investigative information that is confidential and exempt as provided in s. 119.071(2)(h).</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Social security numbers as provided in s. 119.071(5)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Bank account numbers and debit, charge, and credit card numbers as provided in s. 119.071(5)(b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">COURT RECORDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Until January 1, 2012, if a social security number or a bank account, debit, charge, or credit card number is included in a court file, such number may be included as part of the court record available for public inspection and copying unless redaction is requested by the holder of such number or by the holder’s attorney or legal guardian.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A request for redaction must be a signed, legibly written request specifying the case name, case number, document heading, and page number. The request must be delivered by mail, facsimile, electronic transmission, or in person to the clerk of the court. The clerk of the court does not have a duty to inquire beyond the written request to verify the identity of a person requesting redaction.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A fee may not be charged for the redaction of a social security number or a bank account, debit, charge, or credit card number pursuant to such request.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The clerk of the court has no liability for the inadvertent release of social security numbers, or bank account, debit, charge, or credit card numbers, unknown to the clerk of the court in court records filed on or before January 1, 2012.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">On January 1, 2012, and thereafter, the clerk of the court must keep social security numbers confidential and exempt as provided for in s. 119.071(5)(a), and bank account, debit, charge, and credit card numbers exempt as provided for in s. 119.071(5)(b), without any person having to request redaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Section 119.071(5)(a)7. and 8. does not apply to the clerks of the court with respect to court records.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">OFFICIAL RECORDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who prepares or files a record for recording in the official records as provided in chapter 28 may not include in that record a social security number or a bank account, debit, charge, or credit card number unless otherwise expressly required by law.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If a social security number or a bank account, debit, charge, or credit card number is included in an official record, such number may be made available as part of the official records available for public inspection and copying unless redaction is requested by the holder of such number or by the holder’s attorney or legal guardian.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If such record is in electronic format, on January 1, 2011, and thereafter, the county recorder must use his or her best effort, as provided in paragraph (h), to keep social security numbers confidential and exempt as provided for in s. 119.071(5)(a), and to keep complete bank account, debit, charge, and credit card numbers exempt as provided for in s. 119.071(5)(b), without any person having to request redaction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Section 119.071(5)(a)7. and 8. does not apply to the county recorder with respect to official records.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The holder of a social security number or a bank account, debit, charge, or credit card number, or the holder’s attorney or legal guardian, may request that a county recorder redact from an image or copy of an official record placed on a county recorder’s publicly available Internet website or on a publicly available Internet website used by a county recorder to display public records, or otherwise made electronically available to the public, his or her social security number or bank account, debit, charge, or credit card number contained in that official record.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A request for redaction must be a signed, legibly written request and must be delivered by mail, facsimile, electronic transmission, or in person to the county recorder. The request must specify the identification page number of the record that contains the number to be redacted.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The county recorder does not have a duty to inquire beyond the written request to verify the identity of a person requesting redaction.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A fee may not be charged for redacting a social security number or a bank account, debit, charge, or credit card number.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A county recorder shall immediately and conspicuously post signs throughout his or her offices for public viewing, and shall immediately and conspicuously post on any Internet website or remote electronic site made available by the county recorder and used for the ordering or display of official records or images or copies of official records, a notice stating, in substantially similar form, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">On or after October 1, 2002, any person preparing or filing a record for recordation in the official records may not include a social security number or a bank account, debit, charge, or credit card number in such document unless required by law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any person has a right to request a county recorder to remove from an image or copy of an official record placed on a county recorder’s publicly available Internet website or on a publicly available Internet website used by a county recorder to display public records, or otherwise made electronically available to the general public, any social security number contained in an official record. Such request must be made in writing and delivered by mail, facsimile, or electronic transmission, or delivered in person, to the county recorder. The request must specify the identification page number that contains the social security number to be redacted. A fee may not be charged for the redaction of a social security number pursuant to such a request.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">If the county recorder accepts or stores official records in an electronic format, the county recorder must use his or her best efforts to redact all social security numbers and bank account, debit, charge, or credit card numbers from electronic copies of the official record. The use of an automated program for redaction shall be deemed to be the best effort in performing the redaction and shall be deemed in compliance with the requirements of this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The county recorder is not liable for the inadvertent release of social security numbers, or bank account, debit, charge, or credit card numbers, filed with the county recorder.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 79-187; s. 1, ch. 83-286; s. 5, ch. 84-298; s. 1, ch. 85-86; s. 1, ch. 86-109; s. 2, ch. 88-188; s. 26, ch. 90-344; s. 36, ch. 95-398; s. 7, ch. 2004-335; s. 2, ch. 2005-251; s. 2, ch. 2007-251; s. 5, ch. 2008-234; s. 2, ch. 2009-237; s. 23, ch. 2010-162; s. 4, ch. 2011-83.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Subsection (1) former s. 119.07(6).</Text>
+	</Note>
+</Section>

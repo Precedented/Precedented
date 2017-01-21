@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1313" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Public employers; reimbursements; election to pay contributions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Benefits paid to employees of a public employer, as defined in s. 443.036, based on service described in s. 443.1216(2) shall be financed in accordance with this section.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PAYMENT OF REIMBURSEMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Unless an election is made under subsection (2), each public employer shall reimburse the Unemployment Compensation Trust Fund the amount of regular benefits, short-time compensation benefits, and extended benefits paid to individuals based on wages paid by the public employer for service described in s. 443.1216(2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a state agency is more than 120 days delinquent on reimbursements due to the Unemployment Compensation Trust Fund, the tax collection service provider shall certify to the Chief Financial Officer the amount due and the Chief Financial Officer shall transfer the amount due to the Unemployment Compensation Trust Fund from the funds of the agency which legally may be used for that purpose. If a public employer other than a state agency is more than 120 days delinquent on reimbursements due to the Unemployment Compensation Trust Fund, upon request by the tax collection service provider after a hearing, the Department of Revenue or the Department of Financial Services, as applicable, shall deduct the amount owed by the public employer from any funds to be distributed by the applicable department to the public employer for further distribution to the trust fund in accordance with this chapter. If an employer for whom the municipal or county tax collector collects taxes fails to make the reimbursements to the Unemployment Compensation Trust Fund required by this chapter, the tax collector after a hearing, at the request of the tax collection service provider and upon receipt of a certificate showing the amount owed by the employer, shall deduct the certified amount from any taxes collected for the employer and remit that amount to the tax collection service provider for further distribution to the trust fund in accordance with this chapter. This paragraph does not apply to amounts owed by a political subdivision of the state for benefits erroneously paid in which the claimant must repay to the Department of Economic Opportunity under s. 443.151(6)(a) or (b) any sum as benefits received.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The provisions of s. 443.1312(3), (5), and (6), relating to payment of reimbursements, allocation of benefit costs, and group employment records for nonprofit organizations, apply, to the extent allowed by federal law, to each public employer in the state as an employer under s. 443.1216(2).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ELECTION TO PAY CONTRIBUTIONS.<EmDash />A public employer subject to this section may elect to become a contributing employer under s. 443.131 in lieu of being a reimbursing employer under subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">CHANGE OF ELECTION.<EmDash />Upon electing to be a reimbursing or contributing employer under this section, a public employer may not change this election for at least 2 calendar years. This subsection does not prevent a public employer subject to this subsection from changing its election after completing 2 calendar years under another financing method if the new election is timely filed. The state agency providing reemployment assistance tax collection services may adopt rules prescribing procedures for changing methods of reporting.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">PUBLIC EMPLOYERS REEMPLOYMENT ASSISTANCE BENEFIT ACCOUNT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is established within the Unemployment Compensation Trust Fund a Public Employers Reemployment Assistance Benefit Account, which must be maintained as a separate account within the trust fund. All benefits paid to the employees of a public employer that elects to become a contributing employer under paragraph (b) must be charged to the Public Employers Unemployment Compensation Benefit Account.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each public employer subject to this chapter under s. 443.1216(2) which elects to become a contributing employer is subject to, and shall have its employment record maintained under, s. 443.131, except that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The term “taxable wages” means total gross wages.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The initial contribution rate is 0.25 percent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An election by a public employer to be liable for contributions under this subsection takes effect January 1 and the employer is liable for contributions at the initial rate. Effective January 1 of the following year, the contribution rate shall be computed based on 2 calendar quarters of chargeability and payroll. Effective January 1 of the second year after the election, the contribution rate shall be computed based on 6 quarters of chargeability and payroll. Effective January 1 of the third year after the election, the contribution rate shall be computed based on 10 quarters of chargeability and payrolls. Each January 1 of subsequent years, the contribution rate shall be computed based on 12 quarters of chargeability and payroll.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Each public employer electing to be a contributing employer under this subsection must make the election at least 30 days before January 1 of the year for which the election is to be effective. Upon electing to be a contributing employer under this subsection, a public employer may not change this election for at least 2 calendar years.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">An election under this subsection may be terminated by filing with the tax collection service provider, at least 30 days before January 1, a written notice of termination.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 2003-36; s. 367, ch. 2011-142; s. 17, ch. 2012-30.</History>
+</Section>

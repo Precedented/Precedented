@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0185.161" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Optional forms of retirement income.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For any municipality, chapter plan, local law municipality, or local law plan under this chapter:</Text>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In lieu of the amount and form of retirement income payable in the event of normal or early retirement as specified in s. 185.16, a police officer, upon written request to the board of trustees and subject to the approval of the board of trustees, may elect to receive a retirement income or benefit of equivalent actuarial value payable in accordance with one of the following options:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A retirement income of larger monthly amount, payable to the police officer for his or her lifetime only.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A retirement income of a modified monthly amount, payable to the police officer during the joint lifetime of the police officer and a joint annuitant designated by the police officer, and following the death of either of them, 100 percent, 75 percent, 66<Fraction>2/3</Fraction> percent, or 50 percent of such monthly amount payable to the survivor for the lifetime of the survivor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Such other amount and form of retirement payments or benefit as, in the opinion of the board of trustees, will best meet the circumstances of the retiring police officer.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The police officer upon electing any option of this section must designate the joint annuitant or beneficiary to receive the benefit, if any, payable under the plan in the event of the police officer’s death, and may change such designation but any such change shall be deemed a new election and is subject to approval by the pension committee. Such designation must name a joint annuitant or one or more primary beneficiaries where applicable. If a police officer has elected an option with a joint annuitant or beneficiary and his or her retirement income benefits have commenced, he or she may change the designated joint annuitant or beneficiary but only if the board of trustees consents to such change and if the joint annuitant last designated by the police officer is alive when he or she files with the board of trustees a request for such change. The consent of a police officer’s joint annuitant or beneficiary to any such change is not required. The board of trustees may request evidence of the good health of the joint annuitant being removed, and the amount of the retirement income payable to the police officer upon the designation of a new joint annuitant shall be actuarially redetermined taking into account the ages and gender of the former joint annuitant, the new joint annuitant, and the police officer. Each designation must be made in writing on a form prepared by the board of trustees and filed with the board of trustees. If no designated beneficiary survives the police officer, such benefits as are payable in the event of the death of the police officer subsequent to his or her retirement shall be paid as provided in s. 185.162.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (b), a retired police officer may change his or her designation of joint annuitant or beneficiary up to two times as provided in s. 185.341 without the approval of the board of trustees or the current joint annuitant or beneficiary. The retiree need not provide proof of the good health of the joint annuitant or beneficiary being removed, and the joint annuitant or beneficiary being removed need not be living.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Retirement income payments shall be made under the option elected in accordance with the provisions of this section and shall be subject to the following limitations:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a police officer dies prior to his or her normal retirement date or early retirement date, whichever first occurs, no benefit will be payable under the option to any person, but the benefits, if any, will be determined under s. 185.21.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the designated beneficiary or joint annuitant dies before the police officer’s retirement under the plan, the option elected is canceled automatically and a retirement income of the normal form and amount is payable to the police officer upon his or her retirement as if the election had not been made, unless a new election is made in accordance with this section or a new beneficiary is designated by the police officer before his or her retirement and within 90 days after the death of the beneficiary.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If both the retired police officer and the designated beneficiary (or beneficiaries) die before the full payment has been effected under any option providing for payments for a period certain and life thereafter, made pursuant to the provisions of subparagraph (1)(a)3., the board of trustees may, in its discretion, direct that the commuted value of the remaining payments be paid in a lump sum and in accordance with s. 185.162.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a police officer continues beyond his or her normal retirement date pursuant to the provisions of s. 185.16(1) and dies prior to actual retirement and while an option made pursuant to the provisions of this section is in effect, monthly retirement income payments will be made, or a retirement benefit will be paid, under the option to a beneficiary (or beneficiaries) designated by the police officer in the amount or amounts computed as if the police officer had retired under the option on the date on which death occurred.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">No police officer may make any change in his or her retirement option after the date of cashing or depositing his or her first retirement check.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 59-320; s. 13, ch. 86-42; s. 947, ch. 95-147; s. 57, ch. 99-1; s. 12, ch. 2009-97.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0010.11" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Official census for apportionment; definitions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In accordance with s. 8(a), Art. X of the State Constitution, the United States Decennial Census of 2010 is the official census of the state for the purposes of this joint resolution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following delineation of representative and senatorial districts employs areas included within official county, voting tabulation district, tract, and block boundary descriptions used by the United States Department of Commerce, Bureau of the Census, in compiling the United States Decennial Census of 2010 in this state. The populations within these census geographic units are the population figures reported in the counts of the United States Decennial Census of 2010 provided to the state in accordance with Pub. L. No. 94-171.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">As used in this joint resolution, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Block” describes the smallest geographic unit for which population was tabulated in the 2010 decennial census. Blocks are nested within tracts and within voting tabulation districts. A block is identified by a four-digit integer that is unique within a tract but is not necessarily unique within a voting tabulation district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Tract” describes a relatively permanent statistical subdivision of a county updated by local participants prior to the 2010 decennial census. Tracts consist of whole blocks and are nested within counties. Tracts are identified uniquely within a county by an up to four-digit integer and may have an optional two-digit suffix.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Voting tabulation district” describes a subdivision of a county established in Phase 2 of the 2010 Census Redistricting Data Program. Voting tabulation districts consist of whole blocks and are nested within counties. Voting tabulation districts subdivide counties in ways supervisors of elections determined are efficient for conducting elections and keeping communities whole. Voting tabulation districts are identified uniquely within a county by an up to four-digit integer.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, CS for SJR 1176, 2012 Regular Session.</History>
+</Section>

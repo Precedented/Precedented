@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.3031" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Application of law of state.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Except as otherwise provided by this act, a responding tribunal of this state:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Shall apply the procedural and substantive law, including the rules on choice of law, generally applicable to similar proceedings originating in this state and may exercise all powers and provide all remedies available in those proceedings; and</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Shall determine the duty of support and the amount payable in accordance with the law and support guidelines of this state.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 96-189; s. 19, ch. 97-170; s. 18, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 18, ch. 2011-92, amended s. 88.3031, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.3031 Application of law of state.</Font><EmDash/>Except as otherwise provided in this act, a responding tribunal of this state shall:</Text>
+		<Text xml:space="preserve" Style="Indent">(1) Apply the procedural and substantive law generally applicable to similar proceedings originating in this state and may exercise all powers and provide all remedies available in those proceedings; and</Text>
+		<Text xml:space="preserve" Style="Indent">(2) Determine the duty of support and the amount payable in accordance with the law and support guidelines of this state.</Text>
+	</Note>
+</Section>

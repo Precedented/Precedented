@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0832.08" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State attorney bad check diversion program; fees for collections.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In any judicial circuit where a bad check diversion program is not in existence as of October 1, 1986, the state attorney may establish such a program, either within the state attorney’s office or through an independent contractor, for the purpose of diverting from prosecution certain persons accused of a violation of s. 832.04, s. 832.041, s. 832.05, or s. 832.06. The use of such a diversion program shall not affect the authority of the state attorney to prosecute any person for any such violation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of a complaint alleging any such violation, the state attorney shall determine if the case is appropriate for referral to the bad check diversion program by considering:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The amount of the bad check.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The prior criminal record of the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Whether or not there are other bad check complaints currently pending against the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The strength of the evidence of intent to defraud the victim.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon referral of a complaint to the bad check diversion program, the state attorney shall forward a notice of the complaint by mail to the defendant. The notice shall contain all of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The date and amount of the check.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The name of the payee.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The date before which the defendant must contact the bad check office concerning the complaint.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A statement of the penalty for issuance of a bad check.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the state attorney allows the defendant to enter into a diversion program, the state attorney shall enter into a written agreement with the defendant to divert him or her on bad check charges. The diversion agreement shall include all of the following conditions, which must be accepted by the defendant:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Attendance at a program designed to assist and educate persons who have violated the provisions of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Full restitution on the check.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Full payment of fees due under subsection (5).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any individual who does not fulfill the agreements for diversion could then be prosecuted under the appropriate section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A knowing and intelligent waiver of the defendant’s right to a speedy trial for the period of his or her diversion.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">To fund the diversion program, the state attorney may collect a fee on each check that is collected through the state attorney’s office, whether it is collected through prosecution or through the diversion program. Funds collected under this subsection shall be deposited in the State Attorneys Revenue Trust Fund. However, the state attorney may not collect such a fee on any check collected through a diversion program which was in existence in another office prior to October 1, 1986. A fee may be collected by an office operating such a preexisting diversion program for the purpose of funding such program. The amount of the fee for each check shall not exceed:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Twenty-five dollars, if the face value does not exceed $50.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Thirty dollars, if the face value is more than $50 but does not exceed $300.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Forty dollars, if the face value is more than $300.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 86-232; s. 6, ch. 91-211; s. 4, ch. 96-239; s. 1822, ch. 97-102; s. 30, ch. 2010-162.</History>
+</Section>

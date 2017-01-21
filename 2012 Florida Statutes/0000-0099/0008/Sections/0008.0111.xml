@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0008.0111" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Inclusion of unlisted territory in contiguous districts.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Any portion of the state which is not stated in this chapter as being included in any district described in this chapter but which is entirely surrounded by a district shall be deemed to be included within the surrounding district. Any portion of the state which is not included in any district described in this chapter and which is not entirely surrounded by a district shall be included within that district contiguous to such portion that contains the least population per representative according to the United States Decennial Census of 2010; however, if every district contiguous to such portion has an equal population, such portion shall be included within the lowest-numbered district that is contiguous to such portion.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 96-192; s. 3, ch. 2002-12; s. 3, ch. 2012-2.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 7, ch. 2012-2, provides that “[e]xcept as otherwise expressly provided in this act and except for this section, which shall take effect upon this act becoming a law, this act shall take effect upon the expiration of the terms of the representatives to the United States House of Representatives serving on the date that this act becomes a law.”</Text>
+	</Note>
+</Section>

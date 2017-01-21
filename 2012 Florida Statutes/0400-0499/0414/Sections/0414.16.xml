@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.16" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Emergency assistance program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITION.<EmDash />For purposes of this section, the term “family in an emergency situation” means a family that is totally without shelter or that faces the loss of shelter due to any of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Nonpayment of rent or mortgage which resulted in eviction or legal notice of impending eviction, if such nonpayment is not the result of willful negligence;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Household disaster, such as fire, flood, earthquake, or other accident, which renders the home uninhabitable; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Such other emergency situations as defined by rule of the department, subject to federal guidelines.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ESTABLISHMENT OF PROGRAM.<EmDash />The department may establish an emergency assistance program for families.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">CRITERIA.<EmDash />The department shall develop criteria for implementation of the program in accordance with the following guidelines:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assistance under this program is limited to families with at least one minor child who lives with a parent or caretaker relative.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The family may not have liquid assets that could be made available to meet the emergency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Assistance under this program is limited to no more than one payment in any 12-month period for the same family. This payment may be made separately or in conjunction with diversion assistance. A family may not receive assistance under this section for longer than 3 consecutive years.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Assistance shall be in the form of a one-party check, made payable to the landlord, mortgageholder, or vendor, and is limited to the amount of 1 month’s rent, mortgage payment, or cost for emergency housing, and related expenses as defined by rule of the department. The amount of such payment must be based upon demonstrated need, but may not exceed a maximum established by the Legislature.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The family’s adjusted gross income may not exceed the prevailing standard for participation in the Temporary Cash Assistance Program for the family’s size.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Loss of income may not be the result of a strike or the result of voluntary termination of employment, unless good cause can be shown for such voluntary termination.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The department shall deny eligibility if the applicant fails to demonstrate, pursuant to the rules adopted by the department, that income and resources limited the applicant’s ability to avoid the emergency.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The department may deny eligibility if it determines that the applicant who is eligible with respect to income and resources has otherwise abused the program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">RENTAL SECURITY DEPOSIT ASSISTANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall develop criteria necessary to implement a recoupment program related to security deposit assistance provided under paragraph (3)(d). Assistance shall be in the form of direct payment of security deposits to landlords of families eligible for emergency assistance. When the family vacates the rental unit, the landlord shall refund to the department the amount of the deposit remaining after subtracting any amount retained for damages pursuant to the lease. The family shall repay to the department the cost of any damages assessed which exceed normal wear and tear. The total amount owed to the department shall be prorated and subtracted from any temporary cash assistance for which the family may be eligible.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This program shall be funded from the appropriation for the emergency assistance program unless this procedure conflicts with federal requirements or the cost of recapturing rental deposits exceeds the amount recaptured.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">There is created an Emergency Housing Trust Fund in the State Treasury to be used by the department for the purpose of making grants to eligible persons pursuant to this section. Repayments of funds disbursed under the emergency assistance program shall be deposited in this trust fund to the extent allowed by federal and state regulations and may not revert to the General Revenue Fund.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 87-106; s. 16, ch. 90-275; s. 51, ch. 92-58; s. 20, ch. 96-175; s. 15, ch. 97-173; s. 21, ch. 2010-209.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 420.627.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0198.13" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Tax return to be made in certain cases; certificate of nonliability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The personal representative of every estate required by the laws of the United States to file a federal estate tax return shall file with the department, on or before the last day prescribed by law for filing the initial federal estate tax return for such estate, a return consisting of an executed copy of the federal estate tax return and shall file with such return all supplemental data, if any, as may be necessary to determine and establish the correct tax under this chapter. Such return shall be made in the case of every decedent who at the time of death was not a resident of the United States and whose gross estate includes any real property situate in the state, tangible personal property having an actual situs in the state, and intangible personal property physically present within the state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Whenever it is made to appear to the department that an estate that has filed a return owes no taxes under this chapter, the department shall issue to the personal representative a certificate in writing to that effect, which certificate shall have the same force and effect as a receipt showing payment. The certificate shall be subject to record and admissible in evidence in like manner as a receipt showing payment of taxes. A fee of $5 shall be paid to the department for each certificate so issued.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Every person required to file a return reporting a generation-skipping transfer under applicable federal statutes and regulations shall file with the Department of Revenue, on or before the last day prescribed for filing the federal return, a return consisting of a duplicate copy of the federal return.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this section and applicable to the estate of a decedent who dies after December 31, 2004, if, upon the death of the decedent, a state death tax credit or a generation-skipping transfer credit is not allowable pursuant to the Internal Revenue Code of 1986, as amended:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The personal representative of the estate is not required to file a return under subsection (1) in connection with the estate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The person who would otherwise be required to file a return reporting a generation-skipping transfer under subsection (3) is not required to file such a return in connection with the estate.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The provisions of this subsection do not apply to estates of decedents dying after December 31, 2012.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 16015, 1933; CGL 1936 Supp. 1342(87); s. 2, ch. 28031, 1953; s. 2, ch. 29718, 1955; ss. 21, 35, ch. 69-106; s. 2, ch. 71-202; s. 7, ch. 80-153; s. 1, ch. 84-325; s. 38, ch. 85-342; s. 1035, ch. 95-147; s. 4, ch. 99-208; s. 7, ch. 2007-106; s. 35, ch. 2008-4; s. 1, ch. 2011-86.</History>
+</Section>

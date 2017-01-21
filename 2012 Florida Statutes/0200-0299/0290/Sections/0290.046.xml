@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0290.046" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Applications for grants; procedures; requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In applying for a grant under a specific program category, an applicant shall propose eligible activities that directly address the objective of that program category.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (c), each eligible local government may submit an application for a grant under either the housing program category or the neighborhood revitalization program category during each annual funding cycle. An applicant may not receive more than one grant in any state fiscal year from any of the following categories: housing, neighborhood revitalization, or commercial revitalization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (c), each eligible local government may apply up to three times in any one annual funding cycle for a grant under the economic development program category but shall receive no more than one such grant per annual funding cycle. Applications for grants under the economic development program category may be submitted at any time during the annual funding cycle, and such grants shall be awarded no less frequently than three times per funding cycle. The department shall establish minimum criteria pertaining to the number of jobs created for persons of low or moderate income, the degree of private sector financial commitment, and the economic feasibility of the proposed project and shall establish any other criteria the department deems appropriate. Assistance to a private, for-profit business may not be provided from a grant award unless sufficient evidence exists to demonstrate that without such public assistance the creation or retention of such jobs would not occur.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Local governments with an open housing, neighborhood revitalization, or commercial revitalization contract shall not be eligible to apply for another housing, neighborhood revitalization, or commercial revitalization grant until administrative closeout of their existing contract. The department shall notify a local government of administrative closeout or of any outstanding closeout issues within 45 days of receipt of a closeout package from the local government. Local governments with an open housing, neighborhood revitalization, or commercial revitalization community development block grant contract whose activities are on schedule in accordance with the expenditure rates and accomplishments described in the contract may apply for an economic development grant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Local governments with an open economic development community development block grant contract whose activities are on schedule in accordance with the expenditure rates and accomplishments described in the contract may apply for a housing or neighborhood revitalization and a commercial revitalization community development block grant. Local governments with an open economic development contract whose activities are on schedule in accordance with the expenditure rates and accomplishments described in the contract may receive no more than one additional economic development grant in each fiscal year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Beginning October 1, 1988, the department shall award no grant until the department has determined, based upon a site visit, that the proposed area matches and adheres to the written description contained within the applicant’s request. If, based upon review of the application or a site visit, the department determines that any information provided in the application which affects eligibility or scoring has been misrepresented, the applicant’s request shall be rejected by the department pursuant to s. 290.0475(7). Mathematical errors in applications which may be discovered and corrected by readily computing available numbers or formulas provided in the application shall not be a basis for such rejection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each application shall be ranked competitively based on community need and program impact. Community need shall be weighted 25 percent. Program impact shall be weighted 65 percent. Outstanding performance in equal opportunity employment and housing shall be weighted 10 percent.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The criteria used to measure community need shall include, at a minimum, indicators of the extent of poverty in the community and the condition of physical structures. Each application, regardless of the program category for which it is being submitted, shall be scored competitively on the same community need criteria. In recognition of the benefits resulting from the receipt of grant funds, the department shall provide for the reduction of community need scores for specified increments of grant funds provided to a local government since the state began using the most recent census data. In the year in which new census data are first used, no such reduction shall occur.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The criteria used to measure the impact of an applicant’s proposed activities shall include, at a minimum, indicators of the direct benefit received by persons of low income and persons of moderate income, the extent to which the problem identified is addressed by the proposed activities, and the extent to which resources other than the funds being applied for under this program are being used to carry out the proposed activities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Applications shall be scored competitively on program impact criteria that are uniquely tailored to the community development objective established in each program category. The criteria used to measure the direct benefit to persons of low income and persons of moderate income shall represent no less than 42 percent of the points assigned to the program impact factor. For the housing and neighborhood revitalization categories, the department shall also include the following criteria in the scoring of applications:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The proportion of very-low-income and low-income households served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The degree to which improvements are related to the health and safety of the households served.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An applicant for a neighborhood revitalization or commercial revitalization grant shall demonstrate that its activities are to be carried out in distinct service areas which are characterized by the existence of slums or blighted conditions, or by the concentration of persons of low or moderate income.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In order to provide citizens with information concerning an applicant’s proposed program before an application is submitted to the department, the applicant shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Make available to the public information concerning the amounts of funds available for various activities and the range of activities that may be undertaken.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Hold at least one public hearing to obtain the views of citizens on community development needs.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Develop and publish a summary of the proposed application that will provide citizens with an opportunity to examine its contents and submit their comments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Consider any comments and views expressed by citizens on the proposed application and, if appropriate, modify the proposed application.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Hold at least one public hearing in the jurisdiction within which the project is to be implemented to obtain the views of citizens on the final application prior to its submission to the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The local government shall establish a citizen advisory task force composed of citizens in the jurisdiction in which the proposed project is to be implemented to provide input relative to all phases of the project process. The local government must obtain consent from the department for any other type of citizen participation plan upon a showing that such plan is better suited to secure citizen participation for that locality.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The department shall, prior to approving an application for a grant, determine that the applicant has the administrative capacity to carry out the proposed activities and has performed satisfactorily in carrying out past activities funded by community development block grants. The evaluation of past performance shall take into account procedural aspects of previous grants as well as substantive results. If the department determines that any applicant has failed to accomplish substantially the results it proposed in its last previously funded application, it may prohibit the applicant from receiving a grant or may penalize the applicant in the rating of the current application. No application for grant funds may be denied solely upon the basis of the past performance of the eligible applicant.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 83-205; s. 2, ch. 85-223; s. 37, ch. 88-201; s. 3, ch. 90-275 2, ch. 85-223; s. 37, ch. 88-201; s. 3, ch. 90-275; s. 220, ch. 2011-142.</History>
+</Section>

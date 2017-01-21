@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0720.3085" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Payment for assessments; lien claims.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">When authorized by the governing documents, the association has a lien on each parcel to secure the payment of assessments and other amounts provided for by this section. Except as otherwise set forth in this section, the lien is effective from and shall relate back to the date on which the original declaration of the community was recorded. However, as to first mortgages of record, the lien is effective from and after recording of a claim of lien in the public records of the county in which the parcel is located. This subsection does not bestow upon any lien, mortgage, or certified judgment of record on July 1, 2008, including the lien for unpaid assessments created in this section, a priority that, by law, the lien, mortgage, or judgment did not have before July 1, 2008.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To be valid, a claim of lien must state the description of the parcel, the name of the record owner, the name and address of the association, the assessment amount due, and the due date. The claim of lien secures all unpaid assessments that are due and that may accrue subsequent to the recording of the claim of lien and before entry of a certificate of title, as well as interest, late charges, and reasonable costs and attorney’s fees incurred by the association incident to the collection process. The person making payment is entitled to a satisfaction of the lien upon payment in full.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By recording a notice in substantially the following form, a parcel owner or the parcel owner’s agent or attorney may require the association to enforce a recorded claim of lien against his or her parcel:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF CONTEST OF LIEN</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">TO: <Directions xml:space="preserve">(Name and address of association)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">You are notified that the undersigned contests the claim of lien filed by you on <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, and recorded in Official Records Book <HorizontalRule Type="Fixed" /> at page <HorizontalRule Type="Fixed" />, of the public records of <HorizontalRule Type="Fixed" /> County, Florida, and that the time within which you may file suit to enforce your lien is limited to 90 days following the date of service of this notice. Executed this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed: <Directions xml:space="preserve">(Owner or Attorney)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">After the notice of a contest of lien has been recorded, the clerk of the circuit court shall mail a copy of the recorded notice to the association by certified mail, return receipt requested, at the address shown in the claim of lien or the most recent amendment to it and shall certify to the service on the face of the notice. Service is complete upon mailing. After service, the association has 90 days in which to file an action to enforce the lien and, if the action is not filed within the 90-day period, the lien is void. However, the 90-day period shall be extended for any length of time that the association is prevented from filing its action because of an automatic stay resulting from the filing of a bankruptcy petition by the parcel owner or by any other person claiming an interest in the parcel.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The association may bring an action in its name to foreclose a lien for assessments in the same manner in which a mortgage of real property is foreclosed and may also bring an action to recover a money judgment for the unpaid assessments without waiving any claim of lien. The association is entitled to recover its reasonable attorney’s fees incurred in an action to foreclose a lien or an action to recover a money judgment for unpaid assessments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the parcel owner remains in possession of the parcel after a foreclosure judgment has been entered, the court may require the parcel owner to pay a reasonable rent for the parcel. If the parcel is rented or leased during the pendency of the foreclosure action, the association is entitled to the appointment of a receiver to collect the rent. The expenses of the receiver must be paid by the party who does not prevail in the foreclosure action.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The association may purchase the parcel at the foreclosure sale and hold, lease, mortgage, or convey the parcel.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A parcel owner, regardless of how his or her title to property has been acquired, including by purchase at a foreclosure sale or by deed in lieu of foreclosure, is liable for all assessments that come due while he or she is the parcel owner. The parcel owner’s liability for assessments may not be avoided by waiver or suspension of the use or enjoyment of any common area or by abandonment of the parcel upon which the assessments are made.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A parcel owner is jointly and severally liable with the previous parcel owner for all unpaid assessments that came due up to the time of transfer of title. This liability is without prejudice to any right the present parcel owner may have to recover any amounts paid by the present owner from the previous owner.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding anything to the contrary contained in this section, the liability of a first mortgagee, or its successor or assignee as a subsequent holder of the first mortgage who acquires title to a parcel by foreclosure or by deed in lieu of foreclosure for the unpaid assessments that became due before the mortgagee’s acquisition of title, shall be the lesser of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The parcel’s unpaid common expenses and regular periodic or special assessments that accrued or came due during the 12 months immediately preceding the acquisition of title and for which payment in full has not been received by the association; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One percent of the original mortgage debt.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The limitations on first mortgagee liability provided by this paragraph apply only if the first mortgagee filed suit against the parcel owner and initially joined the association as a defendant in the mortgagee foreclosure action. Joinder of the association is not required if, on the date the complaint is filed, the association was dissolved or did not maintain an office or agent for service of process at a location that was known to or reasonably discoverable by the mortgagee.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An association, or its successor or assignee, that acquires title to a parcel through the foreclosure of its lien for assessments is not liable for any unpaid assessments, late fees, interest, or reasonable attorney’s fees and costs that came due before the association’s acquisition of title in favor of any other association, as defined in s. 718.103(2) or s. 720.301(9), which holds a superior lien interest on the parcel. This paragraph is intended to clarify existing law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Assessments and installments on assessments that are not paid when due bear interest from the due date until paid at the rate provided in the declaration of covenants or the bylaws of the association, which rate may not exceed the rate allowed by law. If no rate is provided in the declaration or bylaws, interest accrues at the rate of 18 percent per year.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the declaration or bylaws so provide, the association may also charge an administrative late fee not to exceed the greater of $25 or 5 percent of the amount of each installment that is paid past the due date.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any payment received by an association and accepted shall be applied first to any interest accrued, then to any administrative late fee, then to any costs and reasonable attorney’s fees incurred in collection, and then to the delinquent assessment. This paragraph applies notwithstanding any restrictive endorsement, designation, or instruction placed on or accompanying a payment. A late fee is not subject to the provisions of chapter 687 and is not a fine.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A homeowners’ association may not file a record of lien against a parcel for unpaid assessments unless a written notice or demand for past due assessments as well as any other amounts owed to the association pursuant to its governing documents has been made by the association. The written notice or demand must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide the owner with 45 days following the date the notice is deposited in the mail to make payment for all amounts due, including, but not limited to, any attorney’s fees and actual costs associated with the preparation and delivery of the written demand.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Be sent by registered or certified mail, return receipt requested, and by first-class United States mail to the parcel owner at his or her last address as reflected in the records of the association, if the address is within the United States, and to the parcel owner subject to the demand at the address of the parcel if the owner’s address as reflected in the records of the association is not the parcel address. If the address reflected in the records is outside the United States, then sending the notice to that address and to the parcel address by first-class United States mail is sufficient.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The association may bring an action in its name to foreclose a lien for unpaid assessments secured by a lien in the same manner that a mortgage of real property is foreclosed and may also bring an action to recover a money judgment for the unpaid assessments without waiving any claim of lien. The action to foreclose the lien may not be brought until 45 days after the parcel owner has been provided notice of the association’s intent to foreclose and collect the unpaid amount. The notice must be given in the manner provided in paragraph (4)(b), and the notice may not be provided until the passage of the 45 days required in paragraph (4)(a).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The association may recover any interest, late charges, costs, and reasonable attorney’s fees incurred in a lien foreclosure action or in an action to recover a money judgment for the unpaid assessments.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The time limitations in this subsection do not apply if the parcel is subject to a foreclosure action or forced sale of another party, or if an owner of the parcel is a debtor in a bankruptcy proceeding.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If after service of a summons on a complaint to foreclose a lien the parcel is not the subject of a mortgage foreclosure or a notice of tax certificate sale, the parcel owner is not a debtor in bankruptcy proceedings, or the trial of or trial docket for the lien foreclosure action is not set to begin within 30 days, the parcel owner may serve and file with the court a qualifying offer at any time before the entry of a foreclosure judgment. For purposes of this subsection, the term “qualifying offer” means a written offer to pay all amounts secured by the lien of the association plus amounts accruing during the pendency of the offer. The parcel owner may make only one qualifying offer during the pendency of a foreclosure action. If a parcel becomes the subject of a mortgage foreclosure or a notice of tax certificate sale while a qualifying offer is pending, the qualifying offer becomes voidable at the election of the association. If the parcel owner becomes a debtor in bankruptcy proceedings while a qualifying offer is pending, the qualifying offer becomes void.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The parcel owner shall deliver a copy of the filed qualifying offer to the association’s attorney by hand delivery, obtaining a written receipt, or by certified mail, return receipt requested.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parcel owner’s filing of the qualifying offer with the court stays the foreclosure action for the period stated in the qualifying offer, which may not exceed 60 days following the date of service of the qualifying offer and no sooner than 30 days before the date of trial, arbitration, or the beginning of the trial docket, whichever occurs first, to permit the parcel owner to pay the qualifying offer to the association plus any amounts accruing during the pendency of the offer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The qualifying offer must be in writing, be signed by all owners of the parcel and the spouse of any owner if the spouse resides in or otherwise claims a homestead interest in the parcel, be acknowledged by a notary public, and be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">QUALIFYING OFFER<NewLine />AUTOMATIC STAY INVOKED<NewLine />PURSUANT TO F.S. 720.3085</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I/We, [Name(s) of Parcel Owner(s)], admit the following:</Text>
+				<Text xml:space="preserve" Style="Indent">1. The total amount due the association is secured by the lien of the association.</Text>
+				<Text xml:space="preserve" Style="Indent">2. The association is entitled to foreclose its claim of lien and obtain a foreclosure judgment for the total amount due if I/we breach this qualifying offer by failing to pay the amount due by the date specified in this qualifying offer.</Text>
+				<Text xml:space="preserve" Style="Indent">3. I/We will not permit the priority of the lien of the association or the amounts secured by the lien to be endangered.</Text>
+				<Text xml:space="preserve" Style="Indent">4. I/We hereby affirm that the date(s) by which the association will receive $ [specify amount] as the total amount due is [specify date, no later than 60 days after the date of service of the qualifying offer and at least 30 days before the trial or arbitration date], in the following amounts and dates:</Text>
+				<Text xml:space="preserve" Style="Indent">5. I/We hereby confirm that I/we have requested and have received from the homeowners’ association a breakdown and total of all sums due the association and that the amount offered above is equal to or greater than the total amount provided by the association.</Text>
+				<Text xml:space="preserve" Style="Indent">6. This qualifying offer operates as a stay to all portions of the foreclosure action which seek to collect unpaid assessments as provided in s. 720.3085.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed: <Directions xml:space="preserve">(Signatures of all parcel owners and spouses, if any)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn to and subscribed this <Directions xml:space="preserve">(date)</Directions> day of <Directions xml:space="preserve">(month)</Directions>, <Directions xml:space="preserve">(year)</Directions>, before the undersigned authority.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Notary Public: <Directions xml:space="preserve">(Signature of notary public)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">If the parcel owner makes a qualifying offer under this subsection, the association may not add the cost of any legal fees incurred by the association within the period of the stay other than costs acquired in defense of a mortgage foreclosure action concerning the parcel, a bankruptcy proceeding in which the parcel owner is a debtor, or in response to filings by a party other than the association in the lien foreclosure action of the association.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">If the parcel owner breaches the qualifying offer, the stay shall be vacated and the association may proceed in its action to obtain a foreclosure judgment against the parcel and the parcel owners for the amount in the qualifying offer and any amounts accruing after the date of the qualifying offer.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the parcel is occupied by a tenant and the parcel owner is delinquent in paying any monetary obligation due to the association, the association may demand that the tenant pay to the association the subsequent rental payments and continue to make such payments until all the monetary obligations of the parcel owner related to the parcel have been paid in full to the association and the association releases the tenant or until the tenant discontinues tenancy in the parcel.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The association must provide the tenant a notice, by hand delivery or United States mail, in substantially the following form:</Text>
+					<Text xml:space="preserve" Style="BlockIndent" SpaceAbove="true">Pursuant to section 720.3085(8), Florida Statutes, we demand that you make your rent payments directly to the homeowners’ association and continue doing so until the association notifies you otherwise.</Text>
+					<Text xml:space="preserve" Style="BlockIndent">Payment due the homeowners’ association may be in the same form as you paid your landlord and must be sent by United States mail or hand delivery to <Directions xml:space="preserve">(full address)</Directions>, payable to <Directions xml:space="preserve">(name)</Directions>.</Text>
+					<Text xml:space="preserve" Style="BlockIndent">Your obligation to pay your rent to the association begins immediately, unless you have already paid rent to your landlord for the current period before receiving this notice. In that case, you must provide the association written proof of your payment within 14 days after receiving this notice and your obligation to pay rent to the association would then begin with the next rental period.</Text>
+					<Text xml:space="preserve" Style="BlockIndent" SpaceBelow="true">Pursuant to section 720.3085(8), Florida Statutes, your payment of rent to the association gives you complete immunity from any claim for the rent by your landlord.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A tenant is immune from any claim by the parcel owner related to the rent timely paid to the association after the association has made written demand.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the tenant paid rent to the landlord or parcel owner for a given rental period before receiving the demand from the association and provides written evidence to the association of having paid the rent within 14 days after receiving the demand, the tenant shall begin making rental payments to the association for the following rental period and shall continue making rental payments to the association to be credited against the monetary obligations of the parcel owner until the association releases the tenant or the tenant discontinues tenancy in the unit. The association shall, upon request, provide the tenant with written receipts for payments made. The association shall mail written notice to the parcel owner of the association’s demand that the tenant pay monetary obligations to the association.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The liability of the tenant may not exceed the amount due from the tenant to the tenant’s landlord. The tenant shall be given a credit against rents due to the landlord in the amount of assessments paid to the association.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The association may issue notice under s. 83.56 and sue for eviction under ss. 83.59-83.625 as if the association were a landlord under part II of chapter 83 if the tenant fails to pay a monetary obligation. However, the association is not otherwise considered a landlord under chapter 83 and specifically has no obligations under s. 83.51.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The tenant does not, by virtue of payment of monetary obligations, have any of the rights of a parcel owner to vote in any election or to examine the books and records of the association.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A court may supersede the effect of this subsection by appointing a receiver.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2007-183; s. 1, ch. 2008-175; s. 26, ch. 2010-174; s. 20, ch. 2011-196.</History>
+</Section>

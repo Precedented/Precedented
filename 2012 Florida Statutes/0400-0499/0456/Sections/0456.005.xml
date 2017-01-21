@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0456.005" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Long-range policy planning.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">To facilitate efficient and cost-effective regulation, the department and the board, if appropriate, shall develop and implement a long-range policy planning and monitoring process that includes recommendations specific to each profession. The process shall include estimates of revenues, expenditures, cash balances, and performance statistics for each profession. The period covered may not be less than 5 years. The department, with input from the boards and licensees, shall develop and adopt the long-range plan. The department shall monitor compliance with the plan and, with input from the boards and licensees, shall annually update the plans. The department shall provide concise management reports to the boards quarterly. As part of the review process, the department shall evaluate:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Whether the department, including the boards and the various functions performed by the department, is operating efficiently and effectively and if there is a need for a board or council to assist in cost-effective regulation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">How and why the various professions are regulated.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Whether there is a need to continue regulation, and to what degree.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Whether or not consumer protection is adequate, and how it can be improved.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Whether there is consistency between the various practice acts.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Whether unlicensed activity is adequately enforced.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">The plans shall include conclusions and recommendations on these and other issues as appropriate. </Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 40, ch. 97-261; s. 40, ch. 2000-160; s. 61, ch. 2008-6; s. 148, ch. 2010-102.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 455.524.</Text>
+	</Note>
+</Section>

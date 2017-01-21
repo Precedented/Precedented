@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.516" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">What constitutes filing; effectiveness of filing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (2), communication of a record to a filing office and tender of the processing fee or acceptance of the record by the filing office constitutes filing.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Filing does not occur with respect to a record that a filing office refuses to accept because:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The record is not communicated by a method or medium of communication authorized by the filing office;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An amount equal to or greater than the applicable processing fee is not tendered;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The filing office is unable to index the record because:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In the case of an initial financing statement, the record does not provide an organization’s name or, if an individual, the individual’s last name and first name;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In the case of an amendment or correction statement, the record:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Does not correctly identify the initial financing statement as required by s. 679.512 or s. 679.518, as applicable; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Identifies an initial financing statement the effectiveness of which has lapsed under s. 679.515;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">In the case of an initial financing statement that provides the name of a debtor identified as an individual or an amendment that provides a name of a debtor identified as an individual which was not previously provided in the financing statement to which the record relates, the record does not identify the debtor’s last name and first name; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">In the case of a record filed or recorded in the filing office described in s. 679.5011(1)(a), the record does not provide a sufficient description of the real property to which it relates;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In the case of an initial financing statement or an amendment that adds a secured party of record, the record does not provide an organization’s name or, if an individual, the individual’s last name and first name and mailing address for the secured party of record;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">In the case of an initial financing statement or an amendment that provides a name of a debtor which was not previously provided in the financing statement to which the amendment relates, the record does not:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Provide a mailing address for the debtor;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Indicate whether the debtor is an individual or an organization; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the financing statement indicates that the debtor is an organization, provide:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A type of organization for the debtor;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A jurisdiction of organization for the debtor; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">An organizational identification number for the debtor or indicate that the debtor has none;</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In the case of an assignment reflected in an initial financing statement under s. 679.514(1) or an amendment filed under s. 679.514(2), the record does not provide an organization’s name or, if an individual, the individual’s last name and first name and mailing address for the assignee;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">In the case of a continuation statement, the record is not filed within the 6-month period prescribed by s. 679.515(4);</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">In the case of an initial financing statement or an amendment, which amendment requires the inclusion of a collateral statement but the record does not provide any, the record does not provide a statement of collateral; or</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The record does not include the notation required by s. 201.22 indicating that the excise tax required by chapter 201 had been paid or is not required.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For purposes of subsection (2):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A record does not provide information if the filing office is unable to read or decipher the information; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A record that does not indicate that it is an amendment or identify an initial financing statement to which it relates, as required by s. 679.512, s. 679.514, or s. 679.518, is an initial financing statement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A record that is communicated to the filing office with tender of the filing fee, but that the filing office refuses to accept for a reason other than one set forth in subsection (2), is effective as a filed record except as against a purchaser of the collateral which gives value in reasonable reliance upon the absence of the record from the files.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2001-198; s. 11, ch. 2002-242; s. 14, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 14, ch. 2012-59, amended subsection (2), effective July 1, 2013, to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(2) Filing does not occur with respect to a record that a filing office refuses to accept because:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The record is not communicated by a method or medium of communication authorized by the filing office;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) An amount equal to or greater than the applicable processing fee is not tendered;</Text>
+		<Text xml:space="preserve" Style="Indent">(c) The filing office is unable to index the record because:</Text>
+		<Text xml:space="preserve" Style="Indent">1. In the case of an initial financing statement, the record does not provide an organization’s name or, if an individual, the individual’s last name and first name;</Text>
+		<Text xml:space="preserve" Style="Indent">2. In the case of an amendment or information statement, the record:</Text>
+		<Text xml:space="preserve" Style="Indent">a. Does not correctly identify the initial financing statement as required by s. 679.512 or s. 679.518, as applicable; or</Text>
+		<Text xml:space="preserve" Style="Indent">b. Identifies an initial financing statement the effectiveness of which has lapsed under s. 679.515;</Text>
+		<Text xml:space="preserve" Style="Indent">3. In the case of an initial financing statement that provides the name of a debtor identified as an individual or an amendment that provides a name of a debtor identified as an individual which was not previously provided in the financing statement to which the record relates, the record does not identify the debtor’s surname and first personal name; or</Text>
+		<Text xml:space="preserve" Style="Indent">4. In the case of a record filed or recorded in the filing office described in s. 679.5011(1)(a), the record does not provide a sufficient description of the real property to which it relates;</Text>
+		<Text xml:space="preserve" Style="Indent">(d) In the case of an initial financing statement or an amendment that adds a secured party of record, the record does not provide an organization’s name or, if an individual, the individual’s last name and first name and mailing address for the secured party of record;</Text>
+		<Text xml:space="preserve" Style="Indent">(e) In the case of an initial financing statement or an amendment that provides a name of a debtor which was not previously provided in the financing statement to which the amendment relates, the record does not:</Text>
+		<Text xml:space="preserve" Style="Indent">1. Provide a mailing address for the debtor; or</Text>
+		<Text xml:space="preserve" Style="Indent">2. Indicate whether the name provided as the name of the debtor is the name of an individual or an organization;</Text>
+		<Text xml:space="preserve" Style="Indent">(f)  In the case of an assignment reflected in an initial financing statement under s. 679.514(1) or an amendment filed under s. 679.514(2), the record does not provide an organization’s name or, if an individual, the individual’s last name and first name and mailing address for the assignee;</Text>
+		<Text xml:space="preserve" Style="Indent">(g) In the case of a continuation statement, the record is not filed within the 6-month period prescribed by s. 679.515(4);</Text>
+		<Text xml:space="preserve" Style="Indent">(h) In the case of an initial financing statement or an amendment, which amendment requires the inclusion of a collateral statement but the record does not provide any, the record does not provide a statement of collateral; or</Text>
+		<Text xml:space="preserve" Style="Indent">(i) The record does not include the notation required by s. 201.22 indicating that the excise tax required by chapter 201 had been paid or is not required.</Text>
+	</Note>
+</Section>

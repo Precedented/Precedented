@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0394.908" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Substance abuse and mental health funding equity; distribution of appropriations.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">In recognition of the historical inequity in the funding of substance abuse and mental health services for the department’s districts and regions and to rectify this inequity and provide for equitable funding in the future throughout the state, the following funding process shall be used:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Funding thresholds for substance abuse and mental health services in each of the current districts, statewide, shall be established based on the current number of individuals in need per district of substance abuse and mental health services, respectively.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Individuals in need” means those persons who fit the profile of the respective priority populations and require mental health or substance abuse services.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any additional funding beyond the 2005-2006 fiscal year base appropriation for alcohol, drug abuse, and mental health services shall be allocated to districts for substance abuse and mental health services based on:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Epidemiological estimates of disabilities that apply to the respective priority populations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A pro rata share distribution that ensures districts below the statewide average funding level per individual in each priority population of “individuals in need” receive funding necessary to achieve equity.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a) and for the 2011-2012 fiscal year only, funds appropriated for forensic mental health treatment services shall be allocated to the areas of the state having the greatest demand for services and treatment capacity. This paragraph expires July 1, 2012.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a) and for the 2011-2012 fiscal year only, additional funds appropriated for substance abuse and mental health services from funds available through the Community-Based Medicaid Administrative Claiming Program shall be allocated as provided in the 2010-2011 General Appropriations Act and in proportion to contributed provider earnings. This paragraph expires July 1, 2012.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Priority populations for individuals in need shall be displayed for each district and distributed concurrently with the approved operating budget. The display by priority population shall show: The annual number of individuals served based on prior year actual numbers, the annual cost per individual served, and the estimated number of the total priority population for individuals in need.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The annual cost per individual served shall be defined as the total actual funding for each priority population divided by the number of individuals served in the priority population for that year.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 97-195; s. 16, ch. 2000-349; ss. 16, 53, ch. 2001-254; s. 3, ch. 2002-397; s. 28, ch. 2003-399; s. 8, ch. 2004-269; s. 11, ch. 2006-2; s. 2, ch. 2006-29; s. 3, ch. 2008-153; s. 12, ch. 2009-82; s. 4, ch. 2009-132; s. 13, ch. 2010-153; s. 6, ch. 2011-47.</History>
+</Section>

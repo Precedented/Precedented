@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1013.372" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Education facilities as emergency shelters.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall, in consultation with boards and county and state emergency management offices, include within the standards to be developed under this subsection public shelter design criteria to be incorporated into the Florida Building Code. The new criteria must be designed to ensure that appropriate new educational facilities can serve as public shelters for emergency management purposes. A facility, or an appropriate area within a facility, for which a design contract is entered into after the effective date of the inclusion of the public shelter criteria in the code must be built in compliance with the amended code unless the facility or a part of it is exempted from using the new shelter criteria due to its location, size, or other characteristics by the applicable board with the concurrence of the applicable local emergency management agency or the Division of Emergency Management. Any educational facility located or proposed to be located in an identified category 1, 2, or 3 evacuation zone is not subject to the requirements of this subsection. If the regional planning council region in which the county is located does not have a hurricane evacuation shelter deficit, as determined by the Division of Emergency Management, educational facilities within the planning council region are not required to incorporate the public shelter criteria.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">By January 31 of each even-numbered year, the Division of Emergency Management shall prepare and submit a statewide emergency shelter plan to the Governor and the Cabinet for approval. The plan must identify the general location and square footage of existing shelters, by regional planning council region, and the general location and square footage of needed shelters, by regional planning council region, during the next 5 years. The plan must identify the types of public facilities that should be constructed to comply with emergency-shelter criteria and must recommend an appropriate and available source of funding for the additional cost of constructing emergency shelters within these public facilities. After the approval of the plan, a board may not be required to build more emergency-shelter space than identified as needed in the plan, and decisions pertaining to exemptions pursuant to subsection (1) must be guided by the plan.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The provisions of s. 1013.74 apply to university facilities as emergency shelters.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 836, ch. 2002-387; s. 473, ch. 2011-142.</History>
+</Section>

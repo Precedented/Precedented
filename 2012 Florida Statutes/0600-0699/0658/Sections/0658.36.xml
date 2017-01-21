@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0658.36" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Changes in capital.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A state bank or trust company may not reduce the number of shares of its outstanding capital stock without first obtaining the approval of the office. Approval shall be withheld if the reduction will cause capital accounts to be less than the minimum required pursuant to the financial institutions codes.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A state bank or trust company may provide for an increase in its number of outstanding shares of capital stock after filing a written notice with the office at least 15 days before making such increase. The office may waive the time requirement upon a demonstration of good cause.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a bank or trust company’s capital accounts have been diminished by losses to less than the minimum required pursuant to the financial institutions codes, the market value of its shares of capital stock is less than the present par value, and the bank or trust company cannot reasonably issue and sell new shares of stock to restore its capital accounts at a share price of par value or greater of the previously issued capital stock, the office, notwithstanding any other provisions of chapter 607 or the financial institutions codes, may approve special stock offering plans.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Such plans may include, but are not limited to, mechanisms for stock splits including reverse splits; revaluations of par value of outstanding stock; changes in voting rights, dividends, or other preferences; and creation of new classes of stock.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The plan must be approved by majority vote of the bank or trust company’s entire board of directors and by holders of two-thirds of the outstanding shares of stock.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The office shall disapprove a plan that provides unfair or disproportionate benefits to existing shareholders, directors, executive officers, or their related interests. The office shall also disapprove any plan that is not likely to restore the capital accounts to sufficient levels to achieve a sustainable, safe, and sound financial institution.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For any bank or trust company that the office determines to be a failing financial institution pursuant to s. 655.4185, the office may approve special stock offering plans without a vote of the shareholders.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 28016, 1953; ss. 12, 35, ch. 69-106; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 26, 151, 152, ch. 80-260; ss. 2, 3, ch. 81-318; s. 1, ch. 91-307; ss. 1, 120, ch. 92-303; s. 1782, ch. 2003-261; s. 14, ch. 2008-75; s. 26, ch. 2011-194.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 659.10.</Text>
+	</Note>
+</Section>

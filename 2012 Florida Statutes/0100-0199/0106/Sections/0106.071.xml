@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0106.071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Independent expenditures; electioneering communications; reports; disclaimers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each person who makes an independent expenditure with respect to any candidate or issue, and each individual who makes an expenditure for an electioneering communication which is not otherwise reported pursuant to this chapter, which expenditure, in the aggregate, is in the amount of $5,000 or more, shall file periodic reports of such expenditures in the same manner, at the same time, subject to the same penalties, and with the same officer as a political committee supporting or opposing such candidate or issue. The report shall contain the full name and address of the person making the expenditure; the full name and address of each person to whom and for whom each such expenditure has been made; the amount, date, and purpose of each such expenditure; a description of the services or goods obtained by each such expenditure; the issue to which the expenditure relates; and the name and address of, and office sought by, each candidate on whose behalf such expenditure was made.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any political advertisement paid for by an independent expenditure shall prominently state “Paid political advertisement paid for by <Directions xml:space="preserve">(Name and address of person paying for advertisement)</Directions> independently of any <Directions xml:space="preserve">(candidate or committee)</Directions>.”</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Subsection (2) does not apply to novelty items having a retail value of $10 or less which support, but do not oppose, a candidate or issue.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person who fails to include the disclaimer prescribed in subsection (2) in any political advertisement that is required to contain such disclaimer commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 47, ch. 77-175; s. 10, ch. 89-256; s. 4, ch. 2004-252; s. 25, ch. 2010-167; ss. 13, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.</History>
+</Section>

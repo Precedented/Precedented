@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.2071" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rights and duties of secured party having possession or control of collateral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (4), a secured party shall use reasonable care in the custody and preservation of collateral in the secured party’s possession. In the case of chattel paper or an instrument, reasonable care includes taking necessary steps to preserve rights against prior parties unless otherwise agreed.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (4), if a secured party has possession of collateral:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Reasonable expenses, including the cost of insurance and payment of taxes or other charges, incurred in the custody, preservation, use, or operation of the collateral are chargeable to the debtor and are secured by the collateral;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The risk of accidental loss or damage is on the debtor to the extent of a deficiency in any effective insurance coverage;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The secured party shall keep the collateral identifiable, but fungible collateral may be commingled; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The secured party may use or operate the collateral:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For the purpose of preserving the collateral or its value;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">As permitted by an order of a court having competent jurisdiction; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Except in the case of consumer goods, in the manner and to the extent agreed by the debtor.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (4), a secured party having possession of collateral or control of collateral under s. 677.106, s. 679.1041, s. 679.1051, s. 679.1061, or s. 679.1071:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">May hold as additional security any proceeds, except money or funds, received from the collateral;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Shall apply money or funds received from the collateral to reduce the secured obligation, unless remitted to the debtor; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">May create a security interest in the collateral.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the secured party is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Subsection (1) does not apply unless the secured party is entitled under an agreement:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To charge back uncollected collateral; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Otherwise to full or limited recourse against the debtor or a secondary obligor based on the nonpayment or other default of an account debtor or other obligor on the collateral; and</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Subsections (2) and (3) do not apply.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2001-198; s. 60, ch. 2010-131.</History>
+</Section>

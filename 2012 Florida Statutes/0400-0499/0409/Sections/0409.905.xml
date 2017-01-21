@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.905" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mandatory Medicaid services.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The agency may make payments for the following services, which are required of the state by Title XIX of the Social Security Act, furnished by Medicaid providers to recipients who are determined to be eligible on the dates on which the services were provided. Any service under this section shall be provided only when medically necessary and in accordance with state and federal law. Mandatory services rendered by providers in mobile units to Medicaid recipients may be restricted by the agency. Nothing in this section shall be construed to prevent or limit the agency from adjusting fees, reimbursement rates, lengths of stay, number of visits, number of services, or any other adjustments necessary to comply with the availability of moneys and any limitations or directions provided for in the General Appropriations Act or chapter 216.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ADVANCED REGISTERED NURSE PRACTITIONER SERVICES.<EmDash />The agency shall pay for services provided to a recipient by a licensed advanced registered nurse practitioner who has a valid collaboration agreement with a licensed physician on file with the Department of Health or who provides anesthesia services in accordance with established protocol required by state law and approved by the medical staff of the facility in which the anesthetic service is performed. Reimbursement for such services must be provided in an amount that equals not less than 80 percent of the reimbursement to a physician who provides the same services, unless otherwise provided for in the General Appropriations Act.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">EARLY AND PERIODIC SCREENING, DIAGNOSIS, AND TREATMENT SERVICES.<EmDash />The agency shall pay for early and periodic screening and diagnosis of a recipient under age 21 to ascertain physical and mental problems and conditions and all services determined by the agency to be medically necessary for the treatment, correction, or amelioration of these problems and conditions, including personal care, private duty nursing, durable medical equipment, physical therapy, occupational therapy, speech therapy, respiratory therapy, and immunizations.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FAMILY PLANNING SERVICES.<EmDash />The agency shall pay for services necessary to enable a recipient voluntarily to plan family size or to space children. These services include information; education; counseling regarding the availability, benefits, and risks of each method of pregnancy prevention; drugs and supplies; and necessary medical care and followup. Each recipient participating in the family planning portion of the Medicaid program must be provided freedom to choose any alternative method of family planning, as required by federal law.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">HOME HEALTH CARE SERVICES.<EmDash />The agency shall pay for nursing and home health aide services, supplies, appliances, and durable medical equipment, necessary to assist a recipient living at home. An entity that provides such services must be licensed under part III of chapter 400. These services, equipment, and supplies, or reimbursement therefor, may be limited as provided in the General Appropriations Act and do not include services, equipment, or supplies provided to a person residing in a hospital or nursing facility.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"> The agency shall require prior authorization of home health services based on diagnosis, utilization rates, and billing rates. The home health agency must submit the recipient’s plan of care and documentation that supports the recipient’s diagnosis to the agency when requesting prior authorization.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency shall implement a comprehensive utilization management program of all private duty nursing services, an individualized treatment plan that includes information about medication and treatment orders, treatment goals, methods of care to be used, and plans for care coordination by nurses and other health professionals. The utilization management program must also include a process for periodically reviewing the ongoing use of private duty nursing services. The assessment of need shall be based on a child’s condition; family support and care supplements; a family’s ability to provide care; a family’s and child’s schedule regarding work, school, sleep, and care for other family dependents; and a determination of the medical necessity for private duty nursing instead of other more cost-effective in-home services. When implemented, the private duty nursing utilization management program shall replace the current authorization program used by the agency and the Children’s Medical Services program of the Department of Health. The agency may competitively bid a contract to select a qualified organization to provide utilization management of private duty nursing services. The agency may seek federal waivers to implement this initiative.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency may not pay for home health services unless the services are medically necessary and:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The services are ordered by a physician.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The written prescription for the services is signed and dated by the recipient’s physician before the development of a plan of care and before any request requiring prior authorization.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The physician ordering the services is not employed, under contract with, or otherwise affiliated with the home health agency rendering the services. However, this subparagraph does not apply to a home health agency affiliated with a retirement community, of which the parent corporation or a related legal entity owns a rural health clinic certified under 42 C.F.R. part 491, subpart A, ss. 1-11, a nursing home licensed under part II of chapter 400, or an apartment or single-family home for independent living. For purposes of this subparagraph, the agency may, on a case-by-case basis, provide an exception for medically fragile children who are younger than 21 years of age.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The physician ordering the services has examined the recipient within the 30 days preceding the initial request for the services and biannually thereafter.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The written prescription for the services includes the recipient’s acute or chronic medical condition or diagnosis, the home health service required, and, for skilled nursing services, the frequency and duration of the services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The national provider identifier, Medicaid identification number, or medical practitioner license number of the physician ordering the services is listed on the written prescription for the services, the claim for home health reimbursement, and the prior authorization request.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">HOSPITAL INPATIENT SERVICES.<EmDash />The agency shall pay for all covered services provided for the medical care and treatment of a recipient who is admitted as an inpatient by a licensed physician or dentist to a hospital licensed under part I of chapter 395. However, the agency shall limit the payment for inpatient hospital services for a Medicaid recipient 21 years of age or older to 45 days or the number of days necessary to comply with the General Appropriations Act. Effective August 1, 2012, the agency shall limit payment for hospital emergency department visits for a nonpregnant Medicaid recipient 21 years of age or older to six visits per fiscal year.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may implement reimbursement and utilization management reforms in order to comply with any limitations or directions in the General Appropriations Act, which may include, but are not limited to: prior authorization for inpatient psychiatric days; prior authorization for nonemergency hospital inpatient admissions for individuals 21 years of age and older; authorization of emergency and urgent-care admissions within 24 hours after admission; enhanced utilization and concurrent review programs for highly utilized services; reduction or elimination of covered days of service; adjusting reimbursement ceilings for variable costs; adjusting reimbursement ceilings for fixed and property costs; and implementing target rates of increase. The agency may limit prior authorization for hospital inpatient services to selected diagnosis-related groups, based on an analysis of the cost and potential for unnecessary hospitalizations represented by certain diagnoses. Admissions for normal delivery and newborns are exempt from requirements for prior authorization. In implementing the provisions of this section related to prior authorization, the agency shall ensure that the process for authorization is accessible 24 hours per day, 7 days per week and authorization is automatically granted when not denied within 4 hours after the request. Authorization procedures must include steps for review of denials. Upon implementing the prior authorization program for hospital inpatient services, the agency shall discontinue its hospital retrospective review program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A licensed hospital maintained primarily for the care and treatment of patients having mental disorders or mental diseases is not eligible to participate in the hospital inpatient portion of the Medicaid program except as provided in federal law. However, the department shall apply for a waiver, within 9 months after June 5, 1991, designed to provide hospitalization services for mental health reasons to children and adults in the most cost-effective and lowest cost setting possible. Such waiver shall include a request for the opportunity to pay for care in hospitals known under federal law as “institutions for mental disease” or “IMD’s.” The waiver proposal shall propose no additional aggregate cost to the state or Federal Government, and shall be conducted in Hillsborough County, Highlands County, Hardee County, Manatee County, and Polk County. The waiver proposal may incorporate competitive bidding for hospital services, comprehensive brokering, prepaid capitated arrangements, or other mechanisms deemed by the department to show promise in reducing the cost of acute care and increasing the effectiveness of preventive care. When developing the waiver proposal, the department shall take into account price, quality, accessibility, linkages of the hospital to community services and family support programs, plans of the hospital to ensure the earliest discharge possible, and the comprehensiveness of the mental health and other health care services offered by participating providers.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency shall implement a methodology for establishing base reimbursement rates for each hospital based on allowable costs, as defined by the agency. Rates shall be calculated annually and take effect July 1 of each year based on the most recent complete and accurate cost report submitted by each hospital.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Adjustments may not be made to the rates after October 31 of the state fiscal year in which the rates take effect, except for cases of insufficient collections of intergovernmental transfers authorized under s. 409.908(1) or the General Appropriations Act. In such cases, the agency shall submit a budget amendment or amendments under chapter 216 requesting approval of rate reductions by amounts necessary for the aggregate reduction to equal the dollar amount of intergovernmental transfers not collected and the corresponding federal match. Notwithstanding the $1 million limitation on increases to an approved operating budget contained in ss. 216.181(11) and 216.292(3), a budget amendment exceeding that dollar amount is subject to notice and objection procedures set forth in s. 216.177.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Errors in cost reporting or calculation of rates discovered after October 31 must be reconciled in a subsequent rate period. The agency may not make any adjustment to a hospital’s reimbursement rate more than 5 years after a hospital is notified of an audited rate established by the agency. The requirement that the agency may not make any adjustment to a hospital’s reimbursement rate more than 5 years after a hospital is notified of an audited rate established by the agency is remedial and applies to actions by providers involving Medicaid claims for hospital services. Hospital rates are subject to such limits or ceilings as may be established in law or described in the agency’s hospital reimbursement plan. Specific exemptions to the limits or ceilings may be provided in the General Appropriations Act.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The agency shall implement a comprehensive utilization management program for hospital neonatal intensive care stays in certain high-volume participating hospitals, select counties, or statewide, and replace existing hospital inpatient utilization management programs for neonatal intensive care admissions. The program shall be designed to manage the lengths of stay for children being treated in neonatal intensive care units and must seek the earliest medically appropriate discharge to the child’s home or other less costly treatment setting. The agency may competitively bid a contract for the selection of a qualified organization to provide neonatal intensive care utilization management services. The agency may seek federal waivers to implement this initiative.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The agency may develop and implement a program to reduce the number of hospital readmissions among the non-Medicare population eligible in areas 9, 10, and 11.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The agency shall develop a plan to convert Medicaid inpatient hospital rates to a prospective payment system that categorizes each case into diagnosis-related groups (DRG) and assigns a payment weight based on the average resources used to treat Medicaid patients in that DRG. To the extent possible, the agency shall propose an adaptation of an existing prospective payment system, such as the one used by Medicare, and shall propose such adjustments as are necessary for the Medicaid population and to maintain budget neutrality for inpatient hospital expenditures.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The plan must:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Define and describe DRGs for inpatient hospital care specific to Medicaid in this state;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Determine the use of resources needed for each DRG;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Apply current statewide levels of funding to DRGs based on the associated resource value of DRGs. Current statewide funding levels shall be calculated both with and without the use of intergovernmental transfers;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Calculate the current number of services provided in the Medicaid program based on DRGs defined under this subparagraph;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Estimate the number of cases in each DRG for future years based on agency data and the official workload estimates of the Social Services Estimating Conference;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Calculate the expected total Medicaid payments in the current year for each hospital with a Medicaid provider agreement, based on the DRGs and estimated workload;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Propose supplemental DRG payments to augment hospital reimbursements based on patient acuity and individual hospital characteristics, including classification as a children’s hospital, rural hospital, trauma center, burn unit, and other characteristics that could warrant higher reimbursements, while maintaining budget neutrality; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Estimate potential funding for each hospital with a Medicaid provider agreement for DRGs defined pursuant to this subparagraph and supplemental DRG payments using current funding levels, calculated both with and without the use of intergovernmental transfers.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The agency shall engage a consultant with expertise and experience in the implementation of DRG systems for hospital reimbursement to develop the DRG plan under subparagraph 1.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The agency shall submit the DRG plan, identifying all steps necessary for the transition and any costs associated with plan implementation, to the Governor, the President of the Senate, and the Speaker of the House of Representatives no later than January 1, 2013. The plan shall include a timeline necessary to complete full implementation by July 1, 2013. If, during implementation of this paragraph, the agency determines that these timeframes might not be achievable, the agency shall report to the Legislative Budget Commission the status of its implementation efforts, the reasons the timeframes might not be achievable, and proposals for new timeframes.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">HOSPITAL OUTPATIENT SERVICES.<EmDash />The agency shall pay for preventive, diagnostic, therapeutic, or palliative care and other services provided to a recipient in the outpatient portion of a hospital licensed under part I of chapter 395, and provided under the direction of a licensed physician or licensed dentist, except that payment for such care and services is limited to $1,500 per state fiscal year per recipient, unless an exception has been made by the agency, and with the exception of a Medicaid recipient under age 21, in which case the only limitation is medical necessity.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">INDEPENDENT LABORATORY SERVICES.<EmDash />The agency shall pay for medically necessary diagnostic laboratory procedures ordered by a licensed physician or other licensed practitioner of the healing arts which are provided for a recipient in a laboratory that meets the requirements for Medicare participation and is licensed under chapter 483, if required.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">NURSING FACILITY SERVICES.<EmDash />The agency shall pay for 24-hour-a-day nursing and rehabilitative services for a recipient in a nursing facility licensed under part II of chapter 400 or in a rural hospital, as defined in s. 395.602, or in a Medicare certified skilled nursing facility operated by a hospital, as defined by s. 395.002(10), that is licensed under part I of chapter 395, and in accordance with provisions set forth in s. 409.908(2)(a), which services are ordered by and provided under the direction of a licensed physician. However, if a nursing facility has been destroyed or otherwise made uninhabitable by natural disaster or other emergency and another nursing facility is not available, the agency must pay for similar services temporarily in a hospital licensed under part I of chapter 395 provided federal funding is approved and available. The agency shall pay only for bed-hold days if the facility has an occupancy rate of 95 percent or greater. The agency is authorized to seek any federal waivers to implement this policy.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">PHYSICIAN SERVICES.<EmDash />The agency shall pay for covered services and procedures rendered to a recipient by, or under the personal supervision of, a person licensed under state law to practice medicine or osteopathic medicine. These services may be furnished in the physician’s office, the Medicaid recipient’s home, a hospital, a nursing facility, or elsewhere, but shall be medically necessary for the treatment of an injury, illness, or disease within the scope of the practice of medicine or osteopathic medicine as defined by state law. The agency shall not pay for services that are clinically unproven, experimental, or for purely cosmetic purposes.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">PORTABLE X-RAY SERVICES.<EmDash />The agency shall pay for professional and technical portable radiological services ordered by a licensed physician or other licensed practitioner of the healing arts which are provided by a licensed professional in a setting other than a hospital, clinic, or office of a physician or practitioner of the healing arts, on behalf of a recipient.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">RURAL HEALTH CLINIC SERVICES.<EmDash />The agency shall pay for outpatient primary health care services for a recipient provided by a clinic certified by and participating in the Medicare program which is located in a federally designated, rural, medically underserved area and has on its staff one or more licensed primary care nurse practitioners or physician assistants, and a licensed staff supervising physician or a consulting supervising physician.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">TRANSPORTATION SERVICES.<EmDash />The agency shall ensure that appropriate transportation services are available for a Medicaid recipient in need of transport to a qualified Medicaid provider for medically necessary and Medicaid-compensable services, provided a client’s ability to choose a specific transportation provider shall be limited to those options resulting from policies established by the agency to meet the fiscal limitations of the General Appropriations Act. The agency may pay for transportation and other related travel expenses as necessary only if these services are not otherwise available.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 91-282; s. 32, ch. 93-129; s. 27, ch. 93-211; s. 56, ch. 94-218; s. 3, ch. 94-317; s. 3, ch. 95-393; s. 3, ch. 96-417; s. 64, ch. 97-237; s. 12, ch. 97-263; s. 40, ch. 97-264; s. 35, ch. 98-89; s. 57, ch. 2000-153; ss. 14, 29, ch. 2000-163; s. 22, ch. 2000-171; s. 51, ch. 2000-256; s. 3, ch. 2001-104; s. 1, ch. 2001-223; s. 66, ch. 2001-277; s. 18, ch. 2002-400; s. 8, ch. 2004-270; s. 1, ch. 2005-252; s. 10, ch. 2006-28; s. 80, ch. 2006-197; s. 3, ch. 2006-254; s. 136, ch. 2007-230; s. 5, ch. 2009-55; s. 11, ch. 2009-223; s. 92, ch. 2010-5; s. 5, ch. 2010-156; s. 4, ch. 2011-61; s. 9, ch. 2011-135; s. 5, ch. 2012-33.</History>
+</Section>

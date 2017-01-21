@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXVII">
+  <ChapterNumber>361</ChapterNumber>
+  <ChapterName xml:space="preserve">Public utilities: special powers</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Eminent domain rights</PartTitle>
+    <Section Number="0361.01" />
+    <Section Number="0361.02" />
+    <Section Number="0361.025" />
+    <Section Number="0361.03" />
+    <Section Number="0361.04" />
+    <Section Number="0361.05" />
+    <Section Number="0361.06" />
+    <Section Number="0361.07" />
+    <Section Number="0361.08" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Joint electric power<NewLine />supply projects</PartTitle>
+    <Section Number="0361.10" />
+    <Section Number="0361.11" />
+    <Section Number="0361.12" />
+    <Section Number="0361.13" />
+    <Section Number="0361.14" />
+    <Section Number="0361.15" />
+    <Section Number="0361.16" />
+    <Section Number="0361.17" />
+    <Section Number="0361.18" />
+  </Part>
+</Chapter>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0705.183" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disposal of derelict or abandoned aircraft on the premises of public-use airports.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Whenever any derelict or abandoned aircraft is found or located on premises owned or controlled by the operator of a public-use airport, whether or not such premises are under a lease or license to a third party, the director of the airport or the director’s designee shall make a record of the date the aircraft was found or determined to be present on the airport premises.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of this section, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Abandoned aircraft” means an aircraft that has been disposed of on a public-use airport in a wrecked, inoperative, or partially dismantled condition or an aircraft that has remained in an idle state on premises owned or controlled by the operator of a public-use airport for 45 consecutive calendar days.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Derelict aircraft” means any aircraft that is not in a flyable condition, does not have a current certificate of air worthiness issued by the Federal Aviation Administration, and is not in the process of actively being repaired.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The director or the director’s designee shall contact the Federal Aviation Administration, Aircraft Registration Branch, to determine the name and address of the last registered owner of the aircraft and shall make a diligent personal search of the appropriate records, or contact an aircraft title search company, to determine the name and address of any person having an equitable or legal interest in the aircraft. Within 10 business days after receipt of the information, the director or the director’s designee shall notify the owner and all persons having an equitable or legal interest in the aircraft by certified mail, return receipt requested, of the location of the derelict or abandoned aircraft on the airport premises, that fees and charges for the use of the airport by the aircraft have accrued and the amount thereof, that the aircraft is subject to a lien under subsection (5) for the accrued fees and charges for the use of the airport and for the transportation, storage, and removal of the aircraft, that the lien is subject to enforcement pursuant to law, and that the airport may cause the use, trade, sale, or removal of the aircraft as described in s. 705.182(2)(a), (b), (d), or (e) if, within 30 calendar days after the date of receipt of such notice, the aircraft has not been removed from the airport upon payment in full of all accrued fees and charges for the use of the airport and for the transportation, storage, and removal of the aircraft. Such notice may require removal of the aircraft in less than 30 calendar days if the aircraft poses a danger to the health or safety of users of the airport, as determined by the director or the director’s designee.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the owner of the aircraft is unknown or cannot be found, the director or the director’s designee shall cause a laminated notice to be placed upon such aircraft in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">NOTICE TO THE OWNER AND ALL PERSONS INTERESTED IN THE ATTACHED PROPERTY. This property, to wit: <Directions xml:space="preserve">(setting forth brief description)</Directions> is unlawfully upon public property known as <Directions xml:space="preserve">(setting forth brief description of location)</Directions> and has accrued fees and charges for the use of the <Directions xml:space="preserve">(same description of location as above)</Directions> and for the transportation, storage, and removal of the property. These accrued fees and charges must be paid in full and the property must be removed within 30 calendar days after the date of this notice; otherwise, the property will be removed and disposed of pursuant to chapter 705, Florida Statutes. The property is subject to a lien for all accrued fees and charges for the use of the public property known as <Directions xml:space="preserve">(same description of location as above)</Directions> by such property and for all fees and charges incurred by the public property known as <Directions xml:space="preserve">(same description of location as above)</Directions> for the transportation, storage, and removal of the property. This lien is subject to enforcement pursuant to law. The owner will be liable for such fees and charges, as well as the cost for publication of this notice. Dated this: <Directions xml:space="preserve">(setting forth the date of posting of notice)</Directions>, signed: <Directions xml:space="preserve">(setting forth name, title, address, and telephone number of law enforcement officer)</Directions>.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Such notice shall be not less than 8 inches by 10 inches and shall be sufficiently weatherproof to withstand normal exposure to the weather. If, at the end of 30 calendar days after posting the notice, the owner or any person interested in the described derelict or abandoned aircraft has not removed the aircraft from the airport upon payment in full of all accrued fees and charges for the use of the airport and for the transportation, storage, and removal of the aircraft, or shown reasonable cause for failure to do so, the director or the director’s designee may cause the use, trade, sale, or removal of the aircraft as described in s. 705.182(2)(a), (b), (d), or (e).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Such aircraft shall be removed within the time period specified in the notice provided under subsection (2) or subsection (3). If, at the end of such period of time, the owner or any person interested in the described derelict or abandoned aircraft has not removed the aircraft from the airport upon payment in full of all accrued fees and charges for the use of the airport and for the transportation, storage, and removal of the aircraft, or shown reasonable cause for the failure to do so, the director or the director’s designee may cause the use, trade, sale, or removal of the aircraft as described in s. 705.182(2)(a), (b), (d), or (e).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the airport elects to sell the aircraft in accordance with s. 705.182(2)(d), the aircraft must be sold at public auction after giving notice of the time and place of sale, at least 10 calendar days prior to the date of sale, in a publication of general circulation within the county where the airport is located and after providing written notice of the intended sale to all parties known to have an interest in the aircraft.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the airport elects to dispose of the aircraft in accordance with s. 705.182(2)(e), the airport shall be entitled to negotiate with the company for a price to be received from such company in payment for the aircraft, or, if circumstances so warrant, a price to be paid to such company by the airport for the costs of disposing of the aircraft. All information pertaining to the establishment of such price and the justification for the amount of such price shall be prepared and maintained by the airport, and such negotiated price shall be deemed to be a commercially reasonable price.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the sale price or the negotiated price is less than the airport’s then current charges and costs against the aircraft, or if the airport is required to pay the salvage company for its services, the owner of the aircraft shall remain liable to the airport for the airport’s costs that are not offset by the sale price or negotiated price, in addition to the owner’s liability for payment to the airport of the price the airport was required to pay any salvage company. All costs incurred by the airport in the removal, storage, and sale of any aircraft shall be recoverable against the owner of the aircraft.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The airport shall have a lien on a derelict or abandoned aircraft for all fees and charges for the use of the airport by such aircraft and for all fees and charges incurred by the airport for the transportation, storage, and removal of the aircraft. As a prerequisite to perfecting a lien under this section, the airport director or the director’s designee must serve a notice in accordance with subsection (2) on the last registered owner and all persons having an equitable or legal interest in the aircraft. Serving the notice does not dispense with recording the claim of lien.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the purpose of perfecting its lien under this section, the airport shall record a claim of lien which shall state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The name and address of the airport.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name of the last registered owner of the aircraft and all persons having a legal or equitable interest in the aircraft.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The fees and charges incurred by the aircraft for the use of the airport and the fees and charges for the transportation, storage, and removal of the aircraft.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A description of the aircraft sufficient for identification.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The claim of lien shall be signed and sworn to or affirmed by the airport director or the director’s designee.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The claim of lien shall be sufficient if it is in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">CLAIM OF LIEN</Text>
+				<Text xml:space="preserve" Style="Flush">State of <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule></Text>
+				<Text xml:space="preserve" Style="Flush">County of <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule></Text>
+				<Text xml:space="preserve" Style="Flush">Before me, the undersigned notary public, personally appeared <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>, who was duly sworn and says that he/she is the <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>of <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>, whose address is<HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>; and that the following described aircraft:</Text>
+				<Text xml:space="preserve" Style="Flush"><Directions xml:space="preserve">(Description of aircraft)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush">owned by <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>, whose address is <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>, has accrued $<HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule> in fees and charges for the use by the aircraft of <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule> and for the transportation, storage, and removal of the aircraft from <HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>; that the lienor served its notice to the last registered owner and all persons having a legal or equitable interest in the aircraft on <HorizontalRule Type="Fixed"></HorizontalRule>, <Directions xml:space="preserve">(year)</Directions>, by<HorizontalRule Type="Fixed"></HorizontalRule><HorizontalRule Type="Fixed"></HorizontalRule>.</Text>
+				<Text xml:space="preserve" Style="Flush"><Directions xml:space="preserve">(Signature)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush">Sworn to (or affirmed) and subscribed before me this <HorizontalRule Type="Fixed"></HorizontalRule> day of <HorizontalRule Type="Fixed"></HorizontalRule>, <Directions xml:space="preserve">(year)</Directions>, by <Directions xml:space="preserve">(name of person making statement)</Directions>.</Text>
+				<Text xml:space="preserve" Style="Flush"><Directions xml:space="preserve">(Signature of Notary Public)</Directions><Directions xml:space="preserve">(Print, Type, or Stamp Commissioned name of Notary Public)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush">Personally Known<HorizontalRule Type="Fixed"></HorizontalRule>OR Produced<HorizontalRule Type="Fixed"></HorizontalRule>as identification.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">However, the negligent inclusion or omission of any information in this claim of lien which does not prejudice the last registered owner does not constitute a default that operates to defeat an otherwise valid lien.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The claim of lien shall be served on the last registered owner of the aircraft and all persons having an equitable or legal interest in the aircraft. The claim of lien shall be so served before recordation.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The claim of lien shall be recorded with the clerk of court in the county where the airport is located. The recording of the claim of lien shall be constructive notice to all persons of the contents and effect of such claim. The lien shall attach at the time of recordation and shall take priority as of that time.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A purchaser or recipient in good faith of an aircraft sold or obtained under this section takes the property free of the rights of persons then holding any legal or equitable interest to the aircraft, whether or not recorded. The purchaser or recipient is required to notify the appropriate Federal Aviation Administration office of such change in the registered owner of the aircraft.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">If the aircraft is sold at public sale, the airport shall deduct from the proceeds of sale the costs of transportation, storage, publication of notice, and all other costs reasonably incurred by the airport, and any balance of the proceeds shall be deposited into an interest-bearing account not later than 30 calendar days after the airport’s receipt of the proceeds and held there for 1 year. The rightful owner of the aircraft may claim the balance of the proceeds within 1 year after the date of the deposit by making application to the airport and presenting acceptable written evidence of ownership to the airport’s director or the director’s designee. If no rightful owner claims the proceeds within the 1-year period, the balance of the proceeds shall be retained by the airport to be used in any manner authorized by law.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any person acquiring a legal interest in an aircraft that is sold by an airport under this section or s. 705.182 shall be the lawful owner of such aircraft and all other legal or equitable interests in such aircraft shall be divested and of no further force and effect, provided that the holder of any such legal or equitable interests was notified of the intended disposal of the aircraft to the extent required in this section. The airport may issue documents of disposition to the purchaser or recipient of an aircraft disposed of under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 46, ch. 2010-225.</History>
+</Section>

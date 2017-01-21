@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6021" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Procedure to register order for enforcement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A support order or income-withholding order of another state may be registered in this state by sending the following documents and information to the appropriate tribunal in this state:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A letter of transmittal to the tribunal requesting registration and enforcement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Two copies, including one certified copy, of all orders to be registered, including any modification of an order.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A sworn statement by the party seeking registration or a certified statement by the custodian of the records showing the amount of any arrearage.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The name of the obligor and, if known:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The obligor’s address and social security number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name and address of the obligor’s employer and any other source of income of the obligor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A description and the location of property of the obligor in this state not exempt from execution.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The name and address of the obligee and, if applicable, the agency or person to whom support payments are to be remitted.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">On receipt of a request for registration, the registering tribunal shall cause the order to be filed as a foreign judgment, together with one copy of the documents and information, regardless of their form.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A petition or comparable pleading seeking a remedy that must be affirmatively sought under other law of this state may be filed at the same time as the request for registration or later. The pleading must specify the grounds for the remedy sought.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 96-189; s. 45, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 45, ch. 2011-92, amended s. 88.6021, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.6021 Procedure to register order for enforcement.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) Except as otherwise provided in s. 88.7061, a support order or income-withholding order of another state or a foreign support order may be registered in this state by sending the following records to the appropriate tribunal in this state:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) A letter of transmittal to the tribunal requesting registration and enforcement.</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Two copies, including one certified copy, of the order to be registered, including any modification of the order.</Text>
+		<Text xml:space="preserve" Style="Indent">(c) A sworn statement by the person requesting registration or a certified statement by the custodian of the records showing the amount of any arrearage.</Text>
+		<Text xml:space="preserve" Style="Indent">(d) The name of the obligor and, if known:</Text>
+		<Text xml:space="preserve" Style="Indent">1. The obligor’s address and social security number.</Text>
+		<Text xml:space="preserve" Style="Indent">2. The name and address of the obligor’s employer and any other source of income of the obligor.</Text>
+		<Text xml:space="preserve" Style="Indent">3. A description and the location of property of the obligor in this state not exempt from execution.</Text>
+		<Text xml:space="preserve" Style="Indent">(e) Except as otherwise provided in s. 88.3121, the name and address of the obligee and, if applicable, the person to whom support payments are to be remitted.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) On receipt of a request for registration, the registering tribunal shall cause the order to be filed as an order of a tribunal of another state or a foreign support order, together with one copy of the documents and information, regardless of their form.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) A petition or comparable pleading seeking a remedy that must be affirmatively sought under other law of this state may be filed at the same time as the request for registration or later. The pleading must specify the grounds for the remedy sought.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) If two or more orders are in effect, the person requesting registration shall:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) Furnish to the tribunal a copy of every support order asserted to be in effect in addition to the documents specified in this section;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) Specify the order alleged to be the controlling order, if any; and</Text>
+		<Text xml:space="preserve" Style="Indent">(c) Specify the amount of consolidated arrears, if any.</Text>
+		<Text xml:space="preserve" Style="Indent">(5) A request for a determination of which is the controlling order may be filed separately or with a request for registration and enforcement or for registration and modification. The person requesting registration shall give notice of the request to each party whose rights may be affected by the determination.</Text>
+	</Note>
+</Section>

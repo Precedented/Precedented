@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.906" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Optional Medicaid services.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Subject to specific appropriations, the agency may make payments for services which are optional to the state under Title XIX of the Social Security Act and are furnished by Medicaid providers to recipients who are determined to be eligible on the dates on which the services were provided. Any optional service that is provided shall be provided only when medically necessary and in accordance with state and federal law. Optional services rendered by providers in mobile units to Medicaid recipients may be restricted or prohibited by the agency. Nothing in this section shall be construed to prevent or limit the agency from adjusting fees, reimbursement rates, lengths of stay, number of visits, or number of services, or making any other adjustments necessary to comply with the availability of moneys and any limitations or directions provided for in the General Appropriations Act or chapter 216. If necessary to safeguard the state’s systems of providing services to elderly and disabled persons and subject to the notice and review provisions of s. 216.177, the Governor may direct the Agency for Health Care Administration to amend the Medicaid state plan to delete the optional Medicaid service known as “Intermediate Care Facilities for the Developmentally Disabled.” Optional services may include:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ADULT DENTAL SERVICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may pay for medically necessary, emergency dental procedures to alleviate pain or infection. Emergency dental care shall be limited to emergency oral examinations, necessary radiographs, extractions, and incision and drainage of abscess, for a recipient who is 21 years of age or older.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning July 1, 2006, the agency may pay for full or partial dentures, the procedures required to seat full or partial dentures, and the repair and reline of full or partial dentures, provided by or under the direction of a licensed dentist, for a recipient who is 21 years of age or older.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">However, Medicaid will not provide reimbursement for dental services provided in a mobile dental unit, except for a mobile dental unit:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual agreement with the Department of Health and complying with Medicaid’s county health department clinic services program specifications as a county health department clinic services provider.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual arrangement with a federally qualified health center and complying with Medicaid’s federally qualified health center specifications as a federally qualified health center provider.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Rendering dental services to Medicaid recipients, 21 years of age and older, at nursing facilities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual agreement with a state-approved dental educational institution.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ADULT HEALTH SCREENING SERVICES.<EmDash />The agency may pay for an annual routine physical examination, conducted by or under the direction of a licensed physician, for a recipient age 21 or older, without regard to medical necessity, in order to detect and prevent disease, disability, or other health condition or its progression.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">AMBULATORY SURGICAL CENTER SERVICES.<EmDash />The agency may pay for services provided to a recipient in an ambulatory surgical center licensed under part I of chapter 395, by or under the direction of a licensed physician or dentist.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">BIRTH CENTER SERVICES.<EmDash />The agency may pay for examinations and delivery, recovery, and newborn assessment, and related services, provided in a licensed birth center staffed with licensed physicians, certified nurse midwives, and midwives licensed in accordance with chapter 467, to a recipient expected to experience a low-risk pregnancy and delivery.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">CASE MANAGEMENT SERVICES.<EmDash />The agency may pay for primary care case management services rendered to a recipient pursuant to a federally approved waiver, and targeted case management services for specific groups of targeted recipients, for which funding has been provided and which are rendered pursuant to federal guidelines. The agency is authorized to limit reimbursement for targeted case management services in order to comply with any limitations or directions provided for in the General Appropriations Act.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">CHILDREN’S DENTAL SERVICES.<EmDash />The agency may pay for diagnostic, preventive, or corrective procedures, including orthodontia in severe cases, provided to a recipient under age 21, by or under the supervision of a licensed dentist. Services provided under this program include treatment of the teeth and associated structures of the oral cavity, as well as treatment of disease, injury, or impairment that may affect the oral or general health of the individual. However, Medicaid will not provide reimbursement for dental services provided in a mobile dental unit, except for a mobile dental unit:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual agreement with the Department of Health and complying with Medicaid’s county health department clinic services program specifications as a county health department clinic services provider.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual arrangement with a federally qualified health center and complying with Medicaid’s federally qualified health center specifications as a federally qualified health center provider.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Rendering dental services to Medicaid recipients, 21 years of age and older, at nursing facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Owned by, operated by, or having a contractual agreement with a state-approved dental educational institution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">CHIROPRACTIC SERVICES.<EmDash />The agency may pay for manual manipulation of the spine and initial services, screening, and X rays provided to a recipient by a licensed chiropractic physician.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">COMMUNITY MENTAL HEALTH SERVICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may pay for rehabilitative services provided to a recipient by a mental health or substance abuse provider under contract with the agency or the Department of Children and Family Services to provide such services. Those services which are psychiatric in nature shall be rendered or recommended by a psychiatrist, and those services which are medical in nature shall be rendered or recommended by a physician or psychiatrist. The agency must develop a provider enrollment process for community mental health providers which bases provider enrollment on an assessment of service need. The provider enrollment process shall be designed to control costs, prevent fraud and abuse, consider provider expertise and capacity, and assess provider success in managing utilization of care and measuring treatment outcomes. Providers will be selected through a competitive procurement or selective contracting process. In addition to other community mental health providers, the agency shall consider for enrollment mental health programs licensed under chapter 395 and group practices licensed under chapter 458, chapter 459, chapter 490, or chapter 491. The agency is also authorized to continue operation of its behavioral health utilization management program and may develop new services if these actions are necessary to ensure savings from the implementation of the utilization management system. The agency shall coordinate the implementation of this enrollment process with the Department of Children and Family Services and the Department of Juvenile Justice. The agency is authorized to utilize diagnostic criteria in setting reimbursement rates, to preauthorize certain high-cost or highly utilized services, to limit or eliminate coverage for certain services, or to make any other adjustments necessary to comply with any limitations or directions provided for in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency is authorized to implement reimbursement and use management reforms in order to comply with any limitations or directions in the General Appropriations Act, which may include, but are not limited to: prior authorization of treatment and service plans; prior authorization of services; enhanced use review programs for highly used services; and limits on services for those determined to be abusing their benefit coverages.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">DIALYSIS FACILITY SERVICES.<EmDash />Subject to specific appropriations being provided for this purpose, the agency may pay a dialysis facility that is approved as a dialysis facility in accordance with Title XVIII of the Social Security Act, for dialysis services that are provided to a Medicaid recipient under the direction of a physician licensed to practice medicine or osteopathic medicine in this state, including dialysis services provided in the recipient’s home by a hospital-based or freestanding dialysis facility.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">DURABLE MEDICAL EQUIPMENT.<EmDash />The agency may authorize and pay for certain durable medical equipment and supplies provided to a Medicaid recipient as medically necessary.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">HEALTHY START SERVICES.<EmDash />The agency may pay for a continuum of risk-appropriate medical and psychosocial services for the Healthy Start program in accordance with a federal waiver. The agency may not implement the federal waiver unless the waiver permits the state to limit enrollment or the amount, duration, and scope of services to ensure that expenditures will not exceed funds appropriated by the Legislature or available from local sources. If the Health Care Financing Administration does not approve a federal waiver for Healthy Start services, the agency, in consultation with the Department of Health and the Florida Association of Healthy Start Coalitions, is authorized to establish a Medicaid certified-match program for Healthy Start services. Participation in the Healthy Start certified-match program shall be voluntary, and reimbursement shall be limited to the federal Medicaid share to Medicaid-enrolled Healthy Start coalitions for services provided to Medicaid recipients. The agency shall take no action to implement a certified-match program without ensuring that the amendment and review requirements of ss. 216.177 and 216.181 have been met.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">HEARING SERVICES.<EmDash />The agency may pay for hearing and related services, including hearing evaluations, hearing aid devices, dispensing of the hearing aid, and related repairs, if provided to a recipient by a licensed hearing aid specialist, otolaryngologist, otologist, audiologist, or physician.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">HOME AND COMMUNITY-BASED SERVICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The agency may pay for home-based or community-based services that are rendered to a recipient in accordance with a federally approved waiver program. The agency may limit or eliminate coverage for certain services, preauthorize high-cost or highly utilized services, or make any other adjustments necessary to comply with any limitations or directions provided for in the General Appropriations Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency may consolidate types of services offered in the Aged and Disabled Waiver, the Channeling Waiver, the Project AIDS Care Waiver, and the Traumatic Brain and Spinal Cord Injury Waiver programs in order to group similar services under a single service, or continue a service upon evidence of the need for including a particular service type in a particular waiver. The agency is authorized to seek a Medicaid state plan amendment or federal waiver approval to implement this policy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency may implement a utilization management program designed to prior-authorize home and community-based service plans and includes, but is not limited to, assessing proposed quantity and duration of services and monitoring ongoing service use by participants in the program. The agency is authorized to competitively procure a qualified organization to provide utilization management of home and community-based services. The agency is authorized to seek any federal waivers to implement this initiative.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The agency shall request federal approval to develop a system to require payment of premiums or other cost sharing by the parents of a child who is being served by a waiver under this subsection if the adjusted household income is greater than 100 percent of the federal poverty level. The amount of the premium or cost sharing shall be calculated using a sliding scale based on the size of the family, the amount of the parent’s adjusted gross income, and the federal poverty guidelines. The premium and cost-sharing system developed by the agency shall not adversely affect federal funding to the state. After the agency receives federal approval, the Department of Children and Family Services may collect income information from parents of children who will be affected by this paragraph. The agency shall prepare a report to include the estimated operational cost of implementing the premium and cost-sharing system and the estimated revenues to be collected from parents of children in the waiver program. The report shall be delivered to the President of the Senate and the Speaker of the House of Representatives by June 30, 2012.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">HOSPICE CARE SERVICES.<EmDash />The agency may pay for all reasonable and necessary services for the palliation or management of a recipient’s terminal illness, if the services are provided by a hospice that is licensed under part IV of chapter 400 and meets Medicare certification requirements.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">INTERMEDIATE CARE FACILITY FOR THE DEVELOPMENTALLY DISABLED SERVICES.<EmDash />The agency may pay for health-related care and services provided on a 24-hour-a-day basis by a facility licensed and certified as a Medicaid Intermediate Care Facility for the Developmentally Disabled, for a recipient who needs such care because of a developmental disability. Payment shall not include bed-hold days except in facilities with occupancy rates of 95 percent or greater. The agency is authorized to seek any federal waiver approvals to implement this policy.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">INTERMEDIATE CARE SERVICES.<EmDash />The agency may pay for 24-hour-a-day intermediate care nursing and rehabilitation services rendered to a recipient in a nursing facility licensed under part II of chapter 400, if the services are ordered by and provided under the direction of a physician.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">OPTOMETRIC SERVICES.<EmDash />The agency may pay for services provided to a recipient, including examination, diagnosis, treatment, and management, related to ocular pathology, if the services are provided by a licensed optometrist or physician.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">PHYSICIAN ASSISTANT SERVICES.<EmDash />The agency may pay for all services provided to a recipient by a physician assistant licensed under s. 458.347 or s. 459.022. Reimbursement for such services must be not less than 80 percent of the reimbursement that would be paid to a physician who provided the same services.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">PODIATRIC SERVICES.<EmDash />The agency may pay for services, including diagnosis and medical, surgical, palliative, and mechanical treatment, related to ailments of the human foot and lower leg, if provided to a recipient by a podiatric physician licensed under state law.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">PRESCRIBED DRUG SERVICES.<EmDash />The agency may pay for medications that are prescribed for a recipient by a physician or other licensed practitioner of the healing arts authorized to prescribe medications and that are dispensed to the recipient by a licensed pharmacist or physician in accordance with applicable state and federal law.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">REGISTERED NURSE FIRST ASSISTANT SERVICES.<EmDash />The agency may pay for all services provided to a recipient by a registered nurse first assistant as described in s. 464.027. Reimbursement for such services may not be less than 80 percent of the reimbursement that would be paid to a physician providing the same services.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">STATE HOSPITAL SERVICES.<EmDash />The agency may pay for all-inclusive psychiatric inpatient hospital care provided to a recipient age 65 or older in a state mental hospital.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">VISUAL SERVICES.<EmDash />The agency may pay for visual examinations, eyeglasses, and eyeglass repairs for a recipient if they are prescribed by a licensed physician specializing in diseases of the eye or by a licensed optometrist. Eyeglass frames for adult recipients shall be limited to one pair per recipient every 2 years, except a second pair may be provided during that period after prior authorization. Eyeglass lenses for adult recipients shall be limited to one pair per year except a second pair may be provided during that period after prior authorization.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">CHILD-WELFARE-TARGETED CASE MANAGEMENT.<EmDash />The Agency for Health Care Administration, in consultation with the Department of Children and Family Services, may establish a targeted case-management project in those counties identified by the Department of Children and Family Services and for all counties with a community-based child welfare project, as authorized under s. 409.1671, which have been specifically approved by the department. The covered group of individuals who are eligible to receive targeted case management include children who are eligible for Medicaid; who are between the ages of birth through 21; and who are under protective supervision or postplacement supervision, under foster-care supervision, or in shelter care or foster care. The number of individuals who are eligible to receive targeted case management is limited to the number for whom the Department of Children and Family Services has matching funds to cover the costs. The general revenue funds required to match the funds for services provided by the community-based child welfare projects are limited to funds available for services described under s. 409.1671. The Department of Children and Family Services may transfer the general revenue matching funds as billed by the Agency for Health Care Administration.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">ASSISTIVE-CARE SERVICES.<EmDash />The agency may pay for assistive-care services provided to recipients with functional or cognitive impairments residing in assisted living facilities, adult family-care homes, or residential treatment facilities. These services may include health support, assistance with the activities of daily living and the instrumental acts of daily living, assistance with medication administration, and arrangements for health care.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">HOME AND COMMUNITY-BASED SERVICES FOR AUTISM SPECTRUM DISORDER AND OTHER DEVELOPMENTAL DISABILITIES.<EmDash />The agency is authorized to seek federal approval through a Medicaid waiver or a state plan amendment for the provision of occupational therapy, speech therapy, physical therapy, behavior analysis, and behavior assistant services to individuals who are 5 years of age and under and have a diagnosed developmental disability as defined in s. 393.063, autism spectrum disorder as defined in s. 627.6686, or Down syndrome, a genetic disorder caused by the presence of extra chromosomal material on chromosome 21. Causes of the syndrome may include Trisomy 21, Mosaicism, Robertsonian Translocation, and other duplications of a portion of chromosome 21. Coverage for such services shall be limited to $36,000 annually and may not exceed $108,000 in total lifetime benefits. The agency shall submit an annual report beginning on January 1, 2009, to the President of the Senate, the Speaker of the House of Representatives, and the relevant committees of the Senate and the House of Representatives regarding progress on obtaining federal approval and recommendations for the implementation of these home and community-based services. The agency may not implement this subsection without prior legislative approval.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">ANESTHESIOLOGIST ASSISTANT SERVICES.<EmDash />The agency may pay for all services provided to a recipient by an anesthesiologist assistant licensed under s. 458.3475 or s. 459.023. Reimbursement for such services must be not less than 80 percent of the reimbursement that would be paid to a physician who provided the same services.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 35, ch. 91-282; s. 1, ch. 94-299; s. 1, ch. 95-291; s. 4, ch. 95-393; s. 4, ch. 96-417; s. 42, ch. 97-98; s. 12, ch. 97-260; s. 17, ch. 97-263; s. 185, ch. 98-166; s. 52, ch. 98-288; s. 7, ch. 99-144; s. 3, ch. 99-206; s. 66, ch. 99-397; s. 15, ch. 2000-163; s. 52, ch. 2000-256; s. 4, ch. 2001-104; s. 2, ch. 2001-223; s. 67, ch. 2001-277; ss. 3, 4, ch. 2001-377; s. 68, ch. 2002-1; s. 7, ch. 2002-219; s. 19, ch. 2002-400; s. 9, ch. 2003-405; s. 85, ch. 2004-267; s. 9, ch. 2004-270; s. 6, ch. 2005-60; s. 51, ch. 2005-152; s. 11, ch. 2006-28; s. 81, ch. 2006-197; s. 1, ch. 2008-30; s. 4, ch. 2008-143; s. 6, ch. 2009-55; s. 126, ch. 2010-102; s. 10, ch. 2011-135.</History>
+</Section>

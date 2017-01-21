@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0028.24" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Service charges by clerk of the circuit court.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall charge for services rendered by the clerk’s office in recording documents and instruments and in performing the duties enumerated in amounts not to exceed those specified in this section. Notwithstanding any other provision of this section, the clerk of the circuit court shall provide without charge to the state attorney, public defender, guardian ad litem, public guardian, attorney ad litem, criminal conflict and civil regional counsel, and private court-appointed counsel paid by the state, and to the authorized staff acting on behalf of each, access to and a copy of any public record, if the requesting party is entitled by law to view the exempt or confidential record, as maintained by and in the custody of the clerk of the circuit court as provided in general law and the Florida Rules of Judicial Administration. The clerk of the circuit court may provide the requested public record in an electronic format in lieu of a paper format when capable of being accessed by the requesting entity.</Text>
+		<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true" SpaceBelow="true">Charges</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For examining, comparing, correcting, verifying, and certifying transcripts of record in appellate proceedings, prepared by attorney for appellant or someone else other than clerk, per page<FlushRight Fill="Dot" />5.00</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For preparing, numbering, and indexing an original record of appellate proceedings, per instrument<FlushRight Fill="Dot" />3.50</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For certifying copies of any instrument in the public records<FlushRight Fill="Dot" />2.00</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For verifying any instrument presented for certification prepared by someone other than clerk, per page<FlushRight Fill="Dot" />3.50</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For making copies by photographic process of any instrument in the public records consisting of pages of not more than 14 inches by 8<Fraction>1/2</Fraction> inches, per page<FlushRight Fill="Dot" />1.00</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For making copies by photographic process of any instrument in the public records of more than 14 inches by 8<Fraction>1/2</Fraction> inches, per page<FlushRight Fill="Dot" />5.00</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">For making microfilm copies of any public records:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">16 mm 100′ microfilm roll<FlushRight Fill="Dot" />42.00</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">35 mm 100′ microfilm roll<FlushRight Fill="Dot" />60.00</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Microfiche, per fiche<FlushRight Fill="Dot" />3.50</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">For copying any instrument in the public records by other than photographic process, per page<FlushRight Fill="Dot" />6.00</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">For writing any paper other than herein specifically mentioned, same as for copying, including signing and sealing<FlushRight Fill="Dot" />7.00</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">For indexing each entry not recorded<FlushRight Fill="Dot" />1.00</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">For receiving money into the registry of court:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">First $500, percent<FlushRight Fill="Dot" />3</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each subsequent $100, percent<FlushRight Fill="Dot" />1.5</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Eminent domain actions, per deposit<FlushRight Fill="Dot" />170.00</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">For examining, certifying, and recording plats and for recording condominium exhibits larger than 14 inches by 8<Fraction>1/2</Fraction> inches:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">First page<FlushRight Fill="Dot" />30.00</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each additional page<FlushRight Fill="Dot" />15.00</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">For recording, indexing, and filing any instrument not more than 14 inches by 8<Fraction>1/2</Fraction> inches, including required notice to property appraiser where applicable:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">First page or fraction thereof<FlushRight Fill="Dot" />5.00</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each additional page or fraction thereof<FlushRight Fill="Dot" />4.00</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For indexing instruments recorded in the official records which contain more than four names, per additional name<FlushRight Fill="Dot" />1.00</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An additional service charge shall be paid to the clerk of the circuit court to be deposited in the Public Records Modernization Trust Fund for each instrument listed in s. 28.222, except judgments received from the courts and notices of lis pendens, recorded in the official records:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">First page<FlushRight Fill="Dot" />1.00</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each additional page<FlushRight Fill="Dot" />0.50</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Said fund shall be held in trust by the clerk and used exclusively for equipment and maintenance of equipment, personnel training, and technical assistance in modernizing the public records system of the office. In a county where the duty of maintaining official records exists in an office other than the office of the clerk of the circuit court, the clerk of the circuit court is entitled to 25 percent of the moneys deposited into the trust fund for equipment, maintenance of equipment, training, and technical assistance in modernizing the system for storing records in the office of the clerk of the circuit court. The fund may not be used for the payment of travel expenses, membership dues, bank charges, staff-recruitment costs, salaries or benefits of employees, construction costs, general operating expenses, or other costs not directly related to obtaining and maintaining equipment for public records systems or for the purchase of furniture or office supplies and equipment not related to the storage of records. On or before December 1, 1995, and on or before December 1 of each year immediately preceding each year during which the trust fund is scheduled for legislative review under s. 19(f)(2), Art. III of the State Constitution, each clerk of the circuit court shall file a report on the Public Records Modernization Trust Fund with the President of the Senate and the Speaker of the House of Representatives. The report must itemize each expenditure made from the trust fund since the last report was filed; each obligation payable from the trust fund on that date; and the percentage of funds expended for each of the following: equipment, maintenance of equipment, personnel training, and technical assistance. The report must indicate the nature of the system each clerk uses to store, maintain, and retrieve public records and the degree to which the system has been upgraded since the creation of the trust fund.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An additional service charge of $4 per page shall be paid to the clerk of the circuit court for each instrument listed in s. 28.222, except judgments received from the courts and notices of lis pendens, recorded in the official records. From the additional $4 service charge collected:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the counties maintain legal responsibility for the costs of the court-related technology needs as defined in s. 29.008(1)(f)2. and (h), 10 cents shall be distributed to the Florida Association of Court Clerks and Comptrollers, Inc., for the cost of development, implementation, operation, and maintenance of the clerks’ Comprehensive Case Information System; $1.90 shall be retained by the clerk to be deposited in the Public Records Modernization Trust Fund and used exclusively for funding court-related technology needs of the clerk as defined in s. 29.008(1)(f)2. and (h); and $2 shall be distributed to the board of county commissioners to be used exclusively to fund court-related technology, and court technology needs as defined in s. 29.008(1)(f)2. and (h) for the state trial courts, state attorney, public defender, and criminal conflict and civil regional counsel in that county. If the counties maintain legal responsibility for the costs of the court-related technology needs as defined in s. 29.008(1)(f)2. and (h), notwithstanding any other provision of law, the county is not required to provide additional funding beyond that provided herein for the court-related technology needs of the clerk as defined in s. 29.008(1)(f)2. and (h). All court records and official records are the property of the State of Florida, including any records generated as part of the Comprehensive Case Information System funded pursuant to this paragraph and the clerk of court is designated as the custodian of such records, except in a county where the duty of maintaining official records exists in a county office other than the clerk of court or comptroller, such county office is designated the custodian of all official records, and the clerk of court is designated the custodian of all court records. The clerk of court or any entity acting on behalf of the clerk of court, including an association, shall not charge a fee to any agency as defined in s. 119.011, the Legislature, or the State Court System for copies of records generated by the Comprehensive Case Information System or held by the clerk of court or any entity acting on behalf of the clerk of court, including an association.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the state becomes legally responsible for the costs of court-related technology needs as defined in s. 29.008(1)(f)2. and (h), whether by operation of general law or by court order, $4 shall be remitted to the Department of Revenue for deposit into the General Revenue Fund.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">Oath, administering, attesting, and sealing, not otherwise provided for herein<FlushRight Fill="Dot" />3.50</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">For validating certificates, any authorized bonds, each<FlushRight Fill="Dot" />3.50</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">For preparing affidavit of domicile<FlushRight Fill="Dot" />5.00</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">For exemplified certificates, including signing and sealing<FlushRight Fill="Dot" />7.00</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">For authenticated certificates, including signing and sealing<FlushRight Fill="Dot" />7.00</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For issuing and filing a subpoena for a witness, not otherwise provided for herein (includes writing, preparing, signing, and sealing)<FlushRight Fill="Dot" />7.00</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For signing and sealing only<FlushRight Fill="Dot" />2.00</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">For approving bond<FlushRight Fill="Dot" />8.50</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">For searching of records, for each year’s search<FlushRight Fill="Dot" />2.00</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">For processing an application for a tax deed sale (includes application, sale, issuance, and preparation of tax deed, and disbursement of proceeds of sale), other than excess proceeds<FlushRight Fill="Dot" />60.00</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">For disbursement of excess proceeds of tax deed sale, first $100 or fraction thereof<FlushRight Fill="Dot" />10.00</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">Upon receipt of an application for a marriage license, for preparing and administering of oath; issuing, sealing, and recording of the marriage license; and providing a certified copy<FlushRight Fill="Dot" />30.00</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">For solemnizing matrimony<FlushRight Fill="Dot" />30.00</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">For sealing any court file or expungement of any record<FlushRight Fill="Dot" />42.00</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For receiving and disbursing all restitution payments, per payment<FlushRight Fill="Dot" />3.50</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For receiving and disbursing all partial payments, other than restitution payments, for which an administrative processing service charge is not imposed pursuant to s. 28.246, per month<FlushRight Fill="Dot" />5.00</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For setting up a payment plan, a one-time administrative processing charge in lieu of a per month charge under paragraph (b)<FlushRight Fill="Dot" />25.00</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">Postal charges incurred by the clerk of the circuit court in any mailing by certified or registered mail shall be paid by the party at whose instance the mailing is made.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">For furnishing an electronic copy of information contained in a computer database: a fee as provided for in chapter 119.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 3106, 1879; RS 1394; GS 1839; RGS 3084; ss. 1, 2, ch. 11893, 1927; CGL 4867; s. 2, ch. 29749, 1955; s. 1, ch. 63-45; s. 5, ch. 70-134; s. 1, ch. 77-284; s. 1, ch. 78-367; s. 1, ch. 79-266; s. 12, ch. 79-400; s. 1, ch. 82-205; s. 35, ch. 85-180; s. 2, ch. 85-249; s. 22, ch. 87-95; s. 2, ch. 87-145; s. 1, ch. 88-176; s. 1, ch. 92-200; ss. 5, 13, ch. 94-348; s. 5, ch. 95-214; s. 2, ch. 2000-144; s. 90, ch. 2003-261; s. 28, ch. 2003-402; s. 16, ch. 2004-265; s. 6, ch. 2005-236; s. 14, ch. 2007-62; s. 6, ch. 2008-111; s. 2, ch. 2012-100.</History>
+</Section>

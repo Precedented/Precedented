@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.809" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Background screening; prohibited offenses.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Level 2 background screening pursuant to chapter 435 must be conducted through the agency on each of the following persons, who are considered employees for the purposes of conducting screening under chapter 435:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The licensee, if an individual.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The administrator or a similarly titled person who is responsible for the day-to-day operation of the provider.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The financial officer or similarly titled individual who is responsible for the financial operation of the licensee or provider.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person who is a controlling interest if the agency has reason to believe that such person has been convicted of any offense prohibited by s. 435.04. For each controlling interest who has been convicted of any such offense, the licensee shall submit to the agency a description and explanation of the conviction at the time of license application.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any person, as required by authorizing statutes, seeking employment with a licensee or provider who is expected to, or whose responsibilities may require him or her to, provide personal care or services directly to clients or have access to client funds, personal property, or living areas; and any person, as required by authorizing statutes, contracting with a licensee or provider whose responsibilities require him or her to provide personal care or personal services directly to clients. Evidence of contractor screening may be retained by the contractor’s employer or the licensee.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Every 5 years following his or her licensure, employment, or entry into a contract in a capacity that under subsection (1) would require level 2 background screening under chapter 435, each such person must submit to level 2 background rescreening as a condition of retaining such license or continuing in such employment or contractual status. For any such rescreening, the agency shall request the Department of Law Enforcement to forward the person’s fingerprints to the Federal Bureau of Investigation for a national criminal history record check. If the fingerprints of such a person are not retained by the Department of Law Enforcement under s. 943.05(2)(g), the person must file a complete set of fingerprints with the agency and the agency shall forward the fingerprints to the Department of Law Enforcement for state processing, and the Department of Law Enforcement shall forward the fingerprints to the Federal Bureau of Investigation for a national criminal history record check. The fingerprints may be retained by the Department of Law Enforcement under s. 943.05(2)(g). The cost of the state and national criminal history records checks required by level 2 screening may be borne by the licensee or the person fingerprinted. Until the person’s background screening results are retained in the clearinghouse created under s. 435.12, the agency may accept as satisfying the requirements of this section proof of compliance with level 2 screening standards submitted within the previous 5 years to meet any provider or professional licensure requirements of the agency, the Department of Health, the Department of Elderly Affairs, the Agency for Persons with Disabilities, the Department of Children and Family Services, or the Department of Financial Services for an applicant for a certificate of authority or provisional certificate of authority to operate a continuing care retirement community under chapter 651, provided that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The screening standards and disqualifying offenses for the prior screening are equivalent to those specified in s. 435.04 and this section;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The person subject to screening has not had a break in service from a position that requires level 2 screening for more than 90 days; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Such proof is accompanied, under penalty of perjury, by an affidavit of compliance with the provisions of chapter 435 and this section using forms provided by the agency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">All fingerprints must be provided in electronic format. Screening results shall be reviewed by the agency with respect to the offenses specified in s. 435.04 and this section, and the qualifying or disqualifying status of the person named in the request shall be maintained in a database. The qualifying or disqualifying status of the person named in the request shall be posted on a secure website for retrieval by the licensee or designated agent on the licensee’s behalf.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In addition to the offenses listed in s. 435.04, all persons required to undergo background screening pursuant to this part or authorizing statutes must not have an arrest awaiting final disposition for, must not have been found guilty of, regardless of adjudication, or entered a plea of nolo contendere or guilty to, and must not have been adjudicated delinquent and the record not have been sealed or expunged for any of the following offenses or any similar offense of another jurisdiction:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any authorizing statutes, if the offense was a felony.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">This chapter, if the offense was a felony.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Section 409.920, relating to Medicaid provider fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Section 409.9201, relating to Medicaid fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Section 741.28, relating to domestic violence.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Section 817.034, relating to fraudulent acts through mail, wire, radio, electromagnetic, photoelectronic, or photooptical systems.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Section 817.234, relating to false and fraudulent insurance claims.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Section 817.505, relating to patient brokering.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Section 817.568, relating to criminal use of personal identification information.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Section 817.60, relating to obtaining a credit card through fraudulent means.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Section 817.61, relating to fraudulent use of credit cards, if the offense was a felony.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Section 831.01, relating to forgery.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Section 831.02, relating to uttering forged instruments.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Section 831.07, relating to forging bank bills, checks, drafts, or promissory notes.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Section 831.09, relating to uttering forged bank bills, checks, drafts, or promissory notes.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Section 831.30, relating to fraud in obtaining medicinal drugs.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">Section 831.31, relating to the sale, manufacture, delivery, or possession with the intent to sell, manufacture, or deliver any counterfeit controlled substance, if the offense was a felony.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A person who serves as a controlling interest of, is employed by, or contracts with a licensee on July 31, 2010, who has been screened and qualified according to standards specified in s. 435.03 or s. 435.04 must be rescreened by July 31, 2015, in compliance with the following schedule. If, upon rescreening, such person has a disqualifying offense that was not a disqualifying offense at the time of the last screening, but is a current disqualifying offense and was committed before the last screening, he or she may apply for an exemption from the appropriate licensing agency and, if agreed to by the employer, may continue to perform his or her duties until the licensing agency renders a decision on the application for exemption if the person is eligible to apply for an exemption and the exemption request is received by the agency within 30 days after receipt of the rescreening results by the person. The rescreening schedule shall be:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Individuals for whom the last screening was conducted on or before December 31, 2004, must be rescreened by July 31, 2013.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Individuals for whom the last screening conducted was between January 1, 2005, and December 31, 2008, must be rescreened by July 31, 2014.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Individuals for whom the last screening conducted was between January 1, 2009, through July 31, 2011, must be rescreened by July 31, 2015.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The costs associated with obtaining the required screening must be borne by the licensee or the person subject to screening. Licensees may reimburse persons for these costs. The Department of Law Enforcement shall charge the agency for screening pursuant to s. 943.053(3). The agency shall establish a schedule of fees to cover the costs of screening.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As provided in chapter 435, the agency may grant an exemption from disqualification to a person who is subject to this section and who:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Does not have an active professional license or certification from the Department of Health; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has an active professional license or certification from the Department of Health but is not providing a service within the scope of that license or certification.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As provided in chapter 435, the appropriate regulatory board within the Department of Health, or the department itself if there is no board, may grant an exemption from disqualification to a person who is subject to this section and who has received a professional license or certification from the Department of Health or a regulatory board within that department and that person is providing a service within the scope of his or her licensed or certified practice.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The agency and the Department of Health may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement this section, chapter 435, and authorizing statutes requiring background screening and to implement and adopt criteria relating to retaining fingerprints pursuant to s. 943.05(2).</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">There is no reemployment assistance or other monetary liability on the part of, and no cause of action for damages arising against, an employer that, upon notice of a disqualifying offense listed under chapter 435 or this section, terminates the person against whom the report was issued, whether or not that person has filed for an exemption with the Department of Health or the agency.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2006-192; s. 50, ch. 2009-223; s. 21, ch. 2010-114; s. 61, ch. 2012-30; s. 2, ch. 2012-73.</History>
+</Section>

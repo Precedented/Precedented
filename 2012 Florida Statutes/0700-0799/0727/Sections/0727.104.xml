@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0727.104" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Commencement of proceedings.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An irrevocable assignment and schedules shall be made in writing, containing the name and address of the assignor and assignee and providing for an equal distribution of the estate according to the priorities set forth in s. 727.114.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The assignment shall be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">ASSIGNMENT</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">ASSIGNMENT, made this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, between <HorizontalRule Type="Fixed" />, with a principal place of business at <HorizontalRule Type="Fixed" />, hereinafter “assignor,” and <HorizontalRule Type="Fixed" />, whose address is <HorizontalRule Type="Fixed" />, hereinafter “assignee.”</Text>
+				<Text xml:space="preserve" Style="Indent">WHEREAS, the assignor has been engaged in the business of <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />;</Text>
+				<Text xml:space="preserve" Style="Indent">WHEREAS, the assignor is indebted to creditors, as set forth in Schedule A annexed hereto, is unable to pay its debts as they become due, and is desirous of providing for the payment of its debts, so far as it is possible by an assignment of all of its assets for that purpose.</Text>
+				<Text xml:space="preserve" Style="Indent">NOW, THEREFORE, the assignor, in consideration of the assignee’s acceptance of this assignment, and for other good and valuable consideration, hereby grants, assigns, conveys, transfers, and sets over, unto the assignee, her or his successors and assigns, all of its assets, except such assets as are exempt by law from levy and sale under an execution, including, but not limited to, all real property, fixtures, goods, stock, inventory, equipment, furniture, furnishings, accounts receivable, bank deposits, cash, promissory notes, cash value and proceeds of insurance policies, claims and demands belonging to the assignor, and all books, records, and electronic data pertaining to all such assets, wherever such assets may be located, hereinafter the “estate,” as which assets are, to the best knowledge and belief of the assignor, set forth on Schedule B annexed hereto.</Text>
+				<Text xml:space="preserve" Style="Indent">The assignee shall take possession of, and protect and preserve, all such assets and administer the estate in accordance with the provisions of chapter 727, Florida Statutes, and shall liquidate the assets of the estate with reasonable dispatch and convert the estate into money, collect all claims and demands hereby assigned as may be collectible, and pay and discharge all reasonable expenses, costs, and disbursements in connection with the execution and administration of this assignment from the proceeds of such liquidations and collections.</Text>
+				<Text xml:space="preserve" Style="Indent">The assignee shall then pay and discharge in full, to the extent that funds are available in the estate after payment of administrative expenses, costs, and disbursements, all of the debts and liabilities now due from the assignor, including interest on such debts and liabilities. If funds of the estate shall not be sufficient to pay such debts and liabilities in full, then the assignee shall pay from funds of the estate such debts and liabilities, on a pro rata basis and in proportion to their priority as set forth in s. 727.114, Florida Statutes.</Text>
+				<Text xml:space="preserve" Style="Indent">If all debts and liabilities are paid in full, any funds of the estate remaining shall be returned to the assignor.</Text>
+				<Text xml:space="preserve" Style="Indent">To accomplish the purposes of this assignment, the assignor hereby appoints the assignee its true and lawful attorney, irrevocable, with full power and authority to do all acts and things which may be necessary to execute the assignment hereby created; to demand and recover from all persons all assets of the estate; to sue for the recovery of such assets; to execute, acknowledge, and deliver all necessary deeds, instruments, and conveyances; and to appoint one or more attorneys under her or him to assist the assignee in carrying out her or his duties hereunder.</Text>
+				<Text xml:space="preserve" Style="Indent">The assignor hereby authorizes the assignee to sign the name of the assignor to any check, draft, promissory note, or other instrument in writing which is payable to the order of the assignor, or to sign the name of the assignor to any instrument in writing, whenever it shall be necessary to do so, to carry out the purpose of this assignment.</Text>
+				<Text xml:space="preserve" Style="Indent">The assignee hereby accepts the trust created by the assignment, and agrees with the assignor that the assignee will faithfully and without delay carry out her or his duties under the assignment.</Text>
+				<Table Width="100">
+					<ColumnDefinitions>
+						<Column Width="60" />
+						<Column Width="40" />
+					</ColumnDefinitions>
+					<Body>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve"></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><NewLine />Assignor</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve"></Text>
+							</Cell>
+							<Cell HorizontalAlign="Center">
+								<Text xml:space="preserve"><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><HorizontalRule Type="Fixed"/><NewLine />Assignee</Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">STATE OF FLORIDA</Text>
+				<Text xml:space="preserve" Style="Flush">COUNTY OF <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The foregoing assignment was acknowledged before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, by <HorizontalRule Type="Fixed" />, as assignor, and by <HorizontalRule Type="Fixed" />, as assignee, for the purposes therein expressed.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><Directions xml:space="preserve">(Signature of Notary Public - State of Florida)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Print, Type, or Stamp Commissioned Name of Notary Public)</Directions></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Personally Known <HorizontalRule Type="Fixed" /> OR Produced Identification <HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">Type of Identification Produced<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The assignment shall have annexed thereto as Schedule A a true list of all of the assignor’s known creditors, their mailing addresses, the amount and nature of their claims, and whether their claims are disputed; and as Schedule B a true list of all assets of the estate, including the estimated liquidation value of the assets, their location, and, if real property, a legal description thereof, as of the date of the assignment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The schedules shall be in substantially the following forms:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">SCHEDULE A<EmDash/>CREDITOR LIST</Text>
+				<Table Width="100" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="19" />
+						<Column Width="19" />
+						<Column Width="15" />
+						<Column Width="19" />
+						<Column Width="26" />
+					</ColumnDefinitions>
+					<Body>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">1. List all secured creditors showing:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Amount</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Collateral</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Whether or not disputed</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">2. List all wages owed showing:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Amount</Text>
+							</Cell>
+							<Cell></Cell>
+							<Cell>
+								<Text xml:space="preserve">Whether or not disputed</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">3. Consumer deposits:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Amount</Text>
+							</Cell>
+							<Cell></Cell>
+							<Cell>
+								<Text xml:space="preserve">Whether or not disputed</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">4. List all taxes owed showing:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Amount</Text>
+							</Cell>
+							<Cell></Cell>
+							<Cell>
+								<Text xml:space="preserve">Whether or not disputed</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">5. List all unsecured claims showing:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Amount</Text>
+							</Cell>
+							<Cell></Cell>
+							<Cell>
+								<Text xml:space="preserve">Whether or not disputed</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">6. List all owners or shareholders showing:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Name</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Address</Text>
+							</Cell>
+							<Cell></Cell>
+							<Cell ColSpan="2" HorizontalAlign="Right">
+								<Text xml:space="preserve">Percent of Ownership</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell ColSpan="5">
+								<Text xml:space="preserve">7. List all pending litigation and opposing counsel of record:</Text>
+							</Cell>
+						</Row>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Style</Text>
+							</Cell>
+							<Cell>
+								<Text xml:space="preserve">Parties</Text>
+							</Cell>
+							<Cell ColSpan="3" HorizontalAlign="Right">
+								<Text xml:space="preserve">Opposing Counsel of Record</Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">SCHEDULE B<EmDash/>LIST OF ASSETS</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">List each category of assets and for each give approximate value obtainable for the asset on the date of assignment, and address where asset is located.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I. Nonexempt Property</Text>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="38" />
+						<Column Width="61" />
+					</ColumnDefinitions>
+					<Body>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Description and<NewLine/>Location</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right">
+								<Text xml:space="preserve">Liquidation Value<NewLine/>at Date of Assignment</Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">1. Legal description and street address of real estate, including leasehold interests:</Text>
+				<Text xml:space="preserve" Style="Flush">2. Fixtures:</Text>
+				<Text xml:space="preserve" Style="Flush">3. Cash and bank accounts:</Text>
+				<Text xml:space="preserve" Style="Flush">4. Inventory:</Text>
+				<Text xml:space="preserve" Style="Flush">5. Accounts receivable:</Text>
+				<Text xml:space="preserve" Style="Flush">6. Equipment:</Text>
+				<Text xml:space="preserve" Style="Flush">7. Prepaid expenses, including deposits, insurance, rents, and utilities:</Text>
+				<Text xml:space="preserve" Style="Flush">8. Other, including loans to third parties, claims, and choses in action:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">II. Exempt Property</Text>
+				<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+					<ColumnDefinitions>
+						<Column Width="38" />
+						<Column Width="61" />
+					</ColumnDefinitions>
+					<Body>
+						<Row>
+							<Cell>
+								<Text xml:space="preserve">Description and<NewLine/>Location</Text>
+							</Cell>
+							<Cell HorizontalAlign="Right">
+								<Text xml:space="preserve">Liquidation Value<NewLine/>at Date of Assignment</Text>
+							</Cell>
+						</Row>
+					</Body>
+				</Table>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The assignment and schedules shall be duly verified upon oath by the assignor, and accepted by the assignee under oath in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">VERIFICATION OF ASSIGNMENT<NewLine />AND SCHEDULES BY ASSIGNOR</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned, <Directions xml:space="preserve">(name)</Directions>, <Directions xml:space="preserve">(position with assignor)</Directions> of <Directions xml:space="preserve">(assignor)</Directions>, hereby verifies the Assignment of all of its rights, title, and interest in and to all of its assets, as indicated on the attached Schedules to that Assignment as filed with this Court on <Directions xml:space="preserve">(date)</Directions>, and further verifies each of the facts set forth in the Schedules annexed to the Assignment to the best of my knowledge and belief.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="AlignRight">Name, Position with Assignor</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">STATE OF FLORIDA</Text>
+				<Text xml:space="preserve" Style="Flush">COUNTY OF <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><Directions xml:space="preserve">(Signature of Notary Public - State of Florida)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Print, Type, or Stamp Commissioned Name of Notary Public)</Directions></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Personally Known <HorizontalRule Type="Fixed" /> OR Produced Identification <HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Type of Identification Produced<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">ACCEPTANCE BY ASSIGNEE</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The undersigned, <Directions xml:space="preserve">(assignee)</Directions>, the Assignee herein, duly acknowledges that the Assignee accepts delivery of the assignment and that he or she will duly perform the duties imposed upon the Assignee pursuant to chapter 727, Florida Statutes.</Text>
+				<Text xml:space="preserve" Style="AlignRight"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="AlignRight">Assignee </Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">STATE OF FLORIDA</Text>
+				<Text xml:space="preserve" Style="Flush">COUNTY OF <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>.</Text>
+				<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><Directions xml:space="preserve">(Signature of Notary Public - State of Florida)</Directions></Text>
+				<Text xml:space="preserve" Style="AlignRight"><Directions xml:space="preserve">(Print, Type, or Stamp Commissioned Name of Notary Public)</Directions></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Personally Known <HorizontalRule Type="Fixed" /> OR Produced Identification <HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">Type of Identification Produced<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Within 10 days after delivery of the assignment to the assignee, the assignee shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Record the original assignment in the public records of the county in which the assignor had its principal place of business and shall thereafter promptly record a certified copy of the assignment in each county where assets of the estate are located;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">File, in the office of the clerk of the court in the county of the assignor’s place of business if it has one, in the county of its chief executive office if it has more than one place of business, or in the county of the assignor’s residence if the assignor is an individual not engaged in business, in accordance with the procedures for filing a complaint as set forth in the Florida Rules of Civil Procedure, a petition setting forth the name and address of the assignor and the name and address of the assignee; a copy of the assignment, together with Schedules A and B; and a request that the court fix the amount of the assignee’s bond to be filed with the clerk of the court. This bond shall be subject to reconsideration upon the motion of any party in interest after notice and hearing. The bond shall be payable to the clerk of the court, in an amount not less than double the liquidation value of the assets of the estate as set forth in Schedule B, conditioned upon the assignee’s faithful discharge of her or his duties. Within 30 days after the court enters an order setting the amount of such bond, the assignee shall file the bond with the clerk of the court, who shall approve the bond.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 87-174; s. 2, ch. 89-54; s. 29, ch. 91-110; s. 939, ch. 97-102; s. 17, ch. 98-246; s. 4, ch. 2007-185.</History>
+</Section>

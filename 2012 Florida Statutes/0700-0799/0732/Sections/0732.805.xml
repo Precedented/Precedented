@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0732.805" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Spousal rights procured by fraud, duress, or undue influence.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A surviving spouse who is found to have procured a marriage to the decedent by fraud, duress, or undue influence is not entitled to any of the following rights or benefits that inure solely by virtue of the marriage or the person’s status as surviving spouse of the decedent unless the decedent and the surviving spouse voluntarily cohabited as husband and wife with full knowledge of the facts constituting the fraud, duress, or undue influence or both spouses otherwise subsequently ratified the marriage:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any rights or benefits under the Florida Probate Code, including, but not limited to, entitlement to elective share or family allowance; preference in appointment as personal representative; inheritance by intestacy, homestead, or exempt property; or inheritance as a pretermitted spouse.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any rights or benefits under a bond, life insurance policy, or other contractual arrangement if the decedent is the principal obligee or the person upon whose life the policy is issued, unless the surviving spouse is provided for by name, whether or not designated as the spouse, in the bond, life insurance policy, or other contractual arrangement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any rights or benefits under a will, trust, or power of appointment, unless the surviving spouse is provided for by name, whether or not designated as the spouse, in the will, trust, or power of appointment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any immunity from the presumption of undue influence that a surviving spouse may have under state law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any of the rights or benefits listed in paragraphs (1)(a)-(c) which would have passed solely by virtue of the marriage to a surviving spouse who is found to have procured the marriage by fraud, duress, or undue influence shall pass as if the spouse had predeceased the decedent.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A challenge to a surviving spouse’s rights under this section may be maintained as a defense, objection, or cause of action by any interested person after the death of the decedent in any proceeding in which the fact of marriage may be directly or indirectly material.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The contestant has the burden of establishing, by a preponderance of the evidence, that the marriage was procured by fraud, duress, or undue influence. If ratification of the marriage is raised as a defense, the surviving spouse has the burden of establishing, by a preponderance of the evidence, the subsequent ratification by both spouses.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">In all actions brought under this section, the court shall award taxable costs as in chancery actions, including attorney’s fees. When awarding taxable costs and attorney’s fees, the court may direct payment from a party’s interest, if any, in the estate, or enter a judgment that may be satisfied from other property of the party, or both.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An insurance company, financial institution, or other obligor making payment according to the terms of its policy or obligation is not liable by reason of this section unless, before payment, it received written notice of a claim pursuant to this section.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The notice required by this subsection must be in writing and must be accomplished in a manner reasonably suitable under the circumstances and likely to result in receipt of the notice. Permissible methods of notice include first-class mail, personal delivery, delivery to the person’s last known place of residence or place of business, or a properly directed facsimile or other electronic message.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To be effective, notice to a financial institution or insurance company must contain the name, address, and the taxpayer identification number, or the account or policy number, of the principal obligee or person whose life is insured and shall be directed to an officer or a manager of the financial institution or insurance company in this state. If the financial institution or insurance company has no offices in this state, the notice shall be directed to the principal office of the financial institution or insurance company.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notice shall be effective when given, except that notice to a financial institution or insurance company is not effective until 5 business days after being given.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The rights and remedies granted in this section are in addition to any other rights or remedies a person may have at law or equity.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Unless sooner barred by adjudication, estoppel, or a provision of the Florida Probate Code or Florida Probate Rules, an interested person is barred from bringing an action under this section unless the action is commenced within 4 years after the decedent’s date of death. A cause of action under this section accrues on the decedent’s date of death.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2010-132.</History>
+</Section>

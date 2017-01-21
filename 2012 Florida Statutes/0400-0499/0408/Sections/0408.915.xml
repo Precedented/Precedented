@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.915" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligibility pilot project.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration, in consultation with the steering committee established in s. 408.916, shall develop and implement a pilot project to integrate the determination of eligibility for health care services with information and referral services.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The pilot project shall operate in one or more contiguous counties, as selected by the agency in consultation with the steering committee.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The pilot project shall focus on developing, to the maximum extent possible, a process for eligibility application which:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Uses a single uniform electronic application process, but permits applying for health services through various entry points, including information and referral providers, state agency program personnel or contracted providers, the mail, or the Internet;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is linked to a shared database that will have the capability to sort or store information by families as well as individuals;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Permits electronic input and storage of data and electronic verification and exchange of information;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Is compliant with the federal Health Insurance Portability and Accountability Act, as well as all other applicable state and federal confidentiality, financial, and insurance requirements;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Includes an initial screening component for referring applicants to other health and human services programs provided through state agencies and the Florida Healthy Kids Corporation, including programs addressing developmental delays, developmental disabilities, chronic physical illness, mental health needs, substance abuse treatment needs, elder and aging needs, and other health care needs; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Includes the level of customer service available to applicants and participants in the pilot project.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The information and referral provider in the site selected as the pilot project shall, at a minimum:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Execute a memorandum of understanding with the local community volunteer placement centers;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Implement, or be in the process of implementing, a shared, web-based, information and eligibility database with community health providers and funders;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provide comprehensive information and referral services 24 hours per day, 7 days per week;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Agree, in writing, to become accredited within 3 years by a nationally recognized information and referral accrediting agency;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Execute a memorandum of understanding with 911 and other emergency response agencies in the pilot area;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Implement policies and structured training to effectively respond to crisis calls or obtain accreditation by a nationally recognized mental health or crisis accrediting agency;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Obtain teletypewriter and multi-language accessibility, either onsite or through a translation service; and</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Develop resources to support and publicize information and referral services and provide ongoing education to the public on the availability of such services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The pilot project shall include eligibility determinations for the following programs:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Medicaid under Title XIX of the Social Security Act.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Medikids as created in s. 409.8132.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Florida Healthy Kids as described in s. 624.91 and within eligibility guidelines provided in s. 409.814.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Eligibility for Florida Kidcare services outside of the scope of Title XIX or Title XXI of the Social Security Act as provided in s. 409.814.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">State and local publicly funded health and social services programs as determined appropriate by the steering committee.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the Secretary of Health Care Administration, in consultation with the steering committee established in s. 408.916, determines that it would facilitate operation of the pilot project to obtain federal waiver authority, the appropriate state agency shall request such waiver authority from the appropriate federal agency.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2002-223; s. 116, ch. 2010-102.</History>
+</Section>

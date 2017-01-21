@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.55" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rosewood Family Scholarship Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created a Rosewood Family Scholarship Program for the direct descendants of the Rosewood families, not to exceed 25 scholarships per year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Rosewood Family Scholarship Program shall be administered by the Department of Education. The State Board of Education shall adopt rules for administering this program which shall at a minimum provide for the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The annual award to a student shall be up to $4,000 but should not exceed an amount in excess of tuition and registration fees.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If funds are insufficient to provide a full scholarship to each eligible applicant, the department may prorate available funds and make a partial award to each eligible applicant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall rank eligible initial applicants for the purposes of awarding scholarships based on need as determined by the Department of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Payment of an award shall be transmitted in advance of the registration period each semester on behalf of the student to the president of the university or Florida College System institution, or his or her representative, or to the director of the career center which the recipient is attending.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Beginning with the 1994-1995 academic year, the department is authorized to make awards for undergraduate study to students who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Meet the general requirements for student eligibility as provided in s. 1009.40, except as otherwise provided in this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">File an application for the scholarship within the established time limits.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Enroll as certificate-seeking or degree-seeking students at a state university, Florida College System institution, or career center authorized by law.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Funding for the program shall be as provided in the General Appropriations Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 433, ch. 2002-387; s. 123, ch. 2004-357; s. 19, ch. 2009-60; s. 134, ch. 2011-5; s. 21, ch. 2011-63.</History>
+</Section>

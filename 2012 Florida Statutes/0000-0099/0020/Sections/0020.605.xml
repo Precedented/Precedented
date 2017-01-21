@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.605" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Administrative Trust Fund of the Department of Economic Opportunity.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Administrative Trust Fund is created within the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Funds shall be used for the purpose of supporting the administrative functions of the department as required by law, pursuant to legislative appropriation or an approved amendment to the department’s operating budget pursuant to the provisions of chapter 216.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of s. 216.301 and pursuant to s. 216.351, any balance in the trust fund at the end of any fiscal year shall remain in the trust fund at the end of the year and shall be available for carrying out the purposes of the trust fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2001-138; s. 2, ch. 2004-211; s. 475, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 20.505.</Text>
+	</Note>
+</Section>

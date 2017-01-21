@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0768.81" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Comparative fault.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Accident” means the events and actions that relate to the incident as well as those events and actions that relate to the alleged defect or injuries, including enhanced injuries.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Economic damages” means past lost income and future lost income reduced to present value; medical and funeral expenses; lost support and services; replacement value of lost personal property; loss of appraised fair market value of real property; costs of construction repairs, including labor, overhead, and profit; and any other economic loss that would not have occurred but for the injury giving rise to the cause of action.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Negligence action” means, without limitation, a civil action for damages based upon a theory of negligence, strict liability, products liability, professional malpractice whether couched in terms of contract or tort, or breach of warranty and like theories. The substance of an action, not conclusory terms used by a party, determines whether an action is a negligence action.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Products liability action” means a civil action based upon a theory of strict liability, negligence, breach of warranty, nuisance, or similar theories for damages caused by the manufacture, construction, design, formulation, installation, preparation, or assembly of a product. The term includes an action alleging that injuries received by a claimant in an accident were greater than the injuries the claimant would have received but for a defective product. The substance of an action, not the conclusory terms used by a party, determines whether an action is a products liability action.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">EFFECT OF CONTRIBUTORY FAULT.<EmDash />In a negligence action, contributory fault chargeable to the claimant diminishes proportionately the amount awarded as economic and noneconomic damages for an injury attributable to the claimant’s contributory fault, but does not bar recovery.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">APPORTIONMENT OF DAMAGES.<EmDash />In a negligence action, the court shall enter judgment against each party liable on the basis of such party’s percentage of fault and not on the basis of the doctrine of joint and several liability.</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In order to allocate any or all fault to a nonparty, a defendant must affirmatively plead the fault of a nonparty and, absent a showing of good cause, identify the nonparty, if known, or describe the nonparty as specifically as practicable, either by motion or in the initial responsive pleading when defenses are first presented, subject to amendment any time before trial in accordance with the Florida Rules of Civil Procedure.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In order to allocate any or all fault to a nonparty and include the named or unnamed nonparty on the verdict form for purposes of apportioning damages, a defendant must prove at trial, by a preponderance of the evidence, the fault of the nonparty in causing the plaintiff’s injuries.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In a products liability action alleging that injuries received by a claimant in an accident were enhanced by a defective product, the trier of fact shall consider the fault of all persons who contributed to the accident when apportioning fault between or among them. The jury shall be appropriately instructed by the trial judge on the apportionment of fault in products liability actions where there are allegations that the injuries received by the claimant in an accident were enhanced by a defective product. The rules of evidence apply to these actions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY.<EmDash /></Text>
+			<Text xml:space="preserve" Style="Intro">This section does not apply to any action brought by any person to recover actual economic damages resulting from pollution, to any action based upon an intentional tort, or to any cause of action as to which application of the doctrine of joint and several liability is specifically provided by chapter 403, chapter 498, <Reference Number="2"/>chapter 517, <Reference Number="2"/>chapter 542, or <Reference Number="2"/>chapter 895.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">MEDICAL MALPRACTICE.<EmDash />Notwithstanding anything in law to the contrary, in an action for damages for personal injury or wrongful death arising out of medical malpractice, whether in contract or tort, if an apportionment of damages pursuant to this section is attributed to a teaching hospital as defined in s. 408.07, the court shall enter judgment against the teaching hospital on the basis of such party’s percentage of fault and not on the basis of the doctrine of joint and several liability.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 60, 65, ch. 86-160; s. 5, ch. 87-50; s. 79, ch. 88-1; s. 43, ch. 88-277; s. 1, ch. 88-335; s. 38, ch. 91-110; s. 104, ch. 92-33; s. 27, ch. 99-225; s. 1, ch. 2006-6; s. 1, ch. 2011-215.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 2, ch. 2011-215, provides that “[t]he Legislature intends that this act be applied retroactively and overrule <Font xml:space="preserve" Style="Italic">D’Amario v. Ford Motor Co.</Font>, 806 So. 2d 424 (Fla. 2001), which adopted what the Florida Supreme Court acknowledged to be a minority view. That minority view fails to apportion fault for damages consistent with Florida’s statutory comparative fault system, codified in s. 768.81, Florida Statutes, and leads to inequitable and unfair results, regardless of the damages sought in the litigation. The Legislature finds that, in a products liability action as defined in this act, fault should be apportioned among all responsible persons.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 3, ch. 2011-215, provides that “[t]his act is remedial in nature and applies retroactively. The Legislature finds that the retroactive application of this act does not unconstitutionally impair vested rights. Rather, the law affects only remedies, permitting recovery against all tortfeasors while lessening the ultimate liability of each consistent with this state’s statutory comparative fault system, codified in s. 768.81, Florida Statutes. In all cases, the Legislature intends that this act be construed consistent with the due process provisions of the State Constitution and the Constitution of the United States.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Contains no readily apparent specific reference to joint and several liability.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1006.51" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Student ombudsman office.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">There is created at each Florida College System institution and state university a student ombudsman office, which is accountable to the president.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each institution must have an established procedure by which a student may appeal to the office of the ombudsman a decision that is related to the student’s access to courses and credit granted toward the degree. Detailed information concerning this procedure must be included in the institution’s catalog.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each Florida College System institution and state university shall develop minimum standards for the role of ombudsman or student advocate. The standards shall address the issue of notification of students of opportunities for assistance or appeal.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 321, ch. 2002-387; s. 78, ch. 2011-5.</History>
+</Section>

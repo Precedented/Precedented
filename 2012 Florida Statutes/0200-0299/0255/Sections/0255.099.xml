@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0255.099" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Preference to state residents.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each contract for construction that is funded by state funds must contain a provision requiring the contractor to give preference to the employment of state residents in the performance of the work on the project if state residents have substantially equal qualifications to those of nonresidents. A contract for construction funded by local funds may contain such a provision.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “substantially equal qualifications” means the qualifications of two or more persons among whom the employer cannot make a reasonable determination that the qualifications held by one person are better suited for the position than the qualifications held by the other person or persons.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A contractor required to employ state residents must contact the Department of Economic Opportunity to post the contractor’s employment needs in the state’s job bank system.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">No contract shall be let to any person refusing to execute an agreement containing the provisions required by this section. However, in work involving the expenditure of federal aid funds, this section may not be enforced in such a manner as to conflict with or be contrary to federal law prescribing a labor preference to honorably discharged soldiers, sailors, or marines, or prohibiting as unlawful any other preference or discrimination among the citizens of the United States.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 50, ch. 2010-147; s. 117, ch. 2011-142.</History>
+</Section>

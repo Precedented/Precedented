@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.9913" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 288.991-288.9922, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Credit allowance date” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The date on which a qualified investment is made; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each of the six anniversaries of that date.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Long-term debt security” means a debt instrument issued by a qualified community development entity at par value or a premium which has a maturity date of at least 7 years following the date of its issuance, with no acceleration of repayment, amortization, or prepayment features prior to its original maturity date, except in instances of default.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Low-income community” means any population census tract within the state where:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The poverty rate of such tract is at least 20 percent; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of a tract that is:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the statewide median family income; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of the statewide median family income or the metropolitan area median income.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Purchase price” means the amount of cash paid to a qualified community development entity in exchange for a qualified investment.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Qualified active low-income community business” means a corporation, including a nonprofit corporation, or partnership that complies with each of the following:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Derives at least 50 percent of its total gross income from the active conduct of business within any low-income community for any taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Uses at least 40 percent of its tangible property, whether owned or leased, within any low-income community for any taxable year, which percentage shall be the average value of the tangible property owned or leased and used within a low-income community by the corporation or partnership divided by the average value of the total tangible property owned or leased and used by the corporation or partnership during the taxable year. The value assigned to leased property by the corporation or partnership must be reasonable.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Performs at least 40 percent of its services through its employees in a low-income community for any taxable year, which percentage shall be the amount paid by the corporation or partnership for salaries, wages, and benefits to employees in a low-income community divided by the total amount paid by the corporation or partnership for salaries, wages, and benefits during the taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Attributes less than 5 percent of the average of the aggregate unadjusted bases of the property of the entity to collectibles, as defined in 26 U.S.C. s. 408(m)(2), other than collectibles that are held primarily for sale to customers in the ordinary course of the business for any taxable year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Attributes less than 5 percent of the average of the aggregate unadjusted bases of the property of the entity to nonqualified financial property, as defined in 26 U.S.C. s. 1397C(e), for any taxable year.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A corporation or partnership complies with subparagraph 1. if, as calculated in subparagraph 2., it uses at least 50 percent of its tangible property, whether owned or leased, within any low-income community for any taxable year or if, as calculated in subparagraph 3., the corporation or partnership performs at least 50 percent of its services through its employees in a low-income community for any taxable year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is reasonably expected by a qualified community development entity at the time of an investment to continue to satisfy the requirements of paragraphs (a), (c), and (d) for the duration of the investment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Satisfies the requirements of paragraphs (a) and (b), but does not:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Derive or project to derive 15 percent or more of its annual revenue from the rental or sale of real estate, unless the corporation or partnership derives such revenue from the rental of real estate and the primary lessee and user of such real estate is another qualified active low-income community business that is owned or controlled by, or that is under common ownership or control with, such corporation or partnership;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Engage predominantly in the development or holding of intangibles for sale or license;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Operate a private or commercial golf course, country club, massage parlor, hot tub facility, suntan facility, racetrack, gambling facility, or a store the principal business of which is the sale of alcoholic beverages for consumption off premises; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Engage principally in farming and owns or leases assets the sum of the aggregate unadjusted bases or the fair market value of which exceeds $500,000.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Will create or retain jobs that pay an average wage of at least 115 percent of the federal poverty income guidelines for a family of four.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Qualified community development entity” means an entity that:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Is certified by the Secretary of the United States Department of the Treasury as a qualified community development entity under 26 U.S.C. s. 45D; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Has entered into, or is controlled by an entity that has entered into, an allocation agreement with the Community Development Financial Institutions Fund of the United States Department of the Treasury with respect to tax credits under 26 U.S.C. s. 45D and is authorized to serve businesses in this state under the agreement; or</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is Enterprise Florida, Inc., or an entity created by Enterprise Florida, Inc.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Qualified investment” means an equity investment in, or a long-term debt security issued by, a qualified community development entity that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is issued solely in exchange for cash; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is designated by the qualified community development entity as a qualified investment under this paragraph and is approved by the department as a qualified investment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Qualified low-income community investment” means a capital or equity investment in, or loan to, any qualified active low-income community business.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 6, 15, ch. 2009-50; s. 39, ch. 2010-147; s. 196, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Expires December 31, 2022, pursuant to s. 15, ch. 2009-50.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0216.0111" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State agency contracts; required information to be provided to Department of Financial Services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each state agency, as defined in s. 216.011, shall provide the following information to the Department of Financial Services regarding the agency’s contracted activities:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The nature of the commodities or services purchased.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The term of the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The final obligation made by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A summary of any time constraints that apply to the procurement.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The justification for not using the competitive solicitation, including any statutory exemption or exception.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Other information regarding the contract or the procurement which may be required by the Department of Financial Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">This section applies to any contract executed on or after July 1, 2010, for the purchase of commodities or contractual services in excess of the CATEGORY TWO threshold amount provided in s. 287.017 which is not:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Awarded by competitive solicitation pursuant to s. 287.057(1); or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Purchased from a purchasing agreement or state term contract pursuant to s. 287.056.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An agency must submit the required information to the Department of Financial Services within 3 working days after executing the contract.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 46, ch. 2010-151.</History>
+</Section>

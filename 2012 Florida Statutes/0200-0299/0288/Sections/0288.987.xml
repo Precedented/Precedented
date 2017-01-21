@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.987" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Florida Defense Support Task Force.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Florida Defense Support Task Force is created.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The mission of the task force is to make recommendations to preserve and protect military installations to support the state’s position in research and development related to or arising out of military missions and contracting, and to improve the state’s military-friendly environment for service members, military dependents, military retirees, and businesses that bring military and base-related jobs to the state.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The task force shall be comprised of the Governor or his or her designee, and 12 members appointed as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Four members appointed by the Governor.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Four members appointed by the President of the Senate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Four members appointed by the Speaker of the House of Representatives.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Appointed members must represent defense-related industries or communities that host military bases and installations. All appointments must be made by August 1, 2011. Members shall serve for a term of 4 years, with the first term ending July 1, 2015. However, if members of the Legislature are appointed to the task force, those members shall serve until the expiration of their legislative term and may be reappointed once. A vacancy shall be filled for the remainder of the unexpired term in the same manner as the initial appointment. All members of the council are eligible for reappointment. A member who serves in the Legislature may participate in all task force activities but may only vote on matters that are advisory.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The President of the Senate and the Speaker of the House of Representatives shall each designate one of their appointees to serve as chair of the task force. The chair shall rotate each July 1. The appointee designated by the President of the Senate shall serve as initial chair. If the Governor, instead of his or her designee, participates in the activities of the task force, then the Governor shall serve as chair.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The executive director of the Department of Economic Opportunity, or his or her designee, shall serve as the ex officio, nonvoting executive director of the task force.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The task force shall submit an annual progress report and work plan to the Governor, the President of the Senate, and the Speaker of the House of Representatives each February 1.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The department shall contract with the task force for expenditure of appropriated funds, which may be used by the task force for economic and product research and development, joint planning with host communities to accommodate military missions and prevent base encroachment, advocacy on the state’s behalf with federal civilian and military officials, assistance to school districts in providing a smooth transition for large numbers of additional military-related students, job training and placement for military spouses in communities with high proportions of active duty military personnel, and promotion of the state to military and related contractors and employers. The task force may annually spend up to $200,000 of funds appropriated to the department for the task force for staffing and administrative expenses of the task force, including travel and per diem costs incurred by task force members who are not otherwise eligible for state reimbursement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 38, ch. 2011-76; s. 47, ch. 2012-96; s. 7, ch. 2012-98; s. 11, ch. 2012-159.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 4, ch. 2012-98, provides that “[e]ffective upon this act becoming a law, the powers, duties, functions, records, personnel, property, pending issues, existing contracts, administrative authority, administrative rules, and unexpended balances of appropriations, allocations, and other funds of the Florida Council on Military Base and Mission Support within the Department of Economic Opportunity are transferred by a type two transfer, as defined in s. 20.06(2), Florida Statutes, to the Florida Defense Support Task Force within the Department of Economic Opportunity.”</Text>
+		<Text xml:space="preserve" Style="Indent">C. Section 8(2), ch. 2012-159, provides that “[t]he powers, duties, functions, records, personnel, property, pending issues, existing contracts, administrative authority, administrative rules, and unexpended balances of appropriations, allocations, and other funds of the Florida Council on Military Base and Mission Support within the Department of Economic Opportunity are transferred by a type two transfer, as defined in s. 20.06(2), Florida Statutes, to the Florida Defense Support Task Force within the Department of Economic Opportunity.”</Text>
+	</Note>
+</Section>

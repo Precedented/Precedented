@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.39" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">The John M. McKay Scholarships for Students with Disabilities Program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is established a program that is separate and distinct from the Opportunity Scholarship Program and is named the John M. McKay Scholarships for Students with Disabilities Program.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">THE JOHN M. MCKAY SCHOLARSHIPS FOR STUDENTS WITH DISABILITIES PROGRAM.<EmDash />The John M. McKay Scholarships for Students with Disabilities Program is established to provide the option to attend a public school other than the one to which assigned, or to provide a scholarship to a private school of choice, for students with disabilities for whom:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individual educational plan has been written in accordance with rules of the State Board of Education; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A 504 accommodation plan has been issued under s. 504 of the Rehabilitation Act of 1973.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Students with disabilities include K-12 students who are documented as having an intellectual disability; a speech impairment; a language impairment; a hearing impairment, including deafness; a visual impairment, including blindness; a dual sensory impairment; an orthopedic impairment; an other health impairment; an emotional or behavioral disability; a specific learning disability, including, but not limited to, dyslexia, dyscalculia, or developmental aphasia; a traumatic brain injury; a developmental delay; or autism spectrum disorder.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">JOHN M. MCKAY SCHOLARSHIP ELIGIBILITY.<EmDash />The parent of a student with a disability may request and receive from the state a John M. McKay Scholarship for the child to enroll in and attend a private school in accordance with this section if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The student has:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Received specialized instructional services under the Voluntary Prekindergarten Education Program pursuant to s. 1002.66 during the previous school year and the student has a current individual educational plan developed by the local school board in accordance with rules of the State Board of Education for the John M. McKay Scholarships for Students with Disabilities Program or a 504 accommodation plan has been issued under s. 504 of the Rehabilitation Act of 1973;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Spent the prior school year in attendance at a Florida public school or the Florida School for the Deaf and the Blind. For purposes of this subparagraph, prior school year in attendance means that the student was enrolled and reported by:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A school district for funding during the preceding October and February Florida Education Finance Program surveys in kindergarten through grade 12, which includes time spent in a Department of Juvenile Justice commitment program if funded under the Florida Education Finance Program;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro"> The Florida School for the Deaf and the Blind during the preceding October and February student membership surveys in kindergarten through grade 12; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro"> A school district for funding during the preceding October and February Florida Education Finance Program surveys, was at least 4 years of age when so enrolled and reported, and was eligible for services under s. 1003.21(1)(e); or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Been enrolled and reported by a school district for funding, during the October and February Florida Education Finance Program surveys, in any of the 5 years prior to the 2010-2011 fiscal year; has a current individualized educational plan developed by the district school board in accordance with rules of the State Board of Education for the John M. McKay Scholarship Program no later than June 30, 2011; and receives a first-time John M. McKay scholarship for the 2011-2012 school year. Upon request of the parent, the local school district shall complete a matrix of services as required in subparagraph (5)(b)1. for a student requesting a current individualized educational plan in accordance with the provisions of this subparagraph.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">However, a dependent child of a member of the United States Armed Forces who transfers to a school in this state from out of state or from a foreign country due to a parent’s permanent change of station orders is exempt from this paragraph but must meet all other eligibility requirements to participate in the program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parent has obtained acceptance for admission of the student to a private school that is eligible for the program under subsection (8) and has requested from the department a scholarship at least 60 days before the date of the first scholarship payment. The request must be communicated directly to the department in a manner that creates a written or electronic record of the request and the date of receipt of the request. The department must notify the district of the parent’s intent upon receipt of the parent’s request.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">JOHN M. MCKAY SCHOLARSHIP PROHIBITIONS.<EmDash />A student is not eligible for a John M. McKay Scholarship:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">While he or she is enrolled in a school operating for the purpose of providing educational services to youth in Department of Juvenile Justice commitment programs;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">While he or she is receiving a Florida tax credit scholarship under s. 1002.395;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">While he or she is receiving an educational scholarship pursuant to this chapter;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">While he or she is participating in a home education program as defined in s. 1002.01(1);</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">While he or she is participating in a private tutoring program pursuant to s. 1002.43;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">While he or she is participating in a virtual school, correspondence school, or distance learning program that receives state funding pursuant to the student’s participation unless the participation is limited to no more than two courses per school year;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">While he or she is enrolled in the Florida School for the Deaf and the Blind; </Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">While he or she is not having regular and direct contact with his or her private school teachers at the school’s physical location; or</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">If he or she has been issued a temporary 504 accommodation plan under s. 504 of the Rehabilitation Act of 1973 which is valid for 6 months or less.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TERM OF JOHN M. MCKAY SCHOLARSHIP.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For purposes of continuity of educational choice, a John M. McKay Scholarship shall remain in force until the student returns to a public school, graduates from high school, or reaches the age of 22, whichever occurs first. A scholarship student who enrolls in a public school or public school program is considered to have returned to a public school for the purpose of determining the end of the scholarship’s term. However, if a student enters a Department of Juvenile Justice detention center for a period of no more than 21 days, the student is not considered to have returned to a public school for that purpose.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Upon reasonable notice to the department and the school district, the student’s parent may remove the student from the private school and place the student in a public school in accordance with this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon reasonable notice to the department, the student’s parent may move the student from one participating private school to another participating private school.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">SCHOOL DISTRICT OBLIGATIONS; PARENTAL OPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By April 1 of each year and within 10 days after an individual education plan meeting or a 504 accommodation plan is issued under s. 504 of the Rehabilitation Act of 1973, a school district shall notify the parent of the student of all options available pursuant to this section, inform the parent of the availability of the department’s telephone hotline and Internet website for additional information on John M. McKay Scholarships, and offer that student’s parent an opportunity to enroll the student in another public school in the district.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The parent is not required to accept the offer of enrolling in another public school in lieu of requesting a John M. McKay Scholarship to a private school. However, if the parent chooses the public school option, the student may continue attending a public school chosen by the parent until the student graduates from high school.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If the parent chooses a public school consistent with the district school board’s choice plan under s. 1002.31, the school district shall provide transportation to the public school selected by the parent. The parent is responsible to provide transportation to a public school chosen that is not consistent with the district school board’s choice plan under s. 1002.31.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For a student with disabilities who does not have a matrix of services under s. 1011.62(1)(e), the school district must complete a matrix that assigns the student to one of the levels of service as they existed prior to the 2000-2001 school year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Within 10 school days after it receives notification of a parent’s request for a John M. McKay Scholarship, a school district must notify the student’s parent if the matrix of services has not been completed and inform the parent that the district is required to complete the matrix within 30 days after receiving notice of the parent’s request for a John M. McKay Scholarship. This notice should include the required completion date for the matrix.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The school district must complete the matrix of services for any student who is participating in the John M. McKay Scholarships for Students with Disabilities Program and must notify the department of the student’s matrix level within 30 days after receiving notification of a request to participate in the scholarship program. The school district must provide the student’s parent with the student’s matrix level within 10 school days after its completion.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The department shall notify the private school of the amount of the scholarship within 10 days after receiving the school district’s notification of the student’s matrix level.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A school district may change a matrix of services only if the change is to correct a technical, typographical, or calculation error.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A school district shall provide notification to parents of the availability of a reevaluation at least every 3 years of each student who receives a John M. McKay Scholarship.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the parent chooses the private school option and the student is accepted by the private school pending the availability of a space for the student, the parent of the student must notify the department 60 days prior to the first scholarship payment and before entering the private school in order to be eligible for the scholarship when a space becomes available for the student in the private school.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The parent of a student may choose, as an alternative, to enroll the student in and transport the student to a public school in an adjacent school district which has available space and has a program with the services agreed to in the student’s individual education plan or 504 accommodation plan already in place, and that school district shall accept the student and report the student for purposes of the district’s funding pursuant to the Florida Education Finance Program.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">For a student who participates in the John M. McKay Scholarships for Students with Disabilities Program whose parent requests that the student take the statewide assessments under s. 1008.22, the district in which the student attends private school shall provide locations and times to take all statewide assessments.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">DEPARTMENT OF EDUCATION OBLIGATIONS.<EmDash />The department shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establish a toll-free hotline that provides parents and private schools with information on participation in the John M. McKay Scholarships for Students with Disabilities Program.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Annually verify the eligibility of private schools that meet the requirements of subsection (8).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Establish a process by which individuals may notify the department of any violation by a parent, private school, or school district of state laws relating to program participation. The department shall conduct an inquiry of any written complaint of a violation of this section, or make a referral to the appropriate agency for an investigation, if the complaint is signed by the complainant and is legally sufficient. A complaint is legally sufficient if it contains ultimate facts that show that a violation of this section or any rule adopted by the State Board of Education has occurred. In order to determine legal sufficiency, the department may require supporting information or documentation from the complainant. A department inquiry is not subject to the requirements of chapter 120.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Require an annual, notarized, sworn compliance statement by participating private schools certifying compliance with state laws and shall retain such records.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Cross-check the list of participating scholarship students with the public school enrollment lists prior to each scholarship payment to avoid duplication.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Conduct random site visits to private schools participating in the John M. McKay Scholarships for Students with Disabilities Program. The purpose of the site visits is solely to verify the information reported by the schools concerning the enrollment and attendance of students, the credentials of teachers, background screening of teachers, and teachers’ fingerprinting results, which information is required by rules of the State Board of Education, subsection (8), and s. 1002.421. The Department of Education may not make more than three random site visits each year and may not make more than one random site visit each year to the same private school.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Annually, by December 15, report to the Governor, the President of the Senate, and the Speaker of the House of Representatives the Department of Education’s actions with respect to implementing accountability in the scholarship program under this section and s. 1002.421, any substantiated allegations or violations of law or rule by an eligible private school under this program concerning the enrollment and attendance of students, the credentials of teachers, background screening of teachers, and teachers’ fingerprinting results and the corrective action taken by the Department of Education.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">COMMISSIONER OF EDUCATION AUTHORITY AND OBLIGATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Shall deny, suspend, or revoke a private school’s participation in the scholarship program if it is determined that the private school has failed to comply with the provisions of this section. However, if the noncompliance is correctable within a reasonable amount of time and if the health, safety, or welfare of the students is not threatened, the commissioner may issue a notice of noncompliance which provides the private school with a timeframe within which to provide evidence of compliance before taking action to suspend or revoke the private school’s participation in the scholarship program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">May deny, suspend, or revoke a private school’s participation in the scholarship program if the commissioner determines that an owner or operator of the private school is operating or has operated an educational institution in this state or in another state or jurisdiction in a manner contrary to the health, safety, or welfare of the public.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">In making such a determination, the commissioner may consider factors that include, but are not limited to, acts or omissions by an owner or operator which led to a previous denial or revocation of participation in an education scholarship program; an owner’s or operator’s failure to reimburse the Department of Education for scholarship funds improperly received or retained by a school; imposition of a prior criminal sanction related to an owner’s or operator’s management or operation of an educational institution; imposition of a civil fine or administrative fine, license revocation or suspension, or program eligibility suspension, termination, or revocation related to an owner’s or operator’s management or operation of an educational institution; or other types of criminal proceedings in which an owner or operator was found guilty of, regardless of adjudication, or entered a plea of nolo contendere or guilty to, any offense involving fraud, deceit, dishonesty, or moral turpitude.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For purposes of this subparagraph, the term “owner or operator” includes an owner, operator, superintendent, or principal of, or a person who has equivalent decisionmaking authority over, a private school participating in the scholarship program.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commissioner’s determination is subject to the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the commissioner intends to deny, suspend, or revoke a private school’s participation in the scholarship program, the department shall notify the private school of such proposed action in writing by certified mail and regular mail to the private school’s address of record with the department. The notification shall include the reasons for the proposed action and notice of the timelines and procedures set forth in this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The private school that is adversely affected by the proposed action shall have 15 days from receipt of the notice of proposed action to file with the department’s agency clerk a request for a proceeding pursuant to ss. 120.569 and 120.57. If the private school is entitled to a hearing under s. 120.57(1), the department shall forward the request to the Division of Administrative Hearings.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Upon receipt of a request referred pursuant to this paragraph, the director of the Division of Administrative Hearings shall expedite the hearing and assign an administrative law judge who shall commence a hearing within 30 days after the receipt of the formal written request by the division and enter a recommended order within 30 days after the hearing or within 30 days after receipt of the hearing transcript, whichever is later. Each party shall be allowed 10 days in which to submit written exceptions to the recommended order. A final order shall be entered by the agency within 30 days after the entry of a recommended order. The provisions of this subparagraph may be waived upon stipulation by all parties.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The commissioner may immediately suspend payment of scholarship funds if it is determined that there is probable cause to believe that there is:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An imminent threat to the health, safety, or welfare of the students; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Fraudulent activity on the part of the private school. Notwithstanding s. 1002.22, in incidents of alleged fraudulent activity pursuant to this section, the Department of Education’s Office of Inspector General is authorized to release personally identifiable records or reports of students to the following persons or organizations:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A court of competent jurisdiction in compliance with an order of that court or the attorney of record in accordance with a lawfully issued subpoena, consistent with the Family Educational Rights and Privacy Act, 20 U.S.C. s. 1232g.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A person or entity authorized by a court of competent jurisdiction in compliance with an order of that court or the attorney of record pursuant to a lawfully issued subpoena, consistent with the Family Educational Rights and Privacy Act, 20 U.S.C. s. 1232g.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Any person, entity, or authority issuing a subpoena for law enforcement purposes when the court or other issuing agency has ordered that the existence or the contents of the subpoena or the information furnished in response to the subpoena not be disclosed, consistent with the Family Educational Rights and Privacy Act, 20 U.S.C. s. 1232g, and 34 C.F.R. s. 99.31.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The commissioner’s order suspending payment pursuant to this paragraph may be appealed pursuant to the same procedures and timelines as the notice of proposed action set forth in paragraph (b).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">PRIVATE SCHOOL ELIGIBILITY AND OBLIGATIONS.<EmDash />To be eligible to participate in the John M. McKay Scholarships for Students with Disabilities Program, a private school may be sectarian or nonsectarian and must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Comply with all requirements for private schools participating in state school choice scholarship programs pursuant to s. 1002.421.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide to the department all documentation required for a student’s participation, including the private school’s and student’s fee schedules, at least 30 days before any quarterly scholarship payment is made for the student pursuant to paragraph (10)(e). A student is not eligible to receive a quarterly scholarship payment if the private school fails to meet this deadline.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Be academically accountable to the parent for meeting the educational needs of the student by:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">At a minimum, annually providing to the parent a written explanation of the student’s progress.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Cooperating with the scholarship student whose parent chooses to participate in the statewide assessments pursuant to s. 1008.22.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintain in this state a physical location where a scholarship student regularly attends classes.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The inability of a private school to meet the requirements of this subsection shall constitute a basis for the ineligibility of the private school to participate in the scholarship program as determined by the department.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">PARENT AND STUDENT RESPONSIBILITIES FOR PROGRAM PARTICIPATION.<EmDash />A parent who applies for a John M. McKay Scholarship is exercising his or her parental option to place his or her child in a private school.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The parent must select the private school and apply for the admission of his or her child.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parent must have requested the scholarship at least 60 days prior to the date of the first scholarship payment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any student participating in the John M. McKay Scholarships for Students with Disabilities Program must remain in attendance throughout the school year unless excused by the school for illness or other good cause.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each parent and each student has an obligation to the private school to comply with the private school’s published policies.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">If the parent requests that the student participating in the John M. McKay Scholarships for Students with Disabilities Program take all statewide assessments required pursuant to s. 1008.22, the parent is responsible for transporting the student to the assessment site designated by the school district.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Upon receipt of a scholarship warrant, the parent to whom the warrant is made must restrictively endorse the warrant to the private school for deposit into the account of the private school. The parent may not designate any entity or individual associated with the participating private school as the parent’s attorney in fact to endorse a scholarship warrant. A participant who fails to comply with this paragraph forfeits the scholarship.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">JOHN M. MCKAY SCHOLARSHIP FUNDING AND PAYMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The maximum scholarship granted for an eligible student with disabilities shall be equivalent to the base student allocation in the Florida Education Finance Program multiplied by the appropriate cost factor for the educational program that would have been provided for the student in the district school to which he or she was assigned, multiplied by the district cost differential.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">In addition, a share of the guaranteed allocation for exceptional students shall be determined and added to the amount in subparagraph 1. The calculation shall be based on the methodology and the data used to calculate the guaranteed allocation for exceptional students for each district in chapter 2000-166, Laws of Florida. Except as provided in subparagraphs 3. and 4., the calculation shall be based on the student’s grade, matrix level of services, and the difference between the 2000-2001 basic program and the appropriate level of services cost factor, multiplied by the 2000-2001 base student allocation and the 2000-2001 district cost differential for the sending district. The calculated amount shall include the per-student share of supplemental academic instruction funds, instructional materials funds, technology funds, and other categorical funds as provided in the General Appropriations Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The scholarship amount for a student who is eligible under sub-subparagraph (2)(a)2.b. shall be calculated as provided in subparagraphs 1. and 2. However, the calculation shall be based on the school district in which the parent resides at the time of the scholarship request.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Until the school district completes the matrix required by paragraph (5)(b), the calculation shall be based on the matrix that assigns the student to support level I of service as it existed prior to the 2000-2001 school year. When the school district completes the matrix, the amount of the payment shall be adjusted as needed.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The scholarship amount for a student eligible under s. 504 of the Rehabilitation Act of 1973 shall be based on the program cost factor the student currently generates through the Florida Education Finance Program.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The amount of the John M. McKay Scholarship shall be the calculated amount or the amount of the private school’s tuition and fees, whichever is less. The amount of any assessment fee required by the participating private school may be paid from the total amount of the scholarship.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The school district shall report all students who are attending a private school under this program. The students with disabilities attending private schools on John M. McKay Scholarships shall be reported separately from other students reported for purposes of the Florida Education Finance Program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For program participants who are eligible under sub-subparagraph (2)(a)2.b., the school district that is used as the basis for the calculation of the scholarship amount as provided in subparagraph (a)3. shall:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Report to the department all such students who are attending a private school under this program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Be held harmless for such students from the weighted enrollment ceiling for group 2 programs in s. 1011.62(1)(d)3.b. during the first school year in which the students are reported.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Following notification on July 1, September 1, December 1, or February 1 of the number of program participants, the department shall transfer, from General Revenue funds only, the amount calculated under paragraph (b) from the school district’s total funding entitlement under the Florida Education Finance Program and from authorized categorical accounts to a separate account for the scholarship program for quarterly disbursement to the parents of participating students. Funds may not be transferred from any funding provided to the Florida School for the Deaf and the Blind for program participants who are eligible under sub-subparagraph (2)(a)2.b. For a student exiting a Department of Juvenile Justice commitment program who chooses to participate in the scholarship program, the amount of the John M. McKay Scholarship calculated pursuant to paragraph (b) shall be transferred from the school district in which the student last attended a public school before commitment to the Department of Juvenile Justice. When a student enters the scholarship program, the department must receive all documentation required for the student’s participation, including the private school’s and the student’s fee schedules, at least 30 days before the first quarterly scholarship payment is made for the student.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Upon notification by the department that it has received the documentation required under paragraph (d), the Chief Financial Officer shall make scholarship payments in four equal amounts no later than September 1, November 1, February 1, and April 1 of each academic year in which the scholarship is in force. The initial payment shall be made after department verification of admission acceptance, and subsequent payments shall be made upon verification of continued enrollment and attendance at the private school. Payment must be by individual warrant made payable to the student’s parent and mailed by the department to the private school of the parent’s choice, and the parent shall restrictively endorse the warrant to the private school for deposit into the account of the private school.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Subsequent to each scholarship payment, the department shall request from the Department of Financial Services a sample of endorsed warrants to review and confirm compliance with endorsement requirements.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">LIABILITY.<EmDash />No liability shall arise on the part of the state based on the award or use of a John M. McKay Scholarship.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">SCOPE OF AUTHORITY.<EmDash />The inclusion of eligible private schools within options available to Florida public school students does not expand the regulatory authority of the state, its officers, or any school district to impose any additional regulation of private schools beyond those reasonably necessary to enforce requirements expressly set forth in this section.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education shall adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this section, including rules that school districts must use to expedite the development of a matrix of services based on an active individual education plan from another state or a foreign country for a transferring student with a disability who is a dependent child of a member of the United States Armed Forces. The rules must identify the appropriate school district personnel who must complete the matrix of services. For purposes of these rules, a transferring student with a disability is one who was previously enrolled as a student with a disability in an out-of-state or an out-of-country public or private school or agency program and who is transferring from out of state or from a foreign country pursuant to a parent’s permanent change of station orders.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 104, ch. 2002-387; s. 1946, ch. 2003-261; s. 11, ch. 2004-230; s. 1, ch. 2006-75; s. 1, ch. 2006-126; s. 177, ch. 2008-4; s. 2, ch. 2008-204; s. 6, ch. 2009-108; s. 5, ch. 2009-239; s. 15, ch. 2010-24; s. 8, ch. 2010-154; s. 1, ch. 2010-227; s. 1, ch. 2011-127; s. 7, ch. 2011-175.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 20, ch. 2010-24, provides that “[t]he Department of Revenue is authorized and all conditions are deemed met, to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer the provisions of this act. The emergency rules shall remain in effect for 6 months after the rules are adopted and the rules may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

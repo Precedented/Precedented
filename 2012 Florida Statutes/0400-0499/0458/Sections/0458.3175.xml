@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0458.3175" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Expert witness certificate.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall issue a certificate authorizing a physician who holds an active and valid license to practice medicine in another state or a province of Canada to provide expert testimony in this state, if the physician submits to the department:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A complete registration application containing the physician’s legal name, mailing address, telephone number, business locations, the names of the jurisdictions where the physician holds an active and valid license to practice medicine, and the license number or other identifying number issued to the physician by the jurisdiction’s licensing entity; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An application fee of $50.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall approve an application for an expert witness certificate within 10 business days after receipt of the completed application and payment of the application fee if the applicant holds an active and valid license to practice medicine in another state or a province of Canada and has not had a previous expert witness certificate revoked by the board. An application is approved by default if the department does not act upon the application within the required period. A physician must notify the department in writing of his or her intent to rely on a certificate approved by default.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An expert witness certificate is valid for 2 years after the date of issuance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An expert witness certificate authorizes the physician to whom the certificate is issued to do only the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provide a verified written medical expert opinion as provided in s. 766.203.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide expert testimony about the prevailing professional standard of care in connection with medical negligence litigation pending in this state against a physician licensed under this chapter or chapter 459.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An expert witness certificate does not authorize a physician to engage in the practice of medicine as defined in s. 458.305. A physician issued a certificate under this section who does not otherwise practice medicine in this state is not required to obtain a license under this chapter or pay any license fees, including, but not limited to, a neurological injury compensation assessment. An expert witness certificate shall be treated as a license in any disciplinary action, and the holder of an expert witness certificate shall be subject to discipline by the board.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2011-233.</History>
+</Section>

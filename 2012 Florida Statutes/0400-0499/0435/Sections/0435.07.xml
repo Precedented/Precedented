@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0435.07" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemptions from disqualification.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Unless otherwise provided by law, the provisions of this section apply to exemptions from disqualification for disqualifying offenses revealed pursuant to background screenings required under this chapter, regardless of whether those disqualifying offenses are listed in this chapter or other laws.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The head of the appropriate agency may grant to any employee otherwise disqualified from employment an exemption from disqualification for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Felonies for which at least 3 years have elapsed since the applicant for the exemption has completed or been lawfully released from confinement, supervision, or sanction for the disqualifying felony;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Misdemeanors prohibited under any of the statutes cited in this chapter or under similar statutes of other jurisdictions for which the applicant for the exemption has completed or been lawfully released from confinement, supervision, or sanction;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Offenses that were felonies when committed but that are now misdemeanors and for which the applicant for the exemption has completed or been lawfully released from confinement, supervision, or sanction; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Findings of delinquency. For offenses that would be felonies if committed by an adult and the record has not been sealed or expunged, the exemption may not be granted until at least 3 years have elapsed since the applicant for the exemption has completed or been lawfully released from confinement, supervision, or sanction for the disqualifying offense.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For the purposes of this subsection, the term “felonies” means both felonies prohibited under any of the statutes cited in this chapter or under similar statutes of other jurisdictions.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Persons employed, or applicants for employment, by treatment providers who treat adolescents 13 years of age and older who are disqualified from employment solely because of crimes under s. 817.563, s. 893.13, or s. 893.147 may be exempted from disqualification from employment pursuant to this chapter without application of the waiting period in paragraph (1)(a).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In order for the head of an agency to grant an exemption to any employee, the employee must demonstrate by clear and convincing evidence that the employee should not be disqualified from employment. Employees seeking an exemption have the burden of setting forth clear and convincing evidence of rehabilitation, including, but not limited to, the circumstances surrounding the criminal incident for which an exemption is sought, the time period that has elapsed since the incident, the nature of the harm caused to the victim, and the history of the employee since the incident, or any other evidence or circumstances indicating that the employee will not present a danger if employment or continued employment is allowed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency may consider as part of its deliberations of the employee’s rehabilitation the fact that the employee has, subsequent to the conviction for the disqualifying offense for which the exemption is being sought, been arrested for or convicted of another crime, even if that crime is not a disqualifying offense.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The decision of the head of an agency regarding an exemption may be contested through the hearing procedures set forth in chapter 120. The standard of review by the administrative law judge is whether the agency’s intended action is an abuse of discretion.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Disqualification from employment under this chapter may not be removed from, nor may an exemption be granted to, any personnel who is found guilty of, regardless of adjudication, or who has entered a plea of nolo contendere or guilty to, any felony covered by s. 435.03 or s. 435.04 solely by reason of any pardon, executive clemency, or restoration of civil rights.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Disqualification from employment under this chapter may not be removed from, nor may an exemption be granted to, any person who is a:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Sexual predator as designated pursuant to s. 775.21;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Career offender pursuant to s. 775.261; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Sexual offender pursuant to s. 943.0435, unless the requirement to register as a sexual offender has been removed pursuant to s. 943.04354.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Exemptions granted by one agency shall be considered by subsequent agencies, but are not binding on the subsequent agency.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 47, ch. 95-228; s. 47, ch. 2000-349; s. 64, ch. 2001-62; s. 29, ch. 2004-267; s. 9, ch. 2005-128; s. 41, ch. 2010-114.</History>
+</Section>

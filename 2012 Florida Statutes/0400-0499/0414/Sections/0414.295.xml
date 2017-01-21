@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.295" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Temporary cash assistance programs; public records exemption.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Personal identifying information of a temporary cash assistance program participant, a participant’s family, or a participant’s family or household member, except for information identifying a parent who does not live in the same home as the child, held by the department, the Office of Early Learning, Workforce Florida, Inc., the Department of Health, the Department of Revenue, the Department of Education, or a regional workforce board or local committee created pursuant to s. 445.007 is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution. Such confidential and exempt information may be released for purposes directly connected with:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The administration of the temporary assistance for needy families plan under Title IV-A of the Social Security Act, as amended, by the department, the <Reference Number="1"/>Office of Early Learning, Workforce Florida, Inc., the Department of Military Affairs, the Department of Health, the Department of Revenue, the Department of Education, a regional workforce board or local committee created pursuant to s. 445.007, or a school district.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The administration of the state’s plan or program approved under Title IV-B, Title IV-D, or Title IV-E of the Social Security Act, as amended, or under Title I, Title X, Title XIV, Title XVI, Title XIX, Title XX, or Title XXI of the Social Security Act, as amended.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any investigation, prosecution, or any criminal, civil, or administrative proceeding conducted in connection with the administration of any of the plans or programs specified in paragraph (a) or paragraph (b) by a federal, state, or local governmental entity, upon request by that entity, when such request is made pursuant to the proper exercise of that entity’s duties and responsibilities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The administration of any other state, federal, or federally assisted program that provides assistance or services on the basis of need, in cash or in kind, directly to a participant.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any audit or similar activity, such as a review of expenditure reports or financial review, conducted in connection with the administration of any of the plans or programs specified in paragraph (a) or paragraph (b) by a governmental entity authorized by law to conduct such audit or activity.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The administration of the reemployment assistance program.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The reporting to the appropriate agency or official of information about known or suspected instances of physical or mental injury, sexual abuse or exploitation, or negligent treatment or maltreatment of a child or elderly person receiving assistance, if circumstances indicate that the health or welfare of the child or elderly person is threatened.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The administration of services to elderly persons under ss. 430.601-430.606.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If information is obtained from a participant through an integrated eligibility process so that the requirements of more than one state or federal program apply to the information, the requirements of the program that is the provider of the information shall prevail. If the department cannot determine which program is the provider of the information, the requirements of each applicable state or federal program shall be met.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2001-160; s. 2, ch. 2006-287; s. 32, ch. 2008-61; s. 319, ch. 2011-142; s. 64, ch. 2012-30.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “Office” was substituted for the word “Division” by the editors to conform to the correct name of the office.</Text>
+	</Note>
+</Section>

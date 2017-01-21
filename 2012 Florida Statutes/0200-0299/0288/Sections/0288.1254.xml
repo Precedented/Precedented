@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.1254" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Entertainment industry financial incentive program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Certified production” means a qualified production that has tax credits allocated to it by the department based on the production’s estimated qualified expenditures, up to the production’s maximum certified amount of tax credits, by the department. The term does not include a production if its first day of principal photography or project start date in this state occurs before the production is certified by the department, unless the production spans more than 1 fiscal year, was a certified production on its first day of principal photography or project start date in this state, and submits an application for continuing the same production for the subsequent fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro">“Digital media project” means a production of interactive entertainment that is produced for distribution in commercial or educational markets. The term includes a video game or production intended for Internet or wireless distribution, an interactive website, digital animation, and visual effects, including, but not limited to, three-dimensional movie productions and movie conversions. The term does not include a production that contains content that is obscene as defined in s. 847.001.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Reference Number="2" />
+				<Text xml:space="preserve" Style="Intro">“High-impact digital media project” means a digital media project that has qualified expenditures greater than $4.5 million.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“High-impact television series” means a production created to run multiple production seasons and having an estimated order of at least seven episodes per season and qualified expenditures of at least $625,000 per episode.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">“Off-season certified production” means a feature film, independent film, or television series or pilot that films 75 percent or more of its principal photography days from June 1 through November 30.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Principal photography” means the filming of major or significant components of the qualified production which involve lead actors.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">“Production” means a theatrical or direct-to-video motion picture; a made-for-television motion picture; visual effects or digital animation sequences produced in conjunction with a motion picture; a commercial; a music video; an industrial or educational film; an infomercial; a documentary film; a television pilot program; a presentation for a television pilot program; a television series, including, but not limited to, a drama, a reality show, a comedy, a soap opera, a telenovela, a game show, an awards show, or a miniseries production; or a digital media project by the entertainment industry. One season of a television series is considered one production. The term does not include a weather or market program; a sporting event or a sporting event broadcast; a gala; a production that solicits funds; a home shopping program; a political program; a political documentary; political advertising; a gambling-related project or production; a concert production; <Reference Number="3"/>a local, regional, or Internet-distributed-only news show or current-events show; a sports news or sports recap show; a pornographic production; or any production deemed obscene under chapter 847. A production may be produced on or by film, tape, or otherwise by means of a motion picture camera; electronic camera or device; tape device; computer; any combination of the foregoing; or any other means, method, or device.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Production expenditures” means the costs of tangible and intangible property used for, and services performed primarily and customarily in, production, including preproduction and postproduction, but excluding costs for development, marketing, and distribution. The term includes, but is not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Wages, salaries, or other compensation paid to legal residents of this state, including amounts paid through payroll service companies, for technical and production crews, directors, producers, and performers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Net expenditures for sound stages, backlots, production editing, digital effects, sound recordings, sets, and set construction.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Net expenditures for rental equipment, including, but not limited to, cameras and grip or electrical equipment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Up to $300,000 of the costs of newly purchased computer software and hardware unique to the project, including servers, data processing, and visualization technologies, which are located in and used exclusively in the state for the production of digital media.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Expenditures for meals, travel, and accommodations. For purposes of this paragraph, the term “net expenditures” means the actual amount of money a qualified production spent for equipment or other tangible personal property, after subtracting any consideration received for reselling or transferring the item after the qualified production ends, if applicable.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Qualified expenditures” means production expenditures incurred in this state by a qualified production for:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Goods purchased or leased from, or services, including, but not limited to, insurance costs and bonding, payroll services, and legal fees, which are provided by, a vendor or supplier in this state that is registered with the Department of State or the Department of Revenue, has a physical location in this state, and employs one or more legal residents of this state. This does not include rebilled goods or services provided by an in-state company from out-of-state vendors or suppliers. When services are provided by the vendor or supplier include personal services or labor, only personal services or labor provided by residents of this state, evidenced by the required documentation of residency in this state, qualify.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Payments to legal residents of this state in the form of salary, wages, or other compensation up to a maximum of $400,000 per resident unless otherwise specified in subsection (4). A completed declaration of residency in this state must accompany the documentation submitted to the office for reimbursement.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">For a qualified production involving an event, such as an awards show, the term does not include expenditures solely associated with the event itself and not directly required by the production. The term does not include expenditures incurred before certification, with the exception of those incurred for a commercial, a music video, or the pickup of additional episodes of a high-impact television series within a single season. Under no circumstances may the qualified production include in the calculation for qualified expenditures the original purchase price for equipment or other tangible property that is later sold or transferred by the qualified production for consideration. In such cases, the qualified expenditure is the net of the original purchase price minus the consideration received upon sale or transfer.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Qualified production” means a production in this state meeting the requirements of this section. The term does not include a production:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In which, for the first 2 years of the incentive program, less than 50 percent, and thereafter, less than 60 percent, of the positions that make up its production cast and below-the-line production crew, or, in the case of digital media projects, less than 75 percent of such positions, are filled by legal residents of this state, whose residency is demonstrated by a valid Florida driver’s license or other state-issued identification confirming residency, or students enrolled full-time in a film-and-entertainment-related course of study at an institution of higher education in this state; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That contains obscene content as defined in s. 847.001(10).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Qualified production company” means a corporation, limited liability company, partnership, or other legal entity engaged in one or more productions in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Qualified digital media production facility” means a building or series of buildings and their improvements in which data processing, visualization, and sound synchronization technologies are regularly applied for the production of qualified digital media projects or the digital animation components of qualified productions.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Qualified production facility” means a building or complex of buildings and their improvements and associated backlot facilities in which regular filming activity for film or television has occurred for a period of no less than 1 year and which contain at least one sound stage of at least 7,800 square feet.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Regional population ratio” means the ratio of the population of a region to the population of this state. The regional population ratio applicable to a given fiscal year is the regional population ratio calculated by the Office of Film and Entertainment using the latest official estimates of population certified under s. 186.901, available on the first day of that fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Regional tax credit ratio” means a ratio the numerator of which is the sum of tax credits awarded to productions in a region to date plus the tax credits certified, but not yet awarded, to productions currently in that region and the denominator of which is the sum of all tax credits awarded in the state to date plus all tax credits certified, but not yet awarded, to productions currently in the state. The regional tax credit ratio applicable to a given year is the regional tax credit ratio calculated by the Office of Film and Entertainment using credit award and certification information available on the first day of that fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro">“Underutilized region” for a given state fiscal year means a region with a regional tax credit ratio applicable to that fiscal year that is lower than its regional population ratio applicable to that fiscal year. The following regions are established for purposes of making this determination:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">North Region, consisting of Alachua, Baker, Bay, Bradford, Calhoun, Clay, Columbia, Dixie, Duval, Escambia, Franklin, Gadsden, Gilchrist, Gulf, Hamilton, Holmes, Jackson, Jefferson, Lafayette, Leon, Levy, Liberty, Madison, Nassau, Okaloosa, Putnam, Santa Rosa, St. Johns, Suwannee, Taylor, Union, Wakulla, Walton, and Washington Counties.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Central East Region, consisting of Brevard, Flagler, Indian River, Lake, Okeechobee, Orange, Osceola, Seminole, St. Lucie, and Volusia Counties.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Central West Region, consisting of Citrus, Hernando, Hillsborough, Manatee, Marion, Polk, Pasco, Pinellas, Sarasota, and Sumter Counties.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Southwest Region, consisting of Charlotte, Collier, DeSoto, Glades, Hardee, Hendry, Highlands, and Lee Counties.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Southeast Region, consisting of Broward, Martin, Miami-Dade, Monroe, and Palm Beach Counties.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Reference Number="2"/>
+				<Text xml:space="preserve" Style="Intro">“Interactive website” means a website or group of websites that includes interactive and downloadable content, and creates 25 new Florida full-time equivalent positions operating from a principal place of business located within Florida. An interactive website or group of websites must provide documentation that those jobs were created to the Office of Film and Entertainment prior to the award of tax credits. Each subsequent program application must provide proof that 25 Florida full-time equivalent positions are maintained.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">CREATION AND PURPOSE OF PROGRAM.<EmDash />The entertainment industry financial incentive program is created within the Office of Film and Entertainment. The purpose of this program is to encourage the use of this state as a site for filming, for the digital production of films, and to develop and sustain the workforce and infrastructure for film, digital media, and entertainment production.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">APPLICATION PROCEDURE; APPROVAL PROCESS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Program application.</Font><EmDash />A qualified production company producing a qualified production in this state may submit a program application to the Office of Film and Entertainment for the purpose of determining qualification for an award of tax credits authorized by this section no earlier than 180 days before the first day of principal photography or project start date in this state. The applicant shall provide the Office of Film and Entertainment with information required to determine whether the production is a qualified production and to determine the qualified expenditures and other information necessary for the office to determine eligibility for the tax credit.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Required documentation.</Font><EmDash />The Office of Film and Entertainment shall develop an application form for qualifying an applicant as a qualified production. The form must include, but need not be limited to, production-related information concerning employment of residents in this state, a detailed budget of planned qualified expenditures, and the applicant’s signed affirmation that the information on the form has been verified and is correct. The Office of Film and Entertainment and local film commissions shall distribute the form.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Application process.</Font><EmDash />The Office of Film and Entertainment shall establish a process by which an application is accepted and reviewed and by which tax credit eligibility and award amount are determined. The Office of Film and Entertainment may request assistance from a duly appointed local film commission in determining compliance with this section. A certified high-impact television series may submit an initial application for no more than two successive seasons, notwithstanding the fact that the successive seasons have not been ordered. The successive season’s qualified expenditure amounts shall be based on the current season’s estimated qualified expenditures. Upon the completion of production of each season, a high-impact television series may submit an application for no more than one additional season.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Certification.</Font><EmDash />The Office of Film and Entertainment shall review the application within 15 business days after receipt. Upon its determination that the application contains all the information required by this subsection and meets the criteria set out in this section, the Office of Film and Entertainment shall qualify the applicant and recommend to the department that the applicant be certified for the maximum tax credit award amount. Within 5 business days after receipt of the recommendation, the department shall reject the recommendation or certify the maximum recommended tax credit award, if any, to the applicant and to the executive director of the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Grounds for denial.</Font><EmDash />The Office of Film and Entertainment shall deny an application if it determines that the application is not complete or the production or application does not meet the requirements of this section. Within 90 days after submitting a program application, except with respect to applications in the independent and emerging media queue, a production must provide proof of project financing to the Office of Film and Entertainment, otherwise the project is deemed denied and withdrawn. A project that has been withdrawn may submit a new application upon providing the Office of Film and Entertainment proof of financing.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Verification of actual qualified expenditures.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Office of Film and Entertainment shall develop a process to verify the actual qualified expenditures of a certified production. The process must require:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A certified production to submit, in a timely manner after production ends in this state and after making all of its qualified expenditures in this state, data substantiating each qualified expenditure, including documentation on the net expenditure on equipment and other tangible personal property by the qualified production, to an independent certified public accountant licensed in this state;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Such accountant to conduct a compliance audit, at the certified production’s expense, to substantiate each qualified expenditure and submit the results as a report, along with the required substantiating data, to the Office of Film and Entertainment; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The Office of Film and Entertainment to review the accountant’s submittal and report to the department the final verified amount of actual qualified expenditures made by the certified production.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The department shall determine and approve the final tax credit award amount to each certified applicant based on the final verified amount of actual qualified expenditures and shall notify the executive director of the Department of Revenue in writing that the certified production has met the requirements of the incentive program and of the final amount of the tax credit award. The final tax credit award amount may not exceed the maximum tax credit award amount certified under paragraph (d).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Promoting Florida.</Font><EmDash />The Office of Film and Entertainment shall ensure that, as a condition of receiving a tax credit under this section, marketing materials promoting this state as a tourist destination or film and entertainment production destination are included, when appropriate, at no cost to the state, which must, at a minimum, include placement of a “Filmed in Florida” or “Produced in Florida” logo in the end credits. The placement of a “Filmed in Florida” or “Produced in Florida” logo on all packaging material and hard media is also required, unless such placement is prohibited by licensing or other contractual obligations. The size and placement of such logo shall be commensurate to other logos used. If no logos are used, the statement “Filmed in Florida using Florida’s Entertainment Industry Financial Incentive,” or a similar statement approved by the Office of Film and Entertainment, shall be used. The Office of Film and Entertainment shall provide a logo and supply it for the purposes specified in this paragraph. A 30-second “Visit Florida” promotional video must also be included on all optical disc formats of a film, unless such placement is prohibited by licensing or other contractual obligations. The 30-second promotional video shall be approved and provided by the Florida Tourism Industry Marketing Corporation in consultation with the Commissioner of Film and Entertainment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TAX CREDIT ELIGIBILITY; TAX CREDIT AWARDS; QUEUES; ELECTION AND DISTRIBUTION; CARRYFORWARD; CONSOLIDATED RETURNS; PARTNERSHIP AND NONCORPORATE DISTRIBUTIONS; MERGERS AND ACQUISITIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Priority for tax credit award.</Font><EmDash />The priority of a qualified production for tax credit awards must be determined on a first-come, first-served basis within its appropriate queue. Each qualified production must be placed into the appropriate queue and is subject to the requirements of that queue.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1" />
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Tax credit eligibility.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">General production queue.<EmDash />Ninety-four percent of tax credits authorized pursuant to subsection (6) in any state fiscal year must be dedicated to the general production queue. The general production queue consists of all qualified productions other than those eligible for the commercial and music video queue or the independent and emerging media production queue. A qualified production that demonstrates a minimum of $625,000 in qualified expenditures is eligible for tax credits equal to 20 percent of its actual qualified expenditures, up to a maximum of $8 million. A qualified production that incurs qualified expenditures during multiple state fiscal years may combine those expenditures to satisfy the $625,000 minimum threshold.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An off-season certified production that is a feature film, independent film, or television series or pilot is eligible for an additional 5 percent tax credit on actual qualified expenditures. An off-season certified production that does not complete 75 percent of principal photography due to a disruption caused by a hurricane or tropical storm may not be disqualified from eligibility for the additional 5 percent credit as a result of the disruption.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If more than 45 percent of the sum of total tax credits initially certified and awarded after April 1, 2012, total tax credits initially certified after April 1, 2012, but not yet awarded, and total tax credits available for certification after April 1, 2012, but not yet certified has been awarded for high-impact television series, then no high-impact television series is eligible for tax credits under this subparagraph. Tax credits initially certified for a high-impact television series after April 1, 2012, may not be awarded if the award will cause the percentage threshold in this sub-subparagraph to be exceeded. This sub-subparagraph does not prohibit the award of tax credits certified before April 1, 2012, for high-impact television series.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Subject to sub-subparagraph b., first priority in the queue for tax credit awards not yet certified shall be given to high-impact television series and high-impact digital media projects. For the purposes of determining priority between a high-impact television series and a high-impact digital media project, the first position must go to the first application received. Thereafter, priority shall be determined by alternating between a high-impact television series and a high-impact digital media project on a first-come, first-served basis. However, if the Office of Film and Entertainment receives an application for a high-impact television series or high-impact digital media project that would be certified but for the alternating priority, the office may certify the project as being in the priority position if an application that would normally be the priority position is not received within 5 business days.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A qualified production for which at least 67 percent of its principal photography days occur within a region designated as an underutilized region at the time that the production is certified is eligible for an additional 5 percent tax credit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A qualified production that employs students enrolled full-time in a film and entertainment-related or digital media-related course of study at an institution of higher education in this state is eligible for an additional 15 percent tax credit on qualified expenditures that are wages, salaries, or other compensation paid to such students. The additional 15 percent tax credit is also applicable to persons hired within 12 months after graduating from a film and entertainment-related or digital media-related course of study at an institution of higher education in this state. The additional 15 percent tax credit applies to qualified expenditures that are wages, salaries, or other compensation paid to such recent graduates for 1 year after the date of hiring.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">A qualified production for which 50 percent or more of its principal photography occurs at a qualified production facility, or a qualified digital media project or the digital animation component of a qualified production for which 50 percent or more of the project’s or component’s qualified expenditures are related to a qualified digital media production facility, is eligible for an additional 5 percent tax credit on actual qualified expenditures for production activity at that facility.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">A qualified production is not eligible for tax credits provided under this paragraph totaling more than 30 percent of its actual qualified expenses.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Commercial and music video queue.<EmDash />Three percent of tax credits authorized pursuant to subsection (6) in any state fiscal year must be dedicated to the commercial and music video queue. A qualified production company that produces national or regional commercials or music videos may be eligible for a tax credit award if it demonstrates a minimum of $100,000 in qualified expenditures per national or regional commercial or music video and exceeds a combined threshold of $500,000 after combining actual qualified expenditures from qualified commercials and music videos during a single state fiscal year. After a qualified production company that produces commercials, music videos, or both reaches the threshold of $500,000, it is eligible to apply for certification for a tax credit award. The maximum credit award shall be equal to 20 percent of its actual qualified expenditures up to a maximum of $500,000. If there is a surplus at the end of a fiscal year after the Office of Film and Entertainment certifies and determines the tax credits for all qualified commercial and video projects, such surplus tax credits shall be carried forward to the following fiscal year and are available to any eligible qualified productions under the general production queue.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Independent and emerging media production queue.<EmDash />Three percent of tax credits authorized pursuant to subsection (6) in any state fiscal year must be dedicated to the independent and emerging media production queue. This queue is intended to encourage independent film and emerging media production in this state. Any qualified production, excluding commercials, infomercials, or music videos, which demonstrates at least $100,000, but not more than $625,000, in total qualified expenditures is eligible for tax credits equal to 20 percent of its actual qualified expenditures. If a surplus exists at the end of a fiscal year after the Office of Film and Entertainment certifies and determines the tax credits for all qualified independent and emerging media production projects, such surplus tax credits shall be carried forward to the following fiscal year and are available to any eligible qualified productions under the general production queue.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Family-friendly productions.<EmDash />A certified theatrical or direct-to-video motion picture production or video game determined by the Commissioner of Film and Entertainment, with the advice of the Florida Film and Entertainment Advisory Council, to be family-friendly, based on review of the script and review of the final release version, is eligible for an additional tax credit equal to 5 percent of its actual qualified expenditures. Family-friendly productions are those that have cross-generational appeal; would be considered suitable for viewing by children age 5 or older; are appropriate in theme, content, and language for a broad family audience; embody a responsible resolution of issues; and do not exhibit or imply any act of smoking, sex, nudity, or vulgar or profane language.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Withdrawal of tax credit eligibility.</Font><EmDash />A qualified or certified production must continue on a reasonable schedule, which includes beginning principal photography or the production project in this state no more than 45 calendar days before or after the principal photography or project start date provided in the production’s program application. The department shall withdraw the eligibility of a qualified or certified production that does not continue on a reasonable schedule.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Election and distribution of tax credits.</Font><EmDash /></Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A certified production company receiving a tax credit award under this section shall, at the time the credit is awarded by the department after production is completed and all requirements to receive a credit award have been met, make an irrevocable election to apply the credit against taxes due under chapter 220, against state taxes collected or accrued under chapter 212, or against a stated combination of the two taxes. The election is binding upon any distributee, successor, transferee, or purchaser. The department shall notify the Department of Revenue of any election made pursuant to this paragraph.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A qualified production company is eligible for tax credits against its sales and use tax liabilities and corporate income tax liabilities as provided in this section. However, tax credits awarded under this section may not be claimed against sales and use tax liabilities or corporate income tax liabilities for any tax period beginning before July 1, 2011, regardless of when the credits are applied for or awarded.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Tax credit carryforward.</Font><EmDash />If the certified production company cannot use the entire tax credit in the taxable year or reporting period in which the credit is awarded, any excess amount may be carried forward to a succeeding taxable year or reporting period. A tax credit applied against taxes imposed under chapter 212 may be carried forward for a maximum of 5 years after the date the credit is awarded. A tax credit applied against taxes imposed under chapter 220 may be carried forward for a maximum of 5 years after the date the credit is awarded, after which the credit expires and may not be used.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Consolidated returns.</Font><EmDash />A certified production company that files a Florida consolidated return as a member of an affiliated group under s. 220.131(1) may be allowed the credit on a consolidated return basis up to the amount of the tax imposed upon the consolidated group under chapter 220.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Partnership and noncorporate distributions.</Font><EmDash />A qualified production company that is not a corporation as defined in s. 220.03 may elect to distribute tax credits awarded under this section to its partners or members in proportion to their respective distributive income or loss in the taxable year in which the tax credits were awarded.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Mergers or acquisitions.</Font><EmDash />Tax credits available under this section to a certified production company may succeed to a surviving or acquiring entity subject to the same conditions and limitations as described in this section; however, they may not be transferred again by the surviving or acquiring entity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">TRANSFER OF TAX CREDITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Authorization.</Font><EmDash />Upon application to the Office of Film and Entertainment and approval by the department, a certified production company, or a partner or member that has received a distribution under paragraph (4)(g), may elect to transfer, in whole or in part, any unused credit amount granted under this section. An election to transfer any unused tax credit amount under chapter 212 or chapter 220 must be made no later than 5 years after the date the credit is awarded, after which period the credit expires and may not be used. The department shall notify the Department of Revenue of the election and transfer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Number of transfers permitted.</Font><EmDash />A certified production company that elects to apply a credit amount against taxes remitted under chapter 212 is permitted a one-time transfer of unused credits to one transferee. A certified production company that elects to apply a credit amount against taxes due under chapter 220 is permitted a one-time transfer of unused credits to no more than four transferees, and such transfers must occur in the same taxable year.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Reference Number="4" />
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Transferee rights and limitations.</Font><EmDash />The transferee is subject to the same rights and limitations as the certified production company awarded the tax credit, except that the initial transferee shall be permitted a one-time transfer of unused credits to no more than two subsequent transferees, and such transfers must occur in the same taxable year as the credits were received by the initial transferee, after which the subsequent transferees may not sell or otherwise transfer the tax credit.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">RELINQUISHMENT OF TAX CREDITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Beginning July 1, 2011, a certified production company, or any person who has acquired a tax credit from a certified production company pursuant to subsections (4) and (5), may elect to relinquish the tax credit to the Department of Revenue in exchange for 90 percent of the amount of the relinquished tax credit.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Department of Revenue may approve payments to persons relinquishing tax credits pursuant to this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Subject to legislative appropriation, the Department of Revenue shall request the Chief Financial Officer to issue warrants to persons relinquishing tax credits. Payments under this subsection shall be made from the funds from which the proceeds from the taxes against which the tax credits could have been applied pursuant to the irrevocable election made by the certified production company under subsection (4) are deposited.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Reference Number="2"/>
+			<Text xml:space="preserve" Style="Intro">ANNUAL ALLOCATION OF TAX CREDITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Reference Number="4"/>
+				<Text xml:space="preserve" Style="Intro">The aggregate amount of the tax credits that may be certified pursuant to paragraph (3)(d) may not exceed:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For fiscal year 2010-2011, $53.5 million.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For fiscal year 2011-2012, $74.5 million.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For fiscal years 2012-2013, 2013-2014, 2014-2015, and 2015-2016, $42 million per fiscal year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any portion of the maximum amount of tax credits established per fiscal year in paragraph (a) that is not certified as of the end of a fiscal year shall be carried forward and made available for certification during the following 2 fiscal years in addition to the amounts available for certification under paragraph (a) for those fiscal years.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon approval of the final tax credit award amount pursuant to subparagraph (3)(f)2., an amount equal to the difference between the maximum tax credit award amount previously certified under paragraph (3)(d) and the approved final tax credit award amount shall immediately be available for recertification during the current and following fiscal years in addition to the amounts available for certification under paragraph (a) for those fiscal years.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If, during a fiscal year, the total amount of credits applied for, pursuant to paragraph (3)(a), exceeds the amount of credits available for certification in that fiscal year, such excess shall be treated as having been applied for on the first day of the next fiscal year in which credits remain available for certification.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">RULES, POLICIES, AND PROCEDURES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules pursuant to ss. 120.536(1) and 120.54 and develop policies and procedures to implement and administer this section, including, but not limited to, rules specifying requirements for the application and approval process, records required for substantiation for tax credits, procedures for making the election in paragraph (4)(d), the manner and form of documentation required to claim tax credits awarded or transferred under this section, and marketing requirements for tax credit recipients.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Department of Revenue may adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this section, including rules governing the examination and audit procedures required to administer this section and the manner and form of documentation required to claim tax credits awarded, transferred, or relinquished under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">AUDIT AUTHORITY; REVOCATION AND FORFEITURE OF TAX CREDITS; FRAUDULENT CLAIMS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Audit authority.</Font><EmDash />The Department of Revenue may conduct examinations and audits as provided in s. 213.34 to verify that tax credits under this section are received, transferred, and applied according to the requirements of this section. If the Department of Revenue determines that tax credits are not received, transferred, or applied as required by this section, it may, in addition to the remedies provided in this subsection, pursue recovery of such funds pursuant to the laws and rules governing the assessment of taxes.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Revocation of tax credits.</Font><EmDash />The department may revoke or modify any written decision qualifying, certifying, or otherwise granting eligibility for tax credits under this section if it is discovered that the tax credit applicant submitted any false statement, representation, or certification in any application, record, report, plan, or other document filed in an attempt to receive tax credits under this section. The department shall immediately notify the Department of Revenue of any revoked or modified orders affecting previously granted tax credits. Additionally, the applicant must notify the Department of Revenue of any change in its tax credit claimed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Forfeiture of tax credits.</Font><EmDash />A determination by the Department of Revenue, as a result of an audit pursuant to paragraph (a) or from information received from the Office of Film and Entertainment, that an applicant received tax credits pursuant to this section to which the applicant was not entitled is grounds for forfeiture of previously claimed and received tax credits. The applicant is responsible for returning forfeited tax credits to the Department of Revenue, and such funds shall be paid into the General Revenue Fund of the state. Tax credits purchased in good faith are not subject to forfeiture unless the transferee submitted fraudulent information in the purchase or failed to meet the requirements in subsection (5).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Fraudulent claims.</Font><EmDash />Any applicant that submits fraudulent information under this section is liable for reimbursement of the reasonable costs and fees associated with the review, processing, investigation, and prosecution of the fraudulent claim. An applicant that obtains a credit payment under this section through a claim that is fraudulent is liable for reimbursement of the credit amount plus a penalty in an amount double the credit amount. The penalty is in addition to any criminal penalty to which the applicant is liable for the same acts. The applicant is also liable for costs and fees incurred by the state in investigating and prosecuting the fraudulent claim.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Reference Number="4" />
+			<Text xml:space="preserve" Style="Intro">ANNUAL REPORT.<EmDash />Each October 1, the Office of Film and Entertainment shall provide an annual report for the previous fiscal year to the Governor, the President of the Senate, and the Speaker of the House of Representatives which outlines the return on investment and economic benefits to the state. The report shall also include an estimate of the full-time equivalent positions created by each production that received tax credits under this section and information relating to the distribution of productions receiving credits by geographic region and type of production.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Reference Number="2"/>
+			<Text xml:space="preserve" Style="Intro">REPEAL.<EmDash />This section is repealed July 1, 2016, except that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Tax credits certified under paragraph (3)(d) before July 1, 2016, may be awarded under paragraph (3)(f) on or after July 1, 2016, if the other requirements of this section are met.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Tax credits carried forward under paragraph (4)(e) remain valid for the period specified.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Subsections (5), (8) and (9) shall remain in effect until July 1, 2021.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2003-81; s. 2, ch. 2005-233; s. 2, ch. 2007-125; s. 56, ch. 2008-4; s. 38, ch. 2009-82; s. 28, ch. 2010-147; s. 26, ch. 2011-76; s. 170, ch. 2011-142; s. 15, ch. 2012-32; s. 44, ch. 2012-96.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Indent">A. Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Section 25, ch. 2012-32, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Section 25, ch. 2012-32, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="3">
+		<Text xml:space="preserve" Style="Intro">The word “or” preceding the word “a” was deleted by the editors.</Text>
+	</Note>
+	<Note Reference="4">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

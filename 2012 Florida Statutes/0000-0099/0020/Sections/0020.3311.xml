@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.3311" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Additional powers of commission.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Fish and Wildlife Conservation Commission is assigned all powers, duties, responsibilities, functions, positions, and property necessary for enforcement of the laws and rules governing:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Management, protection, conservation, improvement, and expansion of the state-owned lands managed by the Department of Environmental Protection, including state parks, coastal and aquatic managed areas, and greenways and trails.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Conservation and recreation lands and commercial aquaculture managed by the Department of Agriculture and Consumer Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Law enforcement officers of the Fish and Wildlife Conservation Commission are conferred full power to investigate and arrest for any violation of the rules of the Department of Agriculture and Consumer Services, the Department of Environmental Protection, and the Board of Trustees of the Internal Improvement Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2012-88.</History>
+</Section>

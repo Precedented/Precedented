@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0395.403" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reimbursement of trauma centers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All trauma centers shall be considered eligible to receive state funding when state funds are specifically appropriated for state-sponsored trauma centers in the General Appropriations Act. Effective July 1, 2010, the department shall make payments from the Emergency Medical Services Trust Fund under s. 20.435 to the trauma centers. Payments shall be in equal amounts for the trauma centers approved by the department as of July 1 of the fiscal year in which funding is appropriated. In the event a trauma center does not maintain its status as a trauma center for any state fiscal year in which such funding is appropriated, the trauma center shall repay the state for the portion of the year during which it was not a trauma center.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Trauma centers eligible to receive distributions from the Emergency Medical Services Trust Fund under s. 20.435 in accordance with subsection (1) may request that such funds be used as intergovernmental transfer funds in the Medicaid program.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In order to receive state funding, a hospital shall be a trauma center and shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Agree to conform to all departmental requirements as provided by rule to assure high-quality trauma services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Agree to provide information concerning the provision of trauma services to the department, in a form and manner prescribed by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Agree to accept all trauma patients, regardless of ability to pay, on a functional space-available basis.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A trauma center that fails to comply with any of the conditions listed in subsection (3) or the applicable rules of the department shall not receive payments under this section for the period in which it was not in compliance.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 7, 15, ch. 90-284; s. 79, ch. 91-282; s. 92, ch. 92-33; ss. 39, 98, ch. 92-289; s. 19, ch. 98-89; s. 8, ch. 2004-259; s. 10, ch. 2010-161.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 395.034.</Text>
+	</Note>
+</Section>

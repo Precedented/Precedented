@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0014" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Challenge procedure.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The parties may agree on a procedure for challenging an arbitrator, subject to subsection (3).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Failing such agreement, a party who intends to challenge an arbitrator shall, within 15 days after becoming aware of the constitution of the arbitral tribunal or after becoming aware of any circumstance described in s. 684.0013(2), send a written statement of the reasons for the challenge to the arbitral tribunal. Unless the challenged arbitrator withdraws from his or her office or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a challenge under any procedure agreed upon by the parties or pursuant to subsection (2) is not successful, the challenging party may request, within 30 days after having received notice of the decision rejecting the challenge, the court specified in s. 684.0008 to decide on the challenge. The decision of the court is not appealable. While such a request is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitral proceedings and make an award.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 2010-60.</History>
+</Section>

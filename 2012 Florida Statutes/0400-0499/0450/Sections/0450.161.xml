@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0450.161" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Chapter not to affect career education of children; other exceptions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Nothing in this chapter shall prevent minors of any age from receiving career education furnished by the United States, this state, or any county or other political subdivision of this state and duly approved by the Department of Education or other duly constituted authority, nor any apprentice indentured under a plan approved by the Department of Economic Opportunity, or prevent the employment of any minor 14 years of age or older when such employment is authorized as an integral part of, or supplement to, such a course in career education and is authorized by regulations of the district school board of the district in which such minor is employed, provided the employment is in compliance with the provisions of ss. 450.021(4) and 450.061. Exemptions for the employment of student learners 16 to 18 years of age are provided in s. 450.061. Such an exemption shall apply when:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The student learner is enrolled in a youth vocational training program under a recognized state or local educational authority.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Such student learner is employed under a written agreement that provides:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That the work of the student learner in the occupation declared particularly hazardous shall be incidental to the training.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That such work shall be intermittent and for short periods of time and under the direct and close supervision of a qualified and experienced person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That safety instructions shall be given by the school and correlated by the employer with on-the-job training.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">That a schedule of organized and progressive work processes to be performed on the job shall have been prepared.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Each such written agreement shall contain the name of the student learner and shall be signed by the employer, the school coordinator and principal, and the parent or legal guardian. Copies of each agreement shall be kept on file by both the school and the employer. This exemption for the employment of student learners may be revoked in any individual situation when it is found that reasonable precautions have not been observed for the safety of minors employed thereunder. A high school graduate may be employed in an occupation in which he or she has completed training as a student learner, as provided in this section, even though he or she is not yet 18 years of age.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 28240, 1953; s. 7, ch. 61-182; ss. 15, 17, 35, ch. 69-106; s. 1, ch. 69-300; s. 1, ch. 73-283; s. 2, ch. 75-195; s. 40, ch. 83-174; s. 29, ch. 95-345; s. 2, ch. 96-356; s. 400, ch. 2011-142; s. 27, ch. 2011-213.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 400, ch. 2011-142. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” The introductory paragraph of s. 450.161 was also amended by s. 27, ch. 2011-213, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">450.161 Chapter not to affect career education of children; other exceptions.</Font><EmDash/>Nothing in this chapter shall prevent minors of any age from receiving career education furnished by the United States, this state, or any county or other political subdivision of this state and duly approved by the Department of Education or other duly constituted authority, nor any apprentice indentured under a plan approved by the Department of Education, or prevent the employment of any minor 14 years of age or older when such employment is authorized as an integral part of, or supplement to, such a course in career education and is authorized by regulations of the district school board of the district in which such minor is employed, provided the employment is in compliance with the provisions of ss. 450.021(4) and 450.061. Exemptions for the employment of student learners 16 to 18 years of age are provided in s. 450.061. Such an exemption shall apply when:</Text>
+	</Note>
+</Section>

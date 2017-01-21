@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.085" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Textbook affordability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No employee of a Florida College System institution or state university may demand or receive any payment, loan, subscription, advance, deposit of money, service, or anything of value, present or promised, in exchange for requiring students to purchase a specific textbook for coursework or instruction.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An employee may receive:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Sample copies, instructor copies, or instructional materials. These materials may not be sold for any type of compensation if they are specifically marked as free samples not for resale.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Royalties or other compensation from sales of textbooks that include the instructor’s own writing or work.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Honoraria for academic peer review of course materials.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Fees associated with activities such as reviewing, critiquing, or preparing support materials for textbooks pursuant to guidelines adopted by the State Board of Education or the Board of Governors.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Training in the use of course materials and learning technologies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions and state universities shall post on their websites, as early as is feasible, but not less than 30 days prior to the first day of class for each term, a list of each textbook required for each course offered at the institution during the upcoming term. The posted list must include the International Standard Book Number (ISBN) for each required textbook or other identifying information, which must include, at a minimum, all of the following: the title, all authors listed, publishers, edition number, copyright date, published date, and other relevant information necessary to identify the specific textbook or textbooks required for each course. The State Board of Education and the Board of Governors shall include in the policies, procedures, and guidelines adopted under subsection (4) certain limited exceptions to this notification requirement for classes added after the notification deadline.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education and the Board of Governors each shall adopt policies, procedures, and guidelines for implementation by Florida College System institutions and state universities, respectively, that further efforts to minimize the cost of textbooks for students attending such institutions while maintaining the quality of education and academic freedom. The policies, procedures, and guidelines shall provide for the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That textbook adoptions are made with sufficient lead time to bookstores so as to confirm availability of the requested materials and, where possible, ensure maximum availability of used books.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That, in the textbook adoption process, the intent to use all items ordered, particularly each individual item sold as part of a bundled package, is confirmed by the course instructor or the academic department offering the course before the adoption is finalized.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That a course instructor or the academic department offering the course determines, before a textbook is adopted, the extent to which a new edition differs significantly and substantively from earlier versions and the value of changing to a new edition or the extent to which an open-access textbook may exist and be used.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">That the establishment of policies shall address the availability of required textbooks to students otherwise unable to afford the cost, including consideration of the extent to which an open-access textbook may be used.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">That course instructors and academic departments are encouraged to participate in the development, adaptation, and review of open-access textbooks and, in particular, open-access textbooks for high-demand general education courses.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2008-78; s. 4, ch. 2010-155; s. 45, ch. 2011-5.</History>
+</Section>

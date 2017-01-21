@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0216.023" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Legislative budget requests to be furnished to Legislature by agencies.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The head of each state agency, except as provided in subsection (2), shall submit a final legislative budget request to the Legislature and to the Governor, as chief budget officer of the state, in the form and manner prescribed in the budget instructions and at such time as specified by the Executive Office of the Governor, based on the agency’s independent judgment of its needs. However, a state agency may not submit its complete legislative budget request, including all supporting forms and schedules required by this chapter, later than October 15 of each year unless an alternative date is agreed to be in the best interest of the state by the Governor and the chairs of the legislative appropriations committees.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The judicial branch and the Division of Administrative Hearings shall submit their complete legislative budget requests directly to the Legislature with a copy to the Governor, as chief budget officer of the state, in the form and manner as prescribed in the budget instructions. However, the complete legislative budget requests, including all supporting forms and schedules required by this chapter, shall be submitted no later than October 15 of each year unless an alternative date is agreed to be in the best interest of the state by the Governor and the chairs of the legislative appropriations committees.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Executive Office of the Governor and the appropriations committees of the Legislature shall jointly develop legislative budget instructions for preparing the exhibits and schedules that make up the agency budget from which each agency and the judicial branch shall prepare their budget request. The budget instructions shall be consistent with s. 216.141 and shall be transmitted to each agency and to the judicial branch no later than July 15 of each year unless an alternative date is agreed to be in the best interest of the state by the Governor and the chairs of the legislative appropriations committees. In the event that agreement cannot be reached between the Executive Office of the Governor and the appropriations committees of the Legislature regarding legislative budget instructions, the issue shall be resolved by the Governor, the President of the Senate, and the Speaker of the House of Representatives.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The legislative budget request must contain for each program:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The constitutional or statutory authority for a program, a brief purpose statement, and approved program components.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Information on expenditures for 3 fiscal years (actual prior-year expenditures, current-year estimated expenditures, and agency budget requested expenditures for the next fiscal year) by appropriation category.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Details on trust funds and fees.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The total number of positions (authorized, fixed, and requested).</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">An issue narrative describing and justifying changes in amounts and positions requested for current and proposed programs for the next fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Information resource requests.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Supporting information, including applicable cost-benefit analyses, business case analyses, performance contracting procedures, service comparisons, and impacts on performance standards for any request to outsource or privatize agency functions. The cost-benefit and business case analyses must include an assessment of the impact on each affected activity from those identified in accordance with paragraph (b). Performance standards must include standards for each affected activity and be expressed in terms of the associated unit of activity.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">An evaluation of any major outsourcing and privatization initiatives undertaken during the last 5 fiscal years having aggregate expenditures exceeding $10 million during the term of the contract. The evaluation shall include an assessment of contractor performance, a comparison of anticipated service levels to actual service levels, and a comparison of estimated savings to actual savings achieved. Consolidated reports issued by the Department of Management Services may be used to satisfy this requirement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Supporting information for any proposed consolidated financing of deferred-payment commodity contracts including guaranteed energy performance savings contracts. Supporting information must also include narrative describing and justifying the need, baseline for current costs, estimated cost savings, projected equipment purchases, estimated contract costs, and return on investment calculation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">For projects that exceed $10 million in total cost, the statutory reference of the existing policy or the proposed substantive policy that establishes and defines the project’s governance structure, planned scope, main business objectives that must be achieved, and estimated completion timeframes. Information technology budget requests for the continuance of existing hardware and software maintenance agreements, renewal of existing software licensing agreements, or the replacement of desktop units with new technology that is similar to the technology currently in use are exempt from this requirement.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that total accountability measures, including unit-cost data, serve not only as a budgeting tool but also as a policymaking tool and an accountability tool. Therefore, each state agency and the judicial branch must submit a summary of information for the preceding year in accordance with the legislative budget instructions. Each summary must provide a one-page overview and must contain:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The final budget for the agency and the judicial branch.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Total funds from the General Appropriations Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Adjustments to the General Appropriations Act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The line-item listings of all activities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The number of activity units performed or accomplished.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Total expenditures for each activity, including amounts paid to contractors and subordinate entities. Expenditures related to administrative activities not aligned with output measures must consistently be allocated to activities with output measures prior to computing unit costs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The cost per unit for each activity, including the costs allocated to contractors and subordinate entities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The total amount of reversions and pass-through expenditures omitted from unit-cost calculations.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">At the regular session immediately following the submission of the agency unit cost summary, the Legislature shall reduce in the General Appropriations Act for the ensuing fiscal year, by an amount equal to at least 10 percent of the allocation for the fiscal year preceding the current fiscal year, the funding of each state agency that fails to submit the report required under this paragraph.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">As a part of the legislative budget request, the head of each state agency and the Chief Justice of the Supreme Court for the judicial branch shall include an inventory of all litigation in which the agency is involved that may require additional appropriations to the agency, that may significantly affect revenues received or anticipated to be received by the state, or that may require amendments to the law under which the agency operates. No later than March 1 following the submission of the legislative budget request, the head of the state agency and the Chief Justice of the Supreme Court shall provide an update of any additions or changes to the inventory. Such inventory shall include information specified annually in the legislative budget instructions and, within the discretion of the head of the state agency or the Chief Justice of the Supreme Court, may contain only information found in the pleadings.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">As part of the legislative budget request, each state agency must include the following information for each contract in which the consideration to be paid to the agency is a percentage of the vendor revenue and in excess of $10 million under the contract period:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the vendor.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A brief description of the services provided by the vendor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The term of the contract and the years remaining on the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The amount of revenue generated or expected to be generated by the vendor under the contract for the prior fiscal year, the current fiscal year, and the next fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The amount of revenue remitted or expected to be remitted to the state agency by the vendor for the prior fiscal year, the current fiscal year, and the next fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The value of capital improvements, if any, on state property which have been funded by the vendor over the term of the contract.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The remaining amount of capital improvements, if any, on state property which have not been fully amortized by June 30 of the prior fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The amount, if any, of state appropriations made to the state agency to pay for services provided by the vendor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The Executive Office of the Governor shall review the legislative budget request for technical compliance with the budget format provided for in the budget instructions. The Executive Office of the Governor shall notify the agency or the judicial branch of any adjustment required. The agency or judicial branch shall make the appropriate corrections as requested. If the appropriate technical corrections are not made as requested, the Executive Office of the Governor shall adjust the budget request to incorporate the appropriate technical corrections in the format of the request.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">At any time after the Governor submits his or her recommended budget to the Legislature, the head of the agency or judicial branch may amend his or her request by transmitting to the Governor and the Legislature an amended request in the form and manner prescribed in the legislative budget instructions.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The legislative budget request from each agency and from the judicial branch shall be reviewed by the Legislature. The review may allow for the opportunity to have information or testimony by the agency, the judicial branch, the Auditor General, the Office of Program Policy Analysis and Government Accountability, the Governor’s Office of Planning and Budgeting, and the public regarding the proper level of funding for the agency in order to carry out its mission.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">In order to ensure an integrated state planning and budgeting process, the agency long-range plan should be reviewed by the Legislature. The legislative budget request instructions must provide for consistency between the agency’s long-range plan and the agency’s legislative budget request.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 31, ch. 69-106; s. 1, ch. 77-314; s. 3, ch. 77-352; s. 11, ch. 79-190; s. 2, ch. 80-45; s. 4, ch. 83-49; s. 2, ch. 86-297; s. 2, ch. 89-51; s. 8, ch. 90-110; s. 4, ch. 91-109; s. 38, ch. 92-142; s. 1157, ch. 95-147; s. 15, ch. 97-95; s. 18, ch. 2000-237; s. 7, ch. 2000-371; s. 3, ch. 2001-56; s. 2, ch. 2001-238; s. 9, ch. 2001-266; s. 2, ch. 2001-380; s. 1, ch. 2003-55; s. 20, ch. 2005-2; s. 15, ch. 2005-152; s. 7, ch. 2006-119; s. 26, ch. 2006-122; s. 17, ch. 2006-146; s. 12, ch. 2007-105; s. 2, ch. 2011-45.</History>
+</Section>

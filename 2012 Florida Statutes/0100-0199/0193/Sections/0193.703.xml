@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0193.703" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reduction in assessment for living quarters of parents or grandparents.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In accordance with s. 4(f), Art. VII of the State Constitution, a county may provide for a reduction in the assessed value of homestead property which results from the construction or reconstruction of the property for the purpose of providing living quarters for one or more natural or adoptive parents or grandparents of the owner of the property or of the owner’s spouse if at least one of the parents or grandparents for whom the living quarters are provided is at least 62 years of age.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A reduction may be granted under subsection (1) only to the owner of homestead property where the construction or reconstruction is consistent with local land development regulations.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A reduction in assessment which is granted under this section applies only to construction or reconstruction that occurred after the effective date of this section to an existing homestead and applies only during taxable years during which at least one such parent or grandparent maintains his or her primary place of residence in such living quarters within the homestead property of the owner.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Such a reduction in assessment may be granted only upon an application filed annually with the county property appraiser. The application must be made before March 1 of the year for which the reduction is to be granted. If the property appraiser is satisfied that the property is entitled to a reduction in assessment under this section, the property appraiser shall approve the application, and the value of such residential improvements shall be excluded from the value of the property for purposes of ad valorem taxation. The value excluded may not exceed the lesser of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The increase in assessed value resulting from construction or reconstruction of the property; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Twenty percent of the total assessed value of the property as improved.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the owner of homestead property for which such a reduction in assessed value has been granted is found to have made any willfully false statement in the application for the reduction, the reduction shall be revoked, the owner is subject to a civil penalty of not more than $1,000, and the owner shall be disqualified from receiving any such reduction for a period of 5 years.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">When the property owner no longer qualifies for the reduction in assessed value for living quarters of parents or grandparents, the previously excluded just value of such improvements as of the first January 1 after the improvements were substantially completed shall be added back to the assessed value of the property.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-226; s. 24, ch. 2010-5.</History>
+</Section>

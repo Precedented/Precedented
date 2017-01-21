@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0468.8412" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department, by rule, may establish fees to be paid for application, examination, reexamination, licensing and renewal, inactive status application and reactivation of inactive licenses, and application for providers of continuing education. The department may also establish by rule a delinquency fee. Fees shall be based on department estimates of the revenue required to implement the provisions of this part. All fees shall be remitted with the application, examination, reexamination, licensing and renewal, inactive status application and reactivation of inactive licenses, and application for providers of continuing education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The application fee shall not exceed $125 and is nonrefundable. The examination fee shall not exceed $125 plus the actual per applicant cost to the department to purchase the examination, if the department chooses to purchase the examination. The examination fee shall be in an amount that covers the cost of obtaining and administering the examination and shall be refunded if the applicant is found ineligible to sit for the examination.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The fee for an initial license shall not exceed $200.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The fee for an initial certificate of authorization shall not exceed $200.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The fee for a biennial license renewal shall not exceed $400.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The fee for licensure by endorsement shall not exceed $200.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The fee for application for inactive status shall not exceed $100.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The fee for reactivation of an inactive license shall not exceed $200.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The fee for applications from providers of continuing education may not exceed $500.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2007-235; s. 25, ch. 2010-106; s. 17, ch. 2010-176.</History>
+</Section>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0720.404" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligible residential communities; requirements for revival of declaration.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Parcel owners in a community are eligible to seek approval from the Department of Economic Opportunity to revive a declaration of covenants under this act if all of the following requirements are met:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All parcels to be governed by the revived declaration must have been once governed by a previous declaration that has ceased to govern some or all of the parcels in the community;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The revived declaration must be approved in the manner provided in s. 720.405(6); and</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The revived declaration may not contain covenants that are more restrictive on the parcel owners than the covenants contained in the previous declaration, except that the declaration may:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Have an effective term of longer duration than the term of the previous declaration;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Omit restrictions contained in the previous declaration;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Govern fewer than all of the parcels governed by the previous declaration;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provide for amendments to the declaration and other governing documents; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Contain provisions required by this chapter for new declarations that were not contained in the previous declaration.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 2004-345; s. 8, ch. 2004-353; s. 438, ch. 2011-142.</History>
+</Section>

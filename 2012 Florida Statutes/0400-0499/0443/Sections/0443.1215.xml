@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1215" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Employers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each of the following employing units is an employer subject to this chapter:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An employing unit that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">In a calendar quarter during the current or preceding calendar year paid wages of at least $1,500 for service in employment; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For any portion of a day in each of 20 different calendar weeks, regardless of whether the weeks were consecutive, during the current or the preceding calendar year, employed at least one individual in employment, irrespective of whether the same individual was in employment during each day.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An employing unit for which service in employment, as defined in s. 443.1216(2), is performed, except as provided in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An employing unit for which service in employment, as defined in s. 443.1216(3), is performed, except as provided in subsection (2).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An employing unit for which agricultural labor, as defined in s. 443.1216(5), is performed.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An employing unit for which domestic service in employment, as defined in s. 443.1216(6), is performed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An individual or employing unit that acquires the organization, trade, or business, or substantially all of the assets of another individual or employing unit, which, at the time of the acquisition, is an employer subject to this chapter, or that acquires a part of the organization, trade, or business of another individual or employing unit which, at the time of the acquisition, is an employer subject to this chapter, if the other individual or employing unit would be an employer under paragraph (a) if that part constitutes its entire organization, trade, or business.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An individual or employing unit that acquires the organization, trade, or business, or substantially all of the assets of another employing unit, if the employment record of the predecessor before the acquisition, together with the employment record of the individual or employing unit after the acquisition, both within the same calendar year, is sufficient to render an employing unit subject to this chapter as an employer under paragraph (a).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An employing unit that is not otherwise an employer subject to this chapter under this section:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For which, during the current or preceding calendar year, service is or was performed for which the employing unit is liable for any federal tax against which credit may be taken for contributions required to be paid into a state unemployment fund.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Which, as a condition for approval of this chapter for full tax credit against the tax imposed by the Federal Unemployment Tax Act, is required under the federal act to be an employer that is subject to this chapter.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">An employing unit that became an employer under paragraph (a), paragraph (b), paragraph (c), paragraph (d), paragraph (e), paragraph (f), or paragraph (g) and that remains an employer subject to this chapter, as provided in s. 443.121.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">During the effective period of its election, an employing unit that elects to become subject to this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In determining whether an employing unit for which service, other than domestic service, is also performed is an employer under paragraph (1)(a), paragraph (1)(b), paragraph (1)(c), or subparagraph (1)(d)1., the wages earned or the employment of an employee performing domestic service may not be taken into account.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In determining whether an employing unit for which service, other than agricultural labor, is also performed is an employer under paragraph (1)(a), paragraph (1)(b), paragraph (1)(c), or subparagraph (1)(d)2., the wages earned or the employment of an employee performing service in agricultural labor may not be taken into account. If an employing unit is determined to be an employer of agricultural labor, the employing unit is considered an employer for purposes of paragraph (1)(a).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An employing unit that fails to keep the records of employment required by this chapter and by the rules of the Department of Economic Opportunity and the state agency providing reemployment assistance tax collection services is presumed to be an employer liable for the payment of contributions under this chapter, regardless of the number of individuals employed by the employing unit. However, the tax collection service provider shall make written demand that the employing unit keep and maintain required payroll records. The demand must be made at least 6 months before assessing contributions against an employing unit determined to be an employer that is subject to this chapter solely by reason of this subsection.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, if a week includes both December 31 and January 1, the days of that week through December 31 are deemed a calendar week, and the days of that week beginning January 1 are deemed another calendar week.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 29, ch. 2003-36; s. 70, ch. 2004-5; s. 8, ch. 2010-90; s. 18, ch. 2010-138; s. 362, ch. 2011-142; s. 11, ch. 2012-30.</History>
+</Section>

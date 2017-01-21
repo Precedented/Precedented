@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0339.139" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Transportation debt assessment.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the policy of the state to manage the financing of transportation infrastructure in a manner that ensures the fiscal integrity of the State Transportation Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall provide a debt and debt-like contractual obligations load report to the Executive Office of the Governor, the President of the Senate, the Speaker of the House of Representatives, and the legislative appropriations committees in conjunction with the tentative work program required under s. 339.135. The debt and debt-like contractual obligations load report must include the following data on current and planned department commitments that are payable from the State Transportation Trust Fund:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Debt service payments that are required to be made under any resolution for the issuance of bonds secured by a lien on federal highway aid reimbursements or motor fuel and diesel fuel taxes.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Funding for seaports which has been pledged to the payment of principal and interest on bonds issued by the Florida Ports Financing Commission pursuant to s. 320.20.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Commitments of the department to pay the costs of operating, maintaining, repairing, and rehabilitating expressway and bridge systems under the terms of lease-purchase agreements which are enforceable by the holders of bonds issued by expressway and bridge authorities pursuant to chapter 348.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Availability, milestone, and final acceptance payments that are required by public-private partnerships pursuant to s. 334.30 and that are not payments for the cost of operation or maintenance of a facility.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Agreed-on payments to a department contractor for work performed in the current fiscal year for which payment is deferred to a later fiscal year pursuant to s. 334.30.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Reimbursements to local governments for work performed on a project if the reimbursement is deferred to a later fiscal year pursuant to s. 339.12.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Loan repayments on state infrastructure bank loans extended to a department district pursuant to s. 339.55.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall manage all levels of debt to ensure that by the beginning of the 2017–2018 fiscal year, not more than 20 percent of total projected available state and federal revenues from the State Transportation Trust Fund, together with any local funds committed to department projects, are committed to the obligations identified in subsection (2) in any year.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the department believes that a critical project would justify exceeding the limitation established in this section, the department shall notify the Governor, the President of the Senate, the Speaker of the House of Representatives, and the chairs of the legislative appropriations committees. The notification must identify the critical project and the projected impact on the department’s total debt load. The department may proceed with the project upon approval by the Governor. If either chair of the legislative appropriations committees, the President of the Senate, or the Speaker of the House of Representatives objects in writing to a proposed project within 14 days after submittal of a department request to exceed debt limits and specifies the reasons for such objection, the Governor may not approve the project.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall prepare a separate report on debt obligations that are secured by and payable solely from pledged revenues. The department shall provide the report on pledged revenue debt to the Executive Office of the Governor, the President of the Senate, the Speaker of the House of Representatives, and the legislative appropriations committees in conjunction with the tentative work program required under s. 339.135.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 31, ch. 2012-128.</History>
+</Section>

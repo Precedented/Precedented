@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6151" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Jurisdiction to modify child support order of foreign country.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in s. 88.7111, if a foreign country lacks or refuses to exercise jurisdiction to modify its child support order pursuant to its laws, a tribunal of this state may assume jurisdiction to modify the child support order and bind all individuals subject to the personal jurisdiction of the tribunal whether the consent to modification of a child support order otherwise required of the individual pursuant to s. 88.6111 has been given or whether the individual seeking modification is a resident of this state or of the foreign country.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An order issued by a tribunal of this state modifying a foreign child support order pursuant to this section is the controlling order.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 55, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 55, ch. 2011-92, created s. 88.6151, to be effective on a date contingent upon the provisions of s. 81, ch. 2011-92. Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.”</Text>
+	</Note>
+</Section>

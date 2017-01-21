@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0401.411" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disciplinary action; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may deny, suspend, or revoke a license, certificate, or permit or may reprimand or fine any licensee, certificateholder, or other person operating under this part for any of the following grounds:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The violation of any rule of the department or any provision of this part.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Being found guilty of, or pleading nolo contendere to, regardless of adjudication in any jurisdiction, a crime that relates to practice as an emergency medical technician or paramedic, or to practice in any other occupation, when operating under this part.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Addiction to alcohol or any controlled substance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Engaging in or attempting to engage in the possession, except in legitimate duties under the supervision of a licensed physician, or the sale or distribution of any controlled substance as set forth in chapter 893.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The conviction in any court in any state or in any federal court of a felony, unless the person’s civil rights have been restored.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Knowingly making false or fraudulent claims; procuring, attempting to procure, or renewing a certificate, license, or permit by fakery, fraudulent action, or misrepresentation.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Unprofessional conduct, including, but not limited to, any departure from or failure to conform to the minimal prevailing standards of acceptable practice under this part, including undertaking activities that the emergency medical technician, paramedic, health care professional, or other professional is not qualified by training or experience to perform.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Sexual misconduct with a patient, including inducing or attempting to induce the patient to engage, or engaging or attempting to engage the patient, in sexual activity.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The failure to give to the department, or its authorized representative, true information upon request regarding an alleged or confirmed violation of this part or rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Fraudulent or misleading advertising or advertising in an unauthorized category.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Practicing as an emergency medical technician, paramedic, health care professional, or other professional operating under this part without reasonable skill and without regard for the safety of the public by reason of illness, drunkenness, or the use of drugs, narcotics, or chemicals or any other substance or as a result of any mental or physical condition.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">The failure to report to the department any person known to be in violation of this part.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A suspension or revocation of a license or certificate is for all classifications unless the department, in its sole discretion, suspends or revokes one or more classifications thereof.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">One year after the revocation of a license or certificate, application may be made to the department for reinstatement; and the department may authorize reinstatement.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any charge of a violation of this part by a licensee affects only the license of the service location from which the violation is alleged to have occurred. Another license may not be issued to the same licensee for a new service location in the same county or any other county for a period of 3 years from the effective date of revocation.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the department finds that the terms of any such suspension have been violated, it may revoke such suspension immediately.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If a person whose license, certificate, or permit has been suspended is found by the department to have violated any of the other provisions of this part, the department may revoke the license, certificate, or permit.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">In addition to any other administrative action authorized by law, the department may impose an administrative fine, not to exceed $1,000 per violation of this part or rule of the department. Each day of a violation constitutes a separate violation and is subject to a separate fine. In determining the amount of a fine, the department shall consider the following factors:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The gravity of the violation, including the probability of death or disability as a result of the violation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any actions taken to correct the violation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any previous violations committed by the violator.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">All amounts collected under this section must be deposited into the Emergency Medical Services Trust Fund.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 19, 25, ch. 82-402; ss. 12, 13, ch. 83-196; s. 17, ch. 84-317; ss. 21, 36, ch. 92-78; s. 2, ch. 98-87; s. 2, ch. 2010-188.</History>
+</Section>

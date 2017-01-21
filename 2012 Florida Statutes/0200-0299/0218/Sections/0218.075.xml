@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.075" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reduction or waiver of permit processing fees.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of law, the Department of Environmental Protection and the water management districts shall reduce or waive permit processing fees for counties with a population of 50,000 or less on April 1, 1994, until such counties exceed a population of 75,000 and municipalities with a population of 25,000 or less, or for an entity created by special act, local ordinance, or interlocal agreement of such counties or municipalities, or for any county or municipality not included within a metropolitan statistical area. Fee reductions or waivers shall be approved on the basis of fiscal hardship or environmental need for a particular project or activity. The governing body must certify that the cost of the permit processing fee is a fiscal hardship due to one of the following factors:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Per capita taxable value is less than the statewide average for the current fiscal year;</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Percentage of assessed property value that is exempt from ad valorem taxation is higher than the statewide average for the current fiscal year;</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any condition specified in s. 218.503(1) which results in the county or municipality being in a state of financial emergency;</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Ad valorem operating millage rate for the current fiscal year is greater than 8 mills; or</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A financial condition that is documented in annual financial statements at the end of the current fiscal year and indicates an inability to pay the permit processing fee during that fiscal year.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">The permit applicant must be the governing body of a county or municipality or a third party under contract with a county or municipality or an entity created by special act, local ordinance, or interlocal agreement and the project for which the fee reduction or waiver is sought must serve a public purpose. If a permit processing fee is reduced, the total fee shall not exceed $100.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 94-278; s. 8, ch. 98-258; s. 25, ch. 2004-305; s. 4, ch. 2012-205.</History>
+</Section>

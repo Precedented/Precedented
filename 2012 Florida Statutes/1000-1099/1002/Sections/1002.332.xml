@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.332" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">High-performing charter school system.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Entity” means a municipality or other public entity that is authorized by law to operate a charter school; a private, nonprofit corporation with tax-exempt status under s. 501(c)(3) of the Internal Revenue Code; or a private, for-profit education management corporation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“High-performing charter school system” means an entity that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Operates at least three high-performing charter schools in the state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Operates a system of charter schools in which at least 50 percent of the charter schools are high-performing charter schools pursuant to s. 1002.331 and no charter school earned a school grade of “D” or “F” pursuant to s. 1008.34, except that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">If the entity has assumed operation of a public school pursuant to s. 1008.33(4)(b)3. with a school grade of “F,” that school’s grade may not be considered in determining high-performing charter school system status for a period of 3 years.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If the entity establishes a new charter school that serves a student population the majority of which resides in a school zone served by a public school that earned a grade of “F” or three consecutive grades of “D” pursuant to s. 1008.34, that charter school’s grade may not be considered in determining high-performing charter school system status if it attains and maintains a school grade that is higher than that of the public school serving that school zone within 3 years after establishment; and</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Has not received a financial audit that revealed one or more of the financial emergency conditions set forth in s. 218.503(1) for any charter school assumed or established by the entity.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education, upon request by an entity, shall verify that the entity meets the criteria in subsection (1) for the prior school year and provide a letter to the entity stating that it is a high-performing charter school system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A high-performing charter school system may replicate its high-performing charter schools pursuant to s. 1002.331(3).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2011-232; s. 3, ch. 2012-194.</History>
+</Section>

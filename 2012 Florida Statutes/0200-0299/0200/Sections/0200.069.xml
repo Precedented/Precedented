@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0200.069" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Notice of proposed property taxes and non-ad valorem assessments.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Pursuant to s. 200.065(2)(b), the property appraiser, in the name of the taxing authorities and local governing boards levying non-ad valorem assessments within his or her jurisdiction and at the expense of the county, shall prepare and deliver by first-class mail to each taxpayer to be listed on the current year’s assessment roll a notice of proposed property taxes, which notice shall contain the elements and use the format provided in the following form. Notwithstanding the provisions of s. 195.022, no county officer shall use a form other than that provided herein. The Department of Revenue may adjust the spacing and placement on the form of the elements listed in this section as it considers necessary based on changes in conditions necessitated by various taxing authorities. If the elements are in the order listed, the placement of the listed columns may be varied at the discretion and expense of the property appraiser, and the property appraiser may use printing technology and devices to complete the form, the spacing, and the placement of the information in the columns. A county officer may use a form other than that provided by the department for purposes of this part, but only if his or her office pays the related expenses and he or she obtains prior written permission from the executive director of the department; however, a county officer may not use a form the substantive content of which is at variance with the form prescribed by the department. The county officer may continue to use such an approved form until the law that specifies the form is amended or repealed or until the officer receives written disapproval from the executive director.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The first page of the notice shall read:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF PROPOSED PROPERTY TAXES</Text>
+			<Text xml:space="preserve" Style="AlignCenter">DO NOT PAY—THIS IS NOT A BILL</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">The taxing authorities which levy property taxes against your property will soon hold PUBLIC HEARINGS to adopt budgets and tax rates for the next year.</Text>
+			<Text xml:space="preserve" Style="Indent">The purpose of these PUBLIC HEARINGS is to receive opinions from the general public and to answer questions on the proposed tax change and budget PRIOR TO TAKING FINAL ACTION.</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceBelow="true">Each taxing authority may AMEND OR ALTER its proposals at the hearing.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The notice shall include a brief legal description of the property, the name and mailing address of the owner of record, and the tax information applicable to the specific parcel in question. The information shall be in columnar form. There shall be seven column headings which shall read: “Taxing Authority,” “Your Property Taxes Last Year,” “Last Year’s Adjusted Tax Rate (Millage),” “Your Taxes This Year IF NO Budget Change Is Adopted,” “Tax Rate This Year IF PROPOSED Budget Is Adopted (Millage),” “Your Taxes This Year IF PROPOSED Budget Change Is Adopted,” and “A Public Hearing on the Proposed Taxes and Budget Will Be Held:.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “last year’s adjusted tax rate” means the rolled-back rate calculated pursuant to s. 200.065(1).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">There shall be under each column heading an entry for the county; the school district levy required pursuant to s. 1011.60(6); other operating school levies; the municipality or municipal service taxing unit or units in which the parcel lies, if any; the water management district levying pursuant to s. 373.503; the independent special districts in which the parcel lies, if any; and for all voted levies for debt service applicable to the parcel, if any.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For each entry listed in subsection (3), there shall appear on the notice the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the first column, a brief, commonly used name for the taxing authority or its governing body. The entry in the first column for the levy required pursuant to s. 1011.60(6) shall be “By State Law.” The entry for other operating school district levies shall be “By Local Board.” Both school levy entries shall be indented and preceded by the notation “Public Schools:”. For each voted levy for debt service, the entry shall be “Voter Approved Debt Payments.”</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the second column, the gross amount of ad valorem taxes levied against the parcel in the previous year. If the parcel did not exist in the previous year, the second column shall be blank.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In the third column, last year’s adjusted tax rate or, in the case of voted levies for debt service, the tax rate previously authorized by referendum.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In the fourth column, the gross amount of ad valorem taxes which will apply to the parcel in the current year if each taxing authority levies last year’s adjusted tax rate or, in the case of voted levies for debt service, the amount previously authorized by referendum.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">In the fifth column, the tax rate that each taxing authority must levy against the parcel to fund the proposed budget or, in the case of voted levies for debt service, the tax rate previously authorized by referendum.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In the sixth column, the gross amount of ad valorem taxes that must be levied in the current year if the proposed budget is adopted.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">In the seventh column, the date, the time, and a brief description of the location of the public hearing required pursuant to s. 200.065(2)(c).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Following the entries for each taxing authority, a final entry shall show: in the first column, the words “Total Property Taxes:” and in the second, fourth, and sixth columns, the sum of the entries for each of the individual taxing authorities. The second, fourth, and sixth columns shall, immediately below said entries, be labeled Column 1, Column 2, and Column 3, respectively. Below these labels shall appear, in boldfaced type, the statement: SEE REVERSE SIDE FOR EXPLANATION.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The second page of the notice shall state the parcel’s market value and for each taxing authority that levies an ad valorem tax against the parcel:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The assessed value, value of exemptions, and taxable value for the previous year and the current year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Each assessment reduction and exemption applicable to the property, including the value of the assessment reduction or exemption and tax levies to which they apply.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The reverse side of the second page shall contain definitions and explanations for the values included on the front side.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The following statement shall appear after the values listed on the front of the second page:</Text>
+			<Text xml:space="preserve" Style="Indent" SpaceAbove="true">If you feel that the market value of your property is inaccurate or does not reflect fair market value, or if you are entitled to an exemption or classification that is not reflected above, contact your county property appraiser at <Directions xml:space="preserve">(phone number)</Directions> or <Directions xml:space="preserve">(location)</Directions>.</Text>
+			<Text xml:space="preserve" Style="Indent">If the property appraiser’s office is unable to resolve the matter as to market value, classification, or an exemption, you may file a petition for adjustment with the Value Adjustment Board. Petition forms are available from the county property appraiser and must be filed ON OR BEFORE <Directions xml:space="preserve">(date)</Directions>.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The reverse side of the first page of the form shall read:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">EXPLANATION</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">*COLUMN 1—“YOUR PROPERTY TAXES LAST YEAR”</Text>
+			<Text xml:space="preserve" Style="Flush">This column shows the taxes that applied last year to your property. These amounts were based on budgets adopted last year and your property’s previous taxable value.</Text>
+			<Text xml:space="preserve" Style="Flush">*COLUMN 2—“YOUR TAXES IF NO BUDGET CHANGE IS ADOPTED”</Text>
+			<Text xml:space="preserve" Style="Flush">This column shows what your taxes will be this year IF EACH TAXING AUTHORITY DOES NOT CHANGE ITS PROPERTY TAX LEVY. These amounts are based on last year’s budgets and your current assessment.</Text>
+			<Text xml:space="preserve" Style="Flush">*COLUMN 3—“YOUR TAXES IF PROPOSED BUDGET CHANGE IS ADOPTED”</Text>
+			<Text xml:space="preserve" Style="Flush">This column shows what your taxes will be this year under the BUDGET ACTUALLY PROPOSED by each local taxing authority. The proposal is NOT final and may be amended at the public hearings shown on the front side of this notice. The difference between columns 2 and 3 is the tax change proposed by each local taxing authority and is NOT the result of higher assessments.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">*Note: Amounts shown on this form do NOT reflect early payment discounts you may have received or may be eligible to receive. (Discounts are a maximum of 4 percent of the amounts shown on this form.)</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The bottom portion of the notice shall further read in bold, conspicuous print:</Text>
+			<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true" SpaceBelow="true">“Your final tax bill may contain non-ad valorem assessments which may not be reflected on this notice such as assessments for roads, fire, garbage, lighting, drainage, water, sewer, or other governmental services and facilities which may be levied by your county, city, or any special district.”</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If requested by the local governing board levying non-ad valorem assessments and agreed to by the property appraiser, the notice specified in this section may contain a notice of proposed or adopted non-ad valorem assessments. If so agreed, the notice shall be titled:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">NOTICE OF PROPOSED PROPERTY TAXES<NewLine />AND PROPOSED OR ADOPTED<NewLine />NON-AD VALOREM ASSESSMENTS<NewLine />DO NOT PAY—THIS IS NOT A BILL</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">There must be a clear partition between the notice of proposed property taxes and the notice of proposed or adopted non-ad valorem assessments. The partition must be a bold, horizontal line approximately <Fraction>1/8</Fraction>-inch thick. By rule, the department shall provide a format for the form of the notice of proposed or adopted non-ad valorem assessments which meets the following minimum requirements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">There must be subheading for columns listing the levying local governing board, with corresponding assessment rates expressed in dollars and cents per unit of assessment, and the associated assessment amount.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The purpose of each assessment must also be listed in the column listing the levying local governing board if the purpose is not clearly indicated by the name of the board.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Each non-ad valorem assessment for each levying local governing board must be listed separately.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If a county has too many municipal service benefit units or assessments to be listed separately, it shall combine them by function.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A brief statement outlining the responsibility of the tax collector and each levying local governing board as to any non-ad valorem assessment must be provided on the form, accompanied by directions as to which office to contact for particular questions or problems.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the notice includes all adopted non-ad valorem assessments, the provisions contained in subsection (9) shall not be placed on the notice.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 80-274; s. 15, ch. 82-154; s. 12, ch. 82-226; s. 10, ch. 82-385; s. 13, ch. 83-204; s. 3, ch. 84-371; s. 212, ch. 85-342; s. 12, ch. 90-343; ss. 137, 167, ch. 91-112; s. 2, ch. 92-163; s. 17, ch. 93-132; s. 53, ch. 94-232; s. 67, ch. 94-353; s. 1482, ch. 95-147; s. 26, ch. 97-255; s. 4, ch. 98-167; s. 4, ch. 2001-137; s. 7, ch. 2002-18; s. 912, ch. 2002-387; s. 1, ch. 2009-165; s. 30, ch. 2010-5.</History>
+</Section>

@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0527.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">License; penalty; fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person to engage in this state in the activities of a pipeline system operator, category I liquefied petroleum gas dealer, category II liquefied petroleum gas dispenser, category III liquefied petroleum gas cylinder exchange operator, category IV liquefied petroleum gas dispenser and recreational vehicle servicer, category V liquefied petroleum gas dealer for industrial uses only, LP gas installer, specialty installer, dealer in liquefied petroleum gas appliances and equipment, manufacturer of liquefied petroleum gas appliances and equipment, requalifier of cylinders, or fabricator, repairer, and tester of vehicles and cargo tanks without first obtaining from the department a license to engage in one or more of these businesses. The sale of liquefied petroleum gas cylinders with a volume of 10 pounds water capacity or 4.2 pounds liquefied petroleum gas capacity or less is exempt from the requirements of this chapter. It is a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084, to intentionally or willfully engage in any of said activities without first obtaining appropriate licensure from the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each business location of a person having multiple locations shall be separately licensed and must meet the requirements of this section. Such license shall be granted to any applicant determined by the department to be competent, qualified, and trustworthy who files with the department a surety bond, insurance affidavit, or other proof of insurance, as hereinafter specified, and pays for such license the following original application fee for new licenses and annual renewal fees for existing licenses:</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="37" />
+					<Column Width="37" />
+					<Column Width="26" />
+				</ColumnDefinitions>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">License Category</Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve">Original<NewLine/>Application Fee</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">Renewal<NewLine />Fee</Text>
+						</Cell>
+					</Row>
+					<Row><Cell ColSpan="1" VerticalAlign="Top" HorizontalAlign="Left"/>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell>
+							<Text xml:space="preserve">Category I liquefied<NewLine />petroleum gas<NewLine/>dealer<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">$525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">$425</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Category II liquefied<NewLine />petroleum gas<NewLine/>dispenser<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">375</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Category III<NewLine/>liquefied petroleum<NewLine/>gas cylinder<NewLine />exchange unit<NewLine/>operator<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">100</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">65</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Category IV<NewLine/>liquefied petroleum<NewLine/>gas dispenser and<NewLine />recreational vehicle<NewLine/>servicer<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">400</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Category V liquefied<NewLine />petroleum gases<NewLine/>dealer for industrial<NewLine />uses only<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">300</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">200</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">LP gas<NewLine/>installer<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">300</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">200</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Specialty<NewLine/>installer<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">300</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">200</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Dealer in appliances<NewLine/> and equipment<NewLine />for use of liquefied<NewLine/>petroleum gas<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">50</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">45</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Manufacturer of<NewLine/>liquefied petroleum<NewLine />gas appliances and<NewLine/>equipment<FlushRight Fill="Dot" /></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">375</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Requalifier of<NewLine/>cylinders<FlushRight Fill="Dot"/></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">375</Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve">Fabricator, repairer,<NewLine/>and tester of<NewLine />vehicles and<NewLine/>cargo tanks<FlushRight Fill="Dot"/></Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">525</Text>
+						</Cell>
+						<Cell HorizontalAlign="Center" VerticalAlign="Bottom">
+							<Text xml:space="preserve">375</Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any applicant for original license whose application is submitted during the last 6 months of the license year may have the original license fee reduced by one-half for the 6-month period. This provision shall apply only to those companies applying for an original license and shall not be applied to licensees who held a license during the previous license year and failed to renew the license. The department may refuse to issue an initial license to any applicant who is under investigation in any jurisdiction for an action that would constitute a violation of this chapter until such time as the investigation is complete.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any person applying for a liquefied petroleum gas license as a specialty installer, as defined by s. 527.01(11), shall upon application to the department identify the specific area of work to be performed. Upon completion of all license requirements set forth in this chapter, the department shall issue the applicant a license specifying the scope of work, as identified by the applicant and defined by rule of the department, for which the person is authorized.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The license fee for a pipeline system operator shall be $100 per system owned or operated by the person, not to exceed $400 per license year. Such license fee applies only to a pipeline system operator who owns or operates a liquefied petroleum gas pipeline system that is used to transmit liquefied petroleum gas from a common source to the ultimate customer and that serves 10 or more customers.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department shall promulgate rules specifying acts deemed by the department to demonstrate a lack of trustworthiness to engage in activities requiring a license or qualifier identification card under this section.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Any license issued by the department may be transferred to any person, firm, or corporation for the remainder of the current license year upon written request to the department by the original licenseholder. Prior to approval of any transfer, all licensing requirements of this chapter must be met by the transferee. A license transfer fee of $50 shall be charged for each such transfer.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 24302, 1947; s. 2, ch. 57-174; s. 2, ch. 61-119; s. 1, ch. 61-158; ss. 13, 35, ch. 69-106; s. 1, ch. 70-35; s. 1, ch. 70-439; s. 1, ch. 74-296; s. 1, ch. 76-120; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 6, ch. 80-390; ss. 2, 18, 19, ch. 81-175; s. 401, ch. 81-259; ss. 2, 3, ch. 81-318; ss. 1, 2, ch. 82-6; s. 1, ch. 84-126; s. 2, ch. 86-69; ss. 2, 3, ch. 87-34; s. 2, ch. 90-215; s. 4, ch. 91-429; s. 1, ch. 92-6; s. 2, ch. 92-324; s. 2, ch. 93-248; s. 6, ch. 94-335; s. 340, ch. 96-406; s. 2, ch. 2000-269; s. 24, ch. 2001-63; s. 2, ch. 2003-132.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 526.13.</Text>
+	</Note>
+</Section>

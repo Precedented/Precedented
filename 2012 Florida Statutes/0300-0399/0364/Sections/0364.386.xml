@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.386" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Reports to the Legislature.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The commission shall submit to the President of the Senate, the Speaker of the House of Representatives, and the majority and minority leaders of the Senate and the House of Representatives, on August 1, 2008, and on an annual basis thereafter, a report on the status of competition in the telecommunications industry and a detailed exposition of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The ability of competitive providers to make functionally equivalent local exchange services available to both residential and business customers at competitive rates, terms, and conditions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The ability of consumers to obtain functionally equivalent services at comparable rates, terms, and conditions.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The overall impact of competition on the maintenance of reasonably affordable and reliable high-quality telecommunications services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A listing and short description of any carrier disputes filed under s. 364.16.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commission shall make an annual request to providers of local exchange telecommunications services on or before March 1, 2008, and on or before March 1 of each year thereafter, for the data it requires to complete the report. A provider of local exchange telecommunications services shall file its response with the commission on or before April 15, 2008, and on or before April 15 of each year thereafter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The quantitative part of the information requested in the commission’s annual data request shall be limited to a copy of the FCC Form 477 filed by a provider of local exchange telecommunications service with the Federal Communications Commission, which must identify Florida-specific access line data or similar information if an FCC Form 477 is not available.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 45, 49, ch. 90-244; s. 4, ch. 91-429; s. 29, ch. 95-403; s. 1, ch. 2007-180; s. 42, ch. 2011-36.</History>
+</Section>

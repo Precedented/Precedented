@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0101.657" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Early voting.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As a convenience to the voter, the supervisor of elections shall allow an elector to vote early in the main or branch office of the supervisor. The supervisor shall mark, code, indicate on, or otherwise track the voter’s precinct for each early voted ballot. In order for a branch office to be used for early voting, it shall be a permanent facility of the supervisor and shall have been designated and used as such for at least 1 year prior to the election. The supervisor may also designate any city hall or permanent public library facility as early voting sites; however, if so designated, the sites must be geographically located so as to provide all voters in the county an equal opportunity to cast a ballot, insofar as is practicable. The results or tabulation of votes cast during early voting may not be made before the close of the polls on election day. Results shall be reported by precinct.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The supervisor shall designate each early voting site by no later than the 30th day prior to an election and shall designate an early voting area, as defined in s. 97.021, at each early voting site. The supervisor shall provide to the division no later than the 30th day before an election the address of each early voting site and the hours that early voting will occur at each site.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All early voting sites in a county shall allow any person in line at the closing of an early voting site to vote.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Early voting shall begin on the 10th day before an election that contains state or federal races and end on the 3rd day before the election, and shall be provided for no less than 6 hours and no more than 12 hours per day at each site during the applicable period. The supervisor of elections may provide early voting for elections that are not held in conjunction with a state or federal election. However, the supervisor has the discretion to determine the hours of operation of early voting sites in those elections.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding the requirements of s. 100.3605, municipalities may provide early voting in municipal elections that are not held in conjunction with county or state elections. If a municipality provides early voting, it may designate as many sites as necessary and shall conduct its activities in accordance with the provisions of paragraphs (a)-(c). The supervisor is not required to conduct early voting if it is provided pursuant to this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding the requirements of s. 189.405, special districts may provide early voting in any district election not held in conjunction with county or state elections. If a special district provides early voting, it may designate as many sites as necessary and shall conduct its activities in accordance with the provisions of paragraphs (a)-(c). The supervisor is not required to conduct early voting if it is provided pursuant to this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">During any early voting period, each supervisor of elections shall make available the total number of voters casting a ballot at each early voting location during the previous day. Each supervisor shall prepare an electronic data file listing the individual voters who cast a ballot during the early voting period. This information shall be provided in electronic format as provided by rule adopted by the division. The information shall be updated and made available no later than noon of each day and shall be contemporaneously provided to the division.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The ballot of each elector voting early shall be counted even if the elector dies on or before election day.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The elector must provide identification and must complete an Early Voting Voter Certificate in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">EARLY VOTING VOTER CERTIFICATE</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I, <HorizontalRule Type="Fixed" />, am a qualified elector in this election and registered voter of <HorizontalRule Type="Fixed" /> County, Florida. I do solemnly swear or affirm that I am the person so listed on the voter registration rolls of <HorizontalRule Type="Fixed" /> County and that I reside at the listed address. I understand that if I commit or attempt to commit fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election I could be convicted of a felony of the third degree and both fined up to $5,000 and imprisoned for up to 5 years. I understand that my failure to sign this certificate invalidates my ballot.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Voter’s Signature)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Address)</Directions></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true" SpaceBelow="true"><Directions xml:space="preserve">(City/State)</Directions></Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any elector may challenge an elector seeking to vote early under the provisions of s. 101.111. Any challenged voter must vote a provisional ballot. The canvassing board shall review the ballot and decide the validity of the ballot by majority vote.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The canvass of returns for ballots cast under this subsection shall be substantially the same as votes cast by electors in precincts, as provided in s. 101.5614.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 98-129; s. 2, ch. 2000-249; s. 55, ch. 2001-40; s. 21, ch. 2003-415; s. 7, ch. 2004-232; s. 13, ch. 2004-252; s. 45, ch. 2005-277; s. 39, ch. 2005-278; s. 39, ch. 2011-40.</History>
+</Section>

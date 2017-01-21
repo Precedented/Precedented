@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.256" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Administrative proceeding to establish paternity or paternity and child support; order to appear for genetic testing.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Another state” or “other state” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An Indian tribe.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A foreign jurisdiction that has enacted a law or established procedures for issuance and enforcement of support orders which are substantially similar to the procedures under this act, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act, as determined by the Attorney General.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Caregiver” means a person, other than the mother, father, or a putative father, who has physical custody of a child or with whom the child primarily resides. References in this section to the obligation of a caregiver to submit to genetic testing mean that the caregiver is obligated to submit the child for genetic testing, not that the caregiver must submit to genetic testing.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Filed” means a document has been received and accepted for filing at the offices of the Department of Revenue by the clerk or an authorized deputy clerk designated by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Genetic testing” means a scientific analysis of genetic markers which is performed by a qualified technical laboratory only to exclude an individual as the parent of a child or to show a probability of paternity.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Paternity and child support proceeding” means an administrative action commenced by the Department of Revenue to order genetic testing, establish paternity, and establish an administrative support order pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Paternity proceeding” means an administrative action commenced by the Department of Revenue to order genetic testing and establish paternity pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Putative father” means an individual who is or may be the biological father of a child whose paternity has not been established and whose mother was unmarried when the child was conceived and born.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Qualified technical laboratory” means a genetic-testing laboratory that may be under contract with the Department of Revenue, that uses tests and methods of a type generally acknowledged as reliable by accreditation organizations recognized by the United States Department of Health and Human Services, and that is approved by such an accreditation organization. The term includes a genetic-testing laboratory used by another state, if the laboratory has comparable qualifications.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Rendered” means that a signed written order is filed with the clerk or a deputy clerk of the Department of Revenue and served on the respondent. The date of filing must be indicated on the face of the order at the time of rendition.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Respondent” means the person or persons served by the Department of Revenue with a notice of proceeding pursuant to subsection (4). The term includes the putative father and may include the mother or the caregiver of the child.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“This state” or “the state” means the State of Florida.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">JURISDICTION; LOCATION OF HEARINGS; RIGHT OF ACCESS TO THE COURTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may commence a paternity proceeding or a paternity and child support proceeding as provided in subsection (4) if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The child’s paternity has not been established.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">No one is named as the father on the child’s birth certificate or the person named as the father is the putative father named in an affidavit or a written declaration as provided in subparagraph 5.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The child’s mother was unmarried when the child was conceived and born.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The department is providing services under Title IV-D.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The child’s mother or a putative father has stated in an affidavit, or in a written declaration as provided in s. 92.525(2), that the putative father is or may be the child’s biological father. The affidavit or written declaration must set forth the factual basis for the allegation of paternity as provided in s. 742.12(2).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the department receives a request from another state to assist in the establishment of paternity, the department may serve an order to appear for genetic testing on a person who resides in this state and transmit the test results to the other state without commencing a paternity proceeding in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may use the procedures authorized by this section against a nonresident over whom this state may assert personal jurisdiction under chapter 48 or chapter 88.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a putative father, mother, or caregiver in a Title IV-D case voluntarily submits to genetic testing, the department may schedule that individual or the child for genetic testing without serving that individual with an order to appear for genetic testing. A respondent or other person who is subject to an order to appear for genetic testing may waive, in writing or on the record at an administrative hearing, formal service of notices or orders or waive any other rights or time periods prescribed by this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Whenever practicable, hearings held by the Division of Administrative Hearings pursuant to this section shall be held in the judicial circuit where the person receiving services under Title IV-D resides or, if the person receiving services under Title IV-D does not reside in this state, in the judicial circuit where the respondent resides. If the department and the respondent agree, the hearing may be held in another location. If ordered by the administrative law judge, the hearing may be conducted telephonically or by videoconference.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The Legislature does not intend to limit the jurisdiction of the circuit courts to hear and determine issues regarding establishment of paternity. This section is intended to provide the department with an alternative procedure for establishing paternity and child support obligations in Title IV-D cases. This section does not prohibit a person who has standing from filing a civil action in circuit court for a determination of paternity or of child support obligations.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Section 409.2563(2)(e), (f), and (g) apply to a proceeding under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">MULTIPLE PUTATIVE FATHERS; MULTIPLE CHILDREN.<EmDash />If more than one putative father has been named, the department may proceed under this section against a single putative father or may proceed simultaneously against more than one putative father. If a putative father has been named as a possible father of more than one child born to the same mother, the department may proceed to establish the paternity of each child in the same proceeding.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">NOTICE OF PROCEEDING TO ESTABLISH PATERNITY OR PATERNITY AND CHILD SUPPORT; ORDER TO APPEAR FOR GENETIC TESTING; MANNER OF SERVICE; CONTENTS.<EmDash />The Department of Revenue shall commence a proceeding to determine paternity, or a proceeding to determine both paternity and child support, by serving the respondent with a notice as provided in this section. An order to appear for genetic testing may be served at the same time as a notice of the proceeding or may be served separately. A copy of the affidavit or written declaration upon which the proceeding is based shall be provided to the respondent when notice is served. A notice or order to appear for genetic testing shall be served by certified mail, restricted delivery, return receipt requested, or in accordance with the requirements for service of process in a civil action. Service by certified mail is completed when the certified mail is received or refused by the addressee or by an authorized agent as designated by the addressee in writing. If a person other than the addressee signs the return receipt, the department shall attempt to reach the addressee by telephone to confirm whether the notice was received, and the department shall document any telephonic communications. If someone other than the addressee signs the return receipt, the addressee does not respond to the notice, and the department is unable to confirm that the addressee has received the notice, service is not completed and the department shall attempt to have the addressee served personally. For purposes of this section, an employee or an authorized agent of the department may serve the notice or order to appear for genetic testing and execute an affidavit of service. The department may serve an order to appear for genetic testing on a caregiver. The department shall provide a copy of the notice or order to appear by regular mail to the mother and caregiver, if they are not respondents.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A notice of proceeding to establish paternity must state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That the department has commenced an administrative proceeding to establish whether the putative father is the biological father of the child named in the notice.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name and date of birth of the child and the name of the child’s mother.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the putative father has been named in an affidavit or written declaration that states the putative father is or may be the child’s biological father.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">That the respondent is required to submit to genetic testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">That genetic testing will establish either a high degree of probability that the putative father is the biological father of the child or that the putative father cannot be the biological father of the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">That if the results of the genetic test do not indicate a statistical probability of paternity that equals or exceeds 99 percent, the paternity proceeding in connection with that child shall cease unless a second or subsequent test is required.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">That if the results of the genetic test indicate a statistical probability of paternity that equals or exceeds 99 percent, the department may:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Issue a proposed order of paternity that the respondent may consent to or contest at an administrative hearing; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Commence a proceeding, as provided in s. 409.2563, to establish an administrative support order for the child. Notice of the proceeding shall be provided to the respondent by regular mail.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">That, if the genetic test results indicate a statistical probability of paternity that equals or exceeds 99 percent and a proceeding to establish an administrative support order is commenced, the department shall issue a proposed order that addresses paternity and child support. The respondent may consent to or contest the proposed order at an administrative hearing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">That if a proposed order of paternity or proposed order of both paternity and child support is not contested, the department shall adopt the proposed order and render a final order that establishes paternity and, if appropriate, an administrative support order for the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">That, until the proceeding is ended, the respondent shall notify the department in writing of any change in the respondent’s mailing address and that the respondent shall be deemed to have received any subsequent order, notice, or other paper mailed to the most recent address provided or, if a more recent address is not provided, to the address at which the respondent was served, and that this requirement continues if the department renders a final order that establishes paternity and a support order for the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">That the respondent may file an action in circuit court for a determination of paternity, child support obligations, or both.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">That if the respondent files an action in circuit court and serves the department with a copy of the petition or complaint within 20 days after being served notice under this subsection, the administrative process ends without prejudice and the action must proceed in circuit court.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">That, if paternity is established, the putative father may file a petition in circuit court for a determination of matters relating to custody and rights of parental contact.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A notice under this paragraph must also notify the respondent of the provisions in s. 409.2563(4)(m) and (o).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A notice of proceeding to establish paternity and child support must state the requirements of paragraph (a), except for subparagraph (a)7., and must state the requirements of s. 409.2563(4), to the extent that the requirements of s. 409.2563(4) are not already required by and do not conflict with this subsection. This section and s. 409.2563 apply to a proceeding commenced under this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The order to appear for genetic testing shall inform the person ordered to appear:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That the department has commenced an administrative proceeding to establish whether the putative father is the biological father of the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name and date of birth of the child and the name of the child’s mother.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the putative father has been named in an affidavit or written declaration that states the putative father is or may be the child’s biological father.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The date, time, and place that the person ordered to appear must appear to provide a sample for genetic testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">That if the person has custody of the child whose paternity is the subject of the proceeding, the person must submit the child for genetic testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">That when the samples are provided, the person ordered to appear shall verify his or her identity and the identity of the child, if applicable, by presenting a form of identification as prescribed by s. 117.05(5)(b)2. which bears the photograph of the person who is providing the sample or other form of verification approved by the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">That if the person ordered to appear submits to genetic testing, the department shall pay the cost of the genetic testing and shall provide the person ordered to appear with a copy of any test results obtained.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">That if the person ordered to appear does not appear as ordered or refuses to submit to genetic testing without good cause, the department may take one or more of the following actions:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Commence proceedings to suspend the driver’s license and motor vehicle registration of the person ordered to appear, as provided in s. 61.13016;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Impose an administrative fine against the person ordered to appear in the amount of $500; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">File a petition in circuit court to establish paternity and obtain a support order for the child and an order for costs against the person ordered to appear, including costs for genetic testing.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">That the person ordered to appear may contest the order by filing a written request for informal review within 15 days after the date of service of the order, with further rights to an administrative hearing following the informal review.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the putative father is incarcerated, the correctional facility shall assist the putative father in complying with an administrative order to appear for genetic testing issued under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An administrative order to appear for genetic testing has the same force and effect as a court order.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">RIGHT TO CONTEST ORDER TO APPEAR FOR GENETIC TESTING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The person ordered to appear may contest an order to appear for genetic testing by filing a written request for informal review with the department within 15 days after the date of service of the order. The purpose of the informal review is to provide the person ordered to appear with an opportunity to discuss the proceedings and the basis of the order. At the conclusion of the informal review, the department shall notify the person ordered to appear, in writing, whether it intends to proceed with the order to appear. If the department notifies the person ordered to appear of its intent to proceed, the notice must inform the person ordered to appear of the right to contest the order at an administrative hearing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Following an informal review, within 15 days after the mailing date of the department’s notification that the department shall proceed with an order to appear for genetic testing, the person ordered to appear may file a request for an administrative hearing to contest whether the person should be required to submit to genetic testing. A request for an administrative hearing must state the specific reasons why the person ordered to appear believes he or she should not be required to submit to genetic testing as ordered. If the person ordered to appear files a timely request for a hearing, the department shall refer the hearing request to the Division of Administrative Hearings. Unless otherwise provided in this section, administrative hearings are governed by chapter 120 and the uniform rules of procedure. The administrative law judge assigned to the case shall issue an order as to whether the person must submit to genetic testing in accordance with the order to appear. The department or the person ordered to appear may seek immediate judicial review under s. 120.68 of an order issued by an administrative law judge pursuant to this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a timely request for an informal review or an administrative hearing is filed, the department may not proceed under the order to appear for genetic testing and may not impose sanctions for failure or refusal to submit to genetic testing until:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The department has notified the person of its intent to proceed after informal review, and a timely request for hearing is not filed;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The person ordered to appear withdraws the request for hearing or informal review; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The Division of Administrative Hearings issues an order that the person must submit to genetic testing, or issues an order closing the division’s file, and that an order has become final.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If a request for an informal review or administrative hearing is not timely filed, the person ordered to appear is deemed to have waived the right to a hearing, and the department may proceed under the order to appear for genetic testing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">SCHEDULING OF GENETIC TESTING.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall notify, in writing, the person ordered to appear of the date, time, and location of the appointment for genetic testing and of the requirement to verify his or her identity and the identity of the child, if applicable, when the samples are provided by presenting a form of identification as prescribed in s. 117.05(5)(b)2. which bears the photograph of the person who is providing the sample or other form of verification approved by the department. If the person ordered to appear is the putative father or the mother, that person shall appear and submit to genetic testing. If the person ordered to appear is a caregiver, or if the putative father or the mother has custody of the child, that person must submit the child for genetic testing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall reschedule genetic testing:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">One time without cause if, in advance of the initial test date, the person ordered to appear requests the department to reschedule the test.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One time if the person ordered to appear shows good cause for failure to appear for a scheduled test.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">One time upon request of a person ordered to appear against whom sanctions have been imposed as provided in subsection (7).</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">A claim of good cause for failure to appear shall be filed with the department within 10 days after the scheduled test date and must state the facts and circumstances supporting the claim. The department shall notify the person ordered to appear, in writing, whether it accepts or rejects the person’s claim of good cause. There is not a separate right to a hearing on the department’s decision to accept or reject the claim of good cause because the person ordered to appear may raise good cause as a defense to any proceeding initiated by the department under subsection (7).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person ordered to appear may obtain a second genetic test by filing a written request for a second test with the department within 15 days after the date of mailing of the initial genetic testing results and by paying the department in advance for the full cost of the second test.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The department may schedule and require a subsequent genetic test if it has reason to believe the results of the preceding genetic test may not be reliable.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (c) and subsection (7), the department shall pay for the cost of genetic testing ordered under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">FAILURE OR REFUSAL TO SUBMIT TO GENETIC TESTING.<EmDash />If a person who is served with an order to appear for genetic testing fails to appear without good cause or refuses to submit to testing without good cause, the department may take one or more of the following actions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Commence a proceeding to suspend the driver’s license and motor vehicle registration of the person ordered to appear, as provided in s. 61.13016;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Impose an administrative fine against the person ordered to appear in the amount of $500; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">File a petition in circuit court to establish paternity, obtain a support order for the child, and seek reimbursement from the person ordered to appear for the full cost of genetic testing incurred by the department.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">As provided in s. 322.058(2), a suspended driver’s license and motor vehicle registration may be reinstated when the person ordered to appear complies with the order to appear for genetic testing. The department may collect an administrative fine imposed under this subsection by using civil remedies or other statutory means available to the department for collecting support.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">GENETIC-TESTING RESULTS.<EmDash />The department shall send a copy of the genetic-testing results to the putative father, to the mother, to the caregiver, and to the other state, if applicable. If the genetic-testing results, including second or subsequent genetic-testing results, do not indicate a statistical probability of paternity that equals or exceeds 99 percent, the paternity proceeding in connection with that child shall cease.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">PROPOSED ORDER OF PATERNITY; COMMENCEMENT OF PROCEEDING TO ESTABLISH ADMINISTRATIVE SUPPORT ORDER; PROPOSED ORDER OF PATERNITY AND CHILD SUPPORT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a paternity proceeding has been commenced under this section and the results of genetic testing indicate a statistical probability of paternity that equals or exceeds 99 percent, the department may:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Issue a proposed order of paternity as provided in paragraph (b); or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If appropriate, delay issuing a proposed order of paternity and commence, by regular mail, an administrative proceeding to establish a support order for the child pursuant to s. 409.2563 and issue a single proposed order that addresses paternity and child support.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A proposed order of paternity must:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">State proposed findings of fact and conclusions of law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Include a copy of the results of genetic testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Include notice of the respondent’s right to informal review and to contest the proposed order of paternity at an administrative hearing.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a paternity and child support proceeding has been commenced under this section and the results of genetic testing indicate a statistical probability of paternity that equals or exceeds 99 percent, the department may issue a single proposed order that addresses paternity as provided in this section and child support as provided in s. 409.2563.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The department shall serve a proposed order issued under this section on the respondent by regular mail and shall provide a copy by regular mail to the mother or caregiver if they are not respondents.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">INFORMAL REVIEW; ADMINISTRATIVE HEARING; PRESUMPTION OF PATERNITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 10 days after the date of mailing or other service of a proposed order of paternity, the respondent may contact a representative of the department at the address or telephone number provided to request an informal review of the proposed order. If an informal review is timely requested, the time for requesting a hearing is extended until 10 days after the department mails notice to the respondent that the informal review has been concluded.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Within 20 days after the mailing date of the proposed order or within 10 days after the mailing date of notice that an informal review has been concluded, whichever is later, the respondent may request an administrative hearing by filing a written request for a hearing with the department. A request for a hearing must state the specific objections to the proposed order, the specific objections to the genetic testing results, or both. A respondent who fails to file a timely request for a hearing is deemed to have waived the right to a hearing.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the respondent files a timely request for a hearing, the department shall refer the hearing request to the Division of Administrative Hearings. Unless otherwise provided in this section or in s. 409.2563, chapter 120 and the uniform rules of procedure govern the conduct of the proceedings.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The genetic-testing results shall be admitted into evidence and made a part of the hearing record. For purposes of this section, a statistical probability of paternity that equals or exceeds 99 percent creates a presumption, as defined in s. 90.304, that the putative father is the biological father of the child. The presumption may be overcome only by clear and convincing evidence. The respondent or the department may call an expert witness to refute or support the testing procedure or results or the mathematical theory on which they are based. Verified documentation of the chain of custody of the samples tested is competent evidence to establish the chain of custody.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">FINAL ORDER ESTABLISHING PATERNITY OR PATERNITY AND CHILD SUPPORT; CONSENT ORDER; NOTICE TO OFFICE OF VITAL STATISTICS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a hearing is held, the administrative law judge of the Division of Administrative Hearings shall issue a final order that adjudicates paternity or, if appropriate, paternity and child support. A final order of the administrative law judge constitutes final agency action by the Department of Revenue. The Division of Administrative Hearings shall transmit any such order to the department for filing and rendering.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the respondent does not file a timely request for a hearing or consents in writing to entry of a final order without a hearing, the department may render a final order of paternity or a final order of paternity and child support, as appropriate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall mail a copy of the final order to the putative father, the mother, and the caregiver, if any. The department shall notify the respondent of the right to seek judicial review of a final order in accordance with s. 120.68.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Upon rendering a final order of paternity or a final order of paternity and child support, the department shall notify the Office of Vital Statistics of the Department of Health that the paternity of the child has been established.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A final order rendered pursuant to this section has the same effect as a judgment entered by the court pursuant to chapter 742.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The provisions of s. 409.2563 which apply to a final administrative support order rendered under that section apply to a final order rendered under this section when a child support obligation is established.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">RIGHT TO JUDICIAL REVIEW.<EmDash />A respondent has the right to seek judicial review, in accordance with s. 120.68, of a final order rendered under subsection (11) and an order issued under paragraph (5)(b). The department has the right to seek judicial review, in accordance with s. 120.68, of a final order issued by an administrative law judge under subsection (11) and an order issued by an administrative law judge under paragraph (5)(b).</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">DUTY TO PROVIDE AND MAINTAIN CURRENT MAILING ADDRESS.<EmDash />Until a proceeding that has been commenced under this section has ended, a respondent who is served with a notice of proceeding must inform the department in writing of any change in the respondent’s mailing address and is deemed to have received any subsequent order, notice, or other paper mailed to that address, or the address at which the respondent was served, if the respondent has not provided a more recent address.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">PROCEEDINGS IN CIRCUIT COURT.<EmDash />The results of genetic testing performed pursuant to this section are admissible as evidence to the same extent as scientific testing ordered by the court pursuant to chapter 742.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">GENDER NEUTRAL.<EmDash />This section shall be construed impartially, regardless of a person’s gender, and applies with equal force to the mother of a child whose paternity has not been established and is not presumed by law.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">REMEDIES SUPPLEMENTAL.<EmDash />The remedies provided in this section are supplemental and in addition to other remedies available to the department for the establishment of paternity and child support obligations.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">RULEMAKING AUTHORITY.<EmDash />The department may adopt rules to implement this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 2005-39; s. 5, ch. 2008-92; s. 7, ch. 2010-187; s. 93, ch. 2012-184.</History>
+</Section>

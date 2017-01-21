@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0856.022" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Loitering or prowling by certain offenders in close proximity to children; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in subsection (2), this section applies to a person convicted of committing, or attempting, soliciting, or conspiring to commit, any of the criminal offenses proscribed in the following statutes in this state or similar offenses in another jurisdiction against a victim who was under 18 years of age at the time of the offense: s. 787.01, s. 787.02, or s. 787.025(2)(c), where the victim is a minor and the offender was not the victim’s parent or guardian; s. 794.011, excluding s. 794.011(10); s. 794.05; s. 796.03; s. 796.035; s. 800.04; s. 825.1025; s. 827.071; s. 847.0133; s. 847.0135, excluding s. 847.0135(6); s. 847.0137; s. 847.0138; s. 847.0145; s. 985.701(1); or any similar offense committed in this state which has been redesignated from a former statute number to one of those listed in this subsection, if the person has not received a pardon for any felony or similar law of another jurisdiction necessary for the operation of this subsection and a conviction of a felony or similar law of another jurisdiction necessary for the operation of this subsection has not been set aside in any postconviction proceeding.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to a person who has been removed from the requirement to register as a sexual offender or sexual predator pursuant to s. 943.04354.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A person described in subsection (1) commits loitering and prowling by a person convicted of a sexual offense against a minor if, in committing loitering and prowling, he or she was within 300 feet of a place where children were congregating.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for a person described in subsection (1) to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Knowingly approach, contact, or communicate with a child under 18 years of age in any public park building or on real property comprising any public park or playground with the intent to engage in conduct of a sexual nature or to make a communication of any type with any content of a sexual nature. This paragraph applies only to a person described in subsection (1) whose offense was committed on or after May 26, 2010.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Knowingly be present in any child care facility or school containing any students in prekindergarten through grade 12 or on real property comprising any child care facility or school containing any students in prekindergarten through grade 12 when the child care facility or school is in operation unless the person had previously provided written notification of his or her intent to be present to the school board, superintendent, principal, or child care facility owner;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Fail to notify the child care facility owner or the school principal’s office when he or she arrives and departs the child care facility or school; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Fail to remain under direct supervision of a school official or designated chaperone when present in the vicinity of children. As used in this paragraph, the term “school official” means a principal, a school resource officer, a teacher or any other employee of the school, the superintendent of schools, a member of the school board, a child care facility owner, or a child care provider.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person is not in violation of paragraph (b) if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The child care facility or school is a voting location and the person is present for the purpose of voting during the hours designated for voting; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The person is only dropping off or picking up his or her own children or grandchildren at the child care facility or school.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any person who violates this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 18, ch. 2010-92.</History>
+</Section>

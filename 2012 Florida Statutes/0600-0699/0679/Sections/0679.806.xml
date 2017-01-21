@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.806" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Amendment of financing statement filed before July 1, 2013.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">On or after July 1, 2013, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in, a financing statement only filed before July 1, 2013, in accordance with the law of the jurisdiction governing perfection as provided in this chapter, as amended by ch. 2012-59, Laws of Florida. However, the effectiveness of a financing statement filed before July 1, 2013, also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in subsection (3), if the law of this state governs perfection of a security interest, the information in a financing statement filed before July 1, 2013, may be amended after July 1, 2013, only if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The financing statement filed before July 1, 2013, and an amendment are filed in the office specified in s. 679.5011;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An amendment is filed in the office specified in s. 679.5011 concurrently with, or after the filing in that office of, an initial financing statement that satisfies s. 679.805(3); or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An initial financing statement that provides the information as amended and satisfies s. 679.805(3) is filed in the office specified in s. 679.5011.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the law of this state governs perfection of a security interest, the effectiveness of a financing statement filed before July 1, 2013, may be continued only under s. 679.804(3) and (5) or s. 679.805.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Whether or not the law of this state governs perfection of a security interest, the effectiveness of a financing statement filed in this state before July 1, 2013, may be terminated on or after July 1, 2013, by filing a termination statement in the office in which the financing statement filed before July 1, 2013, is filed, unless an initial financing statement that satisfies s. 679.805(3) has been filed in the office specified by the law of the jurisdiction governing perfection as provided in this chapter, as amended by ch. 2012-59, Laws of Florida, as the office in which to file a financing statement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 17, 19, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Effective July 1, 2013.</Text>
+	</Note>
+</Section>

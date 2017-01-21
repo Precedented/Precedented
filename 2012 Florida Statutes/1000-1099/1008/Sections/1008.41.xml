@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.41" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Workforce education; management information system.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall coordinate uniform program structures, common definitions, and uniform management information systems for workforce education for all divisions within the department. In performing these functions, the commissioner shall designate deadlines after which data elements may not be changed for the coming fiscal or school year. School districts and Florida College System institutions shall be notified of data element changes at least 90 days prior to the start of the subsequent fiscal or school year. Such systems must provide for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Individual student reporting.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Compliance with state and federal confidentiality requirements, except that the department shall have access to the reemployment assistance wage reports to collect and report placement information about former students. Such placement reports must not disclose the individual identities of former students.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Maximum use of automated technology and records in existing databases and data systems. To the extent feasible, the Florida Information Resource Network may be employed for this purpose.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Annual reports of student enrollment, completion, and placement by program.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall identify, by rule, the components to be included in the workforce education management information system. All such components shall be comparable between school districts and Florida College System institutions.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Planning and evaluation of job-preparatory programs shall be based on standard sources of data and use standard occupational definitions and coding structures, including, but not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Florida Occupational Information System;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Florida Education and Training Placement Information Program;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Department of Economic Opportunity;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The United States Department of Labor; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Other sources of data developed using statistically valid procedures.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 389, ch. 2002-387; s. 113, ch. 2004-357; s. 22, ch. 2009-59; s. 112, ch. 2011-5; s. 469, ch. 2011-142; s. 89, ch. 2012-30.</History>
+</Section>

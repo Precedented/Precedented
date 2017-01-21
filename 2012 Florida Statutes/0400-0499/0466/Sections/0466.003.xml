@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0466.003" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Board” means the Board of Dentistry.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Dentist” means a person licensed to practice dentistry pursuant to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Dentistry” means the healing art which is concerned with the examination, diagnosis, treatment planning, and care of conditions within the human oral cavity and its adjacent tissues and structures. It includes the performance or attempted performance of any dental operation, or oral or oral-maxillofacial surgery and any procedures adjunct thereto, including physical evaluation directly related to such operation or surgery pursuant to hospital rules and regulations. It also includes dental service of any kind gratuitously or for any remuneration paid, or to be paid, directly or indirectly, to any person or agency. The term “dentistry” shall also include the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The taking of an impression of the human tooth, teeth, or jaws directly or indirectly and by any means or method.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Supplying artificial substitutes for the natural teeth or furnishing, supplying, constructing, reproducing, or repairing any prosthetic denture, bridge, appliance, or any other structure designed to be worn in the human mouth except on the written work order of a duly licensed dentist.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The placing of an appliance or structure in the human mouth or the adjusting or attempting to adjust the same.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Delivering the same to any person other than the dentist upon whose work order the work was performed.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Professing to the public by any method to furnish, supply, construct, reproduce, or repair any prosthetic denture, bridge, appliance, or other structure designed to be worn in the human mouth.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Diagnosing, prescribing, or treating or professing to diagnose, prescribe, or treat disease, pain, deformity, deficiency, injury, or physical condition of the human teeth or jaws or oral-maxillofacial region.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Extracting or attempting to extract human teeth.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Correcting or attempting to correct malformations of teeth or of jaws.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Repairing or attempting to repair cavities in the human teeth.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Dental hygiene” means the rendering of educational, preventive, and therapeutic dental services pursuant to ss. 466.023 and 466.024 and any related extra-oral procedure required in the performance of such services.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Dental hygienist” means a person licensed to practice dental hygiene pursuant to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Dental assistant” means a person, other than a dental hygienist, who, under the supervision and authorization of a dentist, provides dental care services directly to a patient. This term shall not include a certified registered nurse anesthetist licensed under part I of chapter 464.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Health.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Direct supervision” means supervision whereby a dentist diagnoses the condition to be treated, a dentist authorizes the procedure to be performed, a dentist remains on the premises while the procedures are performed, and a dentist approves the work performed before dismissal of the patient.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Indirect supervision” means supervision whereby a dentist authorizes the procedure and a dentist is on the premises while the procedures are performed.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“General supervision” means supervision whereby a dentist authorizes the procedures which are being carried out but need not be present when the authorized procedures are being performed. The authorized procedures may also be performed at a place other than the dentist’s usual place of practice. The issuance of a written work authorization to a commercial dental laboratory by a dentist does not constitute general supervision.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Irremediable tasks” are those intraoral treatment tasks which, when performed, are irreversible and create unalterable changes within the oral cavity or the contiguous structures or which cause an increased risk to the patient. The administration of anesthetics other than topical anesthesia is considered to be an “irremediable task” for purposes of this chapter.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Remediable tasks” are those intraoral treatment tasks which are reversible and do not create unalterable changes within the oral cavity or the contiguous structures and which do not cause an increased risk to the patient.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Oral and maxillofacial surgery” means the specialty of dentistry involving diagnosis, surgery, and adjunctive treatment of diseases, injuries, and defects involving the functional and esthetic aspects of the hard and soft tissues of the oral and maxillofacial regions. This term may not be construed to apply to any individual exempt under s. 466.002(1).</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Health access setting” means a program or an institution of the Department of Children and Family Services, the Department of Health, the Department of Juvenile Justice, a nonprofit community health center, a Head Start center, a federally qualified health center or look-alike as defined by federal law, a school-based prevention program, a clinic operated by an accredited college of dentistry, or an accredited dental hygiene program in this state if such community service program or institution immediately reports to the Board of Dentistry all violations of s. 466.027, s. 466.028, or other practice act or standard of care violations related to the actions or inactions of a dentist, dental hygienist, or dental assistant engaged in the delivery of dental care in such setting.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“School-based prevention program” means preventive oral health services offered at a school by one of the entities defined in subsection (14) or by a nonprofit organization that is exempt from federal income taxation under s. 501(a) of the Internal Revenue Code, and described in s. 501(c)(3) of the Internal Revenue Code.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 3, ch. 79-330; ss. 2, 3, ch. 81-318; ss. 3, 23, 24, ch. 86-291; s. 60, ch. 91-137; s. 7, ch. 91-156; s. 4, ch. 91-429; s. 1, ch. 94-104; s. 126, ch. 94-218; s. 2, ch. 97-67; s. 107, ch. 97-264; s. 130, ch. 2000-318; s. 1, ch. 2008-64; s. 4, ch. 2011-95.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.80" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Economic development centers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Florida College System institutions may establish economic development centers for the purpose of serving as liaisons between Florida College System institutions and the business sector. The responsibilities of each center shall include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Promoting the economic well-being of businesses and industries.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Coordinating, with chambers of commerce, government agencies, district school boards, and other organizations, efforts to provide educational programs which promote economic development, including, but not limited to, business incubators, industrial development and research parks, industry recruitment efforts, publication of business research and resource guides, and sponsorship of workshops, conferences, seminars, and consultation services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The board of trustees of a Florida College System institution in which an economic development center is created, or its designee, may negotiate, enter into, and execute contracts; solicit and accept grants and donations; and fix and collect fees, other payments, and donations that may accrue by reason of activities of the center and its staff.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Economic development centers shall operate under policies and procedures established by the Florida College System institution board of trustees.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education may award grants to economic development centers for the purposes of this section. Grants awarded pursuant to this subsection shall be in accordance with rules established by the State Board of Education.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 231, ch. 2002-387; s. 63, ch. 2011-5.</History>
+</Section>

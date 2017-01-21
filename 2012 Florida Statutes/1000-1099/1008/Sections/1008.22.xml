@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.22" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Student assessment program for public schools.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">PURPOSE.<EmDash />The primary purposes of the student assessment program are to provide information needed to improve the public schools by enhancing the learning gains of all students and to inform parents of the educational progress of their public school children. The program must be designed to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Assess the annual learning gains of each student toward achieving the Sunshine State Standards appropriate for the student’s grade level.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provide data for making decisions regarding school accountability and recognition.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Identify the educational strengths and needs of students and the readiness of students to be promoted to the next grade level or to graduate from high school with a standard or special high school diploma.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Assess how well educational goals and curricular standards are met at the school, district, and state levels.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Provide information to aid in the evaluation and development of educational programs and policies.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Provide information on the performance of Florida students compared with that of other students across the United States.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">NATIONAL AND INTERNATIONAL EDUCATION COMPARISONS.<EmDash />It is Florida’s intent to participate in the measurement of national educational goals. The Commissioner of Education shall direct Florida school districts to participate in the administration of the National Assessment of Educational Progress, or similar national or international assessment program, both for the national sample and for any state-by-state comparison programs which may be initiated. The assessments must be conducted using the data collection procedures, the student surveys, the educator surveys, and other instruments included in the National Assessment of Educational Progress or similar national or international assessment program being administered in Florida. The results of these assessments shall be included in the annual report of the Commissioner of Education specified in this section, as applicable. The administration of the National Assessment of Educational Progress or similar national or international assessment program shall be in addition to and separate from the administration of the statewide assessment program.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">STATEWIDE ASSESSMENT PROGRAM.<EmDash />The commissioner shall design and implement a statewide program of educational assessment that provides information for the improvement of the operation and management of the public schools, including schools operating for the purpose of providing educational services to youth in Department of Juvenile Justice programs. The commissioner may enter into contracts for the continued administration of the assessment programs authorized and funded by the Legislature. Contracts may be initiated in 1 fiscal year and continue into the next and may be paid from the appropriations of either or both fiscal years. The commissioner is authorized to negotiate for the sale or lease of tests, scoring protocols, test scoring services, and related materials developed pursuant to law. Pursuant to the statewide assessment program, the commissioner shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Submit proposed Next Generation Sunshine State Standards to the State Board of Education for adoption and periodic review and revision under s. 1003.41.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Develop and implement a uniform system of indicators to describe the performance of public school students and the characteristics of the public school districts and the public schools. These indicators must include information gathered by the comprehensive management information system created pursuant to s. 1008.385 and student achievement information obtained pursuant to this section.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Develop and implement a student achievement assessment program as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Florida Comprehensive Assessment Test (FCAT) measures a student’s content knowledge and skills in reading, writing, science, and mathematics. The content knowledge and skills assessed by the FCAT must be aligned to the core curricular content established in the Next Generation Sunshine State Standards. FCAT Reading and FCAT Mathematics shall be administered annually in grades 3 through 10 except, beginning with the 2010-2011 school year, the administration of grade 9 FCAT Mathematics shall be discontinued, and beginning with the 2011-2012 school year, the administration of grade 10 FCAT Mathematics shall be discontinued, except as required for students who have not attained minimum performance expectations for graduation as provided in paragraph (9)(c). FCAT Writing and FCAT Science shall be administered at least once at the elementary, middle, and high school levels except, beginning with the 2011-2012 school year, the administration of FCAT Science at the high school level shall be discontinued. Students enrolled in an Algebra I, geometry, or Biology I course or an equivalent course with a statewide, standardized end-of-course assessment are not required to take the corresponding grade-level FCAT assessment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro"> End-of-course assessments must be rigorous, statewide, standardized, and developed or approved by the department. The content knowledge and skills assessed by end-of-course assessments must be aligned to the core curricular content established in the Next Generation Sunshine State Standards.</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">Statewide, standardized end-of-course assessments in mathematics shall be administered according to this sub-sub-subparagraph. Beginning with the 2010-2011 school year, all students enrolled in Algebra I or an equivalent course must take the Algebra I end-of-course assessment. For students entering grade 9 during the 2010-2011 school year and who are enrolled in Algebra I or an equivalent, each student’s performance on the end-of-course assessment in Algebra I shall constitute 30 percent of the student’s final course grade. Beginning with the 2012-2013 school year, the end-of-course assessment in Algebra I shall be administered four times annually. Beginning with students entering grade 9 in the 2011-2012 school year, a student who is enrolled in Algebra I or an equivalent must earn a passing score on the end-of-course assessment in Algebra I or attain an equivalent score as described in subsection (11) in order to earn course credit. Beginning with the 2011-2012 school year, all students enrolled in geometry or an equivalent course must take the geometry end-of-course assessment. For students entering grade 9 during the 2011-2012 school year, each student’s performance on the end-of-course assessment in geometry shall constitute 30 percent of the student’s final course grade. Beginning with students entering grade 9 during the 2012-2013 school year, a student must earn a passing score on the end-of-course assessment in geometry or attain an equivalent score as described in subsection (11) in order to earn course credit.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">Statewide, standardized end-of-course assessments in science shall be administered according to this sub-sub-subparagraph. Beginning with the 2011-2012 school year, all students enrolled in Biology I or an equivalent course must take the Biology I end-of-course assessment. For the 2011-2012 school year, each student’s performance on the end-of-course assessment in Biology I shall constitute 30 percent of the student’s final course grade. Beginning with students entering grade 9 during the 2012-2013 school year, a student must earn a passing score on the end-of-course assessment in Biology I in order to earn course credit.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">During the 2012-2013 school year, an end-of-course assessment in civics education shall be administered as a field test at the middle school level. During the 2013-2014 school year, each student’s performance on the statewide, standardized end-of-course assessment in civics education shall constitute 30 percent of the student’s final course grade. Beginning with the 2014-2015 school year, a student must earn a passing score on the end-of-course assessment in civics education in order to pass the course and be promoted from the middle grades. The school principal of a middle school shall determine, in accordance with State Board of Education rule, whether a student who transfers to the middle school and who has successfully completed a civics education course at the student’s previous school must take an end-of-course assessment in civics education.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The commissioner may select one or more nationally developed comprehensive examinations, which may include, but need not be limited to, examinations for a College Board Advanced Placement course, International Baccalaureate course, or Advanced International Certificate of Education course, or industry-approved examinations to earn national industry certifications identified in the Industry Certification Funding List, pursuant to rules adopted by the State Board of Education, for use as end-of-course assessments under this paragraph, if the commissioner determines that the content knowledge and skills assessed by the examinations meet or exceed the grade level expectations for the core curricular content established for the course in the Next Generation Sunshine State Standards. The commissioner may collaborate with the American Diploma Project in the adoption or development of rigorous end-of-course assessments that are aligned to the Next Generation Sunshine State Standards.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Contingent upon funding provided in the General Appropriations Act, including the appropriation of funds received through federal grants, the Commissioner of Education shall establish an implementation schedule for the development and administration of additional statewide, standardized end-of-course assessments in English/Language Arts II, Algebra II, chemistry, physics, earth/space science, United States history, and world history. Priority shall be given to the development of end-of-course assessments in English/Language Arts II. The Commissioner of Education shall evaluate the feasibility and effect of transitioning from the grade 9 and grade 10 FCAT Reading and high school level FCAT Writing to an end-of-course assessment in English/Language Arts II. The commissioner shall report the results of the evaluation to the President of the Senate and the Speaker of the House of Representatives no later than July 1, 2011.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The assessment program shall measure student content knowledge and skills adopted by the State Board of Education as specified in paragraph (a) and measure and report student performance levels of all students assessed in reading, writing, mathematics, and science. The commissioner shall provide for the tests to be developed or obtained, as appropriate, through contracts and project agreements with private vendors, public vendors, public agencies, postsecondary educational institutions, or school districts. The commissioner shall obtain input with respect to the design and implementation of the assessment program from state educators, assistive technology experts, and the public.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The assessment program shall be composed of criterion-referenced tests that shall, to the extent determined by the commissioner, include test items that require the student to produce information or perform tasks in such a way that the core content knowledge and skills he or she uses can be measured.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">FCAT Reading, Mathematics, and Science and all statewide, standardized end-of-course assessments shall measure the content knowledge and skills a student has attained on the assessment by the use of scaled scores and achievement levels. Achievement levels shall range from 1 through 5, with level 1 being the lowest achievement level, level 5 being the highest achievement level, and level 3 indicating satisfactory performance on an assessment. For purposes of FCAT Writing, student achievement shall be scored using a scale of 1 through 6 and the score earned shall be used in calculating school grades. A score shall be designated for each subject area tested, below which score a student’s performance is deemed inadequate. The school districts shall provide appropriate remedial instruction to students who score below these levels.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The State Board of Education shall, by rule, designate a passing score for each part of the grade 10 assessment test and end-of-course assessments. Any rule that has the effect of raising the required passing scores may apply only to students taking the assessment for the first time after the rule is adopted by the State Board of Education. Except as otherwise provided in this subparagraph and as provided in s. 1003.428(8)(b) or s. 1003.43(11)(b), students must earn a passing score on grade 10 FCAT Reading and grade 10 FCAT Mathematics or attain concordant scores as described in subsection (10) in order to qualify for a standard high school diploma.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">In addition to designating a passing score under subparagraph 6., the State Board of Education shall also designate, by rule, a score for each statewide, standardized end-of-course assessment which indicates that a student is high achieving and has the potential to meet college-readiness standards by the time the student graduates from high school.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Participation in the assessment program is mandatory for all students attending public school, including students served in Department of Juvenile Justice programs, except as otherwise prescribed by the commissioner. A student who has not earned passing scores on the grade 10 FCAT as provided in subparagraph 6. must participate in each retake of the assessment until the student earns passing scores or achieves scores on a standardized assessment which are concordant with passing scores pursuant to subsection (10). If a student does not participate in the statewide assessment, the district must notify the student’s parent and provide the parent with information regarding the implications of such nonparticipation. A parent must provide signed consent for a student to receive classroom instructional accommodations that would not be available or permitted on the statewide assessments and must acknowledge in writing that he or she understands the implications of such instructional accommodations. The State Board of Education shall adopt rules, based upon recommendations of the commissioner, for the provision of test accommodations for students in exceptional education programs and for students who have limited English proficiency. Accommodations that negate the validity of a statewide assessment are not allowable in the administration of the FCAT or an end-of-course assessment. However, instructional accommodations are allowable in the classroom if included in a student’s individual education plan. Students using instructional accommodations in the classroom that are not allowable as accommodations on the FCAT or an end-of-course assessment may have the FCAT or an end-of-course assessment requirement waived pursuant to the requirements of s. 1003.428(8)(b) or s. 1003.43(11)(b).</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">A student seeking an adult high school diploma must meet the same testing requirements that a regular high school student must meet.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">District school boards must provide instruction to prepare students in the core curricular content established in the Next Generation Sunshine State Standards adopted under s. 1003.41, including the core content knowledge and skills necessary for successful grade-to-grade progression and high school graduation. If a student is provided with instructional accommodations in the classroom that are not allowable as accommodations in the statewide assessment program, as described in the test manuals, the district must inform the parent in writing and must provide the parent with information regarding the impact on the student’s ability to meet expected performance levels in reading, writing, mathematics, and science. The commissioner shall conduct studies as necessary to verify that the required core curricular content is part of the district instructional programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">District school boards must provide opportunities for students to demonstrate an acceptable performance level on an alternative standardized assessment approved by the State Board of Education following enrollment in summer academies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">The Department of Education must develop, or select, and implement a common battery of assessment tools that will be used in all juvenile justice programs in the state. These tools must accurately measure the core curricular content established in the Next Generation Sunshine State Standards.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">For students seeking a special diploma pursuant to s. 1003.438, the Department of Education must develop or select and implement an alternate assessment tool that accurately measures the core curricular content established in the Next Generation Sunshine State Standards for students with disabilities under s. 1003.438.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall establish schedules for the administration of statewide assessments and the reporting of student test results. When establishing the schedules for the administration of statewide assessments, the commissioner shall consider the observance of religious and school holidays. The commissioner shall, by August 1 of each year, notify each school district in writing and publish on the department’s Internet website the testing and reporting schedules for, at a minimum, the school year following the upcoming school year. The testing and reporting schedules shall require that:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">There is the latest possible administration of statewide assessments and the earliest possible reporting to the school districts of student test results which is feasible within available technology and specific appropriations; however, test results for the FCAT must be made available no later than the week of June 8. Student results for end-of-course assessments must be provided no later than 1 week after the school district completes testing for each course. The commissioner may extend the reporting schedule under exigent circumstances.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">FCAT Writing may not be administered earlier than the week of March 1, and a comprehensive statewide assessment of any other subject may not be administered earlier than the week of April 15.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A statewide, standardized end-of-course assessment is administered at the end of the course. The commissioner shall select an administration period for assessments that meets the intent of end-of-course assessments and provides student results prior to the end of the course. School districts shall administer tests in accordance with the schedule determined by the commissioner. For an end-of-course assessment administered at the end of the first semester, the commissioner shall determine the most appropriate testing dates based on a review of each school district’s academic calendar.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">The commissioner may, based on collaboration and input from school districts, design and implement student testing programs, for any grade level and subject area, necessary to effectively monitor educational achievement in the state, including the measurement of educational achievement of the Next Generation Sunshine State Standards for students with disabilities. Development and refinement of assessments shall include universal design principles and accessibility standards that will prevent any unintended obstacles for students with disabilities while ensuring the validity and reliability of the test. These principles should be applicable to all technology platforms and assistive devices available for the assessments. The field testing process and psychometric analyses for the statewide assessment program must include an appropriate percentage of students with disabilities and an evaluation or determination of the effect of test items on such students.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Conduct ongoing research to develop improved methods of assessing student performance, including, without limitation, the use of technology to administer tests, score, or report the results of, the use of electronic transfer of data, the development of work-product assessments, and the development of process assessments.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Conduct ongoing research and analysis of student achievement data, including, without limitation, monitoring trends in student achievement by grade level and overall student achievement, identifying school programs that are successful, and analyzing correlates of school achievement.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Provide technical assistance to school districts in the implementation of state and district testing programs and the use of the data produced pursuant to such programs.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Beginning with the 2014-2015 school year, require that all statewide end-of-course assessments be administered online.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">STATEWIDE ASSESSMENT PREPARATION; PROHIBITED ACTIVITIES.<EmDash />Beginning with the 2008-2009 school year, a district school board shall prohibit each public school from suspending a regular program of curricula for purposes of administering practice tests or engaging in other test-preparation activities for a statewide assessment. However, a district school board may authorize a public school to engage in the following test-preparation activities for a statewide assessment:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Distributing to students the sample test books and answer keys published by the Department of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Providing individualized instruction in test-taking strategies, without suspending the school’s regular program of curricula, for a student who scores at Level 1 or Level 2 on a prior administration of the statewide assessment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Providing individualized instruction in the content knowledge and skills assessed, without suspending the school’s regular program of curricula, for a student who scores at Level 1 or Level 2 on a prior administration of the statewide assessment or a student who, through a diagnostic assessment administered by the school district, is identified as having a deficiency in the content knowledge and skills assessed.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Incorporating test-taking exercises and strategies into curricula for intensive reading and mathematics intervention courses.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Administering a practice test or engaging in other test-preparation activities for the statewide assessment which are determined necessary to familiarize students with the organization of the assessment, the format of the test items, and the test directions, or which are otherwise necessary for the valid and reliable administration of the assessment, as set forth in rules adopted by the State Board of Education with specific reference to this paragraph.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">DISTRICT TESTING PROGRAMS.<EmDash />Each district school board shall periodically assess student performance and achievement within each school of the district. The assessment programs must be based on the core curricular content established in the Next Generation Sunshine State Standards and any local goals and objectives that are compatible with the state plan for education and that supplement the core content knowledge and skills necessary for successful grade-to-grade progression and high school graduation. All school districts must participate in the statewide assessment program designed to measure annual student learning and school performance. All district school boards shall report assessment results as required by the state management information system.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">SCHOOL TESTING PROGRAMS.<EmDash />Each public school shall participate in the statewide assessment program in accordance with the testing and reporting schedules published by the Commissioner of Education under subparagraph (3)(c)14. unless specifically exempted by state board rule based on serving a specialized population for which standardized testing is not appropriate. Student performance data shall be analyzed and reported to parents, the community, and the state. Student performance data shall be used in developing objectives of the school improvement plan, evaluation of instructional personnel, evaluation of administrative personnel, assignment of staff, allocation of resources, acquisition of instructional materials and technology, performance-based budgeting, and promotion and assignment of students into educational programs. The analysis of student performance data also must identify strengths and needs in the educational program and trends over time. The analysis must be used in conjunction with the budgetary planning processes developed pursuant to s. 1008.385 and the development of the programs of remediation.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">REQUIRED ANALYSES.<EmDash />The commissioner shall provide, at a minimum, for the following analyses of data produced by the student achievement assessment program:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The statistical system for the annual assessments shall use measures of student learning, such as the FCAT, to determine teacher, school, and school district statistical distributions, which shall be determined using available data from the FCAT, and other data collection as deemed appropriate by the Department of Education, to measure the differences in student prior year achievement compared to the current year achievement for the purposes of accountability and recognition.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The statistical system shall provide the best estimates of teacher, school, and school district effects on student progress. The approach used by the department shall be approved by the commissioner before implementation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The annual assessment program shall be administered to provide for valid statewide comparisons of learning gains to be made for purposes of accountability and recognition. District school boards shall not establish school calendars that jeopardize or limit the valid testing and comparison of student learning gains.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">LOCAL ASSESSMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Measurement of the learning gains of students in all subjects and grade levels other than subjects and grade levels required for the state student achievement assessment program is the responsibility of the school districts.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Beginning with the 2014-2015 school year, each school district shall administer for each course offered in the district a student assessment that measures mastery of the content, as described in the state-adopted course description, at the necessary level of rigor for the course. Such assessments may include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Statewide assessments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Other standardized assessments, including nationally recognized standardized assessments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Industry certification examinations.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">District-developed or district-selected end-of-course assessments.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall identify methods to assist and support districts in the development and acquisition of assessments required under this subsection. Methods may include developing item banks, facilitating the sharing of developed tests among school districts, acquiring assessments from state and national curriculum-area organizations, and providing technical assistance in best professional practices of test development based upon state-adopted curriculum standards, administration, and security.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY OF TESTING STANDARDS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the Commissioner of Education revises a statewide assessment and the revisions require the State Board of Education to modify the assessment’s performance levels or modify the passing scores, until the state board adopts the modifications by rule, the commissioner shall use calculations for scoring the assessment which adjust student scores on the revised assessment for statistical equivalence to student scores on the former assessment.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A student must attain the passing scores on the statewide assessment required for a standard high school diploma or for high school course credits under sub-sub-subparagraphs (3)(c)2.a.(I) and (II) which are in effect at the time the student enters grade 9. If a student transfers into a high school, the school principal shall determine, in accordance with State Board of Education rule, whether the student must take an end-of-course assessment in a course for which the student has credit that was earned from the previous school.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the commissioner revises a statewide assessment and the revisions require the State Board of Education to modify the passing scores required for a standard high school diploma or for high school course credits under sub-sub-subparagraphs (3)(c)2.a.(I) and (II), the commissioner may, with approval of the state board, discontinue administration of the former assessment upon the graduation, based on normal student progression, of students participating in the final regular administration of the former assessment. The state board shall adopt by rule passing scores for the revised assessment which are statistically equivalent to passing scores on the discontinued assessment for a student required under paragraph (b) to attain passing scores on the discontinued assessment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">CONCORDANT SCORES FOR THE FCAT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall analyze the content and concordant data sets for nationally recognized high school achievement tests, including, but not limited to, the PSAT, PLAN, SAT, ACT, and College Placement Test, to assess if concordant scores for FCAT scores can be determined for high school graduation. When content alignment and concordant scores can be determined, the Commissioner of Education shall adopt those scores as meeting the graduation requirement in lieu of achieving the FCAT passing score and may adopt those scores as being sufficient to achieve additional purposes as determined by rule. Each time that test content or scoring procedures change for the FCAT or for a high school achievement test for which a concordant score is determined, new concordant scores must be determined. </Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The State Board of Education may define by rule the allowable uses, other than to satisfy the high school graduation requirement, for concordant scores as described in this subsection. Such uses may include, but need not be limited to, achieving appropriate standardized test scores required for the awarding of Florida Bright Futures Scholarships and college placement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">EQUIVALENT SCORES FOR END-OF-COURSE ASSESSMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education shall analyze the content and equivalent data sets for nationally recognized high school achievement tests and industry certification tests under the Industry Certification Funding List, pursuant to rules adopted by the State Board of Education, including, but not limited to, grade 10 FCAT Mathematics retakes until such retakes are discontinued pursuant to subsection (9), the PSAT, the PLAN, the SAT, the ACT, and the College Placement Test, to assess if equivalent scores for end-of-course assessment scores can be determined for passage of an end-of-course assessment. When content alignment and equivalent scores can be determined, the Commissioner of Education shall adopt those scores as meeting the requirement to pass the end-of-course assessment and as being sufficient to achieve additional purposes as determined by rule. Each time that assessment content or scoring procedures change for an end-of-course assessment or for a high school achievement test or an industry certification test under the Industry Certification Funding List, pursuant to rules adopted by the State Board of Education for which an equivalent score is determined, new equivalent scores must be determined.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Use of an equivalent score adopted by the State Board of Education under paragraph (a) for purposes of grade adjustment, grade forgiveness, or course credit recovery is contingent upon and subject to district school board rules.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">REPORTS.<EmDash />The Department of Education shall annually provide a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives on the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Longitudinal performance of students in mathematics and reading.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Longitudinal performance of students by grade level in mathematics and reading.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Longitudinal performance regarding efforts to close the achievement gap.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Other student performance data based on national norm-referenced and criterion-referenced tests, when available, and numbers of students who after 8th grade enroll in adult education rather than other secondary education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education shall adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 368, ch. 2002-387; s. 7, ch. 2003-8; s. 2, ch. 2003-413; s. 49, ch. 2004-41; s. 3, ch. 2004-42; s. 5, ch. 2004-271; s. 40, ch. 2006-74; s. 174, ch. 2007-5; s. 7, ch. 2008-142; s. 18, ch. 2008-235; s. 99, ch. 2009-21; s. 8, ch. 2010-22; s. 4, ch. 2010-48; s. 3, ch. 2011-1; s. 20, ch. 2011-37; s. 8, ch. 2011-137; s. 25, ch. 2011-175; s. 22, ch. 2012-191; s. 5, ch. 2012-194.</History>
+</Section>

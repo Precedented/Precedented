@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0400.179" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Liability for Medicaid underpayments and overpayments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature to protect the rights of nursing home residents and the security of public funds when a nursing facility is sold or the ownership is transferred.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Because any transfer of a nursing facility may expose the fact that Medicaid may have underpaid or overpaid the transferor, and because in most instances, any such underpayment or overpayment can only be determined following a formal field audit, the liabilities for any such underpayments or overpayments shall be as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Medicaid program shall be liable to the transferor for any underpayments owed during the transferor’s period of operation of the facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Without regard to whether the transferor had leased or owned the nursing facility, the transferor shall remain liable to the Medicaid program for all Medicaid overpayments received during the transferor’s period of operation of the facility, regardless of when determined.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Where the facility transfer takes any form of a sale of assets, in addition to the transferor’s continuing liability for any such overpayments, if the transferor fails to meet these obligations, the transferee shall be liable for all liabilities that can be readily identifiable 90 days in advance of the transfer. Such liability shall continue in succession until the debt is ultimately paid or otherwise resolved. It shall be the burden of the transferee to determine the amount of all such readily identifiable overpayments from the Agency for Health Care Administration, and the agency shall cooperate in every way with the identification of such amounts. Readily identifiable overpayments shall include overpayments that will result from, but not be limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Medicaid rate changes or adjustments;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any depreciation recapture;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any recapture of fair rental value system indexing; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Audits completed by the agency.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The transferor shall remain liable for any such Medicaid overpayments that were not readily identifiable 90 days in advance of the nursing facility transfer.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Where the transfer involves a facility that has been leased by the transferor:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The transferee shall, as a condition to being issued a license by the agency, acquire, maintain, and provide proof to the agency of a bond with a term of 30 months, renewable annually, in an amount not less than the total of 3 months’ Medicaid payments to the facility computed on the basis of the preceding 12-month average Medicaid payments to the facility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A leasehold licensee may meet the requirements of subparagraph 1. by payment of a nonrefundable fee, paid at initial licensure, paid at the time of any subsequent change of ownership, and paid annually thereafter, in the amount of 1 percent of the total of 3 months’ Medicaid payments to the facility computed on the basis of the preceding 12-month average Medicaid payments to the facility. If a preceding 12-month average is not available, projected Medicaid payments may be used. The fee shall be deposited into the Grants and Donations Trust Fund and shall be accounted for separately as a Medicaid nursing home overpayment account. These fees shall be used at the sole discretion of the agency to repay nursing home Medicaid overpayments. Payment of this fee shall not release the licensee from any liability for any Medicaid overpayments, nor shall payment bar the agency from seeking to recoup overpayments from the licensee and any other liable party. As a condition of exercising this lease bond alternative, licensees paying this fee must maintain an existing lease bond through the end of the 30-month term period of that bond. The agency is herein granted specific authority to promulgate all rules pertaining to the administration and management of this account, including withdrawals from the account, subject to federal review and approval. This provision shall take effect upon becoming law and shall apply to any leasehold license application. The financial viability of the Medicaid nursing home overpayment account shall be determined by the agency through annual review of the account balance and the amount of total outstanding, unpaid Medicaid overpayments owing from leasehold licensees to the agency as determined by final agency audits. By March 31 of each year, the agency shall assess the cumulative fees collected under this subparagraph, minus any amounts used to repay nursing home Medicaid overpayments and amounts transferred to contribute to the General Revenue Fund pursuant to s. 215.20. If the net cumulative collections, minus amounts utilized to repay nursing home Medicaid overpayments, exceed $25 million, the provisions of this subparagraph shall not apply for the subsequent fiscal year.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The leasehold licensee may meet the bond requirement through other arrangements acceptable to the agency. The agency is herein granted specific authority to promulgate rules pertaining to lease bond arrangements.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">All existing nursing facility licensees, operating the facility as a leasehold, shall acquire, maintain, and provide proof to the agency of the 30-month bond required in subparagraph 1., above, on and after July 1, 1993, for each license renewal.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">It shall be the responsibility of all nursing facility operators, operating the facility as a leasehold, to renew the 30-month bond and to provide proof of such renewal to the agency annually.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Any failure of the nursing facility operator to acquire, maintain, renew annually, or provide proof to the agency shall be grounds for the agency to deny, revoke, and suspend the facility license to operate such facility and to take any further action, including, but not limited to, enjoining the facility, asserting a moratorium pursuant to part II of chapter 408, or applying for a receiver, deemed necessary to ensure compliance with this section and to safeguard and protect the health, safety, and welfare of the facility’s residents. A lease agreement required as a condition of bond financing or refinancing under s. 154.213 by a health facilities authority or required under s. 159.30 by a county or municipality is not a leasehold for purposes of this paragraph and is not subject to the bond requirement of this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 12, 18, ch. 80-186; s. 2, ch. 81-318; ss. 24, 79, 83, ch. 83-181; s. 51, ch. 83-218; s. 30, ch. 93-177; ss. 23, 49, ch. 93-217; s. 119, ch. 99-8; s. 15, ch. 2001-377; s. 28, ch. 2002-223; s. 10, ch. 2002-400; s. 1, ch. 2003-405; s. 63, ch. 2005-2; s. 3, ch. 2006-28; s. 68, ch. 2007-230; s. 1, ch. 2008-143; s. 3, ch. 2009-47; s. 13, ch. 2009-82; s. 2, ch. 2010-156; s. 13, ch. 2011-3.</History>
+</Section>

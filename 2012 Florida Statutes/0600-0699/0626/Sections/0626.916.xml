@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.916" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligibility for export.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">No insurance coverage shall be eligible for export unless it meets all of the following conditions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The full amount of insurance required must not be procurable, after a diligent effort has been made by the producing agent to do so, from among the insurers authorized to transact and actually writing that kind and class of insurance in this state, and the amount of insurance exported shall be only the excess over the amount so procurable from authorized insurers. Surplus lines agents must verify that a diligent effort has been made by requiring a properly documented statement of diligent effort from the retail or producing agent. However, to be in compliance with the diligent effort requirement, the surplus lines agent’s reliance must be reasonable under the particular circumstances surrounding the export of that particular risk. Reasonableness shall be assessed by taking into account factors which include, but are not limited to, a regularly conducted program of verification of the information provided by the retail or producing agent. Declinations must be documented on a risk-by-risk basis. If it is not possible to obtain the full amount of insurance required by layering the risk, it is permissible to export the full amount.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The premium rate at which the coverage is exported shall not be lower than that rate applicable, if any, in actual and current use by a majority of the authorized insurers for the same coverage on a similar risk.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The policy or contract form under which the insurance is exported shall not be more favorable to the insured as to the coverage or rate than under similar contracts on file and in actual current use in this state by the majority of authorized insurers actually writing similar coverages on similar risks; except that a coverage may be exported under a unique form of policy designed for use with respect to a particular subject of insurance if a copy of such form is filed with the office by the surplus lines agent desiring to use the same and is subject to the disapproval of the office within 10 days of filing such form exclusive of Saturdays, Sundays, and legal holidays if it finds that the use of such special form is not reasonably necessary for the principal purposes of the coverage or that its use would be contrary to the purposes of this Surplus Lines Law with respect to the reasonable protection of authorized insurers from unwarranted competition by unauthorized insurers.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Except as to extended coverage in connection with fire insurance policies and except as to windstorm insurance, the policy or contract under which the insurance is exported shall not provide for deductible amounts, in determining the existence or extent of the insurer’s liability, other than those available under similar policies or contracts in actual and current use by one or more authorized insurers.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">For personal residential property risks, the retail or producing agent must advise the insured in writing that coverage may be available and may be less expensive from Citizens Property Insurance Corporation. The notice must include other information that states that assessments by Citizens Property Insurance Corporation are higher and the coverage provided by Citizens Property Insurance Corporation may be less than the property’s existing coverage. If the notice is signed by the insured, it is presumed that the insured has been informed and knows that policies from Citizens Property Insurance Corporation may be less expensive, may provide less coverage, and will be accompanied by higher assessments.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The commission may by rule declare eligible for export generally, and notwithstanding the provisions of paragraphs (a), (b), (c), and (d) of subsection (1), any class or classes of insurance coverage or risk for which it finds, after a hearing, that there is no reasonable or adequate market among authorized insurers. Any such rules shall continue in effect during the existence of the conditions upon which predicated, but subject to termination by the commission.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Subsection (1) does not apply to wet marine and transportation or aviation risks which are subject to s. 626.917.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Paragraphs (1)(a)-(d) do not apply to classes of insurance which are subject to s. 627.062(3)(d)1. These classes may be exportable under the following conditions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The insurance must be placed only by or through a surplus lines agent licensed in this state;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The insurer must be made eligible under s. 626.918; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The insured must sign a disclosure that substantially provides the following: “You are agreeing to place coverage in the surplus lines market. Superior coverage may be available in the admitted market and at a lesser cost. Persons insured by surplus lines carriers are not protected under the Florida Insurance Guaranty Act with respect to any right of recovery for the obligation of an insolvent unlicensed insurer.” If the notice is signed by the insured, the insured is presumed to have been informed and to know that other coverage may be available, and, with respect to the diligent-effort requirement under subsection (1), there is no liability on the part of, and no cause of action arises against, the retail agent presenting the form.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A reasonable per-policy fee, not to exceed $35, may be charged by the filing surplus lines agent for each policy certified for export.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 355, ch. 59-205; s. 1, ch. 63-86; s. 1, ch. 67-380; ss. 13, 35, ch. 69-106; s. 91, ch. 79-40; s. 2, ch. 81-318; ss. 300, 318, 807, ch. 82-243; ss. 164, 206, 207, ch. 90-363; s. 4, ch. 91-429; s. 29, ch. 92-146; s. 1, ch. 2001-213; s. 1016, ch. 2003-261; s. 6, ch. 2007-90; s. 17, ch. 2011-174.</History>
+</Section>

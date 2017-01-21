@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XL">
+  <ChapterNumber>692</ChapterNumber>
+  <ChapterName xml:space="preserve">Conveyances by or to particular entities</ChapterName>
+  <Part PartNumber="I">
+    <PartNumber>PART I</PartNumber>
+    <PartTitle xml:space="preserve">Conveyances by corporations</PartTitle>
+    <Section Number="0692.01" />
+    <Section Number="0692.02" />
+    <Section Number="0692.03" />
+    <Section Number="0692.04" />
+  </Part>
+  <Part PartNumber="II">
+    <PartNumber>PART II</PartNumber>
+    <PartTitle xml:space="preserve">Conveyances to or by trustees<NewLine />of unincorporated churches</PartTitle>
+    <Section Number="0692.101" />
+  </Part>
+</Chapter>

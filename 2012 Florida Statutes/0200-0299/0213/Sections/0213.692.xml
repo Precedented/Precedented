@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.692" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Integrated enforcement authority.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If the department files a warrant, notice of lien, or judgment lien certificate against the property of a taxpayer, the department may also revoke all certificates of registration, permits, or licenses issued by the department to that taxpayer.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Before the department may revoke the certificates of registration, permits, or licenses, the department must schedule an informal conference that the taxpayer is required to attend. At the conference, the taxpayer may present evidence regarding the department’s intended action or enter into a compliance agreement. The department must provide written notice to the taxpayer of the department’s intended action and the time, date, and place of the conference. The department shall issue an administrative complaint to revoke the certificates of registration, permits, or licenses if the taxpayer does not attend the conference, enter into a compliance agreement, or comply with the compliance agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department may not issue a certificate of registration, permit, or license to a taxpayer whose certificate of registration, permit, or license has been revoked unless:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The outstanding liabilities of the taxpayer have been satisfied; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The department enters into a written agreement with the taxpayer regarding any outstanding liabilities and, as part of such agreement, agrees to issue a certificate of registration, permit, or license.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall require a cash deposit, bond, or other security as a condition of issuing a new certificate of registration pursuant to the requirements of s. 212.14(4).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the department files a warrant or a judgment lien certificate in connection with a jeopardy assessment, the department must comply with the procedures in s. 213.732 before or in conjunction with those provided in this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 23, ch. 2010-138; s. 6, ch. 2010-166.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 7, ch. 2010-166, provides that, “[e]ffective July 1, 2010, the Department of Revenue is authorized to adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, to administer s. 213.692, Florida Statutes. The emergency rules shall remain in effect for 6 months after adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.” The provision by s. 24, ch. 2010-138, is substantially similar.</Text>
+	</Note>
+</Section>

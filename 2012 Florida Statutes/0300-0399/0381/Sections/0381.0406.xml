@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0381.0406" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rural health networks.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE FINDINGS AND INTENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Legislature finds that, in rural areas, access to health care is limited and the quality of health care is negatively affected by inadequate financing, difficulty in recruiting and retaining skilled health professionals, and because of a migration of patients to urban areas for general acute care and specialty services.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Legislature further finds that the efficient and effective delivery of health care services in rural areas requires the integration of public and private resources and the coordination of health care providers.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Legislature further finds that the availability of a continuum of quality health care services, including preventive, primary, secondary, tertiary, and long-term care, is essential to the economic and social vitality of rural communities.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Legislature further finds that the creation of rural health networks can help to alleviate these problems. Rural health networks shall act in the broad public interest and, to the extent possible, be structured to provide a continuum of quality health care services for rural residents through the cooperative efforts of rural health network members.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The Legislature further finds that rural health networks shall have the goal of increasing the utilization of statutory rural hospitals for appropriate health care services whenever feasible, which shall help to ensure their survival and thereby support the economy and protect the health and safety of rural residents.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Finally, the Legislature finds that rural health networks may serve as “laboratories” to determine the best way of organizing rural health services, to move the state closer to ensuring that everyone has access to health care, and to promote cost containment efforts. The ultimate goal of rural health networks shall be to ensure that quality health care is available and efficiently delivered to all persons in rural areas.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Rural” means an area with a population density of less than 100 individuals per square mile or an area defined by the most recent United States Census as rural.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Health care provider” means any individual, group, or entity, public or private, that provides health care, including: preventive health care, primary health care, secondary and tertiary health care, in-hospital health care, public health care, and health promotion and education.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Rural health network” or “network” means a nonprofit legal entity, consisting of rural and urban health care providers and others, that is organized to plan and deliver health care services on a cooperative basis in a rural area, except for some secondary and tertiary care services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Health care provider membership may vary, but all networks shall include members that provide public health, comprehensive primary care, emergency medical care, and acute inpatient care.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Network membership shall be available to all health care providers, provided that they render care to all patients referred to them from other network members, comply with network quality assurance and risk management requirements, abide by the terms and conditions of network provider agreements in paragraph (11)(c), and provide services at a rate or price equal to the rate or price negotiated by the network.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Network areas do not need to conform to local political boundaries or state administrative district boundaries. The geographic area of one rural health network, however, may not overlap the territory of any other rural health network.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Networks shall develop provisions for referral to tertiary inpatient care and to other services that are not available in rural areas.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Networks shall make available health promotion, disease prevention, and primary care services to improve the health status of rural residents and to contain health care costs.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Networks may have multiple points of entry, such as through private physicians, community health centers, county health departments, certified rural health clinics, hospitals, or other providers; or they may have a single point of entry.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Networks shall establish standard protocols, coordinate and share patient records, and develop patient information exchange systems.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Networks shall develop risk management and quality assurance programs for network providers.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">NETWORK GOVERNANCE AND ORGANIZATION.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Networks shall be incorporated under the laws of the state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Networks shall have a board of directors that derives membership from local government, health care providers, businesses, consumers, and others.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Network boards of directors shall have the responsibility of determining the content of health care provider agreements that link network members. The agreements shall specify:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Who provides what services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The extent to which the health care provider provides care to persons who lack health insurance or are otherwise unable to pay for care.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The procedures for transfer of medical records.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The method used for the transportation of patients between providers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Referral and patient flow including appointments and scheduling.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Payment arrangements for the transfer or referral of patients.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">There shall be no liability on the part of, and no cause of action of any nature shall arise against, any member of a network board of directors, or its employees or agents, for any lawful action taken by them in the performance of their administrative powers and duties under this subsection.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">NETWORK SERVICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Networks, to the extent feasible, shall provide for a continuum of care for all patients served by the network. Each network shall include the following core services: disease prevention, health promotion, comprehensive primary care, emergency medical care, and acute inpatient care. Each network shall ensure the availability of comprehensive maternity care, including prenatal, delivery, and postpartum care for uncomplicated pregnancies, either directly, by contract, or through referral agreements. Networks shall, to the extent feasible, also ensure the availability of the following services within the specified timeframes, either directly, by contract, or through referral agreements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Services available in the home.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Home health care.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Hospice care.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Services accessible within 30 minutes travel time or less.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Emergency medical services, including advanced life support, ambulance, and basic emergency room services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Primary care.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Prenatal and postpartum care for uncomplicated pregnancies.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Community-based services for elders, such as adult day care and assistance with activities of daily living.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Public health services, including communicable disease control, disease prevention, health education, and health promotion.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Outpatient psychiatric and substance abuse services.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Services accessible within 45 minutes travel time or less.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Hospital acute inpatient care for persons whose illnesses or medical problems are not severe.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Level I obstetrical care, which is labor and delivery for low-risk patients.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Skilled nursing services, long-term care, including nursing home care.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Dialysis.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Osteopathic and chiropractic manipulative therapy.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Services accessible within 2 hours travel time or less.</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Specialist physician care.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Hospital acute inpatient care for severe illnesses and medical problems.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Level II and III obstetrical care, which is labor and delivery care for high-risk patients and neonatal intensive care.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Comprehensive medical rehabilitation.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Inpatient psychiatric and substance abuse services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Magnetic resonance imaging, lithotripter treatment, advanced radiology, and other technologically advanced services.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Subacute care.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Networks shall actively participate with area health education center programs, whenever feasible, in developing and implementing recruitment, training, and retention programs directed at positively influencing the supply and distribution of health care professionals serving in, or receiving training in, network areas.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">As funds become available, networks shall emphasize community care alternatives for elders who would otherwise be placed in nursing homes.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To promote the most efficient use of resources, networks shall emphasize disease prevention, early diagnosis and treatment of medical problems, and community care alternatives for persons with mental health and substance abuse disorders who are at risk to be institutionalized.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">TRAUMA SERVICES.<EmDash />In those network areas which have an established trauma agency approved by the Department of Health, that trauma agency must be a participant in the network. Trauma services provided within the network area must comply with s. 395.405.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">NETWORK FINANCING.<EmDash />Networks may use all sources of public and private funds to support network activities. Nothing in this section prohibits networks from becoming managed care providers.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">NETWORK IMPLEMENTATION.<EmDash />As funds become available, networks shall be developed and implemented in two phases.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Phase I shall consist of a network planning and development grant program. Planning grants shall be used to organize networks, incorporate network boards, and develop formal provider agreements as provided for in this section. The Department of Health shall develop a request-for-proposal process to solicit grant applications.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Phase II shall consist of network operations. As funds become available, certified networks shall be eligible to receive grant funds to be used to help defray the costs of network infrastructure development, patient care, and network administration. Infrastructure development includes, but is not limited to: recruitment and retention of primary care practitioners; development of preventive health care programs; linkage of urban and rural health care systems; design and implementation of automated patient records, outcome measurement, quality assurance, and risk management systems; establishment of one-stop service delivery sites; upgrading of medical technology available to network providers; enhancement of emergency medical systems; enhancement of medical transportation; and development of telecommunication capabilities. A Phase II award may occur in the same fiscal year as a Phase I award.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">CERTIFICATION.<EmDash />For the purpose of certifying networks that are eligible for Phase II funding, the Department of Health shall certify networks that meet the criteria delineated in this section and the rules governing rural health networks.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The Department of Health shall establish rules that govern the creation and certification of networks, including establishing outcome measures for networks.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 27, ch. 93-129; s. 1, ch. 95-298; s. 48, ch. 97-101; s. 26, ch. 97-237; s. 8, ch. 2000-153; s. 41, ch. 2000-256; s. 8, ch. 2000-296; s. 50, ch. 2012-184.</History>
+</Section>

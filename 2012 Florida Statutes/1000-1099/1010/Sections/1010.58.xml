@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1010.58" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Procedure for determining number of instruction units for Florida College System institutions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The number of instruction units for Florida College System institutions shall be determined from the full-time equivalent students in the Florida College System institution, provided that full-time equivalent students may not be counted more than once in determining instruction units. Instruction units for Florida College System institutions shall be computed as follows:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">One unit for each 12 full-time equivalent students at a Florida College System institution for the first 420 students and one unit for each 15 full-time equivalent students for all over 420 students, in other than career education programs as defined by rules of the State Board of Education, and one unit for each 10 full-time equivalent students in career education programs and compensatory education programs as defined by rules of the State Board of Education. Full-time equivalent students enrolled in a Florida College System institution shall be defined by rules of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For each 8 instruction units in a Florida College System institution, 1 instruction unit or proportionate fraction of a unit shall be allowed for administrative and special instructional services, and for each 20 instruction units, 1 instruction unit or proportionate fraction of a unit shall be allowed for student personnel services.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 567, ch. 2002-387; s. 128, ch. 2004-357; s. 163, ch. 2011-5.</History>
+</Section>

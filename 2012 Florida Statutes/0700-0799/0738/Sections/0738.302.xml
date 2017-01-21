@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.302" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Apportionment of receipts and disbursements when decedent dies or income interest begins.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A fiduciary shall allocate an income receipt or disbursement other than one to which s. 738.201(1) applies to principal if the due date of the receipt or disbursement occurs before a decedent dies in the case of an estate or before an income interest begins in the case of a trust or successive income interest.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A fiduciary shall allocate an income receipt or disbursement to income if the due date of the receipt or disbursement occurs on or after the date on which a decedent dies or an income interest begins and the due date is a periodic due date. An income receipt or disbursement shall be treated as accruing from day to day if the due date of the receipt or disbursement is not periodic or the receipt or disbursement has no due date. The portion of the receipt or disbursement accruing before the date on which a decedent dies or an income interest begins shall be allocated to principal and the balance shall be allocated to income.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An item of income or an obligation is due on the date the payor is required to make a payment. If a payment date is not stated, there is no due date for the purposes of this chapter. Distributions to shareholders or other owners from an entity to which s. 738.401 applies are deemed to be due on the date fixed by the entity for determining who is entitled to receive the distribution or, if no date is fixed, on the declaration date for the distribution. A due date is periodic for receipts or disbursements that shall be paid at regular intervals under a lease or an obligation to pay interest or if an entity customarily makes distributions at regular intervals.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Nothing in this section shall prevent the application of s. 733.817 to apportion tax to the income recipient under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 10, ch. 2012-49.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0720.309" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Agreements entered into by the association.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any grant or reservation made by any document, and any contract that has a term greater than 10 years, that is made by an association before control of the association is turned over to the members other than the developer, and that provides for the operation, maintenance, or management of the association or common areas, must be fair and reasonable.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the governing documents provide for the cost of communications services as defined in s. 202.11, information services or Internet services obtained pursuant to a bulk contract shall be deemed an operating expense of the association. If the governing documents do not provide for such services, the board may contract for the services, and the cost shall be deemed an operating expense of the association but must be allocated on a per-parcel basis rather than a percentage basis, notwithstanding that the governing documents provide for other than an equal sharing of operating expenses. Any contract entered into before July 1, 2011, in which the cost of the service is not equally divided among all parcel owners may be changed by a majority of the voting interests present at a regular or special meeting of the association in order to allocate the cost equally among all parcels.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any contract entered into by the board may be canceled by a majority of the voting interests present at the next regular or special meeting of the association, whichever occurs first. Any member may make a motion to cancel such contract, but if no motion is made or if such motion fails to obtain the required vote, the contract shall be deemed ratified for the term expressed therein.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any contract entered into by the board must provide, and shall be deemed to provide if not expressly set forth therein, that a hearing-impaired or legally blind parcel owner who does not occupy the parcel with a non-hearing-impaired or sighted person, or a parcel owner who receives supplemental security income under Title XVI of the Social Security Act or food assistance as administered by the Department of Children and Family Services pursuant to s. 414.31, may discontinue the service without incurring disconnect fees, penalties, or subsequent service charges, and may not be required to pay any operating expenses charge related to such service for those parcels. If fewer than all parcel owners share the expenses of the communications services, information services, or Internet services, the expense must be shared by all participating parcel owners. The association may use the provisions of s. 720.3085 to enforce payment by the parcel owners receiving such services.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A resident of any parcel, whether a tenant or parcel owner, may not be denied access to available franchised, licensed, or certificated cable or video service providers if the resident pays the provider directly for services. A resident or a cable or video service provider may not be required to pay anything of value in order to obtain or provide such service except for the charges normally paid for like services by residents of single-family homes located outside the community but within the same franchised, licensed, or certificated area, and except for installation charges agreed to between the resident and the service provider.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 59, ch. 95-274; s. 51, ch. 2000-258; s. 21, ch. 2011-196.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 617.309.</Text>
+	</Note>
+</Section>

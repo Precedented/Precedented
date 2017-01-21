@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.0056" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Development of work plan; development of implementation plans; and policy recommendations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For the purposes of carrying out its responsibilities under s. 282.0055, the Agency for Enterprise Information Technology shall develop an annual work plan within 60 days after the beginning of the fiscal year describing the activities that the agency intends to undertake for that year, including proposed outcomes and completion timeframes for the planning and implementation of all enterprise information technology services. The work plan must be presented at a public hearing and approved by the Governor and Cabinet, and thereafter submitted to the President of the Senate and the Speaker of the House of Representatives. The work plan may be amended as needed, subject to approval by the Governor and Cabinet.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The agency may develop and submit to the President of the Senate, the Speaker of the House of Representatives, and the Governor by October 1 of each year implementation plans for proposed enterprise information technology services to be established in law.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In developing policy recommendations and implementation plans for established and proposed enterprise information technology services, the agency shall describe the scope of operation, conduct costs and requirements analyses, conduct an inventory of all existing information technology resources that are associated with each service, and develop strategies and timeframes for statewide migration.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For the purpose of completing its work activities, each state agency shall provide to the agency all requested information, including, but not limited to, the state agency’s costs, service requirements, and equipment inventories.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Within 60 days after the end of each fiscal year, the agency shall report to the Governor and Cabinet, the President of the Senate, and the Speaker of the House of Representatives on what was achieved or not achieved in the prior year’s work plan.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 2007-105; s. 7, ch. 2008-116; s. 7, ch. 2009-80; s. 4, ch. 2011-50.</History>
+</Section>

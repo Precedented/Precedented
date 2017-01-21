@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.24" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department of Highway Safety and Motor Vehicles.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">There is created a Department of Highway Safety and Motor Vehicles.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The head of the Department of Highway Safety and Motor Vehicles is the Governor and Cabinet.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The following divisions, and bureaus within the divisions, of the Department of Highway Safety and Motor Vehicles are established:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Division of the Florida Highway Patrol.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Division of Motorist Services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Office of Commercial Vehicle Enforcement is established within the Division of the Florida Highway Patrol.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 69-106; s. 1, ch. 76-281; s. 5, ch. 79-10; s. 64, ch. 79-190; s. 1, ch. 79-324; s. 1, ch. 2009-183; s. 2, ch. 2011-66; s. 1, ch. 2012-181.</History>
+</Section>

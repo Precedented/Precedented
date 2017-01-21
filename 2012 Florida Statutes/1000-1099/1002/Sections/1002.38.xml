@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.38" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Opportunity Scholarship Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">FINDINGS AND INTENT.<EmDash />The purpose of this section is to provide enhanced opportunity for students in this state to gain the knowledge and skills necessary for postsecondary education, a career education, or the world of work. The Legislature recognizes that the voters of the State of Florida, in the November 1998 general election, amended s. 1, Art. IX of the Florida Constitution so as to make education a paramount duty of the state. The Legislature finds that the State Constitution requires the state to provide a uniform, safe, secure, efficient, and high-quality system which allows the opportunity to obtain a high-quality education. The Legislature further finds that a student should not be compelled, against the wishes of the student’s parent, to remain in a school found by the state to be failing. The Legislature shall make available opportunity scholarships in order to give parents the opportunity for their children to attend a public school that is performing satisfactorily.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">OPPORTUNITY SCHOLARSHIP ELIGIBILITY.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A public school student’s parent may request and receive an opportunity scholarship for the student to enroll in and attend a public school in accordance with the provisions of this section if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By assigned school attendance area or by special assignment, the student has spent the prior school year in attendance at a public school that has earned a grade of “F” or three consecutive grades of “D” pursuant to s. 1008.34 and the student’s attendance occurred during a school year in which such designation was in effect;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The student has been in attendance elsewhere in the public school system and has been assigned to such school for the next school year; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The student has been notified that he or she has been assigned to such school for the next school year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"> This section does not apply to a student who is enrolled in a school operating for the purpose of providing educational services to youth in Department of Juvenile Justice commitment programs. For purposes of continuity of educational choice, the opportunity scholarship shall remain in force until the student graduates from high school.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">SCHOOL DISTRICT OBLIGATIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A school district shall, for each student enrolled in or assigned to a school that has been designated as provided in subsection (2):</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Timely notify the parent of the student as soon as such designation is made of all options available pursuant to this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Offer that student’s parent an opportunity to enroll the student in a public school within the district that has been designated by the state as a school performing higher than that in which the student is currently enrolled or to which the student has been assigned, but not less than performance grade category “C.” The student shall have the opportunity to continue attendance in the higher-performing public school feeder pattern until the student graduates from high school.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parent of a student enrolled in or assigned to a school that has been designated as provided in subsection (2) may choose as an alternative to subparagraph (a)2. to enroll the student in and transport the student to a higher-performing public school that has available space in any other school district in the state, and that school district shall accept the student and report the student for purposes of the district’s funding pursuant to the Florida Education Finance Program.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For students in the school district who are participating in the state Opportunity Scholarship Program, the school district shall provide locations and times to take all statewide assessments required pursuant to s. 1008.22.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Students with disabilities who are eligible to receive services from the school district under federal or state law, and who participate in this program, remain eligible to receive services from the school district as provided by federal or state law.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"> If the parent chooses to request that the student be enrolled in a higher-performing public school in the school district, transportation costs to the higher-performing public school shall be the responsibility of the school district. The district may utilize state categorical transportation funds or state-appropriated public school choice incentive funds for this purpose.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The State Board of Education may adopt rules pursuant to ss. 120.536(1) and 120.54 to implement this section. Rules shall include penalties for noncompliance.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 103, ch. 2002-387; s. 1945, ch. 2003-261; s. 79, ch. 2004-357; s. 1, ch. 2011-128; s. 6, ch. 2011-175; s. 4, ch. 2012-194.</History>
+</Section>

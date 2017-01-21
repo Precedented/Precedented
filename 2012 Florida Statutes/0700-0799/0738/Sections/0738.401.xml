@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.401" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Character of receipts.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “entity” means a corporation, partnership, limited liability company, regulated investment company, real estate investment trust, common trust fund, or any other organization in which a fiduciary has an interest other than a trust or estate to which s. 738.402 applies, a business or activity to which s. 738.403 applies, or an asset-backed security to which s. 738.608 applies.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, a fiduciary shall allocate to income money received from an entity.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, a fiduciary shall allocate the following receipts from an entity to principal:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Property other than money.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Money received in one distribution or a series of related distributions in exchange for part or all of a trust’s or estate’s interest in the entity.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Money received in total or partial liquidation of the entity.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Money received from an entity that is a regulated investment company or a real estate investment trust if the money received represents short-term or long-term capital gain realized within the entity.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Money received from an entity listed on a public stock exchange during any year of the trust or estate which exceeds 10 percent of the fair market value of the trust’s or estate’s interest in the entity on the first day of that year. The amount to be allocated to principal must be reduced to the extent that the cumulative distributions from the entity to the trust or estate allocated to income do not exceed a cumulative annual return of 3 percent of the fair market value of the interest in the entity at the beginning of each year or portion of a year for the number of years or portion of years in the period that the interest in the entity has been held by the trust or estate. If a trustee has exercised a power to adjust under s. 738.104 during any period the interest in the entity has been held by the trust, the trustee, in determining the total income distributions from that entity, must take into account the extent to which the exercise of that power resulted in income to the trust from that entity for that period. If the income of the trust for any period has been computed under s. 738.1041, the trustee, in determining the total income distributions from that entity for that period, must take into account the portion of the unitrust amount paid as a result of the ownership of the trust’s interest in the entity for that period.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If a fiduciary elects, or continues an election made by its predecessor, to reinvest dividends in shares of stock of a distributing corporation or fund, whether evidenced by new certificates or entries on the books of the distributing entity, the new shares retain their character as income.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Money is received in partial liquidation:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To the extent the entity, at or near the time of a distribution, indicates that such money is a distribution in partial liquidation; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To the extent the total amount of money and property received in a distribution or series of related distributions from an entity that is not listed on a public stock exchange exceeds 20 percent of the trust’s or estate’s pro rata share of the entity’s gross assets, as shown by the entity’s year-end financial statements immediately preceding the initial receipt.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection does not apply to an entity to which subsection (7) applies.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Money may not be taken into account in determining any excess under paragraph (5)(b), to the extent that the cumulative distributions from the entity to the trust or the estate allocated to income do not exceed the greater of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A cumulative annual return of 3 percent of the entity’s carrying value computed at the beginning of each period for the number of years or portion of years that the entity was held by the fiduciary. If a trustee has exercised a power to adjust under s. 738.104 during any period the interest in the entity has been held by the trust, the trustee, in determining the total income distributions from that entity, must take into account the extent to which exercise of the power resulted in income to the trust from that entity for that period. If the income of a trust for any period has been computed pursuant to s. 738.1041, the trustee, in determining the total income distributions from the entity for that period, must take into account the portion of the unitrust amount paid as a result of the ownership of the trust’s interest in the entity for that period; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the entity is treated as a partnership, subchapter S corporation, or a disregarded entity pursuant to the Internal Revenue Code of 1986, as amended, the amount of income tax attributable to the trust’s or estate’s ownership share of the entity, based on its pro rata share of the taxable income of the entity that distributes the money, for the number of years or portion of years that the interest in the entity was held by the fiduciary, calculated as if all of that tax was incurred by the fiduciary.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The following applies to money or property received by a private trustee as a distribution from an investment entity described in this subsection:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The trustee shall first treat as income of the trust all of the money or property received from the investment entity in the current year which would be considered income under this chapter if the trustee had directly held the trust’s pro rata share of the assets of the investment entity. For this purpose, all distributions received in the current year must be aggregated.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The trustee shall next treat as income of the trust any additional money or property received in the current year which would have been considered income in the prior 2 years under paragraph (a) if additional money or property had been received from the investment entity in any of those prior 2 years. The amount to be treated as income shall be reduced by any distributions of money or property made by the investment entity to the trust during the current and prior 2 years which were treated as income under this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The remainder of the distribution, if any, is treated as principal.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Investment entity” means an entity, other than a business activity conducted by the trustee described in s. 738.403 or an entity that is listed on a public stock exchange, which is treated as a partnership, subchapter S corporation, or disregarded entity pursuant to the Internal Revenue Code of 1986, as amended, and which normally derives 50 percent or more of its annual cumulative net income from interest, dividends, annuities, royalties, rental activity, or other passive investments, including income from the sale or exchange of such passive investments.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Private trustee” means a trustee who is a natural person, but only if the trustee is unable to use the power to adjust between income and principal with respect to receipts from entities described in this subsection pursuant to s. 738.104. A bank, trust company, or other commercial trustee is not considered a private trustee.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">This section shall be applied before ss. 738.705 and 738.706 and does not modify or change any of the provisions of those sections.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 4, ch. 2003-43; s. 8, ch. 2005-85; s. 12, ch. 2012-49.</History>
+</Section>

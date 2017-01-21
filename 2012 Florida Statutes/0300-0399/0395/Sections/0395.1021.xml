@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0395.1021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Treatment of sexual assault victims.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Any licensed facility which provides emergency room services shall arrange for the rendering of appropriate medical attention and treatment of victims of sexual assault through:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Such gynecological, psychological, and medical services as are needed by the victim.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The gathering of forensic medical evidence required for investigation and prosecution from a victim who has reported a sexual battery to a law enforcement agency or who requests that such evidence be gathered for a possible future report.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The training of medical support personnel competent to provide the medical services and treatment as described in subsections (1) and (2).</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">Such licensed facility shall also arrange for the protection of the victim’s anonymity while complying with the laws of this state and may encourage the victim to notify law enforcement personnel and to cooperate with them in apprehending the suspect.</Text>
+	</SectionBody>
+	<History xml:space="preserve">ss. 26, 30, ch. 82-182; ss. 19, 98, ch. 92-289; s. 5, ch. 2011-220.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 395.0201.</Text>
+	</Note>
+</Section>

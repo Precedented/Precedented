@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.504" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rights acquired in the absence of due negotiation; effect of diversion; stoppage of delivery.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A transferee of a document of title, whether negotiable or nonnegotiable, to which the document has been delivered but not duly negotiated, acquires the title and rights that its transferor had or had actual authority to convey.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In the case of a transfer of a nonnegotiable document of title, until but not after the bailee receives notice of the transfer, the rights of the transferee may be defeated:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">By those creditors of the transferor which could treat the transfer as void under s. 672.402 or s. 680.308;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">By a buyer from the transferor in ordinary course of business if the bailee has delivered the goods to the buyer or received notification of the buyer’s rights;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">By a lessee from the transferor in ordinary course of business if the bailee has delivered the goods to the lessee or received notification of the lessee’s rights; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">As against the bailee, by good faith dealings of the bailee with the transferor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A diversion or other change of shipping instructions by the consignor in a nonnegotiable bill of lading which causes the bailee not to deliver to the consignee defeats the consignee’s title to the goods if the goods have been delivered to a buyer or a lessee in ordinary course of business and, in any event, defeats the consignee’s rights against the bailee.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Delivery of the goods pursuant to a nonnegotiable document of title may be stopped by a seller under s. 672.705 or by a lessor under s. 680.526, subject to the requirements of due notification. A bailee that honors the seller’s or lessor’s instructions is entitled to be indemnified by the seller or lessor against any resulting loss or expense.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 641, ch. 97-102; s. 48, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-504, U.C.C.; supersedes ss. 678.43, 678.44.</Text>
+	</Note>
+</Section>

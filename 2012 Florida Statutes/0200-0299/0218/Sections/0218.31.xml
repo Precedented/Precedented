@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0218.31" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, except where the context clearly indicates a different meaning:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Local governmental entity” means a county agency, a municipality, or a special district as defined in s. 189.403. For purposes of s. 218.32, the term also includes a housing authority created under chapter 421.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Unit of local general-purpose government” means a county or a municipality established by general or special law.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Local governing authority” means the governing body of a unit of local general-purpose government.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Financial Services.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Special district” means a special district as defined in s. 189.403(1).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Dependent special district” means a dependent special district as defined in s. 189.403(2).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Independent special district” means an independent special district as defined in s. 189.403(3).</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“County fee officers” means those county officials who are assigned specialized functions within county government and whose budgets are established independently of the local governing body, even though said budgets may be reported to the local governing body or may be composed of funds either generally or specially available to a local governing authority involved.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Verified report” means a report that has received such test or tests by the department so as to accurately and reliably present the data that have been submitted by the local governmental entities for inclusion in the report.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Short-term debt” means any debt with a maturity of less than 1 year from the date of issuance.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Revenue bonds” means any obligations issued by a unit to pay the cost of a project or improvement thereof, or combination of one or more projects or improvements thereof, and payable from the earnings of such project and any other special funds authorized to be pledged as additional security therefor.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Limited revenue bonds” means any obligations issued by a unit to pay the cost of a project or improvement thereof, or combination of one or more projects or improvements thereof, and payable from funds, exclusive of ad valorem taxes, special assessments, or earnings from such projects or improvements.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Industrial development bond” means any obligation the interest on which is exempt from income taxes under the provisions of s. 103(b) of the United States Internal Revenue Code and the payment of the principal or interest on which under the terms of such obligation or any underlying arrangement is, in whole or in major part:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Secured by any interest in property used or to be used in a trade or business or in payments in respect of such property.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To be derived from payments in respect of property, or borrowed money, used or to be used in a trade or business.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Generally accepted accounting principles” means those accounting principles adopted by rule of the Board of Accountancy under chapter 473.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Auditor” means an independent certified public accountant licensed pursuant to chapter 473 and retained by a local governmental entity to perform a financial audit.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“County agency” means a board of county commissioners or other legislative and governing body of a county, however styled, including that of a consolidated or metropolitan government, a clerk of the circuit court, a separate or ex officio clerk of the county court, a sheriff, a property appraiser, a tax collector, a supervisor of elections, or any other officer in whom any portion of the fiscal duties of the above are under law separately placed.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Financial audit” means an examination of financial statements in order to express an opinion on the fairness with which they are presented in conformity with generally accepted accounting principles and an examination to determine whether operations are properly conducted in accordance with legal and regulatory requirements. Financial audits must be conducted in accordance with auditing standards generally accepted in the United States and government auditing standards as adopted by the Board of Accountancy and as prescribed by rules promulgated by the Auditor General. When applicable, the scope of financial audits shall encompass the additional activities necessary to establish compliance with the Single Audit Act Amendments of 1996, 31 U.S.C. ss. 7501-7507, and other applicable federal law.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Management letter” means a statement of the auditor’s comments and recommendations as prescribed by rules adopted by the Auditor General.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 73-349; s. 4, ch. 79-183; s. 1, ch. 81-96; s. 83, ch. 83-217; s. 58, ch. 89-169; s. 2, ch. 92-300; s. 17, ch. 96-324; s. 61, ch. 2001-266; s. 254, ch. 2003-261; s. 5, ch. 2011-52.</History>
+</Section>

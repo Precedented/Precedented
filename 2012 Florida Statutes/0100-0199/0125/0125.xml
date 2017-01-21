@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XI">
+	<ChapterNumber>125</ChapterNumber>
+	<ChapterName xml:space="preserve">County government</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">County commissioners:<NewLine />powers and duties</PartTitle>
+		<Section Number="0125.001" />
+		<Section Number="0125.01" />
+		<Section Number="0125.0101" />
+		<Section Number="0125.0102" />
+		<Section Number="0125.0103" />
+		<Section Number="0125.0104" />
+		<Section Number="0125.01045" />
+		<Section Number="0125.0105" />
+		<Section Number="0125.01055" />
+		<Section Number="0125.0107" />
+		<Section Number="0125.0108" />
+		<Section Number="0125.0109" />
+		<Section Number="0125.011" />
+		<Section Number="0125.012" />
+		<Section Number="0125.013" />
+		<Section Number="0125.014" />
+		<Section Number="0125.015" />
+		<Section Number="0125.016" />
+		<Section Number="0125.0167" />
+		<Section Number="0125.0168" />
+		<Section Number="0125.017" />
+		<Section Number="0125.018" />
+		<Section Number="0125.019" />
+		<Section Number="0125.022" />
+		<Section Number="0125.025" />
+		<Section Number="0125.031" />
+		<Section Number="0125.045" />
+		<Section Number="0125.15" />
+		<Section Number="0125.17" />
+		<Section Number="0125.221" />
+		<Section Number="0125.222" />
+		<Section Number="0125.27" />
+		<Section Number="0125.271" />
+		<Section Number="0125.275" />
+		<Section Number="0125.325" />
+		<Section Number="0125.3401" />
+		<Section Number="0125.35" />
+		<Section Number="0125.355" />
+		<Section Number="0125.37" />
+		<Section Number="0125.379" />
+		<Section Number="0125.38" />
+		<Section Number="0125.39" />
+		<Section Number="0125.411" />
+		<Section Number="0125.42" />
+		<Section Number="0125.421" />
+		<Section Number="0125.485" />
+		<Section Number="0125.56" />
+		<Section Number="0125.561" />
+		<Section Number="0125.563" />
+		<Section Number="0125.568" />
+		<Section Number="0125.5801" />
+		<Section Number="0125.581" />
+		<Section Number="0125.585" />
+		<Section Number="0125.59" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Self-government</PartTitle>
+		<Section Number="0125.60" />
+		<Section Number="0125.61" />
+		<Section Number="0125.62" />
+		<Section Number="0125.63" />
+		<Section Number="0125.64" />
+		<Section Number="0125.66" />
+		<Section Number="0125.67" />
+		<Section Number="0125.68" />
+		<Section Number="0125.69" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">County administration</PartTitle>
+		<Section Number="0125.70" />
+		<Section Number="0125.71" />
+		<Section Number="0125.72" />
+		<Section Number="0125.73" />
+		<Section Number="0125.74" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Optional county charters</PartTitle>
+		<Section Number="0125.80" />
+		<Section Number="0125.81" />
+		<Section Number="0125.82" />
+		<Section Number="0125.83" />
+		<Section Number="0125.84" />
+		<Section Number="0125.85" />
+		<Section Number="0125.86" />
+		<Section Number="0125.87" />
+		<Section Number="0125.88" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Children’s services</PartTitle>
+		<Section Number="0125.901" />
+		<Section Number="0125.902" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Volunteers</PartTitle>
+		<Section Number="0125.9501" />
+		<Section Number="0125.9502" />
+		<Section Number="0125.9503" />
+		<Section Number="0125.9504" />
+		<Section Number="0125.9506" />
+	</Part>
+</Chapter>

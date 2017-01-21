@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0641.2261" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application of solvency requirements to provider-sponsored organizations and Medicaid provider service networks.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The solvency requirements of ss. 1855 and 1856 of the Balanced Budget Act of 1997 and 42 C.F.R. s. 422.350, subpart H, apply to a health maintenance organization that is a provider-sponsored organization rather than the solvency requirements of this part. However, if the provider-sponsored organization does not meet the solvency requirements of this part, the organization is limited to the issuance of Medicare+Choice plans to eligible individuals. For the purposes of this section, the terms “Medicare+Choice plans,” “provider-sponsored organizations,” and “solvency requirements” have the same meaning as defined in the federal act and federal rules and regulations.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except for a provider service network seeking to obtain a certificate of authority under s. 641.2019, the solvency requirements in 42 C.F.R. s. 422.350, subpart H, and the solvency requirements established in approved federal waivers pursuant to chapter 409 apply to a Medicaid provider service network rather than the solvency requirements of this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 74, ch. 2000-318; s. 5, ch. 2005-358; s. 35, ch. 2011-135.</History>
+</Section>

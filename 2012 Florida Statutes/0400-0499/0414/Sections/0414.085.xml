@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0414.085" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Income eligibility standards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of program simplification and effective program management, certain income definitions, as outlined in the food assistance regulations at 7 C.F.R. s. 273.9, shall be applied to the temporary cash assistance program as determined by the department to be consistent with federal law regarding temporary cash assistance and Medicaid for needy families, except as to the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Participation in the temporary cash assistance program shall be limited to those families whose gross family income is equal to or less than 185 percent of the federal poverty level established in s. 673(2) of the Community Services Block Grant Act, 42 U.S.C. s. 9901(2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Income security payments, including payments funded under part B of Title IV of the Social Security Act, as amended; supplemental security income under Title XVI of the Social Security Act, as amended; or other income security payments as defined by federal law shall be excluded as income unless required to be included by federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The first $50 of child support paid to a parent receiving temporary cash assistance may not be disregarded in calculating the amount of temporary cash assistance for the family, unless such exclusion is required by federal law.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An incentive payment to a participant authorized by a regional workforce board shall not be considered income.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules governing the administration of this section and may establish requirements for income inclusions, income exclusions, income deductions, budgeting criteria, money management by participants, criteria for eligibility verification, processing timeframes, and other eligibility criteria necessary for the department to administer this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 96-175; s. 8, ch. 97-173; s. 12, ch. 99-241; s. 39, ch. 2000-165; s. 3, ch. 2000-300; s. 30, ch. 2008-61; s. 18, ch. 2010-209.</History>
+</Section>

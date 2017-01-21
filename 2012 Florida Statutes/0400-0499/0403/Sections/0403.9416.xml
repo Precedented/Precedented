@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.9416" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Effect of certification.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Subject to the conditions set forth therein, certification shall constitute the sole license of the state and any agency as to the approval of the location of a natural gas transmission pipeline corridor and, except for permits issuable pursuant to a federally delegated or approved permit program and permits issuable under s. 403.0872 or s. 403.0885, for the construction and maintenance of a natural gas transmission pipeline therein. The certification shall be valid for the life of the natural gas transmission pipeline. If construction on, or condemnation or acquisition of, the right-of-way is not commenced within 5 years after the date of certification or such later date as may be authorized by the board, the certification shall become void.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The certification shall authorize the applicant to locate the natural gas transmission pipeline corridor and to construct and maintain the natural gas transmission pipelines subject only to the conditions of certification set forth in such certification.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The certification may include conditions which constitute variances and exemptions from nonprocedural standards or regulations of the department or any other agency which were expressly considered during the proceeding unless waived by the agency as provided in this paragraph and which otherwise would be applicable to the location of the proposed natural gas transmission pipeline corridor or the construction and maintenance of the natural gas transmission pipelines. Each party shall notify the applicant and other parties at the time scheduled for the filing of the agency reports of any nonprocedural requirements not specifically listed in the application from which a variance, exemption, exception, or other relief is necessary in order for the board to certify any corridor proposed for certification. However, no variance shall be granted from standards or regulations of the department applicable under any federally delegated or approved permit program, except as expressly allowed in such program. Failure of such notification shall be treated as a waiver from the nonprocedural requirements of that agency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The certification shall be in lieu of any license, permit, certificate, or similar document required by any agency pursuant to, but not limited to, chapter 125, chapter 161, chapter 163, chapter 166, chapter 186, chapter 253, chapter 258, chapter 298, chapter 373, chapter 376, chapter 377, chapter 379, chapter 380, chapter 381, <Reference Number="1"/>chapter 387, chapter 403, the Florida Transportation Code, or 33 U.S.C. s. 1341. On certification, any license, easement, or other interest in state lands, except those the title to which is vested in the Board of Trustees of the Internal Improvement Trust Fund or a water management district created pursuant to chapter 373, shall be issued by the appropriate agency as a ministerial act. The applicant shall be required to seek any necessary interest in state lands the title to which is vested in the Board of Trustees of the Internal Improvement Trust Fund from the board of trustees or from the governing board of the water management district before, during, or after the certification proceeding, and certification may be made contingent upon issuance of the appropriate interest in realty. However, neither the applicant nor any party to the certification proceeding may directly or indirectly raise or relitigate any matter which was or could have been an issue in the certification proceeding in any proceeding before the Board of Trustees of the Internal Improvement Trust Fund wherein the applicant is seeking a necessary interest in state lands, but the information presented in the certification proceeding shall be available for review by the board of trustees and its staff.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">No term or condition of certification shall be interpreted to preclude the postcertification exercise by any party of whatever procedural rights it may have under chapter 120, including those related to rulemaking proceedings.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A certification does not represent an exclusive license limiting the number of natural gas transmission pipelines which may be located within the geographical boundaries of a certified corridor, nor shall it prevent a natural gas transmission pipeline company which has been issued a certificate of public convenience and necessity under s. 7(c) of the Natural Gas Act, 15 U.S.C. s. 717f, from obtaining permits from this state for the construction of such pipeline within the geographical area encompassed by a certified corridor, upon the satisfaction of applicable permitting criteria. No term or condition of an existing certification shall be interpreted to preclude an applicant from submitting an application for certification of a natural gas transmission pipeline corridor which encompasses part or all of an existing certified corridor.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">No term or condition of a site certification shall be interpreted to supersede or control the provisions of a final permit issued pursuant to a federally delegated or approved permit program, including any permit issued under s. 403.0872 or s. 403.0885.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">This act shall not in any way affect the right of any local government to charge appropriate fees.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 92-284; s. 13, ch. 94-321; s. 55, ch. 2009-21.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 125, ch. 97-237.</Text>
+	</Note>
+</Section>

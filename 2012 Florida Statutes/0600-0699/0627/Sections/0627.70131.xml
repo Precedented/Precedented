@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.70131" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Insurer’s duty to acknowledge communications regarding claims; investigation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Upon an insurer’s receiving a communication with respect to a claim, the insurer shall, within 14 calendar days, review and acknowledge receipt of such communication unless payment is made within that period of time or unless the failure to acknowledge is caused by factors beyond the control of the insurer which reasonably prevent such acknowledgment. If the acknowledgment is not in writing, a notification indicating acknowledgment shall be made in the insurer’s claim file and dated. A communication made to or by an agent of an insurer with respect to a claim shall constitute communication to or by the insurer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “agent” means any person to whom an insurer has granted authority or responsibility to receive or make such communications with respect to claims on behalf of the insurer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection shall not apply to claimants represented by counsel beyond those communications necessary to provide forms and instructions.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Such acknowledgment shall be responsive to the communication. If the communication constitutes a notification of a claim, unless the acknowledgment reasonably advises the claimant that the claim appears not to be covered by the insurer, the acknowledgment shall provide necessary claim forms, and instructions, including an appropriate telephone number.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Unless otherwise provided by the policy of insurance or by law, within 10 working days after an insurer receives proof of loss statements, the insurer shall begin such investigation as is reasonably necessary unless the failure to begin such investigation is caused by factors beyond the control of the insurer which reasonably prevent the commencement of such investigation.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “insurer” means any residential property insurer.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 90 days after an insurer receives notice of an initial, reopened, or supplemental property insurance claim from a policyholder, the insurer shall pay or deny such claim or a portion of the claim unless the failure to pay is caused by factors beyond the control of the insurer which reasonably prevent such payment. Any payment of an initial or supplemental claim or portion of such claim made 90 days after the insurer receives notice of the claim, or made more than 15 days after there are no longer factors beyond the control of the insurer which reasonably prevented such payment, whichever is later, bears interest at the rate set forth in s. 55.03. Interest begins to accrue from the date the insurer receives notice of the claim. The provisions of this subsection may not be waived, voided, or nullified by the terms of the insurance policy. If there is a right to prejudgment interest, the insured shall select whether to receive prejudgment interest or interest under this subsection. Interest is payable when the claim or portion of the claim is paid. Failure to comply with this subsection constitutes a violation of this code. However, failure to comply with this subsection does not form the sole basis for a private cause of action.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (4), for purposes of this subsection, the term “claim” means any of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A claim under an insurance policy providing residential coverage as defined in s. 627.4025(1);</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A claim for structural or contents coverage under a commercial property insurance policy if the insured structure is 10,000 square feet or less; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A claim for contents coverage under a commercial tenants policy if the insured premises is 10,000 square feet or less.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection shall not apply to claims under an insurance policy covering nonresidential commercial structures or contents in more than one state.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 23, ch. 2005-111; s. 27, ch. 2007-1; s. 18, ch. 2007-90; s. 20, ch. 2011-39.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 627.4261.</Text>
+	</Note>
+</Section>

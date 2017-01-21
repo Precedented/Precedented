@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0489.107" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Construction Industry Licensing Board.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To carry out the provisions of this part, there is created within the department the Construction Industry Licensing Board. Members shall be appointed by the Governor, subject to confirmation by the Senate. Members shall be appointed for 4-year terms. A vacancy on the board shall be filled for the unexpired portion of the term in the same manner as the original appointment. No member shall serve more than two consecutive 4-year terms or more than 11 years on the board.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The board shall consist of 18 members, of whom:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Four are primarily engaged in business as general contractors;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Three are primarily engaged in business as building contractors or residential contractors, however, at least one building contractor and one residential contractor shall be appointed;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as a roofing contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as a sheet metal contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as an air-conditioning contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as a mechanical contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as a pool contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as a plumbing contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">One is primarily engaged in business as an underground utility and excavation contractor;</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Two are consumer members who are not, and have never been, members or practitioners of a profession regulated by the board or members of any closely related profession; and</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Two are building officials of a municipality or county.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">To be eligible to serve, each contractor member must have been certified by the board to operate as a contractor in the category with respect to which the member is appointed, be actively engaged in the construction business, and have been so engaged for a period of not less than 5 consecutive years before the date of appointment. Each appointee must be a citizen and resident of the state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The board shall be divided into two divisions, Division I and Division II.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Division I is comprised of the general contractor, building contractor, and residential contractor members of the board; one of the members appointed pursuant to paragraph (2)(j); and one of the members appointed pursuant to paragraph (2)(k). Division I has jurisdiction over the regulation of general contractors, building contractors, and residential contractors.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Division II is comprised of the roofing contractor, sheet metal contractor, air-conditioning contractor, mechanical contractor, pool contractor, plumbing contractor, and underground utility and excavation contractor members of the board; one of the members appointed pursuant to paragraph (2)(j); and one of the members appointed pursuant to paragraph (2)(k). Division II has jurisdiction over the regulation of contractors defined in s. 489.105(3)(d)-(p).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Jurisdiction for the regulation of specialty contractors defined in s. 489.105(3)(q) shall lie with the division having jurisdiction over the scope of work of the specialty contractor as defined by board rule.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Five members of Division I constitute a quorum, and five members of Division II constitute a quorum. The combined divisions shall meet together at such times as the board deems necessary, but neither division, nor any committee thereof, shall take action on any matter under the jurisdiction of the other division. However, if either division is unable to obtain a quorum for the purpose of conducting disciplinary proceedings, it may request members of the other division, who are otherwise qualified to serve on the division unable to obtain a quorum, to join in its deliberations. Such additional members shall vote and count toward a quorum only during those disciplinary proceedings.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The Construction Industry Licensing Board and the Electrical Contractors’ Licensing Board shall each appoint a committee to meet jointly at least twice a year.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 3, 17, ch. 79-200; ss. 2, 3, ch. 80-85; s. 368, ch. 81-259; ss. 2, 3, ch. 81-318; s. 1, ch. 84-322; ss. 4, 20, 21, ch. 88-156; s. 11, ch. 89-162; s. 36, ch. 91-137; s. 4, ch. 91-429; s. 157, ch. 92-149; s. 5, ch. 93-154; s. 3, ch. 93-166; s. 257, ch. 94-119; s. 185, ch. 94-218; s. 24, ch. 98-419; s. 15, ch. 2011-222; s. 16, ch. 2012-72.</History>
+</Section>

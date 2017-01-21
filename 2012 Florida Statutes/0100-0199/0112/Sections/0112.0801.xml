@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0112.0801" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Group insurance; participation by retired employees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any state agency, county, municipality, special district, community college, or district school board that provides life, health, accident, hospitalization, or annuity insurance, or all of any kinds of such insurance, for its officers and employees and their dependents upon a group insurance plan or self-insurance plan shall allow all former personnel who retired before October 1, 1987, as well as those who retire on or after such date, and their eligible dependents, the option of continuing to participate in the group insurance plan or self-insurance plan. Retirees and their eligible dependents shall be offered the same health and hospitalization insurance coverage as is offered to active employees at a premium cost of no more than the premium cost applicable to active employees. For retired employees and their eligible dependents, the cost of continued participation may be paid by the employer or by the retired employees. To determine health and hospitalization plan costs, the employer shall commingle the claims experience of the retiree group with the claims experience of the active employees; and, for other types of coverage, the employer may commingle the claims experience of the retiree group with the claims experience of active employees. Retirees covered under Medicare may be experience-rated separately from the retirees not covered by Medicare and from active employees if the total premium does not exceed that of the active group and coverage is basically the same as for the active group.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, “retiree” means any officer or employee who retires under a state retirement system or a state optional annuity or retirement program or is placed on disability retirement and who begins receiving retirement benefits immediately after retirement from employment. In addition to these requirements, any officer or employee who retires under the Florida Retirement System Investment Plan established under part II of chapter 121 is considered a “retired officer or employee” or “retiree” as used in this section if he or she:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Meets the age and service requirements to qualify for normal retirement as set forth in s. 121.021(29); or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has attained the age specified by s. 72(t)(2)(A)(i) of the Internal Revenue Code and has the years of service required for vesting as set forth in s. 121.021(45).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 76-151; s. 1, ch. 79-88; s. 1, ch. 80-304; s. 5, ch. 81-103; s. 1, ch. 83-294; s. 1, ch. 87-373; s. 1, ch. 2007-92; s. 1, ch. 2007-100; s. 2, ch. 2011-68.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

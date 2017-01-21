@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0319.30" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions; dismantling, destruction, change of identity of motor vehicle or mobile home; salvage.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Certificate of destruction” means the certificate issued pursuant to s. 713.78(11) or s. 713.785(7)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Certificate of registration number” means the certificate of registration number issued by the Department of Revenue of the State of Florida pursuant to s. 538.25.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Certificate of title” means a record that serves as evidence of ownership of a vehicle, whether such record is a paper certificate authorized by the department or by a motor vehicle department authorized to issue titles in another state or a certificate consisting of information stored in electronic form in the department’s database.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Derelict” means any material which is or may have been a motor vehicle or mobile home, which is not a major part or major component part, which is inoperable, and which is in such condition that its highest or primary value is in its sale or transfer as scrap metal.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Derelict motor vehicle” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any motor vehicle as defined in s. 320.01(1) or mobile home as defined in s. 320.01(2), with or without all parts, major parts, or major component parts, which is valued under $1,000, is at least 10 model years old, beginning with the model year of the vehicle as year one, and is in such condition that its highest or primary value is for sale, transport, or delivery to a licensed salvage motor vehicle dealer or registered secondary metals recycler for dismantling its component parts or conversion to scrap metal; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any trailer as defined in s. 320.01(1), with or without all parts, major parts, or major component parts, which is valued under $5,000, is at least 10 model years old, beginning with the model year of the vehicle as year one, and is in such condition that its highest or primary value is for sale, transport, or delivery to a licensed salvage motor vehicle dealer or registered secondary metals recycler for conversion to scrap metal.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Derelict motor vehicle certificate” means a certificate issued by the department which serves as evidence that a derelict motor vehicle will be dismantled or converted to scrap metal. This certificate may be obtained by completing a derelict motor vehicle certificate application authorized by the department. A derelict motor vehicle certificate may be reassigned only one time if the derelict motor vehicle certificate was completed by a licensed salvage motor vehicle dealer and the derelict motor vehicle was sold to another licensed salvage motor vehicle dealer or a secondary metals recycler.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Independent entity” means a business or entity that may temporarily store damaged or dismantled motor vehicles pursuant to an agreement with an insurance company and is engaged in the sale or resale of damaged or dismantled motor vehicles. The term does not include a wrecker operator, a towing company, or a repair facility.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Junk” means any material which is or may have been a motor vehicle or mobile home, with or without all component parts, which is inoperable and which material is in such condition that its highest or primary value is either in its sale or transfer as scrap metal or for its component parts, or a combination of the two, except when sold or delivered to or when purchased, possessed, or received by a secondary metals recycler or salvage motor vehicle dealer.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Major component parts” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For motor vehicles other than motorcycles, any fender, hood, bumper, cowl assembly, rear quarter panel, trunk lid, door, decklid, floor pan, engine, frame, transmission, catalytic converter, or airbag.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For trucks, in addition to those parts listed in subparagraph 1., any truck bed, including dump, wrecker, crane, mixer, cargo box, or any bed which mounts to a truck frame.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For motorcycles, the body assembly, frame, fenders, gas tanks, engine, cylinder block, heads, engine case, crank case, transmission, drive train, front fork assembly, and wheels.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">For mobile homes, the frame.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Major part” means the front-end assembly, cowl assembly, or rear body section.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Materials” means motor vehicles, derelicts, and major parts that are not prepared materials.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Mobile home” means mobile home as defined in s. 320.01(2).</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Motor vehicle” means motor vehicle as defined in s. 320.01(1).</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Parts” means parts of motor vehicles or combinations thereof that do not constitute materials or prepared materials.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Prepared materials” means motor vehicles, mobile homes, derelict motor vehicles, major parts, or parts that have been processed by mechanically flattening or crushing, or otherwise processed such that they are not the motor vehicle or mobile home described in the certificate of title, or their only value is as scrap metal.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Processing” means the business of performing the manufacturing process by which ferrous metals or nonferrous metals are converted into raw material products consisting of prepared grades and having an existing or potential economic value, or the purchase of materials, prepared materials, or parts therefor.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">“Recreational vehicle” means a motor vehicle as defined in s. 320.01(1).</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">“Salvage” means a motor vehicle or mobile home which is a total loss as defined in paragraph (3)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">“Salvage certificate of title” means a salvage certificate of title issued by the department or by another motor vehicle department authorized to issue titles in another state.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">“Salvage motor vehicle dealer” means salvage motor vehicle dealer as defined in s. 320.27(1)(c)5.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">“Secondary metals recycler” means secondary metals recycler as defined in s. 538.18.</Text>
+			</Paragraph>
+			<Paragraph Id="v">
+				<Text xml:space="preserve" Style="Intro">“Seller” means the owner of record or a person who has physical possession and responsibility for a derelict motor vehicle and attests that possession of the vehicle was obtained through lawful means along with all ownership rights. A seller does not include a towing company, repair shop, or landlord unless the towing company, repair shop, or landlord has obtained title, salvage title, or a certificate of destruction in the name of the towing company, repair shop, or landlord.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each person mentioned as owner in the last issued certificate of title, when such motor vehicle or mobile home is dismantled, destroyed, or changed in such manner that it is not the motor vehicle or mobile home described in the certificate of title, shall surrender his or her certificate of title to the department, and thereupon the department shall, with the consent of any lienholders noted thereon, enter a cancellation upon its records. Upon cancellation of a certificate of title in the manner prescribed by this section, the department may cancel and destroy all certificates in that chain of title. Any person who knowingly violates this paragraph commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When a motor vehicle, recreational vehicle, or mobile home is sold, transported, delivered to, or received by a salvage motor vehicle dealer, it shall be accompanied by:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A valid certificate of title issued in the name of the seller or properly endorsed, as required in s. 319.22, over to the seller;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A valid salvage certificate of title issued in the name of the seller or properly endorsed, as required in s. 319.22, over to the seller; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A valid certificate of destruction issued in the name of the seller or properly endorsed over to the seller.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any person who knowingly violates this paragraph by selling, transporting, delivering, purchasing, or receiving a motor vehicle, recreational vehicle, or mobile home without obtaining a properly endorsed certificate of title, salvage certificate of title, or certificate of destruction from the owner commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When a derelict motor vehicle is sold, transported, or delivered to a licensed salvage motor vehicle dealer, the purchaser shall record the date of purchase and the name, address, and valid Florida driver’s license number or valid Florida identification card number, or a valid driver’s license number or identification card number issued by another state, of the person selling the derelict motor vehicle, and it shall be accompanied by:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A valid certificate of title issued in the name of the seller or properly endorsed over to the seller;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A valid salvage certificate of title issued in the name of the seller or properly endorsed over to the seller; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A valid certificate of destruction issued in the name of the seller or properly endorsed over to the seller.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If a valid certificate of title, salvage certificate of title, or certificate of destruction is not available, a derelict motor vehicle certificate application shall be completed by the seller or owner of the motor vehicle or mobile home, the seller’s or owner’s authorized transporter, and the licensed salvage motor vehicle dealer at the time of sale, transport, or delivery to the licensed salvage motor vehicle dealer. The derelict motor vehicle certificate application shall be used by the seller or owner, the seller’s or owner’s authorized transporter, and the licensed salvage motor vehicle dealer to obtain a derelict motor vehicle certificate from the department. The derelict motor vehicle certificate application must be accompanied by a legible copy of the seller’s or owner’s valid Florida driver’s license or Florida identification card, or a valid driver’s license or identification card issued by another state. If the seller is not the owner of record of the vehicle being sold, the dealer shall, at the time of sale, ensure that a smudge-free right thumbprint, or other digit if the seller has no right thumb, of the seller is imprinted upon the derelict motor vehicle certificate application and that a legible copy of the seller’s driver’s license or identification card is affixed to the application and transmitted to the department. The licensed salvage motor vehicle dealer shall secure the derelict motor vehicle for 3 full business days, excluding weekends and holidays, if there is no active lien or a lien of 3 years or more on the department’s records before destroying or dismantling the derelict motor vehicle and shall follow all reporting procedures established by the department, including electronic notification to the department or delivery of the original derelict motor vehicle certificate application to an agent of the department within 24 hours after receiving the derelict motor vehicle. If there is an active lien of less than 3 years on the derelict motor vehicle, the licensed salvage motor vehicle dealer shall secure the derelict motor vehicle for 10 days. The department shall notify the lienholder that a derelict motor vehicle certificate has been issued and shall notify the lienholder of its intention to remove the lien. Ten days after receipt of the motor vehicle derelict certificate application, the department may remove the lien from its records if a written statement protesting removal of the lien is not received by the department from the lienholder within the 10-day period. However, if the lienholder files with the department and the licensed salvage motor vehicle dealer within the 10-day period a written statement that the lien is still outstanding, the department shall not remove the lien and shall place an administrative hold on the record for 30 days to allow the lienholder to apply for title to the vehicle or a repossession certificate under s. 319.28. The licensed salvage motor vehicle dealer must secure the derelict motor vehicle until the department’s administrative stop is removed, the lienholder submits a lien satisfaction, or the lienholder takes possession of the vehicle.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Any person who knowingly violates this paragraph by selling, transporting, delivering, purchasing, or receiving a derelict motor vehicle without obtaining a certificate of title, salvage certificate of title, certificate of destruction, or derelict motor vehicle certificate application; enters false or fictitious information on a derelict motor vehicle certificate application; does not complete the derelict motor vehicle certificate application as required; does not obtain a legible copy of the seller’s or owner’s valid driver’s license or identification card when required; does not make the required notification to the department; or destroys or dismantles a derelict motor vehicle without waiting the required time as set forth in subparagraph 2. commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">As used in this section, a motor vehicle or mobile home is a “total loss”:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">When an insurance company pays the vehicle owner to replace the wrecked or damaged vehicle with one of like kind and quality or when an insurance company pays the owner upon the theft of the motor vehicle or mobile home; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">When an uninsured motor vehicle or mobile home is wrecked or damaged and the cost, at the time of loss, of repairing or rebuilding the vehicle is 80 percent or more of the cost to the owner of replacing the wrecked or damaged motor vehicle or mobile home with one of like kind and quality.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A motor vehicle or mobile home shall not be considered a “total loss” if the insurance company and owner of a motor vehicle or mobile home agree to repair, rather than to replace, the motor vehicle or mobile home. However, if the actual cost to repair the motor vehicle or mobile home to the insurance company exceeds 100 percent of the cost of replacing the wrecked or damaged motor vehicle or mobile home with one of like kind and quality, the owner shall forward to the department, within 72 hours after the agreement, a request to brand the certificate of title with the words “Total Loss Vehicle.” Such a brand shall become a part of the vehicle’s title history.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The owner, including persons who are self-insured, of any motor vehicle or mobile home which is considered to be salvage shall, within 72 hours after the motor vehicle or mobile home becomes salvage, forward the title to the motor vehicle or mobile home to the department for processing. However, an insurance company which pays money as compensation for total loss of a motor vehicle or mobile home shall obtain the certificate of title for the motor vehicle or mobile home and, within 72 hours after receiving such certificate of title, shall forward such title to the department for processing. The owner or insurance company, as the case may be, may not dispose of a vehicle or mobile home that is a total loss before it has obtained a salvage certificate of title or certificate of destruction from the department. When applying for a salvage certificate of title or certificate of destruction, the owner or insurance company must provide the department with an estimate of the costs of repairing the physical and mechanical damage suffered by the vehicle for which a salvage certificate of title or certificate of destruction is sought. If the estimated costs of repairing the physical and mechanical damage to the vehicle are equal to 80 percent or more of the current retail cost of the vehicle, as established in any official used car or used mobile home guide, the department shall declare the vehicle unrebuildable and print a certificate of destruction, which authorizes the dismantling or destruction of the motor vehicle or mobile home described therein. However, if the damaged motor vehicle is equipped with custom-lowered floors for wheelchair access or a wheelchair lift, the insurance company may, upon determining that the vehicle is repairable to a condition that is safe for operation on public roads, submit the certificate of title to the department for reissuance as a salvage rebuildable title and the addition of a title brand of “insurance-declared total loss.” The certificate of destruction shall be reassignable a maximum of two times before dismantling or destruction of the vehicle shall be required, and shall accompany the motor vehicle or mobile home for which it is issued, when such motor vehicle or mobile home is sold for such purposes, in lieu of a certificate of title, and, thereafter, the department shall refuse issuance of any certificate of title for that vehicle. Nothing in this subsection shall be applicable when a vehicle is worth less than $1,500 retail in undamaged condition in any official used motor vehicle guide or used mobile home guide or when a stolen motor vehicle or mobile home is recovered in substantially intact condition and is readily resalable without extensive repairs to or replacement of the frame or engine. Any person who knowingly violates this paragraph or falsifies any document to avoid the requirements of this paragraph commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person to have in his or her possession any motor vehicle or mobile home when the manufacturer’s or state-assigned identification number plate or serial plate has been removed therefrom.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Nothing in this subsection shall be applicable when a vehicle defined in this section as a derelict or salvage was purchased or acquired from a foreign state requiring such vehicle’s identification number plate to be surrendered to such state, provided the person shall have an affidavit from the seller describing the vehicle by manufacturer’s serial number and the state to which such vehicle’s identification number plate was surrendered.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Nothing in this subsection shall be applicable if a certificate of destruction has been obtained for the vehicle.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any person to knowingly possess, sell, or exchange, offer to sell or exchange, or give away any certificate of title or manufacturer’s or state-assigned identification number plate or serial plate of any motor vehicle, mobile home, or derelict that has been sold as salvage contrary to the provisions of this section, and it is unlawful for any person to authorize, direct, aid in, or consent to the possession, sale, or exchange or to offer to sell, exchange, or give away such certificate of title or manufacturer’s or state-assigned identification number plate or serial plate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">It is unlawful for any person to knowingly possess, sell, or exchange, offer to sell or exchange, or give away any manufacturer’s or state-assigned identification number plate or serial plate of any motor vehicle or mobile home that has been removed from the motor vehicle or mobile home for which it was manufactured, and it is unlawful for any person to authorize, direct, aid in, or consent to the possession, sale, or exchange or to offer to sell, exchange, or give away such manufacturer’s or state-assigned identification number plate or serial plate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This chapter does not apply to anyone who removes, possesses, or replaces a manufacturer’s or state-assigned identification number plate, in the course of performing repairs on a vehicle, that require such removal or replacement. If the repair requires replacement of a vehicle part that contains the manufacturer’s or state-assigned identification number plate, the manufacturer’s or state-assigned identification number plate that is assigned to the vehicle being repaired will be installed on the replacement part. The manufacturer’s or state-assigned identification number plate that was removed from this replacement part will be installed on the part that was removed from the vehicle being repaired.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the event of a purchase by a salvage motor vehicle dealer of materials or major component parts for any reason, the purchaser shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For each item of materials or major component parts purchased, the salvage motor vehicle dealer shall record the date of purchase and the name, address, and personal identification card number of the person selling such items, as well as the vehicle identification number, if available.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">With respect to each item of materials or major component parts purchased, obtain such documentation as may be required by subsection (2).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who violates this subsection commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In the event of a purchase by a secondary metals recycler, that has been issued a certificate of registration number, of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Materials, prepared materials, or parts from any seller for purposes other than the processing of such materials, prepared materials, or parts, the purchaser shall obtain such documentation as may be required by this section and shall record the seller’s name and address, date of purchase, and the personal identification card number of the person delivering such items.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Parts or prepared materials from any seller for purposes of the processing of such parts or prepared materials, the purchaser shall record the seller’s name and address and date of purchase and, in the event of a purchase transaction consisting primarily of parts or prepared materials, the personal identification card number of the person delivering such items.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Materials from another secondary metals recycler for purposes of the processing of such materials, the purchaser shall record the seller’s name and address and date of purchase.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Motor vehicles, recreational vehicles, mobile homes, or derelict motor vehicles from other than a secondary metals recycler for purposes of the processing of such motor vehicles, recreational vehicles, mobile homes, or derelict motor vehicles, the purchaser shall record the date of purchase and the name, address, and personal identification card number of the person selling such items and shall obtain the following documentation from the seller with respect to each item purchased:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A valid certificate of title issued in the name of the seller or properly endorsed, as required in s. 319.22, over to the seller;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A valid salvage certificate of title issued in the name of the seller or properly endorsed, as required in s. 319.22, over to the seller;</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">A valid certificate of destruction issued in the name of the seller or properly endorsed over to the seller; or</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">A valid derelict motor vehicle certificate obtained from the department by a licensed salvage motor vehicle dealer and properly reassigned to the secondary metals recycler.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If a valid certificate of title, salvage certificate of title, certificate of destruction, or derelict motor vehicle certificate is not available and the motor vehicle or mobile home is a derelict motor vehicle, a derelict motor vehicle certificate application shall be completed by the seller or owner of the motor vehicle or mobile home, the seller’s or owner’s authorized transporter, and the registered secondary metals recycler at the time of sale, transport, or delivery to the registered secondary metals recycler to obtain a derelict motor vehicle certificate from the department. The derelict motor vehicle certificate application must be accompanied by a legible copy of the seller’s or owner’s valid Florida driver’s license or Florida identification card, or a valid driver’s license or identification card from another state. If the seller is not the owner of record of the vehicle being sold, the recycler shall, at the time of sale, ensure that a smudge-free right thumbprint, or other digit if the seller has no right thumb, of the seller is imprinted upon the derelict motor vehicle certificate application and that the legible copy of the seller’s driver’s license or identification card is affixed to the application and transmitted to the department. The derelict motor vehicle certificate shall be used by the owner, the owner’s authorized transporter, and the registered secondary metals recycler. The registered secondary metals recycler shall secure the derelict motor vehicle for 3 full business days, excluding weekends and holidays, if there is no active lien or a lien of 3 years or more on the department’s records before destroying or dismantling the derelict motor vehicle and shall follow all reporting procedures established by the department, including electronic notification to the department or delivery of the original derelict motor vehicle certificate application to an agent of the department within 24 hours after receiving the derelict motor vehicle. If there is an active lien of less than 3 years on the derelict motor vehicle, the registered secondary metals recycler shall secure the derelict motor vehicle for 10 days. The department shall notify the lienholder of the application for a derelict motor vehicle certificate and shall notify the lienholder of its intention to remove the lien. Ten days after receipt of the motor vehicle derelict application, the department may remove the lien from its records if a written statement protesting removal of the lien is not received by the department from the lienholder within the 10-day period. However, if the lienholder files with the department and the registered secondary metals recycler within the 10-day period a written statement that the lien is still outstanding, the department shall not remove the lien and shall place an administrative hold on the record for 30 days to allow the lienholder to apply for title to the vehicle or a repossession certificate under s. 319.28. The registered secondary metals recycler must secure the derelict motor vehicle until the department’s administrative stop is removed, the lienholder submits a lien satisfaction, or the lienholder takes possession of the vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Any person who knowingly violates this subparagraph by selling, transporting, delivering, purchasing, or receiving a motor vehicle, recreational motor vehicle, mobile home, or derelict motor vehicle without obtaining a certificate of title, salvage certificate of title, certificate of destruction, or derelict motor vehicle certificate; enters false or fictitious information on a derelict motor vehicle certificate application; does not complete the derelict motor vehicle certificate application as required or does not make the required notification to the department; does not obtain a legible copy of the seller’s or owner’s driver’s license or identification card when required; or destroys or dismantles a derelict motor vehicle without waiting the required time as set forth in sub-subparagraph b. commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Major parts from other than a secondary metals recycler for purposes of the processing of such major parts, the purchaser shall record the seller’s name, address, date of purchase, and the personal identification card number of the person delivering such items, as well as the vehicle identification number, if available, of each major part purchased.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who violates this subsection commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Secondary metals recyclers and salvage motor vehicle dealers shall return to the department on a monthly basis all certificates of title and salvage certificates of title that are required by this section to be obtained. Secondary metals recyclers and salvage motor vehicle dealers may elect to notify the department electronically through procedures established by the department when they receive each motor vehicle or mobile home, salvage motor vehicle or mobile home, or derelict motor vehicle with a certificate of title or salvage certificate of title through procedures established by the department. The department may adopt rules and establish fees as it deems necessary or proper for the administration of the electronic notification service.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Secondary metals recyclers and salvage motor vehicle dealers shall keep originals, or a copy in the event the original was returned to the department, of all certificates of title, salvage certificates of title, certificates of destruction, derelict motor vehicle certificates, and all other information required by this section to be recorded or obtained, on file in the offices of such secondary metals recyclers or salvage motor vehicle dealers for a period of 3 years after the date of purchase of the items reflected in such certificates of title, salvage certificates of title, certificates of destruction, or derelict motor vehicle certificates. These records shall be maintained in chronological order.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For the purpose of enforcement of this section, the department or its agents and employees have the same right of inspection as law enforcement officers as provided in s. 812.055.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Whenever the department, its agent or employee, or any law enforcement officer has reason to believe that a stolen or fraudulently titled motor vehicle, mobile home, recreational vehicle, salvage motor vehicle, or derelict motor vehicle is in the possession of a salvage motor vehicle dealer or secondary metals recycler, the department, its agent or employee, or the law enforcement officer may issue an extended hold notice, not to exceed 5 additional business days, excluding weekends and holidays, to the salvage motor vehicle dealer or registered secondary metals recycler.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Whenever a salvage motor vehicle dealer or registered secondary metals recycler is notified by the department, its agent or employee, or any law enforcement officer to hold a motor vehicle, mobile home, recreational vehicle, salvage motor vehicle, or derelict motor vehicle that is believed to be stolen or fraudulently titled, the salvage motor vehicle dealer or registered secondary metals recycler shall hold the motor vehicle, mobile home, recreational vehicle, salvage motor vehicle, or derelict motor vehicle and may not dismantle or destroy the motor vehicle, mobile home, recreational vehicle, salvage motor vehicle, or derelict motor vehicle until it is recovered by a law enforcement officer, the hold is released by the department or the law enforcement officer placing the hold, or the 5 additional business days have passed since being notified of the hold.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">This section does not authorize any person who is engaged in the business of recovering, towing, or storing vehicles pursuant to s. 713.78, and who is claiming a lien for performing labor or services on a motor vehicle or mobile home pursuant to s. 713.58, or is claiming that a motor vehicle or mobile home has remained on any premises after tenancy has terminated pursuant to s. 715.104, to use a derelict motor vehicle certificate application for the purpose of transporting, selling, disposing of, or delivering a motor vehicle to a salvage motor vehicle dealer or secondary metals recycler without obtaining the title or certificate of destruction required under s. 713.58, s. 713.78, or s. 715.104.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The department shall accept all properly endorsed and completed derelict motor vehicle certificate applications and shall issue a derelict motor vehicle certificate having an effective date that authorizes when a derelict motor vehicle is eligible for dismantling or destruction. The electronic information obtained from the derelict motor vehicle certificate application shall be stored electronically and shall be made available to authorized persons after issuance of the derelict motor vehicle certificate in the Florida Real Time Vehicle Information System.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The department is authorized to adopt rules pursuant to ss. 120.536(1) and 120.54 establishing policies and procedures to administer and enforce this section.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The department shall charge a fee of $3 for each derelict motor vehicle certificate delivered to the department or one of its agents for processing and shall mark the title record canceled. A service charge may be collected under s. 320.04.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The licensed salvage motor vehicle dealer or registered secondary metals recycler shall make all payments for the purchase of any derelict motor vehicle that is sold by a seller who is not the owner of record on file with the department by check or money order made payable to the seller and may not make payment to the authorized transporter. The licensed salvage motor vehicle dealer or registered secondary metals recycler may not cash the check that such dealer or recycler issued to the seller.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An insurance company may notify an independent entity that obtains possession of a damaged or dismantled motor vehicle to release the vehicle to the owner. The insurance company shall provide the independent entity a release statement on a form prescribed by the department authorizing the independent entity to release the vehicle to the owner. The form shall, at a minimum, contain the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The policy and claim number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The name and address of the insured.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The vehicle identification number.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The signature of an authorized representative of the insurance company.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The independent entity in possession of a motor vehicle must send a notice to the owner that the vehicle is available for pick up when it receives a release statement from the insurance company. The notice shall be sent by certified mail to the owner at the owner’s address reflected in the department’s records. The notice must inform the owner that the owner has 30 days after receipt of the notice to pick up the vehicle from the independent entity. If the motor vehicle is not claimed within 30 days after the owner receives the notice, the independent entity may apply for a certificate of destruction or a certificate of title.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Upon applying for a certificate of destruction or certificate of title, the independent entity shall provide a copy of the release statement from the insurance company to the independent entity, proof of providing the 30-day notice to the owner, and applicable fees.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The independent entity may not charge an owner of the vehicle storage fees or apply for a title under s. 713.585 or s. 713.78.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules to implement an electronic system for issuing salvage certificates of title and certificates of destruction.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in this section, any person who violates this section commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 23658, 1947; s. 9, ch. 25150, 1949; s. 1, ch. 59-341; s. 6, ch. 65-190; ss. 24, 35, ch. 69-106; s. 1, ch. 69-373; s. 189, ch. 71-136; s. 1, ch. 72-94; s. 3, ch. 78-412; s. 2, ch. 79-32; s. 1, ch. 79-56; s. 197, ch. 81-259; s. 15, ch. 82-134; s. 11, ch. 83-218; s. 5, ch. 88-130; s. 17, ch. 89-333; s. 25, ch. 90-119; s. 3, ch. 90-270; s. 4, ch. 90-283; s. 2, ch. 91-66; s. 25, ch. 95-143; s. 346, ch. 95-148; s. 12, ch. 98-324; ss. 13, 14, ch. 99-248; s. 24, ch. 2000-313; s. 127, ch. 2002-20; s. 10, ch. 2002-235; s. 1, ch. 2005-137; s. 13, ch. 2005-164; s. 1, ch. 2008-170; s. 9, ch. 2010-198; s. 15, ch. 2010-223; s. 17, ch. 2011-4; s. 4, ch. 2012-179; s. 25, ch. 2012-181.</History>
+</Section>

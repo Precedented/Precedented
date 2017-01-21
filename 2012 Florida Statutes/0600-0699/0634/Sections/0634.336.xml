@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0634.336" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Unfair methods of competition and unfair or deceptive acts or practices defined.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following methods, acts, or practices are defined as unfair methods of competition and unfair or deceptive acts or practices:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">MISREPRESENTATION AND FALSE ADVERTISING.<EmDash />Knowingly making, issuing, circulating, or causing to be made, issued, or circulated, any estimate, illustration, circular, statement, sales presentation, omission, or comparison which:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Misrepresents the benefits, advantages, conditions, or terms of any home warranty contract.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is misleading or is a misrepresentation as to the financial condition of any person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Uses any name or title of any contract misrepresenting the true nature thereof.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Is a misrepresentation for the purpose of inducing, or tending to induce, the lapse, forfeiture, exchange, conversion, or surrender of any home warranty contract.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">FALSE INFORMATION AND ADVERTISING GENERALLY.<EmDash />Knowingly making, publishing, disseminating, circulating, or placing before the public, or causing, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In a newspaper, magazine, or other publication;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the form of a notice, circular, pamphlet, letter, or poster;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Over any radio or television station; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In any other way,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">an advertisement, announcement, or statement containing any assertion, representation, or statement with respect to the business of home warranty, which assertion, representation, or statement is untrue, deceptive, or misleading.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFAMATION.<EmDash />Knowingly making, publishing, disseminating, or circulating, directly or indirectly, or aiding, abetting, or encouraging the making, publishing, disseminating, or circulating of, any oral or written statement, or any pamphlet, circular, article, or literature, which is false or maliciously critical of, or derogatory to, any person and which is calculated to injure such person.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">FALSE STATEMENTS AND ENTRIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Knowingly:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Filing with any supervisory or other public official;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Making, publishing, disseminating, or circulating;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Delivering to any person;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Placing before the public; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Causing, directly or indirectly, to be made, published, disseminated, circulated, delivered to any person, or placed before the public,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">any false statement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Knowingly making any false entry of a material fact in any book, report, or statement of any person.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">UNFAIR CLAIM SETTLEMENT PRACTICES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Attempting to settle claims on the basis of an application or any other material document which was altered without notice to, or knowledge or consent of, the warranty holder;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Making a material misrepresentation to the warranty holder for the purpose and with the intent of effecting settlement of such claims, loss, or damage under such contract on less favorable terms than those provided in, and contemplated by, such contract; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Committing or performing with such frequency as to indicate a general business practice any of the following practices:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Failure properly to investigate claims;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Misrepresentation of pertinent facts or contract provisions relating to coverages at issue;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Failure to acknowledge and act promptly upon communications with respect to claims;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Denial of claims without conducting reasonable investigations based upon available information;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Failure to affirm or deny coverage of claims upon written request of the warranty holder within a reasonable time after proof-of-loss statements have been completed; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Failure to promptly provide a reasonable explanation to the warranty holder of the basis in the contract in relation to the facts or applicable law for denial of a claim or for the offer of a compromise settlement.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">FAILURE TO MAINTAIN PROCEDURES FOR HANDLING COMPLAINTS.<EmDash />Failing to maintain a complete record of each written complaint received for a 3-year period after the date of the receipt of the written complaint.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">DISCRIMINATORY REFUSAL TO ISSUE A CONTRACT.<EmDash />Refusing to issue a contract solely because of an individual’s race, color, creed, marital status, sex, or national origin.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">COERCION OF DEBTORS.<EmDash />When a home warranty is sold:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Requiring, as a condition precedent or condition subsequent to the lending of the money or the extension of the credit or any renewal thereof, that the person to whom such credit is extended purchase a home warranty; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Failing to provide the advice required by s. 634.344.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">FAILURE TO PROVIDE TERMS AND CONDITIONS PRIOR TO SALE.<EmDash />Failing to provide a consumer with a complete sample copy of the terms and conditions of the home warranty contract prior to the time of sale upon a request for the same by the consumer. A home warranty association may comply with this subsection by providing the consumer with a sample copy of the terms and conditions of the home warranty contract or by directing the consumer to a website that displays a complete sample of the terms and conditions of the contract.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 29, ch. 83-323; s. 1, ch. 84-94; s. 20, ch. 93-195; s. 1475, ch. 2003-261; s. 7, ch. 2006-272; s. 27, ch. 2010-175.</History>
+</Section>

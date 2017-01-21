@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0101.161">
+	<Catchline xml:space="preserve">Referenda; ballots.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Whenever a constitutional amendment or other public measure is submitted to the vote of the people, a ballot summary of such amendment or other public measure shall be printed in clear and unambiguous language on the ballot after the list of candidates, followed by the word “yes” and also by the word “no,” and shall be styled in such a manner that a “yes” vote will indicate approval of the proposal and a “no” vote will indicate rejection. The ballot summary of the amendment or other public measure and the ballot title to appear on the ballot shall be embodied in the constitutional revision commission proposal, constitutional convention proposal, taxation and budget reform commission proposal, or enabling resolution or ordinance. The ballot summary of the amendment or other public measure shall be an explanatory statement, not exceeding 75 words in length, of the chief purpose of the measure. In addition, for every amendment proposed by initiative, the ballot shall include, following the ballot summary, a separate financial impact statement concerning the measure prepared by the Financial Impact Estimating Conference in accordance with s. 100.371(5). The ballot title shall consist of a caption, not exceeding 15 words in length, by which the measure is commonly referred to or spoken of. This subsection does not apply to constitutional amendments or revisions proposed by joint resolution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The ballot summary and ballot title of a constitutional amendment proposed by initiative shall be prepared by the sponsor and approved by the Secretary of State in accordance with rules adopted pursuant to s. 120.54. The Department of State shall give each proposed constitutional amendment a designating number for convenient reference. This number designation shall appear on the ballot. Designating numbers shall be assigned in the order of filing or certification and in accordance with rules adopted by the Department of State. The Department of State shall furnish the designating number, the ballot title, and, unless otherwise specified in a joint resolution, the ballot summary of each amendment to the supervisor of elections of each county in which such amendment is to be voted on.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each joint resolution that proposes a constitutional amendment or revision shall include one or more ballot statements set forth in order of priority. Each ballot statement shall consist of a ballot title, by which the measure is commonly referred to or spoken of, not exceeding 15 words in length, and either a ballot summary that describes the chief purpose of the amendment or revision in clear and unambiguous language, or the full text of the amendment or revision. The Department of State shall furnish a designating number pursuant to subsection (2) and the appropriate ballot statement to the supervisor of elections of each county. The ballot statement shall be printed on the ballot after the list of candidates, followed by the word “yes” and also by the word “no,” and shall be styled in such a manner that a “yes” vote will indicate approval of the amendment or revision and a “no” vote will indicate rejection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any action for a judicial determination that one or more ballot statements embodied in a joint resolution are defective must be commenced by filing a complaint or petition with the appropriate court within 30 days after the joint resolution is filed with the Secretary of State. The complaint or petition shall assert all grounds for challenge to each ballot statement. Any ground not asserted within 30 days after the joint resolution is filed with the Secretary of State is waived.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The court, including any appellate court, shall accord an action described in subparagraph 1. priority over other pending cases and render a decision as expeditiously as possible. If the court finds that all ballot statements embodied in a joint resolution are defective and further appeals are declined, abandoned, or exhausted, unless otherwise provided in the joint resolution, the Attorney General shall, within 10 days, prepare and submit to the Department of State a revised ballot title or ballot summary that corrects the deficiencies identified by the court, and the Department of State shall furnish a designating number and the revised ballot title or ballot summary to the supervisor of elections of each county for placement on the ballot. The court shall retain jurisdiction over challenges to a revised ballot title or ballot summary prepared by the Attorney General, and any challenge to a revised ballot title or ballot summary must be filed within 10 days after a revised ballot title or ballot summary is submitted to the Department of State.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A ballot statement that consists of the full text of an amendment or revision shall be presumed to be a clear and unambiguous statement of the substance and effect of the amendment or revision, providing fair notice to the electors of the content of the amendment or revision and sufficiently advising electors of the issue upon which they are to vote.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For any general election in which the Secretary of State, for any circuit, or the supervisor of elections, for any county, has certified the ballot position for an initiative to change the method of selection of judges, the ballot for any circuit must contain the statement in paragraph (b) or paragraph (c) and the ballot for any county must contain the statement in paragraph (d) or paragraph (e).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In any circuit where the initiative is to change the selection of circuit court judges to selection by merit selection and retention, the ballot shall state: “Shall the method of selecting circuit court judges in the <Directions xml:space="preserve">(number of the circuit)</Directions> judicial circuit be changed from election by a vote of the people to selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In any circuit where the initiative is to change the selection of circuit court judges to election by the voters, the ballot shall state: “Shall the method of selecting circuit court judges in the <Directions xml:space="preserve">(number of the circuit)</Directions> judicial circuit be changed from selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people to election by a vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">In any county where the initiative is to change the selection of county court judges to merit selection and retention, the ballot shall state: “Shall the method of selecting county court judges in <Directions xml:space="preserve">(name of county)</Directions> be changed from election by a vote of the people to selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">In any county where the initiative is to change the selection of county court judges to election by the voters, the ballot shall state: “Shall the method of selecting county court judges in <Directions xml:space="preserve">(name of the county)</Directions> be changed from selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people to election by a vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 34, ch. 4328, 1895; GS 218; RGS 262; CGL 318; ss. 1-11, ch. 16180, 1933; s. 1, ch. 16877, 1935; s. 4, ch. 17898, 1937; s. 1, ch. 22626, 1945; s. 5, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 1, ch. 73-7; s. 13, ch. 77-175; s. 16, ch. 79-365; s. 2, ch. 80-305; s. 32, ch. 84-302; s. 11, ch. 90-203; s. 10, ch. 99-355; s. 1, ch. 2000-361; s. 4, ch. 2001-75; s. 5, ch. 2002-390; s. 5, ch. 2004-33; s. 11, ch. 2005-2; s. 33, ch. 2005-278; s. 29, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 99.16.</Text>
+	</Note>
+</Section>

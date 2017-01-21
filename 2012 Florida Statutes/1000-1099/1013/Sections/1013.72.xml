@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1013.72" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">SIT Program award eligibility; maximum cost per student station of educational facilities; frugality incentives; recognition awards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">It is the intent of the Legislature that district school boards that seek awards of SIT Program funds use due diligence and sound business practices in the design, construction, and use of educational facilities.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A school district may seek an award from the SIT Program, pursuant to this section and s. 1013.42, based on the district’s new construction of educational facilities if the cost per student station is less than:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">$17,952 for an elementary school,</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">$19,386 for a middle school, or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">$25,181 for a high school,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">(January 2006) as adjusted annually by the Consumer Price Index. The award shall be up to 50 percent of such savings, as recommended by the Office of Educational Facilities.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A school district may seek a SMART school of the year recognition award for building the highest quality functional, frugal school. The commissioner may present a trophy or plaque and a cash award to the school recommended by the Office of Educational Facilities for a SMART school of the year recognition award.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 869, ch. 2002-387; s. 19, ch. 2010-70.</History>
+</Section>

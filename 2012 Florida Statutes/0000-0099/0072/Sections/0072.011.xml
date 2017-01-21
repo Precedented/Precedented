@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0072.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Jurisdiction of circuit courts in specific tax matters; administrative hearings and appeals; time for commencing action; parties; deposits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">A taxpayer may contest the legality of any assessment or denial of refund of tax, fee, surcharge, permit, interest, or penalty provided for under s. 125.0104, s. 125.0108, chapter 198, chapter 199, chapter 201, chapter 202, chapter 203, chapter 206, chapter 207, chapter 210, chapter 211, chapter 212, chapter 213, chapter 220, s. 379.362(3), chapter 376, s. 403.717, s. 403.718, s. 403.7185, s. 538.09, s. 538.25, chapter 550, chapter 561, chapter 562, chapter 563, chapter 564, chapter 565, chapter 624, or s. 681.117 by filing an action in circuit court; or, alternatively, the taxpayer may file a petition under the applicable provisions of chapter 120. However, once an action has been initiated under s. 120.56, s. 120.565, s. 120.569, s. 120.57, or s. 120.80(14)(b), no action relating to the same subject matter may be filed by the taxpayer in circuit court, and judicial review shall be exclusively limited to appellate review pursuant to s. 120.68; and once an action has been initiated in circuit court, no action may be brought under chapter 120.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A taxpayer may not file an action under paragraph (a) to contest an assessment or a denial of refund of any tax, fee, surcharge, permit, interest, or penalty relating to the statutes listed in paragraph (a) until the taxpayer complies with the applicable registration requirements contained in those statutes which apply to the tax for which the action is filed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An action may not be brought to contest an assessment of any tax, interest, or penalty assessed under a section or chapter specified in subsection (1) more than 60 days after the date the assessment becomes final. An action may not be brought to contest a denial of refund of any tax, interest, or penalty paid under a section or chapter specified in subsection (1) more than 60 days after the date the denial becomes final.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The date on which an assessment or a denial of refund becomes final and procedures by which a taxpayer must be notified of the assessment or of the denial of refund must be established:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By rule adopted by the Department of Revenue;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">With respect to assessments or refund denials under chapter 207, by rule adopted by the Department of Highway Safety and Motor Vehicles;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">With respect to assessments or refund denials under chapters 210, 550, 561, 562, 563, 564, and 565, by rule adopted by the Department of Business and Professional Regulation; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">With respect to taxes that a county collects or enforces under s. 125.0104(10) or s. 212.0305(5), by an ordinance that may additionally provide for informal dispute resolution procedures in accordance with s. 213.21.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The applicable department or county need not file or docket an assessment or a refund denial with the agency clerk or county official designated by ordinance in order for the assessment or refund denial to become final for purposes of an action initiated under this chapter or chapter 120.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In any action filed in circuit court contesting the legality of any tax, interest, or penalty assessed under a section or chapter specified in subsection (1), the plaintiff must:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Pay to the applicable department or county the amount of the tax, penalty, and accrued interest assessed by the department or county which is not being contested by the taxpayer; and either</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Tender into the registry of the court with the complaint the amount of the contested assessment complained of, including penalties and accrued interest, unless this requirement is waived in writing by the executive director of the applicable department or by the county official designated by ordinance; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">File with the complaint a cash bond or a surety bond for the amount of the contested assessment endorsed by a surety company authorized to do business in this state, or by any other security arrangement as may be approved by the court, and conditioned upon payment in full of the judgment, including the taxes, costs, penalties, and interest, unless this requirement is waived in writing by the executive director of the applicable department or by the county official designated by ordinance.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Failure to pay the uncontested amount as required in paragraph (a) shall result in the dismissal of the action and imposition of an additional penalty in the amount of 25 percent of the tax assessed. Provided, however, that if, at any point in the action, it is determined or discovered that a plaintiff, due to a good faith de minimis error, failed to comply with any of the requirements of paragraph (a) or paragraph (b), the plaintiff shall be given a reasonable time within which to comply before the action is dismissed. For purposes of this subsection, there shall be a rebuttable presumption that if the error involves an amount equal to or less than 5 percent of the total assessment the error is de minimis and that if the error is more than 5 percent of the total assessment the error is not de minimis.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), an action initiated in circuit court pursuant to subsection (1) shall be filed in the Second Judicial Circuit Court in and for Leon County or in the circuit court in the county where the taxpayer resides, maintains its principal commercial domicile in this state, or, in the ordinary course of business, regularly maintains its books and records in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Venue in an action initiated in circuit court pursuant to subsection (1) by a taxpayer that is not a resident of this state or that does not maintain a commercial domicile in this state shall be in Leon County. Venue in an action contesting the legality of an assessment or refund denial arising under chapter 198 shall be in the circuit court having jurisdiction over the administration of the estate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The requirements of subsections (1), (2), and (3) are jurisdictional.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any action brought under this chapter is not subject to the provisions of chapter 45 as amended by chapter 87-249, Laws of Florida, relating to offers of settlement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 81-178; s. 12, ch. 83-217; ss. 1, 9, ch. 84-170; s. 34, ch. 85-342; s. 10, ch. 87-99; s. 1, ch. 87-102; s. 2, ch. 87-198; s. 10, ch. 89-171; s. 100, ch. 90-136; s. 27, ch. 90-203; s. 2, ch. 91-112; s. 18, ch. 92-315; s. 2, ch. 92-320; s. 63, ch. 93-207; ss. 23, 29, ch. 94-353; s. 126, ch. 95-417; s. 48, ch. 96-397; s. 8, ch. 96-410; s. 24, ch. 98-342; s. 26, ch. 99-2; s. 9, ch. 2000-151; ss. 33, 58, ch. 2000-260; s. 38, ch. 2001-140; s. 4, ch. 2002-218; s. 182, ch. 2008-247; s. 2, ch. 2011-76.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+</Section>

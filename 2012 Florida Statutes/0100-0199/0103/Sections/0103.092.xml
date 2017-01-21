@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0103.092" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Affiliated party committees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, the term “leader” means the President of the Senate, the Speaker of the House of Representatives, or the minority leader of either house of the Legislature, until a person is designated by a political party conference of members of either house to succeed to any such position, at which time the designee becomes the leader for purposes of this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The leader of each political party conference of the House of Representatives and the Senate may establish a separate, affiliated party committee to support the election of candidates of the leader’s political party. The affiliated party committee is subject to the same provisions of chapter 106 as a political party.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each affiliated party committee shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Adopt bylaws to include, at a minimum, the designation of a treasurer.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Conduct campaigns for candidates who are members of the leader’s political party.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Establish an account.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Raise and expend funds. Such funds may not be expended or committed to be expended except when authorized by the leader of the affiliated party committee.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 2, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.</History>
+</Section>

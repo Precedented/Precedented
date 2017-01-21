@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.9201" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Notice of cancellation or nonrenewal.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An insurer issuing a policy providing coverage for property, casualty, surety, or marine insurance must give the first named insured at least 45 days’ advance written notice of nonrenewal. If the policy is not to be renewed, the written notice shall state the reasons as to why the policy is not to be renewed. This subsection does not apply:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the insurer has manifested its willingness to renew, and the offer is not rescinded prior to expiration of the policy; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If a notice of cancellation for nonpayment of premium is provided under subsection (2).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An insurer issuing a policy providing coverage for property, casualty, surety, or marine insurance must give the named insured written notice of cancellation or termination other than nonrenewal at least 45 days before the effective date of the cancellation or termination, including in the written notice the reasons for the cancellation or termination, except that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If cancellation is for nonpayment of premium, at least 10 days’ written notice of cancellation accompanied by the reason for cancellation must be given. As used in this paragraph, the term “nonpayment of premium” means the failure of the named insured to discharge when due any of his or her obligations in connection with the payment of premiums on a policy or an installment of such a premium, whether the premium or installment is payable directly to the insurer or its agent or indirectly under any plan for financing premiums or extension of credit or the failure of the named insured to maintain membership in an organization if such membership is a condition precedent to insurance coverage. The term also includes the failure of a financial institution to honor the check of an applicant for insurance which was delivered to a licensed agent for payment of a premium, even if the agent previously delivered or transferred the premium to the insurer. If a correctly dishonored check represents payment of the initial premium, the contract and all contractual obligations are void ab initio unless the nonpayment is cured within the earlier of 5 days after actual notice by certified mail is received by the applicant or 15 days after notice is sent to the applicant by certified mail or registered mail, and, if the contract is void, any premium received by the insurer from a third party shall be refunded to that party in full; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If cancellation or termination occurs during the first 90 days during which the insurance is in force and if the insurance is canceled or terminated for reasons other than nonpayment, at least 20 days’ written notice of cancellation or termination accompanied by the reason for cancellation or termination must be given, except if there has been a material misstatement or misrepresentation or failure to comply with the underwriting requirements established by the insurer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If an insurer fails to provide the written notice as required under this section, the coverage provided to the named insured remains in effect until 45 days after the notice is given or until the effective date of replacement coverage obtained by the named insured, whichever occurs first. The premium for the coverage remains the same during any such extension period.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 168, 207, ch. 90-363; s. 4, ch. 91-429; s. 7, ch. 2007-90; s. 9, ch. 2012-151.</History>
+</Section>

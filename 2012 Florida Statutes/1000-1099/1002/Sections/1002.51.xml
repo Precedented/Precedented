@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1002.51" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Disability” means any disability listed in the definition of exceptional student in s. 1003.01.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Specialized instructional services provider” means a provider delivering specialized instructional services under s. 1002.66.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Early learning coalition” or “coalition” means an early learning coalition created under s. 411.01.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Prekindergarten director” means an onsite person ultimately responsible for the overall operation of a private prekindergarten provider or, alternatively, of the provider’s prekindergarten program, regardless of whether the person is the owner of the provider.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Prekindergarten instructor” means a teacher or child care personnel as defined in s. 402.302 who provide instruction to students in the Voluntary Prekindergarten Education Program.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Private prekindergarten provider” means a provider other than a public school which is eligible to deliver the school-year prekindergarten program under s. 1002.55 or the summer prekindergarten program under s. 1002.61.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2004-484; s. 2, ch. 2010-227.</History>
+</Section>

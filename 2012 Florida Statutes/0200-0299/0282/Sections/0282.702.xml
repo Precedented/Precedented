@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0282.702" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Powers and duties.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The Department of Management Services shall have the following powers, duties, and functions:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To publish electronically the portfolio of services available from the department, including pricing information; the policies and procedures governing usage of available services; and a forecast of the department’s priorities for each telecommunications service.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">To adopt technical standards by rule for the state telecommunications network which ensure the interconnection and operational security of computer networks, telecommunications, and information systems of agencies.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">To enter into agreements related to information technology and telecommunications services with state agencies and political subdivisions of the state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">To purchase from or contract with information technology providers for information technology, including private line services.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">To apply for, receive, and hold authorizations, patents, copyrights, trademarks, service marks, licenses, and allocations or channels and frequencies to carry out the purposes of this part.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">To purchase, lease, or otherwise acquire and to hold, sell, transfer, license, or otherwise dispose of real, personal, and intellectual property, including, but not limited to, patents, trademarks, copyrights, and service marks.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">To cooperate with any federal, state, or local emergency management agency in providing for emergency telecommunications services.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">To control and approve the purchase, lease, or acquisition and the use of telecommunications services, software, circuits, and equipment provided as part of any other total telecommunications system to be used by the state or its agencies.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">To adopt rules pursuant to ss. 120.536(1) and 120.54 relating to telecommunications and to administer the provisions of this part.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">To apply for and accept federal funds for the purposes of this part as well as gifts and donations from individuals, foundations, and private organizations.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">To monitor issues relating to telecommunications facilities and services before the Florida Public Service Commission and the Federal Communications Commission and, if necessary, prepare position papers, prepare testimony, appear as a witness, and retain witnesses on behalf of state agencies in proceedings before the commissions.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Unless delegated to the agencies by the department, to manage and control, but not intercept or interpret, telecommunications within the SUNCOM Network by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Establishing technical standards to physically interface with the SUNCOM Network.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Specifying how telecommunications are transmitted within the SUNCOM Network.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Controlling the routing of telecommunications within the SUNCOM Network.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Establishing standards, policies, and procedures for access to and the security of the SUNCOM Network.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Ensuring orderly and reliable telecommunications services in accordance with the service level agreements executed with state agencies.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">To plan, design, and conduct experiments for telecommunications services, equipment, and technologies, and to implement enhancements in the state telecommunications network if in the public interest and cost-effective. Funding for such experiments must be derived from SUNCOM Network service revenues and may not exceed 2 percent of the annual budget for the SUNCOM Network for any fiscal year or as provided in the General Appropriations Act. New services offered as a result of this subsection may not affect existing rates for facilities or services.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">To enter into contracts or agreements, with or without competitive bidding or procurement, to make available, on a fair, reasonable, and nondiscriminatory basis, property and other structures under departmental control for the placement of new facilities by any wireless provider of mobile service as defined in 47 U.S.C. s. 153(27) or s. 332(d) and any telecommunications company as defined in s. 364.02 if it is practical and feasible to make such property or other structures available. The department may, without adopting a rule, charge a just, reasonable, and nondiscriminatory fee for the placement of the facilities, payable annually, based on the fair market value of space used by comparable telecommunications facilities in the state. The department and a wireless provider or telecommunications company may negotiate the reduction or elimination of a fee in consideration of services provided to the department by the wireless provider or telecommunications company. All such fees collected by the department shall be deposited directly into the Law Enforcement Radio Operating Trust Fund, and may be used by the department to construct, maintain, or support the system.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">Establish policies that ensure that the department’s cost-recovery methodologies, billings, receivables, expenditures, budgeting, and accounting data are captured and reported timely, consistently, accurately, and transparently and are in compliance with all applicable federal and state laws and rules. The department shall annually submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives a report that describes each service and its cost, the billing methodology for recovering the cost of the service, and, if applicable, the identity of those services that are subsidized.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 22, ch. 69-106; s. 1, ch. 70-327; s. 36, ch. 83-334; s. 11, ch. 87-137; s. 220, ch. 92-279; s. 55, ch. 92-326; s. 16, ch. 95-143; s. 1, ch. 96-357; s. 9, ch. 96-390; s. 11, ch. 97-286; s. 65, ch. 98-279; s. 5, ch. 2000-164; s. 11, ch. 2001-261; s. 36, ch. 2002-1; s. 18, ch. 2007-105; s. 17, ch. 2009-80; s. 48, ch. 2010-5; s. 10, ch. 2010-148.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 287.25; s. 282.102.</Text>
+	</Note>
+</Section>

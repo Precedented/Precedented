@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0984.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">When used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Abandoned” means a situation in which the parent or legal custodian of a child or, in the absence of a parent or legal custodian, the person responsible for the child’s welfare, while being able, makes no provision for the child’s support and makes no effort to communicate with the child, which situation is sufficient to evince a willful rejection of parental obligations. If the efforts of such parent or legal custodian, or person primarily responsible for the child’s welfare to support and communicate with the child are, in the opinion of the court, only marginal efforts that do not evince a settled purpose to assume all parental duties, the court may declare the child to be abandoned. The term “abandoned” does not include a “child in need of services” as defined in subsection (9) or a “family in need of services” as defined in subsection (25). The incarceration of a parent, legal custodian, or person responsible for a child’s welfare does not constitute a bar to a finding of abandonment.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Abuse” means any willful act that results in any physical, mental, or sexual injury that causes or is likely to cause the child’s physical, mental, or emotional health to be significantly impaired. Corporal discipline of a child by a parent or guardian for disciplinary purposes does not in itself constitute abuse when it does not result in harm to the child as defined in s. 39.01.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Addictions receiving facility” means a substance abuse service provider as defined in chapter 397.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Adjudicatory hearing” means a hearing for the court to determine whether or not the facts support the allegations stated in the petition as is provided for under s. 984.20(2) in child-in-need-of-services cases.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Adult” means any natural person other than a child.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Authorized agent” or “designee” of the department means a person or agency assigned or designated by the Department of Juvenile Justice or the Department of Children and Family Services, as appropriate, to perform duties or exercise powers pursuant to this chapter and includes contract providers and their employees for purposes of providing services to and managing cases of children in need of services and families in need of services.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Caretaker/homemaker” means an authorized agent of the Department of Children and Family Services who shall remain in the child’s home with the child until a parent, legal guardian, or relative of the child enters the home and is capable of assuming and agrees to assume charge of the child.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Child” or “juvenile” or “youth” means any unmarried person under the age of 18 who has not been emancipated by order of the court and who has been found or alleged to be dependent, in need of services, or from a family in need of services; or any married or unmarried person who is charged with a violation of law occurring prior to the time that person reached the age of 18 years.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Child in need of services” means a child for whom there is no pending investigation into an allegation or suspicion of abuse, neglect, or abandonment; no pending referral alleging the child is delinquent; or no current supervision by the Department of Juvenile Justice or the Department of Children and Family Services for an adjudication of dependency or delinquency. The child must also, pursuant to this chapter, be found by the court:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To have persistently run away from the child’s parents or legal custodians despite reasonable efforts of the child, the parents or legal custodians, and appropriate agencies to remedy the conditions contributing to the behavior. Reasonable efforts shall include voluntary participation by the child’s parents or legal custodians and the child in family mediation, services, and treatment offered by the Department of Juvenile Justice or the Department of Children and Family Services;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To be habitually truant from school, while subject to compulsory school attendance, despite reasonable efforts to remedy the situation pursuant to ss. 1003.26 and 1003.27 and through voluntary participation by the child’s parents or legal custodians and by the child in family mediation, services, and treatment offered by the Department of Juvenile Justice or the Department of Children and Family Services; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To have persistently disobeyed the reasonable and lawful demands of the child’s parents or legal custodians, and to be beyond their control despite efforts by the child’s parents or legal custodians and appropriate agencies to remedy the conditions contributing to the behavior. Reasonable efforts may include such things as good faith participation in family or individual counseling.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Child support” means a court-ordered obligation, enforced under chapter 61 and ss. 409.2551-409.2597, for monetary support for the care, maintenance, training, and education of a child.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Child who has been found to have committed a delinquent act” means a child who, pursuant to the provisions of chapter 985, is found by a court to have committed a violation of law or to be in direct or indirect contempt of court, except that this definition shall not include an act constituting contempt of court arising out of a dependency proceeding or a proceeding pursuant to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Child who is found to be dependent” or “dependent child” means a child who, pursuant to this chapter, is found by the court:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To have been abandoned, abused, or neglected by the child’s parents or other custodians.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To have been surrendered to the former Department of Health and Rehabilitative Services, the Department of Children and Family Services, or a licensed child-placing agency for purpose of adoption.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To have been voluntarily placed with a licensed child-caring agency, a licensed child-placing agency, an adult relative, the former Department of Health and Rehabilitative Services, or the Department of Children and Family Services, after which placement, under the requirements of this chapter, a case plan has expired and the parent or parents have failed to substantially comply with the requirements of the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To have been voluntarily placed with a licensed child-placing agency for the purposes of subsequent adoption and a natural parent or parents signed a consent pursuant to the Florida Rules of Juvenile Procedure.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To have no parent, legal custodian, or responsible adult relative to provide supervision and care.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To be at substantial risk of imminent abuse or neglect by the parent or parents or the custodian.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Circuit” means any of the 20 judicial circuits as set forth in s. 26.021.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Comprehensive assessment” or “assessment” means the gathering of information for the evaluation of a juvenile offender’s or a child’s physical, psychological, educational, vocational, and social condition and family environment as they relate to the child’s need for rehabilitative and treatment services, including substance abuse treatment services, mental health services, developmental services, literacy services, medical services, family services, and other specialized services, as appropriate.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Court,” unless otherwise expressly stated, means the circuit court assigned to exercise jurisdiction under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Delinquency program” means any intake, community control, or similar program; regional detention center or facility; or community-based program, whether owned and operated by or contracted by the Department of Juvenile Justice, or institution owned and operated by or contracted by the Department of Juvenile Justice, which provides intake, supervision, or custody and care of children who are alleged to be or who have been found to be delinquent pursuant to chapter 985.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Juvenile Justice.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Detention care” means the temporary care of a child in secure, nonsecure, or home detention, pending a court adjudication or disposition or execution of a court order. There are three types of detention care, as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Secure detention” means temporary custody of the child while the child is under the physical restriction of a detention center or facility pending adjudication, disposition, or placement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Nonsecure detention” means temporary custody of the child while the child is in a residential home in the community in a physically nonrestrictive environment under the supervision of the Department of Juvenile Justice pending adjudication, disposition, or placement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Home detention” means temporary custody of the child while the child is released to the custody of the parent, guardian, or custodian in a physically nonrestrictive environment under the supervision of the Department of Juvenile Justice staff pending adjudication, disposition, or placement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Detention center or facility” means a facility used pending court adjudication or disposition or execution of court order for the temporary care of a child alleged or found to have committed a violation of law. A detention center or facility may provide secure or nonsecure custody. A facility used for the commitment of adjudicated delinquents shall not be considered a detention center or facility.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Detention hearing” means a hearing for the court to determine if a child should be placed in temporary custody, as provided for under s. 39.402, in dependency cases.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Diligent efforts of social service agency” means reasonable efforts to provide social services or reunification services made by any social service agency as defined in this section that is a party to a case plan.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Diligent search” means the efforts of a social service agency to locate a parent or prospective parent whose identity or location is unknown, or a relative made known to the social services agency by the parent or custodian of a child. When the search is for a parent, prospective parent, or relative of a child in the custody of the department, this search must be initiated as soon as the agency is made aware of the existence of such parent, prospective parent, or relative. A diligent search shall include interviews with persons who are likely to have information about the identity or location of the person being sought, comprehensive database searches, and records searches, including searches of employment, residence, utilities, Armed Forces, vehicle registration, child support enforcement, law enforcement, and corrections records, and any other records likely to result in identifying and locating the person being sought. The initial diligent search must be completed within 90 days after a child is taken into custody. After the completion of the initial diligent search, the department, unless excused by the court, shall have a continuing duty to search for relatives with whom it may be appropriate to place the child, until such relatives are found or until the child is placed for adoption.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Disposition hearing” means a hearing in which the court determines the most appropriate dispositional services in the least restrictive available setting provided for under s. 984.20(3), in child-in-need-of-services cases.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Family” means a collective body of persons, consisting of a child and a parent, guardian, adult custodian, or adult relative, in which:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The persons reside in the same house or living unit; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parent, guardian, adult custodian, or adult relative has a legal responsibility by blood, marriage, or court order to support or care for the child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Family in need of services” means a family that has a child who is running away; who is persistently disobeying reasonable and lawful demands of the parent or legal custodian and is beyond the control of the parent or legal custodian; or who is habitually truant from school or engaging in other serious behaviors that place the child at risk of future abuse, neglect, or abandonment or at risk of entering the juvenile justice system. The child must be referred to a law enforcement agency, the Department of Juvenile Justice, or an agency contracted to provide services to children in need of services. A family is not eligible to receive services if, at the time of the referral, there is an open investigation into an allegation of abuse, neglect, or abandonment or if the child is currently under supervision by the Department of Juvenile Justice or the Department of Children and Family Services due to an adjudication of dependency or delinquency.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Foster care” means care provided a child in a foster family or boarding home, group home, agency boarding home, child care institution, or any combination thereof.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Habitually truant” means that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The child has 15 unexcused absences within 90 calendar days with or without the knowledge or justifiable consent of the child’s parent or legal guardian, is subject to compulsory school attendance under s. 1003.21(1) and (2)(a), and is not exempt under s. 1003.21(3), s. 1003.24, or any other exemptions specified by law or the rules of the State Board of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Activities to determine the cause, and to attempt the remediation, of the child’s truant behavior under ss. 1003.26 and 1003.27(3), have been completed.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If a child who is subject to compulsory school attendance is responsive to the interventions described in ss. 1003.26 and 1003.27(3) and has completed the necessary requirements to pass the current grade as indicated in the district pupil progression plan, the child shall not be determined to be habitually truant and shall be passed. If a child within the compulsory school attendance age has 15 unexcused absences within 90 calendar days or fails to enroll in school, the State Attorney may, or the appropriate jurisdictional agency shall, file a child-in-need-of-services petition if recommended by the case staffing committee, unless it is determined that another alternative action is preferable. The failure or refusal of the parent or legal guardian or the child to participate, or make a good faith effort to participate, in the activities prescribed to remedy the truant behavior, or the failure or refusal of the child to return to school after participation in activities required by this subsection, or the failure of the child to stop the truant behavior after the school administration and the Department of Juvenile Justice have worked with the child as described in ss. 1003.26 and 1003.27(3) shall be handled as prescribed in s. 1003.27.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Intake” means the initial acceptance and screening by the Department of Juvenile Justice of a complaint or a law enforcement report or probable cause affidavit of delinquency, family in need of services, or child in need of services to determine the recommendation to be taken in the best interests of the child, the family, and the community. The emphasis of intake is on diversion and the least restrictive available services. Consequently, intake includes such alternatives as:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The disposition of the complaint, report, or probable cause affidavit without court or public agency action or judicial handling when appropriate.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The referral of the child to another public or private agency when appropriate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The recommendation by the juvenile probation officer of judicial handling when appropriate and warranted.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Judge” means the circuit judge exercising jurisdiction pursuant to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="30">
+			<Text xml:space="preserve" Style="Intro">“Juvenile justice continuum” includes, but is not limited to, delinquency prevention programs and services designed for the purpose of preventing or reducing delinquent acts, including criminal activity by criminal gangs and juvenile arrests, as well as programs and services targeted at children who have committed delinquent acts, and children who have previously been committed to residential treatment programs for delinquents. The term includes children-in-need-of-services and families-in-need-of-services programs; conditional release; substance abuse and mental health programs; educational and vocational programs; recreational programs; community services programs; community service work programs; and alternative dispute resolution programs serving children at risk of delinquency and their families, whether offered or delivered by state or local governmental entities, public or private for-profit or not-for-profit organizations, or religious or charitable organizations.</Text>
+		</Subsection>
+		<Subsection Id="31">
+			<Text xml:space="preserve" Style="Intro">“Juvenile probation officer” means the authorized agent of the department who performs and directs intake, assessment, probation, or conditional release, and other related services.</Text>
+		</Subsection>
+		<Subsection Id="32">
+			<Text xml:space="preserve" Style="Intro">“Legal custody” means a legal status created by court order or letter of guardianship which vests in a custodian of the person or guardian, whether an agency or an individual, the right to have physical custody of the child and the right and duty to protect, train, and discipline the child and to provide him or her with food, shelter, education, and ordinary medical, dental, psychiatric, and psychological care.</Text>
+		</Subsection>
+		<Subsection Id="33">
+			<Text xml:space="preserve" Style="Intro">“Licensed child-caring agency” means a person, society, association, or agency licensed by the Department of Children and Family Services to care for, receive, and board children.</Text>
+		</Subsection>
+		<Subsection Id="34">
+			<Text xml:space="preserve" Style="Intro">“Licensed health care professional” means a physician licensed under chapter 458, an osteopathic physician licensed under chapter 459, a nurse licensed under part I of chapter 464, a physician assistant licensed under chapter 458 or chapter 459, or a dentist licensed under chapter 466.</Text>
+		</Subsection>
+		<Subsection Id="35">
+			<Text xml:space="preserve" Style="Intro">“Mediation” means a process whereby a neutral third person called a mediator acts to encourage and facilitate the resolution of a dispute between two or more parties. It is an informal and nonadversarial process with the objective of helping the disputing parties reach a mutually acceptable and voluntary agreement. In mediation, decisionmaking authority rests with the parties. The role of the mediator includes, but is not limited to, assisting the parties in identifying issues, fostering joint problem solving, and exploring settlement alternatives.</Text>
+		</Subsection>
+		<Subsection Id="36">
+			<Text xml:space="preserve" Style="Intro">“Necessary medical treatment” means care that is necessary within a reasonable degree of medical certainty to prevent the deterioration of a child’s condition or to alleviate immediate pain of a child.</Text>
+		</Subsection>
+		<Subsection Id="37">
+			<Text xml:space="preserve" Style="Intro">“Neglect” occurs when the parent or legal custodian of a child or, in the absence of a parent or legal custodian, the person primarily responsible for the child’s welfare deprives a child of, or allows a child to be deprived of, necessary food, clothing, shelter, or medical treatment or permits a child to live in an environment when such deprivation or environment causes the child’s physical, mental, or emotional health to be significantly impaired or to be in danger of being significantly impaired. The foregoing circumstances shall not be considered neglect if caused primarily by financial inability unless actual services for relief have been offered to and rejected by such person. A parent or guardian legitimately practicing religious beliefs in accordance with a recognized church or religious organization who thereby does not provide specific medical treatment for a child shall not, for that reason alone, be considered a negligent parent or guardian; however, such an exception does not preclude a court from ordering the following services to be provided, when the health of the child so requires:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Medical services from a licensed physician, dentist, optometrist, podiatric physician, or other qualified health care provider; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Treatment by a duly accredited practitioner who relies solely on spiritual means for healing in accordance with the tenets and practices of a well-recognized church or religious organization.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="38">
+			<Text xml:space="preserve" Style="Intro">“Next of kin” means an adult relative of a child who is the child’s brother, sister, grandparent, aunt, uncle, or first cousin.</Text>
+		</Subsection>
+		<Subsection Id="39">
+			<Text xml:space="preserve" Style="Intro">“Parent” means a woman who gives birth to a child and a man whose consent to the adoption of the child would be required under s. 63.062(1). If a child has been legally adopted, the term “parent” means the adoptive mother or father of the child. The term does not include an individual whose parental relationship to the child has been legally terminated, or an alleged or prospective parent, unless the parental status falls within the terms of either s. 39.503(1) or s. 63.062(1).</Text>
+		</Subsection>
+		<Subsection Id="40">
+			<Text xml:space="preserve" Style="Intro">“Participant,” for purposes of a shelter proceeding, means any person who is not a party but who should receive notice of hearings involving the child, including foster parents, identified prospective parents, grandparents entitled to priority for adoption consideration under s. 63.0425, actual custodians of the child, and any other person whose participation may be in the best interest of the child. Participants may be granted leave by the court to be heard without the necessity of filing a motion to intervene.</Text>
+		</Subsection>
+		<Subsection Id="41">
+			<Text xml:space="preserve" Style="Intro">“Party,” for purposes of a shelter proceeding, means the parent of the child, the petitioner, the department, the guardian ad litem when one has been appointed, and the child. The presence of the child may be excused by order of the court when presence would not be in the child’s best interest. Notice to the child may be excused by order of the court when the age, capacity, or other condition of the child is such that the notice would be meaningless or detrimental to the child.</Text>
+		</Subsection>
+		<Subsection Id="42">
+			<Text xml:space="preserve" Style="Intro">“Preliminary screening” means the gathering of preliminary information to be used in determining a child’s need for further evaluation or assessment or for referral for other substance abuse services through means such as psychosocial interviews; urine and breathalyzer screenings; and reviews of available educational, delinquency, and dependency records of the child.</Text>
+		</Subsection>
+		<Subsection Id="43">
+			<Text xml:space="preserve" Style="Intro">“Preventive services” means social services and other supportive and rehabilitative services provided to the parent of the child, the legal guardian of the child, or the custodian of the child and to the child for the purpose of averting the removal of the child from the home or disruption of a family which will or could result in an adjudication that orders the placement of a child into foster care or into the delinquency system or that will or could result in the child living on the street. Social services and other supportive and rehabilitative services may include the provision of assessment and screening services; individual, group, or family counseling; specialized educational and vocational services; temporary shelter for the child; outreach services for children living on the street; independent living services to assist adolescents in achieving a successful transition to adulthood; and other specialized services.</Text>
+		</Subsection>
+		<Subsection Id="44">
+			<Text xml:space="preserve" Style="Intro">“Protective supervision” means a legal status in child-in-need-of-services cases or family-in-need-of-services cases which permits the child to remain in his or her own home or other placement under the supervision of an agent of the Department of Juvenile Justice or the Department of Children and Family Services, subject to being returned to the court during the period of supervision.</Text>
+		</Subsection>
+		<Subsection Id="45">
+			<Text xml:space="preserve" Style="Intro">“Relative” means a grandparent, great-grandparent, sibling, first cousin, aunt, uncle, great-aunt, great-uncle, niece, or nephew, whether related by the whole or half blood, by affinity, or by adoption. The term does not include a stepparent.</Text>
+		</Subsection>
+		<Subsection Id="46">
+			<Text xml:space="preserve" Style="Intro">“Reunification services” means social services and other supportive and rehabilitative services provided to the parent of the child, the legal guardian of the child, or the custodian of the child, whichever is applicable; the child; and, where appropriate, the foster parents of the child for the purpose of enabling a child who has been placed in temporary shelter care to return to his or her family at the earliest possible time. Social services and other supportive and rehabilitative services shall be consistent with the child’s need for a safe, continuous, and stable living environment and shall promote the strengthening of family life whenever possible.</Text>
+		</Subsection>
+		<Subsection Id="47">
+			<Text xml:space="preserve" Style="Intro">“Secure detention center or facility” means a physically restricting facility for the temporary care of children, pending adjudication, disposition, or placement.</Text>
+		</Subsection>
+		<Subsection Id="48">
+			<Text xml:space="preserve" Style="Intro">“Shelter” means a place for the temporary care of a child who is alleged to be or who has been found to be dependent, a child from a family in need of services, or a child in need of services, pending court disposition before or after adjudication or after execution of a court order. “Shelter” may include a facility which provides 24-hour continual supervision for the temporary care of a child who is placed pursuant to s. 984.14.</Text>
+		</Subsection>
+		<Subsection Id="49">
+			<Text xml:space="preserve" Style="Intro">“Shelter hearing” means a hearing provided for under s. 984.14 in family-in-need-of-services cases or child-in-need-of-services cases.</Text>
+		</Subsection>
+		<Subsection Id="50">
+			<Text xml:space="preserve" Style="Intro">“Staff-secure shelter” means a facility in which a child is supervised 24 hours a day by staff members who are awake while on duty. The facility is for the temporary care and assessment of a child who has been found to be dependent, who has violated a court order and been found in contempt of court, or whom the Department of Children and Family Services is unable to properly assess or place for assistance within the continuum of services provided for dependent children.</Text>
+		</Subsection>
+		<Subsection Id="51">
+			<Text xml:space="preserve" Style="Intro">“Substance abuse” means using, without medical reason, any psychoactive or mood-altering drug, including alcohol, in such a manner as to induce impairment resulting in dysfunctional social behavior.</Text>
+		</Subsection>
+		<Subsection Id="52">
+			<Text xml:space="preserve" Style="Intro">“Taken into custody” means the status of a child immediately when temporary physical control over the child is attained by a person authorized by law, pending the child’s release, detention, placement, or other disposition as authorized by law.</Text>
+		</Subsection>
+		<Subsection Id="53">
+			<Text xml:space="preserve" Style="Intro">“Temporary legal custody” means the relationship that a juvenile court creates between a child and an adult relative of the child, adult nonrelative approved by the court, or other person until a more permanent arrangement is ordered. Temporary legal custody confers upon the custodian the right to have temporary physical custody of the child and the right and duty to protect, train, and discipline the child and to provide the child with food, shelter, and education, and ordinary medical, dental, psychiatric, and psychological care, unless these rights and duties are otherwise enlarged or limited by the court order establishing the temporary legal custody relationship.</Text>
+		</Subsection>
+		<Subsection Id="54">
+			<Text xml:space="preserve" Style="Intro">“Truancy petition” means a petition filed by the superintendent of schools alleging that a student subject to compulsory school attendance has had at least five unexcused absences, or absences for which the reasons are unknown, within a calendar month or 10 unexcused absences, or absences for which the reasons are unknown, within a 90-calendar-day period, or has had more than 15 unexcused absences in a 90-calendar-day period. A truancy petition is filed and processed under s. 984.151.</Text>
+		</Subsection>
+		<Subsection Id="55">
+			<Text xml:space="preserve" Style="Intro">“Violation of law” or “delinquent act” means a violation of any law of this state, the United States, or any other state which is a misdemeanor or a felony or a violation of a county or municipal ordinance which would be punishable by incarceration if the violation were committed by an adult.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 97-234; s. 89, ch. 97-238; s. 1, ch. 97-276; s. 12, ch. 98-49; s. 235, ch. 98-166; s. 6, ch. 98-207; s. 64, ch. 98-280; s. 165, ch. 98-403; s. 126, ch. 99-3; s. 8, ch. 99-284; s. 74, ch. 99-398; s. 13, ch. 2000-135; s. 22, ch. 2000-235; s. 149, ch. 2000-318; s. 34, ch. 2001-3; s. 35, ch. 2001-64; s. 1046, ch. 2002-387; s. 123, ch. 2006-120; s. 29, ch. 2008-238; s. 89, ch. 2012-5; s. 1, ch. 2012-56.</History>
+</Section>

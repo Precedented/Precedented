@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0960.065" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Eligibility for awards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Except as provided in subsection (2), the following persons shall be eligible for awards pursuant to this chapter:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A victim.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An intervenor.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A surviving spouse, parent or guardian, sibling, or child of a deceased victim or intervenor.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any other person who is dependent for his or her principal support upon a deceased victim or intervenor.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Any claim filed by or on behalf of a person who:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Committed or aided in the commission of the crime upon which the claim for compensation was based;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Was engaged in an unlawful activity at the time of the crime upon which the claim for compensation is based;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Was in custody or confined, regardless of conviction, in a county or municipal detention facility, a state or federal correctional facility, or a juvenile detention or commitment facility at the time of the crime upon which the claim for compensation is based;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has been adjudicated as a habitual felony offender, habitual violent offender, or violent career criminal under s. 775.084; or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Has been adjudicated guilty of a forcible felony offense as described in s. 776.08,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">is ineligible for an award.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any claim filed by or on behalf of a person who was in custody or confined, regardless of adjudication, in a county or municipal facility, a state or federal correctional facility, or a juvenile detention, commitment, or assessment facility at the time of the crime upon which the claim is based, who has been adjudicated as a habitual felony offender under s. 775.084, or who has been adjudicated guilty of a forcible felony offense as described in s. 776.08 renders the person ineligible for an award. Notwithstanding the foregoing, upon a finding by the Crime Victims’ Services Office of the existence of mitigating or special circumstances that would render such a disqualification unjust, an award may be approved. A decision that mitigating or special circumstances do not exist in a case subject to this section does not constitute final agency action subject to review pursuant to ss. 120.569 and 120.57.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Payment may not be made under this chapter if the person who committed the crime upon which the claim is based will receive any direct or indirect financial benefit from such payment, unless such benefit is minimal or inconsequential. Payment may not be denied based on the victim’s familial relationship to the offender or based upon the sharing of a residence by the victim and offender, except to prevent unjust enrichment of the offender.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A person is not ineligible for an award pursuant to paragraph (2)(a), paragraph (2)(b), or paragraph (2)(c) if that person is a victim of sexual exploitation of a child as defined in s. 39.01(67)(g).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-452; s. 1, ch. 79-297; s. 4, ch. 80-146; s. 2, ch. 85-326; s. 10, ch. 90-211; s. 7, ch. 92-107; s. 1711, ch. 97-102; s. 4, ch. 99-373; s. 34, ch. 2001-64; s. 8, ch. 2012-105.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 960.04.</Text>
+	</Note>
+</Section>

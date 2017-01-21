@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0751.05" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Order granting temporary or concurrent custody.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">At the hearing on the petition for temporary or concurrent custody, the court must hear the evidence concerning a minor child’s need for care by the petitioner, all other matters required to be set forth in the petition, and the objections or other testimony of the child’s parents, if present.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Unless the minor child’s parents object, the court shall award temporary or concurrent custody of the child to the petitioner if it is in the best interest of the child.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If one of the minor child’s parents objects to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The petition for concurrent custody, in writing, the court may not grant the petition even if the other parent consents, in writing, to the entry of the order. The court shall give the petitioner the option of converting the petition to a petition for temporary custody. If the petitioner so elects, the court shall set the matter for further hearing, provide notice to the parent or parents, and proceed pursuant to paragraph (b). If the petition is not converted into a petition for temporary custody, it shall be dismissed without prejudice.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The petition for temporary custody, the court shall grant the petition only upon a finding, by clear and convincing evidence, that the child’s parent or parents are unfit to provide for the care and control of the child. In determining that a parent is unfit, the court must find that the parent has abused, abandoned, or neglected the child, as defined in chapter 39.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The order granting:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Concurrent custody of the minor child may not eliminate or diminish the custodial rights of the child’s parent or parents. The order must expressly state that the grant of custody does not affect the ability of the child’s parent or parents to obtain physical custody of the child at any time.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Temporary custody of the minor child to the petitioner may also grant visitation rights to the child’s parent or parents, if it is in the best interest of the child.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The order granting temporary or concurrent custody of the minor child to the petitioner:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">May not include an order for the support of the child unless the parent has received personal or substituted service of process, the petition requests an order for the support of the child, and there is evidence of the parent’s ability to pay the support ordered.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"> May redirect all or part of an existing child support obligation to be paid to the extended family member who is granted temporary or concurrent custody of the child. If the court redirects an existing child support obligation, the order granting temporary or concurrent custody must include, if possible, the determination of arrearages owed to the obligee and the person awarded temporary or concurrent custody and must order payment of the arrearages. The clerk of the circuit court in which the order is entered shall transmit a certified copy to the court originally entering the child support order. The temporary or concurrent custody order shall be recorded and filed in the original action in which child support was determined and become a part thereof. A copy of the temporary or concurrent custody order shall also be filed with the depository that serves as the official recordkeeper for support payments due under the support order. The depository must maintain separate accounts and separate account numbers for individual obligees.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">At any time, either or both of the child’s parents may petition the court to modify or terminate the order granting temporary custody. The court shall terminate the order upon a finding that the parent is a fit parent, or by consent of the parties. The court may modify an order granting temporary custody if the parties consent or if modification is in the best interest of the child.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">At any time, the petitioner or either or both of the child’s parents may move the court to terminate the order granting concurrent custody. The court shall terminate the order upon a finding that either or both of the child’s parents object to the order. The fact that an order for concurrent custody has been terminated does not preclude any person who is otherwise eligible to petition for temporary custody from filing such petition.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">At any time, the petitioner or either or both of the child’s parents may move the court to modify the existing child support order pursuant to chapter 61. The court may modify an existing order granting child support if the parties consent and if modification is in the best interest of the child. Any order modifying child support in a concurrent custody proceeding shall be copied and placed in the related family court files.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 93-104; s. 5, ch. 2006-167; s. 7, ch. 2010-30.</History>
+</Section>

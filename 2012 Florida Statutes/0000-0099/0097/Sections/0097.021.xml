@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0097.021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">For the purposes of this code, except where the context clearly indicates otherwise, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Absent elector” means any registered and qualified voter who casts an absentee ballot.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Absent uniformed services voter” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A member of a uniformed service on active duty who, by reason of such active duty, is absent from the place of residence where the member is otherwise qualified to vote;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A member of the merchant marine who, by reason of service in the merchant marine, is absent from the place of residence where the member is otherwise qualified to vote; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A spouse or dependent of a member referred to in paragraph (a) or paragraph (b) who, by reason of the active duty or service of the member, is absent from the place of residence where the spouse or dependent is otherwise qualified to vote.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Alternative formats” has the meaning ascribed in the Americans with Disabilities Act of 1990, Pub. L. No. 101-336, 42 U.S.C. ss. 12101 et seq., including specifically the technical assistance manuals promulgated thereunder, as amended.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Ballot” or “official ballot” when used in reference to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Marksense ballots” means that printed sheet of paper, used in conjunction with an electronic or electromechanical vote tabulation voting system, containing the names of candidates, or a statement of proposed constitutional amendments or other questions or propositions submitted to the electorate at any election, on which sheet of paper an elector casts his or her vote.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Electronic or electromechanical devices” means a ballot that is voted by the process of electronically designating, including by touchscreen, or marking with a marking device for tabulation by automatic tabulating equipment or data processing equipment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Candidate” means any person to whom any one or more of the following applies:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any person who seeks to qualify for nomination or election by means of the petitioning process.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any person who seeks to qualify for election as a write-in candidate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person who receives contributions or makes expenditures, or gives his or her consent for any other person to receive contributions or make expenditures, with a view to bringing about his or her nomination or election to, or retention in, public office.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person who appoints a treasurer and designates a primary depository.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Any person who files qualification papers and subscribes to a candidate’s oath as required by law.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, this definition does not include any candidate for a political party executive committee.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of State.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Division” means the Division of Elections of the Department of State.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Early voting” means casting a ballot prior to election day at a location designated by the supervisor of elections and depositing the voted ballot in the tabulation system.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Early voting area” means the area designated by the supervisor of elections at an early voting site at which early voting activities occur, including, but not limited to, lines of voters waiting to be processed, the area where voters check in and are processed, and the area where voters cast their ballots.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Early voting site” means those locations specified in s. 101.657 and the building in which early voting occurs.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Election” means any primary election, special primary election, special election, general election, or presidential preference primary election.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Election board” means the clerk and inspectors appointed to conduct an election.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Election costs” shall include, but not be limited to, expenditures for all paper supplies such as envelopes, instructions to voters, affidavits, reports, ballot cards, ballot booklets for absentee voters, postage, notices to voters; advertisements for registration book closings, testing of voting equipment, sample ballots, and polling places; forms used to qualify candidates; polling site rental and equipment delivery and pickup; data processing time and supplies; election records retention; and labor costs, including those costs uniquely associated with absentee ballot preparation, poll workers, and election night canvass.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Elector” is synonymous with the word “voter” or “qualified elector or voter,” except where the word is used to describe presidential electors.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“General election” means an election held on the first Tuesday after the first Monday in November in the even-numbered years, for the purpose of filling national, state, county, and district offices and for voting on constitutional amendments not otherwise provided for by law.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Lists of registered electors” means names and associated information of registered electors maintained by the department in the statewide voter registration system or generated or derived from the statewide voter registration system. Lists may be produced in printed or electronic format.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Member of the Merchant Marine” means an individual, other than a member of a uniformed service or an individual employed, enrolled, or maintained on the Great Lakes for the inland waterways, who is:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Employed as an officer or crew member of a vessel documented under the laws of the United States, a vessel owned by the United States, or a vessel of foreign-flag registry under charter to or control of the United States; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Enrolled with the United States for employment or training for employment, or maintained by the United States for emergency relief service, as an officer or crew member of such vessel.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Minor political party” is any group as specified in s. 103.095 which on January 1 preceding a primary election does not have registered as members 5 percent of the total registered electors of the state.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Newspaper of general circulation” means a newspaper printed in the language most commonly spoken in the area within which it circulates and which is readily available for purchase by all inhabitants in the area of circulation, but does not include a newspaper intended primarily for members of a particular professional or occupational group, a newspaper the primary function of which is to carry legal notices, or a newspaper that is given away primarily to distribute advertising.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Nominal value” means having a retail value of $10 or less.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Nonpartisan office” means an office for which a candidate is prohibited from campaigning or qualifying for election or retention in office based on party affiliation.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Office that serves persons with disabilities” means any state office that takes applications either in person or over the telephone from persons with disabilities for any program, service, or benefit primarily related to their disabilities.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Overseas voter” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An absent uniformed services voter who, by reason of active duty or service, is absent from the United States on the date of the election involved;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person who resides outside the United States and is qualified to vote in the last place in which the person was domiciled before leaving the United States; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A person who resides outside the United States and, but for such residence, would be qualified to vote in the last place in which the person was domiciled before leaving the United States.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Overvote” means that the elector marks or designates more names than there are persons to be elected to an office or designates more than one answer to a ballot question, and the tabulator records no vote for the office or question.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Persons with disabilities” means individuals who have a physical or mental impairment that substantially limits one or more major life activities.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Polling place” is the building which contains the polling room where ballots are cast.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Polling room” means the actual room in which ballots are cast on election day and during early voting.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Primary election” means an election held preceding the general election for the purpose of nominating a party nominee to be voted for in the general election to fill a national, state, county, or district office.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Provisional ballot” means a conditional ballot, the validity of which is determined by the canvassing board.</Text>
+		</Subsection>
+		<Subsection Id="30">
+			<Text xml:space="preserve" Style="Intro">“Public assistance” means assistance provided through the food assistance program under the federal Supplemental Nutrition Assistance Program; the Medicaid program; the Special Supplemental Food Program for Women, Infants, and Children; and the Temporary Cash Assistance Program.</Text>
+		</Subsection>
+		<Subsection Id="31">
+			<Text xml:space="preserve" Style="Intro">“Public office” means any federal, state, county, municipal, school, or other district office or position which is filled by vote of the electors.</Text>
+		</Subsection>
+		<Subsection Id="32">
+			<Text xml:space="preserve" Style="Intro">“Qualifying educational institution” means any public or private educational institution receiving state financial assistance which has, as its primary mission, the provision of education or training to students who are at least 18 years of age, provided such institution has more than 200 students enrolled in classes with the institution and provided that the recognized student government organization has requested this designation in writing and has filed the request with the office of the supervisor of elections in the county in which the institution is located.</Text>
+		</Subsection>
+		<Subsection Id="33">
+			<Text xml:space="preserve" Style="Intro">“Special election” is a special election called for the purpose of voting on a party nominee to fill a vacancy in the national, state, county, or district office.</Text>
+		</Subsection>
+		<Subsection Id="34">
+			<Text xml:space="preserve" Style="Intro">“Special primary election” is a special nomination election designated by the Governor, called for the purpose of nominating a party nominee to be voted on in a general or special election.</Text>
+		</Subsection>
+		<Subsection Id="35">
+			<Text xml:space="preserve" Style="Intro">“Supervisor” means the supervisor of elections.</Text>
+		</Subsection>
+		<Subsection Id="36">
+			<Text xml:space="preserve" Style="Intro">“Tactile input device” means a device that provides information to a voting system by means of a voter touching the device, such as a keyboard, and that complies with the requirements of s. 101.56062(1)(k) and (l).</Text>
+		</Subsection>
+		<Subsection Id="37">
+			<Text xml:space="preserve" Style="Intro">“Third-party registration organization” means any person, entity, or organization soliciting or collecting voter registration applications. A third-party voter registration organization does not include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person who seeks only to register to vote or collect voter registration applications from that person’s spouse, child, or parent; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person engaged in registering to vote or collecting voter registration applications as an employee or agent of the division, supervisor of elections, Department of Highway Safety and Motor Vehicles, or a voter registration agency.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="38">
+			<Text xml:space="preserve" Style="Intro">“Undervote” means that the elector does not properly designate any choice for an office or ballot question, and the tabulator records no vote for the office or question.</Text>
+		</Subsection>
+		<Subsection Id="39">
+			<Text xml:space="preserve" Style="Intro">“Uniformed services” means the Army, Navy, Air Force, Marine Corps, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.</Text>
+		</Subsection>
+		<Subsection Id="40">
+			<Text xml:space="preserve" Style="Intro">“Voter interface device” means any device that communicates voting instructions and ballot information to a voter and allows the voter to select and vote for candidates and issues.</Text>
+		</Subsection>
+		<Subsection Id="41">
+			<Text xml:space="preserve" Style="Intro">“Voter registration agency” means any office that provides public assistance, any office that serves persons with disabilities, any center for independent living, or any public library.</Text>
+		</Subsection>
+		<Subsection Id="42">
+			<Text xml:space="preserve" Style="Intro">“Voter registration official” means any supervisor of elections or individual authorized by the Secretary of State to accept voter registration applications and execute updates to the statewide voter registration system.</Text>
+		</Subsection>
+		<Subsection Id="43">
+			<Text xml:space="preserve" Style="Intro">“Voting booth” or “booth” means that booth or enclosure wherein an elector casts his or her ballot for tabulation by an electronic or electromechanical device.</Text>
+		</Subsection>
+		<Subsection Id="44">
+			<Text xml:space="preserve" Style="Intro">“Voting system” means a method of casting and processing votes that functions wholly or partly by use of electromechanical or electronic apparatus or by use of marksense ballots and includes, but is not limited to, the procedures for casting and processing votes and the programs, operating manuals, supplies, printouts, and other software necessary for the system’s operation.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 6469, 1913; RGS 300; s. 1, ch. 8582, 1921; CGL 356; s. 1, ch. 13761, 1929; s. 1, ch. 18060, 1937; s. 1, ch. 19663, 1939; s. 1, ch. 26870, 1951; s. 1, ch. 28156, 1953; s. 1, ch. 61-370; s. 2, ch. 65-60; s. 1, ch. 67-32; s. 2, ch. 67-142; s. 2, ch. 67-386; s. 1, ch. 69-137; s. 1, ch. 69-280; s. 1, ch. 69-377; s. 1, ch. 70-269; s. 1, ch. 70-439; s. 1, ch. 71-206; s. 1, ch. 73-157; s. 31, ch. 73-333; s. 23, ch. 77-104; s. 1, ch. 77-175; s. 1, ch. 79-157; s. 24, ch. 79-400; s. 1, ch. 81-105; s. 15, ch. 82-143; s. 22, ch. 84-302; s. 1, ch. 87-184; ss. 5, 12, ch. 87-363; s. 1, ch. 89-338; s. 3, ch. 89-348; s. 2, ch. 90-315; s. 3, ch. 94-224; s. 1382, ch. 95-147; s. 1, ch. 96-57; s. 54, ch. 96-175; s. 1, ch. 96-327; s. 35, ch. 97-13; s. 3, ch. 98-129; ss. 2, 34, ch. 2001-40; s. 4, ch. 2002-281; s. 2, ch. 2003-415; s. 9, ch. 2004-252; s. 2, ch. 2005-277; s. 2, ch. 2005-278; s. 2, ch. 2005-286; s. 1, ch. 2007-30; s. 2, ch. 2010-167; s. 1, ch. 2010-209; s. 2, ch. 2011-40.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 102.02.</Text>
+	</Note>
+</Section>

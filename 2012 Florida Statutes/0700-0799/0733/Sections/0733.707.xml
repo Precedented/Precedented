@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0733.707" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Order of payment of expenses and obligations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The personal representative shall pay the expenses of the administration and obligations of the decedent’s estate in the following order:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 1.</Font><EmDash />Costs, expenses of administration, and compensation of personal representatives and their attorneys fees and attorneys fees awarded under s. 733.106(3).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 2.</Font><EmDash />Reasonable funeral, interment, and grave marker expenses, whether paid by a guardian, the personal representative, or any other person, not to exceed the aggregate of $6,000.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 3.</Font><EmDash />Debts and taxes with preference under federal law, claims pursuant to ss. 409.9101 and 414.28, and claims in favor of the state for unpaid court costs, fees, or fines.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 4.</Font><EmDash />Reasonable and necessary medical and hospital expenses of the last 60 days of the last illness of the decedent, including compensation of persons attending the decedent.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 5.</Font><EmDash />Family allowance.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 6.</Font><EmDash />Arrearage from court-ordered child support.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 7.</Font><EmDash />Debts acquired after death by the continuation of the decedent’s business, in accordance with s. 733.612(22), but only to the extent of the assets of that business.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Class 8.</Font><EmDash />All other claims, including those founded on judgments or decrees rendered against the decedent during the decedent’s lifetime, and any excess over the sums allowed in paragraphs (b) and (d).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">After paying any preceding class, if the estate is insufficient to pay all of the next succeeding class, the creditors of the latter class shall be paid ratably in proportion to their respective claims.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any portion of a trust with respect to which a decedent who is the grantor has at the decedent’s death a right of revocation, as defined in paragraph (e), either alone or in conjunction with any other person, is liable for the expenses of the administration and obligations of the decedent’s estate to the extent the decedent’s estate is insufficient to pay them as provided in ss. 733.607(2) and 736.05053.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, any trusts established as part of, and all payments from, either an employee annuity described in s. 403 of the Internal Revenue Code of 1986, as amended, an Individual Retirement Account, as described in s. 408 of the Internal Revenue Code of 1986, as amended, a Keogh (HR-10) Plan, or a retirement or other plan established by a corporation which is qualified under s. 401 of the Internal Revenue Code of 1986, as amended, shall not be considered a trust over which the decedent has a right of revocation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, any trust described in s. 664 of the Internal Revenue Code of 1986, as amended, shall not be considered a trust over which the decedent has a right of revocation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection shall not impair any rights an individual has under a qualified domestic relations order as that term is defined in s. 414(p) of the Internal Revenue Code of 1986, as amended.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, property held or received by a trust to the extent that the property would not have been subject to claims against the decedent’s estate if it had been paid directly to a trust created under the decedent’s will or other than to the decedent’s estate, or assets received from any trust other than a trust described in this subsection, shall not be deemed assets of the trust available to the decedent’s estate.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">For purposes of this subsection, a “right of revocation” is a power retained by the decedent, held in any capacity, to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Amend or revoke the trust and revest the principal of the trust in the decedent; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Withdraw or appoint the principal of the trust to or for the decedent’s benefit.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-106; s. 86, ch. 75-220; s. 35, ch. 77-87; s. 7, ch. 85-79; s. 69, ch. 87-226; s. 20, ch. 93-208; s. 11, ch. 93-257; s. 10, ch. 95-401; s. 1018, ch. 97-102; s. 3, ch. 97-240; s. 150, ch. 2001-226; s. 2, ch. 2010-122; s. 17, ch. 2012-100.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Created from former s. 733.20.</Text>
+	</Note>
+</Section>

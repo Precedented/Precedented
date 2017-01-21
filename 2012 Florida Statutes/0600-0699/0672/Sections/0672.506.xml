@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0672.506" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rights of financing agency.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A financing agency by paying or purchasing for value a draft which relates to a shipment of goods acquires to the extent of the payment or purchase and in addition to its own rights under the draft and any document of title securing it any rights of the shipper in the goods including the right to stop delivery and the shipper’s right to have the draft honored by the buyer.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The right to reimbursement of a financing agency which has in good faith honored or purchased the draft under commitment to or authority from the buyer is not impaired by subsequent discovery of defects with reference to any relevant document which was apparently regular.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 12, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 2-506, U.C.C.</Text>
+	</Note>
+</Section>

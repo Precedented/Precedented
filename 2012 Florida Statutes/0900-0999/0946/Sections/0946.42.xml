@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0946.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Use of inmates on private property.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department may allow inmates who meet the criteria provided in s. 946.40 to enter onto private property to perform public works or for the following purposes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To accept and collect donations for the use and benefit of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To assist federal, state, local, and private agencies before, during, and after emergencies or disasters.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Disaster” means any natural, technological, or civil emergency that causes damage of sufficient severity and magnitude to result in a declaration of a state of emergency by a county, the Governor, or the President of the United States.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Donations” means gifts of tangible personal property and includes equipment, fixtures, construction materials, food items, and other tangible personal property of a consumable or nonconsumable nature.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Emergency” means any occurrence or threat of an occurrence, whether natural, technological, or manmade, in war or in peace, that results or may result in substantial injury or harm to the population or substantial damage to or loss of property.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 2010-64.</History>
+</Section>

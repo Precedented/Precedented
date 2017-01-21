@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0916.12" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mental competence to proceed.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A defendant is incompetent to proceed within the meaning of this chapter if the defendant does not have sufficient present ability to consult with her or his lawyer with a reasonable degree of rational understanding or if the defendant has no rational, as well as factual, understanding of the proceedings against her or him.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Mental health experts appointed pursuant to s. 916.115 shall first determine whether the defendant has a mental illness and, if so, consider the factors related to the issue of whether the defendant meets the criteria for competence to proceed as described in subsection (1). A defendant must be evaluated by no fewer than two experts before the court commits the defendant or takes other action authorized by this chapter or the Florida Rules of Criminal Procedure, except if one expert finds that the defendant is incompetent to proceed and the parties stipulate to that finding, the court may commit the defendant or take other action authorized by this chapter or the rules without further evaluation or hearing, or the court may appoint no more than two additional experts to evaluate the defendant. Notwithstanding any stipulation by the state and the defendant, the court may require a hearing with testimony from the expert or experts before ordering the commitment of a defendant.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In considering the issue of competence to proceed, an examining expert shall first consider and specifically include in his or her report the defendant’s capacity to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Appreciate the charges or allegations against the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Appreciate the range and nature of possible penalties, if applicable, that may be imposed in the proceedings against the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Understand the adversarial nature of the legal process.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Disclose to counsel facts pertinent to the proceedings at issue.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Manifest appropriate courtroom behavior.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Testify relevantly.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion" SpaceAbove="true">In addition, an examining expert shall consider and include in his or her report any other factor deemed relevant by the expert.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If an expert finds that the defendant is incompetent to proceed, the expert shall report on any recommended treatment for the defendant to attain competence to proceed. In considering the issues relating to treatment, the examining expert shall specifically report on:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The mental illness causing the incompetence;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The treatment or treatments appropriate for the mental illness of the defendant and an explanation of each of the possible treatment alternatives in order of choices;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The availability of acceptable treatment and, if treatment is available in the community, the expert shall so state in the report; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The likelihood of the defendant’s attaining competence under the treatment recommended, an assessment of the probable duration of the treatment required to restore competence, and the probability that the defendant will attain competence to proceed in the foreseeable future.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A defendant who, because of psychotropic medication, is able to understand the nature of proceedings and assist in the defendant’s own defense shall not automatically be deemed incompetent to proceed simply because the defendant’s satisfactory mental functioning is dependent upon such medication. As used in this subsection, “psychotropic medication” means any drug or compound used to treat mental or emotional disorders affecting the mind, behavior, intellectual functions, perception, moods, or emotions and includes antipsychotic, antidepressant, antimanic, and antianxiety drugs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 80-75; s. 1529, ch. 97-102; s. 15, ch. 98-92; s. 59, ch. 2005-236; s. 11, ch. 2006-195; s. 21, ch. 2010-117.</History>
+</Section>

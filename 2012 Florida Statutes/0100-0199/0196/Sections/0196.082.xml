@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0196.082" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Discounts for disabled veterans.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each veteran who is age 65 or older and is partially or totally permanently disabled shall receive a discount from the amount of the ad valorem tax otherwise owed on homestead property that the veteran owns and resides in if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The disability was combat-related;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The veteran was a resident of this state at the time of entering the military service of the United States; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The veteran was honorably discharged upon separation from military service.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The discount shall be in a percentage equal to the percentage of the veteran’s permanent, service-connected disability as determined by the United States Department of Veterans Affairs.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">To qualify for the discount granted under this section, an applicant must submit to the county property appraiser by March 1:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Proof of residency at the time of entering military service;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An official letter from the United States Department of Veterans Affairs which states the percentage of the veteran’s service-connected disability and evidence that reasonably identifies the disability as combat-related;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A copy of the veteran’s honorable discharge; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Proof of age as of January 1 of the year to which the discount will apply.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Any applicant who is qualified to receive a discount under this section and who fails to file an application by March 1 may file an application for the discount and may file, pursuant to s. 194.011(3), a petition with the value adjustment board requesting that the discount be granted. Such application and petition shall be subject to the same procedures as for exemptions set forth in s. 196.011(8).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the property appraiser denies the request for a discount, the appraiser must notify the applicant in writing, stating the reasons for denial, on or before July 1 of the year for which the application was filed. The applicant may reapply for the discount in a subsequent year using the procedure in this section. All notifications must specify the right to appeal to the value adjustment board and the procedures to follow in obtaining such an appeal under s. 196.193(5).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The property appraiser shall apply the discount by reducing the taxable value before certifying the tax roll to the tax collector.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The property appraiser shall first ascertain all other applicable exemptions, including exemptions provided pursuant to local option, and deduct all other exemptions from the assessed value.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The percentage discount portion of the remaining value which is attributable to service-connected disabilities shall be subtracted to yield the discounted taxable value.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The resulting taxable value shall be included in the certification for use by taxing authorities in setting millage.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The property appraiser shall place the discounted amount on the tax roll when it is extended.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">An applicant for the discount under this section may apply for the discount before receiving the necessary documentation from the United States Department of Veterans Affairs or its predecessor. Upon receipt of the documentation, the discount shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s. 197.182(1)(e).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2007-36; s. 20, ch. 2012-193.</History>
+</Section>

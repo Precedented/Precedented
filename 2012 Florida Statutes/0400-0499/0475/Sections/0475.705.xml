@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0475.705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Contents of commission notice; delivery to owner and closing agent.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A commission notice made by a broker with respect to a commission claimed under this part shall be in writing, shall be signed and sworn to or affirmed by the broker under penalty of perjury before a notary public, and shall include the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the owner of the commercial real estate who is obligated to pay the claimed commission.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The legal description of the commercial real estate.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The name, mailing address, telephone number, and license number of the broker.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The effective date of the brokerage agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The amount of the commission claimed by the broker, which may be stated in a dollar amount or may be stated in the form of a formula determining the amount, such as a percentage of the sales price.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A statement under penalty of perjury that the broker has read the commission notice, knows its contents, believes the same to be true and correct, and makes the commission claim pursuant to the brokerage agreement described in the notice.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">A statement that the commission notice or a copy thereof has been delivered to the owner and that the commission notice may be recorded in the public records of the county or counties where the commercial real estate is located.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A statement that this part provides that if the owner disputes the claimed commission the owner shall notify the closing agent of such dispute not later than 5 days after the closing, or the owner will be deemed to have confirmed the commission and this part will require the closing agent to pay the commission to the broker from the owner’s net proceeds from the disposition of the commercial real estate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A commission notice in substantially the following form shall be sufficient for purposes of subsection (1):</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">BROKER’S COMMISSION NOTICE UNDER<NewLine />FLORIDA COMMERCIAL REAL ESTATE<NewLine />SALES COMMISSION LIEN ACT</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Notice is hereby given pursuant to the Florida Commercial Real Estate Sales Commission Lien Act, part III of chapter 475, Florida Statutes (the “act”), that the undersigned real estate broker is entitled to receive a sales commission in the amount set forth below from the owner named below pursuant to the terms of a written brokerage commission agreement regarding the commercial real estate described below, and the undersigned broker claims a lien under the act against the owner’s net proceeds from the disposition of the commercial real estate. The act and this commission notice do not create a lien against the commercial real estate itself, but only against the owner’s net proceeds.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">1. Name of the owner who is obligated to pay the commission: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">2. Legal description of the commercial real estate: <HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">3. Name, mailing address, telephone number, and Florida broker license number of the undersigned broker: <HorizontalRule Type="Full" /><HorizontalRule Type="Full" /><HorizontalRule Type="Full" /></Text>
+			<Text xml:space="preserve" Style="Flush">4. Effective date of the written brokerage commission agreement between the owner and the broker under which the commission is or will be payable: <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="Flush">5. Amount of commission claimed by the undersigned broker:</Text>
+			<Text xml:space="preserve" Style="Flush">$<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, or<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> percent of sales price, or</Text>
+			<Text xml:space="preserve" Style="Flush">[specify other formula for determination of commission amount]:<NewLine /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="Flush">6. The undersigned broker, under penalty of perjury, hereby swears or affirms that the undersigned broker has read this commission notice, knows its contents and believes the same to be true and correct, and that the undersigned broker is making this commission claim pursuant to the written brokerage commission agreement described in this commission notice.</Text>
+			<Text xml:space="preserve" Style="Flush">7. The undersigned broker confirms that this commission notice or a copy thereof has been delivered to the owner.</Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true">Signed: <Directions xml:space="preserve">(broker)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Signed and sworn to or affirmed under penalty of perjury before me, a notary public, this <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />,<NewLine/>by <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />.</Text>
+			<Text xml:space="preserve" Style="AlignRight">Signed: <Directions xml:space="preserve">(notary public)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush">WARNING TO OWNER: The act provides that if you dispute the commission claimed in this commission notice, you must notify the closing agent of the dispute no later than 5 days after the closing. If you fail to notify the closing agent before that date that you dispute the commission, you will be deemed to have confirmed the commission and the act will require the closing agent to pay the commission to the broker from your net proceeds from the disposition of the commercial real estate.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">This commission notice may be recorded in the public records of the county or counties where the commercial real estate is located.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Subject to subsection (4), if a broker wishes to enforce a lien for a commission under this part, the broker shall, within 30 days after a commission is earned by the broker pursuant to s. 475.703(2) and at least 1 day before the closing, deliver a copy of the commission notice to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The owner of the commercial real estate specified in the brokerage agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The closing agent designated to close the transaction for the disposition of the commercial real estate, if the broker then knows the identity of the closing agent. If the identity of the closing agent thereafter becomes known to the broker, then the broker shall deliver a copy of the commission notice to the closing agent within 3 days after the broker acquires such knowledge and at least 1 day before the closing.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Except as provided in this subsection, a broker who fails to deliver a copy of a commission notice as required under subsection (3) within the period specified therein may not enforce a lien for the commission under this part. If a broker fails to deliver a copy of the commission notice within said period solely because the owner entered into a contract for the disposition of the commercial real estate without the knowledge of the broker, the broker may enforce a lien for the commission under this part if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The copy of the commission notice is delivered to the owner and the closing agent before the closing agent disburses the owner’s net proceeds to the owner.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The broker executes and delivers to the closing agent a sworn affidavit stating that the copy of the commission notice was not delivered within the time period specified in subsection (3) solely because the owner entered into a contract for the disposition of the commercial real estate without the knowledge of the broker.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">Notwithstanding the provisions of this subsection, a broker who fails to deliver a copy of a commission notice to the owner and the closing agent before the disbursement of the owner’s net proceeds may not enforce a lien for the commission under this part, and the delivery of a copy of a commission notice after such disbursement is ineffective under this part.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2005-275.</History>
+</Section>

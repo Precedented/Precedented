@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.10" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lifeline service.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier shall provide a Lifeline Assistance Plan to qualified residential subscribers, as defined in the eligible telecommunications carrier’s published schedules. For the purposes of this section, the term “eligible telecommunications carrier” means a telecommunications company, as defined by s. 364.02, which is designated as an eligible telecommunications carrier by the commission pursuant to 47 C.F.R. s. 54.201.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier shall offer a consumer who applies for or receives Lifeline service the option of blocking all toll calls or, if technically capable, placing a limit on the number of toll calls a consumer can make. The eligible telecommunications carrier may not charge the consumer an administrative charge or other additional fee for blocking the service.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may not collect a service deposit in order to initiate Lifeline service if the qualifying low-income consumer voluntarily elects toll blocking or toll limitation. If the qualifying low-income consumer elects not to place toll blocking on the line, an eligible telecommunications carrier may charge a service deposit.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may not charge Lifeline subscribers a monthly number-portability charge.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier must notify a Lifeline subscriber of impending termination of Lifeline service if the company has a reasonable basis for believing that the subscriber no longer qualifies. Notification of pending termination must be in the form of a letter that is separate from the subscriber’s bill.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier shall allow a subscriber 60 days following the date of the pending termination letter to demonstrate continued eligibility. The subscriber must present proof of continued eligibility. An eligible telecommunications carrier may transfer a subscriber off of Lifeline service, pursuant to its tariff, if the subscriber fails to demonstrate continued eligibility.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The commission shall establish procedures for such notification and termination.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier shall timely credit a consumer’s bill with the Lifeline Assistance credit as soon as practicable, but no later than 60 days following receipt of notice of eligibility from the Office of Public Counsel or proof of eligibility from the consumer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each local exchange telecommunications company that has more than 1 million access lines and that is designated as an eligible telecommunications carrier shall, and any commercial mobile radio service provider designated as an eligible telecommunications carrier pursuant to 47 U.S.C. s. 214(e) may, upon filing a notice of election to do so with the commission, provide Lifeline service to any otherwise eligible customer or potential customer who meets an income eligibility test at 150 percent or less of the federal poverty income guidelines for Lifeline customers. Such a test for eligibility must augment, rather than replace, the eligibility standards established by federal law and based on participation in certain low-income assistance programs. Each intrastate interexchange telecommunications company shall file or publish a schedule providing at a minimum the intrastate interexchange telecommunications company’s current Lifeline benefits and exemptions to Lifeline customers who meet the income eligibility test set forth in this subsection. The Office of Public Counsel shall certify and maintain claims submitted by a customer for eligibility under the income test authorized by this subsection.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each eligible telecommunications carrier subject to this subsection shall provide to each state and federal agency providing benefits to persons eligible for Lifeline service applications, brochures, pamphlets, or other materials that inform the persons of their eligibility for Lifeline, and each state agency providing the benefits shall furnish the materials to affected persons at the time they apply for benefits.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may not discontinue basic local telecommunications service to a subscriber who receives Lifeline service because of nonpayment by the subscriber of charges for nonbasic services billed by the telecommunications company, including long-distance service. A subscriber who receives Lifeline service shall pay all applicable basic local telecommunications service fees, including the subscriber line charge, E-911, telephone relay system charges, and applicable state and federal taxes.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may not refuse to connect, reconnect, or provide Lifeline service because of unpaid toll charges or nonbasic charges other than basic local telecommunications service.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may require that payment arrangements be made for outstanding debt associated with basic local telecommunications service, subscriber line charges, E-911, telephone relay system charges, and applicable state and federal taxes.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">An eligible telecommunications carrier may block a Lifeline service subscriber’s access to all long-distance service, except for toll-free numbers, and may block the ability to accept collect calls when the subscriber owes an outstanding amount for long-distance service or amounts resulting from collect calls. However, the eligible telecommunications carrier may not impose a charge for blocking long-distance service. The eligible telecommunications carrier shall remove the block at the request of the subscriber without additional cost to the subscriber upon payment of the outstanding amount. An eligible telecommunications carrier may charge a service deposit before removing the block.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2010, each state agency that provides benefits to persons eligible for Lifeline service shall undertake, in cooperation with the Department of Children and Family Services, the Department of Education, the commission, the Office of Public Counsel, and telecommunications companies designated eligible telecommunications carriers providing Lifeline services, the development of procedures to promote Lifeline participation. The departments, the commission, and the Office of Public Counsel may exchange sufficient information with the appropriate eligible telecommunications carriers and any commercial mobile radio service provider electing to provide Lifeline service under paragraph (a), such as a person’s name, date of birth, service address, and telephone number, so that the carriers can identify and enroll an eligible person in the Lifeline and Link-Up programs. The information remains confidential pursuant to s. 364.107 and may only be used for purposes of determining eligibility and enrollment in the Lifeline and Link-Up programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If any state agency determines that a person is eligible for Lifeline services, the agency shall immediately forward the information to the commission to ensure that the person is automatically enrolled in the program with the appropriate eligible telecommunications carrier. The state agency shall include an option for an eligible customer to choose not to subscribe to the Lifeline service. The Public Service Commission and the Department of Children and Family Services shall, no later than December 31, 2007, adopt rules creating procedures to automatically enroll eligible customers in Lifeline service.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">By December 31, 2010, the commission, the Department of Children and Family Services, the Office of Public Counsel, and each eligible telecommunications carrier offering Lifeline and Link-Up services shall convene a Lifeline Workgroup to discuss how the eligible subscriber information in subparagraph 1. will be shared, the obligations of each party with respect to the use of that information, and the procedures to be implemented to increase enrollment and verify eligibility in these programs.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The commission shall report to the Governor, the President of the Senate, and the Speaker of the House of Representatives by December 31 each year on the number of customers who are subscribing to Lifeline service and the effectiveness of any procedures to promote participation.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The commission may undertake appropriate measures to inform low-income consumers of the availability of the Lifeline and Link-Up programs.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The commission shall adopt rules to administer this section.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 6525, 1913; RGS 4402; CGL 6366; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 12, 32, ch. 80-36; s. 2, ch. 81-318; ss. 6, 7, ch. 89-163; ss. 17, 48, 49, ch. 90-244; s. 4, ch. 91-429; s. 13, ch. 95-403; s. 10, ch. 2003-32; s. 16, ch. 2005-132; s. 11, ch. 2007-29; s. 9, ch. 2009-226; s. 1, ch. 2010-190; s. 20, ch. 2011-36.</History>
+</Section>

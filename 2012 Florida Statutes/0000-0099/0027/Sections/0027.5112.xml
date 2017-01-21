@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0027.5112" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Electronic filing and receipt of court documents.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each office of the public defender shall electronically file court documents with the clerk of the court and receive court documents from the clerk of the court. It is the expectation of the Legislature that the electronic filing and receipt of court documents will reduce costs for the office of the public defender, the clerk of the court, and the judiciary; will increase timeliness in the processing of cases; and will provide the judiciary and the clerk of the court with case-related information to allow for improved judicial case management.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">As used in this section, the term “court documents” includes, but is not limited to, pleadings, motions, briefs, and their respective attachments, orders, judgments, opinions, decrees, and transcripts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">It is further the expectation of the Legislature that, in developing the capability and implementing the process, each office of the public defender consult with the office of the state attorney for the same circuit served by the office of the public defender, the clerks of court for the circuit, the Florida Court Technology Commission, and any authority that governs the operation of a statewide portal for the electronic filing and receipt of court documents.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Florida Public Defender Association shall file a report with the President of the Senate and the Speaker of the House of Representatives by March 1, 2012, describing the progress that each office of the public defender has made to use the Florida Courts E-Portal or, if the case type is not approved for the Florida Courts E-Portal, separate clerks’ offices portals for purposes of electronic filing and documenting receipt of court documents. For any office of the public defender that has not fully implemented an electronic filing and receipt system by March 1, 2012, the report must also include a description of the additional activities that are needed to complete the system for that office and the projected time necessary to complete the additional activities.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2011-208.</History>
+</Section>

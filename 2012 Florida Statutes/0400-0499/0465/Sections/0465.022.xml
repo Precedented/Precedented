@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0465.022">
+	<Catchline xml:space="preserve">Pharmacies; general requirements; fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The board shall adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this chapter. Such rules shall include, but shall not be limited to, rules relating to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">General drug safety measures.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Minimum standards for the physical facilities of pharmacies.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Safe storage of floor-stock drugs.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Functions of a pharmacist in an institutional pharmacy, consistent with the size and scope of the pharmacy.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Procedures for the safe storage and handling of radioactive drugs.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Procedures for the distribution and disposition of medicinal drugs distributed pursuant to s. 499.028.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Procedures for transfer of prescription files and medicinal drugs upon the change of ownership or closing of a pharmacy.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Minimum equipment which a pharmacy shall at all times possess to fill prescriptions properly.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Procedures for the dispensing of controlled substances to minimize dispensing based on fraudulent representations or invalid practitioner-patient relationships.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A pharmacy permit may be issued only to a natural person who is at least 18 years of age, to a partnership comprised of at least one natural person and all of whose partners are at least 18 years of age, to a governmental agency, or to a business entity that is properly registered with the Secretary of State, if required by law, and has been issued a federal employer tax identification number. Permits issued to business entities may be issued only to entities whose affiliated persons, members, partners, officers, directors, and agents, including persons required to be fingerprinted under subsection (3), are not less than 18 years of age.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any person or business entity, before engaging in the operation of a pharmacy, shall file with the board a sworn application on forms provided by the department. For purposes of this section, any person required to provide fingerprints under this subsection is an affiliated person within the meaning of s. 465.023(1).</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An application for a pharmacy permit must include a set of fingerprints from each person having an ownership interest of 5 percent or greater and from any person who, directly or indirectly, manages, oversees, or controls the operation of the applicant, including officers and members of the board of directors of an applicant that is a corporation. The applicant must provide payment in the application for the cost of state and national criminal history records checks.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">For corporations having more than $100 million of business taxable assets in this state, in lieu of these fingerprint requirements, the department shall require the prescription department manager or consultant pharmacist of record who will be directly involved in the management and operation of the pharmacy to submit a set of fingerprints.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A representative of a corporation described in subparagraph 1. satisfies the requirement to submit a set of his or her fingerprints if the fingerprints are on file with the department or the Agency for Health Care Administration, meet the fingerprint specifications for submission by the Department of Law Enforcement, and are available to the department.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall annually submit the fingerprints provided by the applicant to the Department of Law Enforcement for a state criminal history records check. The Department of Law Enforcement shall annually forward the fingerprints to the Federal Bureau of Investigation for a national criminal history records check. The department shall report the results of annual criminal history records checks to wholesale distributors permitted under chapter 499 for the purposes of s. 499.0121(15).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In addition to those documents required by the department or board, each applicant having any financial or ownership interest greater than 5 percent in the subject of the application must submit a signed affidavit disclosing any financial or ownership interest greater than 5 percent in any pharmacy permitted in the past 5 years, which pharmacy has closed voluntarily or involuntarily, has filed a voluntary relinquishment of its permit, has had its permit suspended or revoked, or has had an injunction issued against it by a regulatory agency. The affidavit must disclose the reason such entity was closed, whether voluntary or involuntary.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An application for a pharmacy permit must include the applicant’s written policies and procedures for preventing controlled substance dispensing based on fraudulent representations or invalid practitioner-patient relationships. The board must review the policies and procedures and may deny a permit if the policies and procedures are insufficient to reasonably prevent such dispensing. The department may phase in the submission and review of policies and procedures over one 18-month period beginning July 1, 2011.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department or board shall deny an application for a pharmacy permit if the applicant or an affiliated person, partner, officer, director, or prescription department manager or consultant pharmacist of record of the applicant:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Has obtained a permit by misrepresentation or fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Has attempted to procure, or has procured, a permit for any other person by making, or causing to be made, any false representation.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Has been convicted of, or entered a plea of guilty or nolo contendere to, regardless of adjudication, a crime in any jurisdiction which relates to the practice of, or the ability to practice, the profession of pharmacy.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Has been convicted of, or entered a plea of guilty or nolo contendere to, regardless of adjudication, a crime in any jurisdiction which relates to health care fraud.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Has been convicted of, or entered a plea of guilty or nolo contendere to, regardless of adjudication, a felony under chapter 409, chapter 817, or chapter 893, or a similar felony offense committed in another state or jurisdiction, since July 1, 2009.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Has been convicted of, or entered a plea of guilty or nolo contendere to, regardless of adjudication, a felony under 21 U.S.C. ss. 801-970 or 42 U.S.C. ss. 1395-1396 since July 1, 2009.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Has been terminated for cause from the Florida Medicaid program pursuant to s. 409.913, unless the applicant has been in good standing with the Florida Medicaid program for the most recent 5-year period.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Has been terminated for cause, pursuant to the appeals procedures established by the state, from any other state Medicaid program, unless the applicant has been in good standing with a state Medicaid program for the most recent 5-year period and the termination occurred at least 20 years before the date of the application.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Is currently listed on the United States Department of Health and Human Services Office of Inspector General’s List of Excluded Individuals and Entities.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Has dispensed any medicinal drug based upon a communication that purports to be a prescription as defined by s. 465.003(14) or s. 893.02 when the pharmacist knows or has reason to believe that the purported prescription is not based upon a valid practitioner-patient relationship that includes a documented patient evaluation, including history and a physical examination adequate to establish the diagnosis for which any drug is prescribed and any other requirement established by board rule under chapter 458, chapter 459, chapter 461, chapter 463, chapter 464, or chapter 466.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For felonies in which the defendant entered a plea of guilty or nolo contendere in an agreement with the court to enter a pretrial intervention or drug diversion program, the department shall deny the application if upon final resolution of the case the licensee has failed to successfully complete the program.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department or board may deny an application for a pharmacy permit if the applicant or an affiliated person, partner, officer, director, or prescription department manager or consultant pharmacist of record of the applicant has violated or failed to comply with any provision of this chapter; chapter 499, the Florida Drug and Cosmetic Act; chapter 893; 21 U.S.C. ss. 301-392, the Federal Food, Drug, and Cosmetic Act; 21 U.S.C. ss. 821 et seq., the Comprehensive Drug Abuse Prevention and Control Act; or any rules or regulations promulgated thereunder unless the violation or noncompliance is technical.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">After the application has been filed with the board and the permit fee provided in this section has been received, the board shall cause the application to be fully investigated, both as to the qualifications of the applicant and the prescription department manager or consultant pharmacist designated to be in charge and as to the premises and location described in the application.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The Board of Pharmacy shall have the authority to determine whether a bona fide transfer of ownership is present and that the sale of a pharmacy is not being accomplished for the purpose of avoiding an administrative prosecution.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Upon the completion of the investigation of an application, the board shall approve or deny the application. If approved, the permit shall be issued by the department.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">A permittee must notify the department, on a form approved by the board, within 10 days after any change in prescription department manager or consultant pharmacist of record.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">A permittee must notify the department of the identity of the prescription department manager within 10 days after employment. The prescription department manager must comply with the following requirements:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The prescription department manager of a permittee must obtain and maintain all drug records required by any state or federal law to be obtained by a pharmacy, including, but not limited to, records required by or under this chapter, chapter 499, or chapter 893. The prescription department manager must ensure the permittee’s compliance with all rules adopted under those chapters as they relate to the practice of the profession of pharmacy and the sale of prescription drugs.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The prescription department manager must ensure the security of the prescription department. The prescription department manager must notify the board of any theft or significant loss of any controlled substances within 1 business day after discovery of the theft or loss.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A registered pharmacist may not serve as the prescription department manager in more than one location unless approved by the board.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">The board shall adopt rules that require the keeping of such records of prescription drugs as are necessary for the protection of public health, safety, and welfare.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All required records documenting prescription drug distributions shall be readily available or immediately retrievable during an inspection by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The records must be maintained for 4 years after the creation or receipt of the record, whichever is later.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">Permits issued by the department are not transferable.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">The board shall set the fees for the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Initial permit fee not to exceed $250.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Biennial permit renewal not to exceed $250.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Delinquent fee not to exceed $100.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Change of location fee not to exceed $100.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 7, ch. 79-226; ss. 2, 3, ch. 81-318; s. 36, ch. 82-225; ss. 16, 26, 27, ch. 86-256; s. 6, ch. 88-172; s. 14, ch. 88-205; s. 59, ch. 91-137; s. 6, ch. 91-156; s. 4, ch. 91-429; s. 127, ch. 98-200; s. 27, ch. 2009-223; s. 14, ch. 2011-141.</History>
+</Section>

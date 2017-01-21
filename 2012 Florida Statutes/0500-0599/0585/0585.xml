@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXXV">
+	<ChapterNumber>585</ChapterNumber>
+	<ChapterName xml:space="preserve">Animal industry</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0585.001" />
+		<Section Number="0585.002" />
+		<Section Number="0585.003" />
+		<Section Number="0585.004" />
+		<Section Number="0585.005" />
+		<Section Number="0585.006" />
+		<Section Number="0585.007" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Disease inspection, control,<NewLine />and eradication</PartTitle>
+		<Section Number="0585.01" />
+		<Section Number="0585.08" />
+		<Section Number="0585.09" />
+		<Section Number="0585.11" />
+		<Section Number="0585.14" />
+		<Section Number="0585.145" />
+		<Section Number="0585.147" />
+		<Section Number="0585.15" />
+		<Section Number="0585.16" />
+		<Section Number="0585.17" />
+		<Section Number="0585.18" />
+		<Section Number="0585.19" />
+		<Section Number="0585.20" />
+		<Section Number="0585.21" />
+		<Section Number="0585.22" />
+		<Section Number="0585.23" />
+		<Section Number="0585.38" />
+		<Section Number="0585.40" />
+		<Section Number="0585.45" />
+		<Section Number="0585.48" />
+		<Section Number="0585.50" />
+		<Section Number="0585.51" />
+		<Section Number="0585.52" />
+		<Section Number="0585.53" />
+		<Section Number="0585.59" />
+		<Section Number="0585.61" />
+		<Section Number="0585.671" />
+		<Section Number="0585.68" />
+	</Part>
+</Chapter>

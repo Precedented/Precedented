@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.203" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Liability of nonreceipt or misdescription.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">A party to or purchaser for value in good faith of a document of title, other than a bill of lading, that relies upon the description of the goods in the document may recover from the issuer damages caused by the nonreceipt or misdescription of the goods, except to the extent that:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The document conspicuously indicates that the issuer does not know whether all or part of the goods in fact were received or conform to the description, such as a case in which the description is in terms of marks or labels or kind, quantity or condition, or the receipt or description is qualified by “contents, condition and quality unknown,” “said to contain,” or words of similar import, if such indication is true; or</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The party or purchaser otherwise has notice of the nonreceipt or misdescription.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 25, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-203, U.C.C.; supersedes s. 678.20.</Text>
+	</Note>
+</Section>

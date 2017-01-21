@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0010.15" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Territory specified for inclusion in one district which is noncontiguous.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">If any district described in this joint resolution is composed of noncontiguous territory, the noncontiguous portion that has the least population shall be included in the district that is contiguous to such portion and that has the least population; however, if every district contiguous to such portion has an equal population, such portion shall be included within the lowest-numbered district that is contiguous to such portion.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, CS for SJR 1176, 2012 Regular Session.</History>
+</Section>

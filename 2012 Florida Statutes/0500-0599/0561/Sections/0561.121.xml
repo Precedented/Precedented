@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0561.121" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Deposit of revenue.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All state funds collected pursuant to ss. 563.05, 564.06, and 565.12 shall be paid into the State Treasury and disbursed in the following manner:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Two percent of monthly collections of the excise taxes on alcoholic beverages established in ss. 563.05, 564.06, and 565.12 shall be deposited into the Alcoholic Beverage and Tobacco Trust Fund to meet the division’s appropriation for the state fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The remainder of the funds collected pursuant to ss. 563.05, 564.06, and 565.12 shall be credited to the General Revenue Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The unencumbered balance in the Alcoholic Beverage and Tobacco Trust Fund at the close of each fiscal year may not exceed $2 million. These funds shall be held in reserve for use in the event that trust fund revenues are unable to meet the division’s appropriation for the next fiscal year. In the event of a revenue shortfall, these funds shall be spent pursuant to subsection (3). Notwithstanding subsection (1), if the unencumbered balance on June 30 in any fiscal year is less than $2 million, the department is authorized to retain the difference between the June 30 unencumbered balance in the trust fund and $2 million from the July collections of state funds collected pursuant to ss. 563.05, 564.06, and 565.12. Any unencumbered funds in excess of reserve funds shall be transferred unallocated to the General Revenue Fund by August 31 of the next fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Funds deposited into the Alcoholic Beverage and Tobacco Trust Fund pursuant to subsection (1) shall be used for administration and enforcement of chapters 210, 561, 562, 563, 564, 565, 567, 568, and 569.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 21, ch. 94-353; s. 3, ch. 97-213; s. 250, ch. 99-8; s. 15, ch. 99-239; s. 2, ch. 2000-354; s. 4, ch. 2001-380; ss. 15, 79, ch. 2002-402; s. 23, ch. 2003-399; s. 3, ch. 2004-2; s. 5, ch. 2004-269; s. 17, ch. 2006-2; ss. 1, 2, ch. 2006-162; s. 11, ch. 2006-182; s. 16, ch. 2009-20.</History>
+</Section>

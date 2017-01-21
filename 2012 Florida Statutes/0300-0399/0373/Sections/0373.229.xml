@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.229" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Application for permit.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All permit applications filed with the governing board or the department under this part and notice thereof required under s. 373.116 shall contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the applicant and his or her address or, in the case of a corporation, the address of its principal business office;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The date of filing;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The date set for a hearing, if any;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The source of the water supply;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The quantity of water applied for;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The use to be made of the water and any limitation thereon;</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The place of use;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The location of the well or point of diversion; and</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Such other information as the governing board or the department may deem necessary.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The notice shall state that written objections to the proposed permit may be filed with the governing board or the department by a specified date. The governing board or the department, at its discretion, may request further information from either applicant or objectors, and a reasonable time shall be allowed for such responses.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In addition to the information required in subsection (1), all permit applications filed with the governing board or the department which propose the transport and use of water across county boundaries shall include information pertaining to factors to be considered, pursuant to s. 373.223(3), unless exempt under s. 373.713(9).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the proposed application is for less than 100,000 gallons per day, the governing board or the department may consider the application and any objections thereto without a hearing. If the proposed application is for 100,000 gallons per day or more and no objection is received, the governing board or the department, after proper investigation by its staff, may, at its discretion, approve the application without a hearing.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, part II, ch. 72-299; s. 13, ch. 73-190; s. 11, ch. 76-243; s. 1, ch. 77-174; s. 599, ch. 95-148; s. 5, ch. 98-88; s. 17, ch. 2010-205.</History>
+</Section>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0366.91" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Renewable energy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that it is in the public interest to promote the development of renewable energy resources in this state. Renewable energy resources have the potential to help diversify fuel types to meet Florida’s growing dependency on natural gas for electric production, minimize the volatility of fuel costs, encourage investment within the state, improve environmental conditions, and make Florida a leader in new and innovative technologies.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Biomass” means a power source that is comprised of, but not limited to, combustible residues or gases from forest products manufacturing, waste, byproducts, or products from agricultural and orchard crops, waste or coproducts from livestock and poultry operations, waste or byproducts from food processing, urban wood waste, municipal solid waste, municipal liquid waste treatment operations, and landfill gas.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Customer-owned renewable generation” means an electric generating system located on a customer’s premises that is primarily intended to offset part or all of the customer’s electricity requirements with renewable energy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Net metering” means a metering and billing methodology whereby customer-owned renewable generation is allowed to offset the customer’s electricity consumption on site.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Renewable energy” means electrical energy produced from a method that uses one or more of the following fuels or energy sources: hydrogen produced from sources other than fossil fuels, biomass, solar energy, geothermal energy, wind energy, ocean energy, and hydroelectric power. The term includes the alternative energy resource, waste heat, from sulfuric acid manufacturing operations and electrical energy produced using pipeline-quality synthetic gas produced from waste petroleum coke with carbon capture and sequestration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">On or before January 1, 2006, each public utility must continuously offer a purchase contract to producers of renewable energy. The commission shall establish requirements relating to the purchase of capacity and energy by public utilities from renewable energy producers and may adopt rules to administer this section. The contract shall contain payment provisions for energy and capacity which are based upon the utility’s full avoided costs, as defined in s. 366.051; however, capacity payments are not required if, due to the operational characteristics of the renewable energy generator or the anticipated peak and off-peak availability and capacity factor of the utility’s avoided unit, the producer is unlikely to provide any capacity value to the utility or the electric grid during the contract term. Each contract must provide a contract term of at least 10 years. Prudent and reasonable costs associated with a renewable energy contract shall be recovered from the ratepayers of the contracting utility, without differentiation among customer classes, through the appropriate cost-recovery clause mechanism administered by the commission.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">On or before January 1, 2006, each municipal electric utility and rural electric cooperative whose annual sales, as of July 1, 1993, to retail customers were greater than 2,000 gigawatt hours must continuously offer a purchase contract to producers of renewable energy containing payment provisions for energy and capacity which are based upon the utility’s or cooperative’s full avoided costs, as determined by the governing body of the municipal utility or cooperative; however, capacity payments are not required if, due to the operational characteristics of the renewable energy generator or the anticipated peak and off-peak availability and capacity factor of the utility’s avoided unit, the producer is unlikely to provide any capacity value to the utility or the electric grid during the contract term. Each contract must provide a contract term of at least 10 years.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">On or before January 1, 2009, each public utility shall develop a standardized interconnection agreement and net metering program for customer-owned renewable generation. The commission shall establish requirements relating to the expedited interconnection and net metering of customer-owned renewable generation by public utilities and may adopt rules to administer this section.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">On or before July 1, 2009, each municipal electric utility and each rural electric cooperative that sells electricity at retail shall develop a standardized interconnection agreement and net metering program for customer-owned renewable generation. Each governing authority shall establish requirements relating to the expedited interconnection and net metering of customer-owned generation. By April 1 of each year, each municipal electric utility and rural electric cooperative utility serving retail customers shall file a report with the commission detailing customer participation in the interconnection and net metering program, including, but not limited to, the number and total capacity of interconnected generating systems and the total energy net metered in the previous year.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Under the provisions of subsections (5) and (6), when a utility purchases power generated from biogas produced by the anaerobic digestion of agricultural waste, including food waste or other agricultural byproducts, net metering shall be available at a single metering point or as a part of conjunctive billing of multiple points for a customer at a single location, so long as the provision of such service and its associated charges, terms, and other conditions are not reasonably projected to result in higher cost electric service to the utility’s general body of ratepayers or adversely affect the adequacy or reliability of electric service to all customers, as determined by the commission for public utilities, or as determined by the governing authority of the municipal electric utility or rural electric cooperative that serves at retail.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A contracting producer of renewable energy must pay the actual costs of its interconnection with the transmission grid or distribution system.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2005-259; s. 41, ch. 2008-227; s. 16, ch. 2010-139.</History>
+</Section>

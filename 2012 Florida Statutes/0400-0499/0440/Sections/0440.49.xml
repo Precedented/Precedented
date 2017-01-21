@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0440.49" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Limitation of liability for subsequent injury through Special Disability Trust Fund.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">LEGISLATIVE INTENT.<EmDash />Whereas it is often difficult for workers with disabilities to achieve employment or to become reemployed following an injury, and it is the desire of the Legislature to facilitate the return of these workers to the workplace, it is the purpose of this section to encourage the employment, reemployment, and accommodation of the physically disabled by reducing an employer’s insurance premium for reemploying an injured worker, to decrease litigation between carriers on apportionment issues, and to protect employers from excess liability for compensation and medical expense when an injury to a physically disabled worker merges with, aggravates, or accelerates her or his preexisting permanent physical impairment to cause either a greater disability or permanent impairment, or an increase in expenditures for temporary compensation or medical benefits than would have resulted from the injury alone. The department or the administrator shall inform all employers of the existence and function of the fund and shall interpret eligibility requirements liberally. However, this subsection shall not be construed to create or provide any benefits for injured employees or their dependents not otherwise provided by this chapter. The entitlement of an injured employee or her or his dependents to compensation under this chapter shall be determined without regard to this subsection, the provisions of which shall be considered only in determining whether an employer or carrier who has paid compensation under this chapter is entitled to reimbursement from the Special Disability Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Permanent physical impairment” means and is limited to the conditions listed in paragraph (6)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Preferred worker” means a worker who, because of a permanent impairment resulting from a compensable injury or occupational disease, is unable to return to the worker’s regular employment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Merger” describes or means that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If the permanent physical impairment had not existed, the subsequent accident or occupational disease would not have occurred;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The permanent disability or permanent impairment resulting from the subsequent accident or occupational disease is materially and substantially greater than that which would have resulted had the permanent physical impairment not existed, and the employer has been required to pay, and has paid, permanent total disability or permanent impairment benefits for that materially and substantially greater disability;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The preexisting permanent physical impairment is aggravated or accelerated as a result of the subsequent injury or occupational disease, or the preexisting impairment has contributed, medically and circumstantially, to the need for temporary compensation, medical, or attendant care and the employer has been required to pay, and has paid, temporary compensation, medical, or attendant care benefits for the aggravated preexisting permanent impairment; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Death would not have been accelerated if the permanent physical impairment had not existed.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Excess permanent compensation” means that compensation for permanent impairment, or permanent total disability or death benefits, for which the employer or carrier is otherwise entitled to reimbursement from the Special Disability Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Administrator” means the entity selected by the department to review, allow, deny, compromise, controvert, and litigate claims of the Special Disability Trust Fund.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">In addition to the definitions contained in this subsection, the department may by rule prescribe definitions that are necessary for the effective administration of this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEDUCTIBLE.<EmDash />Reimbursement may not be obtained for the first $10,000 of benefits paid which otherwise qualify for reimbursement under this section. This deductible does not apply to claims by employers for reimbursement under <Reference Number="1" />subparagraph (b)3.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">PERMANENT IMPAIRMENT OR PERMANENT TOTAL DISABILITY, TEMPORARY BENEFITS, MEDICAL BENEFITS, OR ATTENDANT CARE AFTER OTHER PHYSICAL IMPAIRMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Permanent impairment.</Font><EmDash />If an employee who has a preexisting permanent physical impairment incurs a subsequent permanent impairment from injury or occupational disease arising out of, and in the course of, her or his employment which merges with the preexisting permanent physical impairment to cause a permanent impairment, the employer shall, in the first instance, pay all benefits provided by this chapter; but, subject to the limitations specified in subsection (6), such employer shall be reimbursed from the Special Disability Trust Fund created by subsection (9) for 50 percent of all impairment benefits which the employer has been required to provide pursuant to s. 440.15(3) as a result of the subsequent accident or occupational disease.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Permanent total disability.</Font><EmDash />If an employee who has a preexisting permanent physical impairment incurs a subsequent permanent impairment from injury or occupational disease arising out of, and in the course of, her or his employment which merges with the preexisting permanent physical impairment to cause permanent total disability, the employer shall, in the first instance, pay all benefits provided by this chapter; but, subject to the limitations specified in subsection (6), such employer shall be reimbursed from the Special Disability Trust Fund created by subsection (9) for 50 percent of all compensation for permanent total disability.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Temporary compensation and medical benefits; aggravation or acceleration of preexisting condition or circumstantial causation.</Font><EmDash />If an employee who has a preexisting permanent physical impairment experiences an aggravation or acceleration of the preexisting permanent physical impairment as a result of an injury or occupational disease arising out of and in the course of her or his employment, or suffers an injury as a result of a merger as defined in paragraph (2)(c), the employer shall provide all benefits provided by this chapter, but, subject to the limitations specified in subsection (7), the employer shall be reimbursed by the Special Disability Trust Fund created by subsection (9) for 50 percent of its payments for temporary, medical, and attendant care benefits.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">WHEN DEATH RESULTS.<EmDash />If death results from the subsequent permanent impairment contemplated in subsection (4) within 1 year after the subsequent injury, or within 5 years after the subsequent injury when disability has been continuous since the subsequent injury, and it is determined that the death resulted from a merger, the employer shall, in the first instance, pay the funeral expenses and the death benefits prescribed by this chapter; but, subject to the limitations specified in subsection (6), she or he shall be reimbursed from the Special Disability Trust Fund created by subsection (9) for the last 50 percent of all compensation allowable and paid for such death and for 50 percent of the amount paid as funeral expenses.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">EMPLOYER KNOWLEDGE, EFFECT ON REIMBURSEMENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Reimbursement is not allowed under this section unless it is established that the employer knew of the preexisting permanent physical impairment prior to the occurrence of the subsequent injury or occupational disease, and that the permanent physical impairment is one of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Epilepsy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Diabetes.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Cardiac disease.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Amputation of foot, leg, arm, or hand.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Total loss of sight of one or both eyes or a partial loss of corrected vision of more than 75 percent bilaterally.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Residual disability from poliomyelitis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Cerebral palsy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Multiple sclerosis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Parkinson’s disease.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Meniscectomy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Patellectomy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Ruptured cruciate ligament.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">Hemophilia.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">Chronic osteomyelitis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">Surgical or spontaneous fusion of a major weight-bearing joint.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">Hyperinsulinism.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">Muscular dystrophy.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">Thrombophlebitis.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">Herniated intervertebral disk.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">Surgical removal of an intervertebral disk or spinal fusion.</Text>
+				</SubParagraph>
+				<SubParagraph Id="21">
+					<Text xml:space="preserve" Style="Intro">One or more back injuries or a disease process of the back resulting in disability over a total of 120 or more days, if substantiated by a doctor’s opinion that there was a preexisting impairment to the claimant’s back.</Text>
+				</SubParagraph>
+				<SubParagraph Id="22">
+					<Text xml:space="preserve" Style="Intro">Total deafness.</Text>
+				</SubParagraph>
+				<SubParagraph Id="23">
+					<Text xml:space="preserve" Style="Intro">Mental retardation, provided the employee’s intelligence quotient is such that she or he falls within the lowest 2 percentile of the general population. However, it shall not be necessary for the employer to know the employee’s actual intelligence quotient or actual relative ranking in relation to the intelligence quotient of the general population.</Text>
+				</SubParagraph>
+				<SubParagraph Id="24">
+					<Text xml:space="preserve" Style="Intro">Any permanent physical condition which, prior to the industrial accident or occupational disease, constitutes a 20-percent impairment of a member or of the body as a whole.</Text>
+				</SubParagraph>
+				<SubParagraph Id="25">
+					<Text xml:space="preserve" Style="Intro">Obesity, provided the employee is 30 percent or more over the average weight designated for her or his height and age in the Table of Average Weight of Americans by Height and Age prepared by the Society of Actuaries using data from the 1979 Build and Blood Pressure Study.</Text>
+				</SubParagraph>
+				<SubParagraph Id="26">
+					<Text xml:space="preserve" Style="Intro">Any permanent physical impairment as defined in s. 440.15(3) which is a result of a prior industrial accident with the same employer or the employer’s parent company, subsidiary, sister company, or affiliate located within the geographical boundaries of this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Special Disability Trust Fund is not liable for any costs, interest, penalties, or attorneys’ fees.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An employer’s or carrier’s right to apportionment or deduction pursuant to ss. 440.02(1), 440.15(5)(b), and 440.151(1)(c) does not preclude reimbursement from such fund, except when the merger comes within the definition of paragraph (2)(c) and such apportionment or deduction relieves the employer or carrier from providing the materially and substantially greater permanent disability benefits otherwise contemplated in those paragraphs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">REIMBURSEMENT OF EMPLOYER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The right to reimbursement as provided in this section is barred unless written notice of claim of the right to such reimbursement is filed by the employer or carrier entitled to such reimbursement with the department or administrator at Tallahassee within 2 years after the date the employee last reached maximum medical improvement, or within 2 years after the date of the first payment of compensation for permanent total disability, wage loss, or death, whichever is later. The notice of claim must contain such information as the department by rule requires or as established by the administrator; and the employer or carrier claiming reimbursement shall furnish such evidence in support of the claim as the department or administrator reasonably may require.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For notice of claims on the Special Disability Trust Fund filed on or after July 1, 1978, the Special Disability Trust Fund shall, within 120 days after receipt of notice that a carrier has paid, been required to pay, or accepted liability for excess compensation, serve notice of the acceptance of the claim for reimbursement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A proof of claim must be filed on each notice of claim on file as of June 30, 1997, within 1 year after July 1, 1997, or the right to reimbursement of the claim shall be barred. A notice of claim on file on or before June 30, 1997, may be withdrawn and refiled if, at the time refiled, the notice of claim remains within the limitation period specified in paragraph (a). Such refiling shall not toll, extend, or otherwise alter in any way the limitation period applicable to the withdrawn and subsequently refiled notice of claim. Each proof of claim filed shall be accompanied by a proof-of-claim fee as provided in paragraph (9)(d). The Special Disability Trust Fund shall, within 120 days after receipt of the proof of claim, serve notice of the acceptance of the claim for reimbursement. This paragraph shall apply to all claims notwithstanding the provisions of subsection (12).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Each notice of claim filed or refiled on or after July 1, 1997, must be accompanied by a notification fee as provided in paragraph (9)(d). A proof of claim must be filed within 1 year after the date the notice of claim is filed or refiled, accompanied by a proof-of-claim fee as provided in paragraph (9)(d), or the claim shall be barred. The notification fee shall be waived if both the notice of claim and proof of claim are submitted together as a single filing. The Special Disability Trust Fund shall, within 180 days after receipt of the proof of claim, serve notice of the acceptance of the claim for reimbursement. This paragraph shall apply to all claims notwithstanding the provisions of subsection (12).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">For dates of accident on or after January 1, 1994, the Special Disability Trust Fund shall, within 120 days of receipt of notice that a carrier has been required to pay, and has paid over $10,000 in benefits, serve notice of the acceptance of the claim for reimbursement. Failure of the Special Disability Trust Fund to serve notice of acceptance shall give rise to the right to request a hearing on the claim for reimbursement. If the Special Disability Trust Fund through its representative denies or controverts the claim, the right to such reimbursement shall be barred unless an application for a hearing thereon is filed with the department or administrator at Tallahassee within 60 days after notice to the employer or carrier of such denial or controversion. When such application for a hearing is timely filed, the claim shall be heard and determined in accordance with the procedure prescribed in s. 440.25, to the extent that such procedure is applicable, and in accordance with the workers’ compensation rules of procedure. In such proceeding on a claim for reimbursement, the Special Disability Trust Fund shall be made the party respondent, and no findings of fact made with respect to the claim of the injured employee or the dependents for compensation, including any finding made or order entered pursuant to s. 440.20(11), shall be res judicata. The Special Disability Trust Fund may not be joined or made a party to any controversy or dispute between an employee and the dependents and the employer or between two or more employers or carriers without the written consent of the fund.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">When it has been determined that an employer or carrier is entitled to reimbursement in any amount, the employer or carrier shall be reimbursed annually from the Special Disability Trust Fund for the compensation and medical benefits paid by the employer or carrier for which the employer or carrier is entitled to reimbursement, upon filing request therefor and submitting evidence of such payment in accordance with rules prescribed by the department, which rules may include parameters for annual audits. The Special Disability Trust Fund shall pay the approved reimbursement requests on a first-in, first-out basis reflecting the order in which the reimbursement requests were received.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The department may by rule require specific forms and procedures for the administration and processing of claims made through the Special Disability Trust Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">PREFERRED WORKER PROGRAM.<EmDash />The Department of Education or administrator shall issue identity cards to preferred workers upon request by qualified employees and the Department of Financial Services shall reimburse an employer, from the Special Disability Trust Fund, for the cost of workers’ compensation premium related to the preferred workers payroll for up to 3 years of continuous employment upon satisfactory evidence of placement and issuance of payroll and classification records and upon the employee’s certification of employment. The Department of Financial Services and the Department of Education may by rule prescribe definitions, forms, and procedures for the administration of the preferred worker program. The Department of Education may by rule prescribe the schedule for submission of forms for participation in the program.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">SPECIAL DISABILITY TRUST FUND.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is established in the State Treasury a special fund to be known as the “Special Disability Trust Fund,” which shall be available only for the purposes stated in this section; and the assets thereof may not at any time be appropriated or diverted to any other use or purpose. The Chief Financial Officer shall be the custodian of such fund, and all moneys and securities in such fund shall be held in trust by such Chief Financial Officer and shall not be the money or property of the state. The Chief Financial Officer is authorized to disburse moneys from such fund only when approved by the department or corporation. The Chief Financial Officer shall deposit any moneys paid into such fund into such depository banks as the department may designate and is authorized to invest any portion of the fund which, in the opinion of the department, is not needed for current requirements, in the same manner and subject to all the provisions of the law with respect to the deposits of state funds by such Chief Financial Officer. All interest earned by such portion of the fund as may be invested by the Chief Financial Officer shall be collected by her or him and placed to the credit of such fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The Special Disability Trust Fund shall be maintained by annual assessments upon the insurance companies writing compensation insurance in the state, the commercial self-insurers under ss. 624.462 and 624.4621, the assessable mutuals as defined in s. 628.6011, and the self-insurers under this chapter, which assessments shall become due and be paid quarterly at the same time and in addition to the assessments provided in s. 440.51. The department shall estimate annually in advance the amount necessary for the administration of this subsection and the maintenance of this fund and shall make such assessment in the manner hereinafter provided.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The annual assessment shall be calculated to produce during the next calendar year an amount which, when combined with that part of the balance anticipated to be in the fund on December 31 of the current calendar year which is in excess of $100,000, is equal to the average of:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The sum of disbursements from the fund during the immediate past 3 calendar years, and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Two times the disbursements of the most recent calendar year.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Such assessment rate shall first apply on a calendar year basis for the period beginning January 1, 2012, and shall be included in workers’ compensation rate filings approved by the office which become effective on or after January 1, 2012. The assessment rate effective January 1, 2011, shall also apply to the interim period from July 1, 2011, through December 31, 2011, and shall be included in workers’ compensation rate filings, whether regular or amended, approved by the office which become effective on or after July 1, 2011. Thereafter, the annual assessment rate shall take effect January 1 of the next calendar year and shall be included in workers’ compensation rate filings approved by the office which become effective on or after January 1 of the next calendar year. Assessments shall become due and be paid quarterly.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">Such amount shall be prorated among the insurance companies writing compensation insurance in the state and the self-insurers.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The net premiums written by the companies for workers’ compensation in this state and the net premium written applicable to the self-insurers in this state are the basis for computing the amount to be assessed as a percentage of net premiums. Such payments shall be made by each carrier and self-insurer to the department for the Special Disability Trust Fund in accordance with such regulations as the department prescribes.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The Chief Financial Officer is authorized to receive and credit to such Special Disability Trust Fund any sum or sums that may at any time be contributed to the state by the United States under any Act of Congress, or otherwise, to which the state may be or become entitled by reason of any payments made out of such fund.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding the Special Disability Trust Fund assessment rate calculated pursuant to this section, the rate assessed shall not exceed 4.52 percent.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Special Disability Trust Fund shall be supplemented by a $250 notification fee on each notice of claim filed or refiled after July 1, 1997, and a $500 fee on each proof of claim filed in accordance with subsection (7). Revenues from the fee shall be deposited into the Special Disability Trust Fund and are exempt from the deduction required by s. 215.20. The fees provided in this paragraph shall not be imposed upon any insurer which is in receivership with the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The department or administrator shall report annually on the status of the Special Disability Trust Fund. The report shall update the estimated undiscounted and discounted fund liability, as determined by an independent actuary, change in the total number of notices of claim on file with the fund in addition to the number of newly filed notices of claim, change in the number of proofs of claim processed by the fund, the fee revenues refunded and revenues applied to pay down the liability of the fund, the average time required to reimburse accepted claims, and the average administrative costs per claim. The department or administrator shall submit its report to the Governor, the President of the Senate, and the Speaker of the House of Representatives by December 1 of each year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">DEPARTMENT ADMINISTRATION OF FUND; CLAIMS; EXPENSES.<EmDash />The department or administrator shall administer the Special Disability Trust Fund with authority to allow, deny, compromise, controvert, and litigate claims made against it and to designate an attorney to represent it in proceedings involving claims against the fund, including negotiation and consummation of settlements, hearings before judges of compensation claims, and judicial review. The department or administrator or the attorney designated by it shall be given notice of all hearings and proceedings involving the rights or obligations of such fund and shall have authority to make expenditures for such medical examinations, expert witness fees, depositions, transcripts of testimony, and the like as may be necessary to the proper defense of any claim. All expenditures made in connection with conservation of the fund, including the salary of the attorney designated to represent it and necessary travel expenses, shall be allowed and paid from the Special Disability Trust Fund as provided in this section upon the presentation of itemized vouchers therefor approved by the department.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">EFFECTIVE DATES.<EmDash />This section does not apply to any case in which the accident causing the subsequent injury or death or the disablement or death from a subsequent occupational disease occurred prior to July 1, 1955, or on or after January 1, 1998. In no event shall the Special Disability Trust Fund be liable for, or reimburse employers or carriers for, any case in which the accident causing the subsequent injury or death or the disablement or death from a subsequent occupational disease occurred on or after January 1, 1998. The Special Disability Trust Fund shall continue to reimburse employers or carriers for subsequent injuries occurring prior to January 1, 1998, and the department shall continue to assess for and the department or administrator shall fund reimbursements as provided in subsection (9) for this purpose.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">REIMBURSEMENT FROM THE SPECIAL DISABILITY TRUST FUND.<EmDash />The applicable law for the purposes of determining entitlement to reimbursement from the Special Disability Trust Fund is the law in effect on the date the accident occurred.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 49, ch. 17481, 1935; CGL 1936 Supp. 5966(47); s. 13, ch. 28241, 1953; s. 12, ch. 29778, 1955; s. 1, ch. 59-101; s. 2, ch. 63-235; s. 19, ch. 63-400; s. 2, ch. 67-554; ss. 17, 35, ch. 69-106; s. 21, ch. 74-197; s. 24, ch. 75-209; ss. 151, 152, ch. 77-104; ss. 15, 23, ch. 78-300; ss. 37, 124, ch. 79-40; s. 21, ch. 79-312; s. 11, ch. 81-119; s. 17, ch. 83-305; s. 10, ch. 85-61; s. 9, ch. 87-330; ss. 24, 43, ch. 89-289; ss. 40, 56, ch. 90-201; ss. 38, 52, ch. 91-1; s. 43, ch. 93-415; s. 4, ch. 95-285; s. 21, ch. 95-327; s. 12, ch. 96-423; s. 1054, ch. 97-103; s. 1, ch. 97-262; s. 9, ch. 98-125; s. 84, ch. 98-199; s. 2, ch. 2000-150; s. 98, ch. 2000-153; s. 30, ch. 2001-89; s. 141, ch. 2001-266; s. 47, ch. 2002-194; s. 489, ch. 2003-261; s. 30, ch. 2003-412; s. 3, ch. 2011-174; s. 25, ch. 2011-213.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Subsection (3) is not divided into subunits.</Text>
+	</Note>
+</Section>

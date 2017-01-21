@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0559.9285" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Certification of business activities.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each certifying party, as defined in s. 559.927(2):</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Which does not offer for sale, at wholesale or retail, prearranged travel, tourist-related services, or tour-guide services for individuals or groups directly to any terrorist state and which originate in Florida;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Which offers for sale, at wholesale or retail, only prearranged travel, tourist-related services, or tour-guide services for individuals or groups directly to any terrorist state and which originate in Florida, but engages in no other business dealings or commerce with any terrorist state; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Which offers for sale, at wholesale or retail, prearranged travel, tourist-related services, or tour-guide services for individuals or groups directly to any terrorist state and which originate in Florida, and also engages in any other business dealings or commerce with any terrorist state,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">shall annually certify its business activities by filing a disclosure statement with the department which accurately represents the scope of the seller’s business activities according to the criteria provided in paragraph (a), paragraph (b), or paragraph (c).</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a certifying party changes the scope of the business activities certified pursuant to subsection (1), the certifying party shall file the following with the department no later than 15 days following the change in activities:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An amended certificate pursuant to subsection (1); and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The applicable registration fee pursuant to s. 559.928.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Within 15 days after filing the amended certificate, the certifying party shall provide to the department a bond in the proper amount for the certified business activity pursuant to s. 559.929.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department shall specify by rule the form of each certification under this section which shall include the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The legal name, any trade names or fictitious names, mailing address, physical address, telephone number or numbers, facsimile number or numbers, all Internet and electronic contact information, and registration number, if applicable, of the certifying party.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each terrorist state with which the certifying party engages in any business or commerce.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The legal name, any trade names or fictitious names, mailing address, physical address, telephone number or numbers, facsimile number or numbers, and all Internet and electronic contact information of every other commercial entity with which the certifying party engages in business or commerce that is related in any way to the certifying party’s business or commerce with any terrorist state. The information disclosed pursuant to this paragraph does not constitute customer lists, customer names, or trade secrets protected under s. 570.544(8).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The type of all prearranged travel, tourist-related services, or tour-guide services that the certifying party offers for sale to individuals or groups traveling directly to any terrorist state and that originate in Florida, and the frequency with which such services are offered.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2008-214; s. 38, ch. 2012-67.</History>
+</Section>

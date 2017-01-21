@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.087" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Permits; general issuance; denial; revocation; prohibition; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A stationary installation that is reasonably expected to be a source of air or water pollution must not be operated, maintained, constructed, expanded, or modified without an appropriate and currently valid permit issued by the department, unless exempted by department rule. In no event shall a permit for a water pollution source be issued for a term of more than 10 years, nor may an operation permit issued after July 1, 1992, for a major source of air pollution have a fixed term of more than 5 years. However, upon expiration, a new permit may be issued by the department in accordance with this chapter and the rules of the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt, and may amend or repeal, rules for the issuance, denial, modification, and revocation of permits under this section.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A renewal of an operation permit for a domestic wastewater treatment facility other than a facility regulated under the National Pollutant Discharge Elimination System (NPDES) Program under s. 403.0885 must be issued upon request for a term of up to 10 years, for the same fee and under the same conditions as a 5-year permit, in order to provide the owner or operator with a financial incentive, if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The waters from the treatment facility are not discharged to Class I municipal injection wells or the treatment facility is not required to comply with the federal standards under the Underground Injection Control Program under chapter 62-528 of the Florida Administrative Code;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The treatment facility is not operating under a temporary operating permit or a permit with an accompanying administrative order and does not have any enforcement action pending against it by the United States Environmental Protection Agency, the department, or a local program approved under s. 403.182;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The treatment facility has operated under an operation permit for 5 years and, for at least the preceding 2 years, has generally operated in conformance with the limits of permitted flows and other conditions specified in the permit;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The department has reviewed the discharge-monitoring reports required under department rule and is satisfied that the reports are accurate;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The treatment facility has generally met water quality standards in the preceding 2 years, except for violations attributable to events beyond the control of the treatment plant or its operator, such as destruction of equipment by fire, wind, or other abnormal events that could not reasonably be expected to occur; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The department, or a local program approved under s. 403.182, has conducted, in the preceding 12 months, an inspection of the facility and has verified in writing to the operator of the facility that it is not exceeding the permitted capacity and is in substantial compliance.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The department shall keep records of the number of 10-year permits applied for and the number and duration of permits issued for longer than 5 years.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall issue permits on such conditions as are necessary to effect the intent and purposes of this section.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The department shall issue permits to construct, operate, maintain, expand, or modify an installation which may reasonably be expected to be a source of pollution only when it determines that the installation is provided or equipped with pollution control facilities that will abate or prevent pollution to the degree that will comply with the standards or rules adopted by the department, except as provided in s. 403.088 or s. 403.0872. However, separate construction permits shall not be required for installations permitted under s. 403.0885, except that the department may require an owner or operator proposing to construct, expand, or modify such an installation to submit for department review, as part of application for permit or permit modification, engineering plans, preliminary design reports, or other information 90 days prior to commencing construction. The department may also require the engineer of record or another registered professional engineer, within 30 days after construction is complete, to certify that the construction was completed in accordance with the plans submitted to the department, noting minor deviations which were necessary because of site-specific conditions.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall require a processing fee in an amount sufficient, to the greatest extent possible, to cover the costs of reviewing and acting upon any application for a permit or request for site-specific alternative criteria or for an exemption from water quality criteria and to cover the costs of surveillance and other field services and related support activities associated with any permit or plan approval issued pursuant to this chapter. The department shall review the fees authorized under this chapter at least once every 5 years and shall adjust the fees upward, as necessary, within the fee caps established in this paragraph to reflect changes in the Consumer Price Index or similar inflation indicator. The department shall establish by rule the inflation index to be used for this purpose. In the event of deflation, the department shall consult with the Executive Office of the Governor and the Legislature to determine whether downward fee adjustments are appropriate based on the current budget and appropriation considerations. However, when an application is received without the required fee, the department shall acknowledge receipt of the application and shall immediately return the unprocessed application to the applicant and shall take no further action until the application is received with the appropriate fee. The department shall adopt a schedule of fees by rule, subject to the following limitations:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The fee for any of the following may not exceed $32,500:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Hazardous waste, construction permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Hazardous waste, operation permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Hazardous waste, postclosure permit, or clean closure plan approval.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Hazardous waste, corrective action permit.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The permit fee for a drinking water construction or operation permit, not including the operation license fee required under s. 403.861(7), shall be at least $500 and may not exceed $15,000.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The permit fee for a Class I injection well construction permit may not exceed $12,500.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The permit fee for any of the following permits may not exceed $10,000:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Solid waste, construction permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Solid waste, operation permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Class I injection well, operation permit.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The permit fee for any of the following permits may not exceed $7,500:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Air pollution, construction permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Solid waste, closure permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Domestic waste residuals, construction or operation permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Industrial waste, operation permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Industrial waste, construction permit.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The permit fee for any of the following permits may not exceed $5,000:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Domestic waste, operation permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Domestic waste, construction permit.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The permit fee for any of the following permits may not exceed $4,000:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Wetlands resource management<EmDash/>(dredge and fill and mangrove alteration).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Hazardous waste, research and development permit.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Air pollution, operation permit, for sources not subject to s. 403.0872.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Class III injection well, construction, operation, or abandonment permits.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The permit fee for a drinking water distribution system permit, including a general permit, shall be at least $500 and may not exceed $1,000.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The permit fee for Class V injection wells, construction, operation, and abandonment permits may not exceed $750.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The permit fee for domestic waste collection system permits may not exceed $500.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The permit fee for stormwater operation permits may not exceed $100.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">Except as provided in subparagraph 8., the general permit fees for permits that require certification by a registered professional engineer or professional geologist may not exceed $500, and the general permit fee for other permit types may not exceed $100.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">The fee for a permit issued pursuant to s. 403.816 is $5,000, and the fee for any modification of such permit requested by the applicant is $1,000.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">The regulatory program and surveillance fees for facilities permitted pursuant to s. 403.088 or s. 403.0885, or for facilities permitted pursuant to s. 402 of the Clean Water Act, as amended, 33 U.S.C. ss. 1251 et seq., and for which the department has been granted administrative authority, shall be limited as follows:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The fees for domestic wastewater facilities shall not exceed $7,500 annually. The department shall establish a sliding scale of fees based on the permitted capacity and shall ensure smaller domestic waste dischargers do not bear an inordinate share of costs of the program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The annual fees for industrial waste facilities shall not exceed $11,500. The department shall establish a sliding scale of fees based upon the volume, concentration, or nature of the industrial waste discharge and shall ensure smaller industrial waste dischargers do not bear an inordinate share of costs of the program.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The department may establish a fee, not to exceed the amounts in subparagraphs 5. and 6., to cover additional costs of review required for permit modification or construction engineering plans.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If substantially similar air pollution sources are to be constructed or modified at the same facility, the applicant may submit a single application and permit fee for construction or modification of the sources at that facility. If substantially similar air pollution sources located at the same facility do not constitute a major source of air pollution subject to permitting under s. 403.0872, the applicant may submit a single application and permit fee for the operation of those sources. The department may develop, by rule, criteria for determining what constitutes substantially similar sources.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The fee schedule shall be adopted by rule. The amount of each fee shall be reasonably related to the costs of permitting, field services, and related support activities for the particular permitting activity taking into consideration consistently applied standard cost-accounting principles and economies of scale. If the department requires, by rule or by permit condition, that a permit be renewed more frequently than once every 5 years, the permit fee shall be prorated based upon the permit fee schedule in effect at the time of permit renewal.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Nothing in this subsection authorizes the construction or expansion of any stationary installation except to the extent specifically authorized by department permit or rule.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">For all domestic waste collection system permits and drinking water distribution system permits, the department shall adopt a fee schedule, by rule, based on a sliding scale relating to pipe diameter, length of the proposed main, or equivalent dwelling units, or any combination of these factors. The department shall require a separate permit application and fee for each noncontiguous project within the system.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A permit issued pursuant to this section does not become a vested right in the permittee. The department may revoke any permit issued by it if it finds that the permitholder has:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Submitted false or inaccurate information in the application for the permit;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Violated law, department orders, rules, or conditions which directly relate to the permit;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Failed to submit operational reports or other information required by department rule which directly relate to the permit and has refused to correct or cure such violations when requested to do so; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Refused lawful inspection under s. 403.091 at the facility authorized by the permit.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The department shall not issue a permit to any person for the purpose of engaging in, or attempting to engage in, any activity relating to the extraction of solid minerals not exempt pursuant to chapter 211 within any state or national park or state or national forest when the activity will degrade the ambient quality of the waters of the state or the ambient air within those areas. In the event the Federal Government prohibits the mining or leasing of solid minerals on federal park or forest lands, then, and to the extent of such prohibition, this act shall not apply to those federal lands.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">A violation of this section is punishable as provided in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Effective July 1, 2008, the minimum fee amounts shall be the minimum fees prescribed in this section, and such fee amounts shall remain in effect until the effective date of fees adopted by rule by the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 71-203; s. 4, ch. 74-133; s. 14, ch. 78-95; s. 14, ch. 82-27; s. 1, ch. 82-54; s. 1, ch. 82-122; s. 59, ch. 83-218; s. 24, ch. 84-338; s. 11, ch. 86-186; s. 2, ch. 87-125; s. 17, ch. 88-393; s. 29, ch. 91-305; s. 2, ch. 92-132; s. 72, ch. 93-213; s. 1, ch. 97-103; s. 20, ch. 97-236; s. 4, ch. 2000-304; s. 5, ch. 2003-173; s. 19, ch. 2008-150; s. 46, ch. 2009-21; s. 13, ch. 2012-205.</History>
+</Section>

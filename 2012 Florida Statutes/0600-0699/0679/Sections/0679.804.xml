@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.804" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Effectiveness of action taken before effective date.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The filing of a financing statement before July 1, 2013, is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under this chapter, as amended by ch. 2012-59, Laws of Florida.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The amendments to this chapter by ch. 2012-59, Laws of Florida, do not render ineffective an effective financing statement that was filed before July 1, 2013, and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in this chapter as it existed before July 1, 2013. However, except as otherwise provided in subsections (3) and (4) and s. 679.805, the financing statement ceases to be effective:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the financing statement is filed in this state, at the time the financing statement would have ceased to be effective had ch. 2012-59, Laws of Florida, not taken effect; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the financing statement is filed in another jurisdiction, at the earlier of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The time the financing statement would have ceased to be effective under the law of that jurisdiction; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">By June 30, 2018.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The filing of a continuation statement on or after July 1, 2013, does not continue the effectiveness of the financing statement filed before July 1, 2013. However, on the timely filing of a continuation statement on or after July 1, 2013, and in accordance with the law of the jurisdiction governing perfection as provided in this chapter, as amended by ch. 2012-59, Laws of Florida, the effectiveness of a financing statement filed in the same office in that jurisdiction before July 1, 2013, continues for the period provided by the law of that jurisdiction.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Subparagraph (2)(b)2. applies to a financing statement that was filed before July 1, 2013, against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in this chapter as it existed before July 1, 2013, only to the extent that this chapter, as amended by ch. 2012-59, Laws of Florida, provides that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A financing statement that includes a financing statement filed before July 1, 2013, or a continuation statement filed on or after July 1, 2013, is effective only to the extent that it satisfies the requirements of part V, as amended by ch. 2012-59, Laws of Florida, for an initial financing statement. A financing statement that indicates that the debtor is a decedent’s estate indicates that the collateral is being administered by a personal representative within the meaning of s. 679.5031(1)(b), as amended by ch. 2012-59, Laws of Florida. A financing statement that indicates that the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of s. 679.5031(1)(c), as amended by ch. 2012-59, Laws of Florida.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 17, 19, ch. 2012-59.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Effective July 1, 2013.</Text>
+	</Note>
+</Section>

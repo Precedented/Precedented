@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0215.4401" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Board of Administration; public record exemptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In order to effectively and efficiently administer the real estate investment program of the State Board of Administration, the Legislature finds a public necessity in protecting specified records of the board. Accordingly, records and information relating to acquiring, hypothecating, or disposing of real property or related personal property or mortgage interests in same, as well as interest in collective real estate investment funds, publicly traded securities, or private placement investments, are confidential and exempt from s. 119.07(1) in order to protect proprietary information requisite to the board’s ability to transact arms length negotiations necessary to successfully compete in the real estate investment market. All reports and documents relating to value, offers, counteroffers, or negotiations are confidential and exempt from s. 119.07(1) until closing is complete and all funds have been disbursed. Reports and documents relating to tenants, leases, contracts, rent rolls, and negotiations in progress are confidential and exempt from the provisions of s. 119.07(1) until the executive director determines that releasing such information would not be detrimental to the interests of the board and would not cause a conflict with the fiduciary responsibilities of the State Board of Administration.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In order to effectively and efficiently administer the investment programs of the board, the Legislature finds a public necessity in protecting records other than those described in subsection (1). Accordingly, records and other information relating to investments made by the board pursuant to its constitutional and statutory investment duties and responsibilities are confidential and exempt from s. 119.07(1) until 30 days after completion of an investment transaction. However, if in the opinion of the executive director of the board it would be detrimental to the financial interests of the board or would cause a conflict with the fiduciary responsibilities of the board, information concerning service provider fees may be maintained as confidential and exempt from s. 119.07(1) until 6 months after negotiations relating to such fees have been terminated. This exemption prevents the use of confidential internal investment decisions of the State Board of Administration for improper personal gain.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Alternative investment” means an investment by the State Board of Administration in a private equity fund, venture fund, hedge fund, or distress fund or a direct investment in a portfolio company through an investment manager.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Alternative investment vehicle” means the limited partnership, limited liability company, or similar legal structure or investment manager through which the State Board of Administration invests in a portfolio company.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Portfolio company” means a corporation or other issuer, any of whose securities are owned by an alternative investment vehicle or the State Board of Administration and any subsidiary of such corporation or other issuer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">“Portfolio positions” means individual investments in portfolio companies which are made by the alternative investment vehicles, including information or specific investment terms associated with any portfolio company investment.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">“Proprietor” means an alternative investment vehicle, a portfolio company in which the alternative investment vehicle is invested, or an outside consultant, including the respective authorized officers, employees, agents, or successors in interest, which controls or owns information provided to the State Board of Administration.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">“Proprietary confidential business information” means information that has been designated by the proprietor when provided to the State Board of Administration as information that is owned or controlled by a proprietor; that is intended to be and is treated by the proprietor as private, the disclosure of which would harm the business operations of the proprietor and has not been intentionally disclosed by the proprietor unless pursuant to a private agreement that provides that the information will not be released to the public except as required by law or legal process, or pursuant to law or an order of a court or administrative body; and that concerns:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Trade secrets as defined in s. 688.002.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Information provided to the State Board of Administration regarding a prospective investment in a private equity fund, venture fund, hedge fund, distress fund, or portfolio company which is proprietary to the provider of the information.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Financial statements and auditor reports of an alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Meeting materials of an alternative investment vehicle relating to financial, operating, or marketing information of the alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Information regarding the portfolio positions in which the alternative investment vehicles invest.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Capital call and distribution notices to investors of an alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Alternative investment agreements and related records.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Information concerning investors, other than the State Board of Administration, in an alternative investment vehicle.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">“Proprietary confidential business information” does not include:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The name, address, and vintage year of an alternative investment vehicle and the identity of the principals involved in the management of the alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The dollar amount of the commitment made by the State Board of Administration to each alternative investment vehicle since inception.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The dollar amount and date of cash contributions made by the State Board of Administration to each alternative investment vehicle since inception.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">The dollar amount, on a fiscal-year-end basis, of cash distributions received by the State Board of Administration from each alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">The dollar amount, on a fiscal-year-end basis, of cash distributions received by the State Board of Administration plus the remaining value of alternative-vehicle assets that are attributable to the State Board of Administration’s investment in each alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">The net internal rate of return of each alternative investment vehicle since inception.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">The investment multiple of each alternative investment vehicle since inception.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">The dollar amount of the total management fees and costs paid on an annual fiscal-year-end basis by the State Board of Administration to each alternative investment vehicle.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">The dollar amount of cash profit received by the State Board of Administration from each alternative investment vehicle on a fiscal-year-end basis.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">A description of any compensation, fees, or expenses, including the amount or value, paid or agreed to be paid by a proprietor to any person to solicit the board to make an alternative investment or investment through an alternative investment vehicle. This does not apply to an executive officer, general partner, managing member, or other employee of the proprietor, who is paid by the proprietor to solicit the board to make such investments.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Proprietary confidential business information held by the State Board of Administration regarding alternative investments is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution for 10 years after the termination of the alternative investment. This exemption applies to proprietary confidential business information held by the State Board of Administration before, on, or after October 1, 2006.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of paragraph (b), a request to inspect or copy a record under s. 119.07(1) that contains proprietary confidential business information shall be granted if the proprietor of the information fails, within a reasonable period of time after the request is received by the State Board of Administration, to verify the following to the State Board of Administration through a written declaration in the manner provided by s. 92.525:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">That the requested record contains proprietary confidential business information and the specific location of such information within the record;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">If the proprietary confidential business information is a trade secret, a verification that it is a trade secret as defined in s. 688.002;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">That the proprietary confidential business information is intended to be and is treated by the proprietor as private, is the subject of efforts of the proprietor to maintain its privacy, and is not readily ascertainable or publicly available from any other source; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">That the disclosure of the proprietary confidential business information to the public would harm the business operations of the proprietor.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The State Board of Administration shall maintain a list and a description of the records covered by any verified, written declaration made under this paragraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any person may petition a court of competent jurisdiction for an order for the public release of those portions of any record made confidential and exempt by paragraph (b). Any action under this paragraph must be brought in Leon County, Florida, and the petition or other initial pleading shall be served on the State Board of Administration and, if determinable upon diligent inquiry, on the proprietor of the information sought to be released. In any order for the public release of a record under this paragraph, the court shall make a finding that the record or portion thereof is not a trade secret as defined in s. 688.002, that a compelling public interest is served by the release of the record or portions thereof which exceed the public necessity for maintaining the confidentiality of such record, and that the release of the record will not cause damage to or adversely affect the interests of the proprietor of the released information, other private persons or business entities, the State Board of Administration, or any trust fund, the assets of which are invested by the State Board of Administration.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 93-162; s. 70, ch. 96-406; s. 1, ch. 2006-163; s. 1, ch. 2011-101.</History>
+</Section>

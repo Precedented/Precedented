@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0322.051" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Identification cards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person who is 5 years of age or older, or any person who has a disability, regardless of age, who applies for a disabled parking permit under s. 320.0848, may be issued an identification card by the department upon completion of an application and payment of an application fee.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The application must include the following information regarding the applicant:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Full name (first, middle or maiden, and last), gender, proof of social security card number satisfactory to the department, county of residence, mailing address, proof of residential address satisfactory to the department, country of birth, and a brief description.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Proof of birth date satisfactory to the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Proof of identity satisfactory to the department. Such proof must include one of the following documents issued to the applicant:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A driver license record or identification card record from another jurisdiction that required the applicant to submit a document for identification which is substantially similar to a document required under sub-subparagraph b., sub-subparagraph c., sub-subparagraph d., sub-subparagraph e., sub-subparagraph f., sub-subparagraph g., or sub-subparagraph h.;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A certified copy of a United States birth certificate;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A valid, unexpired United States passport;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A naturalization certificate issued by the United States Department of Homeland Security;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">A valid, unexpired alien registration receipt card (green card);</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">A Consular Report of Birth Abroad provided by the United States Department of State;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">An unexpired employment authorization card issued by the United States Department of Homeland Security; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Proof of nonimmigrant classification provided by the United States Department of Homeland Security, for an original identification card. In order to prove nonimmigrant classification, an applicant must provide at least one of the following documents. In addition, the department may require applicants to produce United States Department of Homeland Security documents for the sole purpose of establishing the maintenance of, or efforts to maintain, continuous lawful presence:</Text>
+						<SubSubSubParagraph Id="I">
+							<Text xml:space="preserve" Style="Intro">A notice of hearing from an immigration court scheduling a hearing on any proceeding.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="II">
+							<Text xml:space="preserve" Style="Intro">A notice from the Board of Immigration Appeals acknowledging pendency of an appeal.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="III">
+							<Text xml:space="preserve" Style="Intro">A notice of the approval of an application for adjustment of status issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="IV">
+							<Text xml:space="preserve" Style="Intro">An official documentation confirming the filing of a petition for asylum or refugee status or any other relief issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="V">
+							<Text xml:space="preserve" Style="Intro">A notice of action transferring any pending matter from another jurisdiction to Florida, issued by the United States Bureau of Citizenship and Immigration Services.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VI">
+							<Text xml:space="preserve" Style="Intro">An order of an immigration judge or immigration officer granting relief that authorizes the alien to live and work in the United States, including, but not limited to, asylum.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VII">
+							<Text xml:space="preserve" Style="Intro">Evidence that an application is pending for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States, if a visa number is available having a current priority date for processing by the United States Bureau of Citizenship and Immigration Services.</Text>
+						</SubSubSubParagraph>
+						<SubSubSubParagraph Id="VIII">
+							<Text xml:space="preserve" Style="Intro">On or after January 1, 2010, an unexpired foreign passport with an unexpired United States Visa affixed, accompanied by an approved I-94, documenting the most recent admittance into the United States.</Text>
+						</SubSubSubParagraph>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">An identification card issued based on documents required in sub-subparagraph g. or sub-subparagraph h. is valid for a period not to exceed the expiration date of the document presented or 1 year, whichever occurs first.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An application for an identification card must be signed and verified by the applicant in a format designated by the department before a person authorized to administer oaths and payment of the applicable fee pursuant to s. 322.21.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Each such applicant may include fingerprints and any other unique biometric means of identity.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Every identification card:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Issued to a person 5 years of age to 14 years of age shall expire, unless canceled earlier, on the fourth birthday of the applicant following the date of original issue.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Issued to a person 15 years of age and older shall expire, unless canceled earlier, on the eighth birthday of the applicant following the date of original issue.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Renewal of an identification card shall be made for the applicable term enumerated in this paragraph. Any application for renewal received later than 90 days after expiration of the identification card shall be considered the same as an application for an original identification card.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this chapter, if an applicant establishes his or her identity for an identification card using a document authorized under sub-subparagraph (1)(a)3.e., the identification card shall expire on the eighth birthday of the applicant following the date of original issue or upon first renewal or duplicate issued after implementation of this section. After an initial showing of such documentation, he or she is exempted from having to renew or obtain a duplicate in person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter, if an applicant establishes his or her identity for an identification card using an identification document authorized under sub-subparagraph (1)(a)3.g. or sub-subparagraph (1)(a)3.h., the identification card shall expire 1 year after the date of issuance or upon the expiration date cited on the United States Department of Homeland Security documents, whichever date first occurs, and may not be renewed or obtain a duplicate except in person.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If an identification card issued under this section is lost, destroyed, or mutilated or a new name is acquired, the person to whom it was issued may obtain a duplicate upon furnishing satisfactory proof of such fact to the department and upon payment of a fee as provided in s. 322.21. The fee must include payment for the color photograph or digital image of the applicant. Any person who loses an identification card and who, after obtaining a duplicate, finds the original card shall immediately surrender the original card to the department. The same documentary evidence shall be furnished for a duplicate as for an original identification card.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">When used with reference to identification cards, “cancellation” means that an identification card is terminated without prejudice and must be surrendered. Cancellation of the card may be made when a card has been issued through error or when voluntarily surrendered to the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">No public entity shall be liable for any loss or injury resulting directly or indirectly from false or inaccurate information contained in identification cards provided for in this section.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">It is unlawful for any person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To display, cause or permit to be displayed, or have in his or her possession any fictitious, fraudulently altered, or fraudulently obtained identification card.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To lend his or her identification card to any other person or knowingly permit the use thereof by another.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To display or represent any identification card not issued to him or her as being his or her card.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To permit any unlawful use of an identification card issued to him or her.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To do any act forbidden, or fail to perform any act required, by this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">To photograph, photostat, duplicate, or in any way reproduce any identification card or facsimile thereof in such a manner that it could be mistaken for a valid identification card, or to display or have in his or her possession any such photograph, photostat, duplicate, reproduction, or facsimile unless authorized by the provisions of this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Any person accepting the Florida driver’s license as proof of identification must accept a Florida identification card as proof of identification when the bearer of the identification card does not also have a driver’s license.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall, upon receipt of the required fee, issue to each qualified applicant for an identification card a color photographic or digital image identification card bearing a fullface photograph or digital image of the identification cardholder. Notwithstanding chapter 761 or s. 761.05, the requirement for a fullface photograph or digital image of the identification cardholder may not be waived. A space shall be provided upon which the identification cardholder shall affix his or her usual signature, as required in s. 322.14, in the presence of an authorized agent of the department so as to ensure that such signature becomes a part of the identification card.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A capital “V” shall be exhibited on the identification card of a veteran upon the payment of an additional $1 fee for the license and the presentation of a copy of the person’s DD Form 214, issued by the United States Department of Defense, or another acceptable form specified by the Department of Veterans’ Affairs. Until a veteran’s identification card is next renewed, the veteran may have the capital “V” designation added to his or her identification card upon surrender of his or her current identification card, payment of a $2 fee to be deposited into the Highway Safety Operating Trust Fund, and presentation of a copy of his or her DD Form 214 or another acceptable form specified by the Department of Veterans’ Affairs. If the applicant is not conducting any other transaction affecting the identification card, a replacement identification card may be issued with the capital “V” designation without payment of the fee required in s. 322.21(1)(f)3.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section or s. 322.21 to the contrary, the department shall issue or renew a card at no charge to a person who presents evidence satisfactory to the department that he or she is homeless as defined in s. 414.0252(7).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 73-236; s. 1, ch. 77-14; s. 1, ch. 78-105; ss. 7, 27, ch. 78-394; s. 37, ch. 89-282; ss. 1, 2, ch. 90-150; s. 397, ch. 95-148; s. 33, ch. 95-333; s. 13, ch. 96-200; s. 45, ch. 96-413; s. 73, ch. 99-248; s. 35, ch. 2000-313; s. 70, ch. 2001-61; s. 124, ch. 2002-20; s. 3, ch. 2002-76; s. 1, ch. 2002-259; s. 28, ch. 2003-1; s. 2, ch. 2003-410; s. 27, ch. 2004-5; s. 69, ch. 2005-164; s. 41, ch. 2006-290; s. 27, ch. 2008-176; s. 30, ch. 2009-71; s. 2, ch. 2011-94; s. 1, ch. 2012-82; s. 46, ch. 2012-181.</History>
+</Section>

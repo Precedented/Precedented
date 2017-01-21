@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.2081" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Additional duties of secured party having control of collateral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">This section applies to cases in which there is no outstanding secured obligation and the secured party is not committed to make advances, incur obligations, or otherwise give value.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Within 10 days after receiving an authenticated demand by the debtor:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A secured party having control of a deposit account under s. 679.1041(1)(b) shall send to the bank with which the deposit account is maintained an authenticated statement that releases the bank from any further obligation to comply with instructions originated by the secured party;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A secured party having control of a deposit account under s. 679.1041(1)(c) shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Pay the debtor the balance on deposit in the deposit account; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Transfer the balance on deposit into a deposit account in the debtor’s name;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A secured party, other than a buyer, having control of electronic chattel paper under s. 679.1051 shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Communicate the authoritative copy of the electronic chattel paper to the debtor or its designated custodian;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the debtor designates a custodian that is the designated custodian with which the authoritative copy of the electronic chattel paper is maintained for the secured party, communicate to the custodian an authenticated record releasing the designated custodian from any further obligation to comply with instructions originated by the secured party and instructing the custodian to comply with instructions originated by the debtor; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Take appropriate action to enable the debtor or the debtor’s designated custodian to make copies of or revisions to the authoritative copy which add or change an identified assignee of the authoritative copy without the consent of the secured party;</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A secured party having control of investment property under s. 678.1061(4)(b) or s. 679.1061(2) shall send to the securities intermediary or commodity intermediary with which the security entitlement or commodity contract is maintained an authenticated record that releases the securities intermediary or commodity intermediary from any further obligation to comply with entitlement orders or directions originated by the secured party; </Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A secured party having control of a letter-of-credit right under s. 679.1071 shall send to each person having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured party an authenticated release from any further obligation to pay or deliver proceeds of the letter of credit to the secured party; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A secured party having control of an electronic document shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Give control of the electronic document to the debtor or its designated custodian;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If the debtor designates a custodian that is the designated custodian with which the authoritative copy of the electronic document is maintained for the secured party, communicate to the custodian an authenticated record releasing the designated custodian from any further obligation to comply with instructions originated by the secured party and instructing the custodian to comply with instructions originated by the debtor; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Take appropriate action to enable the debtor or its designated custodian to make copies of or revisions to the authenticated copy which add or change an identified assignee of the authoritative copy without the consent of the secured party.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2001-198; s. 61, ch. 2010-131.</History>
+</Section>

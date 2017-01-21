@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1009.94" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Student financial assistance database.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall design and maintain a student financial assistance database that can be used to support all aspects of the administration and delivery of state-funded student financial aid. In addition, the database must have the capability of providing policymakers with comprehensive information regarding the various financial assistance programs available to students attending Florida postsecondary education institutions.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For purposes of this section, financial assistance includes:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For all students, any scholarship, grant, loan, fee waiver, tuition assistance payment, or other form of compensation provided from state or federal funds.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For students attending public institutions, any scholarship, grant, loan, fee waiver, tuition assistance payment, or other form of compensation supported by institutional funds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any financial assistance provided under s. 1009.50, s. 1009.505, s. 1009.51, s. 1009.52, s. 1009.53, s. 1009.55, s. 1009.56, s. 1009.60, s. 1009.62, s. 1009.68, s. 1009.70, s. 1009.701, s. 1009.72, s. 1009.73, s. 1009.74, s. 1009.77, s. 1009.89, or s. 1009.891.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The database must include records on any student receiving any form of financial assistance as described in subsection (2). Each institution participating in any state financial assistance program shall annually report such information to the Department of Education, by the date and in a format prescribed by the department and consistent with the provisions of s. 1002.225, the eligible students to whom financial assistance is disbursed each academic term, the eligibility requirements for recipients, and the aggregate demographics of recipients.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 477, ch. 2002-387; s. 27, ch. 2009-60; s. 7, ch. 2009-239; s. 35, ch. 2010-70; s. 16, ch. 2011-37.</History>
+</Section>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0203.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Tax on gross receipts for utility and communications services.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A tax is imposed on gross receipts from utility services that are delivered to a retail consumer in this state. The tax shall be levied as provided in paragraphs (b)-(j).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A tax is levied on communications services as defined in s. 202.11(1). The tax shall be applied to the same services and transactions as are subject to taxation under chapter 202, and to communications services that are subject to the exemption provided in s. 202.125(1). The tax shall be applied to the sales price of communications services when sold at retail, as the terms are defined in s. 202.11, shall be due and payable at the same time as the taxes imposed pursuant to chapter 202, and shall be administered and collected pursuant to the provisions of chapter 202.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Reference Number="1"/>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The rate applied to utility services shall be 2.5 percent. </Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The rate applied to communications services shall be 2.37 percent.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">There shall be an additional rate of 0.15 percent applied to communication services subject to the tax levied pursuant to s. 202.12(1)(a), (c), and (d). The exemption provided in s. 202.125(1) applies to the tax levied pursuant to this subparagraph.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The tax shall be levied against the total amount of gross receipts received by a distribution company for its sale of utility services if the utility service is delivered to the retail consumer by a distribution company and the retail consumer pays the distribution company a charge for utility service which includes a charge for both the electricity and the transportation of electricity to the retail consumer. The distribution company shall report and remit to the Department of Revenue by the 20th day of each month the taxes levied pursuant to this paragraph during the preceding month.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To the extent practicable, the Department of Revenue must distribute all receipts of taxes remitted under this chapter to the Public Education Capital Outlay and Debt Service Trust Fund in the same month as the department collects such taxes.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each distribution company that receives payment for the delivery of electricity to a retail consumer in this state is subject to tax on the exercise of this privilege as provided by this paragraph unless the payment is subject to tax under paragraph (c). For the exercise of this privilege, the tax levied on such distribution company’s receipts for the delivery of electricity shall be determined by multiplying the number of kilowatt hours delivered by the index price and applying the rate in paragraph (b) to the result.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The index price is the Florida price per kilowatt hour for retail consumers in the previous calendar year, as published in the United States Energy Information Administration Electric Power Monthly and announced by the Department of Revenue on June 1 of each year to be effective for the 12-month period beginning July 1 of that year. For each residential, commercial, and industrial customer class, the applicable index posted for residential, commercial, and industrial will be applied in calculating the gross receipts to which the tax applies. If publication of the indices is delayed or discontinued, the last posted index shall be used until a current index is posted or the department adopts a comparable index by rule.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Tax due under this paragraph shall be administered, paid, and reported in the same manner as the tax due under paragraph (c).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The amount of tax due under this paragraph shall be reduced by the amount of any like tax lawfully imposed on and paid by the person from whom the retail consumer purchased the electricity, whether imposed by and paid to this state, another state, a territory of the United States, or the District of Columbia. This reduction in tax shall be available to the retail consumer as a refund made pursuant to s. 215.26 and does not inure to the benefit of the person who receives payment for the delivery of the electricity. The methods of demonstrating proof of payment and the amount of such refund shall be made according to rules of the Department of Revenue.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Every distribution company that receives payment for the sale or transportation of natural or manufactured gas to a retail consumer in this state is subject to tax on the exercise of this privilege as provided by this paragraph. For the exercise of this privilege, the tax levied on such distribution company’s receipts for the sale or transportation of natural or manufactured gas shall be determined by dividing the number of cubic feet delivered by 1,000, multiplying the resulting number by the index price, and applying the rate in paragraph (b) to the result.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The index price is the Florida price per 1,000 cubic feet for retail consumers in the previous calendar year as published in the United States Energy Information Administration Natural Gas Monthly and announced by the Department of Revenue on June 1 of each year to be effective for the 12-month period beginning July 1 of that year. For each residential, commercial, and industrial customer class, the applicable index posted for residential, commercial, and industrial will be applied in calculating the gross receipts to which the tax applies. If publication of the indices is delayed or discontinued, the last posted index shall be used until a current index is posted or the department adopts a comparable index by rule.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Tax due under this paragraph shall be administered, paid, and reported in the same manner as the tax due under paragraph (c).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The amount of tax due under this paragraph shall be reduced by the amount of any like tax lawfully imposed on and paid by the person from whom the retail consumer purchased the natural gas or manufactured gas, whether imposed by and paid to this state, another state, a territory of the United States, or the District of Columbia. This reduction in tax shall be available to the retail consumer as a refund pursuant to s. 215.26 and does not inure to the benefit of the person providing the transportation service. The methods of demonstrating proof of payment and the amount of such refund shall be made according to rules of the Department of Revenue.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Any person who imports into this state electricity, natural gas, or manufactured gas, or severs natural gas, for that person’s own use or consumption as a substitute for purchasing utility, transportation, or delivery services taxable under this chapter and who cannot demonstrate payment of the tax imposed by this chapter must register with the Department of Revenue and pay into the State Treasury each month an amount equal to the cost price of such electricity, natural gas, or manufactured gas times the rate set forth in paragraph (b), reduced by the amount of any like tax lawfully imposed on and paid by the person from whom the electricity, natural gas, or manufactured gas was purchased or any person who provided delivery service or transportation service in connection with the electricity, natural gas, or manufactured gas. For purposes of this paragraph, the term “cost price” has the meaning ascribed in s. 212.02(4). The methods of demonstrating proof of payment and the amount of such reductions in tax shall be made according to rules of the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Electricity produced by cogeneration or by small power producers which is transmitted and distributed by a public utility between two locations of a customer of the utility pursuant to s. 366.051 is subject to the tax imposed by this section. The tax shall be applied to the cost price of such electricity as provided in s. 212.02(4) and shall be paid each month by the producer of such electricity.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Electricity produced by cogeneration or by small power producers during the 12-month period ending June 30 of each year which is in excess of nontaxable electricity produced during the 12-month period ending June 30, 1990, is subject to the tax imposed by this section. The tax shall be applied to the cost price of such electricity as provided in s. 212.02(4) and shall be paid each month, beginning with the month in which total production exceeds the production of nontaxable electricity for the 12-month period ending June 30, 1990. For purposes of this paragraph, “nontaxable electricity” means electricity produced by cogeneration or by small power producers which is not subject to tax under paragraph (g). Taxes paid pursuant to paragraph (g) may be credited against taxes due under this paragraph. Electricity generated as part of an industrial manufacturing process which manufactures products from phosphate rock, raw wood fiber, paper, citrus, or any agricultural product shall not be subject to the tax imposed by this paragraph. “Industrial manufacturing process” means the entire process conducted at the location where the process takes place.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Any person other than a cogenerator or small power producer described in paragraph (h) who produces for his or her own use electrical energy which is a substitute for electrical energy produced by an electric utility as defined in s. 366.02 is subject to the tax imposed by this section. The tax shall be applied to the cost price of such electrical energy as provided in s. 212.02(4) and shall be paid each month. The provisions of this paragraph do not apply to any electrical energy produced and used by an electric utility.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this chapter, with the exception of a communications services dealer reporting taxes administered under chapter 202, the department may require:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A quarterly return and payment when the tax remitted for the preceding four calendar quarters did not exceed $1,000;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A semiannual return and payment when the tax remitted for the preceding four calendar quarters did not exceed $500; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An annual return and payment when the tax remitted for the preceding four calendar quarters did not exceed $100.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In addition to any other penalty provided by law, any person who fails to timely report and pay any tax imposed on gross receipts from utility services under this chapter shall pay a penalty equal to 10 percent of any unpaid tax, if the failure is for less than 31 days, plus an additional 10 percent of any unpaid tax for each additional 30 days or fraction thereof. However, such penalty may not be less than $10 or exceed a total of 50 percent in the aggregate of any unpaid tax.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In addition to any other penalty provided by law, any person who falsely or fraudulently reports or unlawfully attempts to evade paying any tax imposed on gross receipts from utility services under this chapter shall pay a penalty equal to 100 percent of any tax due and is guilty of a misdemeanor of the second degree, punishable as provided under s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The tax imposed by subsection (1) does not apply to:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The sale or transportation of natural gas or manufactured gas to a public or private utility, including a municipal corporation or rural electric cooperative association, either for resale or for use as fuel in the generation of electricity; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The sale or delivery of electricity to a public or private utility, including a municipal corporation or rural electric cooperative association, for resale, or as part of an electrical interchange agreement or contract between such utilities for the purpose of transferring more economically generated power;</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">provided the person deriving gross receipts from such sale demonstrates that a sale, transportation, or delivery for resale in fact occurred and complies with the following requirements: A sale, transportation, or delivery for resale must be in strict compliance with the rules and regulations of the Department of Revenue; and any sale subject to the tax imposed by this section which is not in strict compliance with the rules and regulations of the Department of Revenue shall be subject to the tax at the appropriate rate imposed on utilities by paragraph (b) on the person making the sale. Any person making a sale for resale may, through an informal protest provided for in s. 213.21 and the rules of the Department of Revenue, provide the department with evidence of the exempt status of a sale. The department shall adopt rules that provide that valid proof and documentation of the resale by a person making the sale for resale will be accepted by the department when submitted during the protest period but will not be accepted when submitted in any proceeding under chapter 120 or any circuit court action instituted under chapter 72;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Wholesale sales of electric transmission service;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The use of natural gas in the production of oil or gas, or the use of natural or manufactured gas by a person transporting natural or manufactured gas, when used and consumed in providing such services; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The sale or transportation to, or use of, natural gas or manufactured gas by a person eligible for an exemption under s. 212.08(7)(ff)2. for use as an energy source or a raw material. Possession by a seller of natural or manufactured gas or by any person providing transportation or delivery of natural or manufactured gas of a written certification by the purchaser, certifying the purchaser’s entitlement to the exclusion permitted by this paragraph, relieves the seller or person providing transportation or delivery from the responsibility of remitting tax on the nontaxable amounts, and the department shall look solely to the purchaser for recovery of such tax if the department determines that the purchaser was not entitled to the exclusion. The certification must include an acknowledgment by the purchaser that it will be liable for tax pursuant to paragraph (1)(f) if the requirements for exclusion are not met.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The tax imposed pursuant to this chapter relating to the provision of any utility services at the option of the person supplying the taxable services may be separately stated as Florida gross receipts tax on the total amount of any bill, invoice, or other tangible evidence of the provision of such taxable services and may be added as a component part of the total charge. Whenever a provider of taxable services elects to separately state such tax as a component of the charge for the provision of such taxable services, every person, including all governmental units, shall remit the tax to the person who provides such taxable services as a part of the total bill, and the tax is a component part of the debt of the purchaser to the person who provides such taxable services until paid and, if unpaid, is recoverable at law in the same manner as any other part of the charge for such taxable services. For a utility, the decision to separately state any increase in the rate of tax imposed by this chapter which is effective after December 31, 1989, and the ability to recover the increased charge from the customer shall not be subject to regulatory approval.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The tax is imposed upon every person for the privilege of conducting a utility or communications services business, and each provider of the taxable services remains fully and completely liable for the tax, even if the tax is separately stated as a line item or component of the total bill.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any person who provides such services and who fails, neglects, or refuses to remit the tax imposed in this chapter, either by himself or herself, or through agents or employees, is liable for the tax and is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Gross receipts subject to the tax imposed by this section for the provision of electricity shall include receipts from monthly customer charges or monthly customer facility charges.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of subsection (4) and s. 212.07(2), sums that were charged or billed as taxes under this section and chapter 212 and that were remitted to the state in full as taxes shall not be subject to refund by the state or by the utility or other person that remitted the sums, when the amount remitted was not in excess of the amount of tax imposed by chapter 212 and this section.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Any person who engages in the transportation of natural or manufactured gas shall furnish annually to the Department of Revenue a list of customers to whom transportation services were provided in the prior year. This reporting requirement does not apply to distribution companies. Any person required to furnish such a list may elect to identify only those customers who take direct delivery without purchasing interconnection services from a distribution company. Such reports are subject to the confidentiality provisions of s. 213.053. Any person required to furnish a customer list may instead comply by maintaining a publicly accessible customer list on its Internet website. Such list shall be updated no less than annually.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 2, ch. 15658, 1931; CGL 1936 Supp. 1279(108), (109); s. 7, ch. 22858, 1945; s. 1, ch. 57-819; s. 7, ch. 63-253; s. 5, ch. 65-371; s. 2, ch. 65-420; ss. 21, 35, ch. 69-106; s. 10, ch. 75-292; s. 3, ch. 80-381; s. 15, ch. 83-137; ss. 1, 4, ch. 84-342; s. 29, ch. 85-116; s. 2, ch. 85-174; s. 2, ch. 86-155; s. 68, ch. 87-6; s. 41, ch. 87-101; s. 43, ch. 87-224; s. 7, ch. 89-292; s. 12, ch. 89-356; s. 14, ch. 90-132; s. 11, ch. 91-112; s. 234, ch. 91-224; s. 8, ch. 92-320; s. 10, ch. 93-233; s. 1054, ch. 95-147; s. 2, ch. 95-403; s. 12, ch. 96-397; s. 6, ch. 97-233; s. 11, ch. 98-277; ss. 40, 41, 58, ch. 2000-260; s. 10, ch. 2000-355; ss. 25, 38, ch. 2001-140; s. 1, ch. 2003-17; s. 178, ch. 2003-261; s. 1, ch. 2005-148; s. 7, ch. 2005-187; s. 2, ch. 2007-60; s. 3, ch. 2010-149; s. 9, ch. 2012-70.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 6, ch. 2010-149, provides that “[t]he Department of Revenue may, and all conditions are deemed met to, adopt emergency rules pursuant to ss. 120.536(1) and 120.54, Florida Statutes, for the purpose of promulgating such forms and instructions as are required to effectuate this act.”</Text>
+	</Note>
+</Section>

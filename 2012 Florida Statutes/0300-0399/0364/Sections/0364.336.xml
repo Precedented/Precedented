@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.336" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Regulatory assessment fees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any law to the contrary, each telecommunications company licensed or operating under this chapter, for any part of the preceding 6-month period, shall pay to the commission, within 30 days following the end of each 6-month period, a fee that may not exceed 0.25 percent annually of its gross operating revenues derived from intrastate business, except, for purposes of this section and the fee specified in s. 350.113(3), any amount paid to another telecommunications company for the use of any telecommunications network shall be deducted from the gross operating revenue for purposes of computing the fee due. The commission shall by rule assess a minimum fee in an amount up to $1,000. The minimum amount may vary depending on the type of service provided by the telecommunications company and shall, to the extent practicable, be related to the cost of regulating such type of company. Differences, if any, between the amount paid in any 6-month period and the amount actually determined by the commission to be due shall, upon motion by the commission, be immediately paid or refunded. Fees under this section may not be less than $50 annually. Such fees shall be deposited in accordance with s. 350.113. The commission may by rule establish criteria for payment of the regulatory assessment fee on an annual basis rather than on a semiannual basis.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">By August 1, 2011, the commission must begin rulemaking to reduce the regulatory assessment fee for telecommunications companies under s. 350.113 and this section, as required to reflect the reduction in regulation resulting from the amendments to this chapter that take effect on July 1, 2011. The reduced fee shall be applied beginning with payments due in January 2012 on revenues for the preceding 6-month period. The commission’s consideration of the required amount of the reduction to the regulatory assessment fee must include, but is not limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The regulatory activities that are no longer required and the number of staff currently assigned to such activities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The number of staff necessary to carry out the reduced level of regulatory responsibilities based on reductions in workload for the staff in the Division of Regulatory Analysis, the Office of Auditing and Performance Analysis, and the Division of Service, Safety and Consumer Assistance.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The reductions in overhead associated with the commissioner’s offices, the Office of General Counsel, the Office of Commission Clerk, the Office of Information Technology Services, the Office of Public Information, and the Office of Inspector General.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The reductions in direct and indirect costs, including allocations of fixed costs.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">By January 15, 2012, and annually thereafter, the commission must report to the Governor, the President of the Senate, and the Speaker of the House of Representatives, providing a detailed description of its efforts to reduce the regulatory assessment fee for telecommunications companies, including a detailed description of the regulatory activities that are no longer required; the commensurate reduction in costs associated with this reduction in regulation; the regulatory activities that continue to be required under this chapter; and the costs associated with those regulatory activities.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 33, 49, ch. 90-244; s. 4, ch. 91-429; s. 22, ch. 95-403; s. 13, ch. 98-277; s. 19, ch. 2005-132; s. 32, ch. 2011-36.</History>
+</Section>

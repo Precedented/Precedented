@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0921.141" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Sentence of death or life imprisonment for capital felonies; further proceedings to determine sentence.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">SEPARATE PROCEEDINGS ON ISSUE OF PENALTY.<EmDash />Upon conviction or adjudication of guilt of a defendant of a capital felony, the court shall conduct a separate sentencing proceeding to determine whether the defendant should be sentenced to death or life imprisonment as authorized by s. 775.082. The proceeding shall be conducted by the trial judge before the trial jury as soon as practicable. If, through impossibility or inability, the trial jury is unable to reconvene for a hearing on the issue of penalty, having determined the guilt of the accused, the trial judge may summon a special juror or jurors as provided in chapter 913 to determine the issue of the imposition of the penalty. If the trial jury has been waived, or if the defendant pleaded guilty, the sentencing proceeding shall be conducted before a jury impaneled for that purpose, unless waived by the defendant. In the proceeding, evidence may be presented as to any matter that the court deems relevant to the nature of the crime and the character of the defendant and shall include matters relating to any of the aggravating or mitigating circumstances enumerated in subsections (5) and (6). Any such evidence which the court deems to have probative value may be received, regardless of its admissibility under the exclusionary rules of evidence, provided the defendant is accorded a fair opportunity to rebut any hearsay statements. However, this subsection shall not be construed to authorize the introduction of any evidence secured in violation of the Constitution of the United States or the Constitution of the State of Florida. The state and the defendant or the defendant’s counsel shall be permitted to present argument for or against sentence of death.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">ADVISORY SENTENCE BY THE JURY.<EmDash />After hearing all the evidence, the jury shall deliberate and render an advisory sentence to the court, based upon the following matters:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Whether sufficient aggravating circumstances exist as enumerated in subsection (5);</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Whether sufficient mitigating circumstances exist which outweigh the aggravating circumstances found to exist; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Based on these considerations, whether the defendant should be sentenced to life imprisonment or death.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">FINDINGS IN SUPPORT OF SENTENCE OF DEATH.<EmDash />Notwithstanding the recommendation of a majority of the jury, the court, after weighing the aggravating and mitigating circumstances, shall enter a sentence of life imprisonment or death, but if the court imposes a sentence of death, it shall set forth in writing its findings upon which the sentence of death is based as to the facts:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That sufficient aggravating circumstances exist as enumerated in subsection (5), and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That there are insufficient mitigating circumstances to outweigh the aggravating circumstances.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">In each case in which the court imposes the death sentence, the determination of the court shall be supported by specific written findings of fact based upon the circumstances in subsections (5) and (6) and upon the records of the trial and the sentencing proceedings. If the court does not make the findings requiring the death sentence within 30 days after the rendition of the judgment and sentence, the court shall impose sentence of life imprisonment in accordance with s. 775.082.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">REVIEW OF JUDGMENT AND SENTENCE.<EmDash />The judgment of conviction and sentence of death shall be subject to automatic review by the Supreme Court of Florida and disposition rendered within 2 years after the filing of a notice of appeal. Such review by the Supreme Court shall have priority over all other cases and shall be heard in accordance with rules promulgated by the Supreme Court.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">AGGRAVATING CIRCUMSTANCES.<EmDash />Aggravating circumstances shall be limited to the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed by a person previously convicted of a felony and under sentence of imprisonment or placed on community control or on felony probation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The defendant was previously convicted of another capital felony or of a felony involving the use or threat of violence to the person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The defendant knowingly created a great risk of death to many persons.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed while the defendant was engaged, or was an accomplice, in the commission of, or an attempt to commit, or flight after committing or attempting to commit, any: robbery; sexual battery; aggravated child abuse; abuse of an elderly person or disabled adult resulting in great bodily harm, permanent disability, or permanent disfigurement; arson; burglary; kidnapping; aircraft piracy; or unlawful throwing, placing, or discharging of a destructive device or bomb.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed for the purpose of avoiding or preventing a lawful arrest or effecting an escape from custody.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed for pecuniary gain.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed to disrupt or hinder the lawful exercise of any governmental function or the enforcement of laws.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The capital felony was especially heinous, atrocious, or cruel.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The capital felony was a homicide and was committed in a cold, calculated, and premeditated manner without any pretense of moral or legal justification.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The victim of the capital felony was a law enforcement officer engaged in the performance of his or her official duties.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">The victim of the capital felony was an elected or appointed public official engaged in the performance of his or her official duties if the motive for the capital felony was related, in whole or in part, to the victim’s official capacity.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">The victim of the capital felony was a person less than 12 years of age.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">The victim of the capital felony was particularly vulnerable due to advanced age or disability, or because the defendant stood in a position of familial or custodial authority over the victim.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed by a criminal gang member, as defined in s. 874.03.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed by a person designated as a sexual predator pursuant to s. 775.21 or a person previously designated as a sexual predator who had the sexual predator designation removed.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed by a person subject to an injunction issued pursuant to s. 741.30 or s. 784.046, or a foreign protection order accorded full faith and credit pursuant to s. 741.315, and was committed against the petitioner who obtained the injunction or protection order or any spouse, child, sibling, or parent of the petitioner.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">MITIGATING CIRCUMSTANCES.<EmDash />Mitigating circumstances shall be the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The defendant has no significant history of prior criminal activity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The capital felony was committed while the defendant was under the influence of extreme mental or emotional disturbance.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The victim was a participant in the defendant’s conduct or consented to the act.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The defendant was an accomplice in the capital felony committed by another person and his or her participation was relatively minor.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The defendant acted under extreme duress or under the substantial domination of another person.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The capacity of the defendant to appreciate the criminality of his or her conduct or to conform his or her conduct to the requirements of law was substantially impaired.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The age of the defendant at the time of the crime.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The existence of any other factors in the defendant’s background that would mitigate against imposition of the death penalty.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">VICTIM IMPACT EVIDENCE.<EmDash />Once the prosecution has provided evidence of the existence of one or more aggravating circumstances as described in subsection (5), the prosecution may introduce, and subsequently argue, victim impact evidence to the jury. Such evidence shall be designed to demonstrate the victim’s uniqueness as an individual human being and the resultant loss to the community’s members by the victim’s death. Characterizations and opinions about the crime, the defendant, and the appropriate sentence shall not be permitted as a part of victim impact evidence.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">APPLICABILITY.<EmDash />This section does not apply to a person convicted or adjudicated guilty of a capital drug trafficking felony under s. 893.135.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 237a, ch. 19554, 1939; CGL 1940 Supp. 8663(246); s. 119, ch. 70-339; s. 1, ch. 72-72; s. 9, ch. 72-724; s. 1, ch. 74-379; s. 248, ch. 77-104; s. 1, ch. 77-174; s. 1, ch. 79-353; s. 177, ch. 83-216; s. 1, ch. 87-368; s. 10, ch. 88-381; s. 3, ch. 90-112; s. 1, ch. 91-270; s. 1, ch. 92-81; s. 1, ch. 95-159; s. 5, ch. 96-290; s. 1, ch. 96-302; s. 7, ch. 2005-28; s. 2, ch. 2005-64; s. 27, ch. 2008-238; s. 25, ch. 2010-117; s. 1, ch. 2010-120.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 919.23.</Text>
+	</Note>
+</Section>

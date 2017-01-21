@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0196.202" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Property of widows, widowers, blind persons, and persons totally and permanently disabled.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Property to the value of $500 of every widow, widower, blind person, or totally and permanently disabled person who is a bona fide resident of this state is exempt from taxation. As used in this section, the term “totally and permanently disabled person” means a person who is currently certified by a physician licensed in this state, by the United States Department of Veterans Affairs or its predecessor, or by the Social Security Administration to be totally and permanently disabled.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An applicant for the exemption under this section may apply for the exemption before receiving the necessary documentation from the United States Department of Veterans Affairs or its predecessor, or the Social Security Administration. Upon receipt of the documentation, the exemption shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s. 197.182(1)(e).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 71-133; s. 1, ch. 88-293; s. 1, ch. 2001-204; s. 1, ch. 2001-245; s. 27, ch. 2012-193.</History>
+</Section>

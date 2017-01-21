@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXX">
+	<ChapterNumber>429</ChapterNumber>
+	<ChapterName xml:space="preserve">Assisted care communities</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Assisted living facilities</PartTitle>
+		<Section Number="0429.01" />
+		<Section Number="0429.02" />
+		<Section Number="0429.04" />
+		<Section Number="0429.07" />
+		<Section Number="0429.075" />
+		<Section Number="0429.08" />
+		<Section Number="0429.11" />
+		<Section Number="0429.12" />
+		<Section Number="0429.14" />
+		<Section Number="0429.17" />
+		<Section Number="0429.174" />
+		<Section Number="0429.176" />
+		<Section Number="0429.177" />
+		<Section Number="0429.178" />
+		<Section Number="0429.18" />
+		<Section Number="0429.19" />
+		<Section Number="0429.195" />
+		<Section Number="0429.20" />
+		<Section Number="0429.22" />
+		<Section Number="0429.23" />
+		<Section Number="0429.24" />
+		<Section Number="0429.255" />
+		<Section Number="0429.256" />
+		<Section Number="0429.26" />
+		<Section Number="0429.27" />
+		<Section Number="0429.275" />
+		<Section Number="0429.28" />
+		<Section Number="0429.29" />
+		<Section Number="0429.293" />
+		<Section Number="0429.294" />
+		<Section Number="0429.295" />
+		<Section Number="0429.296" />
+		<Section Number="0429.297" />
+		<Section Number="0429.298" />
+		<Section Number="0429.31" />
+		<Section Number="0429.34" />
+		<Section Number="0429.35" />
+		<Section Number="0429.41" />
+		<Section Number="0429.42" />
+		<Section Number="0429.44" />
+		<Section Number="0429.445" />
+		<Section Number="0429.47" />
+		<Section Number="0429.49" />
+		<Section Number="0429.52" />
+		<Section Number="0429.53" />
+		<Section Number="0429.54" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Adult family-care homes</PartTitle>
+		<Section Number="0429.60" />
+		<Section Number="0429.63" />
+		<Section Number="0429.65" />
+		<Section Number="0429.67" />
+		<Section Number="0429.69" />
+		<Section Number="0429.71" />
+		<Section Number="0429.73" />
+		<Section Number="0429.75" />
+		<Section Number="0429.81" />
+		<Section Number="0429.83" />
+		<Section Number="0429.85" />
+		<Section Number="0429.87" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Adult day care centers</PartTitle>
+		<Section Number="0429.90" />
+		<Section Number="0429.901" />
+		<Section Number="0429.903" />
+		<Section Number="0429.905" />
+		<Section Number="0429.907" />
+		<Section Number="0429.909" />
+		<Section Number="0429.911" />
+		<Section Number="0429.913" />
+		<Section Number="0429.915" />
+		<Section Number="0429.917" />
+		<Section Number="0429.918" />
+		<Section Number="0429.919" />
+		<Section Number="0429.925" />
+		<Section Number="0429.927" />
+		<Section Number="0429.929" />
+		<Section Number="0429.931" />
+	</Part>
+</Chapter>

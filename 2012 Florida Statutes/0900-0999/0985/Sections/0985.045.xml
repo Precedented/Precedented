@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.045" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Court records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The clerk of the court shall make and keep records of all cases brought before it under this chapter. The court shall preserve the records pertaining to a child charged with committing a delinquent act or violation of law until the child reaches 24 years of age or reaches 26 years of age if he or she is a serious or habitual delinquent child, until 5 years after the last entry was made, or until 3 years after the death of the child, whichever is earlier, and may then destroy them, except that records made of traffic offenses in which there is no allegation of delinquency may be destroyed as soon as this can be reasonably accomplished. The court shall make official records of all petitions and orders filed in a case arising under this chapter and of any other pleadings, certificates, proofs of publication, summonses, warrants, and writs that are filed pursuant to the case.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The clerk shall keep all official records required by this section separate from other records of the circuit court, except those records pertaining to motor vehicle violations, which shall be forwarded to the Department of Highway Safety and Motor Vehicles. Except as provided in ss. 943.053 and 985.04(6)(b) and (7), official records required by this chapter are not open to inspection by the public, but may be inspected only upon order of the court by persons deemed by the court to have a proper interest therein, except that a child and the parents, guardians, or legal custodians of the child and their attorneys, law enforcement agencies, the Department of Juvenile Justice and its designees, the Parole Commission, the Department of Corrections, and the Justice Administrative Commission shall always have the right to inspect and copy any official record pertaining to the child. The court may permit authorized representatives of recognized organizations compiling statistics for proper purposes to inspect, and make abstracts from, official records under whatever conditions upon the use and disposition of such records the court may deem proper and may punish by contempt proceedings any violation of those conditions.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">All orders of the court entered under this chapter must be in writing and signed by the judge, except that the clerk or deputy clerk may sign a summons or notice to appear.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A court record of proceedings under this chapter is not admissible in evidence in any other civil or criminal proceeding, except that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Orders transferring a child for trial as an adult are admissible in evidence in the court in which he or she is tried, but create no presumption as to the guilt of the child; nor may such orders be read to, or commented upon in the presence of, the jury in any trial.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Orders binding an adult over for trial on a criminal charge, made by the committing trial court judge, are admissible in evidence in the court to which the adult is bound over.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Records of proceedings under this chapter forming a part of the record on appeal must be used in the appellate court in the manner provided in s. 985.534.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Records are admissible in evidence in any case in which a person is being tried upon a charge of having committed perjury, to the extent such records are necessary to prove the charge.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Records of proceedings under this chapter may be used to prove disqualification under ss. 110.1127, 393.0655, 394.457, 397.451, 402.305, 402.313, 409.175, 409.176, and 985.644.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">This chapter does not prohibit a circuit court from providing a restitution order containing the information prescribed in s. 985.0301(5)(h) to a collection court or a private collection agency for the sole purpose of collecting unpaid restitution ordered in a case in which the circuit court has retained jurisdiction over the child and the child’s parent or legal guardian. The collection court or private collection agency shall maintain the confidential status of the information to the extent such confidentiality is provided by law.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 97-238; s. 116, ch. 2000-349; s. 51, ch. 2004-11; s. 64, ch. 2005-236; s. 13, ch. 2006-120; s. 11, ch. 2007-209; s. 7, ch. 2012-56.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 985.05.</Text>
+	</Note>
+</Section>

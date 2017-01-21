@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0679.3121" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Perfection of security interests in chattel paper, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights, and money; perfection by permissive filing; temporary perfection without filing or transfer of possession.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A security interest in chattel paper, negotiable documents, instruments, or investment property may be perfected by filing.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Except as otherwise provided in s. 679.3151(3) and (4) for proceeds:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A security interest in a deposit account may be perfected only by control under s. 679.3141.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">And except as otherwise provided in s. 679.3081(4), a security interest in a letter-of-credit right may be perfected only by control under s. 679.3141.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A security interest in money may be perfected only by the secured party’s taking possession under s. 679.3131.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">While goods are in the possession of a bailee that has issued a negotiable document covering the goods:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A security interest in the goods may be perfected by perfecting a security interest in the document; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A security interest perfected in the document has priority over any security interest that becomes perfected in the goods by another method during that time.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">While goods are in the possession of a bailee that has issued a nonnegotiable document covering the goods, a security interest in the goods may be perfected by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Issuance of a document in the name of the secured party;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The bailee’s receipt of notification of the secured party’s interest; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Filing as to the goods.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A security interest in certificated securities, negotiable documents, or instruments is perfected without filing or the taking of possession or control for a period of 20 days from the time it attaches to the extent that it arises for new value given under an authenticated security agreement.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A perfected security interest in a negotiable document or goods in possession of a bailee, other than one that has issued a negotiable document for the goods, remains perfected for 20 days without filing if the secured party makes available to the debtor the goods or documents representing the goods for the purpose of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ultimate sale or exchange; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Loading, unloading, storing, shipping, transshipping, manufacturing, processing, or otherwise dealing with them in a manner preliminary to their sale or exchange.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A perfected security interest in a certificated security or instrument remains perfected for 20 days without filing if the secured party delivers the security certificate or instrument to the debtor for the purpose of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ultimate sale or exchange; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Presentation, collection, enforcement, renewal, or registration of transfer.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">After the 20-day period specified in subsection (5), subsection (6), or subsection (7) expires, perfection depends upon compliance with this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2001-198; s. 64, ch. 2010-131.</History>
+</Section>

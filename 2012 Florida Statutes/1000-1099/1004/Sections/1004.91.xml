@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.91" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Career-preparatory instruction.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt, by rule, standards of basic skill mastery for certificate career education programs. Each school district and Florida College System institution that conducts programs that confer career credit shall provide career-preparatory instruction through which students receive the basic skills instruction required pursuant to this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Students who enroll in a program offered for career credit of 450 hours or more shall complete an entry-level examination within the first 6 weeks of admission into the program. The State Board of Education shall designate examinations that are currently in existence, the results of which are comparable across institutions, to assess student mastery of basic skills. Any student found to lack the required level of basic skills for such program shall be referred to career-preparatory instruction or adult basic education for a structured program of basic skills instruction. Such instruction may include English for speakers of other languages. A student may not receive a career certificate of completion without first demonstrating the basic skills required in the state curriculum frameworks for the program.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An adult student with a disability may be exempted from the provisions of this section. A student who possesses a college degree at the associate in applied science level or higher is exempt from this section. A student who has completed or who is exempt from the college-level communication and computation skills examination pursuant to <Reference Number="1" />s. 1008.29, or who is exempt from the college entry-level examination pursuant to <Reference Number="1" />s. 1008.29, is exempt from the provisions of this section. Students who have passed a state, national, or industry licensure exam are exempt from this section. An adult student who is enrolled in an apprenticeship program that is registered with the Department of Education in accordance with the provisions of chapter 446 is exempt from the provisions of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 234, ch. 2002-387; s. 93, ch. 2004-357; s. 14, ch. 2008-235; s. 66, ch. 2011-5.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed by s. 21, ch. 2009-59.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0373.709" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Regional water supply planning.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The governing board of each water management district shall conduct water supply planning for any water supply planning region within the district identified in the appropriate district water supply plan under s. 373.036, where it determines that existing sources of water are not adequate to supply water for all existing and future reasonable-beneficial uses and to sustain the water resources and related natural systems for the planning period. The planning must be conducted in an open public process, in coordination and cooperation with local governments, regional water supply authorities, government-owned and privately owned water and wastewater utilities, multijurisdictional water supply entities, self-suppliers, reuse utilities, the department, and other affected and interested parties. The districts shall actively engage in public education and outreach to all affected local entities and their officials, as well as members of the public, in the planning process and in seeking input. During preparation, but prior to completion of the regional water supply plan, the district must conduct at least one public workshop to discuss the technical data and modeling tools anticipated to be used to support the regional water supply plan. The district shall also hold several public meetings to communicate the status, overall conceptual intent, and impacts of the plan on existing and future reasonable-beneficial uses and related natural systems. During the planning process, a local government may choose to prepare its own water supply assessment to determine if existing water sources are adequate to meet existing and projected reasonable-beneficial needs of the local government while sustaining water resources and related natural systems. The local government shall submit such assessment, including the data and methodology used, to the district. The district shall consider the local government’s assessment during the formation of the plan. A determination by the governing board that initiation of a regional water supply plan for a specific planning region is not needed pursuant to this section shall be subject to s. 120.569. The governing board shall reevaluate such a determination at least once every 5 years and shall initiate a regional water supply plan, if needed, pursuant to this subsection.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each regional water supply plan shall be based on at least a 20-year planning period and shall include, but need not be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A water supply development component for each water supply planning region identified by the district which includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A quantification of the water supply needs for all existing and future reasonable-beneficial uses within the planning horizon. The level-of-certainty planning goal associated with identifying the water supply needs of existing and future reasonable-beneficial uses shall be based upon meeting those needs for a 1-in-10-year drought event. Population projections used for determining public water supply needs must be based upon the best available data. In determining the best available data, the district shall consider the University of Florida’s Bureau of Economic and Business Research (BEBR) medium population projections and any population projection data and analysis submitted by a local government pursuant to the public workshop described in subsection (1) if the data and analysis support the local government’s comprehensive plan. Any adjustment of or deviation from the BEBR projections must be fully described, and the original BEBR data must be presented along with the adjusted data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A list of water supply development project options, including traditional and alternative water supply project options, from which local government, government-owned and privately owned utilities, regional water supply authorities, multijurisdictional water supply entities, self-suppliers, and others may choose for water supply development. In addition to projects listed by the district, such users may propose specific projects for inclusion in the list of alternative water supply projects. If such users propose a project to be listed as an alternative water supply project, the district shall determine whether it meets the goals of the plan, and, if so, it shall be included in the list. The total capacity of the projects included in the plan shall exceed the needs identified in subparagraph 1. and shall take into account water conservation and other demand management measures, as well as water resources constraints, including adopted minimum flows and levels and water reservations. Where the district determines it is appropriate, the plan should specifically identify the need for multijurisdictional approaches to project options that, based on planning level analysis, are appropriate to supply the intended uses and that, based on such analysis, appear to be permittable and financially and technically feasible. The list of water supply development options must contain provisions that recognize that alternative water supply options for agricultural self-suppliers are limited.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For each project option identified in subparagraph 2., the following shall be provided:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An estimate of the amount of water to become available through the project.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The timeframe in which the project option should be implemented and the estimated planning-level costs for capital investment and operating and maintaining the project.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">An analysis of funding needs and sources of possible funding options. For alternative water supply projects the water management districts shall provide funding assistance in accordance with s. 373.707(8).</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Identification of the entity that should implement each project option and the current status of project implementation.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A water resource development component that includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A listing of those water resource development projects that support water supply development.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">For each water resource development project listed:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">An estimate of the amount of water to become available through the project.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The timeframe in which the project option should be implemented and the estimated planning-level costs for capital investment and for operating and maintaining the project.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">An analysis of funding needs and sources of possible funding options.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Identification of the entity that should implement each project option and the current status of project implementation.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The recovery and prevention strategy described in s. 373.0421(2).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A funding strategy for water resource development projects, which shall be reasonable and sufficient to pay the cost of constructing or implementing all of the listed projects.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Consideration of how the project options addressed in paragraph (a) serve the public interest or save costs overall by preventing the loss of natural resources or avoiding greater future expenditures for water resource development or water supply development. However, unless adopted by rule, these considerations do not constitute final agency action.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The technical data and information applicable to each planning region which are necessary to support the regional water supply plan.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The minimum flows and levels established for water resources within each planning region.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Reservations of water adopted by rule pursuant to s. 373.223(4) within each planning region.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Identification of surface waters or aquifers for which minimum flows and levels are scheduled to be adopted.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">An analysis, developed in cooperation with the department, of areas or instances in which the variance provisions of s. 378.212(1)(g) or s. 378.404(9) may be used to create water supply development or water resource development projects.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The water supply development component of a regional water supply plan which deals with or affects public utilities and public water supply for those areas served by a regional water supply authority and its member governments within the boundary of the Southwest Florida Water Management District shall be developed jointly by the authority and the district. In areas not served by regional water supply authorities, or other multijurisdictional water supply entities, and where opportunities exist to meet water supply needs more efficiently through multijurisdictional projects identified pursuant to paragraph (2)(a), water management districts are directed to assist in developing multijurisdictional approaches to water supply project development jointly with affected water utilities, special districts, and local governments.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The South Florida Water Management District shall include in its regional water supply plan water resource and water supply development projects that promote the elimination of wastewater ocean outfalls as provided in s. 403.086(9).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Governing board approval of a regional water supply plan shall not be subject to the rulemaking requirements of chapter 120. However, any portion of an approved regional water supply plan which affects the substantial interests of a party shall be subject to s. 120.569.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Annually and in conjunction with the reporting requirements of s. 373.536(6)(a)4., the department shall submit to the Governor and the Legislature a report on the status of regional water supply planning in each district. The report shall include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A compilation of the estimated costs of and potential sources of funding for water resource development and water supply development projects as identified in the water management district regional water supply plans.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The percentage and amount, by district, of district ad valorem tax revenues or other district funds made available to develop alternative water supplies.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A description of each district’s progress toward achieving its water resource development objectives, including the district’s implementation of its 5-year water resource development work program.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">An assessment of the specific progress being made to implement each alternative water supply project option chosen by the entities and identified for implementation in the plan.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">An overall assessment of the progress being made to develop water supply in each district, including, but not limited to, an explanation of how each project, either alternative or traditional, will produce, contribute to, or account for additional water being made available for consumptive uses, an estimate of the quantity of water to be produced by each project, and an assessment of the contribution of the district’s regional water supply plan in providing sufficient water to meet the needs of existing and future reasonable-beneficial uses for a 1-in-10-year drought event, as well as the needs of the natural systems.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Nothing contained in the water supply development component of a regional water supply plan shall be construed to require local governments, government-owned or privately owned water utilities, special districts, self-suppliers, regional water supply authorities, multijurisdictional water supply entities, or other water suppliers to select a water supply development project identified in the component merely because it is identified in the plan. Except as provided in s. 373.223(3) and (5), the plan may not be used in the review of permits under part II of this chapter unless the plan or an applicable portion thereof has been adopted by rule. However, this subsection does not prohibit a water management district from employing the data or other information used to establish the plan in reviewing permits under part II, nor does it limit the authority of the department or governing board under part II.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Where the water supply component of a water supply planning region shows the need for one or more alternative water supply projects, the district shall notify the affected local governments and make every reasonable effort to educate and involve local public officials in working toward solutions in conjunction with the districts and, where appropriate, other local and regional water supply entities.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Within 6 months following approval or amendment of its regional water supply plan, each water management district shall notify by certified mail each entity identified in sub-subparagraph (2)(a)3.d. of that portion of the plan relevant to the entity. Upon request of such an entity, the water management district shall appear before and present its findings and recommendations to the entity.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Within 1 year after the notification by a water management district pursuant to paragraph (a), each entity identified in sub-subparagraph (2)(a)3.d. shall provide to the water management district written notification of the following: the alternative water supply projects or options identified in paragraph (2)(a) which it has developed or intends to develop, if any; an estimate of the quantity of water to be produced by each project; and the status of project implementation, including development of the financial plan, facilities master planning, permitting, and efforts in coordinating multijurisdictional projects, if applicable. The information provided in the notification shall be updated annually, and a progress report shall be provided by November 15 of each year to the water management district. If an entity does not intend to develop one or more of the alternative water supply project options identified in the regional water supply plan, the entity shall propose, within 1 year after notification by a water management district pursuant to paragraph (a), another alternative water supply project option sufficient to address the needs identified in paragraph (2)(a) within the entity’s jurisdiction and shall provide an estimate of the quantity of water to be produced by the project and the status of project implementation as described in this paragraph. The entity may request that the water management district consider the other project for inclusion in the regional water supply plan.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">For any regional water supply plan that is scheduled to be updated before December 31, 2005, the deadline for such update shall be extended by 1 year.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 28, 49, 50, ch. 2010-205.</History>
+</Section>

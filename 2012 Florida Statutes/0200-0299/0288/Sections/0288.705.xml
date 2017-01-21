@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0288.705" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Statewide contracts register.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">All state agencies shall in a timely manner provide the Florida Small Business Development Center Procurement System with all formal solicitations for contractual services, supplies, and commodities. The Small Business Development Center shall coordinate with Minority Business Development Centers to compile and distribute this information to small and minority businesses requesting such service for the period of time necessary to familiarize the business with the market represented by state agencies. On or before February 1 of each year, the Small Business Development Center shall report to the department on the use of the statewide contracts register. The report shall include, but not be limited to, information relating to:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The total number of solicitations received from state agencies during the calendar year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The number of solicitations received from each state agency during the calendar year.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The method of distributing solicitation information to businesses requesting such service.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The total number of businesses using the service.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The percentage of businesses using the service which are owned and controlled by minorities.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The percentage of service-disabled veteran business enterprises using the service.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 85-104; s. 277, ch. 92-279; s. 55, ch. 92-326; s. 23, ch. 94-322; s. 60, ch. 96-320; s. 39, ch. 2007-217; s. 2, ch. 2008-155; s. 173, ch. 2011-142.</History>
+</Section>

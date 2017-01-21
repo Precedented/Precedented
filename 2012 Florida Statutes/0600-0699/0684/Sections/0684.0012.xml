@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0012" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Appointment of arbitrators.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person is not precluded by reason of his or her nationality from acting as an arbitrator, unless otherwise agreed by the parties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The parties may agree on a procedure of appointing the arbitrator or arbitrators, subject to subsections (4) and (5).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Failing such agreement:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In an arbitration having three arbitrators, each party shall appoint one arbitrator, and the two arbitrators thus appointed shall appoint the third arbitrator. If a party fails to appoint the arbitrator within 30 days after receipt of a request to do so from the other party, or if the two arbitrators fail to agree on the third arbitrator within 30 days after their appointment, the appointment shall be made, upon request of a party, by the court specified in s. 684.0008.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In an arbitration having a single arbitrator, if the parties are unable to agree on the arbitrator, the arbitrator shall be appointed, upon request of a party, by the court specified in s. 684.0008.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If, under an appointment procedure agreed upon by the parties:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A party fails to act as required under such procedure;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The parties, or two arbitrators, are unable to reach an agreement under such procedure; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A third party, including an institution, fails to perform any function entrusted to it under such procedure,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">any party may request the court specified in s. 684.0008 to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A decision on a matter entrusted by subsection (3) or subsection (4) to the court specified in s. 684.0008 is not appealable. The court, in appointing an arbitrator, shall have due regard to any qualifications required by the arbitrator by the agreement of the parties and to such considerations that are likely to secure the appointment of an independent and impartial arbitrator. In the case of the appointment of a sole or third arbitrator, the court shall take into account the advisability of appointing an arbitrator of a nationality other than those of the parties.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2010-60.</History>
+</Section>

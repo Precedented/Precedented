@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0119.0713">
+	<Catchline xml:space="preserve">Local government agency exemptions from inspection or copying of public records.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All complaints and other records in the custody of any unit of local government which relate to a complaint of discrimination relating to race, color, religion, sex, national origin, age, handicap, marital status, sale or rental of housing, the provision of brokerage services, or the financing of housing are exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution until a finding is made relating to probable cause, the investigation of the complaint becomes inactive, or the complaint or other record is made part of the official record of any hearing or court proceeding. This provision does not affect any function or activity of the Florida Commission on Human Relations. Any state or federal agency that is authorized to access such complaints or records by any provision of law shall be granted such access in the furtherance of such agency’s statutory duties. This subsection does not modify or repeal any special or local act.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The audit report of an internal auditor and the investigative report of the inspector general prepared for or on behalf of a unit of local government becomes a public record when the audit or investigation becomes final. As used in this subsection, the term “unit of local government” means a county, municipality, special district, local agency, authority, consolidated city-county government, or any other local governmental body or public body corporate or politic authorized or created by general or special law. An audit or investigation becomes final when the audit report or investigative report is presented to the unit of local government. Audit workpapers and notes related to such audit and information received, produced, or derived from an investigation are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution until the audit or investigation is complete and the audit report becomes final or when the investigation is no longer active. An investigation is active if it is continuing with a reasonable, good faith anticipation of resolution and with reasonable dispatch.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Paragraph (a) is subject to the Open Government Sunset Review Act in accordance with s. 119.15, and shall stand repealed on October 2, 2016, unless reviewed and saved from repeal through reenactment by the Legislature.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Any data, record, or document used directly or solely by a municipally owned utility to prepare and submit a bid relative to the sale, distribution, or use of any service, commodity, or tangible personal property to any customer or prospective customer is exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution. This exemption commences when a municipal utility identifies in writing a specific bid to which it intends to respond. This exemption no longer applies after the contract for sale, distribution, or use of the service, commodity, or tangible personal property is executed, a decision is made not to execute such contract, or the project is no longer under active consideration. The exemption in this subsection includes the bid documents actually furnished in response to the request for bids. However, the exemption for the bid documents submitted no longer applies after the bids are opened by the customer or prospective customer.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 86-21; s. 24, ch. 95-398; s. 1, ch. 95-399; s. 1, ch. 96-230; s. 1, ch. 2001-87; ss. 1, 2, ch. 2003-110; s. 7, ch. 2004-335; ss. 34, 35, 36, ch. 2005-251; ss. 3, 5, ch. 2008-57; s. 1, ch. 2011-87.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Indent">A. Additional exemptions from the application of this section appear in the General Index to the Florida Statutes under the heading “Public Records.”</Text>
+		<Text xml:space="preserve" Style="Indent">B. Former s. 119.07(6)(p), (y), (z), (hh).</Text>
+	</Note>
+</Section>

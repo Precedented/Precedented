@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.64" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Rulemaking.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules pursuant to ss. 120.536(1) and 120.54 to implement the provisions of this chapter. Such rules may not conflict with the Florida Rules of Juvenile Procedure. All rules and policies must conform to accepted standards of care and treatment.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall adopt rules to ensure the effective provision of health services to youth in facilities or programs operated or contracted by the department. The rules shall address the delivery of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Ordinary medical care.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Mental health services.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Substance abuse treatment services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Services to youth with developmental disabilities.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The department shall coordinate its rulemaking with the Department of Children and Family Services and the Agency for Persons with Disabilities to ensure that the rules adopted under this section do not encroach upon the substantive jurisdiction of those agencies. The department shall include the above-mentioned entities in the rulemaking process, as appropriate. This subsection does not supersede the provisions governing consent to treatment and services found in ss. 39.407, 743.0645, and 985.18, or otherwise provided by law.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 65, ch. 97-238; s. 230, ch. 98-200; s. 86, ch. 2006-120; s. 2, ch. 2010-123.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 985.405.</Text>
+	</Note>
+</Section>

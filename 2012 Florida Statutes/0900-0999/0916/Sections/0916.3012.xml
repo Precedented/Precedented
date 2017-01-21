@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0916.3012" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Mental competence to proceed.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A defendant whose suspected mental condition is retardation or autism is incompetent to proceed within the meaning of this chapter if the defendant does not have sufficient present ability to consult with the defendant’s lawyer with a reasonable degree of rational understanding or if the defendant has no rational, as well as factual, understanding of the proceedings against the defendant.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Experts in retardation or autism appointed pursuant to s. 916.301 shall first consider whether the defendant meets the definition of retardation or autism and, if so, consider the factors related to the issue of whether the defendant meets the criteria for competence to proceed as described in subsection (1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">In considering the issue of competence to proceed, an examining expert shall first consider and specifically include in his or her report the defendant’s capacity to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Appreciate the charges or allegations against the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Appreciate the range and nature of possible penalties, if applicable, that may be imposed in the proceedings against the defendant.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Understand the adversarial nature of the legal process.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Disclose to counsel facts pertinent to the proceedings at issue.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Manifest appropriate courtroom behavior.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Testify relevantly.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion" SpaceAbove="true"> In addition, an examining expert shall consider and include in his or her report any other factor deemed relevant by the expert.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the experts should find that the defendant is incompetent to proceed, the experts shall report on any recommended training for the defendant to attain competence to proceed. In considering the issues relating to training, the examining experts shall specifically report on:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The retardation or autism causing the incompetence;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The training appropriate for the retardation or autism of the defendant and an explanation of each of the possible training alternatives in order of choices;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The availability of acceptable training and, if training is available in the community, the expert shall so state in the report; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The likelihood of the defendant’s attaining competence under the training recommended, an assessment of the probable duration of the training required to restore competence, and the probability that the defendant will attain competence to proceed in the foreseeable future.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 98-92; s. 18, ch. 2006-195; s. 22, ch. 2010-117.</History>
+</Section>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.516" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Width, height, and length; inspection; penalties.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any law enforcement officer, as prescribed in s. 316.640, or any weight inspector of the Department of Transportation, as prescribed in s. 316.545(1), who has reason to believe that the width, height, or length of a vehicle or combination of vehicles and the load thereon is not in conformance with s. 316.515 is authorized to require the driver to stop and submit such vehicle and load to measurement of its width, height, or length.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Whenever an officer, upon measuring a vehicle or combination of vehicles and the load thereon, determines that such vehicle exceeds the dimensional criteria established in s. 316.515 and that no valid special permit exists for such vehicle or vehicles, the officer may require the driver to stop the vehicle in a suitable place and leave it standing until either:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A special permit is obtained in accordance with s. 316.550; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All offending irregularities are corrected.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Special permit fees and civil penalties that may be incurred pursuant to the requirements of this section are in addition to the citation for a nonmoving violation and the penalties that may be imposed under chapter 318.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding other provisions of this chapter, penalties for violation of the maximum limits for width, height, and length provided for in s. 316.515 are as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Two hundred and fifty dollars per foot of violation or any portion thereof for width and height limit violations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Forty dollars for length limit violations not exceeding 2 feet over the length limit;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">One hundred dollars for length limit violations of greater than 2 feet but not exceeding 10 feet over the length limit; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Two hundred and fifty dollars for length limit violations of greater than 10 feet, plus $250 for every additional foot or any portion thereof that exceeds 11 feet over the length limit.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No individual penalty issued under the provisions of this subsection shall exceed $1,000 for each width, height, or length violation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">All penalties imposed for violations of this section shall be assessed, collected, and deposited in accordance with the provisions of s. 316.545(6).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 83-298; s. 3, ch. 85-81; s. 1, ch. 85-87; s. 2, ch. 90-177; s. 5, ch. 95-247; s. 33, ch. 96-350; s. 34, ch. 97-300; s. 12, ch. 2011-66.</History>
+</Section>

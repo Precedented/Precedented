@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0220.196" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Research and development tax credit.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Base amount” means the average of the business enterprise’s qualified research expenses in this state allowed under 26 U.S.C. s. 41 for the 4 taxable years preceding the taxable year for which the credit is determined. The qualified research expenses taken into account in computing the base amount shall be determined on a basis consistent with the determination of qualified research expenses for the taxable year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Business enterprise” means any corporation as defined in s. 220.03 which meets the definition of a target industry business as defined in s. 288.106.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Qualified research expenses” means research expenses qualifying for the credit under 26 U.S.C. s. 41 for in-house research expenses incurred in this state or contract research expenses incurred in this state. The term does not include research conducted outside this state or research expenses that do not qualify for a credit under 26 U.S.C. s. 41.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">TAX CREDIT.<EmDash />Subject to the limitations contained in <Reference Number="2"/>paragraph (e), a business enterprise is eligible for a credit against the tax imposed by this chapter if the business enterprise has qualified research expenses in this state in the taxable year exceeding the base amount and, for the same taxable year, claims and is allowed a research credit for such qualified research expenses under 26 U.S.C. s. 41.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The tax credit shall be 10 percent of the excess qualified research expenses over the base amount. However, the maximum tax credit for a business enterprise that has not been in existence for at least 4 taxable years immediately preceding the taxable year is reduced by 25 percent for each taxable year for which the business enterprise, or a predecessor corporation that was a business enterprise, did not exist.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The credit taken in any taxable year may not exceed 50 percent of the business enterprise’s remaining net income tax liability under this chapter after all other credits have been applied under s. 220.02(8).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any unused credit authorized under this section may be carried forward and claimed by the taxpayer for up to 5 years.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The combined total amount of tax credits which may be granted to all business enterprises under this section during any calendar year is $9 million. Applications may be filed with the department on or after March 20 for qualified research expenses incurred within the preceding calendar year, and credits shall be granted in the order in which completed applications are received.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">RECALCULATION OF CREDIT AMOUNT.<EmDash />If the amount of qualified research expenses is reduced as a result of a federal audit or examination, the credit granted pursuant to this section must be recalculated. The taxpayer must file amended returns for all affected years pursuant to s. 220.23(2), and the taxpayer must pay to the department the difference between the initial credit amount taken and the recalculated credit amount with interest.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">RULES.<EmDash />The department may adopt rules to administer this section, including, but not limited to, rules prescribing forms and application procedures and dates, and may establish guidelines for making an affirmative showing of qualification for a credit and any evidence needed to substantiate a claim for credit under this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 17, ch. 2011-76.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 35, ch. 2011-76, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 6 months after the date adopted and may be renewed during the pendency of procedures to adopt permanent rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Paragraph (e) does not exist.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0213.0532" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Information-sharing agreements with financial institutions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Account” means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, or money market mutual fund account.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Department” means the Department of Revenue.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Financial institution” means:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A depository institution as defined in 12 U.S.C. s. 1813(c);</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An institution-affiliated party as defined in 12 U.S.C. s. 1813(u);</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A federal credit union or state credit union as defined in 12 U.S.C. s. 1752, including an institution-affiliated party of such a credit union as defined in 12 U.S.C. s. 1786(r); or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A benefit association, insurance company, safe-deposit company, money market mutual fund, or similar entity authorized to do business in this state.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Obligor” means any person against whose property the department has filed a warrant or judgment lien certificate.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Person” has the same meaning as provided in s. 212.02.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall request information and assistance from a financial institution as necessary to enforce the tax laws of this state. Pursuant to this subsection, financial institutions doing business in this state and having deposits of at least $50 million shall enter into agreements with the department to develop and operate a data match system, using an automated data exchange to the maximum extent feasible, under which the financial institution shall provide, to the extent allowable by law, for each calendar quarter the name, record address, social security number or other taxpayer identification number, average daily account balance, and other identifying information for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Each obligor who maintains an account at the financial institution as identified to the institution by the department by name and social security number or other taxpayer identification number; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">At the financial institution’s option, each person who maintains an account at the institution.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may enter into agreements to operate an automated data exchange with financial institutions having deposits that do not exceed $50 million.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department may use the information received pursuant to this section only for the purpose of enforcing the collection of taxes and fees administered by the department.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">To the extent possible and in compliance with state and federal law, the department shall administer this section in conjunction with s. 409.25657 in order to avoid duplication and reduce the burden on financial institutions.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The department shall pay a reasonable fee to the financial institution for conducting the data match provided for in this section, which may not exceed actual costs incurred by the financial institution.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A financial institution is not required to provide notice to its customers and is not liable to any person for:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Disclosing to the department any information required under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Encumbering or surrendering any assets held by the financial institution in response to a notice of lien or levy issued by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Disclosing any information in connection with a data match.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Taking any other action in good faith to comply with the requirements of this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Any financial records obtained pursuant to this section may be disclosed only for the purpose of, and to the extent necessary, to administer and enforce the tax laws of this state.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules establishing the procedures and requirements for conducting automated data matches with financial institutions pursuant to this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2010-138.</History>
+</Section>

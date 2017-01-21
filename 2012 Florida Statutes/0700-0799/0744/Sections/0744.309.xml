@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0744.309" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Who may be appointed guardian of a resident ward.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">RESIDENT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any resident of this state who is sui juris and is 18 years of age or older is qualified to act as guardian of a ward.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">No judge shall act as guardian after this law becomes effective, except when he or she is related to the ward by blood, marriage, or adoption, or has maintained a close relationship with the ward or the ward’s family, and serves without compensation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">NONRESIDENT.<EmDash />A nonresident of the state may serve as guardian of a resident ward if he or she is:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Related by lineal consanguinity to the ward;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A legally adopted child or adoptive parent of the ward;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A spouse, brother, sister, uncle, aunt, niece, or nephew of the ward, or someone related by lineal consanguinity to any such person; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The spouse of a person otherwise qualified under this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DISQUALIFIED PERSONS.<EmDash />No person who has been convicted of a felony or who, from any incapacity or illness, is incapable of discharging the duties of a guardian, or who is otherwise unsuitable to perform the duties of a guardian, shall be appointed to act as guardian. Further, no person who has been judicially determined to have committed abuse, abandonment, or neglect against a child as defined in s. 39.01 or s. 984.03(1), (2), and (37), or who has been found guilty of, regardless of adjudication, or entered a plea of nolo contendere or guilty to, any offense prohibited under s. 435.04 or similar statute of another jurisdiction, shall be appointed to act as a guardian. Except as provided in subsection (5) or subsection (6), a person who provides substantial services to the proposed ward in a professional or business capacity, or a creditor of the proposed ward, may not be appointed guardian and retain that previous professional or business relationship. A person may not be appointed a guardian if he or she is in the employ of any person, agency, government, or corporation that provides service to the proposed ward in a professional or business capacity, except that a person so employed may be appointed if he or she is the spouse, adult child, parent, or sibling of the proposed ward or the court determines that the potential conflict of interest is insubstantial and that the appointment would clearly be in the proposed ward’s best interest. The court may not appoint a guardian in any other circumstance in which a conflict of interest may occur.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TRUST COMPANY, STATE BANK OR SAVINGS ASSOCIATION, OR NATIONAL BANK OR FEDERAL SAVINGS AND LOAN ASSOCIATION.<EmDash />A trust company, a state banking corporation or state savings association authorized and qualified to exercise fiduciary powers in this state, or a national banking association or federal savings and loan association authorized and qualified to exercise fiduciary powers in this state may act as guardian of the property of the ward.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">NONPROFIT CORPORATE GUARDIAN.<EmDash />A nonprofit corporation organized for religious or charitable purposes and existing under the laws of this state may be appointed guardian for a ward. If the nonprofit corporate guardian charges fees against the assets or property of the ward for its services, the corporation must employ at least one professional guardian.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">HEALTH CARE PROVIDER.<EmDash />A provider of health care services to the ward, whether direct or indirect, may not be appointed the guardian of the ward, unless the court specifically finds that there is no conflict of interest with the ward’s best interests.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 74-106; s. 8, ch. 75-222; s. 4, ch. 79-221; s. 7, ch. 81-27; s. 2, ch. 83-139; s. 26, ch. 89-96; s. 14, ch. 90-271; s. 1, ch. 96-184; s. 5, ch. 96-354; s. 1781, ch. 97-102; s. 48, ch. 98-280; s. 159, ch. 98-403; s. 8, ch. 2000-135; s. 110, ch. 2000-349; s. 4, ch. 2002-195; s. 31, ch. 2004-267; s. 53, ch. 2010-114.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Created from former s. 744.27.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0455.273" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Renewal and cancellation notices.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">At least 90 days before the end of a licensure cycle, the department shall:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Forward a licensure renewal notification to an active or inactive licensee at the licensee’s last known address of record or e-mail address provided to the department.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Forward a notice of pending cancellation of licensure to a delinquent status licensee at the licensee’s last known address of record or e-mail address provided to the department.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 15, ch. 94-119; s. 6, ch. 2012-72.</History>
+</Section>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.6061" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Procedure to contest validity or enforcement of registered order.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">A nonregistering party seeking to contest the validity or enforcement of a registered order in this state shall request a hearing within 20 days after notice of the registration. The nonregistering party may seek to vacate the registration, to assert any defense to an allegation of noncompliance with the registered order, or to contest the remedies being sought or the amount of any alleged arrearages pursuant to s. 88.6071.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">If the nonregistering party fails to contest the validity or enforcement of the registered order in a timely manner, the order is confirmed by operation of law.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a nonregistering party requests a hearing to contest the validity or enforcement of the registered order, the registering tribunal shall schedule the matter for hearing and give notice to the parties of the date, time, and place of the hearing.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 96-189; s. 32, ch. 97-170; s. 49, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 49, ch. 2011-92, amended subsections (1) and (2), to read:</Text>
+		<Text xml:space="preserve" Style="Indent">(1) A nonregistering party seeking to contest the validity or enforcement of a registered order in this state shall request a hearing within the time required by s. 88.6051. The nonregistering party may seek to vacate the registration, to assert any defense to an allegation of noncompliance with the registered order, or to contest the remedies being sought or the amount of any alleged arrearages pursuant to s. 88.6071.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) If the nonregistering party fails to contest the validity or enforcement of the registered support order in a timely manner, the order is confirmed by operation of law.</Text>
+	</Note>
+</Section>

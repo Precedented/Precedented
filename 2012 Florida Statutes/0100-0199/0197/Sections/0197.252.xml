@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.252" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Homestead tax deferral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person who is entitled to claim homestead tax exemption under s. 196.031(1) may apply to defer payment of a portion of the combined total of the ad valorem taxes, non-ad valorem assessments, and interest accumulated on a tax certificate. Any applicant who is entitled to receive the homestead tax exemption but has waived it for any reason shall furnish a certificate of eligibility to receive the exemption. Such certificate shall be prepared by the county property appraiser upon request of the taxpayer.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a"><Reference Number="1"/>
+				<Text xml:space="preserve" Style="Intro">Approval of an application for homestead tax deferral shall defer the combined total of ad valorem taxes and non-ad valorem assessments:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Which exceeds 5 percent of the applicant’s household income for the prior calendar year if the applicant is younger than 65 years old;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Reference Number="2"/>
+					<Text xml:space="preserve" Style="Intro">Which exceeds 3 percent of the applicant’s household income for the prior calendar year if the applicant is 65 years old or older; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Reference Number="2"/>
+					<Text xml:space="preserve" Style="Intro">In its entirety if the applicant’s household income:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">For the previous calendar year is less than $10,000; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Is less than the designated amount for the additional homestead exemption under s. 196.075 and the applicant is 65 years old or older.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The household income of an applicant who applies for a tax deferral before the end of the calendar year in which the taxes and non-ad valorem assessments are assessed shall be for the current year, adjusted to reflect estimated income for the full calendar year period. The estimate of a full year’s household income shall be made by multiplying the household income received to the date of application by a fraction, the numerator being 365 and the denominator being the number of days expired in the calendar year to the date of application.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The property appraiser shall promptly notify the tax collector if there is a change in ownership or the homestead exemption has been denied on property that has been granted a tax deferral.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 77-301; s. 2, ch. 78-161; s. 20, ch. 79-334; s. 145, ch. 85-342; s. 1, ch. 89-328; s. 1007, ch. 95-147; s. 5, ch. 98-139; s. 1, ch. 2006-47; s. 8, ch. 2006-69; s. 7, ch. 2007-339; s. 15, ch. 2011-151; s. 3, ch. 2012-57.</History>
+<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 3, ch. 2012-57, reenacted paragraph (2)(a) “[f]or the purpose of incorporating the amendment made by this act to section 196.075, Florida Statutes, in a reference thereto.” Section 5, ch. 2012-57, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the approval of House Joint Resolution 169, or a similar joint resolution having substantially the same specific intent and purpose, at the general election to be held in November 2012 or at an earlier special election specifically authorized by law for that purpose, and shall first apply to the 2013 tax roll.” Committee Substitute for House Joint Resolution 169 was passed by the Legislature on March 9, 2012.</Text></Note>
+	<Note Reference="2">
+		<Text xml:space="preserve" Style="Intro">Section 7, ch. 2007-339, amended s. 197.252(2)(b); s. 1, ch. 2007-339, provided authorization for adoption of emergency rules to implement ch. 2007-339. Section 15, ch. 2011-151, deleted paragraph (2)(b) and added substantially similar material at subparagraphs (2)(a)2. and 3. Section 1, ch. 2007-339, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) The executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of implementing this act.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) In anticipation of implementing this act, the executive director of the Department of Revenue is authorized, and all conditions are deemed met, to adopt emergency rules under ss. 120.536(1) and 120.54(4), Florida Statutes, for the purpose of making necessary changes and preparations so that forms, methods, and data records, electronic or otherwise, are ready and in place if sections 3 through 9 and sections 10, 12, and 14 . . . of this act become law.</Text>
+		<Text xml:space="preserve" Style="Indent">“(3) Notwithstanding any other provision of law, such emergency rules shall remain in effect for 18 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.”</Text>
+	</Note>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 197.0165.</Text>
+	</Note>
+</Section>

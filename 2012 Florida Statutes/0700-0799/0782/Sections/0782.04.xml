@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0782.04" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Murder.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The unlawful killing of a human being:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When perpetrated from a premeditated design to effect the death of the person killed or any human being;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">When committed by a person engaged in the perpetration of, or in the attempt to perpetrate, any:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Trafficking offense prohibited by s. 893.135(1),</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Arson,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Sexual battery,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Robbery,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Burglary,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Kidnapping,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="g">
+						<Text xml:space="preserve" Style="Intro">Escape,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="h">
+						<Text xml:space="preserve" Style="Intro">Aggravated child abuse,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="i">
+						<Text xml:space="preserve" Style="Intro">Aggravated abuse of an elderly person or disabled adult,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="j">
+						<Text xml:space="preserve" Style="Intro">Aircraft piracy,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="k">
+						<Text xml:space="preserve" Style="Intro">Unlawful throwing, placing, or discharging of a destructive device or bomb,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="l">
+						<Text xml:space="preserve" Style="Intro">Carjacking,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="m">
+						<Text xml:space="preserve" Style="Intro">Home-invasion robbery,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="n">
+						<Text xml:space="preserve" Style="Intro">Aggravated stalking,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="o">
+						<Text xml:space="preserve" Style="Intro">Murder of another human being,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="p">
+						<Text xml:space="preserve" Style="Intro">Resisting an officer with violence to his or her person,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="q">
+						<Text xml:space="preserve" Style="Intro">Aggravated fleeing or eluding with serious bodily injury or death,</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="r">
+						<Text xml:space="preserve" Style="Intro">Felony that is an act of terrorism or is in furtherance of an act of terrorism; or</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Which resulted from the unlawful distribution of any substance controlled under s. 893.03(1), cocaine as described in s. 893.03(2)(a)4., opium or any synthetic or natural salt, compound, derivative, or preparation of opium, or methadone by a person 18 years of age or older, when such drug is proven to be the proximate cause of the death of the user,</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">is murder in the first degree and constitutes a capital felony, punishable as provided in s. 775.082.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In all cases under this section, the procedure set forth in s. 921.141 shall be followed in order to determine sentence of death or life imprisonment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The unlawful killing of a human being, when perpetrated by any act imminently dangerous to another and evincing a depraved mind regardless of human life, although without any premeditated design to effect the death of any particular individual, is murder in the second degree and constitutes a felony of the first degree, punishable by imprisonment for a term of years not exceeding life or as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">When a human being is killed during the perpetration of, or during the attempt to perpetrate, any:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Trafficking offense prohibited by s. 893.135(1),</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Arson,</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Sexual battery,</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Robbery,</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Burglary,</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Kidnapping,</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Escape,</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Aggravated child abuse,</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Aggravated abuse of an elderly person or disabled adult,</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Aircraft piracy,</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Unlawful throwing, placing, or discharging of a destructive device or bomb,</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Carjacking,</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Home-invasion robbery,</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Aggravated stalking,</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Murder of another human being,</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Aggravated fleeing or eluding with serious bodily injury or death,</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">Resisting an officer with violence to his or her person, or</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">Felony that is an act of terrorism or is in furtherance of an act of terrorism,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">by a person other than the person engaged in the perpetration of or in the attempt to perpetrate such felony, the person perpetrating or attempting to perpetrate such felony commits murder in the second degree, which constitutes a felony of the first degree, punishable by imprisonment for a term of years not exceeding life or as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The unlawful killing of a human being, when perpetrated without any design to effect death, by a person engaged in the perpetration of, or in the attempt to perpetrate, any felony other than any:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Trafficking offense prohibited by s. 893.135(1),</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Arson,</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Sexual battery,</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Robbery,</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Burglary,</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Kidnapping,</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Escape,</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Aggravated child abuse,</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Aggravated abuse of an elderly person or disabled adult,</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Aircraft piracy,</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Unlawful throwing, placing, or discharging of a destructive device or bomb,</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">Unlawful distribution of any substance controlled under s. 893.03(1), cocaine as described in s. 893.03(2)(a)4., or opium or any synthetic or natural salt, compound, derivative, or preparation of opium by a person 18 years of age or older, when such drug is proven to be the proximate cause of the death of the user,</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">Carjacking,</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">Home-invasion robbery,</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">Aggravated stalking,</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">Murder of another human being,</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">Aggravated fleeing or eluding with serious bodily injury or death,</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">Resisting an officer with violence to his or her person, or</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">Felony that is an act of terrorism or is in furtherance of an act of terrorism,</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">is murder in the third degree and constitutes a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term “terrorism” means an activity that:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Involves a violent act or an act dangerous to human life which is a violation of the criminal laws of this state or of the United States; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Involves a violation of s. 815.06; and</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Is intended to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Intimidate, injure, or coerce a civilian population;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Influence the policy of a government by intimidation or coercion; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Affect the conduct of government through destruction of property, assassination, murder, kidnapping, or aircraft piracy.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 1637, 1868; RS 2380; GS 3205; RGS 5035; s. 1, ch. 8470, 1921; CGL 7137; s. 1, ch. 28023, 1953; s. 712, ch. 71-136; s. 3, ch. 72-724; s. 14, ch. 74-383; s. 6, ch. 75-298; s. 1, ch. 76-141; s. 290, ch. 79-400; s. 1, ch. 82-4; s. 1, ch. 82-69; s. 1, ch. 84-16; s. 6, ch. 87-243; ss. 2, 4, ch. 89-281; s. 4, ch. 90-112; s. 3, ch. 93-212; s. 11, ch. 95-195; s. 18, ch. 96-322; s. 1, ch. 98-417; s. 10, ch. 99-188; s. 16, ch. 2000-320; s. 2, ch. 2001-236; s. 2, ch. 2001-357; s. 1, ch. 2002-212; s. 12, ch. 2005-128; s. 1, ch. 2010-121; s. 2, ch. 2012-21.</History>
+</Section>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0751.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Concurrent custody” means that an eligible extended family member is awarded custodial rights to care for a child concurrently with the child’s parent or parents.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Extended family member” means a person who is:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A relative of a minor child within the third degree by blood or marriage to the parent; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The stepparent of a minor child if the stepparent is currently married to the parent of the child and is not a party in a pending dissolution, separate maintenance, domestic violence, or other civil or criminal proceeding in any court of competent jurisdiction involving one or both of the child’s parents as an adverse party.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 93-104; s. 4, ch. 96-305; s. 2, ch. 2006-167; s. 3, ch. 2010-30.</History>
+</Section>

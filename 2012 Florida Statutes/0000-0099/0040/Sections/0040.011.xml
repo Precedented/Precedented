@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0040.011" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Jury lists.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A clerk of the court shall generate a set of juror candidate lists derived from the source lists described in s. 40.01. The source name lists and the juror candidate lists shall be maintained as specified in this chapter and in accordance with the juror selection plan approved in s. 40.225.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Pursuant to s. 40.01, the Department of Highway Safety and Motor Vehicles shall deliver quarterly to the clerk of the circuit court in each county a list of names of persons who reside in that county, who are citizens of the United States, who are legal residents of Florida, who are 18 years of age or older, and for whom the department has a driver’s license or identification card record.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The clerk of the circuit court shall add to the list of licensed drivers and identification cardholders the name of any person who is 18 years of age or older and who is a citizen of the United States and a legal resident of this state and who indicates a desire to serve as a juror, but whose name does not appear on the department list, by requiring such person to execute an affidavit at the office of the clerk.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The affidavit executed pursuant to subsection (3) must be in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">State of Florida</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">I, <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" />, do solemnly swear (or affirm) that I am <HorizontalRule Type="Fixed" /> years of age; that I am a citizen of the United States and a legal resident of Florida and <HorizontalRule Type="Fixed" /> County; that I personally make application for jury duty; that I am eligible to serve as a juror under the Constitution and laws of Florida; and that I reside at <Directions xml:space="preserve">(Address)</Directions></Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><Directions xml:space="preserve">(Signature)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Sworn to and subscribed before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, at <HorizontalRule Type="Fixed" /> County, Florida.</Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true"><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+			<Text xml:space="preserve" Style="AlignRight">(Signature and title of officer<NewLine />administering oath)</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro" SpaceAbove="true">Using the source name lists described <Reference Number="1"/>in subsections (2) and (3), a clerk of court may generate juror candidate lists as necessary to ensure a valid and consistent juror selection process.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The initial juror candidate list is derived from the name sources and shall be the master list from which prospective jurors are drawn for summons.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The final juror candidate list shall contain a list of those persons, drawn from the initial candidate list as prescribed in this chapter, who are to be summoned as a pool for possible juror service.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 91-235; s. 1, ch. 99-6; s. 1, ch. 2002-76; s. 7, ch. 2012-100.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “in” was inserted by the editors.</Text>
+	</Note>
+</Section>

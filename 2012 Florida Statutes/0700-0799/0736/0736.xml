@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLII">
+	<ChapterNumber>736</ChapterNumber>
+	<ChapterName xml:space="preserve">Florida trust code</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions and definitions</PartTitle>
+		<Section Number="0736.0101" />
+		<Section Number="0736.0102" />
+		<Section Number="0736.0103" />
+		<Section Number="0736.0104" />
+		<Section Number="0736.0105" />
+		<Section Number="0736.0106" />
+		<Section Number="0736.0107" />
+		<Section Number="0736.0108" />
+		<Section Number="0736.0109" />
+		<Section Number="0736.0110" />
+		<Section Number="0736.0111" />
+		<Section Number="0736.0112" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Judicial proceedings</PartTitle>
+		<Section Number="0736.0201" />
+		<Section Number="0736.0202" />
+		<Section Number="0736.0203" />
+		<Section Number="0736.0204" />
+		<Section Number="0736.0205" />
+		<Section Number="0736.0206" />
+		<Section Number="0736.0207" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Representation</PartTitle>
+		<Section Number="0736.0301" />
+		<Section Number="0736.0302" />
+		<Section Number="0736.0303" />
+		<Section Number="0736.0304" />
+		<Section Number="0736.0305" />
+		<Section Number="0736.0306" />
+	</Part>
+	<Part PartNumber="IV">
+		<PartNumber>PART IV</PartNumber>
+		<PartTitle xml:space="preserve">Creation, validity, modification,<NewLine />and termination</PartTitle>
+		<Section Number="0736.0401" />
+		<Section Number="0736.0402" />
+		<Section Number="0736.0403" />
+		<Section Number="0736.0404" />
+		<Section Number="0736.0405" />
+		<Section Number="0736.0406" />
+		<Section Number="0736.0407" />
+		<Section Number="0736.0408" />
+		<Section Number="0736.0409" />
+		<Section Number="0736.0410" />
+		<Section Number="0736.04113" />
+		<Section Number="0736.04114" />
+		<Section Number="0736.04115" />
+		<Section Number="0736.04117" />
+		<Section Number="0736.0412" />
+		<Section Number="0736.0413" />
+		<Section Number="0736.0414" />
+		<Section Number="0736.0415" />
+		<Section Number="0736.0416" />
+		<Section Number="0736.0417" />
+	</Part>
+	<Part PartNumber="V">
+		<PartNumber>PART V</PartNumber>
+		<PartTitle xml:space="preserve">Creditors’ claims; spendthrift<NewLine />and discretionary trusts</PartTitle>
+		<Section Number="0736.0501" />
+		<Section Number="0736.0502" />
+		<Section Number="0736.0503" />
+		<Section Number="0736.0504" />
+		<Section Number="0736.0505" />
+		<Section Number="0736.05053" />
+		<Section Number="0736.05055" />
+		<Section Number="0736.0506" />
+		<Section Number="0736.0507" />
+	</Part>
+	<Part PartNumber="VI">
+		<PartNumber>PART VI</PartNumber>
+		<PartTitle xml:space="preserve">Revocable trusts</PartTitle>
+		<Section Number="0736.0601" />
+		<Section Number="0736.0602" />
+		<Section Number="0736.0603" />
+		<Section Number="0736.0604" />
+	</Part>
+	<Part PartNumber="VII">
+		<PartNumber>PART VII</PartNumber>
+		<PartTitle xml:space="preserve">Office of trustee</PartTitle>
+		<Section Number="0736.0701" />
+		<Section Number="0736.0702" />
+		<Section Number="0736.0703" />
+		<Section Number="0736.0704" />
+		<Section Number="0736.0705" />
+		<Section Number="0736.0706" />
+		<Section Number="0736.0707" />
+		<Section Number="0736.0708" />
+		<Section Number="0736.0709" />
+	</Part>
+	<Part PartNumber="VIII">
+		<PartNumber>PART VIII</PartNumber>
+		<PartTitle xml:space="preserve">Duties and powers of trustee</PartTitle>
+		<Section Number="0736.0801" />
+		<Section Number="0736.0802" />
+		<Section Number="0736.0803" />
+		<Section Number="0736.0804" />
+		<Section Number="0736.0805" />
+		<Section Number="0736.0806" />
+		<Section Number="0736.0807" />
+		<Section Number="0736.0808" />
+		<Section Number="0736.0809" />
+		<Section Number="0736.0810" />
+		<Section Number="0736.08105" />
+		<Section Number="0736.0811" />
+		<Section Number="0736.0812" />
+		<Section Number="0736.08125" />
+		<Section Number="0736.0813" />
+		<Section Number="0736.08135" />
+		<Section Number="0736.0814" />
+		<Section Number="0736.08147" />
+		<Section Number="0736.0815" />
+		<Section Number="0736.0816" />
+		<Section Number="0736.08163" />
+		<Section Number="0736.08165" />
+		<Section Number="0736.0817" />
+	</Part>
+	<Part PartNumber="IX">
+		<PartNumber>PART IX</PartNumber>
+		<PartTitle xml:space="preserve">Trust investments</PartTitle>
+		<Section Number="0736.0901" />
+		<Section Number="0736.0902" />
+	</Part>
+	<Part PartNumber="X">
+		<PartNumber>PART X</PartNumber>
+		<PartTitle xml:space="preserve">Liability of trustee and<NewLine />rights of persons dealing with trustee</PartTitle>
+		<Section Number="0736.1001" />
+		<Section Number="0736.1002" />
+		<Section Number="0736.1003" />
+		<Section Number="0736.1004" />
+		<Section Number="0736.1005" />
+		<Section Number="0736.1006" />
+		<Section Number="0736.1007" />
+		<Section Number="0736.1008" />
+		<Section Number="0736.1009" />
+		<Section Number="0736.1010" />
+		<Section Number="0736.1011" />
+		<Section Number="0736.1012" />
+		<Section Number="0736.1013" />
+		<Section Number="0736.1014" />
+		<Section Number="0736.1015" />
+		<Section Number="0736.1016" />
+		<Section Number="0736.1017" />
+		<Section Number="0736.1018" />
+	</Part>
+	<Part PartNumber="XI">
+		<PartNumber>PART XI</PartNumber>
+		<PartTitle xml:space="preserve">Rules of construction</PartTitle>
+		<Section Number="0736.1101" />
+		<Section Number="0736.1102" />
+		<Section Number="0736.1103" />
+		<Section Number="0736.1104" />
+		<Section Number="0736.1105" />
+		<Section Number="0736.1106" />
+		<Section Number="0736.1107" />
+		<Section Number="0736.1108" />
+	</Part>
+	<Part PartNumber="XII">
+		<PartNumber>PART XII</PartNumber>
+		<PartTitle xml:space="preserve">Charitable trusts</PartTitle>
+		<Section Number="0736.1201" />
+		<Section Number="0736.1202" />
+		<Section Number="0736.1203" />
+		<Section Number="0736.1204" />
+		<Section Number="0736.1205" />
+		<Section Number="0736.1206" />
+		<Section Number="0736.1207" />
+		<Section Number="0736.1208" />
+		<Section Number="0736.1209" />
+		<Section Number="0736.1210" />
+		<Section Number="0736.1211" />
+	</Part>
+	<Part PartNumber="XIII">
+		<PartNumber>PART XIII</PartNumber>
+		<PartTitle xml:space="preserve">Miscellaneous</PartTitle>
+		<Section Number="0736.1301" />
+		<Section Number="0736.1302" />
+		<Section Number="0736.1303" />
+	</Part>
+</Chapter>

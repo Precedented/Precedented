@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.94" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Adult literacy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An adult, individualized literacy instruction program is created for adults who possess literacy skills below the ninth grade level. The purpose of the program is to provide self-paced, competency-based, individualized tutorial instruction. The commissioner shall administer this section in coordination with Florida College System institution boards of trustees, local school boards, and the Division of Library and Information Services of the Department of State.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Local adult, individualized literacy instruction programs may be coordinated with local public library systems and with public or private nonprofit agencies, organizations, or institutions. A local public library system and a public or private nonprofit agency, organization, or institution may use funds appropriated for the purposes of this section to hire program coordinators. Such coordinators shall offer training activities to volunteer tutors and oversee the operation of local literacy programs. A local public library system and a public or private nonprofit agency, organization, or institution may also purchase student instructional materials and modules that instruct tutors in the teaching of basic and functional literacy and English for speakers of other languages. To the extent funds are appropriated, cooperating local library systems shall purchase, and make available for loan, reading materials of high interest and with a vocabulary appropriate for use by students who possess literacy skills below the ninth grade level and students of English for speakers of other languages.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The adult literacy program is intended to increase adult literacy as prescribed in the agency functional plan of the Department of Education. The commissioner shall establish guidelines for the purpose of determining achievement of this goal.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each participating local sponsor shall submit an annual report to the commissioner which must contain information to demonstrate the extent to which there has been progress toward increasing the percentage of adults within the service area who possess literacy skills.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Based on the information provided from the local reports, the commissioner shall develop an annual status report on literacy and adult education.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Funds appropriated for the purposes of this section shall be allocated as grants for implementing adult literacy programs. Such funds may not be used to supplant funds used for activities that would otherwise be conducted in the absence of literacy funding. A grant awarded pursuant to this section may not exceed $50,000. Priority for the use of such funds shall be given to paying expenses related to the instruction of volunteer tutors, including materials and the salary of the program coordinator. Local sponsors may also accept funds from private sources for the purposes of this section.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The commissioner shall submit a state adult literacy plan to the State Board of Education to serve as a reference for district school boards and Florida College System institutions boards of trustees to increase adult literacy in their service areas as prescribed in the agency functional plan of the Department of Education. The plan must include, at a minimum:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Policies and objectives for adult literacy programs, including evaluative criteria.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Strategies for coordinating adult literacy activities with programs and services provided by other state and local nonprofit agencies, as well as strategies for maximizing other funding, resources, and expertise.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Procedures for identifying, recruiting, and retaining adults who possess literacy skills below the ninth grade level.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Sources of relevant demographic information and methods of projecting the number of adults who possess literacy skills below the ninth grade level.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Acceptable methods of demonstrating compliance with the provisions of this section.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Guidelines for the development and implementation of local adult literacy plans. At a minimum, such guidelines must address:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The recruitment and preparation of volunteer tutors.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Interagency and intraagency cooperation and coordination, especially with public libraries and other sponsors of literacy programs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Desirable learning environments, including class size.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">Program evaluation standards.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">Methods for identifying, recruiting, and retaining adults in literacy programs.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="f">
+						<Text xml:space="preserve" Style="Intro">Adult literacy through family literacy and workforce literacy programs.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Every 3 years, the district school board or Florida College System institution board of trustees shall develop and maintain a local adult literacy plan.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 237, ch. 2002-387; s. 69, ch. 2011-5.</History>
+</Section>

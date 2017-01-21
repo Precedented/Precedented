@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0068.085" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Awards to plaintiffs bringing action.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If the department proceeds with and prevails in an action brought by a person under this act, except as provided in subsection (2), the court shall order the distribution to the person of at least 15 percent but not more than 25 percent of the proceeds recovered under any judgment obtained by the department in an action under s. 68.082 or of the proceeds of any settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the department proceeds with an action which the court finds to be based primarily on disclosures of specific information, other than that provided by the person bringing the action, relating to allegations or transactions in a criminal, civil, or administrative hearing; a legislative, administrative, inspector general, or auditor general report, hearing, audit, or investigation; or from the news media, the court may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds recovered under a judgment or received in settlement of a claim under this act, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the department does not proceed with an action under this section, the person bringing the action or settling the claim shall receive an amount which the court decides is reasonable for collecting the civil penalty and damages. The amount shall be not less than 25 percent and not more than 30 percent of the proceeds recovered under a judgment rendered in an action under this act or in settlement of a claim under this act.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Following any distributions under subsection (1), subsection (2), or subsection (3), the agency injured by the submission of a false or fraudulent claim shall be awarded an amount not to exceed its compensatory damages. If the action was based on a claim of funds from the state Medicaid program, 10 percent of any remaining proceeds shall be deposited into the Operating Trust Fund to fund rewards for persons who report and provide information relating to Medicaid fraud pursuant to s. 409.9203. Any remaining proceeds, including civil penalties awarded under s. 68.082, shall be deposited in the General Revenue Fund.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any payment under this section to the person bringing the action shall be paid only out of the proceeds recovered from the defendant.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Whether or not the department proceeds with the action, if the court finds that the action was brought by a person who planned and initiated the violation of s. 68.082 upon which the action was brought, the court may, to the extent the court considers appropriate, reduce the share of the proceeds of the action which the person would otherwise receive under this section, taking into account the role of the person in advancing the case to litigation and any relevant circumstances pertaining to the violation. If the person bringing the action is convicted of criminal conduct arising from his or her role in the violation of s. 68.082, the person shall be dismissed from the civil action and shall not receive any share of the proceeds of the action. Such dismissal shall not prejudice the right of the department to continue the action.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 94-316; s. 11, ch. 95-153; s. 5, ch. 2007-236; s. 2, ch. 2009-223; s. 22, ch. 2010-162.</History>
+</Section>

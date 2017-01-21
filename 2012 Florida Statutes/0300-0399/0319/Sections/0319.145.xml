@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0319.145" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Autonomous vehicles.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An autonomous vehicle registered in this state must continue to meet federal standards and regulations for a motor vehicle. The vehicle shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Have a means to engage and disengage the autonomous technology which is easily accessible to the operator.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Have a means, inside the vehicle, to visually indicate when the vehicle is operating in autonomous mode.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Have a means to alert the operator of the vehicle if a technology failure affecting the ability of the vehicle to safely operate autonomously is detected while the vehicle is operating autonomously in order to indicate to the operator to take control of the vehicle.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Be capable of being operated in compliance with the applicable traffic and motor vehicle laws of this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Federal regulations promulgated by the National Highway Traffic Safety Administration shall supersede this section when found to be in conflict with this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 2012-111; s. 108, ch. 2012-174</History>
+</Section>

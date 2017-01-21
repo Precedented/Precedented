@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0395.4036" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Trauma payments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Recognizing the Legislature’s stated intent to provide financial support to the current verified trauma centers and to provide incentives for the establishment of additional trauma centers as part of a system of state-sponsored trauma centers, the department shall utilize funds collected under s. 318.18 and deposited into the Emergency Medical Services Trust Fund of the department to ensure the availability and accessibility of trauma services throughout the state as provided in this subsection.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Funds collected under s. 318.18(15) shall be distributed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Twenty percent of the total funds collected during the state fiscal year shall be distributed to verified trauma centers that have a local funding contribution as of December 31. Distribution of funds under this subparagraph shall be based on trauma caseload volume for the most recent calendar year available.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Forty percent of the total funds collected shall be distributed to verified trauma centers based on trauma caseload volume for the most recent calendar year available. The determination of caseload volume for distribution of funds under this subparagraph shall be based on the department’s Trauma Registry data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Forty percent of the total funds collected shall be distributed to verified trauma centers based on severity of trauma patients for the most recent calendar year available. The determination of severity for distribution of funds under this subparagraph shall be based on the department’s International Classification Injury Severity Scores or another statistically valid and scientifically accepted method of stratifying a trauma patient’s severity of injury, risk of mortality, and resource consumption as adopted by the department by rule, weighted based on the costs associated with and incurred by the trauma center in treating trauma patients. The weighting of scores shall be established by the department by rule.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Funds collected under s. 318.18(5)(c) and (20) shall be distributed as follows:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Thirty percent of the total funds collected shall be distributed to Level II trauma centers operated by a public hospital governed by an elected board of directors as of December 31, 2008.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Thirty-five percent of the total funds collected shall be distributed to verified trauma centers based on trauma caseload volume for the most recent calendar year available. The determination of caseload volume for distribution of funds under this subparagraph shall be based on the department’s Trauma Registry data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Thirty-five percent of the total funds collected shall be distributed to verified trauma centers based on severity of trauma patients for the most recent calendar year available. The determination of severity for distribution of funds under this subparagraph shall be based on the department’s International Classification Injury Severity Scores or another statistically valid and scientifically accepted method of stratifying a trauma patient’s severity of injury, risk of mortality, and resource consumption as adopted by the department by rule, weighted based on the costs associated with and incurred by the trauma center in treating trauma patients. The weighting of scores shall be established by the department by rule.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Funds deposited in the department’s Emergency Medical Services Trust Fund for verified trauma centers may be used to maximize the receipt of federal funds that may be available for such trauma centers. Notwithstanding this section and s. 318.14, distributions to trauma centers may be adjusted in a manner to ensure that total payments to trauma centers represent the same proportional allocation as set forth in this section and s. 318.14. For purposes of this section and s. 318.14, total funds distributed to trauma centers may include revenue from the Emergency Medical Services Trust Fund and federal funds for which revenue from the Administrative Trust Fund is used to meet state or local matching requirements. Funds collected under ss. 318.14 and 318.18 and deposited in the Emergency Medical Services Trust Fund of the department shall be distributed to trauma centers on a quarterly basis using the most recent calendar year data available. Such data shall not be used for more than four quarterly distributions unless there are extenuating circumstances as determined by the department, in which case the most recent calendar year data available shall continue to be used and appropriate adjustments shall be made as soon as the more recent data becomes available.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any trauma center not subject to audit pursuant to s. 215.97 shall annually attest, under penalties of perjury, that such proceeds were used in compliance with law. The annual attestation shall be made in a form and format determined by the department. The annual attestation shall be submitted to the department for review within 9 months after the end of the organization’s fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any trauma center subject to audit pursuant to s. 215.97 shall submit an audit report in accordance with rules adopted by the Auditor General.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department, working with the Agency for Health Care Administration, shall maximize resources for trauma services wherever possible.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2005-194; s. 16, ch. 2006-192; s. 4, ch. 2009-138; s. 79, ch. 2010-5; s. 11, ch. 2010-161.</History>
+</Section>

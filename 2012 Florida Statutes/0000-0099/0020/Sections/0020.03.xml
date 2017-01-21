@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0020.03" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">To provide uniform nomenclature throughout the structure of the executive branch, the following definitions apply:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Cabinet” means collectively the Attorney General, the Chief Financial Officer, and the Commissioner of Agriculture, as specified in s. 4, Art. IV of the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Department” means the principal administrative unit within the executive branch of state government.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Examining and licensing board” means a board authorized to grant and revoke licenses to engage in regulated occupations.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Head of the department” means the individual under whom or the board under which direct administration of the department is placed by statute. Where direct administration of a department is placed under an officer or board appointed by and serving at the pleasure of the Governor, that officer or board remains subject to the Governor’s supervision and direction.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Secretary” means an individual who is appointed by the Governor to head a department and who is not otherwise named in the State Constitution.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Executive director” means the chief administrative employee or officer of a department headed by a board or by the Governor and the Cabinet.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Council” or “advisory council” means an advisory body created by specific statutory enactment and appointed to function on a continuing basis for the study of the problems arising in a specified functional or program area of state government and to provide recommendations and policy alternatives.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Committee” or “task force” means an advisory body created without specific statutory enactment for a time not to exceed 1 year or created by specific statutory enactment for a time not to exceed 3 years and appointed to study a specific problem and recommend a solution or policy alternative with respect to that problem. Its existence terminates upon the completion of its assignment.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Coordinating council” means an interdepartmental advisory body created by law to coordinate programs and activities for which one department has primary responsibility but in which one or more other departments have an interest.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Commission,” unless otherwise required by the State Constitution, means a body created by specific statutory enactment within a department, the office of the Governor, or the Executive Office of the Governor and exercising limited quasi-legislative or quasi-judicial powers, or both, independently of the head of the department or the Governor.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Agency,” as the context requires, means an official, officer, commission, authority, council, committee, department, division, bureau, board, section, or another unit or entity of government.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Board of trustees,” except with reference to the board created in chapter 253, means a board created by specific statutory enactment and appointed to function adjunctively to a department, the Governor, or the Executive Office of the Governor to administer public property or a public program.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“To serve at the pleasure” means the appointee serves in the office until removed by the appointing authority. Consistent with the allotment of executive authority under ss. 1 and 6, Art. IV of the State Constitution, an appointee serving at the pleasure of the appointing authority generally remains subject to the direction and supervision of the appointing authority.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 69-106; s. 2, ch. 82-46; s. 5, ch. 83-217; s. 2, ch. 94-235; s. 3, ch. 2000-258; s. 5, ch. 2012-116.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 3, ch. 2012-116, provides that “[t]he Legislature intends that the amendments made by this act to ss. 20.02, 20.03, and 20.05, Florida Statutes, which apply to the organizational structure of the executive branch, and the creation of s. 120.515, Florida Statutes, which applies to administrative procedure, are to clarify that the placement of an executive department under the direct administration of an officer or board appointed by and serving at the pleasure of the Governor does not implicitly limit or restrict the Governor’s prerogative, legal authority, and constitutional responsibility to direct and supervise the execution of the law and the exercise of lawful discretion.”</Text>
+	</Note>
+</Section>

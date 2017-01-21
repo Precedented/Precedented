@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0290.007" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">State incentives available in enterprise zones.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The following incentives are provided by the state to encourage the revitalization of enterprise zones:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The enterprise zone jobs credit provided in s. 220.181.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The enterprise zone property tax credit provided in s. 220.182.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The community contribution tax credits provided in ss. 212.08, 220.183, and 624.5105.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The sales tax exemption for building materials used in the rehabilitation of real property in enterprise zones provided in s. 212.08(5)(g).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The sales tax exemption for business equipment used in an enterprise zone provided in s. 212.08(5)(h).</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The sales tax exemption for electrical energy used in an enterprise zone provided in s. 212.08(15).</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The enterprise zone jobs credit against the sales tax provided in s. 212.096.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any law to the contrary, the Public Service Commission may allow public utilities and telecommunications companies to grant discounts of up to 50 percent on tariffed rates for services to small businesses located in an enterprise zone designated pursuant to s. 290.0065. Such discounts may be granted for a period not to exceed 5 years. For purposes of this subsection, the term “public utility” has the same meaning as in s. 366.02(1) and the term “telecommunications company” has the same meaning as in s. 364.02(13).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 82-119; ss. 49, 57, ch. 84-356; s. 28, ch. 87-6; s. 71, ch. 87-243; s. 79, ch. 88-130; ss. 2, 20, ch. 91-262; ss. 28, 37, ch. 94-136; s. 66, ch. 2001-61; s. 23, ch. 2001-201; s. 23, ch. 2003-32; s. 23, ch. 2005-132; s. 11, ch. 2005-287; s. 57, ch. 2011-36; s. 34, ch. 2011-64.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed December 31, 2015, by s. 11, ch. 2005-287.</Text>
+	</Note>
+</Section>

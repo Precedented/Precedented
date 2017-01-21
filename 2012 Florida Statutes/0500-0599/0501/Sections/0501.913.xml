@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0501.913" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Registration.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each brand of antifreeze to be distributed in this state shall be registered with the department before distribution. The person whose name appears on the label, the manufacturer, or the packager shall make application to the department on forms provided by the department no later than July 1 of each year. The registrant assumes, by application to register the brand, full responsibility for the registration, quality, and quantity of the product sold, offered, or exposed for sale in this state. If a registered brand is not in production for distribution in this state and to ensure any remaining product that is still available for sale in the state is properly registered, the registrant must submit a notarized affidavit on company letterhead to the department certifying that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The stated brand is no longer in production;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The stated brand will not be distributed in this state; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All existing product of the stated brand will be removed by the registrant from the state within 30 days after expiration of the registration or the registrant will reregister the brand for two subsequent registration periods.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If production resumes, the brand must be reregistered before it is distributed in this state.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The completed application shall be accompanied by:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Specimens or facsimiles of the label for each brand of antifreeze;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An application fee of $200 for each brand; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A properly labeled sample of between 1 and 2 gallons for each brand of antifreeze.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The department may analyze or inspect the antifreeze to ensure that it:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Meets the labeling claims;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Conforms to minimum standards required for antifreeze by this chapter or rules of the department; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is not adulterated as prescribed for antifreeze by this chapter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the registration requirements are met, and, if the antifreeze meets the minimum standards, is not adulterated, and meets the labeling claims, the department shall issue a certificate of registration authorizing the distribution of that antifreeze in the state for the permit year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If registration requirements are not met, or, if the antifreeze fails to meet the minimum standards, is adulterated, or fails to meet the labeling claims, the department shall refuse to register the antifreeze.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 4, ch. 78-199; s. 2, ch. 81-318; ss. 4, 5, ch. 89-4; s. 4, ch. 91-429; s. 62, ch. 92-291; s. 1, ch. 99-391; s. 24, ch. 2012-67.</History>
+</Section>

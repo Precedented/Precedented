@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0938.27" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Judgment for costs on conviction.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In all criminal and violation-of-probation or community-control cases, convicted persons are liable for payment of the costs of prosecution, including investigative costs incurred by law enforcement agencies, by fire departments for arson investigations, and by investigations of the Department of Financial Services or the Office of Financial Regulation of the Financial Services Commission, if requested by such agencies. The court shall include these costs in every judgment rendered against the convicted person. For purposes of this section, “convicted” means a determination of guilt, or of violation of probation or community control, which is a result of a plea, trial, or violation proceeding, regardless of whether adjudication is withheld.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The court shall impose the costs of prosecution and investigation notwithstanding the defendant’s present ability to pay. The court shall require the defendant to pay the costs within a specified period or pursuant to a payment plan under s. 28.246(4).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The end of such period or the last such installment must not be later than:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The end of the period of probation or community control, if probation or community control is ordered;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Five years after the end of the term of imprisonment imposed, if the court does not order probation or community control; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Five years after the date of sentencing in any other case.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">However, the obligation to pay any unpaid amounts does not expire if not paid in full within the period specified in this paragraph.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If not otherwise provided by the court under this section, costs shall be paid immediately.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a defendant is placed on probation or community control, payment of any costs under this section shall be a condition of such probation or community control. The court may revoke probation or community control if the defendant fails to pay these costs.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Any dispute as to the proper amount or type of costs shall be resolved by the court by the preponderance of the evidence. The burden of demonstrating the amount of costs incurred is on the state attorney. The burden of demonstrating the financial resources of the defendant and the financial needs of the defendant is on the defendant. The burden of demonstrating such other matters as the court deems appropriate is upon the party designated by the court as justice requires.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Any default in payment of costs may be collected by any means authorized by law for enforcement of a judgment.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The clerk of the court shall collect and dispense cost payments in any case.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Investigative costs that are recovered shall be returned to the appropriate investigative agency that incurred the expense. Such costs include actual expenses incurred in conducting the investigation and prosecution of the criminal case; however, costs may also include the salaries of permanent employees. Any investigative costs recovered on behalf of a state agency must be remitted to the Department of Revenue for deposit in the agency operating trust fund, and a report of the payment must be sent to the agency, except that any investigative costs recovered on behalf of the Department of Law Enforcement shall be deposited in the department’s Forfeiture and Investigative Support Trust Fund under s. 943.362.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Costs for the state attorney shall be set in all cases at no less than $50 per case when a misdemeanor or criminal traffic offense is charged and no less than $100 per case when a felony offense is charged, including a proceeding in which the underlying offense is a violation of probation or community control. The court may set a higher amount upon a showing of sufficient proof of higher costs incurred. Costs recovered on behalf of the state attorney under this section shall be deposited into the State Attorneys Revenue Trust Fund to be used during the fiscal year in which the funds are collected, or in any subsequent fiscal year, for actual expenses incurred in investigating and prosecuting criminal cases, which may include the salaries of permanent employees, or for any other purpose authorized by the Legislature.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 76, 1846; RS 2983; GS 4057; RGS 6161; CGL 8475; s. 47, ch. 87-243; s. 7, ch. 92-300; s. 4, ch. 97-60; s. 21, ch. 97-271; s. 25, ch. 2001-122; s. 1925, ch. 2003-261; s. 127, ch. 2003-402; s. 5, ch. 2006-176; s. 44, ch. 2008-111; s. 32, ch. 2010-162; s. 19, ch. 2012-100.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 939.01.</Text>
+	</Note>
+</Section>

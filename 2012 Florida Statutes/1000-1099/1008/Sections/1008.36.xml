@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1008.36" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida School Recognition Program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that there is a need for a performance incentive program for outstanding faculty and staff in highly productive schools. The Legislature further finds that performance-based incentives are commonplace in the private sector and should be infused into the public sector as a reward for productivity.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Florida School Recognition Program is created to provide financial awards to public schools that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Sustain high performance by receiving a school grade of “A,” making excellent progress; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Demonstrate exemplary improvement due to innovation and effort by improving at least one letter grade or by improving more than one letter grade and sustaining the improvement the following school year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">All public schools, including charter schools, that receive a school grade pursuant to s. 1008.34 are eligible to participate in the program.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">All selected schools shall receive financial awards depending on the availability of funds appropriated and the number and size of schools selected to receive an award. Funds must be distributed to the school’s fiscal agent and placed in the school’s account and must be used for purposes listed in subsection (5) as determined jointly by the school’s staff and school advisory council. If school staff and the school advisory council cannot reach agreement by February 1, the awards must be equally distributed to all classroom teachers currently teaching in the school. If a school selected to receive a school recognition award is no longer in existence at the time the award is paid, the district school superintendent shall distribute the funds to teachers who taught at the school in the previous year in the form of a bonus.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">School recognition awards must be used for the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Nonrecurring bonuses to the faculty and staff;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Nonrecurring expenditures for educational equipment or materials to assist in maintaining and improving student performance; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Temporary personnel for the school to assist in maintaining and improving student performance.</Text>
+			</Paragraph>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">Notwithstanding statutory provisions to the contrary, incentive awards are not subject to collective bargaining.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 381, ch. 2002-387; s. 24, ch. 2008-235; s. 13, ch. 2010-22.</History>
+</Section>

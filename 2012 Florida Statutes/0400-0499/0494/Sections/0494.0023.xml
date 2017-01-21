@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0494.0023" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Conflicting interest.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If, in a mortgage transaction, a licensee has a conflicting interest as specified in subsection (2), the licensee shall, at a minimum, provide the following disclosures to the borrower in writing:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The nature of the relationship, ownership, or financial interest between the provider of products or services, or business incident thereto, and the licensee making the referral;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An estimated charge or range of charges generally made by such a provider;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">That a financial benefit may be received by the licensee as a result of the conflicting interest; and</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">That alternative sources may be chosen by the borrower to provide the required products or services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A licensee has a conflicting interest if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The licensee or the licensee’s relative provides the borrower with additional products or services;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The licensee or licensee’s relative, directly or indirectly, owns, controls, or holds with power to vote, or holds proxies representing, 1 percent or more of any class of equity securities or other beneficial interest in the person providing the additional products or services;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The person providing the additional products or services, directly or indirectly, owns, controls, or holds the power to vote, or holds proxies representing, 1 percent or more of any class of equity securities or other beneficial interest in the licensee;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A holding company, directly or indirectly, owns, controls, or holds with power to vote, or holds proxies representing, 1 percent or more of any class of equity securities or other beneficial interest in both the licensee and the person providing the additional products or services;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">One or more persons, or such person’s relative, sits as an officer or director, or performs similar functions as an officer or director, for both the licensee and the person providing the additional products or services; or</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The licensee or the licensee’s relative sits as an officer or director, or performs similar functions as an officer or director, of the person providing the additional products or services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The commission may adopt rules to administer the disclosure requirements of this section. The rules must consider the disclosure requirements of the federal Real Estate Settlement Procedures Act, 12 U.S.C. ss. 2601 et seq.; the federal Truth in Lending Act, 15 U.S.C. ss. 1601 et seq.; and related federal regulations.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 14, 50, ch. 91-245; s. 4, ch. 91-429; s. 13, ch. 2009-241.</History>
+</Section>

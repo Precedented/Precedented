@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.201" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Persons that may issue a warehouse receipt; storage under bond.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A warehouse receipt may be issued by any warehouse.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If goods, including distilled spirits and agricultural commodities, are stored under a statute requiring a bond against withdrawal or a license for the issuance of receipts in the nature of warehouse receipts, a receipt issued for the goods is deemed to be a warehouse receipt even if issued by a person that is the owner of the goods and is not a warehouse.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 23, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-201, U.C.C.; supersedes s. 678.01.</Text>
+	</Note>
+</Section>

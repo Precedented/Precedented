@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1010.30" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Audits required.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">School districts, Florida College System institutions, and other institutions and agencies under the supervision of the State Board of Education and state universities under the supervision of the Board of Governors are subject to the audit provisions of ss. 11.45 and 218.39.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If an audit contains a significant finding, the district school board, the Florida College System institution board of trustees, or the university board of trustees shall conduct an audit overview during a public meeting.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 544, ch. 2002-387; s. 148, ch. 2007-217; s. 160, ch. 2011-5; s. 35, ch. 2012-134.</History>
+</Section>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XLVIII">
+	<ChapterNumber>1005</ChapterNumber>
+	<ChapterName xml:space="preserve">Nonpublic postsecondary education</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="1005.01" />
+		<Section Number="1005.02" />
+		<Section Number="1005.03" />
+		<Section Number="1005.04" />
+		<Section Number="1005.05" />
+		<Section Number="1005.06" />
+		<Section Number="1005.07" />
+		<Section Number="1005.08" />
+		<Section Number="1005.09" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Commission for Independent Education</PartTitle>
+		<Section Number="1005.21" />
+		<Section Number="1005.22" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Licensure of nonpublic postsecondary<NewLine />educational institutions</PartTitle>
+		<Section Number="1005.31" />
+		<Section Number="1005.32" />
+		<Section Number="1005.33" />
+		<Section Number="1005.34" />
+		<Section Number="1005.35" />
+		<Section Number="1005.36" />
+		<Section Number="1005.37" />
+		<Section Number="1005.375" />
+		<Section Number="1005.38" />
+		<Section Number="1005.385" />
+		<Section Number="1005.39" />
+	</Part>
+</Chapter>

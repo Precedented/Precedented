@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0466.00672" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Revocation of health access dental license.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The board shall revoke a health access dental license upon:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The licensee’s termination from employment from a qualifying health access setting;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Final agency action determining that the licensee has violated any provision of s. 466.027 or s. 466.028, other than infractions constituting citation offenses or minor violations; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Failure of the Florida dental licensure examination.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Failure of an individual licensed pursuant to s. 466.0067 to limit the practice of dentistry to health access settings as defined in s. 466.003 constitutes the unlicensed practice of dentistry.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 5, 6, ch. 2008-64; s. 8, ch. 2011-95.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed January 1, 2015, by s. 6, ch. 2008-64, unless reenacted by the Legislature.</Text>
+	</Note>
+</Section>

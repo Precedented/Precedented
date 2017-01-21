@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="XXVIII">
+	<ChapterNumber>377</ChapterNumber>
+	<ChapterName xml:space="preserve">Energy resources</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">Regulation of oil and gas resources</PartTitle>
+		<Section Number="0377.01" />
+		<Section Number="0377.03" />
+		<Section Number="0377.04" />
+		<Section Number="0377.06" />
+		<Section Number="0377.07" />
+		<Section Number="0377.075" />
+		<Section Number="0377.10" />
+		<Section Number="0377.18" />
+		<Section Number="0377.19" />
+		<Section Number="0377.20" />
+		<Section Number="0377.21" />
+		<Section Number="0377.22" />
+		<Section Number="0377.23" />
+		<Section Number="0377.24" />
+		<Section Number="0377.2408" />
+		<Section Number="0377.2409" />
+		<Section Number="0377.241" />
+		<Section Number="0377.2411" />
+		<Section Number="0377.242" />
+		<Section Number="0377.2421" />
+		<Section Number="0377.2424" />
+		<Section Number="0377.2425" />
+		<Section Number="0377.2426" />
+		<Section Number="0377.243" />
+		<Section Number="0377.244" />
+		<Section Number="0377.245" />
+		<Section Number="0377.247" />
+		<Section Number="0377.25" />
+		<Section Number="0377.26" />
+		<Section Number="0377.27" />
+		<Section Number="0377.28" />
+		<Section Number="0377.29" />
+		<Section Number="0377.30" />
+		<Section Number="0377.31" />
+		<Section Number="0377.32" />
+		<Section Number="0377.33" />
+		<Section Number="0377.34" />
+		<Section Number="0377.35" />
+		<Section Number="0377.36" />
+		<Section Number="0377.37" />
+		<Section Number="0377.371" />
+		<Section Number="0377.38" />
+		<Section Number="0377.39" />
+		<Section Number="0377.40" />
+		<Section Number="0377.41" />
+		<Section Number="0377.42" />
+		<Section Number="0377.43" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Planning and development</PartTitle>
+		<Section Number="0377.601" />
+		<Section Number="0377.6015" />
+		<Section Number="0377.602" />
+		<Section Number="0377.603" />
+		<Section Number="0377.604" />
+		<Section Number="0377.605" />
+		<Section Number="0377.606" />
+		<Section Number="0377.607" />
+		<Section Number="0377.608" />
+		<Section Number="0377.701" />
+		<Section Number="0377.703" />
+		<Section Number="0377.704" />
+		<Section Number="0377.705" />
+		<Section Number="0377.709" />
+		<Section Number="0377.71" />
+		<Section Number="0377.711" />
+		<Section Number="0377.712" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Renewable energy and<NewLine />green government programs</PartTitle>
+		<Section Number="0377.801" />
+		<Section Number="0377.802" />
+		<Section Number="0377.803" />
+		<Section Number="0377.804" />
+		<Section Number="0377.806" />
+		<Section Number="0377.807" />
+		<Section Number="0377.808" />
+		<Section Number="0377.809" />
+	</Part>
+</Chapter>

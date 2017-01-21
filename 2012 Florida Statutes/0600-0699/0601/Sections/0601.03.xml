@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0601.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Additive” means any foreign substance which, when added to any citrus fruit juice, will change the amount of total soluble solids or anhydrous citric acid therein, or the color or taste thereof, or act as an artificial preservative thereof.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Agent” means any person who, on behalf of any citrus fruit dealer, negotiates the consignment, purchase, or sale of citrus fruit, or weighs citrus fruit so that the weight thereof may be used in computing the amount to be paid therefor.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Broker” means any person engaged in the business of negotiating the sale or purchase of citrus fruit for others.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Canned products” means juices, segments, or sections of citrus fruits sealed in hermetically sealed containers at a concentration that does not exceed 20 degrees Brix and sufficiently processed by heat to ensure preservation of the product, and when regulated by the department, these same products packed in any other manner or in any other type container.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Canning plant” means any building, structure, or place where citrus fruit or the juice thereof is canned or prepared for canning at a concentration that does not exceed 20 degrees Brix for market or shipment.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Cash buyer” means any person who purchases citrus fruit in this state from the producer for the purpose of resale.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Citrus fruit” means all varieties and regulated hybrids of citrus fruit and also means processed citrus products containing 20 percent or more citrus fruit or citrus fruit juice. The term does not, for purposes of this chapter, mean limes, lemons, marmalade, jellies, preserves, candies, or citrus hybrids for which specific standards have not been established by the department.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Citrus fruit dealer” means any consignor, commission merchant, consignment shipper, cash buyer, broker, association, cooperative association, express or gift fruit shipper, or person who in any manner makes or attempts to make money or other thing of value on citrus fruit in any manner whatsoever, other than of growing or producing citrus fruit. The term does not include retail establishments whose sales are direct to consumers and not for resale or persons or firms trading solely in citrus futures contracts on a regulated commodity exchange.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Citrus hybrids” includes, but is not limited to, hybrids between or among sour orange (<Font xml:space="preserve" Style="Italic">C. aurantium</Font>), pummelo (<Font xml:space="preserve" Style="Italic">C. grandis</Font>), lemon (<Font xml:space="preserve" Style="Italic">C. limon</Font>), lime (<Font xml:space="preserve" Style="Italic">C. aurantifolia</Font>), citron (<Font xml:space="preserve" Style="Italic">C. medica</Font>), grapefruit (<Font xml:space="preserve" Style="Italic">C. paradisi</Font>), tangerine or mandarin orange (<Font xml:space="preserve" Style="Italic">C. reticulata</Font>), sweet orange (<Font xml:space="preserve" Style="Italic">C. sinensis</Font>), tangelo (<Font xml:space="preserve" Style="Italic">C. reticulata</Font> x <Font xml:space="preserve" Style="Italic">C. paradisi</Font> or <Font xml:space="preserve" Style="Italic">C. grandis</Font>), tangor (<Font xml:space="preserve" Style="Italic">C. reticulata</Font> x <Font xml:space="preserve" Style="Italic">C. sinensis</Font>), kumquat (<Font xml:space="preserve" Style="Italic">Fortunella</Font>, species), trifoliate orange (<Font xml:space="preserve" Style="Italic">Poncirus trifoliata</Font>), and varieties of these species.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Citrus producing area” means that part or parts of the state in which citrus fruit is grown or produced.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Color-add” or “color-added” means the application or use of any coloring matter to any citrus fruit.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Coloring matter” means any dye, or any liquid or concentrate or material containing a dye or materials that react to form a dye, used or intended to be used for the purpose of enhancing the color of citrus fruit by the addition of artificial color to the peel thereof. The term does not include any process or treatment of fruit that merely brings out or accelerates the natural color of the fruit.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Commission” means the Florida Citrus Commission as head of the department.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Commission merchant” means any person engaged in the business of receiving any citrus fruit for sale on commission for or on behalf of another.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Concentrated products” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Frozen citrus fruit <Reference Number="1"/>juice that has a concentration that exceeds 20 degrees Brix and is kept at a sufficiently freezing temperature to ensure preservation of the product; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Citrus fruit juice that is sealed in hermetically sealed containers at a concentration that exceeds 20 degrees Brix and is sufficiently processed by heat to ensure preservation of the product.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Concentrating plant” means any building, structure, or place where citrus fruit is canned, frozen, or prepared for canning or freezing at a concentration that exceeds 20 degrees Brix for market or shipment.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Consignment shipper” means any person who contracts with the producer of citrus fruit for the marketing thereof for the sole account and risk of such producer and who agrees to pay such producer the net proceeds derived from such sale.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Consignor” means any person, other than a producer, who ships or delivers to any commission merchant or dealer any citrus fruit for handling, sale, or resale.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Degreening room” means any room or place where citrus fruit is placed, with or without the use of heat or any gas, for the purpose of bringing out the natural color of the fruit.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Citrus.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Department of Agriculture” means the Department of Agriculture and Consumer Services.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Express or gift fruit shipper” means any person having an established place of business who ships or delivers for transportation in any manner citrus fruit to a consumer and not for the purpose of resale.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Fresh fruit juice distributor” means any person extracting and preparing for market or shipment any citrus fruit juice in fresh form.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Grapefruit” means the fruit <Font xml:space="preserve" Style="Italic">Citrus paradisi Macf.</Font>, commonly called grapefruit. The term includes the white, red, and pink meated varieties of grapefruit.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Handler” means any person engaged within this state in the business of distributing citrus fruit in the primary channel of trade or any person engaged as a processor in the business of processing citrus fruit.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Lemons” or “rough lemons” means the acid lemons of <Font xml:space="preserve" Style="Italic">Citrus limon</Font>, including the varieties <Font xml:space="preserve" Style="Italic">eureka, genoa, wheatley, amerfo, belair</Font>, and <Font xml:space="preserve" Style="Italic">villafranca</Font> of the Eureka group; varieties <Font xml:space="preserve" Style="Italic">bonnie brae, kennedy, lisbon, messer, messina</Font>, and <Font xml:space="preserve" Style="Italic">sicily</Font> of the Lisbon group; varieties <Font xml:space="preserve" Style="Italic">meyer, cuban, ponderosa</Font>, and <Font xml:space="preserve" Style="Italic">rough</Font> of the Anomalous group; varieties <Font xml:space="preserve" Style="Italic">dorshapo</Font> and <Font xml:space="preserve" Style="Italic">millsweet</Font> of the Sweet Lemon group; and other varieties not included in this subsection, such as <Font xml:space="preserve" Style="Italic">everbearing, palestine sweet, perrine</Font>, and <Font xml:space="preserve" Style="Italic">spheriola</Font>.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Manufacturer” means any person who manufactures, sells or offers for sale, or licenses or offers for license for use any coloring matter, or any soaps, oils, waxes, gases, gas-forming material, or other similar compositions, or the component parts thereof on or in the processing of citrus fruits.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Oranges” means the fruit <Font xml:space="preserve" Style="Italic">Citrus sinensis Osbeck</Font>, commonly called sweet oranges.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Packinghouse” means any building, structure, or place where citrus fruit is packed or otherwise prepared for market or shipment in fresh form.</Text>
+		</Subsection>
+		<Subsection Id="30">
+			<Text xml:space="preserve" Style="Intro">“Person” means any natural person, partnership, association, corporation, trust, estate, or other legal entity.</Text>
+		</Subsection>
+		<Subsection Id="31">
+			<Text xml:space="preserve" Style="Intro">“Primary channel of trade” means the routes through which citrus fruit is marketed. Citrus fruit is deemed to be delivered into the primary channel of trade when it is sold or delivered for shipment in fresh form or when it is received and accepted at a canning, concentrating, or processing plant for canning, concentrating, or processing.</Text>
+		</Subsection>
+		<Subsection Id="32">
+			<Text xml:space="preserve" Style="Intro">“Processor” means any person engaged within this state in the business of canning, concentrating, or otherwise processing citrus fruit for market other than for shipment in fresh fruit form.</Text>
+		</Subsection>
+		<Subsection Id="33">
+			<Text xml:space="preserve" Style="Intro">“Producer” means any person growing or producing citrus in this state for market.</Text>
+		</Subsection>
+		<Subsection Id="34">
+			<Text xml:space="preserve" Style="Intro">“Ship” or “shipping” means to move, or cause to be moved, citrus fruit or the canned or concentrated products thereof in intrastate, interstate, or foreign commerce by rail, truck, boat, airplane, or any other means.</Text>
+		</Subsection>
+		<Subsection Id="35">
+			<Text xml:space="preserve" Style="Intro">“Shipper” means any person engaged in shipping, or causing to be shipped, citrus fruit or the canned or concentrated products thereof in intrastate, interstate, or foreign commerce, whether as owner, agent, or otherwise.</Text>
+		</Subsection>
+		<Subsection Id="36">
+			<Text xml:space="preserve" Style="Intro">“Shipping season” means that period beginning August 1 of one year and ending July 31 of the following year.</Text>
+		</Subsection>
+		<Subsection Id="37">
+			<Text xml:space="preserve" Style="Intro">“Sour or bitter oranges” means the fruit of <Font xml:space="preserve" Style="Italic">Citrus aurantium</Font> L. and contains several subspecies. Among the most important are varieties <Font xml:space="preserve" Style="Italic">african, brazilian, rubidoux</Font>, and <Font xml:space="preserve" Style="Italic">standard</Font> of the Normal group; varieties <Font xml:space="preserve" Style="Italic">daidai, goleta,</Font> and <Font xml:space="preserve" Style="Italic">bouquet</Font> of the Aberrant group; variety <Font xml:space="preserve" Style="Italic">chinooto</Font> of the Myrtifolia group; and varieties <Font xml:space="preserve" Style="Italic">bittersweet</Font> and <Font xml:space="preserve" Style="Italic">paraguay</Font> of the Bittersweet group.</Text>
+		</Subsection>
+		<Subsection Id="38">
+			<Text xml:space="preserve" Style="Intro">“Standard packed box” means 1<Fraction>3/5</Fraction> bushels of citrus fruit, whether in bulk or containers.</Text>
+		</Subsection>
+		<Subsection Id="39">
+			<Text xml:space="preserve" Style="Intro">“Tangerines” means the fruit <Font xml:space="preserve" Style="Italic">Citrus reticulata Blanco</Font>, commonly called tangerines.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 25149, 1949; ss. 1-5, ch. 26492, 1951; s. 2, ch. 29757, 1955; ss. 1-8, ch. 57-28; s. 1, ch. 59-12; s. 1, ch. 59-16; ss. 1-3, ch. 59-20; ss. 1, 2, ch. 61-91; s. 1, ch. 63-71; s. 1, ch. 65-85; s. 5, ch. 67-220; ss. 14, 29, 35, ch. 69-106; s. 6, ch. 71-185; ss. 1-3, 22, ch. 71-186; s. 256, ch. 71-377; s. 1, ch. 73-13; s. 1, ch. 76-8; s. 5, ch. 2012-182.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">The word “frozen” following the word “juice” was deleted by the editors.</Text>
+	</Note>
+</Section>

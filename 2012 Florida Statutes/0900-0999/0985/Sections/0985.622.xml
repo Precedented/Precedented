@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0985.622" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Multiagency plan for vocational education.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Juvenile Justice and the Department of Education shall, in consultation with the statewide Workforce Development Youth Council, school districts, providers, and others, jointly develop a multiagency plan for vocational education that establishes the curriculum, goals, and outcome measures for vocational programs in juvenile commitment facilities. The plan must include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Provisions for maximizing appropriate state and federal funding sources, including funds under the Workforce Investment Act and the Perkins Act;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The responsibilities of both departments and all other appropriate entities; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A detailed implementation schedule.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The plan must define vocational programming that is appropriate based upon:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The age and assessed educational abilities and goals of the youth to be served; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The typical length of stay and custody characteristics at the commitment program to which each youth is assigned.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The plan must include a definition of vocational programming that includes the following classifications of commitment facilities that will offer vocational programming by one of the following types:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Type A.</Font><EmDash />Programs that teach personal accountability skills and behaviors that are appropriate for youth in all age groups and ability levels and that lead to work habits that help maintain employment and living standards.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Type B.</Font><EmDash />Programs that include Type A program content and an orientation to the broad scope of career choices, based upon personal abilities, aptitudes, and interests. Exploring and gaining knowledge of occupation options and the level of effort required to achieve them are essential prerequisites to skill training.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Type C.</Font><EmDash />Programs that include Type A program content and the vocational competencies or the prerequisites needed for entry into a specific occupation.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The plan must also address strategies to facilitate involvement of business and industry in the design, delivery, and evaluation of vocational programming in juvenile justice commitment facilities and conditional release programs, including apprenticeship and work experience programs, mentoring and job shadowing, and other strategies that lead to postrelease employment. Incentives for business involvement, such as tax breaks, bonding, and liability limits should be investigated, implemented where appropriate, or recommended to the Legislature for consideration.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The Department of Juvenile Justice and the Department of Education shall each align its respective agency policies, practices, technical manuals, contracts, quality-assurance standards, performance-based-budgeting measures, and outcome measures with the plan in commitment facilities by July 31, 2001. Each agency shall provide a report on the implementation of this section to the Governor, the President of the Senate, and the Speaker of the House of Representatives by August 31, 2001.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">All provider contracts executed by the Department of Juvenile Justice or the school districts after January 1, 2002, must be aligned with the plan.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The planning and execution of quality assurance reviews conducted by the Department of Education or the Department of Juvenile Justice after August 1, 2002, must be aligned with the plan.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Outcome measures reported by the Department of Juvenile Justice and the Department of Education for youth released on or after January 1, 2002, should include outcome measures that conform to the plan.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2000-137; s. 31, ch. 2001-125; s. 123, ch. 2002-1; s. 81, ch. 2006-120; s. 172, ch. 2010-102.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 985.3155.</Text>
+	</Note>
+</Section>

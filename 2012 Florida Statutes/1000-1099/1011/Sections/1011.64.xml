@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1011.64" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">School district minimum classroom expenditure requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature may require any school district that fails to meet minimum academic performance standards to increase emphasis on classroom instruction activities from operating funds, including, but not limited to, those provided for the operation of schools pursuant to s. 1011.62.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For the purpose of implementing the provisions of this section, the Legislature shall prescribe minimum academic performance standards and minimum classroom expenditure requirements for districts not meeting such minimum academic performance standards in the General Appropriations Act.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Minimum academic performance standards may be based on, but are not limited to, district grades determined pursuant to s. 1008.34(7).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">School district minimum classroom expenditure requirements shall be calculated pursuant to subsection (3).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Annually the Department of Education shall calculate for each school district:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Total K-12 operating expenditures, which are defined as the amount of total general fund expenditures for K-12 programs reported in accordance with the accounts and codes prescribed in the most recent issuance of the Department of Education publication entitled “Financial and Program Cost Accounting and Reporting for Florida Schools” and included in the most recent annual financial report submitted to the Commissioner of Education, less the student transportation revenue allocation from the state appropriation for that purpose, amounts transferred to other funds, and increases to the amount of the general fund’s ending fund balance not classified as restricted, committed, or nonspendable if the total ending fund balance not classified as restricted, committed, or nonspendable is in excess of 5 percent of the total general fund revenues.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Expenditures for classroom instruction, which equal the sum of the general fund expenditures for K-12 instruction and instructional staff training.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall annually calculate for each district, and for the entire state, the percentage of classroom expenditures to total operating expenditures as calculated pursuant to subparagraphs (a)1. and 2.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">In order for the Department of Education to monitor the implementation of this section, each school district which is required to increase emphasis on classroom activities from operating funds pursuant to subsection (1) shall submit to the department the following two reports in a format determined by the department:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An initial report, which shall include the proposed budget actions identified for increased classroom expenditures, a description of how such actions are designed to improve student achievement, and a copy of the published statement required by s. 1011.03(2). This report shall be submitted within 30 days after final budget approval as provided in s. 200.065.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A final report, prepared at the end of each fiscal year, which shall include, but is not limited to, information that clearly indicates the degree of each district’s compliance or noncompliance with the requirements of this section. If not fully compliant, the district shall include a statement which has been adopted at a public hearing and signed by the district school superintendent and district school board members, which explains why the requirements of this section have not been met.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department shall provide annual summaries of these two reports to the Governor, the President of the Senate, and the Speaker of the House of Representatives.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 656, ch. 2002-387; s. 51, ch. 2006-74; s. 26, ch. 2010-154; s. 25, ch. 2011-144.</History>
+</Section>

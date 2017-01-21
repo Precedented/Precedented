@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1012.341" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Exemption from performance evaluation system and compensation and salary schedule requirements.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this act, a school district that received an exemption under Florida’s Race to the Top Memorandum of Understanding for Phase 2, as provided in s. (D)(2)(ii) of the memorandum, is allowed to base 40 percent, instead of 50 percent, of instructional personnel and school administrator performance evaluations upon student learning growth under s. 1012.34, as amended by this act. The school district is also exempt from the amendments to s. 1012.22(1)(c) made by this act. The exemptions described in this subsection are effective for the 2011-2012 school year and are effective for each school year thereafter if the school district receives annual approval by the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall base its approval upon demonstration by the school district of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The instructional personnel and school administrator evaluation systems base at least 40 percent of an employee’s performance evaluation upon student performance and that student performance is the single greatest component of an employee’s evaluation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The instructional personnel and school administrator evaluation systems adopt the Commissioner of Education’s student learning growth formula for statewide assessments as provided under s. 1012.34(7).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The school district’s instructional personnel and school administrator compensation system awards salary increases based upon sustained student performance.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The school district’s contract system awards instructional personnel and school administrators based upon student performance and removes ineffective employees.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Beginning with the 2014-2015 school year and each school year thereafter, student learning growth based upon performance on statewide assessments under s. 1008.22 must have significantly improved compared to student learning growth in the district in 2011-2012 and significantly improved compared to other school districts.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall annually renew a school district’s exemptions if the school district demonstrates that it meets the requirements of subsection (2). If the exemptions are not renewed, the school district must comply with the requirements and laws described in subsection (1) by the beginning of the next school year immediately following the loss of the exemptions.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules pursuant to ss. 120.536(1) and 120.54 to establish the procedures for applying for the exemptions and the criteria for renewing the exemptions.</Text>
+		</Subsection>
+		<Text xml:space="preserve" Style="Reversion">This section shall be repealed August 1, 2017, unless reviewed and reenacted by the Legislature.</Text>
+	</SectionBody>
+	<History xml:space="preserve">s. 16, ch. 2011-1.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 17, ch. 2011-1, provides that “[c]hapter 2010-279, Laws of Florida, does not apply to any rulemaking required to administer this act.”</Text>
+	</Note>
+</Section>

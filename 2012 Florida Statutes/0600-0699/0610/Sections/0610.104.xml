@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0610.104" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">State authorization to provide cable or video service.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An entity or person seeking to provide cable or video service in this state after July 1, 2007, shall file an application for a state-issued certificate of franchise authority with the department as required by this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An applicant for a state-issued certificate of franchise authority to provide cable or video service shall submit to the Department of State an application that contains:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The official name of the cable or video service provider.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The street address of the principal place of business of the cable or video service provider.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The federal employer identification number or the Department of State’s document number.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The name, address, and telephone number of an officer, partner, owner, member, or manager as a contact person for the cable or video service provider to whom questions or concerns may be addressed.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A duly executed affidavit signed by an officer, partner, owner, or managing member affirming and containing:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That the applicant is fully qualified under the provisions of this chapter to file an application and affidavit for a certificate of franchise authority.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That the applicant has filed or will timely file with the Federal Communications Commission all forms required by that agency in advance of offering cable or video service in this state.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the applicant agrees to comply with all applicable federal and state laws and regulations, to the extent such state laws and rules are not in conflict with or superseded by the provisions of this chapter or other applicable state law.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">That the applicant agrees to comply with all state laws and rules and municipal and county ordinances and regulations regarding the placement and maintenance of communications facilities in the public rights-of-way that are generally applicable to providers of communications services in accordance with s. 337.401.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">A description of the service area for which the applicant seeks a certificate of franchise authority provided on a municipal or countywide basis. The description may be provided in a manner that does not disclose competitively sensitive information. Notwithstanding the foregoing:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">For incumbent cable or video service providers that have existing local franchise agreements, the service area shall be coextensive with the provider’s service area description in the existing local franchise.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">For applicants using telecommunications facilities to provide video services, the service area shall be described in terms of entire wire centers that may or may not be consistent with municipal or county boundaries except any portion of a specific wire center which will remain subject to an existing cable or video franchise agreement until the earlier of the agreement’s expiration or termination.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The location of the applicant’s principal place of business, the names of the applicant’s principal executive officers, and a physical address sufficient for the purposes of chapter 48.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">That the applicant will file with the department a notice of commencement of service within 5 business days after first providing service in each area described in subparagraph 5.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">A statement affirming that the applicant will notify the department of any change of address or contact person.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The applicant’s system shall comply with the Federal Communications Commission’s rules and regulations of the Emergency Alert System.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Before the 10th business day after the department receives the application, the department shall notify the applicant whether the application and affidavit described in subsection (2) are complete. If the department rejects the application and affidavit, the department shall specify with particularity the reasons for the rejection and permit the applicant to amend the application or affidavit to cure any deficiency. The department shall act upon the amended application or affidavit within 10 business days after the department’s receipt of the amended application or affidavit.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department shall issue a certificate of franchise authority to the applicant before the 15th business day after receipt of an accepted application. The certificate of franchise authority issued by the department shall contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The name of the certificateholder and its identification number.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A grant of authority to provide cable or video service as requested in the application.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A grant of authority to construct, maintain, and operate facilities through, upon, over, and under any public right-of-way or waters, subject to the applicable governmental permitting or authorization from the Board of Trustees of the Internal Improvement Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A statement that the grant of authority is subject to lawful operation of the cable or video service by the applicant or its successor in interest.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A statement that describes the service area for which this certificate of authority applies.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A statement that includes the issuance date that shall be the effective date of the commencement of this authority.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the department fails to act on the accepted application within 30 business days after receiving the accepted application, the application shall be deemed approved by the department without further action.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A certificateholder that seeks to include additional service areas in its current certificate shall file an amendment to the certificate with the department. Such amendment shall specify the name and address of the certificateholder, the new service area or areas to be served, consistent with subparagraph (2)(e)5., but need not be coextensive with municipal or county boundaries, and the effective date of commencement of operations in the new service area or areas. Such amendment shall be filed with the department within 5 business days after first providing service in each such additional area.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The certificate of franchise authority issued by the department is fully transferable to any successor in interest to the applicant to which the certificate is initially granted. A notice of transfer shall be filed with the department and the relevant municipality or county within 14 business days following the completion of such transfer.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">The certificate of franchise authority issued by the department may be terminated by the cable or video service provider by submitting notice to the department.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">An applicant may challenge a rejection of an application by the department in a court of competent jurisdiction through a petition for mandamus.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">In executing the provisions of this section, the department shall function in a ministerial capacity accepting information contained in the application and affidavit at face value. The applicant shall ensure continued compliance with all applicable business formation, registration, and taxation provisions of law.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">The application shall be accompanied by a one-time fee of $10,000. A parent company may file a single application covering itself and all of its subsidiaries and affiliates intending to provide cable or video service in the service areas throughout the state as described in subparagraph (2)(e)5., but the entity actually providing such service in a given area shall otherwise be considered the certificateholder under this act.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">Beginning 5 years after approval of the certificateholder’s initial certificate of franchise issued by the department, and every 5 years thereafter, the certificateholder shall update the information contained in the original application for a certificate of franchise. At the time of filing the information update, the certificateholder shall pay a processing fee of $1,000. Any certificateholder that fails to file the updated information and pay the processing fee on the 5-year anniversary dates shall be subject to cancellation of its state-issued certificate of franchise authority if, upon notice given to the certificateholder at its last address on file with the department, the certificateholder fails to file the updated information and pay the processing fee within 30 days after the date notice was mailed. The application and processing fees imposed in this section shall be paid to the Department of State for deposit into the Clearing Funds Trust Fund for immediate transfer by the Chief Financial Officer to the General Inspection Trust Fund of the Department of Agriculture and Consumer Services. The Department of Agriculture and Consumer Services shall maintain a separate account within the General Inspection Trust Fund to distinguish cable franchise revenues from all other funds. The application, any amendments to the certificate, or information updates must be accompanied by a fee to the Department of State equal to that for filing articles of incorporation pursuant to s. 607.0122(1).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 2007-29; s. 142, ch. 2008-4; s. 6, ch. 2010-16.</History>
+</Section>

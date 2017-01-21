@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0465.0265" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Centralized prescription filling.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A pharmacy licensed under this chapter may perform centralized prescription filling for another pharmacy, provided that the pharmacies have the same owner or have a written contract specifying the services to be provided by each pharmacy, the responsibilities of each pharmacy, and the manner in which the pharmacies will comply with federal and state laws, rules, and regulations.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each pharmacy performing or contracting for the performance of centralized prescription filling pursuant to this section must maintain a policy and procedures manual, which shall be made available to the board or its agent upon request. The policy and procedures manual shall include the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A description of how each pharmacy will comply with federal and state laws, rules, and regulations.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The procedure for maintaining appropriate records to identify the pharmacist responsible for dispensing the prescription and counseling the patient.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The procedure for tracking the prescription during each stage of the filling and dispensing process.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The procedure for identifying on the prescription label all pharmacies involved in filling and dispensing the prescription.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The policy and procedure for providing adequate security to protect the confidentiality and integrity of patient information.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The procedure to be used by the pharmacy in implementing and operating a quality assurance program designed to objectively and systematically monitor, evaluate, and improve the quality and appropriateness of patient care.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The filling, delivery, and return of a prescription by one pharmacy for another pursuant to this section shall not be construed as the filling of a transferred prescription as set forth in s. 465.026 or as a wholesale distribution as set forth in s. 499.003(54).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The board shall adopt rules pursuant to ss. 120.536(1) and 120.54 necessary to implement this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2002-182; s. 40, ch. 2008-207; s. 38, ch. 2010-161.</History>
+</Section>

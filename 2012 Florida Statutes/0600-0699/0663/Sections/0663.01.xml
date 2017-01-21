@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0663.01" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Banking business” means receiving deposits, paying of checks or other instruments, making loans, or any other activity authorized in this chapter for an international banking corporation or its offices.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Credit balance” means any uninsured balance on one or more accounts of a nonresident or resident person or entity derived from the overseas transfer of funds and from the permissible activities of an international agency or international branch. A credit balance may be a demand balance or a term balance.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Foreign country” means a country other than the United States and includes any colony, dependency, or possession of such country notwithstanding any definitions in chapter 658, and any territory of the United States, including Guam, American Samoa, the Virgin Islands, and the Commonwealth of Puerto Rico.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“International administrative office” means an office of an international banking corporation established in this state for the purpose of engaging in the activities described in s. 663.063(1).</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“International bank agency” means an office of an international banking corporation established in this state for the purpose of engaging in the activities described in s. 663.061.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“International banking corporation” means a banking corporation organized and licensed under the laws of a foreign country. The term “international banking corporation” includes, without limitation, a foreign commercial bank, foreign merchant bank, or other foreign institution that engages in banking activities usual in connection with the business of banking in the country where such foreign institution is organized or operating, including a corporation: the sole shareholders of which are one or more international banking corporations or holding companies which own or control one or more international banking corporations which are authorized to carry on a banking business, or a central bank or government agency of a foreign country and any affiliate or division thereof; which has the power to receive deposits from the general public in the country where it is chartered and organized; and which is under the supervision of the central bank or other bank regulatory authority of such country. The term also includes foreign trust companies, or any similar business entities, including, but not limited to, foreign banks with fiduciary powers, that conduct trust business as defined in the financial institutions codes.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“International branch” means any office of an international banking corporation established in this state under s. 663.064.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“International representative office” means an office of an international banking corporation organized and licensed under the laws of a foreign country that is established or maintained in this state for the purpose of engaging in the activities described in s. 663.062, or any affiliate, subsidiary, or other person that engages in such activities, on behalf of such international banking corporation, from an office located in this state.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“International trust company representative office” means an office of an international banking corporation or trust company organized and licensed under the laws of a foreign country which office is established or maintained in this state for the purpose of engaging in nonfiduciary activities described in s. 663.0625, or any affiliate, subsidiary, or other person that engages in such activities on behalf of such international banking corporation or trust company from an office located in this state.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Nonresident” means:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individual who resides in the United States for less than 183 days during a calendar year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A person other than an individual whose principal place of business or domicile is outside the United States and includes a person who conducts a majority of its business activities in a foreign country and any foreign government and its subdivision, agencies, and instrumentalities. Any person who conducts business in the United States is considered to have its principal place of business outside the United States if any one of the following requirements is satisfied for its most recent fiscal year:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Its assets located outside the United States exceed its assets located within the United States;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Its gross revenues generated outside the United States exceed its gross revenues generated within the United States; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Its payroll expenses incurred outside the United States exceed its payroll expenses incurred within the United States.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“State-chartered investment company” means a corporation organized under the laws of this state for the purpose of engaging in the activities described in s. 663.065.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-157; ss. 82, 151, 152, ch. 80-260; ss. 1, 4, ch. 81-156; ss. 2, 3, ch. 81-318; s. 3, ch. 83-129; s. 3, ch. 83-265; ss. 33, 51, ch. 84-216; s. 1, ch. 91-307; ss. 1, 150, ch. 92-303; s. 2, ch. 97-109; s. 2, ch. 2010-9.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 659.67(1).</Text>
+	</Note>
+</Section>

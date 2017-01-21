@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1001.20" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Department under direction of state board.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall be organized consistently with the requirements of s. 20.15, and shall act as an administrative and supervisory agency under the implementation direction of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department is to be located in the offices of the Commissioner of Education and shall assist in providing professional leadership and guidance and in carrying out the policies, procedures, and duties authorized by law or by the State Board of Education or found necessary by it to attain the purposes and objectives of this code.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall maintain an Office of the Commissioner of Education that includes the general areas of operation that are common to all delivery sectors, such as administration, communication, legal services, financial aid, and government and public relations, in order to increase efficiency, improve service delivery to students, and fully support the operational needs of the State Board of Education.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall establish the following offices within the Office of the Commissioner of Education which shall coordinate their activities with all other divisions and offices:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Office of Technology and Information Services.</Font><EmDash />Responsible for developing a systemwide technology plan, making budget recommendations to the commissioner, providing data collection and management for the system, assisting school districts in securing Internet access and telecommunications services, including those eligible for funding under the Schools and Libraries Program of the federal Universal Service Fund, and coordinating services with other state, local, and private agencies. The office shall develop a method to address the need for a statewide approach to planning and operations of library and information services to achieve a single K-20 education system library information portal and a unified higher education library management system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Office of Workforce and Economic Development.</Font><EmDash />Responsible for evaluating the role of each sector of education in Florida’s workforce and economic development, assessing the specific work skills and variety of careers provided, and reporting to the State Board of Education the effectiveness of each sector.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Office of Educational Facilities.</Font><EmDash />Responsible for validating all educational plant surveys and verifying Florida Inventory of School Houses (FISH) data. The office shall provide technical assistance to public school districts when requested.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Office of Student Financial Assistance.</Font><EmDash />Responsible for providing access to and administering state and federal grants, scholarships, and loans to those students seeking financial assistance for postsecondary study pursuant to program criteria and eligibility requirements.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro"><Font xml:space="preserve" Style="Italic">Office of Inspector General.</Font><EmDash />Organized using existing resources and funds and responsible for promoting accountability, efficiency, and effectiveness and detecting fraud and abuse within school districts, the Florida School for the Deaf and the Blind, and Florida College System institutions in Florida. If the Commissioner of Education determines that a district school board, the Board of Trustees for the Florida School for the Deaf and the Blind, or a Florida College System institution board of trustees is unwilling or unable to address substantiated allegations made by any person relating to waste, fraud, or financial mismanagement within the school district, the Florida School for the Deaf and the Blind, or the Florida College System institution, the office shall conduct, coordinate, or request investigations into such substantiated allegations. The office shall have access to all information and personnel necessary to perform its duties and shall have all of its current powers, duties, and responsibilities authorized in s. 20.055.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 2002-387; s. 2, ch. 2004-331; s. 72, ch. 2007-217; s. 2, ch. 2009-59; s. 12, ch. 2010-70; s. 12, ch. 2011-5; s. 1, ch. 2011-175.</History>
+</Section>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.403" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Business and other activities conducted by fiduciary.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a fiduciary who conducts a business or other activity determines that it is in the best interest of all the beneficiaries to account separately for the business or activity instead of accounting for the business or activity as part of the trust’s or estate’s general accounting records, the fiduciary may maintain separate accounting records for the transactions of the business or other activity, whether or not the assets of such business or activity are segregated from other trust or estate assets.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A fiduciary who accounts separately for a business or other activity may determine the extent to which the net cash receipts of the business or activity must be retained for working capital, the acquisition or replacement of fixed assets, and other reasonably foreseeable needs of the business or activity, and the extent to which the remaining net cash receipts are accounted for as principal or income in the trust’s or estate’s general accounting records. If a fiduciary sells assets of the business or other activity, other than in the ordinary course of the business or activity, the fiduciary must account for the net amount received as principal in the trust’s or estate’s general accounting records to the extent the fiduciary determines that the amount received is no longer required in the conduct of the business.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Activities for which a fiduciary may maintain separate accounting records include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Retail, manufacturing, service, and other traditional business activities.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Farming.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Raising and selling livestock and other animals.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Management of rental properties.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Extraction of minerals and other natural resources.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Timber operations.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Activities to which s. 738.607 applies.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 14, ch. 2012-49.</History>
+</Section>

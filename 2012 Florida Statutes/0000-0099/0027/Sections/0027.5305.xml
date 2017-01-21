@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0027.5305" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Attorney or provider compensation; conditions; requirements.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">This section applies to the payment by the state through the Justice Administrative Commission of legal fees and due process costs in an eligible criminal or civil matter when a person receives the services of a private court-appointed attorney or is declared indigent for costs.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ELECTRONIC FUNDS TRANSFER.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A person requesting compensation from the state through the Justice Administrative Commission for the provision of criminal or civil legal representation or other due process services must, as a condition for compensation, participate in a direct-deposit program under which the person authorizes the transfer of funds electronically to an account in the person’s name at a federally chartered or state-chartered financial institution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Justice Administrative Commission may exempt a person from compliance with this section if the commission finds that participation in a direct-deposit program creates a financial hardship for the person.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">This subsection applies to compensation for services that are provided on or after January 1, 2011.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">TRANSCRIPTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The state may pay for the cost of preparing a transcript of a deposition only if the private court-appointed attorney secures an order from the court finding that preparation of the transcript is necessary, in which case the state may pay for one original and one copy only.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The state may pay for the cost of one original transcript of any deposition, hearing, or other proceeding. Any other payment for a transcript of that same deposition, hearing, or other proceeding, regardless of whether the transcript is an additional original transcript or a copy, shall be at the rate paid for a copy of a transcript. This paragraph applies regardless of which state agency pays for the first original transcript.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">COURT REPORTERS; INVESTIGATORS.<EmDash />Beginning with the 2010-2011 fiscal year, and applicable to services performed starting in that year, uniform statewide rates shall be prescribed annually in the General Appropriations Act for the payment of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Court reporting services that are not provided through the state courts system; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Private investigation services.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">EXPERT WITNESSES; MITIGATION SPECIALISTS.<EmDash />A private court-appointed attorney must obtain authorization from the court to employ an out-of-state expert or mitigation specialist upon a showing that an expert or mitigation specialist who has appropriate skills or expertise is not available from within the county in which the case was filed or from elsewhere in the state. An order authorizing the employment must be in writing and contain specific findings regarding the unavailability of a qualified in-state expert or mitigation specialist. The attorney shall submit a copy of the order to the Justice Administrative Commission.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">RIGHT TO DISCOVERY.<EmDash />The Justice Administrative Commission has a right to engage in discovery in accordance with the Florida Rules of Civil Procedure on a motion to the court seeking payment of attorney’s fees, costs, or other expenses. This right includes a reasonable opportunity to obtain discovery before a hearing on the motion.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 10, ch. 2010-162.</History>
+</Section>

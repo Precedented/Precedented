@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0626.932" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Surplus lines tax.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The premiums charged for surplus lines coverages are subject to a premium receipts tax of 5 percent of all gross premiums charged for such insurance. The surplus lines agent shall collect from the insured the amount of the tax at the time of the delivery of the cover note, certificate of insurance, policy, or other initial confirmation of insurance, in addition to the full amount of the gross premium charged by the insurer for the insurance. The surplus lines agent is prohibited from absorbing such tax or, as an inducement for insurance or for any other reason, rebating all or any part of such tax or of his or her commission.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The surplus lines agent shall make payable to the department the tax related to each calendar quarter’s business as reported to the Florida Surplus Lines Service Office, and remit the tax to the Florida Surplus Lines Service Office at the same time as provided for the filing of the quarterly affidavit, under s. 626.931. The Florida Surplus Lines Service Office shall forward to the department the taxes and any interest collected pursuant to paragraph (b), within 10 days of receipt.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agent shall pay interest on the amount of any delinquent tax due, at the rate of 9 percent per year, compounded annually, beginning the day the amount becomes delinquent.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a surplus lines policy covers risks or exposures only partially in this state and the state is the home state as defined in the federal Nonadmitted and Reinsurance Reform Act of 2010 (NRRA), the tax payable shall be computed on the gross premium. The tax must not exceed the tax rate where the risk or exposure is located.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not apply as to insurance of, or with respect to, vessels, cargo, or aircraft written under s. 626.917, or as to insurance of risks of the state government or its agencies, or of any county or municipality or of any agency thereof.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Reference Number="1" />
+			<Text xml:space="preserve" Style="Intro">Taxes collected under this section shall be deposited into the General Revenue Fund.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">For the purposes of this section, the term “premium” means the consideration for insurance by whatever name called and includes any assessment, or any membership, policy, survey, inspection, service, or similar fee or charge in consideration for an insurance contract, which items are deemed to be a part of the premium. The per-policy fee authorized by s. 626.916(4) is specifically included within the meaning of the term “premium.” However, the service fee imposed pursuant to s. 626.9325 is excluded from the meaning of the term “premium.”</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 371, ch. 59-205; s. 15, ch. 65-269; ss. 13, 35, ch. 69-106; s. 2, ch. 81-318; ss. 318, 807, ch. 82-243; s. 46, ch. 90-132; ss. 178, 206, 207, ch. 90-363; s. 4, ch. 91-429; s. 32, ch. 92-146; s. 309, ch. 97-102; s. 5, ch. 97-196; s. 7, ch. 2001-213; s. 1022, ch. 2003-261; s. 8, ch. 2003-395; s. 4, ch. 2008-132; ss. 7, 9, ch. 2009-70; s. 2, ch. 2011-46.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 9, ch. 2009-70, provides that “[t]he amendments to ss. 626.932(5) and 626.938(7), Florida Statutes, made by this act expire July 1, 2014, and the text of those subsections shall revert to that in existence on June 30, 2009, except that any amendments to such text enacted other than by this act shall be preserved and continue to operate to the extent that such amendments are not dependent upon the portions of such text which expire pursuant to this section.” Effective July 1, 2014, subsection (5), as amended by s. 9, ch. 2009-70, will read:</Text>
+		<Text xml:space="preserve" Style="Indent">(5) The department shall deposit 15.74 percent of all taxes collected under this section to the credit of the Insurance Regulatory Trust Fund. Eighty-four and twenty-six hundredths percent of all taxes collected under this section shall be deposited into the General Revenue Fund.</Text>
+	</Note>
+</Section>

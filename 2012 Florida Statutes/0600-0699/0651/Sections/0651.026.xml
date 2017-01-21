@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0651.026" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Annual reports.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Annually, on or before May 1, the provider shall file an annual report and such other information and data showing its condition as of the last day of the preceding calendar year, except as provided in subsection (5). If the office does not receive the required information on or before May 1, a late fee may be charged pursuant to s. 651.015(2)(c). The office may approve an extension of up to 30 days.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The annual report shall be in such form as the commission prescribes and shall contain at least the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any change in status with respect to the information required to be filed under s. 651.022(2).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Financial statements audited by an independent certified public accountant which must contain, for two or more periods if the facility has been in existence that long, all of the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An accountant’s opinion and, in accordance with generally accepted accounting principles:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">A balance sheet;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">A statement of income and expenses;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">A statement of equity or fund balances; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">A statement of changes in cash flows.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Notes to the financial statements considered customary or necessary for full disclosure or adequate understanding of the financial statements, financial condition, and operation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The following financial information:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A detailed listing of the assets maintained in the liquid reserve as required under s. 651.035 and in accordance with part II of chapter 625;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A schedule giving additional information relating to property, plant, and equipment having an original cost of at least $25,000, so as to show in reasonable detail with respect to each separate facility original costs, accumulated depreciation, net book value, appraised value or insurable value and date thereof, insurance coverage, encumbrances, and net equity of appraised or insured value over encumbrances. Any property not used in continuing care must be shown separately from property used in continuing care;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The level of participation in Medicare or Medicaid programs, or both;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A statement of all fees required of residents, including, but not limited to, a statement of the entrance fee charged, the monthly service charges, the proposed application of the proceeds of the entrance fee by the provider, and the plan by which the amount of the entrance fee is determined if the entrance fee is not the same in all cases; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any change or increase in fees if the provider changes the scope of, or the rates for, care or services, regardless of whether the change involves the basic rate or only those services available at additional costs to the resident.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">If the provider has more than one certificated facility, or has operations that are not licensed under this chapter, it shall submit a balance sheet, statement of income and expenses, statement of equity or fund balances, and statement of cash flows for each facility licensed under this chapter as supplemental information to the audited financial statements required under paragraph (b).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Such other reasonable data, financial statements, and pertinent information as the commission or office may require with respect to the provider or the facility, or its directors, trustees, members, branches, subsidiaries, or affiliates, to determine the financial status of the facility and the management capabilities of its managers and owners.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Each facility shall file with the office annually, together with the annual report required by this section, a computation of its minimum liquid reserve calculated in accordance with s. 651.035 on a form prescribed by the commission.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">If, due to a change in generally accepted accounting principles, the balance sheet, statement of income and expenses, statement of equity or fund balances, or statement of cash flows is known by any other name or title, the annual report must contain financial statements using the changed names or titles that most closely correspond to a balance sheet, statement of income and expenses, statement of equity or fund balances, and statement of changes in cash flows.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The commission shall adopt by rule meaningful measures of assessing the financial viability of a provider. The rule may include the following factors:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Debt service coverage ratios.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Current ratios.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Adjusted current ratios.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Cash flows.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Occupancy rates.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Other measures, ratios, or trends.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Other factors as may be appropriate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the provider is an individual, the annual statement shall be sworn to by him or her; if a limited partnership, by the general partner; if a partnership other than a limited partnership, by all the partners; if any other unincorporated association, by all its members or officers and directors; if a trust, by all its trustees and officers; and, if a corporation, by the president and secretary thereof.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A provider may declare at the time of application a fiscal year other than the calendar year, and may use such fiscal year for its accounting period. A provider may subsequently adopt a fiscal year upon providing the office with a copy of the Internal Revenue Service approval of such change, if such approval is required. The annual report filing with the office must be made within 120 days of the last day of the fiscal year of the provider.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The workpapers, account analyses, descriptions of basic assumptions, and other information necessary for a full understanding of the annual statement of a provider as filed with the office shall be made available for visual inspection by the office at the facility or, if the office requests, at another agreed-upon site. Photocopies may not be made unless consented to by the provider.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A filing fee in the amount of $100 shall accompany each annual report required by this section.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">All financial reports and any supplemental financial information submitted to the office shall be prepared in conformity with generally accepted accounting principles.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">The commission may by rule require all or part of the statements or filings required under this section to be submitted by electronic means in a computer-readable form compatible with the electronic data format specified by the commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 77-323; s. 250, ch. 79-400; s. 3, ch. 80-13; s. 1, ch. 80-73; s. 437, ch. 81-259; ss. 4, 25, ch. 81-292; s. 2, ch. 81-318; s. 3, ch. 83-265; ss. 6, 31, 33, 35, ch. 83-328; s. 44, ch. 85-321; s. 5, ch. 87-136; s. 4, ch. 89-363; s. 4, ch. 92-56; ss. 3, 12, ch. 93-22; s. 509, ch. 97-102; s. 7, ch. 97-229; s. 1673, ch. 2003-261; s. 5, ch. 2006-64; s. 5, ch. 2010-202.</History>
+</Section>

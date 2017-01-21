@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0713.22" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Duration of lien.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A lien provided by this part does not continue for a longer period than 1 year after the claim of lien has been recorded or 1 year after the recording of an amended claim of lien that shows a later date of final furnishing of labor, services, or materials, unless within that time an action to enforce the lien is commenced in a court of competent jurisdiction. A lien that has been continued beyond the 1-year period by the commencement of an action is not enforceable against creditors or subsequent purchasers for a valuable consideration and without notice, unless a notice of lis pendens is recorded.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">An owner or the owner’s attorney may elect to shorten the time prescribed in subsection (1) within which to commence an action to enforce any claim of lien or claim against a bond or other security under s. 713.23 or s. 713.24 by recording in the clerk’s office a notice in substantially the following form:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true" SpaceBelow="true">NOTICE OF CONTEST OF LIEN</Text>
+			<Text xml:space="preserve" Style="Flush">To: <Directions xml:space="preserve">(Name and address of lienor)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">You are notified that the undersigned contests the claim of lien filed by you on <HorizontalRule Type="Fixed"></HorizontalRule>, <Directions xml:space="preserve">(year)</Directions>, and recorded in <HorizontalRule Type="Fixed"></HorizontalRule> Book <HorizontalRule Type="Fixed"></HorizontalRule>, Page <HorizontalRule Type="Fixed"></HorizontalRule>, of the public records of <HorizontalRule Type="Fixed"></HorizontalRule> County, Florida, and that the time within which you may file suit to enforce your lien is limited to 60 days from the date of service of this notice. This <HorizontalRule Type="Fixed"></HorizontalRule> day of <HorizontalRule Type="Fixed"></HorizontalRule>, <Directions xml:space="preserve">(year)</Directions>.</Text>
+			<Text xml:space="preserve" Style="AlignRight" SpaceAbove="true" SpaceBelow="true">Signed: <Directions xml:space="preserve">(Owner or Attorney)</Directions></Text>
+			<Text xml:space="preserve" Style="Flush">The lien of any lienor upon whom such notice is served and who fails to institute a suit to enforce his or her lien within 60 days after service of such notice shall be extinguished automatically. The clerk shall serve, in accordance with s. 713.18, a copy of the notice of contest to the lien claimant at the address shown in the claim of lien or most recent amendment thereto and shall certify to such service and the date of service on the face of the notice and record the notice.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 63-135; s. 13, ch. 65-456; s. 35, ch. 67-254; s. 9, ch. 77-353; s. 811, ch. 97-102; s. 31, ch. 99-6; s. 12, ch. 2007-221; s. 10, ch. 2012-211.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 84.221.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0044.108" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Funding of mediation and arbitration.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Mediation and arbitration should be accessible to all parties regardless of financial status. A filing fee of $1 is levied on all proceedings in the circuit or county courts to fund mediation and arbitration services which are the responsibility of the Supreme Court pursuant to the provisions of s. 44.106. The clerk of the court shall forward the moneys collected to the Department of Revenue for deposit in the State Courts Revenue Trust Fund.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When court-ordered mediation services are provided by a circuit court’s mediation program, the following fees, unless otherwise established in the General Appropriations Act, shall be collected by the clerk of court:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">One-hundred twenty dollars per person per scheduled session in family mediation when the parties’ combined income is greater than $50,000, but less than $100,000 per year;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Sixty dollars per person per scheduled session in family mediation when the parties’ combined income is less than $50,000; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Sixty dollars per person per scheduled session in county court cases.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">No mediation fees shall be assessed under this subsection in residential eviction cases, against a party found to be indigent, or for any small claims action. Fees collected by the clerk of court pursuant to this section shall be remitted to the Department of Revenue for deposit into the State Courts Revenue Trust Fund to fund court-ordered mediation. The clerk of court may deduct $1 per fee assessment for processing this fee. The clerk of the court shall submit to the chief judge of the circuit and to the Office of the State Courts Administrator, no later than 30 days after the end of each quarter of the fiscal year, a report specifying the amount of funds collected and remitted to the State Courts Revenue Trust Fund under this section and any other section during the previous quarter of the fiscal year. In addition to identifying the total aggregate collections and remissions from all statutory sources, the report must identify collections and remissions by each statutory source.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 89-31; s. 8, ch. 90-188; s. 6, ch. 91-152; s. 8, ch. 2001-122; s. 12, ch. 2001-380; s. 66, ch. 2003-402; s. 44, ch. 2004-265; s. 33, ch. 2005-236; s. 24, ch. 2008-111; s. 12, ch. 2010-153; s. 4, ch. 2011-133.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 44.308.</Text>
+	</Note>
+</Section>

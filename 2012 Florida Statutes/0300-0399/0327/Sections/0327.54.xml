@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0327.54" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Liveries; safety regulations; penalty.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A livery may not knowingly lease, hire, or rent a vessel to any person:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">When the number of persons intending to use the vessel exceeds the number considered to constitute a maximum safety load for the vessel as specified on the authorized persons capacity plate of the vessel.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">When the horsepower of the motor exceeds the capacity of the vessel.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">When the vessel does not contain the required safety equipment required under s. 327.50.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">When the vessel is not seaworthy.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">When the vessel is equipped with a motor of 10 horsepower or greater, unless the livery provides prerental or preride instruction that includes, but need not be limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Operational characteristics of the vessel to be rented.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Safe vessel operation and vessel right-of-way.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The responsibility of the vessel operator for the safe and proper operation of the vessel.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Local characteristics of the waterway where the vessel will be operated.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">Any person delivering the information specified in this paragraph must have successfully completed a boater safety course approved by the National Association of State Boating Law Administrators and this state.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Unless the livery displays boating safety information in a place visible to the renting public. The commission shall prescribe by rule pursuant to chapter 120, the contents and size of the boating safety information to be displayed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A livery may not knowingly lease, hire, or rent any vessel powered by a motor of 10 horsepower or greater to any person who is required to comply with s. 327.395, unless such person presents to the livery photographic identification and a valid boater safety identification card as required under s. 327.395(1), or meets the exemption provided under s. 327.395(6)(f).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a vessel is unnecessarily overdue, the livery shall notify the proper authorities.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A livery may not knowingly lease, hire, or rent a personal watercraft to any person who is under 18 years of age.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A livery may not knowingly lease, hire, or rent a personal watercraft to any person who has not received instruction in the safe handling of personal watercraft, in compliance with rules established by the commission pursuant to chapter 120.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Any person receiving instruction in the safe handling of personal watercraft pursuant to a program established by rule of the commission must provide the livery with a written statement attesting to the same.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A livery may not lease, hire, or rent any personal watercraft or offer to lease, hire, or rent any personal watercraft unless the livery first obtains and carries in full force and effect a policy from a licensed insurance carrier in this state, insuring against any accident, loss, injury, property damage, or other casualty caused by or resulting from the operation of the personal watercraft. The insurance policy shall provide coverage of at least $500,000 per person and $1 million per event. The livery must have proof of such insurance available for inspection at the location where personal watercraft are being leased, hired, or rented, or offered for lease, hire, or rent, and shall provide to each renter the insurance carrier’s name and address and the insurance policy number.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Any person convicted of violating this section commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 63-105; s. 1, ch. 65-361; s. 303, ch. 71-136; s. 10, ch. 84-188; s. 4, ch. 89-136; s. 2, ch. 96-187; s. 42, ch. 97-96; s. 19, ch. 2000-362; s. 3, ch. 2011-152.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 371.561.</Text>
+	</Note>
+</Section>

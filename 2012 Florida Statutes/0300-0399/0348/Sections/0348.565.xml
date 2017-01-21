@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0348.565" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Revenue bonds for specified projects.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">The existing facilities that constitute the Tampa-Hillsborough County Expressway System are hereby approved to be refinanced by revenue bonds issued by the Division of Bond Finance of the State Board of Administration pursuant to s. 11(f), Art. VII of the State Constitution and the State Bond Act or by revenue bonds issued by the authority pursuant to s. 348.56(1)(b). In addition, the following projects of the Tampa-Hillsborough County Expressway Authority are approved to be financed or refinanced by the issuance of revenue bonds in accordance with this part and s. 11(f), Art. VII of the State Constitution:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Brandon area feeder roads.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Capital improvements to the expressway system, including safety and operational improvements and toll collection equipment.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Lee Roy Selmon Crosstown Expressway System widening.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The connector highway linking the Lee Roy Selmon Crosstown Expressway to Interstate 4.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 28, ch. 97-280; s. 58, ch. 2000-152; s. 92, ch. 2002-20; s. 31, ch. 2010-225.</History>
+</Section>

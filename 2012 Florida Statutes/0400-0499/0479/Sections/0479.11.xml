@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0479.11" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Specified signs prohibited.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">No sign shall be erected, used, operated, or maintained:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Within 660 feet of the nearest edge of the right-of-way of any portion of the interstate highway system or the federal-aid primary highway system, except as provided in ss. 479.111 and 479.16.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Beyond 660 feet of the nearest edge of the right-of-way of any portion of the interstate highway system or the federal-aid primary highway system outside an urban area, which sign is erected for the purpose of its message being read from the main-traveled way of such system, except as provided in ss. 479.111(1) and 479.16.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Within 15 feet of the outside boundary of the right-of-way of any highway on the State Highway System outside of an incorporated area or on the interstate or federal-aid primary highway system outside an incorporated area.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Within 100 feet of any church, school, cemetery, public park, public reservation, public playground, or state or national forest, when such facility is located outside of an incorporated area, except as provided in s. 479.16.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Which displays intermittent lights not embodied in the sign, or any rotating or flashing light within 100 feet of the outside boundary of the right-of-way of any highway on the State Highway System, interstate highway system, or federal-aid primary highway system or which is illuminated in such a manner so as to cause glare or to impair the vision of motorists or otherwise distract motorists so as to interfere with the motorists’ ability to safely operate their vehicles.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the sign is on the premises of an establishment as provided in s. 479.16(1), the local government authority with jurisdiction over the location of the sign shall enforce the provisions of this section as provided in chapter 162 and this section.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Which uses the word “stop” or “danger,” or presents or implies the need or requirement of stopping or the existence of danger, or which is a copy or imitation of official signs, and which is adjacent to the right-of-way of any highway on the State Highway System, interstate highway system, or federal-aid primary highway system.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Which is placed on the inside of a curve or in any manner that may prevent persons using the highway from obtaining an unobstructed view of approaching vehicles and which is adjacent to the right-of-way of any highway on the State Highway System, interstate highway system, or federal-aid primary highway system.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Which is located upon the right-of-way of any highway on the State Highway System, interstate highway system, or federal-aid primary highway system.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Which is nailed, fastened, or affixed to any tree or is erected or maintained in an unsafe, insecure, or unsightly condition and which is adjacent to the right-of-way of any highway on the State Highway System outside of an incorporated area or on any portion of the interstate highway system or the federal-aid primary highway system.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Which is on a new highway outside an urban area and otherwise would have been subject to the permit requirements of this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 20446, 1941; s. 3, ch. 26959, 1951; s. 1, ch. 31413, 1956; s. 1, ch. 57-282; s. 2, ch. 61-151; s. 5, ch. 71-971; s. 2, ch. 75-202; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 12, 25, 26, ch. 84-227; s. 4, ch. 91-429; s. 44, ch. 94-237; s. 32, ch. 95-257; s. 4, ch. 2012-83.</History>
+</Section>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0624.407" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Surplus required; new insurers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">To receive authority to transact any one kind or combinations of kinds of insurance, as defined in part V of this chapter, an insurer applying for its original certificate of authority in this state shall possess surplus as to policyholders at least the greater of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For a property and casualty insurer, $5 million, or $2.5 million for any other insurer;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For life insurers, 4 percent of the insurer’s total liabilities;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For life and health insurers, 4 percent of the insurer’s total liabilities, plus 6 percent of the insurer’s liabilities relative to health insurance;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For all insurers other than life insurers and life and health insurers, 10 percent of the insurer’s total liabilities; or</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding paragraph (a) or paragraph (d), for a domestic insurer that transacts residential property insurance and is:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Not a wholly owned subsidiary of an insurer domiciled in any other state, $15 million.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A wholly owned subsidiary of an insurer domiciled in any other state, $50 million.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (1), a new insurer may not be required to have surplus as to policyholders greater than $100 million.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The requirements of this section shall be based upon all the kinds of insurance actually transacted or to be transacted by the insurer in any and all areas in which it operates, whether or not only a portion of such kinds of insurance are transacted in this state.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">As to surplus as to policyholders required for qualification to transact one or more kinds of insurance, domestic mutual insurers are governed by chapter 628, and domestic reciprocal insurers are governed by chapter 629.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">For the purposes of this section, liabilities do not include liabilities required under s. 625.041(4). For purposes of computing minimum surplus as to policyholders pursuant to s. 625.305(1), liabilities include liabilities required under s. 625.041(4).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 51, ch. 59-205; s. 1, ch. 63-29; s. 1, ch. 67-235; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 3, ch. 81-318; ss. 43, 64, 809(1st), ch. 82-243; s. 2, ch. 85-245; s. 25, ch. 89-360; ss. 15, 187, 188, ch. 91-108; s. 4, ch. 91-429; s. 5, ch. 93-410; s. 11, ch. 2007-1; s. 4, ch. 2007-90; s. 5, ch. 2011-39.</History>
+</Section>

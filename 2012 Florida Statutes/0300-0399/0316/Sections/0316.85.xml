@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0316.85" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Autonomous vehicles; operation.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A person who possesses a valid driver license may operate an autonomous vehicle in autonomous mode.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For purposes of this chapter, unless the context otherwise requires, a person shall be deemed to be the operator of an autonomous vehicle operating in autonomous mode when the person causes the vehicle’s autonomous technology to engage, regardless of whether the person is physically present in the vehicle while the vehicle is operating in autonomous mode.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 2012-111; s. 107, ch. 2012-174.</History>
+</Section>

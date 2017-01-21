@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0121.71" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Uniform rates; process; calculations; levy.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In conducting the system actuarial study required under s. 121.031, the actuary shall follow all requirements specified to determine, by Florida Retirement System employee membership class, the dollar contribution amounts necessary for the next fiscal year for the pension plan. In addition, the actuary shall determine, by Florida Retirement System membership class, based on an estimate for the next fiscal year of the gross compensation of employees participating in the investment plan, the dollar contribution amounts necessary to make the allocations required under ss. 121.72 and 121.73. For each employee membership class and subclass, the actuarial study must establish a uniform rate necessary to fund the benefit obligations under both Florida Retirement System retirement plans by dividing the sum of total dollars required by the estimated gross compensation of members in both plans.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Based on the uniform rates set forth in subsections (3), (4), and (5), employees and employers shall make monthly contributions to the Division of Retirement as required in s. 121.061(1), which shall initially deposit the funds into the Florida Retirement System Contributions Clearing Trust Fund. A change in a contribution rate is effective the first day of the month for which a full month’s employer and employee contribution may be made on or after the beginning date of the change. Beginning July 1, 2011, each employee shall contribute the contributions required in subsection (3). The employer shall deduct the contribution from the employee’s monthly salary, and the contribution shall be submitted to the division. These contributions shall be reported as employer-paid employee contributions, and credited to the account of the employee. The contributions shall be deducted from the employee’s salary before the computation of applicable federal taxes and treated as employer contributions under 26 U.S.C. s. 414(h)(2). The employer specifies that the contributions, although designated as employee contributions, are being paid by the employer in lieu of contributions by the employee. The employee does not have the option of choosing to receive the contributed amounts directly instead of having them paid by the employer to the plan. Such contributions are mandatory, and each employee is considered to have consented to payroll deductions. Payment of an employee’s salary or wages, less the contribution, is a full and complete discharge and satisfaction of all claims and demands for the service rendered by employees during the period covered by the payment, except their claims to the benefits to which they may be entitled under this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Required employee retirement contribution rates for each membership class and subclass of the Florida Retirement System for both retirement plans are as follows:</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="75" />
+					<Column Width="25" />
+				</ColumnDefinitions>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Membership Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Percentage of<NewLine />Gross<NewLine />Compensation,<NewLine />Effective<NewLine />July 1, 2011</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell></Cell>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Regular Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk<NewLine /> Administrative<NewLine /> Support Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Legislators, Governor,<NewLine /> Lt. Governor,<NewLine /> Cabinet Officers,<NewLine /> State Attorneys,<NewLine /> Public Defenders</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Justices, Judges</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> County Elected Officers</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Senior Management Service Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.00%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">DROP</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.00%</Font></Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">Required employer retirement contribution rates for each membership class and subclass of the Florida Retirement System for both retirement plans are as follows:</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="50" />
+					<Column Width="25" />
+					<Column Width="25" />
+				</ColumnDefinitions>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Membership Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Percentage of<NewLine/>Gross<NewLine/>Compensation,<NewLine />Effective<NewLine/>July 1, 2012</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Percentage of<NewLine/>Gross<NewLine/>Compensation,<NewLine />Effective<NewLine/>July 1, 2013</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell></Cell>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Regular Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.55%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.55%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">11.01%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">11.01%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk<NewLine /> Administrative<NewLine /> Support Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.94%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">3.94%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Legislators, Governor,<NewLine /> Lt. Governor,<NewLine /> Cabinet Officers,<NewLine /> State Attorneys,<NewLine /> Public Defenders</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">6.51%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">6.51%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Justices, Judges</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">10.02%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">10.02%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> County Elected Officers</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">8.36%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">8.36%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Senior Management Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">4.84%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">4.84%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">DROP</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">4.33%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">4.33%</Font></Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro" SpaceAbove="true" SpaceBelow="true">In order to address unfunded actuarial liabilities of the system, the required employer retirement contribution rates for each membership class and subclass of the Florida Retirement System for both retirement plans are as follows:</Text>
+			<Table Width="100" SpaceAbove="true" SpaceBelow="true">
+				<ColumnDefinitions>
+					<Column Width="50" />
+					<Column Width="25" />
+					<Column Width="25" />
+				</ColumnDefinitions>
+				<Header>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Membership Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Percentage of<NewLine/>Gross<NewLine/>Compensation,<NewLine />Effective<NewLine/>July 1, 2012</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Percentage of<NewLine/>Gross<NewLine/>Compensation,<NewLine />Effective<NewLine/>July 1, 2013</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell></Cell>
+					</Row>
+				</Header>
+				<Body>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Regular Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.49%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">2.02%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">2.75%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">7.03%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Special Risk<NewLine /> Administrative<NewLine /> Support Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.83%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">27.04%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Legislators, Governor,<NewLine /> Lt. Governor,<NewLine /> Cabinet Officers,<NewLine /> State Attorneys,<NewLine /> Public Defenders</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.88%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">27.18%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> Justices, Judges</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.77%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">16.38%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Elected Officers’ Class<EmDash/><NewLine /> County Elected Officers</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.73%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">23.01%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">Senior Management Service Class</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.32%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">11.25%</Font></Text>
+						</Cell>
+					</Row>
+					<Row>
+						<Cell VerticalAlign="Bottom">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">DROP</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">0.00%</Font></Text>
+						</Cell>
+						<Cell VerticalAlign="Bottom" HorizontalAlign="Center">
+							<Text xml:space="preserve"><Font xml:space="preserve" Size="8">6.21%</Font></Text>
+						</Cell>
+					</Row>
+				</Body>
+			</Table>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">If a member is reported under an incorrect membership class and the amount of contributions reported and remitted is less than the amount required, the employer shall owe the difference, plus the delinquent fee, of 1 percent for each calendar month or part thereof that the contributions should have been paid. The delinquent assessment may not be waived. If the contributions reported and remitted are more than the amount required, the employer shall receive a credit to be applied against future contributions owed.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The state actuary shall recognize and use an appropriate level of available excess assets of the Florida Retirement System Trust Fund to offset the difference between the normal costs of the Florida Retirement System and the statutorily prescribed contribution rates.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-177; s. 47, ch. 2002-402; s. 3, ch. 2003-260; s. 1, ch. 2004-293; s. 1, ch. 2005-93; s. 1, ch. 2006-35; s. 1, ch. 2007-84; s. 7, ch. 2008-139; s. 1, ch. 2009-76; s. 33, ch. 2011-68; s. 4, ch. 2012-146.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 41, ch. 2011-68, provides that:</Text>
+		<Text xml:space="preserve" Style="Indent">“(1) Effective upon this act becoming a law, the State Board of Administration and the Department of Management Services shall request, as soon as practicable, a determination letter and private letter ruling from the United States Internal Revenue Service. If the United States Internal Revenue Service refuses to act upon a request for a private letter ruling, then a legal opinion from a qualified tax attorney or firm may be substituted for such private letter ruling.</Text>
+		<Text xml:space="preserve" Style="Indent">“(2) If the board or the department receives notification from the United States Internal Revenue Service that this act or any portion of this act will cause the Florida Retirement System, or a portion thereof, to be disqualified for tax purposes under the Internal Revenue Code, then the portion that will cause the disqualification does not apply. Upon receipt of such notice, the state board and the department shall notify the presiding officers of the Legislature.”</Text>
+	</Note>
+</Section>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="1006.281">
+	<Catchline xml:space="preserve">Local instructional improvement systems.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The term “local instructional improvement system” means a system that uses electronic and digital tools that provide teachers, administrators, students, and parents with data and resources to systematically manage continuous instructional improvement. The system supports relevant activities such as instructional planning, information gathering and analysis, rapid-time reporting, decisionmaking on appropriate instructional sequence, and evaluating the effectiveness of instruction. The system shall integrate instructional information with student-level data to provide predictions of future student achievement.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each school district shall provide teachers, administrators, students, and parents access to a local instructional improvement system. The system must provide access to electronic and digital instructional materials and teaching and learning tools and resources, including the ability for teachers and administrators to manage, assess, and track student learning.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">By June 30, 2014, a school district’s local instructional improvement system shall comply with minimum standards published by the Department of Education. The system must allow for a single, authenticated sign-on and include the following functionality:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Vertically searches for, gathers, and organizes specific standards-based instructional materials.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Enables teachers to prepare lessons, individualize student instruction, and use best practices in providing instruction, including the ability to connect student assessment data with electronic and digital instructional materials.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Provides communication, including access to up-to-date student performance data, in order to help teachers and parents better serve the needs of students.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provides access for administrators to ensure quality of instruction within every classroom.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Enables district staff to plan, create, and manage professional development and to connect professional development with staff information and student performance data.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Provides access to multiple content providers and provides the ability to seamlessly connect the local instructional improvement system to electronic and digital content.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Department of Education shall provide advisory assistance as requested by school districts in their deployment of a local instructional improvement system.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The State Board of Education shall adopt rules pursuant to ss. 120.536(1) and 120.54 to administer this section, including rules that establish minimum standards for a local instructional improvement system.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 2010-154; s. 19, ch. 2011-55.</History>
+</Section>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0738.102" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Accounting period” means a calendar year unless another 12-month period is selected by a fiduciary. The term includes a portion of a calendar year or other 12-month period that begins when an income interest begins or ends when an income interest ends.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Beneficiary” means, in the case of a decedent’s estate, an heir or devisee and, in the case of a trust, an income beneficiary or a remainder beneficiary.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Carrying value” means the fair market value at the time the assets are received by the fiduciary. For the estates of decedents and trusts described in s. 733.707(3), after the grantor’s death, the assets are considered received as of the date of death. If there is a change in fiduciaries, a majority of the continuing fiduciaries may elect to adjust the carrying values to reflect the fair market value of the assets at the beginning of their administration. If such election is made, it must be reflected on the first accounting filed after the election. For assets acquired during the administration of the estate or trust, the carrying value is equal to the acquisition costs of the asset.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Fiduciary” means a personal representative or a trustee. The term includes an executor, administrator, successor personal representative, special administrator, or a person performing substantially the same function.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Income” means money or property that a fiduciary receives as current return from a principal asset. The term includes a portion of receipts from a sale, exchange, or liquidation of a principal asset, to the extent provided in ss. 738.401-738.403 and s. 738.503.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Income beneficiary” means a person to whom net income of a trust is or may be payable.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Income interest” means the right of an income beneficiary to receive all or part of net income, whether the terms of the trust require the net income to be distributed or authorize the net income to be distributed in the trustee’s discretion.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Mandatory income interest” means the right of an income beneficiary to receive net income that the terms of the trust require the fiduciary to distribute.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Net income” means the total receipts allocated to income during an accounting period minus the disbursements made from income during the period, plus or minus transfers under this chapter to or from income during the period.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, or any other legal or commercial entity or a government or governmental subdivision, agency, or instrumentality.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Principal” means property held in trust for distribution to a remainder beneficiary when the trust terminates.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Remainder beneficiary” means a person entitled to receive principal when an income interest ends.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Terms of a trust” means the manifestation of the intent of a grantor or decedent with respect to the trust, expressed in a manner that admits of its proof in a judicial proceeding, whether by written or spoken words or by conduct.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Trustee” includes an original, additional, or successor trustee, whether or not appointed or confirmed by a court.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2002-42; s. 2, ch. 2012-49.</History>
+</Section>

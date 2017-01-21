@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.712" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Residential windstorm coverage required; availability of exclusions for windstorm or contents.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">An insurer issuing a residential property insurance policy must provide windstorm coverage. Except as provided in paragraph (2)(c), this section does not apply to risks that are eligible for wind-only coverage from Citizens Property Insurance Corporation under s. 627.351(6), and risks that are not eligible for coverage from Citizens Property Insurance Corporation under s. 627.351(6)(a)3. or 5. A risk ineligible for coverage by the corporation under s. 627.351(6)(a)3. or 5. is exempt from this section only if the risk is located within the boundaries of the coastal account of the corporation.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A property insurer must make available, at the option of the policyholder, an exclusion of windstorm coverage.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The coverage may be excluded only if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">When the policyholder is a natural person, the policyholder personally writes and provides to the insurer the following statement in his or her own handwriting and signs his or her name, which must also be signed by every other named insured on the policy, and dated: “I do not want the insurance on my (home/mobile home/condominium unit) to pay for damage from windstorms. I will pay those costs. My insurance will not.”</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">When the policyholder is other than a natural person, the policyholder provides to the insurer on the policyholder’s letterhead the following statement that must be signed by the policyholder’s authorized representative and dated: “<Directions xml:space="preserve">(Name of entity)</Directions> does not want the insurance on its <Directions xml:space="preserve">(type of structure)</Directions> to pay for damage from windstorms. <Directions xml:space="preserve">(Name of entity)</Directions> will be responsible for these costs. <Directions xml:space="preserve">(Name of entity’s)</Directions> insurance will not.”</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the structure insured by the policy is subject to a mortgage or lien, the policyholder must provide the insurer with a written statement from the mortgageholder or lienholder indicating that the mortgageholder or lienholder approves the policyholder electing to exclude windstorm coverage or hurricane coverage from his or her or its property insurance policy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An insurer nonrenewing a policy and issuing a replacement policy, or issuing a new policy, that does not provide wind coverage shall provide a notice to the mortgageholder or lienholder indicating the policyholder has elected coverage that does not cover wind.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An insurer issuing a residential property insurance policy, except for a condominium unit owner’s policy or a tenant’s policy, must make available, at the option of the policyholder, an exclusion of coverage for the contents. The coverage may be excluded only if the policyholder personally writes and provides to the insurer the following statement in his or her own handwriting and signs his or her signature, which must also be signed by every other named insured on the policy, and dated: “I do not want the insurance on my (home/mobile home) to pay for the costs to repair or replace any contents that are damaged. I will pay those costs. My insurance will not.”</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">An insurer shall keep the original copy of a signed statement required by this section, electronically or otherwise, and provide a copy to the policyholder providing the signed statement. A signed statement meeting the requirements of this section creates a presumption that there was an informed, knowing rejection of coverage.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The exclusions authorized by this section apply for the term of the policy and for each renewal thereafter. Changes to the exclusions authorized by this section may be implemented only as of the date of renewal.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The commission shall adopt rules providing appropriate alternative methods for providing the statements required by this section for policyholders who have a handicapping or disabling condition that prevents them from providing a handwritten statement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 32, ch. 2007-1; s. 19, ch. 2007-90; s. 25, ch. 2008-66; s. 13, ch. 2009-87; s. 6, ch. 2011-11; s. 29, ch. 2011-39.</History>
+</Section>

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disqualification for benefits.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">An individual shall be disqualified for benefits:</Text>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the week in which he or she has voluntarily left work without good cause attributable to his or her employing unit or has been discharged by the employing unit for misconduct connected with his or her work, based on a finding by the Department of Economic Opportunity. As used in this paragraph, the term “work” means any work, whether full-time, part-time, or temporary.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Disqualification for voluntarily quitting continues for the full period of unemployment next ensuing after the individual has left his or her full-time, part-time, or temporary work voluntarily without good cause and until the individual has earned income equal to or greater than 17 times his or her weekly benefit amount. As used in this subsection, the term “good cause” includes only that cause attributable to the employing unit which would compel a reasonable employee to cease working or attributable to the individual’s illness or disability requiring separation from his or her work. Any other disqualification may not be imposed. An individual is not disqualified under this subsection for voluntarily leaving temporary work to return immediately when called to work by the permanent employing unit that temporarily terminated his or her work within the previous 6 calendar months, or for voluntarily leaving work to relocate as a result of his or her military-connected spouse’s permanent change of station orders, activation orders, or unit deployment orders.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Disqualification for being discharged for misconduct connected with his or her work continues for the full period of unemployment next ensuing after having been discharged and until the individual is reemployed and has earned income of at least 17 times his or her weekly benefit amount and for not more than 52 weeks immediately following that week, as determined by the department in each case according to the circumstances or the seriousness of the misconduct, under the department’s rules adopted for determinations of disqualification for benefits for misconduct.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">If an individual has provided notification to the employing unit of his or her intent to voluntarily leave work and the employing unit discharges the individual for reasons other than misconduct before the date the voluntary quit was to take effect, the individual, if otherwise entitled, shall receive benefits from the date of the employer’s discharge until the effective date of his or her voluntary quit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">If an individual is notified by the employing unit of the employer’s intent to discharge the individual for reasons other than misconduct and the individual quits without good cause before the date the discharge was to take effect, the claimant is ineligible for benefits pursuant to s. 443.091(1)(d) for failing to be available for work for the week or weeks of unemployment occurring before the effective date of the discharge.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For any week with respect to which the department finds that his or her unemployment is due to a suspension for misconduct connected with the individual’s work.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For any week with respect to which the department finds that his or her unemployment is due to a leave of absence, if the leave was voluntarily initiated by the individual.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For any week with respect to which the department finds that his or her unemployment is due to a discharge for misconduct connected with the individual’s work, consisting of drug use, as evidenced by a positive, confirmed drug test.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the Department of Economic Opportunity finds that the individual has failed without good cause to apply for available suitable work, accept suitable work when offered to him or her, or return to the individual’s customary self-employment when directed by the department, the disqualification continues for the full period of unemployment next ensuing after he or she failed without good cause to apply for available suitable work, accept suitable work, or return to his or her customary self-employment, and until the individual has earned income of at least 17 times his or her weekly benefit amount. The department shall by rule adopt criteria for determining the “suitability of work,” as used in this section. In developing these rules, the department shall consider the duration of a claimant’s unemployment in determining the suitability of work and the suitability of proposed rates of compensation for available work. Further, after an individual has received 25 weeks of benefits in a single year, suitable work is a job that pays the minimum wage and is 120 percent or more of the weekly benefit amount the individual is drawing.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In determining whether or not any work is suitable for an individual, the department shall consider the degree of risk to the individual’s health, safety, and morals; the individual’s physical fitness, prior training, experience, prior earnings, length of unemployment, and prospects for securing local work in his or her customary occupation; and the distance of the available work from his or her residence.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provisions of this chapter, work is not deemed suitable and benefits may not be denied to any otherwise eligible individual for refusing to accept new work under any of the following conditions:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The position offered is vacant due directly to a strike, lockout, or other labor dispute.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro"> The wages, hours, or other conditions of the work offered are substantially less favorable to the individual than those prevailing for similar work in the locality.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro"> As a condition of being employed, the individual is required to join a company union or to resign from or refrain from joining any bona fide labor organization.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the department finds that an individual was rejected for offered employment as the direct result of a positive, confirmed drug test required as a condition of employment, the individual is disqualified for refusing to accept an offer of suitable work.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For any week with respect to which he or she is receiving or has received remuneration in the form of:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Wages in lieu of notice.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Severance pay. The number of weeks that an individual’s severance pay disqualifies the individual is equal to the amount of the severance pay divided by that individual’s average weekly wage received from the employer that paid the severance pay, rounded down to the nearest whole number, beginning with the week the individual is separated from employment.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Compensation for temporary total disability or permanent total disability under the workers’ compensation law of any state or under a similar law of the United States.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If the remuneration referred to in this subsection is less than the benefits that would otherwise be due under this chapter, an individual who is otherwise eligible is entitled to receive for that week benefits reduced by the amount of the remuneration.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">For any week with respect to which the department finds that his or her total or partial unemployment is due to a labor dispute in active progress which exists at the factory, establishment, or other premises at which he or she is or was last employed; except that this subsection does not apply if it is shown to the satisfaction of the department that:</Text>
+			<Paragraph Id="a">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">He or she is not participating in, financing, or directly interested in the labor dispute that is in active progress; however, the payment of regular union dues may not be construed as financing a labor dispute within the meaning of this section; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">He or she does not belong to a grade or class of workers of which immediately before the commencement of the labor dispute there were members employed at the premises at which the labor dispute occurs any of whom are participating in, financing, or directly interested in the dispute; if in any case separate branches of work are commonly conducted as separate businesses in separate premises, or are conducted in separate departments of the same premises, each department, for the purpose of this subsection, is deemed to be a separate factory, establishment, or other premise.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">His or her total or partial unemployment results from a lockout by his or her employer. As used in this section, the term “lockout” means a situation in which employees have not gone on strike, nor have employees notified the employer of a date certain for a strike, but in which employees have been denied entry to the factory, establishment, or other premises of employment by the employer. However, benefits are not payable under this paragraph if the lockout action was taken in response to threats, actions, or other indications of impending damage to property and equipment or possible physical violence by employees or in response to actual damage or violence or a substantial reduction in production instigated or perpetrated by employees.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">For any week with respect to which or a part of which he or she has received or is seeking reemployment assistance or unemployment benefits under a reemployment assistance or unemployment compensation law of another state or of the United States. For the purposes of this subsection, a reemployment assistance or unemployment compensation law of the United States is any law of the United States which provides for payment of any type and in any amounts for periods of unemployment due to lack of work. However, if the appropriate agency of the other state or of the United States finally determines that he or she is not entitled to reemployment assistance or unemployment benefits, this disqualification does not apply.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">For making any false or fraudulent representation for the purpose of obtaining benefits contrary to this chapter, constituting a violation under s. 443.071. The disqualification imposed under this subsection shall begin with the week in which the false or fraudulent representation is made and shall continue for a period not to exceed 1 year after the date the Department of Economic Opportunity discovers the false or fraudulent representation and until any overpayment of benefits resulting from such representation has been repaid in full. This disqualification may be appealed in the same manner as any other disqualification imposed under this section. A conviction by any court of competent jurisdiction in this state of the offense prohibited or punished by s. 443.071 is conclusive upon the appeals referee and the commission of the making of the false or fraudulent representation for which disqualification is imposed under this section.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">If the Department of Economic Opportunity finds that the individual is an alien, unless the alien is an individual who has been lawfully admitted for permanent residence or otherwise is permanently residing in the United States under color of law, including an alien who is lawfully present in the United States as a result of the application of s. 203(a)(7) or s. 212(d)(5) of the Immigration and Nationality Act, if any modifications to s. 3304(a)(14) of the Federal Unemployment Tax Act, as provided by Pub. L. No. 94-566, which specify other conditions or other effective dates than those stated under federal law for the denial of benefits based on services performed by aliens, and which modifications are required to be implemented under state law as a condition for full tax credit against the tax imposed by the Federal Unemployment Tax Act, are deemed applicable under this section, if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any data or information required of individuals applying for benefits to determine whether benefits are not payable to them because of their alien status is uniformly required from all applicants for benefits; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">In the case of an individual whose application for benefits would otherwise be approved, a determination that benefits to such individual are not payable because of his or her alien status may not be made except by a preponderance of the evidence.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If the department finds that the individual has refused without good cause an offer of resettlement or relocation, which offer provides for suitable employment for the individual notwithstanding the distance of relocation, resettlement, or employment from the current location of the individual in this state, this disqualification continues for the week in which the failure occurred and for not more than 17 weeks immediately after that week, or a reduction by not more than 5 weeks from the duration of benefits, as determined by the department in each case.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">For any week with respect to which he or she has received, from a base period employer, benefits from a retirement, pension, or annuity program embodied in a union contract or either a public or private employee benefit program, except:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For any week in which benefits from a retirement, pension, or annuity program, as referred to in this subsection, are less than the weekly benefits that would otherwise be due under this chapter, he or she is entitled to receive for that week, if otherwise eligible, benefits reduced by the amount of benefits from the retirement, pension, or annuity program, prorated to a weekly basis;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For any week in which an individual has received benefits from a retirement, pension, or annuity program, as referred to in this subsection, for which program he or she has paid at least one-half of the contributions, the individual is entitled to receive for that week, if otherwise eligible, benefits reduced by one-half of the amount of benefits from the retirement, pension, or annuity program, prorated on a weekly basis; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For any week in which he or she has received benefits from a retirement, pension, or annuity program under the United States Social Security Act, for which program he or she has paid any contribution, benefits may not be reduced because of the contribution.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">For the purpose of this subsection, benefits from the United States Social Security Act, a disability benefit program, or any other similar periodic payment based on the previous work of the individual are considered retirement income, except as provided in paragraph (c).</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">If the individual was terminated from his or her work as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the Department of Economic Opportunity or the Reemployment Assistance Appeals Commission finds that the individual was terminated from work for violation of any criminal law, under any jurisdiction, which was in connection with his or her work, and the individual was convicted, or entered a plea of guilty or nolo contendere, the individual is not entitled to reemployment assistance benefits for up to 52 weeks, pursuant to rules adopted by the department, and until he or she has earned income of at least 17 times his or her weekly benefit amount. If, before an adjudication of guilt, an admission of guilt, or a plea of nolo contendere, the employer proves by competent substantial evidence to the department that the arrest was due to a crime against the employer or the employer’s business, customers, or invitees, the individual is not entitled to reemployment assistance benefits.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the department or the Reemployment Assistance Appeals Commission finds that the individual was terminated from work for any dishonest act in connection with his or her work, the individual is not entitled to reemployment assistance benefits for up to 52 weeks, pursuant to rules adopted by the department, and until he or she has earned income of at least 17 times his or her weekly benefit amount. If the employer terminates an individual as a result of a dishonest act in connection with his or her work and the department finds misconduct in connection with his or her work, the individual is not entitled to reemployment assistance benefits.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">If an individual is disqualified for benefits, the account of the terminating employer, if the employer is in the base period, is noncharged at the time the disqualification is imposed.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">Subject to the requirements of this subsection, if the claim is made based on the loss of employment as a leased employee for an employee leasing company or as a temporary employee for a temporary help firm.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Temporary help firm” means a firm that hires its own employees and assigns them to clients to support or supplement the client’s workforce in work situations such as employee absences, temporary skill shortages, seasonal workloads, and special assignments and projects, and includes a labor pool as defined in s. 448.22. The term also includes a firm created by an entity licensed under s. 125.012(6), which hires employees assigned by a union for the purpose of supplementing or supporting the workforce of the temporary help firm’s clients. The term does not include employee leasing companies regulated under part XI of chapter 468.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">“Temporary employee” means an employee assigned to work for the clients of a temporary help firm. The term also includes a day laborer performing day labor, as defined in s. 448.22, who is employed by a labor pool as defined in s. 448.22.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">“Leased employee” means an employee assigned to work for the clients of an employee leasing company regulated under part XI of chapter 468.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A temporary or leased employee is deemed to have voluntarily quit employment and is disqualified for benefits under subparagraph (1)(a)1. if, upon conclusion of his or her latest assignment, the temporary or leased employee, without good cause, failed to contact the temporary help or employee-leasing firm for reassignment, if the employer advised the temporary or leased employee at the time of hire and that the leased employee is notified also at the time of separation that he or she must report for reassignment upon conclusion of each assignment, regardless of the duration of the assignment, and that reemployment assistance benefits may be denied for failure to report. For purposes of this section, the time of hire for a day laborer is upon his or her acceptance of the first assignment following completion of an employment application with the labor pool. The labor pool as defined in s. 448.22(1) must provide notice to the temporary employee upon conclusion of the latest assignment that work is available the next business day and that the temporary employee must report for reassignment the next business day. The notice must be given by means of a notice printed on the paycheck, written notice included in the pay envelope, or other written notification at the conclusion of the current assignment.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">If an individual is discharged from employment for drug use as evidenced by a positive, confirmed drug test as provided in paragraph (1)(d), or is rejected for offered employment because of a positive, confirmed drug test as provided in paragraph (2)(c), test results and chain of custody documentation provided to the employer by a licensed and approved drug-testing laboratory is self-authenticating and admissible in reemployment assistance hearings, and such evidence creates a rebuttable presumption that the individual used, or was using, controlled substances, subject to the following conditions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To qualify for the presumption described in this subsection, an employer must have implemented a drug-free workplace program under ss. 440.101 and 440.102, and must submit proof that the employer has qualified for the insurance discounts provided under s. 627.0915, as certified by the insurance carrier or self-insurance unit. In lieu of these requirements, an employer who does not fit the definition of “employer” in s. 440.102 may qualify for the presumption if the employer is in compliance with equivalent or more stringent drug-testing standards established by federal law or regulation.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Only laboratories licensed and approved as provided in s. 440.102(9), or as provided by equivalent or more stringent licensing requirements established by federal law or regulation may perform the drug tests.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Disclosure of drug test results and other information pertaining to drug testing of individuals who claim or receive compensation under this chapter shall be governed by s. 443.1715.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">For any week in which the individual is unavailable for work due to incarceration or imprisonment.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 6, ch. 18402, 1937; s. 4, ch. 19637, 1939; CGL 1940 Supp. 4151(493); s. 6, ch. 20685, 1941; s. 4, ch. 21983, 1943; s. 1, ch. 24083, 1947; s. 3, ch. 28242, 1953; s. 1, ch. 63-327; s. 1, ch. 63-157; s. 1, ch. 65-45; s. 1, ch. 65-114; s. 1, ch. 65-115; s. 1, ch. 65-244; s. 1, ch. 65-411; ss. 17, 35, ch. 69-106; s. 1, ch. 72-190; s. 4, ch. 77-262; s. 4, ch. 77-399; s. 1, ch. 77-424; s. 1, ch. 78-386; s. 22, ch. 79-7; s. 74, ch. 79-40; s. 2, ch. 79-293; s. 2, ch. 79-308; s. 183, ch. 79-400; ss. 3, 8, 9, ch. 80-95; s. 3, ch. 80-345; s. 1, ch. 81-42; s. 1, ch. 81-137; s. 4, ch. 88-289; s. 1, ch. 92-38; s. 1, ch. 92-84; s. 1, ch. 92-283; s. 2, ch. 93-153; s. 1, ch. 94-158; s. 4, ch. 94-347; s. 4, ch. 96-378; s. 2, ch. 96-411; s. 1060, ch. 97-103; s. 2, ch. 99-131; s. 24, ch. 2003-36; s. 7, ch. 2004-230; s. 1, ch. 2004-237; s. 1, ch. 2008-165; s. 6, ch. 2009-99; s. 15, ch. 2010-90; s. 357, ch. 2011-142; s. 5, ch. 2011-235; s. 7, ch. 2012-30.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 443.06.</Text>
+	</Note>
+</Section>

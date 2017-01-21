@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0677.601" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lost, stolen, or destroyed documents of title.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a document of title is lost, stolen, or destroyed, a court may order delivery of the goods or issuance of a substitute document and the bailee may without liability to any person comply with the order. If the document was negotiable, a court may not order delivery of the goods or the issuance of a substitute document without the claimant’s posting security unless it finds that any person that may suffer loss as a result of nonsurrender of possession or control of the document is adequately protected against the loss. If the document was nonnegotiable, the court may require security. The court may also order payment of the bailee’s reasonable costs and attorney’s fees in any action under this subsection.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A bailee that, without a court order, delivers goods to a person claiming under a missing negotiable document of title is liable to any person injured thereby. If the delivery is not in good faith, the bailee is liable for conversion. Delivery in good faith is not conversion if the claimant posts security with the bailee in an amount at least double the value of the goods at the time of posting to indemnify any person injured by the delivery which files a notice of claim within 1 year after the delivery.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 65-254; s. 54, ch. 2010-131.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">s. 7-601, U.C.C.; supersedes s. 678.14.</Text>
+	</Note>
+</Section>

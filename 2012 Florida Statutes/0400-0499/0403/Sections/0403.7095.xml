@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0403.7095" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Solid waste management grant program.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall develop a consolidated grant program for small counties having populations fewer than 100,000, with grants to be distributed equally among eligible counties. Programs to be supported with the small-county consolidated grants include general solid waste management, litter prevention and control, and recycling and education programs.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The department shall develop a waste tire grant program making grants available to all counties. The department shall ensure that at least 25 percent of the funding available for waste tire grants is distributed equally to each county having a population fewer than 100,000. Of the remaining funds distributed to counties having a population of 100,000 or greater, the department shall distribute those funds on the basis of population.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">From the funds made available pursuant to s. 403.709(1)(e) for the grant program created by this section, the following distributions shall be made:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Up to 50 percent for the program described in subsection (1); and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Up to 50 percent for the program described in subsection (2).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The department may adopt rules necessary to administer this section, including, but not limited to, rules governing timeframes for submitting grant applications, criteria for prioritizing, matching criteria, maximum grant amounts, and allocation of appropriated funds based upon project and applicant size.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this section, and for the 2012-2013 fiscal year only, the Department of Environmental Protection shall award the sum of $2,400,000 in grants equally to counties having populations of fewer than 100,000 for waste tire and litter prevention, recycling education, and general solid waste programs. This subsection expires July 1, 2013.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 18, ch. 88-130; s. 21, ch. 93-207; s. 3, ch. 95-144; ss. 34, 35, ch. 97-153; s. 22, ch. 98-46; s. 17, ch. 98-258; s. 24, ch. 99-228; s. 57, ch. 2000-171; s. 38, ch. 2001-254; s. 8, ch. 2002-2; s. 8, ch. 2002-291; ss. 33, 34, ch. 2002-402; s. 11, ch. 2004-6; s. 16, ch. 2007-184; s. 38, ch. 2008-153; s. 35, ch. 2009-82; s. 17, ch. 2010-4; s. 11, ch. 2010-143; s. 31, ch. 2010-153; s. 37, ch. 2011-47; s. 28, ch. 2012-119.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 28, ch. 2012-119, amended subsection (5) “[i]n order to implement Specific Appropriation 1714 of the 2012-2013 General Appropriations Act.”</Text>
+	</Note>
+</Section>

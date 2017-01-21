@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0290.004" xmlns="http://StatRev.xsd">
+	<Reference Number="1" />
+	<Catchline xml:space="preserve">Definitions relating to Florida Enterprise Zone Act.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in ss. 290.001-290.016:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Community investment corporation” means a black business investment corporation, a certified development corporation, a small business investment corporation, or other similar entity incorporated under Florida law that has limited its investment policy to making investments solely in minority business enterprises.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Economic Opportunity.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Governing body” means the council or other legislative body charged with governing the county or municipality.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Minority business enterprise” has the same meaning as provided in s. 288.703.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Rural enterprise zone” means an enterprise zone that is nominated by a county having a population of 75,000 or fewer, or a county having a population of 100,000 or fewer which is contiguous to a county having a population of 75,000 or fewer, or by a municipality in such a county, or by such a county and one or more municipalities. An enterprise zone designated in accordance with s. 290.0065(5)(b) is considered to be a rural enterprise zone.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Small business” has the same meaning as provided in s. 288.703.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 82-119; s. 27, ch. 83-55; ss. 45, 57, ch. 84-356; ss. 19, 37, ch. 94-136; s. 119, ch. 96-320; s. 15, ch. 2001-201; ss. 2, 11, ch. 2005-287; s. 192, ch. 2008-247; s. 204, ch. 2011-142.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Repealed December 31, 2015, by s. 11, ch. 2005-287.</Text>
+	</Note>
+</Section>

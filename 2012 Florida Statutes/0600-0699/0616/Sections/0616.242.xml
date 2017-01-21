@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0616.242" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Safety standards for amusement rides.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">OWNER RESPONSIBILITY.<EmDash />The owner of an amusement ride, and each amusement ride, must meet at all times the requirements of this section and any rules adopted thereunder.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">SCOPE.<EmDash />This section applies to all amusement rides within this state unless exempt under subsection (10).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Amusement ride” means any building, structure, or mechanical device or combination thereof through which a patron moves, walks, or is carried or conveyed on, along, around, over, or through a fixed or restricted course or within a defined area for the purpose of giving its patrons amusement, pleasure, thrills, or excitement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Annual permit” means the United States Amusement Identification Number and the numbered and dated decal issued by the department, which signify that the amusement ride has been permitted by the department.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Bungy operation” means an amusement ride which utilizes as a component a bungy cord which is an elastic rope made of rubber, latex, or other elastic type materials whether natural or synthetic.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Go-kart” means an amusement ride vehicle controlled or driven by patrons specifically designed for and run on a fixed course.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Inspection certificate” means the document issued by the department, which indicates that the amusement ride has undergone a recurring inspection by the department as required by this section.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Kiddie ride” means an amusement ride designed primarily for use by patrons up to 12 years of age.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Kiddie train” means a train designed as a kiddie ride which is operated on a flat surface or flat track, carries no more than 14 patrons, and does not exceed a speed of 3 miles per hour.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Major modification” means any change in either the structural or operational characteristics of the amusement ride which will alter its performance from that specified in the manufacturer’s design criteria.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Manager” means a person having possession, custody, or managerial control of an amusement ride, whether as owner, lessee, agent, operator, attendant, or otherwise.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Nondestructive testing” is the development and application of technical methods, including, but not limited to, radiographic, magnetic particle, ultrasonic, liquid penetrant, electromagnetic, neutron radiographic, acoustic emission, visual, and leak testing to examine materials or components in ways that do not impair their future usefulness and serviceability in order to detect, locate, measure, and evaluate discontinuities, defects, and other imperfections; to assess integrity, properties, and composition; and to measure geometrical characters.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Owner” means the person exercising ultimate dominion and control over an amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Patron” means any person who is in the immediate vicinity of an amusement ride, getting on or off, or entering or exiting an amusement ride, or using an amusement ride. The term does not include employees, agents, or servants of the owner while they are engaged in the duties of their employment.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Permanent amusement ride” means an amusement ride that is not regularly relocated.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Permanent facility” means a location or place from which amusement rides are not regularly relocated and at which such rides operate as a lasting part of the premises.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Private event” means an event that is not open to the general public and where no admission is charged.</Text>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Professional engineer” means a person who holds a valid license as a professional engineer issued by the Department of Business and Professional Regulation or by an equivalent licensing body in another state.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">“Qualified inspector” means an employee or agent of an insurance underwriter of an amusement ride who documents to the department in a manner established by rule of the department the following qualifications:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A minimum of 5 years experience in the amusement ride field, at least 2 years of which were involved in actual amusement ride inspection with a manufacturer, government agency, park, carnival, or insurance underwriter;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The completion of 32 hours per year of continuing education at a school approved by rule of the department, which includes inservice industry or manufacturer updates and seminars; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">At least 80 hours of formal education during the past 5 years from a school approved by rule of the department for amusement ride safety. Nondestructive-testing training, as determined by rule of the department, may be substituted for up to one-half of the 80 hours of education.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">“Simulator” means any amusement ride that is a self-contained unit requiring little or no assembly and that uses a motion picture simulation, along with a mechanical movement, to simulate activities that provide amusement or excitement for the patron.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">“Temporary amusement ride” means an amusement ride that is regularly relocated, with or without disassembly.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">“Water park” means a permanent facility with one or more amusement rides that totally or partially immerse a patron in water.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">ADOPTION OF STANDARDS; RULES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall adopt by rule standards for amusement rides which are the same as or similar to the following national standards:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">American Society for Testing and Materials Committee F-24 Standards on Amusement Rides and Devices.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">National Electric Code Handbook, Article 525.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">National Fire Protection Code 101 (chapters 8-4.6 and 9-4.6).</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">ASTM Standards: E543 Practice for Determining the Qualification of Nondestructive Testing Agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">ASNT Document Recommended Practice SNT-TC-1A Personnel Qualification and Certification in Nondestructive Testing.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department may adopt rules necessary to effectuate the statutory duties of the department in the interest of public health, safety, and welfare and to promote patron safety in the design, construction, assembly, disassembly, maintenance, and operation of amusement rides in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Legislature finds that go-karts, amusement rides at water parks, and bungy operations are amusement rides that, because of their unique nature, pose safety risks to patrons distinct from other amusement rides. Therefore, the department shall adopt rules regulating their safe use and operation and establish safety standards and inspection requirements in addition to those required by this section or other rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The Legislature finds that, as a result of accidents or other unforeseen events, circumstances may arise requiring additional safety standards for the protection of patrons of amusement rides, and therefore the department may adopt rules to address the circumstances that may arise following an accident or unforeseen event.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">ANNUAL PERMIT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An amusement ride may not be operated without a current annual permit.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To apply for an annual permit an owner must submit to the department a written application on a form prescribed by rule of the department, which must include the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The legal name, address, and primary place of business of the owner.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A description, manufacturer’s name, serial number, model number and, if previously assigned, the United States Amusement Identification Number of the amusement ride.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A valid certificate of insurance or bond for each amusement ride.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">An affidavit of compliance that the amusement ride was inspected in person by the affiant and that the amusement ride is in general conformance with the requirements of this section and all applicable rules adopted by the department. The affidavit must be executed by a professional engineer or a qualified inspector no earlier than 60 days before, but not later than, the date of the filing of the application with the department. The owner shall request inspection and permitting of the amusement ride within 60 days of the date of filing the application with the department. The department shall inspect and permit the amusement ride within 60 days after filing the application with the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">If required by subsection (6), an affidavit of nondestructive testing dated and executed no earlier than 60 days prior to, but not later than, the date of the filing of the application with the department. The owner shall request inspection and permitting of the amusement ride within 60 days of the date of filing the application with the department. The department shall inspect and permit the amusement ride within 60 days after filing the application with the department.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">A request for inspection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Upon request, the owner shall, at no cost to the department, provide the department a copy of the manufacturer’s current recommended operating instructions in the possession of the owner, the owner’s operating fact sheet, and any written bulletins in the possession of the owner concerning the safety, operation, or maintenance of the amusement ride.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An annual permit must be issued by the department to the owner of an amusement ride when a completed application has been received, the amusement ride has passed the department’s inspection, and all applicable fees, as set by rule of the department, have been paid.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The annual permit is valid for 1 year from the date of issue and is not transferable.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The annual permit must be displayed on the amusement ride in a place visible to patrons of the amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Each go-kart track at the same permanent facility is considered a separate amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Amusement rides at water parks which operate from the same deck or level are considered one amusement ride.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">NONDESTRUCTIVE TESTING; AFFIDAVIT; EXEMPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (d), an owner may not operate an amusement ride unless the owner has at all times a current affidavit of nondestructive testing from a professional engineer or qualified inspector that the amusement ride has undergone nondestructive testing for metal fatigue at least annually. The nondestructive testing for metal fatigue must be conducted more often than annually, if required by any rule adopted under this section, by the manufacturer of the amusement ride or by the professional engineer or qualified inspector executing the affidavit of nondestructive testing. The nondestructive testing for metal fatigue must consist at least of visual nondestructive testing; in addition, nonvisual nondestructive testing for metal fatigue must be conducted on the components of the amusement ride as required by any rule adopted under this section, by the manufacturer of the amusement ride, or by the professional engineer or qualified inspector executing the affidavit of nondestructive testing.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Nondestructive testings must be performed by a technician who meets the requirements of subparagraphs (4)(a)4. and 5.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An affidavit of nondestructive testing must state:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">That the amusement ride was inspected in person by the affiant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">That all nondestructive testing requirements are current.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">That the nondestructive testing was performed by a qualified nondestructive testing technician.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The components of the amusement ride for which the manufacturer has recommended or required nondestructive testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The type of nondestructive testing required or recommended by the manufacturer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The frequency of the nondestructive testing required or recommended by the manufacturer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The components of the amusement ride for which the affiant has recommended or required nondestructive testing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The type of nondestructive testing required or recommended by the affiant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The frequency of the nondestructive testing as required or recommended by the affiant.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">That visual nondestructive testing is adequate for the amusement ride to be in general conformance with the requirements of this section, and all applicable rules, if only visual nondestructive testing is required or recommended by either the manufacturer or the affiant.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Nondestructive testing is not required for fun houses, houses of mirrors, haunted houses, mazes, wave pools, wave-making devices, kiddie pools, slides that are fully supported by an earthen mound, nonmotorized playground equipment that requires a manager, or lazy-river-type nonmotorized floating carriers propelled by water.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">DEPARTMENT INSPECTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">In order to obtain an annual permit, an amusement ride must be inspected by the department in accordance with subsection (11) and receive an inspection certificate. In addition, each permanent amusement ride must be inspected semiannually by the department in accordance with subsection (11) and receive an inspection certificate, and each temporary amusement ride must be inspected by the department in accordance with subsection (11), and must receive an inspection certificate each time the ride is set up or moved to a new location in this state unless the temporary amusement ride is:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Used at a private event;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A simulator, the capacity of which does not exceed 16 persons; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A kiddie ride used at a public event, provided that there are no more than three amusement rides at the event, none of the kiddie rides at the event exceeds a capacity of 12 persons, and the ride has an inspection certificate that was issued within the preceding 6 months. The capacity of a kiddie ride shall be determined by rule of the department, unless the capacity of the ride has been determined and specified by the manufacturer. Any owner of a kiddie ride operating under this exemption is responsible for ensuring that no more than three amusement rides are operated at the event.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To obtain a department inspection for an amusement ride, the owner must submit to the department on a form prescribed by rule of the department a written Request for Inspection. The owner must provide the following information to the department:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The legal name, address, and primary place of business of the owner.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A description, manufacturer’s name, serial number, model number, and the United States Amusement Identification Number, if previously assigned, of the amusement ride.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">For a temporary amusement ride, for each time the amusement ride is set up or moved to a new location, the date of first intended use at the new location and the address or a description of the new location.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For permanent amusement rides, the request for inspection must be received by the department at least 15 days before the owner’s planned opening date or at least 15 days before the expiration of the prior inspection certificate. If the request for inspection is received less than 15 days before the owner’s planned opening date or less than 15 days before the expiration of the prior inspection certificate, the department may nevertheless inspect the amusement ride and charge a late fee, as set by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">For temporary amusement rides, the request for inspection must be received by the department for each time the amusement ride is set up or moved to a new location at least 14 days before the date of first intended use at the new location. If the request for inspection is received less than 14 days before the date of first intended use at the new location, the department may nevertheless inspect the amusement ride and charge a late fee, as set by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Inspections will be assigned on a first come, first served basis, and overflow requests will be scheduled on the closest date to the date for which the inspection was requested.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Upon failure of an amusement ride to pass any department inspection, the owner may request reinspection which shall be submitted in writing to the department on a form prescribed by rule of the department. The department shall reinspect the amusement ride as soon as practical following receipt of the written request for reinspection and any applicable reinspection fees set by rule of the department. Inspections will be assigned on a first come, first served basis, and the overflow requests will be scheduled on the closest date to the date for which the inspection was requested.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">If the amusement ride passes inspection and the owner pays the applicable fee set by rule of the department, the department shall issue an inspection certificate on a form prescribed by rule of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The inspection certificate must contain the date of inspection, the site of the inspection, and the name of the inspector.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The inspection certificate is valid only for the site stated on the inspection certificate. The inspection certificate is valid for a period of not more than 6 months from the date of issuance, and is not transferable.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The inspection certificate must be displayed on the amusement ride at a place readily visible to patrons of the amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">If the owner fails to timely cancel a Request for Inspection, requests holiday or weekend inspections, or is required to have a replacement USAID plate issued by the department, the owner may be charged an appropriate fee to be set by rule of the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">FEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department shall by rule establish fees to cover the costs and expenditures associated with the fair rides inspection program, including all direct and indirect costs. If there is not sufficient general revenue appropriated by the Legislature, the industry shall pay for the remaining cost of the program. The fees must be deposited in the General Inspection Trust Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any owner of an amusement ride who has not paid all the fees required under this section or who has any unpaid fine outstanding under this section may not operate any amusement ride in this state until the fees and fines have been paid to the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">INSURANCE REQUIREMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An owner may not operate an amusement ride unless the owner has in effect at all times of operation insurance meeting the following requirements:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An insurance policy in an amount of not less than $1 million per occurrence, $1 million in the aggregate, which insures the owner of the amusement ride against liability for injury to persons arising out of the use of the amusement ride; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A bond in a like amount; however, the aggregate liability of the surety under the bond may not exceed the face amount thereof.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The policy or bond must be procured from an insurer or surety that is licensed to transact business in this state or that is approved as a surplus lines insurer.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The insurance requirements imposed under this subsection do not apply to a governmental entity that is covered by the provisions of s. 768.28(16).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">EXEMPTIONS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">This section does not apply to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Permanent facilities that employ at least 1,000 full-time employees and that maintain full-time, in-house safety inspectors. Furthermore, the permanent facilities must file an affidavit of the annual inspection with the department, on a form prescribed by rule of the department. Additionally, the Department of Agriculture and Consumer Services may consult annually with the permanent facilities regarding industry safety programs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any playground operated by a school, local government, or business licensed under chapter 509, if the playground is an incidental amenity and the operating entity is not primarily engaged in providing amusement, pleasure, thrills, or excitement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Museums or other institutions principally devoted to the exhibition of products of agriculture, industry, education, science, religion, or the arts.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Conventions or trade shows for the sale or exhibit of amusement rides if there are a minimum of 15 amusement rides on display or exhibition, and if any operation of such amusement rides is limited to the registered attendees of the convention or trade show.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Skating rinks, arcades, lazer or paint ball war games, bowling alleys, miniature golf courses, mechanical bulls, inflatable rides, trampolines, ball crawls, exercise equipment, jet skis, paddle boats, airboats, helicopters, airplanes, parasails, hot air or helium balloons whether tethered or untethered, theatres, batting cages, stationary spring-mounted fixtures, rider-propelled merry-go-rounds, games, side shows, live animal rides, or live animal shows.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Go-karts operated in competitive sporting events if participation is not open to the public.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Nonmotorized playground equipment that is not required to have a manager.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Coin-actuated amusement rides designed to be operated by depositing coins, tokens, credit cards, debit cards, bills, or other cash money and which are not required to have a manager, and which have a capacity of six persons or less.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Facilities described in s. 549.09(1)(a) when such facilities are operating cars, trucks, or motorcycles only.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">Battery-powered cars or other vehicles that are designed to be operated by children 7 years of age or under and that cannot exceed a speed of 4 miles per hour.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">Mechanically driven vehicles that pull train cars, carts, wagons, or other similar vehicles, that are not confined to a metal track or confined to an area but are steered by an operator and do not exceed a speed of 4 miles per hour.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department may, by rule, establish exemptions from this section for nonmotorized or human-powered amusement rides or coin-actuated amusement rides.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">INSPECTION STANDARDS.<EmDash />An amusement ride must conform to and must be inspected by the department in accordance with the following standards:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">All mechanical, structural, and electrical components that affect patron safety must be in good working order.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">All control devices, speed-limiting devices, brakes, and safety equipment designated by the manufacturer must be in good working order.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Parts must be properly aligned, and they may not be bent, distorted, cut, or otherwise injured to force a fit. Parts requiring lubrication must be lubricated in the course of assembly. Fastening and locking devices must be installed where required for safe operation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Before being used by the public, an amusement ride must be placed or secured with blocking, cribbing, outriggers, guys, or other means so as to be stable under all operating conditions.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Areas in which patrons may be endangered by the operation of an amusement ride must be fenced, barricaded, or otherwise effectively guarded against inadvertent contact.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Machinery used in or with an amusement ride must be enclosed, barricaded, or otherwise effectively guarded against inadvertent contact.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An amusement ride powered so as to be capable of exceeding its maximum safe operating speed must be provided with a maximum-speed-limiting device.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The interior and exterior parts of all patron-carrying amusement rides with which a patron may come in contact must be smooth and rounded and free from sharp, rough, or splintered edges and corners, with no projecting studs, bolts, screws, or other projections which might cause injury.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Signs that advise or warn patrons of age restrictions, size restrictions, health restrictions, weight limitations, or any other special consideration or use restrictions required or recommended for the amusement ride by the manufacturer shall be prominently displayed at the patron entrance of each amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">All amusement rides must comply with this section and the rules adopted hereunder.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">MAJOR MODIFICATION.<EmDash />After an amusement ride has undergone a major modification, and prior to the time it is placed in operation, a professional engineer licensed by the state in which the certification is performed must certify that the amusement ride is in compliance with this section and all rules adopted pursuant thereto.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">ENTRY FOR INSPECTION OR INVESTIGATION.<EmDash />Upon presentation of identification, an authorized employee of the department may enter unannounced and inspect amusement rides at any time and in a reasonable manner and has the right to question any owner or manager; to inspect, investigate, photograph, and sample all pertinent places, areas, and devices; and to conduct or have conducted all appropriate tests including nondestructive testing. The department may impose fees for unannounced inspections and recover the cost of tests authorized by this subsection.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">REPORTING AND INVESTIGATION OF ACCIDENTS AND DEFECTS; IMPOUNDMENTS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Any accident of which the owner or manager has knowledge or, through the exercise of reasonable diligence should have knowledge, and for which a patron is transported to a hospital, as defined in chapter 395, must be reported by the owner or manager to the department by telephone within 4 hours after the occurrence of the accident and must be followed up by a written report to the department within 24 hours after the occurrence of the accident.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Any mechanical, structural, or electrical defects affecting patron safety for which an amusement ride is closed to patron use for more than 4 hours must be reported by the owner or manager to the department by telephone or facsimile within 8 hours after the closing of the ride. A written report of the closing of the ride, on a form prescribed by rule of the department, must be filed by the owner or manager with the department within 24 hours after the closing of the amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The department may impound an amusement ride involved in an accident for which a patron is transported to a hospital as defined in chapter 395 or which has a mechanical, structural, or electrical defect affecting patron safety, and may impound any other amusement ride of a similar make and model, and may perform all necessary tests to determine the cause of the accident or the mechanical, structural, or electrical defect, or to determine the safety of the amusement ride and any other amusement ride of a similar make and model. The cost of impounding the amusement ride and performing the necessary tests must be borne by the owner of the amusement ride.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">INSPECTION BY OWNER OR MANAGER.<EmDash />Prior to opening on each day of operation and prior to any inspection by the department, the owner or manager of an amusement ride must inspect and test the amusement ride to ensure compliance with all requirements of this section. Each inspection must be recorded on a form prescribed by rule of the department and signed by the person who conducted the inspection. Inspection records of the last 14 daily inspections must be kept on site by the owner or manager and made immediately available to the department upon request.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">TRAINING OF EMPLOYEES.<EmDash />The owner or manager of any amusement ride shall maintain a record of employee training for each employee authorized to operate, assemble, disassemble, transport, or conduct maintenance on an amusement ride, on a form prescribed by rule of the department. The training record must be kept on site by the owner or manager and made immediately available to the department upon request. Training may not be conducted when an amusement ride is open to the public unless the training is conducted under the supervision of an employee who is trained in the operation of that ride. The owner or manager shall certify that each employee is trained, as required by this section and any rules adopted thereunder, on the amusement ride for which the employee is responsible.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">PROHIBITIONS RELATED TO BUNGY OPERATIONS.<EmDash />The following bungy operations are prohibited:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A bungy operation conducted with balloons, blimps, helicopters, or other aircraft.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Sand bagging, which is the practice of holding onto any object, including another person, while bungy jumping, for the purpose of exerting more force on the bungy cord to stretch it further, and then releasing the object during the jump causing the jumper to rebound with more force than could be created by the jumper’s weight alone.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Tandem or multiple bungy jumping.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Bungy jumping from any bridge, overpass, or any other structure not specifically designed as an amusement ride.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The practice of bungy catapulting or reverse bungy jumping.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">IMMEDIATE FINAL ORDERS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An amusement ride that fails to meet the requirements of this section or pass the inspections required by this section, or an amusement ride that is involved in an accident for which a patron is transported to a hospital as defined in chapter 395, or an amusement ride that has a mechanical, structural, or electrical defect that affects patron safety may be considered an immediate serious danger to public health, safety, and welfare and, upon issuance of an immediate final order prohibiting patron use of the ride, may not be operated for patron use until it has passed a subsequent inspection by or at the direction of the department.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An amusement ride of a similar make and model to an amusement ride described in paragraph (a) may be considered an immediate serious danger to the public health, safety, and welfare and, upon issuance of an immediate final order prohibiting patron use of the ride, may not be operated for patron use until it has passed a subsequent inspection by or at the direction of the department.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">ENFORCEMENT AND PENALTIES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The department may deny, suspend for a period not to exceed 1 year, or revoke any permit or inspection certificate. In addition to denial, suspension, or revocation, the department may impose an administrative fine of up to $2,500 per violation, per day, against the owner of the amusement ride if it finds that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An amusement ride has operated or is operating:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">With a mechanical, structural, or electrical defect that affects patron safety, of which the owner or manager has knowledge, or, through the exercise of reasonable diligence, should have knowledge;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">In a manner or circumstance that presents a risk of serious injury to patrons;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">At a speed in excess of its maximum safe operating speed;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="d">
+						<Text xml:space="preserve" Style="Intro">In violation of this section or any rule adopted under this section; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="e">
+						<Text xml:space="preserve" Style="Intro">In violation of any order of the department or order of any court.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Any manager in the course of his or her duties is under the influence of drugs or alcohol.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department shall, in its order suspending a permit or inspection certificate, specify the period during which the suspension is effective; but such period may not exceed 1 year. The permit or inspection certificate shall remain suspended during the period so specified, subject, however, to any rescission or modification of the order by the department, or modification or reversal thereof by the court, prior to expiration of the suspension period.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The owner of an amusement ride, if the permit or inspection certificate for the amusement ride has been revoked by the department, may not apply for another permit or inspection certificate for the amusement ride within 2 years after the date of such revocation. If judicial review is sought and a stay of the revocation is obtained, the owner may not apply for another permit or inspection certificate within 2 years after the final order of the court sustaining the revocation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">During the period of suspension or revocation of a permit or inspection certificate, the owner may not engage in or attempt to engage in any operation of the amusement ride for which a permit or inspection certificate is required under this section.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">When a suspension period imposed by the department has expired, an owner whose annual permit or inspection certificate has expired may reapply for a new permit or inspection certificate by submitting a complete application to the department.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">In addition to the remedies provided in this section, and notwithstanding the existence of any adequate remedy at law, the department may bring an action to enjoin the violation of any provision of this section, or rules adopted under this section, in the circuit court of the county in which the violation occurs or is about to occur. Upon competent and substantial evidence presented by the department to the court of the violation or threatened violation, the court must immediately issue the temporary or permanent injunction sought by the department. The injunction must be issued without bond.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">In addition to the penalties authorized to be imposed for any violation of this section or any rule adopted under this section, the department may issue a letter of warning to the owner of the amusement ride specifying the violation and directing the owner to immediately correct the violation.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Any person who knowingly violates any provision of this section commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 91, 92, ch. 92-291; ss. 13, 46, ch. 93-168; s. 3, ch. 94-297; s. 1, ch. 98-133; s. 22, ch. 99-391; s. 80, ch. 2000-154; s. 34, ch. 2000-308; s. 36, ch. 2001-279; s. 43, ch. 2002-295; s. 13, ch. 2006-165; s. 9, ch. 2006-172; s. 43, ch. 2012-67.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 616.0915.</Text>
+	</Note>
+</Section>

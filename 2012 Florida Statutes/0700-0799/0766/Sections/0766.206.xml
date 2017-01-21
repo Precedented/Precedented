@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0766.206" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Presuit investigation of medical negligence claims and defenses by court.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">After the completion of presuit investigation by the parties pursuant to s. 766.203 and any discovery pursuant to s. 766.106, any party may file a motion in the circuit court requesting the court to determine whether the opposing party’s claim or denial rests on a reasonable basis.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the court finds that the notice of intent to initiate litigation mailed by the claimant does not comply with the reasonable investigation requirements of ss. 766.201-766.212, including a review of the claim and a verified written medical expert opinion by an expert witness as defined in s. 766.202, or that the authorization accompanying the notice of intent required under s. 766.1065 is not completed in good faith by the claimant, the court shall dismiss the claim, and the person who mailed such notice of intent, whether the claimant or the claimant’s attorney, is personally liable for all attorney’s fees and costs incurred during the investigation and evaluation of the claim, including the reasonable attorney’s fees and costs of the defendant or the defendant’s insurer.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If the court finds that the response mailed by a defendant rejecting the claim is not in compliance with the reasonable investigation requirements of ss. 766.201-766.212, including a review of the claim and a verified written medical expert opinion by an expert witness as defined in s. 766.202, the court shall strike the defendant’s pleading. The person who mailed such response, whether the defendant, the defendant’s insurer, or the defendant’s attorney, shall be personally liable for all attorney’s fees and costs incurred during the investigation and evaluation of the claim, including the reasonable attorney’s fees and costs of the claimant.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the court finds that an attorney for the claimant mailed notice of intent to initiate litigation without reasonable investigation, or filed a medical negligence claim without first mailing such notice of intent which complies with the reasonable investigation requirements, or if the court finds that an attorney for a defendant mailed a response rejecting the claim without reasonable investigation, the court shall submit its finding in the matter to The Florida Bar for disciplinary review of the attorney. Any attorney so reported three or more times within a 5-year period shall be reported to a circuit grievance committee acting under the jurisdiction of the Supreme Court. If such committee finds probable cause to believe that an attorney has violated this section, such committee shall forward to the Supreme Court a copy of its finding.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the court finds that the corroborating written medical expert opinion attached to any notice of claim or intent or to any response rejecting a claim lacked reasonable investigation or that the medical expert submitting the opinion did not meet the expert witness qualifications as set forth in s. 766.102(5), the court shall report the medical expert issuing such corroborating opinion to the Division of Medical Quality Assurance or its designee. If such medical expert is not a resident of the state, the division shall forward such report to the disciplining authority of that medical expert.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The court shall refuse to consider the testimony or opinion attached to any notice of intent or to any response rejecting a claim of an expert who has been disqualified three times pursuant to this section.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 53, ch. 88-1; s. 29, ch. 88-277; s. 35, ch. 91-110; s. 61, ch. 2003-416; s. 155, ch. 2004-5; s. 14, ch. 2011-233.</History>
+</Section>

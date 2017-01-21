@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0364.02" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this chapter, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Basic local telecommunications service” means voice-grade, single-line, flat-rate residential local exchange service that provides dial tone, local usage necessary to place unlimited calls within a local exchange area, dual tone multifrequency dialing, and access to the following: emergency services such as “911,” all locally available interexchange companies, directory assistance, operator services, and relay services. For a local exchange telecommunications company, the term includes any extended area service routes, and extended calling service in existence or ordered by the commission on or before July 1, 1995.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Broadband service” means any service that consists of or includes the offering of the capability to transmit or receive information at a rate that is not less than 200 kilobits per second and either:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Is used to provide access to the Internet; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Provides computer processing, information storage, information content, or protocol conversion in combination with the service.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">The definition of broadband service does not include any intrastate telecommunications services that have been tariffed with the commission on or before January 1, 2005.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Commercial mobile radio service provider” means a commercial mobile radio service provider as defined by and pursuant to 47 U.S.C. ss. 153(27) and 332(d).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Commission” means the Florida Public Service Commission.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Competitive local exchange telecommunications company” means any company certificated by the commission to provide local exchange telecommunications services in this state on or after July 1, 1995.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Corporation” includes a corporation, company, association, or joint stock association.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Intrastate interexchange telecommunications company” means any entity that provides intrastate interexchange telecommunications services.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Local exchange telecommunications company” means any company certificated by the commission to provide local exchange telecommunications service in this state on or before June 30, 1995.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Nonbasic service” means any telecommunications service provided by a local exchange telecommunications company other than a basic local telecommunications service, local interconnection, resale, or unbundling pursuant to s. 364.16, or a network access service described in s. 364.163. Any combination of basic service along with a nonbasic service or an unregulated service is nonbasic service.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Operator service” includes, but is not limited to, billing or completion of third-party, person-to-person, collect, or calling card or credit card calls through the use of a live operator or automated equipment.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Operator service provider” means a person who furnishes operator service through a call aggregator.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Service” is to be construed in its broadest and most inclusive sense. The term “service” does not include broadband service or voice-over-Internet protocol service for purposes of regulation by the commission. Nothing herein shall affect the rights and obligations of any entity related to the payment of switched network access rates or other intercarrier compensation, if any, related to voice-over-Internet protocol service. Notwithstanding s. 364.013, and the exemption of services pursuant to this subsection, the commission may arbitrate, enforce, or approve interconnection agreements, and resolve disputes as provided by 47 U.S.C. ss. 251 and 252, or any other applicable federal law or regulation. With respect to the services exempted in this subsection, regardless of the technology, the duties of a local exchange telecommunications company are only those that the company is obligated to extend or provide under applicable federal law and regulations.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Telecommunications company” includes every corporation, partnership, and person and their lessees, trustees, or receivers appointed by any court whatsoever, and every political subdivision in the state, offering two-way telecommunications service to the public for hire within this state by the use of a telecommunications facility. The term “telecommunications company” does not include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An entity that provides a telecommunications facility exclusively to a certificated telecommunications company;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">An entity that provides a telecommunications facility exclusively to a company which is excluded from the definition of a telecommunications company under this subsection;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A commercial mobile radio service provider;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A facsimile transmission service;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A private computer data network company not offering service to the public for hire;</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">A cable television company providing cable service as defined in 47 U.S.C. s. 522; </Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">An intrastate interexchange telecommunications company;</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">An operator services provider; or</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">An airport that provides communications services within the confines of its airport layout plan.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">However, each commercial mobile radio service provider and each intrastate interexchange telecommunications company shall continue to be liable for any taxes imposed under chapters 202, 203, and 212. Each intrastate interexchange telecommunications company shall continue to be subject to s. 364.163 and shall continue to pay intrastate switched network access rates or other intercarrier compensation to the local exchange telecommunications company or the competitive local exchange telecommunications company for the origination and termination of interexchange telecommunications service.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Telecommunications facility” includes real estate, easements, apparatus, property, and routes used and operated to provide two-way telecommunications service to the public for hire within this state.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“VoIP” means any service that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Enables real-time, two-way voice communications that originate from or terminate to the user’s location in Internet Protocol or any successor protocol;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Uses a broadband connection from the user’s location; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Permits users generally to receive calls that originate on the public switched telephone network and to terminate calls to the public switched telephone network.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 6525, 1913; RGS 4394; CGL 6358; s. 1, ch. 63-279; s. 1, ch. 65-52; s. 1, ch. 65-451; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 32, ch. 80-36; s. 2, ch. 81-318; s. 1, ch. 84-215; ss. 6, 7, ch. 89-163; ss. 2, 48, 49, ch. 90-244; s. 4, ch. 91-429; s. 6, ch. 95-403; s. 12, ch. 98-277; s. 3, ch. 2003-32; s. 14, ch. 2005-132; s. 2, ch. 2005-171; s. 73, ch. 2008-4; s. 4, ch. 2009-226; s. 6, ch. 2011-36; s. 29, ch. 2011-64.</History>
+</Section>

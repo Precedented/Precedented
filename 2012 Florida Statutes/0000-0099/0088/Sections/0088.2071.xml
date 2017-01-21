@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0088.2071" xmlns="http://StatRev.xsd">
+	<Reference Number="1"/>
+	<Catchline xml:space="preserve">Recognition of controlling child support order.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a proceeding is brought under this act and only one tribunal has issued a child support order, the order of that tribunal controls and must be so recognized.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a proceeding is brought under this act, and two or more child support orders have been issued by tribunals of this state or another state with regard to the same obligor and child, a tribunal of this state shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If only one of the tribunals would have continuing, exclusive jurisdiction under this act, the order of that tribunal controls and must be so recognized.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If more than one of the tribunals would have continuing, exclusive jurisdiction under this act, an order issued by a tribunal in the current home state of the child controls and must be so recognized, but if an order has not been issued in the current home state of the child, the order most recently issued controls and must be so recognized.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If none of the tribunals would have continuing, exclusive jurisdiction under this act, the tribunal of this state having jurisdiction over the parties shall issue a child support order, which controls and must be so recognized.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If two or more child support orders have been issued for the same obligor and child and if the obligor or the individual obligee resides in this state, a party may request a tribunal of this state to determine which order controls and must be so recognized under subsection (2). The request must be accompanied by a certified copy of every support order in effect. The requesting party shall give notice of the request to each party whose rights may be affected by the determination.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The tribunal that issued the controlling order under subsection (1), subsection (2), or subsection (3) is the tribunal that has continuing, exclusive jurisdiction under s. 88.2051.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A tribunal of this state which determines by order the identity of the controlling order under paragraph (2)(a) or paragraph (2)(b) or which issues a new controlling order under paragraph (2)(c) shall state in that order the basis upon which the tribunal made its determination.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Within 30 days after issuance of an order determining the identity of the controlling order, the party obtaining the order shall file a certified copy of it with each tribunal that issued or registered an earlier order of child support. A party who obtains the order and fails to file a certified copy is subject to appropriate sanctions by a tribunal in which the issue of failure to file arises. The failure to file does not affect the validity or enforceability of the controlling order.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 96-189; s. 17, ch. 97-170; s. 11, ch. 2011-92.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">Section 81, ch. 2011-92, provides that “[e]xcept as otherwise expressly provided in this act, this act shall take effect upon the earlier of 90 days following Congress amending 42 U.S.C. s. 666(f) to allow or require states to adopt the 2008 version of the Uniform Interstate Family Support Act, or 90 days following the state obtaining a waiver of its state plan requirement under Title IV-D of the Social Security Act.” Section 11, ch. 2011-92, amended s. 88.2071, to read:</Text>
+		<Text xml:space="preserve" Style="Indent"><Font xml:space="preserve" Style="Bold">88.2071 Determination of controlling child support order.</Font><EmDash/></Text>
+		<Text xml:space="preserve" Style="Indent">(1) If a proceeding is brought under this act and only one tribunal has issued a child support order, the order of that tribunal controls and must be recognized.</Text>
+		<Text xml:space="preserve" Style="Indent">(2) If a proceeding is brought under this act, and two or more child support orders have been issued by tribunals of this state, another state, or a foreign country with regard to the same obligor and the same child, a tribunal of this state having personal jurisdiction over both the obligor and individual obligee shall apply the following rules and by order shall determine which order controls and must be recognized:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) If only one of the tribunals would have continuing, exclusive jurisdiction under this act, the order of that tribunal controls.</Text>
+		<Text xml:space="preserve" Style="Indent">(b) If more than one of the tribunals would have continuing, exclusive jurisdiction under this act:</Text>
+		<Text xml:space="preserve" Style="Indent">1. An order issued by a tribunal in the current home state of the child controls; or</Text>
+		<Text xml:space="preserve" Style="Indent">2. If an order has not been issued in the current home state of the child, the order most recently issued controls.</Text>
+		<Text xml:space="preserve" Style="Indent">(c) If none of the tribunals would have continuing, exclusive jurisdiction under this act, the tribunal of this state shall issue a child support order, which controls.</Text>
+		<Text xml:space="preserve" Style="Indent">(3) If two or more child support orders have been issued for the same obligor and the same child, upon request of a party who is an individual or that is a support enforcement agency, a tribunal of this state having personal jurisdiction over both the obligor and the obligee who is an individual shall determine which order controls under subsection (2). The request may be filed with a registration for enforcement or registration for modification pursuant to part VI of this chapter, or may be filed as a separate proceeding.</Text>
+		<Text xml:space="preserve" Style="Indent">(4) A request to determine which is the controlling order must be accompanied by a copy of every child support order in effect and the applicable record of payments. The requesting party shall give notice of the request to each party whose rights may be affected by the determination.</Text>
+		<Text xml:space="preserve" Style="Indent">(5) The tribunal that issued the controlling order under subsection (1), subsection (2), or subsection (3) has continuing jurisdiction to the extent provided in s. 88.2051 or s. 88.2061.</Text>
+		<Text xml:space="preserve" Style="Indent">(6) A tribunal of this state that determines by order which is the controlling order under paragraph (2)(a), paragraph (2)(b), or subsection (3) or that issues a new controlling order under paragraph (2)(c) shall state in that order:</Text>
+		<Text xml:space="preserve" Style="Indent">(a) The basis upon which the tribunal made its determination;</Text>
+		<Text xml:space="preserve" Style="Indent">(b) The amount of prospective support, if any; and</Text>
+		<Text xml:space="preserve" Style="Indent">(c) The total amount of consolidated arrears and accrued interest, if any, under all of the orders after all payments made are credited as provided by s. 88.2091.</Text>
+		<Text xml:space="preserve" Style="Indent">(7) Within 30 days after issuance of an order determining which is the controlling order, the party obtaining the order shall file a certified copy of it in each tribunal that issued or registered an earlier order of child support. A party or support enforcement agency obtaining the order that fails to file a certified copy is subject to appropriate sanctions by a tribunal in which the issue of failure to file arises. The failure to file does not affect the validity or enforceability of the controlling order.</Text>
+		<Text xml:space="preserve" Style="Indent">(8) An order that has been determined to be the controlling order, or a judgment for consolidated arrears of support and interest, if any, made pursuant to this section must be recognized in proceedings under this act.</Text>
+	</Note>
+</Section>

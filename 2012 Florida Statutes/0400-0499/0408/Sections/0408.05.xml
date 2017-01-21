@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0408.05" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Florida Center for Health Information and Policy Analysis.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">ESTABLISHMENT.<EmDash />The agency shall establish a Florida Center for Health Information and Policy Analysis. The center shall establish a comprehensive health information system to provide for the collection, compilation, coordination, analysis, indexing, dissemination, and utilization of both purposefully collected and extant health-related data and statistics. The center shall be staffed with public health experts, biostatisticians, information system analysts, health policy experts, economists, and other staff necessary to carry out its functions.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">HEALTH-RELATED DATA.<EmDash />The comprehensive health information system operated by the Florida Center for Health Information and Policy Analysis shall identify the best available data sources and coordinate the compilation of extant health-related data and statistics and purposefully collect data on:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The extent and nature of illness and disability of the state population, including life expectancy, the incidence of various acute and chronic illnesses, and infant and maternal morbidity and mortality.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The impact of illness and disability of the state population on the state economy and on other aspects of the well-being of the people in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Environmental, social, and other health hazards.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Health knowledge and practices of the people in this state and determinants of health and nutritional practices and status.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Health resources, including physicians, dentists, nurses, and other health professionals, by specialty and type of practice and acute, long-term care and other institutional care facility supplies and specific services provided by hospitals, nursing homes, home health agencies, and other health care facilities.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Utilization of health care by type of provider.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Health care costs and financing, including trends in health care prices and costs, the sources of payment for health care services, and federal, state, and local expenditures for health care.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Family formation, growth, and dissolution.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">The extent of public and private health insurance coverage in this state.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">The quality of care provided by various health care providers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">COMPREHENSIVE HEALTH INFORMATION SYSTEM.<EmDash />In order to produce comparable and uniform health information and statistics for the development of policy recommendations, the agency shall perform the following functions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Coordinate the activities of state agencies involved in the design and implementation of the comprehensive health information system.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Undertake research, development, and evaluation respecting the comprehensive health information system.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Review the statistical activities of state agencies to ensure that they are consistent with the comprehensive health information system.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Develop written agreements with local, state, and federal agencies for the sharing of health-care-related data or using the facilities and services of such agencies. State agencies, local health councils, and other agencies under state contract shall assist the center in obtaining, compiling, and transferring health-care-related data maintained by state and local agencies. Written agreements must specify the types, methods, and periodicity of data exchanges and specify the types of data that will be transferred to the center.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Establish by rule the types of data collected, compiled, processed, used, or shared. Decisions regarding center data sets should be made based on consultation with the State Consumer Health Information and Policy Advisory Council and other public and private users regarding the types of data which should be collected and their uses. The center shall establish standardized means for collecting health information and statistics under laws and rules administered by the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Establish minimum health-care-related data sets which are necessary on a continuing basis to fulfill the collection requirements of the center and which shall be used by state agencies in collecting and compiling health-care-related data. The agency shall periodically review ongoing health care data collections of the Department of Health and other state agencies to determine if the collections are being conducted in accordance with the established minimum sets of data.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Establish advisory standards to ensure the quality of health statistical and epidemiological data collection, processing, and analysis by local, state, and private organizations.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">Prescribe standards for the publication of health-care-related data reported pursuant to this section which ensure the reporting of accurate, valid, reliable, complete, and comparable data. Such standards should include advisory warnings to users of the data regarding the status and quality of any data reported by or available from the center.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">Prescribe standards for the maintenance and preservation of the center’s data. This should include methods for archiving data, retrieval of archived data, and data editing and verification.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">Ensure that strict quality control measures are maintained for the dissemination of data through publications, studies, or user requests.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">Develop, in conjunction with the State Consumer Health Information and Policy Advisory Council, and implement a long-range plan for making available health care quality measures and financial data that will allow consumers to compare health care services. The health care quality measures and financial data the agency must make available shall include, but is not limited to, pharmaceuticals, physicians, health care facilities, and health plans and managed care entities. The agency shall update the plan and report on the status of its implementation annually. The agency shall also make the plan and status report available to the public on its Internet website. As part of the plan, the agency shall identify the process and timeframes for implementation, any barriers to implementation, and recommendations of changes in the law that may be enacted by the Legislature to eliminate the barriers. As preliminary elements of the plan, the agency shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Make available patient-safety indicators, inpatient quality indicators, and performance outcome and patient charge data collected from health care facilities pursuant to s. 408.061(1)(a) and (2). The terms “patient-safety indicators” and “inpatient quality indicators” shall be as defined by the Centers for Medicare and Medicaid Services, the National Quality Forum, the Joint Commission on Accreditation of Healthcare Organizations, the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, or a similar national entity that establishes standards to measure the performance of health care providers, or by other states. The agency shall determine which conditions, procedures, health care quality measures, and patient charge data to disclose based upon input from the council. When determining which conditions and procedures are to be disclosed, the council and the agency shall consider variation in costs, variation in outcomes, and magnitude of variations and other relevant information. When determining which health care quality measures to disclose, the agency:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Shall consider such factors as volume of cases; average patient charges; average length of stay; complication rates; mortality rates; and infection rates, among others, which shall be adjusted for case mix and severity, if applicable.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">May consider such additional measures that are adopted by the Centers for Medicare and Medicaid Studies, National Quality Forum, the Joint Commission on Accreditation of Healthcare Organizations, the Agency for Healthcare Research and Quality, Centers for Disease Control and Prevention, or a similar national entity that establishes standards to measure the performance of health care providers, or by other states.</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">When determining which patient charge data to disclose, the agency shall include such measures as the average of undiscounted charges on frequently performed procedures and preventive diagnostic procedures, the range of procedure charges from highest to lowest, average net revenue per adjusted patient day, average cost per adjusted patient day, and average cost per admission, among others.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Make available performance measures, benefit design, and premium cost data from health plans licensed pursuant to chapter 627 or chapter 641. The agency shall determine which health care quality measures and member and subscriber cost data to disclose, based upon input from the council. When determining which data to disclose, the agency shall consider information that may be required by either individual or group purchasers to assess the value of the product, which may include membership satisfaction, quality of care, current enrollment or membership, coverage areas, accreditation status, premium costs, plan costs, premium increases, range of benefits, copayments and deductibles, accuracy and speed of claims payment, credentials of physicians, number of providers, names of network providers, and hospitals in the network. Health plans shall make available to the agency any such data or information that is not currently reported to the agency or the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Determine the method and format for public disclosure of data reported pursuant to this paragraph. The agency shall make its determination based upon input from the State Consumer Health Information and Policy Advisory Council. At a minimum, the data shall be made available on the agency’s Internet website in a manner that allows consumers to conduct an interactive search that allows them to view and compare the information for specific providers. The website must include such additional information as is determined necessary to ensure that the website enhances informed decisionmaking among consumers and health care purchasers, which shall include, at a minimum, appropriate guidance on how to use the data and an explanation of why the data may vary from provider to provider. </Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Publish on its website undiscounted charges for no fewer than 150 of the most commonly performed adult and pediatric procedures, including outpatient, inpatient, diagnostic, and preventative procedures.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">TECHNICAL ASSISTANCE.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The center shall provide technical assistance to persons or organizations engaged in health planning activities in the effective use of statistics collected and compiled by the center. The center shall also provide the following additional technical assistance services:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Establish procedures identifying the circumstances under which, the places at which, the persons from whom, and the methods by which a person may secure data from the center, including procedures governing requests, the ordering of requests, timeframes for handling requests, and other procedures necessary to facilitate the use of the center’s data. To the extent possible, the center should provide current data timely in response to requests from public or private agencies.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Provide assistance to data sources and users in the areas of database design, survey design, sampling procedures, statistical interpretation, and data access to promote improved health-care-related data sets.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Identify health care data gaps and provide technical assistance to other public or private organizations for meeting documented health care data needs.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Assist other organizations in developing statistical abstracts of their data sets that could be used by the center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Provide statistical support to state agencies with regard to the use of databases maintained by the center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">To the extent possible, respond to multiple requests for information not currently collected by the center or available from other sources by initiating data collection.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Maintain detailed information on data maintained by other local, state, federal, and private agencies in order to advise those who use the center of potential sources of data which are requested but which are not available from the center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">Respond to requests for data which are not available in published form by initiating special computer runs on data sets available to the center.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Monitor innovations in health information technology, informatics, and the exchange of health information and maintain a repository of technical resources to support the development of a health information network.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agency shall administer, manage, and monitor grants to not-for-profit organizations, regional health information organizations, public health departments, or state agencies that submit proposals for planning, implementation, or training projects to advance the development of a health information network. Any grant contract shall be evaluated to ensure the effective outcome of the health information project.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The agency shall initiate, oversee, manage, and evaluate the integration of health care data from each state agency that collects, stores, and reports on health care issues and make that data available to any health care practitioner through a state health information network.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">PUBLICATIONS; REPORTS; SPECIAL STUDIES.<EmDash />The center shall provide for the widespread dissemination of data which it collects and analyzes. The center shall have the following publication, reporting, and special study functions:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The center shall publish and make available periodically to agencies and individuals health statistics publications of general interest, including health plan consumer reports and health maintenance organization member satisfaction surveys; publications providing health statistics on topical health policy issues; publications that provide health status profiles of the people in this state; and other topical health statistics publications.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The center shall publish, make available, and disseminate, promptly and as widely as practicable, the results of special health surveys, health care research, and health care evaluations conducted or supported under this section. Any publication by the center must include a statement of the limitations on the quality, accuracy, and completeness of the data.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The center shall provide indexing, abstracting, translation, publication, and other services leading to a more effective and timely dissemination of health care statistics.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The center shall be responsible for publishing and disseminating an annual report on the center’s activities.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The center shall be responsible, to the extent resources are available, for conducting a variety of special studies and surveys to expand the health care information and statistics available for health policy analyses, particularly for the review of public policy issues. The center shall develop a process by which users of the center’s data are periodically surveyed regarding critical data needs and the results of the survey considered in determining which special surveys or studies will be conducted. The center shall select problems in health care for research, policy analyses, or special data collections on the basis of their local, regional, or state importance; the unique potential for definitive research on the problem; and opportunities for application of the study findings.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">PROVIDER DATA REPORTING.<EmDash />This section does not confer on the agency the power to demand or require that a health care provider or professional furnish information, records of interviews, written reports, statements, notes, memoranda, or data other than as expressly required by law.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">BUDGET; FEES.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Legislature intends that funding for the Florida Center for Health Information and Policy Analysis be appropriated from the General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Florida Center for Health Information and Policy Analysis may apply for and receive and accept grants, gifts, and other payments, including property and services, from any governmental or other public or private entity or person and make arrangements as to the use of same, including the undertaking of special studies and other projects relating to health-care-related topics. Funds obtained pursuant to this paragraph may not be used to offset annual appropriations from the General Revenue Fund.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The center may charge such reasonable fees for services as the agency prescribes by rule. The established fees may not exceed the reasonable cost for such services. Fees collected may not be used to offset annual appropriations from the General Revenue Fund.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">STATE CONSUMER HEALTH INFORMATION AND POLICY ADVISORY COUNCIL.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">There is established in the agency the State Consumer Health Information and Policy Advisory Council to assist the center in reviewing the comprehensive health information system, including the identification, collection, standardization, sharing, and coordination of health-related data, fraud and abuse data, and professional and facility licensing data among federal, state, local, and private entities and to recommend improvements for purposes of public health, policy analysis, and transparency of consumer health care information. The council shall consist of the following members:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An employee of the Executive Office of the Governor, to be appointed by the Governor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">An employee of the Office of Insurance Regulation, to be appointed by the director of the office.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An employee of the Department of Education, to be appointed by the Commissioner of Education.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Ten persons, to be appointed by the Secretary of Health Care Administration, representing other state and local agencies, state universities, business and health coalitions, local health councils, professional health-care-related associations, consumers, and purchasers.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Each member of the council shall be appointed to serve for a term of 2 years following the date of appointment, except the term of appointment shall end 3 years following the date of appointment for members appointed in 2003, 2004, and 2005. A vacancy shall be filled by appointment for the remainder of the term, and each appointing authority retains the right to reappoint members whose terms of appointment have expired.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The council may meet at the call of its chair, at the request of the agency, or at the request of a majority of its membership, but the council must meet at least quarterly.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Members shall elect a chair and vice chair annually.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">A majority of the members constitutes a quorum, and the affirmative vote of a majority of a quorum is necessary to take action.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The council shall maintain minutes of each meeting and shall make such minutes available to any person.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Members of the council shall serve without compensation but shall be entitled to receive reimbursement for per diem and travel expenses as provided in s. 112.061.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">The council’s duties and responsibilities include, but are not limited to, the following:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">To develop a mission statement, goals, and a plan of action for the identification, collection, standardization, sharing, and coordination of health-related data across federal, state, and local government and private sector entities.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">To develop a review process to ensure cooperative planning among agencies that collect or maintain health-related data.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">To create ad hoc issue-oriented technical workgroups on an as-needed basis to make recommendations to the council.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">APPLICATION TO OTHER AGENCIES.<EmDash />Nothing in this section shall limit, restrict, affect, or control the collection, analysis, release, or publication of data by any state agency pursuant to its statutory authority, duties, or responsibilities.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 39, ch. 88-394; s. 1, ch. 90-347; s. 50, ch. 91-297; s. 5, ch. 91-429; s. 14, ch. 92-33; s. 4, ch. 95-201; s. 37, ch. 97-103; s. 10, ch. 98-89; s. 176, ch. 99-8; s. 1, ch. 99-393; s. 42, ch. 2000-153; s. 16, ch. 2000-305; s. 435, ch. 2003-261; s. 11, ch. 2004-297; s. 12, ch. 2004-390; s. 1, ch. 2005-231; s. 3, ch. 2006-261; s. 24, ch. 2007-105; s. 5, ch. 2008-47; s. 89, ch. 2010-5.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 381.0612; s. 381.0401.</Text>
+	</Note>
+</Section>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter xmlns="http://StatRev.xsd" TitleNumber="X">
+	<ChapterNumber>121</ChapterNumber>
+	<ChapterName xml:space="preserve">Florida Retirement System</ChapterName>
+	<Part PartNumber="I">
+		<PartNumber>PART I</PartNumber>
+		<PartTitle xml:space="preserve">General provisions</PartTitle>
+		<Section Number="0121.011" />
+		<Section Number="0121.012" />
+		<Section Number="0121.021" />
+		<Section Number="0121.025" />
+		<Section Number="0121.031" />
+		<Section Number="0121.0312" />
+		<Section Number="0121.045" />
+		<Section Number="0121.046" />
+		<Section Number="0121.047" />
+		<Section Number="0121.051" />
+		<Section Number="0121.0511" />
+		<Section Number="0121.0515" />
+		<Section Number="0121.052" />
+		<Section Number="0121.053" />
+		<Section Number="0121.055" />
+		<Section Number="0121.061" />
+		<Section Number="0121.071" />
+		<Section Number="0121.081" />
+		<Section Number="0121.085" />
+		<Section Number="0121.091" />
+		<Section Number="0121.095" />
+		<Section Number="0121.1001" />
+		<Section Number="0121.101" />
+		<Section Number="0121.111" />
+		<Section Number="0121.1115" />
+		<Section Number="0121.1122" />
+		<Section Number="0121.121" />
+		<Section Number="0121.122" />
+		<Section Number="0121.125" />
+		<Section Number="0121.131" />
+		<Section Number="0121.133" />
+		<Section Number="0121.135" />
+		<Section Number="0121.136" />
+		<Section Number="0121.141" />
+		<Section Number="0121.151" />
+		<Section Number="0121.153" />
+		<Section Number="0121.161" />
+		<Section Number="0121.181" />
+		<Section Number="0121.1815" />
+		<Section Number="0121.182" />
+		<Section Number="0121.1905" />
+		<Section Number="0121.191" />
+		<Section Number="0121.192" />
+		<Section Number="0121.193" />
+		<Section Number="0121.22" />
+		<Section Number="0121.23" />
+		<Section Number="0121.231" />
+		<Section Number="0121.24" />
+		<Section Number="0121.30" />
+		<Section Number="0121.35" />
+		<Section Number="0121.355" />
+		<Section Number="0121.40" />
+	</Part>
+	<Part PartNumber="II">
+		<PartNumber>PART II</PartNumber>
+		<PartTitle xml:space="preserve">Public Employee Optional<NewLine />Retirement Program</PartTitle>
+		<Section Number="0121.4501" />
+		<Section Number="0121.4502" />
+		<Section Number="0121.4503" />
+		<Section Number="0121.571" />
+		<Section Number="0121.591" />
+		<Section Number="0121.5911" />
+	</Part>
+	<Part PartNumber="III">
+		<PartNumber>PART III</PartNumber>
+		<PartTitle xml:space="preserve">Florida Retirement System<NewLine />contribution rates</PartTitle>
+		<Section Number="0121.70" />
+		<Section Number="0121.71" />
+		<Section Number="0121.72" />
+		<Section Number="0121.73" />
+		<Section Number="0121.74" />
+		<Section Number="0121.75" />
+		<Section Number="0121.76" />
+		<Section Number="0121.77" />
+		<Section Number="0121.78" />
+	</Part>
+</Chapter>

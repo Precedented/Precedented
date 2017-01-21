@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0744.1076" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Court orders appointing court monitors and emergency court monitors; reports of court monitors; orders finding no probable cause; public records exemptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The order of any court appointing a court monitor pursuant to s. 744.107 or an emergency court monitor pursuant to s. 744.1075 is exempt from s. 24(a), Art. I of the State Constitution.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The reports of an appointed court monitor or emergency court monitor relating to the medical condition, financial affairs, or mental health of the ward are confidential and exempt from s. 24(a), Art. I of the State Constitution. Such reports may be subject to inspection as determined by the court or upon a showing of good cause.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The public records exemptions provided in this subsection expire if a court makes a finding of probable cause, except that information otherwise made confidential or exempt shall retain its confidential or exempt status.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Court orders finding no probable cause pursuant to s. 744.107 or s. 744.1075 are confidential and exempt from s. 24(a), Art. I of the State Constitution; however, such orders may be subject to inspection as determined by the court or upon a showing of good cause.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 2006-129; s. 161, ch. 2008-4; s. 1, ch. 2011-204.</History>
+</Section>

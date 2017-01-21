@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0409.911" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Disproportionate share program.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Subject to specific allocations established within the General Appropriations Act and any limitations established pursuant to chapter 216, the agency shall distribute, pursuant to this section, moneys to hospitals providing a disproportionate share of Medicaid or charity care services by making quarterly Medicaid payments as required. Notwithstanding the provisions of s. 409.915, counties are exempt from contributing toward the cost of this special reimbursement for hospitals serving a disproportionate share of low-income patients.</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section and the Florida Hospital Uniform Reporting System manual:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Adjusted patient days” means the sum of acute care patient days and intensive care patient days as reported to the Agency for Health Care Administration, divided by the ratio of inpatient revenues generated from acute, intensive, ambulatory, and ancillary patient services to gross revenues.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Actual audited data” or “actual audited experience” means data reported to the Agency for Health Care Administration which has been audited in accordance with generally accepted auditing standards by the agency or representatives under contract with the agency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Charity care” or “uncompensated charity care” means that portion of hospital charges reported to the Agency for Health Care Administration for which there is no compensation, other than restricted or unrestricted revenues provided to a hospital by local governments or tax districts regardless of the method of payment, for care provided to a patient whose family income for the 12 months preceding the determination is less than or equal to 200 percent of the federal poverty level, unless the amount of hospital charges due from the patient exceeds 25 percent of the annual family income. However, in no case shall the hospital charges for a patient whose family income exceeds four times the federal poverty level for a family of four be considered charity.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Charity care days” means the sum of the deductions from revenues for charity care minus 50 percent of restricted and unrestricted revenues provided to a hospital by local governments or tax districts, divided by gross revenues per adjusted patient day.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Hospital” means a health care institution licensed as a hospital pursuant to chapter 395, but does not include ambulatory surgical centers.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Medicaid days” means the number of actual days attributable to Medicaid patients as determined by the Agency for Health Care Administration.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration shall use the following actual audited data to determine the Medicaid days and charity care to be used in calculating the disproportionate share payment:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The average of the 2004, 2005, and 2006 audited disproportionate share data to determine each hospital’s Medicaid days and charity care for the 2012-2013 state fiscal year.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the Agency for Health Care Administration does not have the prescribed 3 years of audited disproportionate share data as noted in paragraph (a) for a hospital, the agency shall use the average of the years of the audited disproportionate share data as noted in paragraph (a) which is available.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">In accordance with s. 1923(b) of the Social Security Act, a hospital with a Medicaid inpatient utilization rate greater than one standard deviation above the statewide mean or a hospital with a low-income utilization rate of 25 percent or greater shall qualify for reimbursement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Hospitals that qualify for a disproportionate share payment solely under paragraph (2)(c) shall have their payment calculated in accordance with the following formulas:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">DSHP = (HMD/TMSD) x $1 million</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Where:</Text>
+			<Text xml:space="preserve" Style="Indent">DSHP = disproportionate share hospital payment.</Text>
+			<Text xml:space="preserve" Style="Indent">HMD = hospital Medicaid days.</Text>
+			<Text xml:space="preserve" Style="Indent">TSD = total state Medicaid days.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Any funds not allocated to hospitals qualifying under this section shall be redistributed to the non-state government owned or operated hospitals with greater than 3,100 Medicaid days.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The following formulas shall be used to pay disproportionate share dollars to public hospitals:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For state mental health hospitals:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">DSHP = (HMD/TMDMH) x TAAMH</Text>
+				<Text xml:space="preserve" Style="BlockFlush" SpaceAbove="true">shall be the difference between the federal cap for Institutions for Mental Diseases and the amounts paid under the mental health disproportionate share program.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Where:</Text>
+				<Text xml:space="preserve" Style="Indent">DSHP = disproportionate share hospital payment.</Text>
+				<Text xml:space="preserve" Style="Indent">HMD = hospital Medicaid days.</Text>
+				<Text xml:space="preserve" Style="Indent">TMDHH = total Medicaid days for state mental health hospitals.</Text>
+				<Text xml:space="preserve" Style="Indent" SpaceBelow="true">TAAMH = total amount available for mental health hospitals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">For non-state government owned or operated hospitals with 3,100 or more Medicaid days:</Text>
+				<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">DSHP = [(.82 x HCCD/TCCD) + (.18 x HMD/TMD)]<NewLine/>x TAAPH</Text>
+				<Text xml:space="preserve" Style="AlignCenter">TAAPH = TAA - TAAMH</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Where:</Text>
+				<Text xml:space="preserve" Style="Indent">TAA = total available appropriation.</Text>
+				<Text xml:space="preserve" Style="Indent">TAAPH = total amount available for public hospitals.</Text>
+				<Text xml:space="preserve" Style="Indent">DSHP = disproportionate share hospital payments.</Text>
+				<Text xml:space="preserve" Style="Indent">HMD = hospital Medicaid days.</Text>
+				<Text xml:space="preserve" Style="Indent">TMD = total state Medicaid days for public hospitals.</Text>
+				<Text xml:space="preserve" Style="Indent">HCCD = hospital charity care dollars.</Text>
+				<Text xml:space="preserve" Style="Indent">TCCD = total state charity care dollars for public non-state hospitals.</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The TAAPH shall be reduced by $6,365,257 before computing the DSHP for each public hospital. The $6,365,257 shall be distributed equally between the public hospitals that are also designated statutory teaching hospitals.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">For non-state government owned or operated hospitals with less than 3,100 Medicaid days, a total of $750,000 shall be distributed equally among these hospitals.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Any nonstate government owned or operated hospital eligible for payments under this section on July 1, 2011, remains eligible for payments during the 2012-2013 state fiscal year.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The following formula shall be used to pay disproportionate share dollars to provider service network (PSN) hospitals:</Text>
+			<Text xml:space="preserve" Style="AlignCenter" SpaceAbove="true">DSHP = TAAPSNH x (IHPSND/THPSND)</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Where:</Text>
+			<Text xml:space="preserve" Style="Indent">DSHP = Disproportionate share hospital payments.</Text>
+			<Text xml:space="preserve" Style="Indent">TAAPSNH = Total amount available for PSN hospitals.</Text>
+			<Text xml:space="preserve" Style="Indent">IHPSND = Individual hospital PSN days.</Text>
+			<Text xml:space="preserve" Style="Indent">THPSND = Total of all hospital PSN days.</Text>
+			<Text xml:space="preserve" Style="Flush" SpaceAbove="true">For purposes of this subsection, the PSN inpatient days shall be provided in the General Appropriations Act.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">In no case shall total payments to a hospital under this section, with the exception of public non-state facilities or state facilities, exceed the total amount of uncompensated charity care of the hospital, as determined by the agency according to the most recent calendar year audited data available at the beginning of each state fiscal year.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">The agency is authorized to receive funds from local governments and other local political subdivisions for the purpose of making payments, including federal matching funds, through the Medicaid disproportionate share program. Funds received from local governments for this purpose shall be separately accounted for and shall not be commingled with other state or local funds in any manner.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">Payments made by the agency to hospitals eligible to participate in this program shall be made in accordance with federal rules and regulations.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If the Federal Government prohibits, restricts, or changes in any manner the methods by which funds are distributed for this program, the agency shall not distribute any additional funds and shall return all funds to the local government from which the funds were received, except as provided in paragraph (b).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If the Federal Government imposes a restriction that still permits a partial or different distribution, the agency may continue to disburse funds to hospitals participating in the disproportionate share program in a federally approved manner, provided:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Each local government which contributes to the disproportionate share program agrees to the new manner of distribution as shown by a written document signed by the governing authority of each local government; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The Executive Office of the Governor, the Office of Planning and Budgeting, the House of Representatives, and the Senate are provided at least 7 days’ prior notice of the proposed change in the distribution, and do not disapprove such change.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">No distribution shall be made under the alternative method specified in paragraph (b) unless all parties agree or unless all funds of those parties that disagree which are not yet disbursed have been returned to those parties.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding the provisions of chapter 216, the Executive Office of the Governor is hereby authorized to establish sufficient trust fund authority to implement the disproportionate share program.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration shall create a Medicaid Low-Income Pool Council by July 1, 2006. The Low-Income Pool Council shall consist of 24 members, including 2 members appointed by the President of the Senate, 2 members appointed by the Speaker of the House of Representatives, 3 representatives of statutory teaching hospitals, 3 representatives of public hospitals, 3 representatives of nonprofit hospitals, 3 representatives of for-profit hospitals, 2 representatives of rural hospitals, 2 representatives of units of local government which contribute funding, 1 representative of family practice teaching hospitals, 1 representative of federally qualified health centers, 1 representative from the Department of Health, and 1 nonvoting representative of the Agency for Health Care Administration who shall serve as chair of the council. Except for a full-time employee of a public entity, an individual who qualifies as a lobbyist under s. 11.045 or s. 112.3215 may not serve as a member of the council. Of the members appointed by the Senate President, only one shall be a physician. Of the members appointed by the Speaker of the House of Representatives, only one shall be a physician. The physician member appointed by the Senate President and the physician member appointed by the Speaker of the House of Representatives must be physicians who routinely take calls in a trauma center, as defined in s. 395.4001, or a hospital emergency department. The council shall:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Make recommendations on the financing of the low-income pool and the disproportionate share hospital program and the distribution of their funds.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Advise the Agency for Health Care Administration on the development of the low-income pool plan required by the federal Centers for Medicare and Medicaid Services pursuant to the Medicaid reform waiver.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Advise the Agency for Health Care Administration on the distribution of hospital funds used to adjust inpatient hospital rates, rebase rates, or otherwise exempt hospitals from reimbursement limits as financed by intergovernmental transfers.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Submit its findings and recommendations to the Governor and the Legislature no later than February 1 of each year.</Text>
+			</Paragraph>
+			<Text xml:space="preserve" Style="Reversion">This subsection expires October 1, 2014.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 39, ch. 91-282; s. 78, ch. 92-289; s. 24, ch. 95-146; s. 185, ch. 99-8; s. 6, ch. 2001-104; s. 5, ch. 2001-222; s. 23, ch. 2002-400; s. 13, ch. 2003-405; s. 13, ch. 2004-270; s. 11, ch. 2005-60; s. 1, ch. 2005-358; s. 15, ch. 2006-28; s. 6, ch. 2008-143; s. 1, ch. 2009-42; s. 9, ch. 2009-55; s. 94, ch. 2010-5; s. 10, ch. 2010-156; s. 8, ch. 2011-61; s. 14, ch. 2011-135; s. 7, ch. 2012-33.</History>
+</Section>

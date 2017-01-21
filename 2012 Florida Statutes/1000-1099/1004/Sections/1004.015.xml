@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1004.015" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Higher Education Coordinating Council.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Higher Education Coordinating Council is created for the purposes of identifying unmet needs and facilitating solutions to disputes regarding the creation of new degree programs and the establishment of new institutes, campuses, or centers.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Members of the council shall include:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The Commissioner of Education.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The Chancellor of the State University System.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The Chancellor of the Florida College System.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">The executive director of the Commission for Independent Education.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">The President of the Independent Colleges and Universities of Florida.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Two representatives of the business community, one appointed by the President of the Senate and one appointed by the Speaker of the House of Representatives, who are committed to developing and enhancing world class workforce infrastructure necessary for Florida’s citizens to compete and prosper in the ever-changing economy of the 21st century.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The council shall serve as an advisory board to the Legislature, the State Board of Education, and the Board of Governors. Recommendations of the council shall be consistent with the following guiding principles:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To achieve within existing resources a seamless academic educational system that fosters an integrated continuum of kindergarten through graduate school education for Florida’s students.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">To promote consistent education policy across all educational delivery systems, focusing on students.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">To promote substantially improved articulation across all educational delivery systems.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">To promote a system that maximizes educational access and allows the opportunity for a high-quality education for all Floridians.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">To promote a system of coordinated and consistent transfer of credit and data collection for improved accountability purposes between the educational delivery systems.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The council shall annually by December 31 submit to the Governor, the President of the Senate, the Speaker of the House of Representatives, the Board of Governors, and the State Board of Education a report outlining its recommendations relating to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The primary core mission of public and nonpublic postsecondary education institutions in the context of state access demands and economic development goals.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Performance outputs and outcomes designed to meet annual and long-term state goals, including, but not limited to, increased student access, preparedness, retention, transfer, and completion. Performance measures must be consistent across sectors and allow for a comparison of the state’s performance to that of other states.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The state’s articulation policies and practices to ensure that cost benefits to the state are maximized without jeopardizing quality. The recommendations shall consider return on investment for both the state and students and propose systems to facilitate and ensure institutional compliance with state articulation policies.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro"> Workforce development education, specifically recommending improvements to the consistency of workforce education data collected and reported by Florida College System institutions and school districts, including the establishment of common elements and definitions for any data that is used for state and federal funding and program accountability.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The Board of Governors and the Department of Education shall provide administrative support for the council.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 13, ch. 2010-78; s. 5, ch. 2011-177; s. 7, ch. 2012-195.</History>
+</Section>

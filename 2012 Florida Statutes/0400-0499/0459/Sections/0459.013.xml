@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0459.013" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Penalty for violations.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each of the following acts constitutes a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The practice of osteopathic medicine, or an attempt to practice osteopathic medicine, without an active license or certificate issued pursuant to this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The practice of osteopathic medicine by a person holding a limited license, osteopathic faculty certificate, or other certificate issued under this chapter beyond the scope of practice authorized for such licensee or certificateholder.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Attempting to obtain or obtaining a license to practice osteopathic medicine by knowing misrepresentation.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Attempting to obtain or obtaining a position as an osteopathic medical practitioner or osteopathic medical resident in a clinic or hospital through knowing misrepresentation of education, training, or experience.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Knowingly operating, owning, or managing a nonregistered pain-management clinic that is required to be registered with the Department of Health pursuant to s. 459.0137(1).</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Dispensing a controlled substance listed in Schedule II or Schedule III in violation of s. 465.0276.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each of the following acts constitutes a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Knowingly concealing information relating to violations of this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Making any willfully false oath or affirmation whenever an oath or affirmation is required by this chapter.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The practice of medicine as a resident or intern without holding a valid current registration pursuant to s. 459.021.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Knowingly prescribing or dispensing, or causing to be prescribed or dispensed, controlled substances in a nonregistered pain-management clinic that is required to be registered with the Department of Health pursuant to s. 459.0137(1).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Each of the following constitutes a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Fraudulently altering, defacing, or falsifying any records relating to patient care or treatment, including, but not limited to, patient histories, examination results, and test results.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Referring any patient, for health care goods or services, to any partnership, firm, corporation, or other business entity in which the physician or the physician’s employer has an equity interest of 10 percent or more unless, prior to such referral, the physician notifies the patient of her or his financial interest and of the patient’s right to obtain such goods or services at the location of the patient’s choice. This section shall not apply to the following types of equity interest:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The ownership of registered securities issued by a publicly held corporation or the ownership of securities issued by a publicly held corporation, the shares of which are traded on a national exchange or the over-the-counter market;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A physician’s own practice, whether the physician is a sole practitioner or part of a group, when the health care good or service is prescribed or provided solely for the physician’s own patients and is provided or performed by the physician or under the physician’s supervision; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">An interest in real property resulting in a landlord-tenant relationship between the physician and the entity in which the equity interest is held, unless the rent is determined, in whole or in part, by the business volume or profitability of the tenant or is otherwise unrelated to fair market value.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Paying or receiving any commission, bonus, kickback, or rebate or engaging in any split-fee arrangement in any form whatsoever with a physician, organization, agency, person, partnership, firm, corporation, or other business entity for patients referred to providers of health care goods and services, including, but not limited to, hospitals, nursing homes, clinical laboratories, ambulatory surgical centers, or pharmacies. The provisions of this paragraph shall not be construed to prevent a physician from receiving a fee for professional consultation services.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 1, 6, ch. 79-230; ss. 2, 3, ch. 81-318; s. 33, ch. 85-175; ss. 15, 27, 29, ch. 86-290; s. 2, ch. 90-254; s. 253, ch. 91-224; s. 4, ch. 91-429; s. 217, ch. 97-103; s. 49, ch. 2000-318; s. 9, ch. 2010-211; s. 8, ch. 2011-141.</History>
+</Section>

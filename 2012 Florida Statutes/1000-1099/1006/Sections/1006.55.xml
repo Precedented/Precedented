@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1006.55" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Law libraries of certain institutions of higher learning designated as state legal depositories.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The law libraries of the University of Florida, Florida State University, Florida International University, Florida Agricultural and Mechanical University, Stetson University, Nova University, and the University of Miami are designated as state legal depositories.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each officer of the state empowered by law to distribute legal publications may transmit, upon payment of shipping costs or cash on delivery, to the state legal depositories copies of such publications as requested. However, the number of copies transmitted shall be limited to:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Eight copies of each volume of General Acts and each volume of Special Acts to each of the state legal depositories;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Up to a maximum number of each volume of the Florida Statutes and each supplement volume, computed on the basis of one set for every 10 students enrolled during the school year, based upon the average enrollment as certified by the registrar; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">One copy of each journal of the House of Representatives and each journal of the Senate to each state legal depository.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">It is the duty of the librarian of any depository to keep all public documents in a convenient form accessible to the public.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The libraries of all Florida College System institutions are designated as state depositories for the Florida Statutes and supplements published by or under the authority of the state; these depositories each may receive upon request one copy of each volume without charge, except for payment of shipping costs.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 325, ch. 2002-387; s. 79, ch. 2011-5.</History>
+</Section>

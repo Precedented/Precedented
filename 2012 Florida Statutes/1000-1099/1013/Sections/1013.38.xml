@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="1013.38" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Boards to ensure that facilities comply with building codes and life safety codes.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Boards shall ensure that all new construction, renovation, remodeling, day labor, and maintenance projects conform to the appropriate sections of the Florida Building Code, Florida Fire Prevention Code, or, where applicable as authorized in other sections of law, other building codes, and life safety codes.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For each proposed new facility and each proposed new facility addition exceeding 2,500 square feet, the board shall submit for review a minimum of one copy of the site plan to the local county, municipality, or independent special fire control district providing fire protection services to the facility.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The local county, municipality, or independent special fire control district may review each site plan for compliance with the applicable provisions of the Florida Fire Prevention Code relating to fire department access roads, fire protection system connection locations, and fire hydrant spacing. Such site plans are not subject to local amendments to the Florida Fire Prevention Code or local ordinances as provided in s. 1013.371. Site plan reviews conducted pursuant to this section shall be performed at no charge to the school board or public college board.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The site plan shall be deemed approved unless the local county, municipality, or independent special fire control district submits to the fire official appointed by the board, in writing, any deficiencies identified with reference to specific provisions of the Florida Fire Prevention Code within 15 days after receipt of the site plan. The fire official shall incorporate such comments into his or her review and subsequent inspections.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">If the local county, municipality, or independent special fire control district and the fire official appointed by the board do not agree on the requirements or application of the Florida Fire Prevention Code, either party may refer the matter to the State Fire Marshal, who shall have final administrative authority in resolving the matter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">In addition to the submission of site plans, boards may provide compliance as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Boards or consortia may individually or cooperatively provide review services under the insurance risk management oversight through the use of board employees or consortia employees registered pursuant to chapter 471, chapter 481, or part XII of chapter 468 and firesafety inspectors certified under s. 633.081.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Boards may elect to review construction documents using their own employees registered pursuant to chapter 471, chapter 481, or part XII of chapter 468 and firesafety inspectors certified under s. 633.081.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Boards may submit phase III construction documents for review to the department.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Boards or consortia may contract for plan review services directly with engineers and architects registered pursuant to chapter 471 or chapter 481 and firesafety inspectors certified under s. 633.081.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The Department of Management Services may, upon request, provide facilities services for the Florida School for the Deaf and the Blind, the Division of Blind Services, and public broadcasting. As used in this section, the term “facilities services” means project management, code and design plan review, and code compliance inspection for projects as defined in s. 287.017(5).</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Before the commencement of any new construction, renovation, or remodeling, the board shall:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Approve or cause to be approved the construction documents and evaluate such documents for compliance with the Florida Building Code and the Florida Fire Prevention Code.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Ensure compliance with all applicable firesafety codes and standards by contracting with a firesafety inspector certified by the State Fire Marshal under s. 633.081.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A certificate of occupancy may not be issued until the board, through its designated certified building official, has determined that the building or structure and its site conditions comply with all applicable statutes and rules.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The method of compliance as chosen by the board pursuant to subsection (2) shall be documented and maintained as part of the construction record file.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Upon request by the local county, municipality, or independent special fire control district, the board shall provide reasonable access to all construction documents.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 837, ch. 2002-387; s. 42, ch. 2010-151; s. 6, ch. 2011-79.</History>
+</Section>

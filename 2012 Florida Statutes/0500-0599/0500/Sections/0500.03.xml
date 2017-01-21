@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0500.03" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions; construction; applicability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">For the purpose of this chapter, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Advertisement” means any representation disseminated in any manner or by any means, other than by labeling, for the purpose of inducing, or which is likely to induce, directly or indirectly, the purchase of food.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Approved laboratory” or “certified laboratory” means a laboratory of the department, a commercial laboratory certified by the Department of Health, or a competent commercial laboratory certified by an agency of another state or the United States Environmental Protection Agency to perform analyses of drinking water in accordance with the water quality testing procedures adopted by the United States Environmental Protection Agency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Approved source” as it relates to water means a source of water, whether it is a spring, artesian well, drilled well, municipal water supply, or any other source, that complies with the Federal Safe Drinking Water Act, Pub. L. No. 93-523, as amended.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Bottled water” means a beverage, as described in 21 C.F.R. part 165 (2006), that is processed in compliance with 21 C.F.R. part 129 (2006).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Bottled water plant” means a food establishment in which bottled water is prepared for sale.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Color” includes black, white, and intermediate grays.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">“Color additive” means a material which:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Is a dye pigment, or other substance, made by a process of synthesis or similar artifice, or extracted, isolated, or otherwise derived, with or without intermediate or final change of identity from a vegetable, animal, mineral, or other source, or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">When added or applied to a food, is capable, alone or through reaction with another substance, of imparting color thereto;</Text>
+					</SubSubParagraph>
+					<Text xml:space="preserve" Style="Reversion">except that such term does not include any material that is exempt under the federal act.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Nothing in subparagraph 1. shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological process of produce of the soil and thereby affecting its color, whether before or after harvest.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Contaminated with filth” applies to any food not securely protected from dust, dirt, and, as far as may be necessary by all reasonable means, all foreign or injurious contamination.</Text>
+			</Paragraph>
+			<Paragraph Id="i">
+				<Text xml:space="preserve" Style="Intro">“Convenience store” means a business that is engaged primarily in the retail sale of groceries or motor fuels or special fuels and may offer food services to the public. Businesses providing motor fuel or special fuel to the public which also offer groceries or food service are included in the definition of a convenience store.</Text>
+			</Paragraph>
+			<Paragraph Id="j">
+				<Text xml:space="preserve" Style="Intro">“Cottage food operation” means a natural person who produces or packages cottage food products at his or her residence and sells such products in accordance with s. 500.80.</Text>
+			</Paragraph>
+			<Paragraph Id="k">
+				<Text xml:space="preserve" Style="Intro">“Cottage food product” means food that is not a potentially hazardous food as defined by department rule which is sold by a cottage food operation in accordance with s. 500.80.</Text>
+			</Paragraph>
+			<Paragraph Id="l">
+				<Text xml:space="preserve" Style="Intro">“Department” means the Department of Agriculture and Consumer Services.</Text>
+			</Paragraph>
+			<Paragraph Id="m">
+				<Text xml:space="preserve" Style="Intro">“Federal act” means the Federal Food, Drug, and Cosmetic Act, as amended, 21 U.S.C. ss. 301 et seq.; 52 Stat. 1040 et seq.</Text>
+			</Paragraph>
+			<Paragraph Id="n">
+				<Text xml:space="preserve" Style="Intro">“Food” includes:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Articles used for food or drink for human consumption;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Chewing gum;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Articles used for components of any such article; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Articles for which health claims are made, which claims are approved by the Secretary of the United States Department of Health and Human Services and which claims are made in accordance with s. 343(r) of the federal act, and which are not considered drugs solely because their labels or labeling contain health claims.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The term includes any raw, cooked, or processed edible substance; ice; any beverage; or any ingredient used, intended for use, or sold for human consumption.</Text>
+			</Paragraph>
+			<Paragraph Id="o">
+				<Text xml:space="preserve" Style="Intro">“Food additive” means any substance, the intended use of which results or may be reasonably expected to result, directly or indirectly, in its becoming a component or otherwise affecting the characteristics of any food (including any substance intended for use in producing, manufacturing, packing, processing, preparing, treating, transporting, or holding food and including any source of radiation intended for any such use), if such substance is not generally recognized, among experts qualified by scientific training and experience to evaluate its safety, as having been adequately shown through scientific procedures (or, in the case of a substance used in a food prior to January 1, 1958, through either scientific procedures or experience based on common use in food) to be safe under the conditions of its intended use; except that such term does not include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A pesticide chemical in or on a raw agricultural commodity;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A pesticide chemical to the extent that it is intended for use or is used in the production, storage, or transportation of any raw agricultural commodity;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A color additive; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Any substance used in accordance with a sanction or approval granted prior to the enactment of the Food Additives Amendment of 1958, pursuant to the federal act; the Poultry Products Inspection Act (21 U.S.C. ss. 451 et seq.); or the Meat Inspection Act of March 4, 1967 (34 Stat. 1260), as amended and extended (21 U.S.C. ss. 71 et seq.).</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="p">
+				<Text xml:space="preserve" Style="Intro">“Food establishment” means any factory, food outlet, or any other facility manufacturing, processing, packing, holding, or preparing food or selling food at wholesale or retail. The term does not include any business or activity that is regulated under s. 500.80, chapter 509, or chapter 601. The term includes tomato packinghouses and repackers but does not include any other establishments that pack fruits and vegetables in their raw or natural states, including those fruits or vegetables that are washed, colored, or otherwise treated in their unpeeled, natural form before they are marketed.</Text>
+			</Paragraph>
+			<Paragraph Id="q">
+				<Text xml:space="preserve" Style="Intro">“Food outlet” means any grocery store; convenience store; minor food outlet; meat, poultry, or fish and related aquatic food market; fruit or vegetable market; food warehouse; refrigerated storage facility; freezer locker; salvage food facility; or any other similar place storing or offering food for sale.</Text>
+			</Paragraph>
+			<Paragraph Id="r">
+				<Text xml:space="preserve" Style="Intro">“Food service establishment” means any place where food is prepared and intended for individual portion service, and includes the site at which individual portions are provided. The term includes any such place regardless of whether consumption is on or off the premises and regardless of whether there is a charge for the food. The term includes delicatessens that offer prepared food in individual service portions. The term does not include schools, institutions, fraternal organizations, private homes where food is prepared or served for individual family consumption, retail food stores, the location of food vending machines, cottage food operations, and supply vehicles, nor does the term include a research and development test kitchen limited to the use of employees and which is not open to the general public.</Text>
+			</Paragraph>
+			<Paragraph Id="s">
+				<Text xml:space="preserve" Style="Intro">“Immediate container” does not include package liners.</Text>
+			</Paragraph>
+			<Paragraph Id="t">
+				<Text xml:space="preserve" Style="Intro">“Label” means a display of written, printed, or graphic matter upon the immediate container of any article. A requirement made by or under authority of this chapter that any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if there is any, of the retail package of such article or is easily legible through the outside container or wrapper.</Text>
+			</Paragraph>
+			<Paragraph Id="u">
+				<Text xml:space="preserve" Style="Intro">“Labeling” means all labels and other written, printed, or graphic matters:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon an article or any of its containers or wrappers; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Accompanying such article.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="v">
+				<Text xml:space="preserve" Style="Intro">“Minor food outlet” means any retail establishment that sells groceries and may offer food service to the public, but neither business activity is a major retail function based on allocated space or gross sales.</Text>
+			</Paragraph>
+			<Paragraph Id="w">
+				<Text xml:space="preserve" Style="Intro">“Natural water” means bottled spring water, artesian well water, or well water that has not been altered with water from another source or that has not been modified by mineral addition or deletion, except for alteration that is necessary to treat the water through ozonation or an equivalent disinfection and filtration process.</Text>
+			</Paragraph>
+			<Paragraph Id="x">
+				<Text xml:space="preserve" Style="Intro">“Packaged ice” means ice that is enclosed in a container and is offered for sale for human consumption or for other use by the consumer. The term does not include ice that is manufactured by any business licensed under chapter 381 or chapter 509.</Text>
+			</Paragraph>
+			<Paragraph Id="y">
+				<Text xml:space="preserve" Style="Intro">“Packaged ice plant” means a food establishment in which packaged ice is manufactured or processed.</Text>
+			</Paragraph>
+			<Paragraph Id="z">
+				<Text xml:space="preserve" Style="Intro">“Pesticide chemical” means any substance which, alone, in chemical combination, or in formulation with one or more other substances is a “pesticide” within the meaning of the Florida Pesticide Law, part I of chapter 487, and which is used in the production, storage, or transportation of raw agricultural commodities.</Text>
+			</Paragraph>
+			<Paragraph Id="aa">
+				<Text xml:space="preserve" Style="Intro">“Raw agricultural commodity” means any food in its raw or natural state, including all fruits that are washed, colored, or otherwise treated in their unpeeled natural form prior to marketing.</Text>
+			</Paragraph>
+			<Paragraph Id="bb">
+				<Text xml:space="preserve" Style="Intro">“Retail food store” means any establishment or section of an establishment where food and food products are offered to the consumer and intended for off-premises consumption. The term includes delicatessens that offer prepared food in bulk quantities only. The term does not include establishments which handle only prepackaged, nonpotentially hazardous foods; roadside markets that offer only fresh fruits and fresh vegetables for sale; food service establishments; or food and beverage vending machines.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">For the purpose of this chapter:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If an article is alleged to be misbranded because the labeling is misleading, or if an advertisement is alleged to be false because it is misleading, then, in determining whether the labeling or advertisement is misleading, there shall be taken into account, among other things, not only representations made or suggested by statement, word, design, device, or sound, or in any combination thereof, but also the extent to which the labeling or advertisement fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertisement relates under the conditions of use prescribed in the labeling or advertisement thereof or under such conditions of use as are customary or usual.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">If an article is a food, and it is alleged to be misbranded because the labeling is misleading, or if an advertisement is alleged to be false because it is misleading, there shall be taken into account, among other things, not only representations made or suggested by statement, word, design, device, or sound, or in any combination thereof, but also the extent to which the labeling or advertisement fails to prominently and conspicuously reveal facts relative to the proportions or absence of certain ingredients or other facts concerning ingredients in the food, which facts are of material interest to consumers.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">For the purpose of this chapter, the selling of food includes the manufacture, production, processing, packing, exposure, offer, possession, and holding of any article of food for sale; the sale, dispensing, and giving of any article of food; and the supplying or applying of food in the conduct of any food establishment.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 19656, 1939; CGL 1940 Supp. 4151(666); s. 7, ch. 22858, 1945; s. 1, ch. 59-302; s. 1, ch. 63-259; s. 1, ch. 67-345; ss. 14, 19, 35, ch. 69-106; s. 1, ch. 71-261; s. 186, ch. 71-377; s. 134, ch. 73-333; s. 415, ch. 77-147; s. 4, ch. 82-225; s. 119, ch. 83-218; s. 3, ch. 87-388; s. 8, ch. 92-180; s. 3, ch. 94-180; s. 2, ch. 95-314; s. 16, ch. 97-220; s. 20, ch. 2000-364; s. 54, ch. 2004-64; s. 2, ch. 2007-67; s. 1, ch. 2010-25; s. 19, ch. 2011-205.</History>
+</Section>

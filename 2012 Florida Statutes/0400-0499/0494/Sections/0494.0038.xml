@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0494.0038" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Loan origination and mortgage broker fees and disclosures.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A loan origination fee may not be paid except pursuant to a written mortgage broker agreement between the mortgage broker and the borrower which is signed and dated by the principal loan originator or branch manager, and the borrower. The unique registry identifier of each loan originator responsible for providing loan originator services must be printed on the mortgage broker agreement.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The written mortgage broker agreement must describe the services to be provided by the mortgage broker and specify the amount and terms of the loan origination fee that the mortgage broker is to receive.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except for application and third-party fees, all fees received by a mortgage broker from a borrower must be identified as a loan origination fee.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">All fees on the mortgage broker agreement must be disclosed in dollar amounts.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">All loan origination fees must be paid to a mortgage broker.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The agreement must be executed within 3 business days after a mortgage loan application is accepted if the borrower is present when the mortgage loan application is accepted. If the borrower is not present, the licensee shall forward the agreement to the borrower within 3 business days after the licensee’s acceptance of the application and the licensee bears the burden of proving that the borrower received and approved the agreement.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the mortgage broker is to receive any payment of any kind from the mortgage lender, the maximum total dollar amount of the payment must be disclosed to the borrower in the written mortgage broker agreement as described in paragraph (1)(a). The commission may prescribe by rule an acceptable form for disclosure of brokerage fees received from the lender. The agreement must state the nature of the relationship with the lender, describe how compensation is paid by the lender, and describe how the mortgage interest rate affects the compensation paid to the mortgage broker.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The exact amount of any payment of any kind by the lender to the mortgage broker must be disclosed in writing to the borrower within 3 business days after the mortgage broker is made aware of the exact amount of the payment from the lender but not less than 3 business days before the execution of the closing or settlement statement. The licensee bears the burden of proving such notification was provided to the borrower. Notification is waived if the exact amount of the payment is accurately disclosed in the written mortgage broker agreement.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The commission may prescribe by rule the form of disclosure of brokerage fees.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">At the time a written mortgage broker agreement is signed by the borrower or forwarded to the borrower for signature, or at the time the mortgage broker business accepts an application fee, credit report fee, property appraisal fee, or any other third-party fee, but at least 3 business days before execution of the closing or settlement statement, the mortgage broker shall disclose in writing to any applicant for a mortgage loan the following information:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">That the mortgage broker may not make mortgage loans or commitments. The mortgage broker may make a commitment and may furnish a lock-in of the rate and program on behalf of the lender if the mortgage broker has obtained a written commitment or lock-in for the loan from the lender on behalf of the borrower for the loan. The commitment must be in the same form and substance as issued by the lender.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">That the mortgage broker cannot guarantee acceptance into any particular loan program or promise any specific loan terms or conditions.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A good faith estimate that discloses settlement charges and loan terms.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Any amount collected in excess of the actual cost shall be returned within 60 days after rejection, withdrawal, or closing.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">At the time a good faith estimate is provided to the borrower, the loan originator must identify in writing an itemized list that provides the recipient of all payments charged the borrower, which, except for all fees to be received by the mortgage broker, may be disclosed in generic terms, such as, but not limited to, paid to lender, appraiser, officials, title company, or any other third-party service provider. This requirement does not supplant or is not a substitute for the written mortgage broker agreement described in subsection (1). The disclosure required under this subparagraph must be signed and dated by the borrower.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The disclosures required by this subsection must be furnished in writing at the time an adjustable rate mortgage loan is offered to the borrower and whenever the terms of the adjustable rate mortgage loan offered materially change prior to closing. The mortgage broker shall furnish the disclosures relating to adjustable rate mortgages in a format prescribed by ss. 226.18 and 226.19 of Regulation Z of the Board of Governors of the Federal Reserve System, as amended; its commentary, as amended; and the federal Truth in Lending Act, 15 U.S.C. ss. 1601 et seq., as amended; together with the Consumer Handbook on Adjustable Rate Mortgages, as amended; published by the Federal Reserve Board and the Federal Home Loan Bank Board. The licensee bears the burden of proving such disclosures were provided to the borrower.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the mortgage broker agreement includes a nonrefundable application fee, the following requirements are applicable:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The amount of the application fee, which must be clearly denominated as such, must be clearly disclosed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The specific services that will be performed in consideration for the application fee must be disclosed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The application fee must be reasonably related to the services to be performed and may not be based upon a percentage of the principal amount of the loan or the amount financed.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">A mortgage broker may not accept any fee in connection with a mortgage loan other than an application fee, credit report fee, property appraisal fee, or other third-party fee before obtaining a written commitment from a qualified lender.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">Any third-party fee entrusted to a mortgage broker must immediately, upon receipt, be placed into a segregated account with a financial institution located in the state the accounts of which are insured by the Federal Government. Such funds shall be held in trust for the payor and shall be kept in the account until disbursement. Such funds may be placed in one account if adequate accounting measures are taken to identify the source of the funds.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">A mortgage broker may not pay a commission to any person not licensed pursuant to this chapter.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">This section does not prohibit a mortgage broker from offering products and services, in addition to those offered in conjunction with the loan origination process, for a fee or commission.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 25, 50, ch. 91-245; s. 4, ch. 91-429; s. 14, ch. 99-213; s. 41, ch. 2000-154; s. 533, ch. 2003-261; s. 6, ch. 2007-182; s. 34, ch. 2009-241; s. 3, ch. 2010-67; s. 7, ch. 2011-71.</History>
+</Section>

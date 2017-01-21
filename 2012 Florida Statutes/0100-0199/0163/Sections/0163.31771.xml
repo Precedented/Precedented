@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0163.31771" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Accessory dwelling units.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Legislature finds that the median price of homes in this state has increased steadily over the last decade and at a greater rate of increase than the median income in many urban areas. The Legislature finds that the cost of rental housing has also increased steadily and the cost often exceeds an amount that is affordable to extremely-low-income, very-low-income, low-income, or moderate-income persons and has resulted in a critical shortage of affordable rentals in many urban areas in the state. This shortage of affordable rentals constitutes a threat to the health, safety, and welfare of the residents of the state. Therefore, the Legislature finds that it serves an important public purpose to encourage the permitting of accessory dwelling units in single-family residential areas in order to increase the availability of affordable rentals for extremely-low-income, very-low-income, low-income, or moderate-income persons.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Accessory dwelling unit” means an ancillary or secondary living unit, that has a separate kitchen, bathroom, and sleeping area, existing either within the same structure, or on the same lot, as the primary dwelling unit.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Affordable rental” means that monthly rent and utilities do not exceed 30 percent of that amount which represents the percentage of the median adjusted gross annual income for extremely-low-income, very-low-income, low-income, or moderate-income persons.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“Local government” means a county or municipality.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Low-income persons” has the same meaning as in s. 420.0004(11).</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Moderate-income persons” has the same meaning as in s. 420.0004(12).</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Very-low-income persons” has the same meaning as in s. 420.0004(17).</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Extremely-low-income persons” has the same meaning as in s. 420.0004(9).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon a finding by a local government that there is a shortage of affordable rentals within its jurisdiction, the local government may adopt an ordinance to allow accessory dwelling units in any area zoned for single-family residential use.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">If the local government adopts an ordinance under this section, an application for a building permit to construct an accessory dwelling unit must include an affidavit from the applicant which attests that the unit will be rented at an affordable rate to an extremely-low-income, very-low-income, low-income, or moderate-income person or persons.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">Each accessory dwelling unit allowed by an ordinance adopted under this section shall apply toward satisfying the affordable housing component of the housing element in the local government’s comprehensive plan under s. 163.3177(6)(f).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2004-372; s. 2, ch. 2006-69; s. 16, ch. 2010-5; s. 13, ch. 2011-189.</History>
+</Section>

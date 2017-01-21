@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0166.241" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Fiscal years, budgets, and budget amendments.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each municipality shall establish a fiscal year beginning October 1 of each year and ending September 30 of the following year.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The governing body of each municipality shall adopt a budget each fiscal year. The budget must be adopted by ordinance or resolution unless otherwise specified in the respective municipality’s charter. The amount available from taxation and other sources, including balances brought forward from prior fiscal years, must equal the total appropriations for expenditures and reserves. At a minimum, the adopted budget must show for each fund, as required by law and sound financial practices, budgeted revenues and expenditures by organizational unit which are at least at the level of detail required for the annual financial report under s. 218.32(1). The adopted budget must regulate expenditures of the municipality, and an officer of a municipal government may not expend or contract for expenditures in any fiscal year except pursuant to the adopted budget.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The tentative budget must be posted on the municipality’s official website at least 2 days before the budget hearing, held pursuant to s. 200.065 or other law, to consider such budget. The final adopted budget must be posted on the municipality’s official website within 30 days after adoption. If the municipality does not operate an official website, the municipality must, within a reasonable period of time as established by the county or counties in which the municipality is located, transmit the tentative budget and final budget to the manager or administrator of such county or counties who shall post the budgets on the county’s website.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The governing body of each municipality at any time within a fiscal year or within 60 days following the end of the fiscal year may amend a budget for that year as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Appropriations for expenditures within a fund may be decreased or increased by motion recorded in the minutes if the total appropriations of the fund is not changed.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The governing body may establish procedures by which the designated budget officer may authorize budget amendments if the total appropriations of the fund is not changed.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If a budget amendment is required for a purpose not specifically authorized in paragraph (a) or paragraph (b), the budget amendment must be adopted in the same manner as the original budget unless otherwise specified in the municipality’s charter.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">If the governing body of a municipality amends the budget pursuant to paragraph (4)(c), the adopted amendment must be posted on the official website of the municipality within 5 days after adoption. If the municipality does not operate an official website, the municipality must, within a reasonable period of time as established by the county or counties in which the municipality is located, transmit the adopted amendment to the manager or administrator of such county or counties who shall post the adopted amendment on the county’s website.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 73-129; s. 4, ch. 83-106; s. 6, ch. 96-324; s. 14, ch. 2004-305; s. 11, ch. 2011-144.</History>
+</Section>

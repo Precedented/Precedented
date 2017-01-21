@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0394.657" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">County planning councils or committees.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Each board of county commissioners shall designate the county public safety coordinating council established under s. 951.26, or designate another criminal or juvenile justice mental health and substance abuse council or committee, as the planning council or committee. The public safety coordinating council or other designated criminal or juvenile justice mental health and substance abuse council or committee, in coordination with the county offices of planning and budget, shall make a formal recommendation to the board of county commissioners regarding how the Criminal Justice, Mental Health, and Substance Abuse Reinvestment Grant Program may best be implemented within a community. The board of county commissioners may assign any entity to prepare the application on behalf of the county administration for submission to the Criminal Justice, Mental Health, and Substance Abuse Statewide Grant Review Committee for review. A county may join with one or more counties to form a consortium and use a regional public safety coordinating council or another county-designated regional criminal or juvenile justice mental health and substance abuse planning council or committee for the geographic area represented by the member counties.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">For the purposes of this section, the membership of a designated planning council or committee must include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">The state attorney, or an assistant state attorney designated by the state attorney.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A public defender, or an assistant public defender designated by the public defender.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A circuit judge designated by the chief judge of the circuit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">A county court judge designated by the chief judge of the circuit.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The chief correctional officer.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The sheriff, if the sheriff is the chief correctional officer, or a person designated by the sheriff.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The police chief, or a person designated by the local police chiefs association.</Text>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<Text xml:space="preserve" Style="Intro">The state probation circuit administrator, or a person designated by the state probation circuit administrator.</Text>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">The local court administrator, or a person designated by the local court administrator.</Text>
+				</SubParagraph>
+				<SubParagraph Id="10">
+					<Text xml:space="preserve" Style="Intro">The chairperson of the board of county commissioners, or another county commissioner designated by the chairperson, or, if the planning council is a consortium of counties, a county commissioner or designee from each member county.</Text>
+				</SubParagraph>
+				<SubParagraph Id="11">
+					<Text xml:space="preserve" Style="Intro">The director of any county probation or pretrial intervention program, if the county has such a program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="12">
+					<Text xml:space="preserve" Style="Intro">The director of a local substance abuse treatment program, or a person designated by the director.</Text>
+				</SubParagraph>
+				<SubParagraph Id="13">
+					<Text xml:space="preserve" Style="Intro">The director of a community mental health agency, or a person designated by the director.</Text>
+				</SubParagraph>
+				<SubParagraph Id="14">
+					<Text xml:space="preserve" Style="Intro">A representative of the substance abuse program office and the mental health program office of the Department of Children and Family Services, selected by the substance abuse and mental health program supervisor of the district in which the county is located.</Text>
+				</SubParagraph>
+				<SubParagraph Id="15">
+					<Text xml:space="preserve" Style="Intro">A primary consumer of mental health services, selected by the substance abuse and mental health program supervisor of the district in which the primary consumer resides. If multiple counties apply together, a primary consumer may be selected to represent each county.</Text>
+				</SubParagraph>
+				<SubParagraph Id="16">
+					<Text xml:space="preserve" Style="Intro">A primary consumer of substance abuse services, selected by the substance abuse and mental health program supervisor of the district in which the primary consumer resides. If the planning council is a consortium of counties, a primary consumer may be selected to represent each county.</Text>
+				</SubParagraph>
+				<SubParagraph Id="17">
+					<Text xml:space="preserve" Style="Intro">A family member of a primary consumer of community-based treatment services, selected by the abuse and mental health program supervisor of the district in which the family member resides.</Text>
+				</SubParagraph>
+				<SubParagraph Id="18">
+					<Text xml:space="preserve" Style="Intro">A representative from an area homeless program or a supportive housing program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="19">
+					<Text xml:space="preserve" Style="Intro">The director of the detention facility of the Department of Juvenile Justice, or a person designated by the director.</Text>
+				</SubParagraph>
+				<SubParagraph Id="20">
+					<Text xml:space="preserve" Style="Intro">The chief probation officer of the Department of Juvenile Justice, or an employee designated by the chief probation officer.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The chairperson of the board of county commissioners or another county commissioner, if designated, shall serve as the chairperson of the planning council or committee until a chairperson is elected from the membership.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All meetings of the planning council or committee, as well as its records, books, documents, and papers, shall be open and available to the public in accordance with ss. 119.07 and 286.011.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If a public safety coordinating council established under s. 951.26 acts as the planning council, its membership must include all persons listed in paragraph (2)(a).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A public safety coordinating council that is acting as the planning council must include an assessment of the availability of mental health programs in addition to the assessments required under s. 951.26(2).</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 2, ch. 2007-200; s. 4, ch. 2010-159.</History>
+</Section>

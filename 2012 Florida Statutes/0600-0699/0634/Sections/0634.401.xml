@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0634.401" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Consumer product” means tangible property primarily used for personal, family, or household purposes.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Gross income” means the total amount of revenue received in connection with business-related activity.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Gross written premiums” means the total amount of premiums, paid or to be paid by the consumer for the entire period of the service warranty inclusive of commissions, for which the association is obligated under service warranties issued.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Impaired” means having liabilities in excess of assets.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Indemnify” means to undertake repair or replacement of a consumer product, or pay compensation for such repair or replacement by cash, check, store credit, gift card, or other similar means, in return for the payment of a segregated premium, when such consumer product suffers operational failure.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Insolvent” means unable to pay debts as they become due in the usual course of business.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Insurance code” means the Florida Insurance Code as defined in s. 624.01.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Insurer” means any property or casualty insurer duly authorized to transact such business in this state.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Net assets” means total statutory assets in excess of liabilities, except that assets pledged to secure debts not reflected on the books of the service warranty association shall not be included in net assets.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Person” includes an individual, company, corporation, association, insurer, agent, and any other legal entity.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Premium” means the total amount paid by the consumer, including any charges designated as assessments or fees for membership, policy, survey, inspection, finance, service, or other charges by the association.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Sales representative” means any person, retail store, corporation, partnership, or sole proprietorship utilized by an insurer or service warranty association for the purpose of selling or issuing service warranties. However, in the case of service warranty associations selling service warranties from one or more business locations, the person in charge of each location may be considered the sales representative.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Service warranty” means any warranty, guaranty, extended warranty or extended guaranty, maintenance service contract equal to or greater than 1 year in length or which does not meet the exemption in paragraph (a), <Reference Number="1" />contract agreement, or other written promise for a specific duration to perform the repair, replacement, or maintenance of a consumer product, or for indemnification for repair, replacement, or maintenance, for operational or structural failure due to a defect in materials or workmanship, normal wear and tear, power surge, or accidental damage from handling in return for the payment of a segregated charge by the consumer; however:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Maintenance service contracts written for less than 1 year which do not contain provisions for indemnification and which do not provide a discount to the consumer for any combination of parts and labor in excess of 20 percent during the effective period of such contract, motor vehicle service agreements, transactions exempt under s. 624.125, and home warranties subject to regulation under part II of this chapter are excluded from this definition;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The term “service warranty” does not include service contracts between consumers and condominium associations; and</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">All contracts that include coverage for accidental damage from handling must be covered by the contractual liability policy referred to in s. 634.406(3).</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Service warranty association” or “association” means any person, other than an authorized insurer, issuing service warranties.</Text>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Warrantor” means any person engaged in the sale of service warranties and deriving not more than 50 percent of its gross income from the sale of service warranties.</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Warranty seller” means any person engaged in the sale of service warranties and deriving more than 50 percent of its gross income from the sale of service warranties.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Manufacturer” means any entity or its affiliate which:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Derives a majority of its revenues from products manufactured, built, assembled, constructed, or produced under a product name wholly controlled by the applicant or an affiliate thereof;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Issues service warranties only for consumer products manufactured, built, assembled, constructed, or produced under a product name wholly controlled by the applicant or an affiliate thereof;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Is listed and traded on a recognized stock exchange, is listed in NASDAQ (National Association of Security Dealers Automated Quotation system) and publicly traded in the over-the-counter securities markets, is required to file either of Form 10-K, Form 10-Q, or Form 20-G with the United States Securities and Exchange Commission, or whose American Depository Receipts are listed on a recognized stock exchange and publicly traded;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Maintains outstanding debt obligations, if any, rated in the top four rating categories by a recognized rating service;</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Has and maintains at all times, a minimum net worth of at least $10 million as evidenced by certified financial statements prepared by an independent certified public accountant in accordance with generally accepted accounting principles; and</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Is authorized to do business in this state.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Affiliate” means any entity which exercises control over or is controlled by, the service warranty association or insurer, directly or indirectly, through:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Equity ownership of voting securities;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Common managerial control; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Collusive participation by the management of the service warranty association or insurer or the affiliate.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 78-255; s. 1, ch. 80-78; s. 3, ch. 81-148; s. 2, ch. 81-318; s. 34, ch. 82-234; s. 3, ch. 83-265; ss. 1, 36, 37, 38, ch. 83-322; s. 10, ch. 85-321; s. 43, ch. 90-119; s. 3, ch. 90-153; s. 46, ch. 91-106; ss. 16, 20, ch. 93-195; s. 4, ch. 99-293; s. 1486, ch. 2003-261; s. 2, ch. 2005-151; s. 4, ch. 2005-258; s. 96, ch. 2006-1; s. 29, ch. 2010-175.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As amended by s. 4, ch. 2005-258. The amendment by s. 2, ch. 2005-151, uses a comma between the words “contract” and “agreement.”</Text>
+	</Note>
+</Section>

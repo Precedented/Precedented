@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0435.12" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Care Provider Background Screening Clearinghouse.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The Agency for Health Care Administration in consultation with the Department of Law Enforcement shall create a secure web-based system, which shall be known as the “Care Provider Background Screening Clearinghouse” or “clearinghouse,” and which shall be implemented to the full extent practicable no later than September 30, 2013, subject to the specified agencies being funded and equipped to participate in such program. The clearinghouse shall allow the results of criminal history checks provided to the specified agencies for screening of persons qualified as care providers under s. 943.0542 to be shared among the specified agencies when a person has applied to volunteer, be employed, be licensed, or enter into a contract that requires a state and national fingerprint-based criminal history check. The Agency for Health Care Administration and the Department of Law Enforcement may adopt rules to create forms or implement procedures needed to carry out this section.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">To ensure that the information in the clearinghouse is current, the fingerprints of an employee required to be screened by a specified agency and included in the clearinghouse must be:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Retained by the Department of Law Enforcement pursuant to s. 943.05(2)(g) and (h) and (3), and the Department of Law Enforcement must report the results of searching those fingerprints against state incoming arrest fingerprint submissions to the Agency for Health Care Administration for inclusion in the clearinghouse.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Resubmitted for a Federal Bureau of Investigation national criminal history check every 5 years until such time as the fingerprints are retained by the Federal Bureau of Investigation.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Subject to retention on a 5-year renewal basis with fees collected at the time of initial submission or resubmission of fingerprints.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Until such time as the fingerprints are retained at the Federal Bureau of Investigation, an employee with a break in service of more than 90 days from a position that requires screening by a specified agency must submit to a national screening if the person returns to a position that requires screening by a specified agency.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">An employer of persons subject to screening by a specified agency must register with the clearinghouse and maintain the employment status of all employees within the clearinghouse. Initial employment status and any changes in status must be reported within 10 business days.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">An employee who has undergone a fingerprint-based criminal history check by a specified agency before the clearinghouse is operational is not required to be checked again solely for the purpose of entry in the clearinghouse. Every employee who is or will become subject to fingerprint-based criminal history checks to be eligible to be licensed, have their license renewed, or meet screening or rescreening requirements by a specified agency once the specified agency participates in the clearinghouse shall be subject to the requirements of this section with respect to entry of records in the clearinghouse and retention of fingerprints for reporting the results of searching against state incoming arrest fingerprint submissions.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 12, ch. 2012-73.</History>
+</Section>

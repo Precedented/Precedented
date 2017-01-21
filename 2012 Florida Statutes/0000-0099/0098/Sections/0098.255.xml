@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0098.255" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Voter education programs.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro"> The Department of State shall adopt rules prescribing minimum standards for nonpartisan voter education. The standards shall, at a minimum, address:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Voter registration;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Balloting procedures, absentee and polling place;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Voter rights and responsibilities;</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Distribution of sample ballots; and</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Public service announcements.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Each county supervisor shall implement the minimum voter education standards, and shall conduct additional nonpartisan education efforts as necessary to ensure that voters have a working knowledge of the voting process.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">By December 15 of each general election year, each supervisor of elections shall report to the Department of State a detailed description of the voter education programs implemented and any other information that may be useful in evaluating the effectiveness of voter education efforts.</Text>
+			<Text xml:space="preserve" Style="Indent"> The department shall reexamine the rules adopted pursuant to subsection (1) and use the findings in these reports as a basis for modifying the rules to incorporate successful voter education programs and techniques, as necessary.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 9, ch. 80-292; s. 1, ch. 83-16; s. 530, ch. 95-147; s. 59, ch. 2001-40; s. 35, ch. 2010-102.</History>
+</Section>

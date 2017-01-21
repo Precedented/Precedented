@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0440.42" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Insurance policies; liability.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Every policy or contract of insurance issued under authority of this chapter shall contain:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A provision to carry out the provisions of s. 440.41; and</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A provision that insolvency or bankruptcy of the employer and discharge therein shall not relieve the carrier from payment of compensation for disability or death sustained by an employee during the life of such policy or contract.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A workers’ compensation insurance policy may require the employer to release certain employment and wage information maintained by the state pursuant to federal and state reemployment assistance laws except to the extent prohibited or limited under federal law. By entering into a workers’ compensation insurance policy with such a provision, the employer consents to the release of the information. The insurance carrier requiring such consent shall safeguard the information and maintain its confidentiality. The carrier shall limit use of the information to verifying compliance with the terms of the workers’ compensation insurance policy. The department may charge a fee to cover the cost of disclosing the information.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">No contract or policy of insurance issued by a carrier under this chapter shall expire or be canceled until at least 30 days have elapsed after a notice of cancellation has been sent to the department and to the employer in accordance with the provisions of s. 440.185(7). For cancellation due to nonpayment of premium, the insurer shall mail notification to the employer at least 10 days prior to the effective date of the cancellation. However, when duplicate or dual coverage exists by reason of two different carriers having issued policies of insurance to the same employer securing the same liability, it shall be presumed that only that policy with the later effective date shall be in force and that the earlier policy terminated upon the effective date of the latter. In the event that both policies carry the same effective date, one of the policies may be canceled instanter upon filing a notice of cancellation with the department and serving a copy thereof upon the employer in such manner as the department prescribes by rule. The department may by rule prescribe the content of the notice of retroactive cancellation and specify the time, place, and manner in which the notice of cancellation is to be served.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">When there is any controversy as to which of two or more carriers is liable for the discharge of the obligations and duties of one or more employers with respect to a claim for compensation, remedial treatment, or other benefits under this chapter, the judge of compensation claims shall have jurisdiction to adjudicate such controversy; and if one of the carriers voluntarily or in compliance with a compensation order makes payments in discharge of such liability and it is finally determined that another carrier is liable for all or any part of such obligations and duties with respect to such claim, the carrier which has made payments either voluntarily or in compliance with a compensation order shall be entitled to reimbursement from the carrier finally determined liable, and the judge of compensation claims shall have jurisdiction to order such reimbursement; however, if the carrier finally determined liable can demonstrate that it has been prejudiced by lack of knowledge or notice of its potential liability, such reimbursement shall be only with respect to payments made after it had knowledge or notice of its potential liability.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 42, ch. 17481, 1935; CGL 1936 Supp. 5966(41); s. 11, ch. 29778, 1955; s. 3, ch. 57-225; s. 3, ch. 59-100; s. 1, ch. 65-204; ss. 17, 35, ch. 69-106; s. 1, ch. 73-185; s. 20, ch. 75-209; s. 23, ch. 78-300; ss. 32, 124, ch. 79-40; s. 21, ch. 79-312; s. 43, ch. 89-289; s. 56, ch. 90-201; s. 52, ch. 91-1; s. 12, ch. 91-46; s. 8, ch. 98-125; s. 10, ch. 98-174; s. 44, ch. 2002-194; s. 29, ch. 2003-412; s. 69, ch. 2012-30.</History>
+</Section>

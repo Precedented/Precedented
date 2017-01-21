@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0560.310" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Records of check cashers and foreign currency exchangers.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A licensee engaged in check cashing must maintain for the period specified in s. 560.1105 a copy of each payment instrument cashed.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the payment instrument exceeds $1,000, the following additional information must be maintained:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Customer files, as prescribed by rule, on all customers who cash corporate payment instruments that exceed $1,000.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A copy of the personal identification that bears a photograph of the customer used as identification and presented by the customer. Acceptable personal identification is limited to a valid driver license; a state identification card issued by any state of the United States or its territories or the District of Columbia, and showing a photograph and signature; a United States Government Resident Alien Identification Card; a passport; or a United States Military identification card.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A thumbprint of the customer taken by the licensee when the payment instrument is presented for negotiation or payment.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A payment instrument log that must be maintained electronically as prescribed by rule. For purposes of this paragraph, multiple payment instruments accepted from any one person on any given day which total $1,000 or more must be aggregated and reported on the log.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A licensee under this part may engage the services of a third party that is not a depository institution for the maintenance and storage of records required by this section if all the requirements of this section are met.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 3, ch. 94-238; s. 3, ch. 94-354; s. 13, ch. 2000-360; s. 724, ch. 2003-261; s. 65, ch. 2006-213; s. 42, ch. 2008-177; s. 7, ch. 2012-85.</History>
+</Section>

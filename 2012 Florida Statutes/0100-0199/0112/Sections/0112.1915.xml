@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0112.1915" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Teachers and school administrators; death benefits.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Any other provision of law to the contrary notwithstanding:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Employer” means the district school board.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“Teacher” means any instructional staff personnel as described in s. 1012.01(2).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“School administrator” means any school administrator as described in s. 1012.01(3).</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Teaching duties” means the actual performance of duties required by a teacher’s employment during his or her regularly scheduled working hours or irregular working hours as required or assigned by the employer.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“School administrator duties” means the actual performance of duties required by a school administrator’s employment during his or her regularly scheduled working hours or irregular working hours as required or assigned by the employer.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Beneficiary” means the person designated by the teacher or school administrator in writing, signed by the teacher or school administrator and delivered to the employer during the teacher’s or school administrator’s lifetime. If a beneficiary is not designated, the beneficiary is the teacher’s or school administrator’s estate.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">The benefits described in subsection (3) shall be provided when a teacher or school administrator is killed or injured and dies as a result of an unlawful and intentional act, provided that such killing or injury and death is the result of an act of violence inflicted by another person, and provided that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Such act is inflicted upon the teacher or school administrator while he or she is engaged in the performance of teaching duties or school administrator duties; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The motivation for such act is related in whole or in part to the fact that the individual is a teacher or school administrator.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If a teacher or school administrator dies under the conditions in subsection (2), benefits shall be provided as follows:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The sum of $75,000 shall be paid, whether secured by insurance or not, to the beneficiary. The payment shall be in addition to any other insurance, workers’ compensation, or pension benefits or other benefits that teacher or school administrator beneficiaries and dependents are entitled to under state or federal statutes and shall be exempt from the claims and demands of creditors of such teacher or school administrator, pursuant to s. 732.402(2)(d).</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The sum of $1,000 shall be paid, whether secured by insurance or not, to the beneficiary toward the funeral and burial expenses of such teacher or school administrator. The payment shall be in addition to any workers’ compensation or pension benefits or other benefits that teacher or school administrator beneficiaries and dependents are entitled to under state or federal statutes and shall be exempt from the claims and demands of creditors of such teacher or school administrator, pursuant to s. 732.402(2)(d).</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Payment of the entire health insurance premium for the school district’s health insurance plan shall continue for the teacher’s or school administrator’s surviving spouse until remarried, and for each dependent child of the teacher or school administrator until the child reaches the age of majority or until the end of the calendar year in which the child reaches the age of 25 if:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">At the time of the teacher’s or school administrator’s death, the child is dependent upon the teacher or school administrator for support; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">The surviving child continues to be dependent for support, or the surviving child is a full-time or part-time student and is dependent for support.</Text>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">The district school board that employed the teacher or school administrator who is killed shall pay the health insurance premiums. The district school board shall report annually to the Department of Education the amount of premiums paid pursuant to this paragraph. The Department of Education shall provide reimbursement to the district for the premium payments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Waiver of certain educational expenses which children of the deceased teacher or school administrator incur while obtaining a career certificate or an undergraduate education shall be according to conditions set forth in this paragraph. The amount waived by the state shall be an amount equal to the cost of tuition and matriculation and registration fees for a total of 120 credit hours at a university. The child may attend a state career center, a state community college, or a state university. The child may attend any or all of the institutions specified in this paragraph, on either a full-time or part-time basis. The benefits provided under this paragraph shall continue to the child until the child’s 25th birthday.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Upon failure of any child benefited by the provisions of this paragraph to comply with the ordinary and minimum requirements of the institution attended, both as to discipline and scholarship, the benefits shall be withdrawn as to the child and no further moneys may be expended for the child’s benefits so long as such failure or delinquency continues.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A student who becomes eligible for benefits under the provisions of this paragraph while enrolled in an institution must be in good standing with the institution to receive the benefits provided herein.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">A child receiving benefits under this paragraph must be enrolled according to the customary rules and requirements of the institution attended.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">State funding shall be provided annually in the General Appropriations Act.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">ss. 2, 5, ch. 2001-180; s. 893, ch. 2002-387; s. 24, ch. 2004-295; s. 18, ch. 2004-357; s. 34, ch. 2012-116.</History>
+</Section>

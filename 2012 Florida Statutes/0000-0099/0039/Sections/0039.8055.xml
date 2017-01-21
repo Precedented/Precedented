@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0039.8055" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Requirement to file a petition to terminate parental rights; exceptions.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The department shall file a petition to terminate parental rights within 60 days after any of the following if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The child is not returned to the physical custody of the parents 12 months after the child was sheltered or adjudicated dependent, whichever occurs first;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">A petition for termination of parental rights has not otherwise been filed, and the child has been in out-of-home care under the responsibility of the state for 12 of the most recent 22 months, calculated on a cumulative basis, but not including any trial home visits or time during which the child was a runaway;</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">A parent has been convicted of the murder, manslaughter, aiding or abetting the murder, or conspiracy or solicitation to murder the other parent or another child of the parent, or a felony battery that resulted in serious bodily injury to the child or to another child of the parent; or</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A court determines that reasonable efforts to reunify the child and parent are not required.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding subsection (1), the department may choose not to file or join in a petition to terminate the parental rights of a parent if:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The child is being cared for by a relative under s. 39.6231; or</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The department has documented in the report to the court a compelling reason for determining that filing such a petition is not in the best interests of the child. Compelling reasons for not filing or joining a petition to terminate parental rights may include, but are not limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Adoption is not the appropriate permanency goal for the child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">No grounds to file a petition to terminate parental rights exist.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The child is an unaccompanied refugee minor as defined in 45 C.F.R. s. 400.111.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">There are international legal obligations or compelling foreign-policy reasons that would preclude terminating parental rights.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The department has not provided to the family, consistent with the time period in the case plan, services that the department deems necessary for the safe return of the child to the home.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Upon good cause shown by any party or on its own motion, the court may review the decision by the department that compelling reasons exist for not filing or joining a petition for termination of parental rights.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 24, ch. 2006-86; s. 15, ch. 2008-245; s. 14, ch. 2012-178.</History>
+</Section>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section xmlns="http://StatRev.xsd" Number="0733.1061">
+	<Catchline xml:space="preserve">Fees and costs; will reformation and modification.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">In a proceeding arising under s. 732.615 or s. 732.616, the court shall award taxable costs as in chancery actions, including attorney’s fees and guardian ad litem fees.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">When awarding taxable costs, including attorney’s fees and guardian ad litem fees, under this section, the court in its discretion may direct payment from a party’s interest, if any, in the estate or enter a judgment which may be satisfied from other property of the party, or both.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 2011-183.</History>
+</Section>

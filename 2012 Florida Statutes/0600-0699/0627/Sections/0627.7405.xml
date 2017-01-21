@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0627.7405" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Insurers’ right of reimbursement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Notwithstanding ss. 627.730-627.7405, an insurer providing personal injury protection benefits on a private passenger motor vehicle shall have, to the extent of any personal injury protection benefits paid to any person as a benefit arising out of such private passenger motor vehicle insurance, a right of reimbursement against the owner or the insurer of the owner of a commercial motor vehicle, if the benefits paid result from such person having been an occupant of the commercial motor vehicle or having been struck by the commercial motor vehicle while not an occupant of any self-propelled vehicle.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Reference Number="1"/>
+			<Text xml:space="preserve" Style="Intro">The insurer’s right of reimbursement under this section does not apply to an owner or registrant as identified in s. 627.733(1)(b).</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 7, ch. 78-374; s. 2, ch. 81-318; ss. 558, 563, ch. 82-243; s. 19, ch. 2003-411; s. 18, ch. 2007-324; s. 18, ch. 2012-151; s. 12, ch. 2012-197.</History>
+	<Note Reference="1">
+		<Text xml:space="preserve" Style="Intro">As created by s. 12, ch. 2012-197. For a description of multiple acts in the same session affecting a statutory provision, <Font xml:space="preserve" Style="Italic">see</Font> preface to the <Font xml:space="preserve" Style="Italic">Florida Statutes</Font>, “Statutory Construction.” Subsection (2) was also created by s. 18, ch. 2012-151, and that version reads:</Text>
+		<Text xml:space="preserve" Style="Indent">(2) For purposes of this section, no owner or registrant identified in s. 627.733(1)(b) shall be liable for right of reimbursement.</Text>
+	</Note>
+</Section>

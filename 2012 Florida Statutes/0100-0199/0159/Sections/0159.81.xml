@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0159.81" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Unused allocations; carryforwards.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">The division shall, when requested, provide carryforwards pursuant to s. 146(f) of the Code for written confirmations for priority projects which qualify for a carryforward pursuant to s. 146(f) of the Code, if such request is accompanied by an opinion of bond counsel to that effect. In addition, in the case of Florida First Business projects, the division shall, when requested, grant requests for carryforward only after receipt of a certification from the Department of Economic Opportunity that the project has been approved by the department to receive carryforward.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">On December 30 of any year, any amount of the state volume limitation not used prior to December 30 to issue bonds as evidenced by receipt by the division of the issuance report, except for that amount of the state volume limitation utilized pursuant to subsection (1) above, shall be applied in the following order of priority:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">If bonds to finance a project for which a notice of intent to issue was filed prior to December 30 are entitled under federal law to a carryforward of state volume limitation past the end of the calendar year, and the request for a carryforward is accompanied by an opinion of bond counsel to that effect, then:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">If such bonds have a valid allocation on December 30, such allocation shall not lapse and will be carried forward for issuance of bonds as permitted by applicable federal law; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">If no written confirmation was issued for the bonds prior to December 30, then notices of intent to issue meeting the requirements of this section and s. 159.805(1) shall be granted carryforward allocations in the order provided for in s. 159.805 until the total amount of unused state volume limitation is exhausted. Notices of intent to issue in excess of remaining state volume limitation shall not receive any priority in the following calendar year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Thereafter, the Florida Housing Finance Corporation shall use any remaining state volume limitation to issue bonds or carryforward allocation for the issuance of housing bonds.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Then, any remaining state volume limitation not used as provided in paragraph (b) above shall be carried forward to the next calendar year to the extent permitted by the Code.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Then, any amounts not allocated or carried forward shall be reserved for use by the Florida Housing Finance Corporation for mortgage credit certificates, as defined in s. 25 of the Code, to be used in subsequent years as provided by the Code.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">If, during the year, the division receives an annual activity report regarding the issuance or nonissuance of mortgage credit certificates under s. 159.8075(4), or if the election to issue mortgage credit certificates is received by the division on December 29, the private activity bond allocation for any unissued mortgage credit certificates allocated to such issuer must be given an automatic carryforward by the division.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 85-282; s. 8, ch. 87-222; s. 5, ch. 96-210; s. 25, ch. 2000-151; s. 7, ch. 2000-353; s. 4, ch. 2012-96.</History>
+</Section>

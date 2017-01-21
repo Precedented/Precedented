@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0684.0021" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Specific regime for preliminary orders.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Immediately after the arbitral tribunal makes a determination in respect of an application for a preliminary order, the arbitral tribunal shall give notice to all parties of the request for the interim measure, the application for the preliminary order, the preliminary order, if any, and all other communications. The notice shall include a description of the content of any oral communication between any party and the arbitral tribunal in relation to any such request or application.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At the same time, the arbitral tribunal shall give an opportunity to any party against whom a preliminary order is directed to present its case at the earliest practicable time.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The arbitral tribunal must decide promptly on any objection to the preliminary order.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">A preliminary order expires 20 days after the date on which it was issued by the arbitral tribunal. However, the arbitral tribunal may issue an interim measure adopting or modifying the preliminary order after the party against whom the preliminary order is directed is given notice and an opportunity to present its case.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">A preliminary order is binding on the parties but is not enforceable by a court. Such a preliminary order does not constitute an award.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 22, ch. 2010-60.</History>
+</Section>

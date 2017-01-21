@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0713.13" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Notice of commencement.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except for an improvement that is exempt pursuant to s. 713.02(5), an owner or the owner’s authorized agent before actually commencing to improve any real property, or recommencing completion of any improvement after default or abandonment, whether or not a project has a payment bond complying with s. 713.23, shall record a notice of commencement in the clerk’s office and forthwith post either a certified copy thereof or a notarized statement that the notice of commencement has been filed for recording along with a copy thereof. The notice of commencement shall contain the following information:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">A description sufficient for identification of the real property to be improved. The description should include the legal description of the property and also should include the street address and tax folio number of the property if available or, if there is no street address available, such additional information as will describe the physical location of the real property to be improved.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">A general description of the improvement.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The name and address of the owner, the owner’s interest in the site of the improvement, and the name and address of the fee simple titleholder, if other than such owner. A lessee who contracts for the improvements is an owner as defined under s. 713.01(23) and must be listed as the owner together with a statement that the ownership interest is a leasehold interest.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">The name and address of the contractor.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">The name and address of the surety on the payment bond under s. 713.23, if any, and the amount of such bond.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">The name and address of any person making a loan for the construction of the improvements.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">The name and address within the state of a person other than himself or herself who may be designated by the owner as the person upon whom notices or other documents may be served under this part; and service upon the person so designated constitutes service upon the owner.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The owner, at his or her option, may designate a person in addition to himself or herself to receive a copy of the lienor’s notice as provided in s. 713.06(2)(b), and if he or she does so, the name and address of such person must be included in the notice of commencement.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">If the contract between the owner and a contractor named in the notice of commencement expresses a period of time for completion for the construction of the improvement greater than 1 year, the notice of commencement must state that it is effective for a period of 1 year plus any additional period of time. Any payments made by the owner after the expiration of the notice of commencement are considered improper payments.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">A notice of commencement must be in substantially the following form:</Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">Permit No.<HorizontalRule Type="Fixed" /><FlushRight />Tax Folio No.<HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="AlignCenter">NOTICE OF COMMENCEMENT</Text>
+				<Text xml:space="preserve" Style="Flush">State of<HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Flush">County of<HorizontalRule Type="Fixed" /></Text>
+				<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The undersigned hereby gives notice that improvement will be made to certain real property, and in accordance with Chapter 713, Florida Statutes, the following information is provided in this Notice of Commencement.</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Description of property: <Directions xml:space="preserve">(legal description of the property, and street address if available)</Directions>.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">General description of improvement:<HorizontalRule Type="Fixed" />.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Owner information or Lessee information if the Lessee contracted for the improvement:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Name and address:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Interest in property:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Name and address of fee simple titleholder (if different from Owner listed above):<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Contractor: <Directions xml:space="preserve">(name and address)</Directions>.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Contractor’s phone number:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Surety (if applicable, a copy of the payment bond is attached):</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Name and address:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Phone number:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">Amount of bond: $<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Lender: <Directions xml:space="preserve">(name and address)</Directions>.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Lender’s phone number:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Persons within the State of Florida designated by Owner upon whom notices or other documents may be served as provided by Section 713.13(1)(a)7., Florida Statutes:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Name and address:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Phone numbers of designated persons:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="8">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">In addition to himself or herself, Owner designates <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> of <HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /> to receive a copy of the Lienor’s Notice as provided in Section 713.13(1)(b), Florida Statutes.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Phone number of person or entity designated by owner:<HorizontalRule Type="Fixed" />.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="9">
+					<Text xml:space="preserve" Style="Intro">Expiration date of notice of commencement (the expiration date will be 1 year from the date of recording unless a different date is specified)<HorizontalRule Type="Fixed" />.</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">WARNING TO OWNER: ANY PAYMENTS MADE BY THE OWNER AFTER THE EXPIRATION OF THE NOTICE OF COMMENCEMENT ARE CONSIDERED IMPROPER PAYMENTS UNDER CHAPTER 713, PART I, SECTION 713.13, FLORIDA STATUTES, AND CAN RESULT IN YOUR PAYING TWICE FOR IMPROVEMENTS TO YOUR PROPERTY. A NOTICE OF COMMENCEMENT MUST BE RECORDED AND POSTED ON THE JOB SITE BEFORE THE FIRST INSPECTION. IF YOU INTEND TO OBTAIN FINANCING, CONSULT WITH YOUR LENDER OR AN ATTORNEY BEFORE COMMENCING WORK OR RECORDING YOUR NOTICE OF COMMENCEMENT.</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Signature of Owner or Lessee, or Owner’s or Lessee’s Authorized Officer/Director/Partner/Manager)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Signatory’s Title/Office)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true">The foregoing instrument was acknowledged before me this <HorizontalRule Type="Fixed" /> day of <HorizontalRule Type="Fixed" />, <Directions xml:space="preserve">(year)</Directions>, by <Directions xml:space="preserve">(name of person)</Directions> as <Directions xml:space="preserve">(type of authority, . . . e.g. officer, trustee, attorney in fact)</Directions> for <Directions xml:space="preserve">(name of party on behalf of whom instrument was executed)</Directions>.</Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Signature of Notary Public - State of Florida)</Directions></Text>
+					<Text xml:space="preserve" Style="Flush" SpaceAbove="true"><Directions xml:space="preserve">(Print, Type, or Stamp Commissioned Name of Notary Public)</Directions></Text>
+					<Text xml:space="preserve" Style="Indent" SpaceAbove="true">Personally Known <HorizontalRule Type="Fixed" /> OR Produced Identification <HorizontalRule Type="Fixed" /></Text>
+					<Text xml:space="preserve" Style="Indent" SpaceAbove="true" SpaceBelow="true">Type of Identification Produced<HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /><HorizontalRule Type="Fixed" /></Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro" SpaceAbove="true">A copy of any payment bond must be attached at the time of recordation of the notice of commencement. The failure to attach a copy of the bond to the notice of commencement when the notice is recorded negates the exemption provided in s. 713.02(6). However, if a payment bond under s. 713.23 exists but was not attached at the time of recordation of the notice of commencement, the bond may be used to transfer any recorded lien of a lienor except that of the contractor by the recordation and service of a notice of bond pursuant to s. 713.23(2). The notice requirements of s. 713.23 apply to any claim against the bond; however, the time limits for serving any required notices shall, at the option of the lienor, be calculated from the dates specified in s. 713.23 or the date the notice of bond is served on the lienor.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">The giving of a notice of commencement is effective upon the filing of the notice in the clerk’s office.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">The owner must sign the notice of commencement and no one else may be permitted to sign in his or her stead.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If the improvement described in the notice of commencement is not actually commenced within 90 days after the recording thereof, such notice is void and of no further effect.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The recording of a notice of commencement does not constitute a lien, cloud, or encumbrance on real property, but gives constructive notice that claims of lien under this part may be recorded and may take priority as provided in s. 713.07. The posting of a copy does not constitute a lien, cloud, or encumbrance on real property, nor actual or constructive notice of any of them.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to an owner who is constructing improvements described in s. 713.04.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">A notice of commencement that is recorded within the effective period may be amended to extend the effective period, change erroneous information in the original notice, or add information that was omitted from the original notice. However, in order to change contractors, a new notice of commencement or notice of recommencement must be executed and recorded.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The amended notice must identify the official records book and page where the original notice of commencement is recorded, and a copy of the amended notice must be served by the owner upon the contractor and each lienor who serves notice before or within 30 days after the date the amended notice is recorded.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">Unless otherwise provided in the notice of commencement or a new or amended notice of commencement, a notice of commencement is not effectual in law or equity against a conveyance, transfer, or mortgage of or lien on the real property described in the notice, or against creditors or subsequent purchasers for a valuable consideration, after 1 year after the date of recording the notice of commencement.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">A lender must, prior to the disbursement of any construction funds to the contractor, record the notice of commencement in the clerk’s office as required by this section; however, the lender is not required to post a certified copy of the notice at the construction site. The posting of the notice at the construction site remains the owner’s obligation. The failure of a lender to record the notice of commencement as required by this subsection renders the lender liable to the owner for all damages sustained by the owner as a result of the failure. Whenever a lender is required to record a notice of commencement, the lender shall designate the lender, in addition to others, to receive copies of notices to owner. This subsection does not give any person other than the owner a claim or right of action against a lender for failure to record a notice of commencement.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 1, ch. 63-135; s. 9, ch. 65-456; s. 35, ch. 67-254; s. 14, ch. 77-353; s. 7, ch. 80-97; s. 4, ch. 88-397; s. 6, ch. 90-109; s. 2, ch. 91-102; s. 4, ch. 96-383; s. 1766, ch. 97-102; s. 14, ch. 98-246; s. 6, ch. 2001-211; s. 9, ch. 2005-227; s. 8, ch. 2007-221; s. 2, ch. 2011-212; s. 5, ch. 2012-211.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 84.131.</Text>
+	</Note>
+</Section>

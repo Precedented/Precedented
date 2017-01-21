@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0443.1115" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Extended benefits.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">DEFINITIONS.<EmDash />As used in this section, the term:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">“Extended benefit period” means a period that:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Begins with the third week after a week for which there is a state “on” indicator; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Ends with either of the following weeks, whichever occurs later:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The third week after the first week for which there is a state “off” indicator; or</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The 13th consecutive week of that period.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<Text xml:space="preserve" Style="Reversion">However, an extended benefit period may not begin by reason of a state “on” indicator before the 14th week after the end of a prior extended benefit period that was in effect for this state.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">“State ‘on’ indicator” means the occurrence of a week in which the rate of insured unemployment under state law, not seasonally adjusted, for the period consisting of that week and the 12 weeks immediately preceding it:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 120 percent of the average of those rates for the corresponding 13-week period ending in each of the preceding 2 calendar years; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Equals or exceeds 5 percent.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">“State ‘off’ indicator” means the occurrence of a week in which there is no state “on” indicator.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">“Rate of insured unemployment” means the percentage derived by dividing the average weekly number of individuals filing claims for regular compensation in this state, excluding extended-benefit claimants for weeks of unemployment with respect to the most recent 13-consecutive-week period, as determined by the Department of Economic Opportunity on the basis of its reports to the United States Secretary of Labor, by the average monthly employment covered under this chapter for the first four of the most recent six completed calendar quarters ending before the end of that 13-week period.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">“Regular benefits” means benefits payable to an individual under this chapter or under any other state law, including benefits payable to federal civilian employees and to ex-servicemembers under 5 U.S.C. ss. 8501-8525, other than extended benefits.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">“Extended benefits” means benefits, including benefits payable to federal civilian employees and to ex-servicemembers under 5 U.S.C. ss. 8501-8525, payable to an individual under this section for weeks of unemployment in her or his eligibility period.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">“Eligibility period” means the period consisting of the weeks in her or his benefit year which begin in an extended benefit period and, if her or his benefit year ends within that extended benefit period, any subsequent weeks beginning in that period.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">“Exhaustee” means an individual who, for any week of unemployment in her or his eligibility period:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Has received, before that week, all of the regular benefits available to her or him under this chapter or any other state law, including dependents’ allowances and benefits payable to federal civilian employees and ex-servicemembers under 5 U.S.C. ss. 8501-8525, in her or his current benefit year that includes that week. For the purposes of this paragraph, an individual has received all of the regular benefits available to her or him although, as a result of a pending appeal for wages paid for insured work which were not considered in the original monetary determination in her or his benefit year, she or he may subsequently be determined to be entitled to added regular benefits;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Her or his benefit year having expired before that week, was paid no, or insufficient, wages for insured work on the basis of which she or he could establish a new benefit year that includes that week; and</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Has no right to unemployment benefits or allowances under the Railroad Unemployment Insurance Act or other federal laws as specified in regulations issued by the United States Secretary of Labor; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">Has not received and is not seeking unemployment benefits under the unemployment compensation law of Canada; but if she or he is seeking those benefits and the appropriate agency finally determines that she or he is not entitled to benefits under that law, she or he is considered an exhaustee.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">REGULAR BENEFITS ON CLAIMS FOR, AND THE PAYMENT OF, EXTENDED BENEFITS.<EmDash />Except when the result is inconsistent with the other provisions of this section and as provided in the rules of the Department of Economic Opportunity, the provisions of this chapter applying to claims for, or the payment of, regular benefits apply to claims for, and the payment of, extended benefits. These extended benefits are charged to the employment records of employers to the extent that the share of those extended benefits paid from this state’s Unemployment Compensation Trust Fund is not eligible to be reimbursed from federal sources.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">ELIGIBILITY REQUIREMENTS FOR EXTENDED BENEFITS.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">An individual is eligible to receive extended benefits for any week of unemployment in her or his eligibility period only if the Department of Economic Opportunity finds that, for that week:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">She or he is an exhaustee as defined in subsection (1).</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">She or he satisfies the requirements of this chapter for the receipt of regular benefits applicable to individuals claiming extended benefits, including not being subject to disqualification from the receipt of benefits. An individual disqualified from receiving regular benefits may not receive extended benefits after the disqualification period terminates if he or she was disqualified for voluntarily leaving work, being discharged from work for misconduct, or refusing suitable work. However, if the disqualification period for regular benefits terminates because the individual received the required amount of remuneration for services rendered as a common-law employee, she or he may receive extended benefits.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">The individual was paid wages for insured work for the applicable benefit year equal to 1.5 times the high quarter earnings during the base period.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Except as provided in subparagraph 2., an individual is not eligible for extended benefits for any week if:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">Extended benefits are payable for the week pursuant to an interstate claim filed in any state under the interstate benefit payment plan; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">An extended benefit period is not in effect for the week in the other state.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">This paragraph does not apply with respect to the first 2 weeks for which extended benefits are payable, pursuant to an interstate claim filed under the interstate benefit payment plan, to the individual from the extended benefit account established for the individual for the benefit year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="c">
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">An individual is disqualified from receiving extended benefits if the department finds that, during any week of unemployment in her or his eligibility period:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">She or he failed to apply for suitable work or, if offered, failed to accept suitable work, unless the individual can furnish to the department satisfactory evidence that her or his prospects for obtaining work in her or his customary occupation within a reasonably short period are good. If this evidence is deemed satisfactory for this purpose, the determination of whether any work is suitable for the individual shall be made in accordance with the definition of suitable work in s. 443.101(2). This disqualification begins with the week the failure occurred and continues until she or he is employed for at least 4 weeks and receives earned income of at least 17 times her or his weekly benefit amount.</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">She or he failed to furnish tangible evidence that she or he actively engaged in a systematic and sustained effort to find work. This disqualification begins with the week the failure occurred and continues until she or he is employed for at least 4 weeks and receives earned income of at least 4 times her or his weekly benefit amount.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Except as otherwise provided in sub-subparagraph 1.a., as used in this paragraph, the term “suitable work” means any work within the individual’s capabilities to perform, if:</Text>
+					<SubSubParagraph Id="a">
+						<Text xml:space="preserve" Style="Intro">The gross average weekly remuneration payable for the work exceeds the sum of the individual’s weekly benefit amount plus the amount, if any, of supplemental unemployment benefits, as defined in s. 501(c)(17)(D) of the Internal Revenue Code of 1954, as amended, payable to the individual for that week;</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="b">
+						<Text xml:space="preserve" Style="Intro">The wages payable for the work equal the higher of the minimum wages provided by s. 6(a)(1) of the Fair Labor Standards Act of 1938, without regard to any exemption, or the state or local minimum wage; and</Text>
+					</SubSubParagraph>
+					<SubSubParagraph Id="c">
+						<Text xml:space="preserve" Style="Intro">The work otherwise meets the definition of suitable work in s. 443.101(2) to the extent that the criteria for suitability are not inconsistent with this paragraph.</Text>
+					</SubSubParagraph>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">However, notwithstanding paragraph (c), or any other provision of this chapter, an individual who is in training approved under s. 236(a)(1) of the Trade Act of 1974, as amended, may not be determined to be ineligible or disqualified for extended benefits for her or his enrollment in training or because of leaving work that is not suitable employment to enter such training. As used in this paragraph, the term “suitable employment” means work of a substantially equal or higher skill level than the worker’s past adversely affected employment, as defined for purposes of the Trade Act of 1974, as amended, the wages for which are at least 80 percent of the worker’s average weekly wage, as determined for purposes of the Trade Act of 1974, as amended.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">WEEKLY EXTENDED BENEFIT AMOUNT.<EmDash />The weekly extended benefit amount payable to an individual for a week of total unemployment in her or his eligibility period is equal to the weekly benefit amount payable to her or him during her or his applicable benefit year. For any individual who is paid benefits during the applicable benefit year in accordance with more than one weekly benefit amount, the weekly extended benefit amount is the average of those weekly benefit amounts.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">TOTAL EXTENDED BENEFIT AMOUNT.<EmDash /></Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Except as provided in paragraph (b), the total extended benefit amount payable to an eligible individual for her or his applicable benefit year is the lesser of:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Fifty percent of the total regular benefits payable to her or him under this chapter in her or his applicable benefit year; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Thirteen times her or his weekly benefit amount payable to her or him under this chapter for a week of total unemployment in the applicable benefit year.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Notwithstanding any other provision of this chapter, if the benefit year of an individual ends within an extended benefit period, the number of weeks of extended benefits the individual is entitled to receive in that extended benefit period for weeks of unemployment beginning after the end of the benefit year, except as provided in this subsection, is reduced, but not to below zero, by the number of weeks for which the individual received, within that benefit year, trade readjustment allowances under the Trade Act of 1974, as amended.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">COMPUTATIONS.<EmDash />The Department of Economic Opportunity shall perform the computations required under paragraph (1)(d) in accordance with regulations of the United States Secretary of Labor.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">RECOVERY OF OVERPAYMENTS UNDER THE TRADE ACT OF 1974, AS AMENDED.<EmDash />If the state, a cooperating state agency, the United States Secretary of Labor, or a court of competent jurisdiction finds that a person has received payments under the Trade Act of 1974, as amended, to which the person was not entitled, the sum of those payments shall be deducted from the extended benefits payable to that person under this section, except that each single deduction under this subsection may not exceed 50 percent of the amount otherwise payable. The amounts deducted must be paid to the agency that issued the payments under the Trade Act of 1974, as amended, for return to the United States Treasury. However, except for overpayments determined by a court of competent jurisdiction, a deduction may not be made under this subsection until a determination by the state agency or the United States Secretary of Labor is final.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 26, ch. 2003-36; s. 360, ch. 2011-142.</History>
+</Section>

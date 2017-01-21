@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0634.136" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Office records required.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">Each licensed motor vehicle service contract company, as a minimum requirement for permanent office records, shall maintain:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">A complete set of accounting records, including, but not limited to, a general ledger, cash receipts and disbursements journals, accounts receivable registers, and accounts payable registers.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A detailed service agreement register, in numerical order by service agreement number, of agreements in force, which register shall include the following information: service agreement number, date of issue, issuing dealer, name of agreement holder, whether the agreement is covered by contractual liability insurance or the unearned premium reserve account, description of motor vehicle, service agreement period and mileage, gross premium, commission to salespersons, commission to dealer, and net premium.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A detailed claims register, in numerical order by service agreement number, which register shall include the following information: service agreement number, date of issue, date of claim, type of claim, issuing dealer, amount of claim, date claim paid, and, if applicable, disposition other than payment and reason therefor.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 78-231; s. 2, ch. 81-318; ss. 15, 32, 33, ch. 82-234; s. 68, ch. 91-106; s. 20, ch. 93-195; s. 458, ch. 97-102; s. 3, ch. 2005-258; s. 38, ch. 2010-175.</History>
+</Section>

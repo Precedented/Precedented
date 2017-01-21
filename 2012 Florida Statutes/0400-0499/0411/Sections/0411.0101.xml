@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0411.0101" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Child care and early childhood resource and referral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">As a part of the school readiness programs, the Office of Early Learning shall establish a statewide child care resource and referral network that is unbiased and provides referrals to families for child care. Preference shall be given to using the already established early learning coalitions as the child care resource and referral agencies. If an early learning coalition cannot comply with the requirements to offer the resource information component or does not want to offer that service, the early learning coalition shall select the resource and referral agency for its county or multicounty region based upon a request for proposal pursuant to s. 411.01(5)(e)1.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">At least one child care resource and referral agency must be established in each early learning coalition’s county or multicounty region. The Office of Early Learning shall adopt rules regarding accessibility of child care resource and referral services offered through child care resource and referral agencies in each county or multicounty region which include, at a minimum, required hours of operation, methods by which parents may request services, and child care resource and referral staff training requirements.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Child care resource and referral agencies shall provide the following services:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Identification of existing public and private child care and early childhood education services, including child care services by public and private employers, and the development of a resource file of those services through the single statewide information system developed by the Office of Early Learning under s. 411.01(5)(c)1.e. These services may include family day care, public and private child care programs, the Voluntary Prekindergarten Education Program, Head Start, the school readiness program, special education programs for prekindergarten children with disabilities, services for children with developmental disabilities, full-time and part-time programs, before-school and after-school programs, vacation care programs, parent education, the Temporary Cash Assistance Program, and related family support services. The resource file shall include, but not be limited to:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Type of program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Hours of service.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Ages of children served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Number of children served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Significant program information.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Fees and eligibility for services.</Text>
+				</SubParagraph>
+				<SubParagraph Id="7">
+					<Text xml:space="preserve" Style="Intro">Availability of transportation.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The establishment of a referral process that responds to parental need for information and that is provided with full recognition of the confidentiality rights of parents. The resource and referral network shall make referrals to legally operating child care facilities. Referrals may not be made to a child care facility that is operating illegally.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Maintenance of ongoing documentation of requests for service tabulated through the internal referral process through the single statewide information system. The following documentation of requests for service shall be maintained by the child care resource and referral network:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Number of calls and contacts to the child care resource information and referral network component by type of service requested.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Ages of children for whom service was requested.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Time category of child care requests for each child.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Special time category, such as nights, weekends, and swing shift.</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Reason that the child care is needed.</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Name of the employer and primary focus of the business.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Provision of technical assistance to existing and potential providers of child care services. This assistance may include:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Information on initiating new child care services, zoning, and program and budget development and assistance in finding such information from other sources.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Information and resources which help existing child care services providers to maximize their ability to serve children and parents in their community.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Information and incentives that may help existing or planned child care services offered by public or private employers seeking to maximize their ability to serve the children of their working parent employees in their community, through contractual or other funding arrangements with businesses.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Assistance to families and employers in applying for various sources of subsidy including, but not limited to, the Voluntary Prekindergarten Education Program, the school readiness program, Head Start, Project Independence, private scholarships, and the federal child and dependent care tax credit.</Text>
+			</Paragraph>
+			<Paragraph Id="f">
+				<Text xml:space="preserve" Style="Intro">Assistance in negotiating discounts or other special arrangements with child care providers.</Text>
+			</Paragraph>
+			<Paragraph Id="g">
+				<Text xml:space="preserve" Style="Intro">Assistance to families in identifying summer recreation camp and summer day camp programs, evaluating the health and safety qualities of summer recreation camp and summer day camp programs, and evaluating the health and safety qualities of summer camp programs. Contingent upon specific appropriation, a checklist of important health and safety qualities that parents can use to choose their summer camp programs shall be developed and distributed in a manner that will reach parents interested in such programs for their children.</Text>
+			</Paragraph>
+			<Paragraph Id="h">
+				<Text xml:space="preserve" Style="Intro">A child care facility licensed under s. 402.305 and licensed and registered family day care homes must provide the statewide child care and resource and referral network with the following information annually:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Type of program.</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Hours of service.</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Ages of children served.</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Fees and eligibility for services.</Text>
+				</SubParagraph>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">The Office of Early Learning shall adopt any rules necessary for the implementation and administration of this section.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 5, ch. 89-379; s. 6, ch. 91-300; s. 71, ch. 96-175; s. 143, ch. 99-8; s. 13, ch. 2000-253; s. 3, ch. 2008-196; s. 13, ch. 2010-209; s. 18, ch. 2010-210; s. 306, ch. 2011-142.</History>
+	<Note>
+		<Text xml:space="preserve" Style="Intro">Former s. 402.27.</Text>
+	</Note>
+</Section>

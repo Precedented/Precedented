@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.122" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Lien of taxes; application.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">All taxes imposed pursuant to the State Constitution and laws of this state shall be a first lien, superior to all other liens, on any property against which the taxes have been assessed and shall continue in full force from January 1 of the year the taxes were levied until discharged by payment or until barred under chapter 95. If the property to which the lien applies cannot be located in the county or the sale of the property is insufficient to pay all delinquent taxes, interest, fees, and costs due, a personal property tax lien applies against all other personal property of the taxpayer in the county. However, a lien against other personal property does not apply against property that has been sold and is subordinate to any valid prior or subsequent liens against such other property. An act of omission or commission on the part of a property appraiser, tax collector, board of county commissioners, clerk of the circuit court, or county comptroller, or their deputies or assistants, or newspaper in which an advertisement of sale may be published does not defeat the payment of taxes, interest, fees, and costs due and may be corrected at any time by the party responsible in the same manner as provided by law for performing acts in the first place. Amounts so corrected shall be deemed to be valid ab initio and do not affect the collection of the tax. All owners of property are held to know that taxes are due and payable annually and are responsible for ascertaining the amount of current and delinquent taxes and paying them before April 1 of the year following the year in which taxes are assessed. A sale or conveyance of real or personal property for nonpayment of taxes may not be held invalid except upon proof that:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">The property was not subject to taxation;</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The taxes were paid before the sale of personal property; or</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">The real property was redeemed before receipt by the clerk of the court of full payment for a deed based upon a certificate issued for nonpayment of taxes, including all recording fees and documentary stamps.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">A lien created through the sale of a tax certificate may not be foreclosed or enforced in any manner except as prescribed in this chapter.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">A property appraiser may also correct a material mistake of fact relating to an essential condition of the subject property to reduce an assessment if to do so requires only the exercise of judgment as to the effect of the mistake of fact on the assessed or taxable value of the property.</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">As used in this subsection, the term “an essential condition of the subject property” means a characteristic of the subject parcel, including only:</Text>
+				<SubParagraph Id="1">
+					<Text xml:space="preserve" Style="Intro">Environmental restrictions, zoning restrictions, or restrictions on permissible use;</Text>
+				</SubParagraph>
+				<SubParagraph Id="2">
+					<Text xml:space="preserve" Style="Intro">Acreage;</Text>
+				</SubParagraph>
+				<SubParagraph Id="3">
+					<Text xml:space="preserve" Style="Intro">Wetlands or other environmental lands that are or have been restricted in use because of such environmental features;</Text>
+				</SubParagraph>
+				<SubParagraph Id="4">
+					<Text xml:space="preserve" Style="Intro">Access to usable land;</Text>
+				</SubParagraph>
+				<SubParagraph Id="5">
+					<Text xml:space="preserve" Style="Intro">Any characteristic of the subject parcel which, in the property appraiser’s opinion, caused the appraisal to be clearly erroneous; or</Text>
+				</SubParagraph>
+				<SubParagraph Id="6">
+					<Text xml:space="preserve" Style="Intro">Depreciation of the property that was based on a latent defect of the property which existed but was not readily discernible by inspection on January 1, but not depreciation from any other cause.</Text>
+				</SubParagraph>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">The material mistake of fact may be corrected by the property appraiser, in the same manner as provided by law for performing the act in the first place only within 1 year after the approval of the tax roll pursuant to s. 193.1142. If corrected, the tax roll becomes valid ab initio and does not affect the enforcement of the collection of the tax. If the correction results in a refund of taxes paid on the basis of an erroneous assessment included on the current year’s tax roll, the property appraiser may request the department to pass upon the refund request pursuant to s. 197.182 or may submit the correction and refund order directly to the tax collector in accordance with the notice provisions of s. 197.182(2). Corrections to tax rolls for previous years which result in refunds must be made pursuant to s. 197.182.</Text>
+			</Paragraph>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 129, ch. 85-342; s. 11, ch. 88-216; s. 9, ch. 91-295; s. 6, ch. 92-32; s. 1, ch. 98-167; s. 3, ch. 2011-151.</History>
+</Section>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.4725" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Purchase of county-held tax certificates.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">Any person may purchase a county-held tax certificate at any time after the tax certificate is issued and before a tax deed application is made. The person purchasing a county-held tax certificate shall pay to the tax collector the face amount plus all interest, costs, and charges or, subject to s. 197.472(4), the part described in the tax certificate.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">If a county-held tax certificate is purchased, the interest earned shall be calculated at 1.5 percent per month, or a fraction thereof, to the date of purchase.</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">The tax collector shall receive a fee of $6.25 for each county-held tax certificate purchased.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">This section does not apply to collections relating to fee timeshare real property made pursuant to s. 192.037.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">The tax collector may use electronic means to make known county-held tax certificates that are available for purchase and to complete the purchase. The tax collector may charge a reasonable fee for costs incurred in providing such electronic services.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">The purchaser of a county-held tax certificate shall be issued a tax certificate with a face value that includes all sums paid to acquire the certificate from the county, including accrued interest and charges paid under this section. The date the county-held certificate was issued is the date for use in determining the date on which an application for tax deed may be made. The date that the new certificate is purchased is the date for use in calculating the interest or minimum interest due if the certificate is redeemed.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 45, ch. 2011-151.</History>
+</Section>

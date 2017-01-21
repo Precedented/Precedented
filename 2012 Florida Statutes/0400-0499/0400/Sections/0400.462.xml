@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0400.462" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Definitions.</Catchline>
+	<SectionBody>
+		<Text xml:space="preserve" Style="Intro">As used in this part, the term:</Text>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">“Administrator” means a direct employee, as defined in subsection (9), who is a licensed physician, physician assistant, or registered nurse licensed to practice in this state or an individual having at least 1 year of supervisory or administrative experience in home health care or in a facility licensed under chapter 395, under part II of this chapter, or under part I of chapter 429.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">“Admission” means a decision by the home health agency, during or after an evaluation visit to the patient’s home, that there is reasonable expectation that the patient’s medical, nursing, and social needs for skilled care can be adequately met by the agency in the patient’s place of residence. Admission includes completion of an agreement with the patient or the patient’s legal representative to provide home health services as required in s. 400.487(1).</Text>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">“Advanced registered nurse practitioner” means a person licensed in this state to practice professional nursing and certified in advanced or specialized nursing practice, as defined in s. 464.003.</Text>
+		</Subsection>
+		<Subsection Id="4">
+			<Text xml:space="preserve" Style="Intro">“Agency” means the Agency for Health Care Administration.</Text>
+		</Subsection>
+		<Subsection Id="5">
+			<Text xml:space="preserve" Style="Intro">“Certified nursing assistant” means any person who has been issued a certificate under part II of chapter 464.</Text>
+		</Subsection>
+		<Subsection Id="6">
+			<Text xml:space="preserve" Style="Intro">“Client” means an elderly, handicapped, or convalescent individual who receives companion services or homemaker services in the individual’s home or place of residence.</Text>
+		</Subsection>
+		<Subsection Id="7">
+			<Text xml:space="preserve" Style="Intro">“Companion” or “sitter” means a person who spends time with or cares for an elderly, handicapped, or convalescent individual and accompanies such individual on trips and outings and may prepare and serve meals to such individual. A companion may not provide hands-on personal care to a client.</Text>
+		</Subsection>
+		<Subsection Id="8">
+			<Text xml:space="preserve" Style="Intro">“Department” means the Department of Children and Family Services.</Text>
+		</Subsection>
+		<Subsection Id="9">
+			<Text xml:space="preserve" Style="Intro">“Direct employee” means an employee for whom one of the following entities pays withholding taxes: a home health agency; a management company that has a contract to manage the home health agency on a day-to-day basis; or an employee leasing company that has a contract with the home health agency to handle the payroll and payroll taxes for the home health agency.</Text>
+		</Subsection>
+		<Subsection Id="10">
+			<Text xml:space="preserve" Style="Intro">“Director of nursing” means a registered nurse who is a direct employee, as defined in subsection (9), of the agency and who is a graduate of an approved school of nursing and is licensed in this state; who has at least 1 year of supervisory experience as a registered nurse; and who is responsible for overseeing the professional nursing and home health aid delivery of services of the agency.</Text>
+		</Subsection>
+		<Subsection Id="11">
+			<Text xml:space="preserve" Style="Intro">“Fair market value” means the value in arms length transactions, consistent with the price that an asset would bring as the result of bona fide bargaining between well-informed buyers and sellers who are not otherwise in a position to generate business for the other party, or the compensation that would be included in a service agreement as the result of bona fide bargaining between well-informed parties to the agreement who are not otherwise in a position to generate business for the other party, on the date of acquisition of the asset or at the time of the service agreement.</Text>
+		</Subsection>
+		<Subsection Id="12">
+			<Text xml:space="preserve" Style="Intro">“Home health agency” means an organization that provides home health services and staffing services.</Text>
+		</Subsection>
+		<Subsection Id="13">
+			<Text xml:space="preserve" Style="Intro">“Home health agency personnel” means persons who are employed by or under contract with a home health agency and enter the home or place of residence of patients at any time in the course of their employment or contract.</Text>
+		</Subsection>
+		<Subsection Id="14">
+			<Text xml:space="preserve" Style="Intro">“Home health services” means health and medical services and medical supplies furnished by an organization to an individual in the individual’s home or place of residence. The term includes organizations that provide one or more of the following:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Nursing care.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Physical, occupational, respiratory, or speech therapy.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Home health aide services.</Text>
+			</Paragraph>
+			<Paragraph Id="d">
+				<Text xml:space="preserve" Style="Intro">Dietetics and nutrition practice and nutrition counseling.</Text>
+			</Paragraph>
+			<Paragraph Id="e">
+				<Text xml:space="preserve" Style="Intro">Medical supplies, restricted to drugs and biologicals prescribed by a physician.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="15">
+			<Text xml:space="preserve" Style="Intro">“Home health aide” means a person who is trained or qualified, as provided by rule, and who provides hands-on personal care, performs simple procedures as an extension of therapy or nursing services, assists in ambulation or exercises, or assists in administering medications as permitted in rule and for which the person has received training established by the agency under s. 400.497(1).</Text>
+		</Subsection>
+		<Subsection Id="16">
+			<Text xml:space="preserve" Style="Intro">“Homemaker” means a person who performs household chores that include housekeeping, meal planning and preparation, shopping assistance, and routine household activities for an elderly, handicapped, or convalescent individual. A homemaker may not provide hands-on personal care to a client.</Text>
+		</Subsection>
+		<Subsection Id="17">
+			<Text xml:space="preserve" Style="Intro">“Home infusion therapy provider” means an organization that employs, contracts with, or refers a licensed professional who has received advanced training and experience in intravenous infusion therapy and who administers infusion therapy to a patient in the patient’s home or place of residence.</Text>
+		</Subsection>
+		<Subsection Id="18">
+			<Text xml:space="preserve" Style="Intro">“Home infusion therapy” means the administration of intravenous pharmacological or nutritional products to a patient in his or her home.</Text>
+		</Subsection>
+		<Subsection Id="19">
+			<Text xml:space="preserve" Style="Intro">“Immediate family member” means a husband or wife; a birth or adoptive parent, child, or sibling; a stepparent, stepchild, stepbrother, or stepsister; a father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law; a grandparent or grandchild; or a spouse of a grandparent or grandchild.</Text>
+		</Subsection>
+		<Subsection Id="20">
+			<Text xml:space="preserve" Style="Intro">“Medical director” means a physician who is a volunteer with, or who receives remuneration from, a home health agency.</Text>
+		</Subsection>
+		<Subsection Id="21">
+			<Text xml:space="preserve" Style="Intro">“Nurse registry” means any person that procures, offers, promises, or attempts to secure health-care-related contracts for registered nurses, licensed practical nurses, certified nursing assistants, home health aides, companions, or homemakers, who are compensated by fees as independent contractors, including, but not limited to, contracts for the provision of services to patients and contracts to provide private duty or staffing services to health care facilities licensed under chapter 395, this chapter, or chapter 429 or other business entities.</Text>
+		</Subsection>
+		<Subsection Id="22">
+			<Text xml:space="preserve" Style="Intro">“Organization” means a corporation, government or governmental subdivision or agency, partnership or association, or any other legal or commercial entity, any of which involve more than one health care professional discipline; a health care professional and a home health aide or certified nursing assistant; more than one home health aide; more than one certified nursing assistant; or a home health aide and a certified nursing assistant. The term does not include an entity that provides services using only volunteers or only individuals related by blood or marriage to the patient or client.</Text>
+		</Subsection>
+		<Subsection Id="23">
+			<Text xml:space="preserve" Style="Intro">“Patient” means any person who receives home health services in his or her home or place of residence.</Text>
+		</Subsection>
+		<Subsection Id="24">
+			<Text xml:space="preserve" Style="Intro">“Personal care” means assistance to a patient in the activities of daily living, such as dressing, bathing, eating, or personal hygiene, and assistance in physical transfer, ambulation, and in administering medications as permitted by rule.</Text>
+		</Subsection>
+		<Subsection Id="25">
+			<Text xml:space="preserve" Style="Intro">“Physician” means a person licensed under chapter 458, chapter 459, chapter 460, or chapter 461.</Text>
+		</Subsection>
+		<Subsection Id="26">
+			<Text xml:space="preserve" Style="Intro">“Physician assistant” means a person who is a graduate of an approved program or its equivalent, or meets standards approved by the boards, and is licensed to perform medical services delegated by the supervising physician, as defined in s. 458.347 or s. 459.022.</Text>
+		</Subsection>
+		<Subsection Id="27">
+			<Text xml:space="preserve" Style="Intro">“Remuneration” means any payment or other benefit made directly or indirectly, overtly or covertly, in cash or in kind. However, if the term is used in any provision of law relating to health care providers, the term does not apply to an item that has an individual value of up to $15, including, but not limited to, a plaque, a certificate, a trophy, or a novelty item that is intended solely for presentation or is customarily given away solely for promotional, recognition, or advertising purposes.</Text>
+		</Subsection>
+		<Subsection Id="28">
+			<Text xml:space="preserve" Style="Intro">“Skilled care” means nursing services or therapeutic services required by law to be delivered by a health care professional who is licensed under part I of chapter 464; part I, part III, or part V of chapter 468; or chapter 486 and who is employed by or under contract with a licensed home health agency or is referred by a licensed nurse registry.</Text>
+		</Subsection>
+		<Subsection Id="29">
+			<Text xml:space="preserve" Style="Intro">“Staffing services” means services provided to a health care facility, school, or other business entity on a temporary or school-year basis pursuant to a written contract by licensed health care personnel and by certified nursing assistants and home health aides who are employed by, or work under the auspices of, a licensed home health agency or who are registered with a licensed nurse registry.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 38, ch. 75-233; s. 2, ch. 81-318; ss. 62, 79, 83, ch. 83-181; s. 12, ch. 85-167; s. 1, ch. 87-123; s. 2, ch. 88-219; s. 1, ch. 88-323; s. 1, ch. 90-101; s. 31, ch. 90-306; s. 2, ch. 90-319; s. 25, ch. 91-57; s. 28, ch. 91-263; ss. 2, 23, ch. 93-214; s. 781, ch. 95-148; s. 56, ch. 95-228; s. 126, ch. 99-8; s. 1, ch. 99-332; ss. 102, 156, ch. 2000-318; s. 77, ch. 2000-349; s. 2, ch. 2005-243; s. 60, ch. 2006-197; s. 1, ch. 2008-246; s. 41, ch. 2012-160.</History>
+</Section>

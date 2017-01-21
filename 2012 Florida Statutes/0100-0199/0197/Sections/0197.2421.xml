@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Section Number="0197.2421" xmlns="http://StatRev.xsd">
+	<Catchline xml:space="preserve">Property tax deferral.</Catchline>
+	<SectionBody>
+		<Subsection Id="1">
+			<Text xml:space="preserve" Style="Intro">If a property owner applies for a property tax deferral and meets the criteria established in this chapter, the tax collector shall approve the deferral of the ad valorem taxes and non-ad valorem assessments.</Text>
+		</Subsection>
+		<Subsection Id="2">
+			<Text xml:space="preserve" Style="Intro">Authorized property tax deferral programs are:</Text>
+			<Paragraph Id="a">
+				<Text xml:space="preserve" Style="Intro">Homestead tax deferral.</Text>
+			</Paragraph>
+			<Paragraph Id="b">
+				<Text xml:space="preserve" Style="Intro">Recreational and commercial working waterfront deferral.</Text>
+			</Paragraph>
+			<Paragraph Id="c">
+				<Text xml:space="preserve" Style="Intro">Affordable rental housing deferral.</Text>
+			</Paragraph>
+		</Subsection>
+		<Subsection Id="3">
+			<Text xml:space="preserve" Style="Intro">Ad valorem taxes, non-ad valorem assessments, and interest deferred pursuant to this chapter constitute a priority lien and attach to the property in the same manner as other tax liens. Deferred taxes, assessments, and interest, however, are due, payable, and delinquent as provided in this chapter.</Text>
+		</Subsection>
+	</SectionBody>
+	<History xml:space="preserve">s. 11, ch. 2011-151.</History>
+</Section>
