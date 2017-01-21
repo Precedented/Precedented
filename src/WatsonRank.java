@@ -13,11 +13,12 @@ import org.apache.http.auth.*;
 public class WatsonRank {
     //<declration>
     public static final String SOLR_CLUSTER_ID = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
+    public static final String RANKER_ID = "76643bx23-rank-3206";
     public static final String USERNAME = "64e80095-84de-4d28-9e7d-4f92f0c881d2";
     public static final String PASSWORD = "VcUAcwnPzwvp";
     public static String configName = "example_config";
     public static String collectionName = "example_collection";
-    public static String rankerName = "ranker1";
+    public static String rankerName = "example_ranker";
     private static RetrieveAndRank service = new RetrieveAndRank();
     private static HttpSolrClient solrClient;
 //</declration>
