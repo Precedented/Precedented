@@ -11,4 +11,6 @@
 *.bluej
 *.pkh
 
-
+#Other
+*.csv
+*.txt
