@@ -4,13 +4,9 @@ import java.net.URI;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.*;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
 import java.io.*;
+
 import org.apache.solr.client.solrj.impl.*;
-import org.apache.http.client.*;
-import org.apache.http.impl.client.*;
-import org.apache.http.auth.*;
-import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.solr.common.*;
-import org.apache.http.client.config.*;
 import org.apache.solr.client.solrj.request.*;
 import org.apache.solr.client.solrj.response.*;
 import org.apache.solr.client.solrj.*;
@@ -35,29 +31,29 @@ public class WatsonRank {
         service.setUsernameAndPassword(USERNAME, PASSWORD);
     }
 
-    private static HttpSolrClient getSolrClient(String uri, String username, String password) {
-        return new HttpSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), createHttpClient(uri, username, password));
-    }
+  private static HttpSolrClient getSolrClient(String uri, String username, String password) {
+    return new HttpSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), createHttpClient(uri, username, password));
+}
 
     private static HttpClient createHttpClient(String uri, String username, String password) {
-        final URI scopeUri = URI.create(uri);
+    final URI scopeUri = URI.create(uri);
 
-        final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-        credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
-                new UsernamePasswordCredentials(USERNAME, PASSWORD));
+    final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
+    credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
+        new UsernamePasswordCredentials("{username}", "{password}"));
 
-        final HttpClientBuilder builder = HttpClientBuilder.create()
-                .setMaxConnTotal(128)
-                .setMaxConnPerRoute(32)
-                .setDefaultRequestConfig(RequestConfig.copy(RequestConfig.DEFAULT).setRedirectsEnabled(true).build())
-                .setDefaultCredentialsProvider(credentialsProvider)
-                .addInterceptorFirst(new PreemptiveAuthInterceptor());
-        return builder.build();
-    }
+    final HttpClientBuilder builder = HttpClientBuilder.create()
+        .setMaxConnTotal(128)
+        .setMaxConnPerRoute(32)
+        .setDefaultRequestConfig(RequestConfig.copy(RequestConfig.DEFAULT).setRedirectsEnabled(true).build())
+        .setDefaultCredentialsProvider(credentialsProvider)
+        .addInterceptorFirst(new PreemptiveAuthInterceptor());
+    return builder.build();
+}
 //</construction>
-
+/*
     //<create>
-    public void createCollection() {
+   public void createCollection() {
         CollectionAdminRequest.Create createCollectionRequest = new CollectionAdminRequest.Create();
         createCollectionRequest.setCollectionName("example_collection");
         createCollectionRequest.setConfigName("example_config");
@@ -75,17 +71,17 @@ public class WatsonRank {
     public void createRanker() {
         Ranker ranker = service.createRanker("ranker1", new File("./training_data.csv"));
         System.out.println(ranker);
-    }
+    } */
 //</create>
 
 
     //<upload>
-    public boolean uploadConfig(String filePath, String newConfigName) {
+    public void uploadConfig(String filePath, String newConfigName) {
         File configZip = new File(filePath);
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public boolean uploadData(String title, String author, String body, String url, int n) {
+  /*  public void uploadData(String title, String author, String body, String url, int n) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("id", n);
         newdoc.addField("author", author);
@@ -100,25 +96,22 @@ public class WatsonRank {
         // Commit the document to the index so that it will be available for searching.
         solrClient.commit(collectionName);
         System.out.println("Indexed and committed document.");
-    }
+    } */
 //</upload>
 
     //<functions>
-    public QueryResponse queryWatson(String question) {
+  /*  public QueryResponse queryWatson(String question) {
         service = new RetrieveAndRank();
         service.setUsernameAndPassword(USERNAME, PASSWORD);
         solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
         SolrQuery query = new SolrQuery("*:*");
         QueryResponse response = solrClient.query("example_collection", question);
         System.out.println(response);
-    }
+    }*/
 //</functions>
 
 
     //<gets>
-    public void getClusters() {
-        System.out.println(service.getSolrClusters());
-    }
 
     public void getConfigs() {
         System.out.println(service.getSolrClusterConfigurations(SOLR_CLUSTER_ID));
