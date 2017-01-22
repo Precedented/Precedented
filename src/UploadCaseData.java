@@ -32,16 +32,23 @@ import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
 import java.util.ArrayList;
 import java.util.HashSet;
+import org.apache.commons.io.input.*;
 
 public class UploadCaseData {
     private static final String ALL_CASES_FILE = "all.csv";
+    private static String collectionName = "example_collection";
+    private static HttpSolrClient solrClient;
+
+
     public static void main (String[] args) {
         ArrayList<String> allCaseHTML = getAllCases();
-        for (String s : allCaseHTML) {
+        System.out.println(allCaseHTML);
+
+        /*for (String s : allCaseHTML) {
             uploadData(s);
-        }
+        }*/
     }
-    private static void uploadData(String body) {
+    private static void uploadData(String body, ) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("body", body);
 
@@ -65,7 +72,19 @@ public class UploadCaseData {
 
     private static ArrayList<String> getAllCases() {
         ArrayList<String> allCases = new ArrayList<>();
-        String allCasesJson = curl("https://courtlistener.com/api/rest/v3/opinions");
+        String allCasesJson = null;
+        try {
+            System.out.println("hey bro");
+            BufferedReader br = new BufferedReader(new FileReader("AllCases.txt"));
+            allCasesJson = br.readLine();
+            br.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("Made it");
+
+        //String allCasesJson = curl("https://courtlistener.com/api/rest/v3/opinions", true);
+        //System.out.println("here");
         //html_lawbox --> length 11
         //</div> --> length 6
 
@@ -103,19 +122,36 @@ public class UploadCaseData {
         }
         return output;
     }
-    private static String curl(String request) {
-        String output = "";
-        try {
-            Process p = Runtime.getRuntime().exec("curl " + request);
-            p.waitFor();
-            BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));
-            String line = null;
-            while ((line = br.readLine()) != null) {
-                output += line + "\n";
+    /*private static String curl(String request, boolean timed) {
+        if (!timed) {
+            String output = "";
+            try {
+                Process p = Runtime.getRuntime().exec("curl " + request);
+                p.waitFor();
+                InputStreamReader r = new InputStreamReader(p.getInputStream());
+                String line = null;
+                while ((line = r.readLine()) != null) {
+                    output += line + "\n";
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
             }
-        } catch (Exception e) {
-            e.printStackTrace();
+            return output;
+        } else {
+            String output = "";
+            try {
+                Process p = Runtime.getRuntime().exec("curl " + request);
+                p.waitFor();
+                long startTime = System.currentTimeMillis();
+                BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));
+                String line = null;
+                while ((line = br.readLine()) != null && (System.currentTimeMillis() - startTime) < 10000) {
+                    output += line + "\n";
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            return output;
         }
-        return output;
-    }
+    }*/
 }
