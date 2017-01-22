@@ -58,8 +58,6 @@ public class WatsonRank {
 
         final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
         credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
-            new UsernamePasswordCredentials("{username}", "{password}"));
-
         final HttpClientBuilder builder = HttpClientBuilder.create()
             .setMaxConnTotal(128)
             .setMaxConnPerRoute(32)
@@ -107,7 +105,7 @@ public class WatsonRank {
 		SolrQuery query = new SolrQuery(question);
 		query.setParam("ranker_id", RANKER_ID);
 		query.setRequestHandler("/fcselect"); // use if your solrconfig.xml file does not specify fcselect as the default request handler
-		QueryResponse response = solrClient.query("example_collection", query);
+		QueryResponse response = solrClient.query(collectionName, query);
         return response;
     }
     //</functions>
