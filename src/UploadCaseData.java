@@ -41,35 +41,78 @@ public class UploadCaseData {
 
 
     public static void main (String[] args) {
-        ArrayList<ArrayList<String>> allCaseData = getAllCases();
-        System.out.println(allCaseData);
+        //ArrayList<ArrayList<String>> allCaseData = getAllCases();
+        //System.out.println(allCaseData);
 
-        /*for (String s : allCaseHTML) {
-            uploadData(s);
-        }*/
-    }
-    private static void uploadData(String body, String url) {
-        SolrInputDocument newdoc = new SolrInputDocument();
-        newdoc.addField("body", body);
-        newdoc.addField("url", url);
-
+        String allCasesJson = null;
         try {
-            System.out.println("Indexing document...");
-            UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
-            System.out.println(addResponse);
+            BufferedReader br = new BufferedReader(new FileReader("AllCases.txt"));
+            allCasesJson = br.readLine();
+            br.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
+        System.out.println("Made it");
 
-        // Commit the document to the index so that it will be available for searching.
-        try {
-            solrClient.commit(collectionName);
-        } catch (Exception e) {
-            e.printStackTrace();
+        //String allCasesJson = curl("https://courtlistener.com/api/rest/v3/opinions", true);
+        //System.out.println("here");
+        //html_lawbox --> length 11
+        //</div> --> length 6
+        String [] bodies = new String [4000000];
+        String [] urls = new String [4000000];
+
+        int caseCount = 0;
+        for (int i = 0; i < allCasesJson.length() - 11; i++) {
+            if (allCasesJson.substring(i, i+11).equals("html_lawbox")) {
+                String nextCase = "";
+                int closeIndex;
+                for (int j = i + 12; ; j++) {
+                    String sub = allCasesJson.substring(j, j + 6);
+                    nextCase += sub.substring(0, 1);
+                    if (sub.equals("</div>")) {
+                        closeIndex = j + 5;
+                        break;
+                    }
+                }
+                i = closeIndex + 1;
+                bodies[caseCount]=nextCase;
+                caseCount++;
+            }
         }
 
-        System.out.println("Indexed and committed document.");
+        System.out.println(caseCount);
+
+        //absolute_url --> 12 chars
+
+        int t = 0;
+        caseCount = 0;
+
+        for (int i = 0; i < allCasesJson.length() - 12; i++) {
+            if (allCasesJson.substring(i, i+12).equals("absolute_url")) {
+                String nextURL = "";
+                int closeIndex = -1;
+                for (int j = i + 12 + 3; j>0; j++) {
+                    String sub = allCasesJson.substring(j, j+1);
+                    if (sub.equals("\"")) {
+                        closeIndex = j;
+                        break;
+                    }
+                    nextURL += sub;
+                }
+                i = closeIndex + 1;
+                urls[caseCount]=nextURL;
+                caseCount++;
+                t++;
+            }
+        }
+
+        WatsonRank uploader = new WatsonRank();
+
+        for (int i = 0; i < 100; i++) {
+            uploader.uploadData(bodies[i], urls[i]);
+        }
     }
+
 
     private static ArrayList<ArrayList<String>> getAllCases() {
         ArrayList<ArrayList<String>> allCases = new ArrayList<ArrayList<String>>();
@@ -133,7 +176,7 @@ public class UploadCaseData {
 
         return allCases;
     }
-    private static String getCaseName(int caseId) {
+    /*private static String getCaseName(int caseId) {
         String output = "";
         try {
             Process p = Runtime.getRuntime().exec("curl https://www.courtlistener.com/api/rest/v3/dockets/?id=" + caseId);

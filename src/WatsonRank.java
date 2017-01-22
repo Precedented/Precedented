@@ -6,13 +6,13 @@ import org.apache.http.HttpException;
 import org.apache.http.HttpRequestInterceptor;
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.AuthState;
-import org.apache.http.auth.Credentials;
 import org.apache.http.auth.UsernamePasswordCredentials;
 import org.apache.http.client.CredentialsProvider;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.protocol.HttpClientContext;
 import org.apache.http.impl.auth.BasicScheme;
+import org.apache.http.auth.Credentials;
 import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.protocol.HttpContext;
@@ -27,7 +27,6 @@ import org.apache.solr.client.solrj.response.UpdateResponse;
 import org.apache.solr.common.SolrInputDocument;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
-
 public class WatsonRank {
     //<declaration>
     public static final String SOLR_CLUSTER_ID = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
@@ -71,9 +70,10 @@ public class WatsonRank {
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public void uploadData(String body) {
+    public void uploadData(String body, String url) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("body", body);
+        newdoc.addField("title", url);
 
         try {
             System.out.println("Indexing document...");
