@@ -76,13 +76,10 @@ public class WatsonRank {
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public void uploadData(String title, String author, String body, String url, int n) {
+    public void uploadData(String body, int idNum) {
         SolrInputDocument newdoc = new SolrInputDocument();
-        newdoc.addField("id", n);
-        newdoc.addField("author", author);
-        newdoc.addField("url", url);
+        newdoc.addField("id", idNum);
         newdoc.addField("body", body);
-        newdoc.addField("title", title);
 
         try {
 
@@ -108,7 +105,7 @@ public class WatsonRank {
     public QueryResponse queryWatson(String question) {
  		solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
 		SolrQuery query = new SolrQuery(question);
-		query.setParam("ranker_id", "B2E325-rank-67");
+		query.setParam("ranker_id", RANKER_ID);
 		query.setRequestHandler("/fcselect"); // use if your solrconfig.xml file does not specify fcselect as the default request handler
 		QueryResponse response = solrClient.query("example_collection", query);
         return response;
