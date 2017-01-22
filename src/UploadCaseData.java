@@ -37,7 +37,6 @@ import org.apache.commons.io.input.*;
 public class UploadCaseData {
     private static final String ALL_CASES_FILE = "all.csv";
     private static String collectionName = "example_collection";
-    private static HttpSolrClient solrClient;
 
 
     public static void main (String[] args) {
