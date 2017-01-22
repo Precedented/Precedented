@@ -102,23 +102,18 @@ public class WatsonRank {
 
         System.out.println("Indexed and committed document.");
     }
-//</upload>
+	//</upload>
 
     //<functions>
     public QueryResponse queryWatson(String question) {
-        service = new RetrieveAndRank();
-        service.setUsernameAndPassword(USERNAME, PASSWORD);
-        solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
-        SolrQuery query = new SolrQuery("*:*");
-        QueryResponse response = null;
-        try {
-            response = solrClient.query("example_collection", query);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
+ 		solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
+		SolrQuery query = new SolrQuery(question);
+		query.setParam("ranker_id", "B2E325-rank-67");
+		query.setRequestHandler("/fcselect"); // use if your solrconfig.xml file does not specify fcselect as the default request handler
+		QueryResponse response = solrClient.query("example_collection", query);
         return response;
     }
+    //</functions>
 
     //<gets>
     public void getConfigs() {
