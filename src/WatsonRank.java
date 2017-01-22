@@ -31,7 +31,6 @@ import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
 
 
-
 public class WatsonRank {
     //<declaration>
     public static final String SOLR_CLUSTER_ID = "sce46d929b_1d1e_4bd3_bf60_8472e75cb73a";
@@ -43,8 +42,7 @@ public class WatsonRank {
     public static String rankerName = "example_ranker";
     private static RetrieveAndRank service = new RetrieveAndRank();
     private static HttpSolrClient solrClient;
-//</declration>
-
+    //</declration>
 
     //<construction>
     public WatsonRank() {
@@ -60,46 +58,17 @@ public class WatsonRank {
 
         final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
         credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
-                new UsernamePasswordCredentials(USERNAME, PASSWORD));
+            new UsernamePasswordCredentials("{username}", "{password}"));
 
         final HttpClientBuilder builder = HttpClientBuilder.create()
-                .setMaxConnTotal(128)
-                .setMaxConnPerRoute(32)
-                .setDefaultRequestConfig(RequestConfig.copy(RequestConfig.DEFAULT).setRedirectsEnabled(true).build())
-                .setDefaultCredentialsProvider(credentialsProvider)
-                .addInterceptorFirst(new PreemptiveAuthInterceptor());
+            .setMaxConnTotal(128)
+            .setMaxConnPerRoute(32)
+            .setDefaultRequestConfig(RequestConfig.copy(RequestConfig.DEFAULT).setRedirectsEnabled(true).build())
+            .setDefaultCredentialsProvider(credentialsProvider)
+            .addInterceptorFirst(new PreemptiveAuthInterceptor());
         return builder.build();
     }
-//</construction>
-
-    //<create>
-    public void createCollection() {
-        CollectionAdminRequest.Create createCollectionRequest = new CollectionAdminRequest.Create();
-        createCollectionRequest.setCollectionName("example_collection");
-        createCollectionRequest.setConfigName("example_config");
-
-        System.out.println("Creating collection...");
-        CollectionAdminResponse response = null;
-
-        try {
-            response = createCollectionRequest.process(solrClient);
-            if (!response.isSuccess()) {
-                System.out.println(response.getErrorMessages());
-                throw new IllegalStateException("Failed to create collection: " + response.getErrorMessages().toString());
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        System.out.println("Collection created.");
-        System.out.println(response);
-    }
-
-    public void createRanker() {
-        Ranker ranker = (Ranker) service.createRanker("ranker1", new File("./training_data.csv"));
-        System.out.println(ranker);
-    }
-//</create>
-
+    //</construction>
 
     //<upload>
     public void uploadConfig(String filePath, String newConfigName) {
@@ -150,18 +119,12 @@ public class WatsonRank {
 
         return response;
     }
-//</functions>
-
 
     //<gets>
-    public void getClusters() {
-        System.out.println(service.getSolrClusters());
-    }
-
     public void getConfigs() {
         System.out.println(service.getSolrClusterConfigurations(SOLR_CLUSTER_ID));
     }
-//</gets>
+    //</gets>
 
     public static String curl(String request) {
         String output = "";
