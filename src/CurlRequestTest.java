@@ -7,14 +7,16 @@ import com.google.gson.JsonObject;
 
 public class CurlRequestTest {
 	public static void main(String[] args) {
-		String result = curl("https://www.courtlistener.com/api/rest/v3/dockets/?court__id=scotus");
-		//System.out.println(result);
+		String result = curl("https://www.courtlistener.com/api/rest/v3/opinions/");
+		System.out.println(result);
 		JsonObject obj = strToJsonObj(result);
 		System.out.println(obj);
 		Set<Map.Entry<String, JsonElement>> entries = jsonObjToSet(obj);
 		for (Map.Entry<String, JsonElement> entry : entries) {
 			System.out.println(entry.getKey() + ": " + entry.getValue());
 		}
+
+
 		//Map.Entry<String, JsonElement> caseArray = entries.
 	}
 	public static JsonObject strToJsonObj(String s) {

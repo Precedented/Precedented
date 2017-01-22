@@ -1,6 +1,5 @@
 import java.io.*;
 import java.net.URI;
-
 import org.apache.http.HttpHost;
 import org.apache.http.HttpRequest;
 import org.apache.http.HttpException;
@@ -26,10 +25,8 @@ import org.apache.solr.client.solrj.response.CollectionAdminResponse;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.client.solrj.response.UpdateResponse;
 import org.apache.solr.common.SolrInputDocument;
-
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
-
 
 public class WatsonRank {
     //<declaration>
@@ -42,7 +39,7 @@ public class WatsonRank {
     public static String rankerName = "example_ranker";
     private static RetrieveAndRank service = new RetrieveAndRank();
     private static HttpSolrClient solrClient;
-    //</declration>
+    //</declaration>
 
     //<construction>
     public WatsonRank() {
@@ -57,7 +54,7 @@ public class WatsonRank {
         final URI scopeUri = URI.create(uri);
 
         final BasicCredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-        credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()),
+        credentialsProvider.setCredentials(new AuthScope(scopeUri.getHost(), scopeUri.getPort()), new UsernamePasswordCredentials(USERNAME, PASSWORD));
         final HttpClientBuilder builder = HttpClientBuilder.create()
             .setMaxConnTotal(128)
             .setMaxConnPerRoute(32)
@@ -74,14 +71,11 @@ public class WatsonRank {
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public void uploadData(String body, String title, int idNum) {
+    public void uploadData(String body) {
         SolrInputDocument newdoc = new SolrInputDocument();
-        newdoc.addField("id", idNum);
         newdoc.addField("body", body);
-        newdoc.addField("title", title);
 
         try {
-
             System.out.println("Indexing document...");
             UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
             System.out.println(addResponse);
@@ -106,7 +100,12 @@ public class WatsonRank {
 		SolrQuery query = new SolrQuery(question);
 		query.setParam("ranker_id", RANKER_ID);
 		query.setRequestHandler("/fcselect"); // use if your solrconfig.xml file does not specify fcselect as the default request handler
-		QueryResponse response = solrClient.query(collectionName, query);
+        QueryResponse response = null;
+        try {
+            response = solrClient.query("example_collection", query);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         return response;
     }
     //</functions>
