@@ -95,7 +95,7 @@ public class WatsonRank {
 	//</upload>
 
     //<functions>
-    public QueryResponse queryWatson(String question) {
+    public static QueryResponse queryWatson(String question) {
  		solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
 		SolrQuery query = new SolrQuery(question);
 		query.setParam("ranker_id", RANKER_ID);

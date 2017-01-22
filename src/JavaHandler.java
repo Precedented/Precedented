@@ -1,4 +1,4 @@
-/*import java.io.*;
+import java.io.*;
 import java.net.URI;
 import org.apache.http.HttpHost;
 import org.apache.http.HttpRequest;
@@ -40,4 +40,3 @@ public void Search(String question){
 }
 	
 }
-*/
