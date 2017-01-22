@@ -41,16 +41,17 @@ public class UploadCaseData {
 
 
     public static void main (String[] args) {
-        ArrayList<String> allCaseHTML = getAllCases();
-        System.out.println(allCaseHTML);
+        ArrayList<ArrayList<String>> allCaseData = getAllCases();
+        System.out.println(allCaseData);
 
         /*for (String s : allCaseHTML) {
             uploadData(s);
         }*/
     }
-    private static void uploadData(String body, ) {
+    private static void uploadData(String body, String url) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("body", body);
+        newdoc.addField("url", url);
 
         try {
             System.out.println("Indexing document...");
@@ -70,11 +71,10 @@ public class UploadCaseData {
         System.out.println("Indexed and committed document.");
     }
 
-    private static ArrayList<String> getAllCases() {
-        ArrayList<String> allCases = new ArrayList<>();
+    private static ArrayList<ArrayList<String>> getAllCases() {
+        ArrayList<ArrayList<String>> allCases = new ArrayList<ArrayList<String>>();
         String allCasesJson = null;
         try {
-            System.out.println("hey bro");
             BufferedReader br = new BufferedReader(new FileReader("AllCases.txt"));
             allCasesJson = br.readLine();
             br.close();
@@ -101,7 +101,33 @@ public class UploadCaseData {
                     }
                 }
                 i = closeIndex + 1;
-                allCases.add(nextCase);
+                ArrayList<String> newPair = new ArrayList<>();
+                newPair.add(nextCase);
+                allCases.add(newPair);
+            }
+        }
+
+        System.out.println(allCases.size());
+
+        //absolute_url --> 12 chars
+
+        int t = 0;
+
+        for (int i = 0; i < allCasesJson.length() - 12; i++) {
+            if (allCasesJson.substring(i, i+12).equals("absolute_url")) {
+                String nextURL = "";
+                int closeIndex;
+                for (int j = i + 13 + 3; ; j++) {
+                    String sub = allCasesJson.substring(j, j+1);
+                    if (sub.equals("\"")) {
+                        closeIndex = j;
+                        break;
+                    }
+                    nextURL += sub;
+                }
+                i = closeIndex + 1;
+                allCases.get(t).add(nextURL);
+                t++;
             }
         }
 
