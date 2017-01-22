@@ -27,15 +27,16 @@ import org.apache.solr.client.solrj.response.UpdateResponse;
 import org.apache.solr.common.SolrInputDocument;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
-import WatsonRank;
+import java.applet.*;
 public class JavaHandler extends Applet {
 
-public String[] Search(String question){
+public void Search(String question){
 
 	WatsonRank watsonSearch = new WatsonRank();
 
 	QueryResponse response = watsonSearch.queryWatson(question);
-	
+
+	System.out.println(response.getResults());
 }
 	
 }
