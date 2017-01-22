@@ -1,19 +1,35 @@
-import java.io.File;
+import java.io.*;
 import java.net.URI;
 
-import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.*;
-import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
-import java.io.*;
-import org.apache.solr.client.solrj.impl.*;
-import org.apache.http.client.*;
-import org.apache.http.impl.client.*;
-import org.apache.http.auth.*;
+import org.apache.http.HttpHost;
+import org.apache.http.HttpRequest;
+import org.apache.http.HttpException;
+import org.apache.http.HttpRequestInterceptor;
+import org.apache.http.auth.AuthScope;
+import org.apache.http.auth.AuthState;
+import org.apache.http.auth.Credentials;
+import org.apache.http.auth.UsernamePasswordCredentials;
+import org.apache.http.client.CredentialsProvider;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.config.RequestConfig;
+import org.apache.http.client.protocol.HttpClientContext;
+import org.apache.http.impl.auth.BasicScheme;
+import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.client.HttpClientBuilder;
-import org.apache.solr.common.*;
-import org.apache.http.client.config.*;
-import org.apache.solr.client.solrj.request.*;
-import org.apache.solr.client.solrj.response.*;
-import org.apache.solr.client.solrj.*;
+import org.apache.http.protocol.HttpContext;
+import org.apache.http.protocol.HttpCoreContext;
+import org.apache.solr.client.solrj.SolrQuery;
+import org.apache.solr.client.solrj.SolrServerException;
+import org.apache.solr.client.solrj.impl.HttpSolrClient;
+import org.apache.solr.client.solrj.request.CollectionAdminRequest;
+import org.apache.solr.client.solrj.response.CollectionAdminResponse;
+import org.apache.solr.client.solrj.response.QueryResponse;
+import org.apache.solr.client.solrj.response.UpdateResponse;
+import org.apache.solr.common.SolrInputDocument;
+
+import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.RetrieveAndRank;
+import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.model.*;
+
 
 
 public class WatsonRank {
@@ -63,29 +79,35 @@ public class WatsonRank {
         createCollectionRequest.setConfigName("example_config");
 
         System.out.println("Creating collection...");
-        CollectionAdminResponse response = createCollectionRequest.process(solrClient);
-        if (!response.isSuccess()) {
-            System.out.println(response.getErrorMessages());
-            throw new IllegalStateException("Failed to create collection: " + response.getErrorMessages().toString());
+        CollectionAdminResponse response = null;
+
+        try {
+            response = createCollectionRequest.process(solrClient);
+            if (!response.isSuccess()) {
+                System.out.println(response.getErrorMessages());
+                throw new IllegalStateException("Failed to create collection: " + response.getErrorMessages().toString());
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
         System.out.println("Collection created.");
         System.out.println(response);
     }
 
     public void createRanker() {
-        Ranker ranker = service.createRanker("ranker1", new File("./training_data.csv"));
+        Ranker ranker = (Ranker) service.createRanker("ranker1", new File("./training_data.csv"));
         System.out.println(ranker);
     }
 //</create>
 
 
     //<upload>
-    public boolean uploadConfig(String filePath, String newConfigName) {
+    public void uploadConfig(String filePath, String newConfigName) {
         File configZip = new File(filePath);
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public boolean uploadData(String title, String author, String body, String url, int n) {
+    public void uploadData(String title, String author, String body, String url, int n) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("id", n);
         newdoc.addField("author", author);
@@ -93,12 +115,22 @@ public class WatsonRank {
         newdoc.addField("body", body);
         newdoc.addField("title", title);
 
-        System.out.println("Indexing document...");
-        UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
-        System.out.println(addResponse);
+        try {
+
+            System.out.println("Indexing document...");
+            UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
+            System.out.println(addResponse);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         // Commit the document to the index so that it will be available for searching.
-        solrClient.commit(collectionName);
+        try {
+            solrClient.commit(collectionName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
         System.out.println("Indexed and committed document.");
     }
 //</upload>
@@ -109,8 +141,14 @@ public class WatsonRank {
         service.setUsernameAndPassword(USERNAME, PASSWORD);
         solrClient = getSolrClient(service.getSolrUrl(SOLR_CLUSTER_ID), USERNAME, PASSWORD);
         SolrQuery query = new SolrQuery("*:*");
-        QueryResponse response = solrClient.query("example_collection", question);
-        System.out.println(response);
+        QueryResponse response = null;
+        try {
+            response = solrClient.query("example_collection", query);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return response;
     }
 //</functions>
 
@@ -139,5 +177,23 @@ public class WatsonRank {
             e.printStackTrace();
         }
         return output;
+    }
+
+    private static class PreemptiveAuthInterceptor implements HttpRequestInterceptor {
+        public void process(final HttpRequest request, final HttpContext context) throws HttpException {
+            final AuthState authState = (AuthState) context.getAttribute(HttpClientContext.TARGET_AUTH_STATE);
+
+            if (authState.getAuthScheme() == null) {
+                final CredentialsProvider credsProvider = (CredentialsProvider) context
+                        .getAttribute(HttpClientContext.CREDS_PROVIDER);
+                final HttpHost targetHost = (HttpHost) context.getAttribute(HttpCoreContext.HTTP_TARGET_HOST);
+                final Credentials creds = credsProvider.getCredentials(new AuthScope(targetHost.getHostName(),
+                        targetHost.getPort()));
+                if (creds == null) {
+                    throw new HttpException("No creds provided for preemptive auth.");
+                }
+                authState.update(new BasicScheme(), creds);
+            }
+        }
     }
 }
