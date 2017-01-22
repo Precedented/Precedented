@@ -74,10 +74,11 @@ public class WatsonRank {
         service.uploadSolrClusterConfigurationZip(SOLR_CLUSTER_ID, newConfigName, configZip);
     }
 
-    public void uploadData(String body, int idNum) {
+    public void uploadData(String body, String title, int idNum) {
         SolrInputDocument newdoc = new SolrInputDocument();
         newdoc.addField("id", idNum);
         newdoc.addField("body", body);
+        newdoc.addField("title", title);
 
         try {
 
