@@ -36,13 +36,57 @@ import java.util.HashSet;
 public class UploadCaseData {
     private static final String ALL_CASES_FILE = "all.csv";
     public static void main (String[] args) {
-
+        ArrayList<String> allCaseHTML = getAllCases();
+        for (String s : allCaseHTML) {
+            uploadData(s);
+        }
     }
-    private static ArrayList<String> getAllCases() {
-        String allCasesJson = curl("https://courtlistener.com/api/rest/v3/opinions");
-        
+    private static void uploadData(String body) {
+        SolrInputDocument newdoc = new SolrInputDocument();
+        newdoc.addField("body", body);
 
-        return null;
+        try {
+            System.out.println("Indexing document...");
+            UpdateResponse addResponse = solrClient.add(collectionName, newdoc);
+            System.out.println(addResponse);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        // Commit the document to the index so that it will be available for searching.
+        try {
+            solrClient.commit(collectionName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("Indexed and committed document.");
+    }
+
+    private static ArrayList<String> getAllCases() {
+        ArrayList<String> allCases = new ArrayList<>();
+        String allCasesJson = curl("https://courtlistener.com/api/rest/v3/opinions");
+        //html_lawbox --> length 11
+        //</div> --> length 6
+
+        for (int i = 0; i < allCasesJson.length() - 11; i++) {
+            if (allCasesJson.substring(i, i+11).equals("html_lawbox")) {
+                String nextCase = "";
+                int closeIndex;
+                for (int j = i + 12; ; j++) {
+                    String sub = allCasesJson.substring(j, j + 6);
+                    nextCase += sub.substring(0, 1);
+                    if (sub.equals("</div>")) {
+                        closeIndex = j + 5;
+                        break;
+                    }
+                }
+                i = closeIndex + 1;
+                allCases.add(nextCase);
+            }
+        }
+
+        return allCases;
     }
     private static String getCaseName(int caseId) {
         String output = "";
